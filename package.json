@@ -15,9 +15,11 @@
   },
   "devDependencies": {
     "@astrojs/check": "latest",
+    "@tailwindcss/typography": "^0.5.19",
     "@tailwindcss/vite": "^4.3.0",
     "tailwindcss": "^4.3.0",
-    "typescript": "latest"
+    "typescript": "latest",
+    "yaml": "^2.9.0"
   },
   "pnpm": {
     "onlyBuiltDependencies": [

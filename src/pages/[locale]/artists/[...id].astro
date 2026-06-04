@@ -1,0 +1,65 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import SiteNav from '../../../components/SiteNav.astro';
+import SiteFooter from '../../../components/SiteFooter.astro';
+import WikiInfoBox from '../../../components/WikiInfoBox.astro';
+import TableOfContents from '../../../components/TableOfContents.astro';
+import { getLocalizedSite } from '../../../lib/homeData.mjs';
+import { buildLocaleLinks, defaultLocale, supportedLocales } from '../../../lib/i18n.mjs';
+
+export async function getStaticPaths() {
+  const artistEntries = await getCollection('artists');
+  
+  return artistEntries.map((entry) => {
+    // The entry.id looks like 'vwp/kaf/zh' or 'solo/ciel/ja'
+    // We split by '/' to separate the locale from the rest of the path
+    const parts = entry.id.split('/');
+    const entryLocale = parts.pop(); // 'zh', 'ja', 'en'
+    const idPath = parts.join('/'); // 'vwp/kaf'
+    
+    return {
+      params: { 
+        locale: entryLocale,
+        id: idPath 
+      },
+      props: { entry },
+    };
+  });
+}
+
+const { locale, id } = Astro.params;
+const { entry } = Astro.props;
+const { Content, headings } = await render(entry);
+
+const siteEntries = await getCollection('site');
+const homeContent = getLocalizedSite(siteEntries, locale as any, defaultLocale);
+const localeLinks = buildLocaleLinks(homeContent, locale as any);
+
+const alternates = supportedLocales.map((localeCode) => ({
+  locale: localeCode,
+  href: `/${localeCode}/artists/${id}`,
+}));
+---
+
+<BaseLayout lang={locale} alternates={alternates} title={`${entry.data.name} - KAMITSUBAKI WIKI`}>
+  <SiteNav navItems={homeContent.navItems} localeLinks={localeLinks} brandLines={homeContent.hero.brandLines} />
+  
+  <div class="max-w-7xl mx-auto px-6 py-12 flex flex-col lg:flex-row gap-8 items-start pt-32">
+    
+    <!-- Main Content -->
+    <main class="flex-1 w-full min-w-0">
+      <WikiInfoBox data={entry.data} />
+      
+      <article class="prose prose-invert max-w-none prose-headings:font-serif prose-headings:font-bold prose-h2:text-2xl prose-h2:border-b-2 prose-h2:border-white/10 prose-h2:pb-2 prose-h2:mt-12 prose-h2:mb-6 prose-p:text-white/80 prose-p:leading-relaxed prose-a:text-[#00ffd0] prose-a:no-underline hover:prose-a:underline prose-li:text-white/80">
+        <Content />
+      </article>
+    </main>
+
+    <!-- Sidebar ToC -->
+    <TableOfContents headings={headings} />
+    
+  </div>
+
+  <SiteFooter footer={homeContent.footer} />
+</BaseLayout>

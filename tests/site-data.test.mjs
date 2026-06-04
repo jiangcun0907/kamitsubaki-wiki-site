@@ -1,6 +1,7 @@
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
 import test from 'node:test';
+import yaml from 'yaml';
 
 import { buildArtistCategories, sortByOrder } from '../src/lib/homeData.mjs';
 
@@ -27,6 +28,12 @@ const projectFolders = new Map([
 
 async function readJson(path) {
   return JSON.parse(await readFile(new URL(path, import.meta.url), 'utf8'));
+}
+
+async function readMd(path) {
+  const content = await readFile(new URL(path, import.meta.url), 'utf8');
+  const match = content.match(/---\n([\s\S]*?)\n---/);
+  return yaml.parse(match[1]);
 }
 
 test('nav items point to the four primary page sections', async () => {
@@ -56,7 +63,7 @@ test('artist database keeps the original four categories and key entities', asyn
   const artistEntries = await Promise.all(
     artistFiles.map(async (id) => ({
       id,
-      data: await readJson(`../src/content/artists/${artistFolders.get(id)}/${id}.zh.json`),
+      data: await readMd(`../src/content/artists/${artistFolders.get(id)}/${id}/zh.md`),
     })),
   );
   const artistCategories = buildArtistCategories(artistEntries);
@@ -86,7 +93,7 @@ test('projects and log entries preserve the static page content', async () => {
     await Promise.all(
       projectFiles.map(async (id) => ({
         id,
-        data: await readJson(`../src/content/projects/${projectFolders.get(id)}/${id}.zh.json`),
+        data: await readMd(`../src/content/projects/${projectFolders.get(id)}/${id}/zh.md`),
       })),
     ),
   ).map((entry) => entry.data);
@@ -95,7 +102,7 @@ test('projects and log entries preserve the static page content', async () => {
     await Promise.all(
       logFiles.map(async (id) => ({
         id,
-        data: await readJson(`../src/content/logs/2024/${id}.zh.json`),
+        data: await readJson(`../src/content/logs/2024/${id}/zh.json`),
       })),
     ),
   ).map((entry) => entry.data);

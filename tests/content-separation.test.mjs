@@ -14,9 +14,9 @@ async function fileExists(path) {
 test('site content lives in Astro content collections', async () => {
   assert.equal(await fileExists('../src/content.config.ts'), true);
   assert.equal(await fileExists('../src/content/site/zh.json'), true);
-  assert.equal(await fileExists('../src/content/artists/vwp/kaf.zh.json'), true);
-  assert.equal(await fileExists('../src/content/projects/arg/kamitsubaki-city.zh.json'), true);
-  assert.equal(await fileExists('../src/content/logs/2024/2024-06-01-vwp-live.zh.json'), true);
+  assert.equal(await fileExists('../src/content/artists/vwp/kaf/zh.md'), true);
+  assert.equal(await fileExists('../src/content/projects/arg/kamitsubaki-city/zh.md'), true);
+  assert.equal(await fileExists('../src/content/logs/2024/2024-06-01-vwp-live/zh.json'), true);
 });
 
 test('home page no longer imports the old implementation-side data module', async () => {

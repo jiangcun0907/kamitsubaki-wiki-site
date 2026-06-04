@@ -1,0 +1,9 @@
+---
+locale: "zh"
+translationKey: "witch-exhibition"
+kind: "PROJECT_EXHIBITION"
+title: "魔女展"
+description: "追溯 V.W.P 轨迹的特别展览。收录服装、设定资料与艺术作品的实体展示记录。"
+order: 3
+---
+

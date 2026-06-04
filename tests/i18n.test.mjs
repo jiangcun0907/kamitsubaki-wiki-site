@@ -1,6 +1,7 @@
 import assert from 'node:assert/strict';
 import { access, readFile } from 'node:fs/promises';
 import test from 'node:test';
+import yaml from 'yaml';
 
 const locales = ['zh', 'ja', 'en'];
 
@@ -15,6 +16,12 @@ async function fileExists(path) {
 
 async function readJson(path) {
   return JSON.parse(await readFile(new URL(path, import.meta.url), 'utf8'));
+}
+
+async function readMd(path) {
+  const content = await readFile(new URL(path, import.meta.url), 'utf8');
+  const match = content.match(/---\n([\s\S]*?)\n---/);
+  return yaml.parse(match[1]);
 }
 
 test('site has url-based zh ja en locales with Chinese as default', async () => {
@@ -33,9 +40,9 @@ test('site has url-based zh ja en locales with Chinese as default', async () => 
 
 test('localized content exists for key records in all supported locales', async () => {
   for (const locale of locales) {
-    const artist = await readJson(`../src/content/artists/vwp/kaf.${locale}.json`);
-    const project = await readJson(`../src/content/projects/arg/kamitsubaki-city.${locale}.json`);
-    const log = await readJson(`../src/content/logs/2024/2024-06-01-vwp-live.${locale}.json`);
+    const artist = await readMd(`../src/content/artists/vwp/kaf/${locale}.md`);
+    const project = await readMd(`../src/content/projects/arg/kamitsubaki-city/${locale}.md`);
+    const log = await readJson(`../src/content/logs/2024/2024-06-01-vwp-live/${locale}.json`);
 
     assert.equal(artist.locale, locale);
     assert.equal(artist.translationKey, 'kaf');

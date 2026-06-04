@@ -45,6 +45,7 @@ export function buildArtistCategories(artistEntries) {
     }
 
     const item = {
+      id: entry.id.split('/').slice(0, -1).join('/'),
       code: artist.code,
       name: artist.name,
       romanizedName: artist.romanizedName,

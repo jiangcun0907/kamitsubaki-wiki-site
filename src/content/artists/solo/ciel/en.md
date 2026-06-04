@@ -1,0 +1,16 @@
+---
+locale: "en"
+translationKey: "ciel"
+code: "06"
+romanizedName: "CIEL"
+categoryId: "cat-solo"
+categoryOrder: 2
+itemOrder: 1
+statusLabel: "STATUS"
+status: "ACTIVE"
+image: "https://placehold.co/1200x800/111/333?text=CIEL"
+name: "CIEL"
+categoryTitle: "Solo Artists / Units"
+categorySubtitle: "SOLO ARTISTS & UNITS"
+---
+
