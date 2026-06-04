@@ -18,9 +18,11 @@ The site does not need a backend at runtime.
 ## Content Flow
 
 ```text
-src/content/*.json
+src/content/*.json and *.md
   -> src/content.config.ts validates schemas
-  -> src/pages/[locale]/index.astro reads collections
+  -> Astro remark/rehype plugins parse markdown and math
+  -> src/pages/[locale]/index.astro reads collections for home page
+  -> src/pages/[locale]/artists/[...id].astro generates detailed wiki pages
   -> src/lib/homeData.mjs filters, groups, and sorts data
   -> src/components/*.astro render page sections
 ```
@@ -30,8 +32,9 @@ Implementation files should not contain large content arrays. They should receiv
 ## Routing
 
 ```text
-src/pages/index.astro             Root redirect page
-src/pages/[locale]/index.astro    Static localized pages
+src/pages/index.astro                   Root redirect page
+src/pages/[locale]/index.astro          Static localized home pages
+src/pages/[locale]/artists/[...id].astro Static detailed wiki article pages
 ```
 
 Supported locales are declared in `src/lib/i18n.mjs`:
@@ -62,6 +65,8 @@ AboutSection     Preface copy
 ArtistDatabase   Category sidebar and artist rows
 ProjectsSection  Project cards
 LogSection       Update log rows
+WikiInfoBox      Sidebar metadata card for wiki pages
+TableOfContents  Scroll-spy sticky navigation for wiki articles
 SiteFooter       Footer links and disclaimers
 ```
 
@@ -69,7 +74,7 @@ Components should stay presentational. If data needs filtering, grouping, fallba
 
 ## Styling
 
-Tailwind CSS v4 is compiled locally through `@tailwindcss/vite`.
+Tailwind CSS v4 is compiled locally through `@tailwindcss/vite` and uses `@tailwindcss/typography` to style parsed markdown articles.
 
 The global style entry is:
 
