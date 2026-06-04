@@ -5,14 +5,20 @@ type LogEntry = {
   message: string;
 };
 
-const { logEntries } = Astro.props as { logEntries: LogEntry[] };
+const { logEntries, section } = Astro.props as {
+  logEntries: LogEntry[];
+  section: {
+    heading: string;
+    subheading: string;
+  };
+};
 ---
 
 <section id="log" class="py-32 px-6 max-w-7xl mx-auto border-t border-white/10 relative ui-crosshair bl br tl tr">
   <div class="grid grid-cols-1 md:grid-cols-12 gap-12">
     <div class="md:col-span-3 reveal-up">
-      <h3 class="text-[10px] tracking-kamidest-lg font-light text-white mb-2">03. LOG</h3>
-      <p class="font-serif text-[10px] text-white/50 tracking-widest">観測記録</p>
+      <h3 class="text-[10px] tracking-kamidest-lg font-light text-white mb-2">{section.heading}</h3>
+      <p class="font-serif text-[10px] text-white/50 tracking-widest">{section.subheading}</p>
     </div>
 
     <div class="md:col-span-9 flex flex-col font-mono text-[9px] md:text-[10px]">

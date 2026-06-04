@@ -1,0 +1,49 @@
+---
+import AboutSection from '../../components/AboutSection.astro';
+import ArtistDatabase from '../../components/ArtistDatabase.astro';
+import Hero from '../../components/Hero.astro';
+import LogSection from '../../components/LogSection.astro';
+import ProjectsSection from '../../components/ProjectsSection.astro';
+import SiteFooter from '../../components/SiteFooter.astro';
+import SiteNav from '../../components/SiteNav.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { buildArtistCategories, getLocalizedEntries, getLocalizedSite, sortByOrder } from '../../lib/homeData.mjs';
+import { buildLocaleLinks, defaultLocale, supportedLocales } from '../../lib/i18n.mjs';
+
+export function getStaticPaths() {
+  return supportedLocales.map((locale) => ({
+    params: { locale },
+  }));
+}
+
+const { locale } = Astro.params;
+const siteEntries = await getCollection('site');
+const homeContent = getLocalizedSite(siteEntries, locale, defaultLocale);
+const artistEntries = getLocalizedEntries(await getCollection('artists'), locale, defaultLocale);
+const projectEntries = getLocalizedEntries(await getCollection('projects'), locale, defaultLocale);
+const logEntryCollection = getLocalizedEntries(await getCollection('logs'), locale, defaultLocale);
+
+const artistCategories = buildArtistCategories(artistEntries);
+const projects = sortByOrder(projectEntries).map((entry) => entry.data);
+const logEntries = sortByOrder(logEntryCollection).map((entry) => entry.data);
+const localeLinks = buildLocaleLinks(homeContent, locale);
+const alternates = supportedLocales.map((localeCode) => ({
+  locale: localeCode,
+  href: `/${localeCode}/`,
+}));
+---
+
+<BaseLayout lang={locale} alternates={alternates}>
+  <SiteNav navItems={homeContent.navItems} localeLinks={localeLinks} brandLines={homeContent.hero.brandLines} />
+  <Hero hero={homeContent.hero} />
+  <AboutSection content={homeContent.sections.about} />
+  <ArtistDatabase
+    artistCategories={artistCategories}
+    databaseJumpLinks={homeContent.databaseJumpLinks}
+    section={homeContent.sections.database}
+  />
+  <ProjectsSection projects={projects} section={homeContent.sections.projects} />
+  <LogSection logEntries={logEntries} section={homeContent.sections.log} />
+  <SiteFooter footer={homeContent.footer} />
+</BaseLayout>

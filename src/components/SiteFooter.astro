@@ -1,24 +1,44 @@
+---
+type FooterLink = {
+  label: string;
+  href: string;
+};
+
+type FooterContent = {
+  tagline: string;
+  links: FooterLink[];
+  disclaimer: string[];
+  copyright: string;
+};
+
+const { footer } = Astro.props as { footer: FooterContent };
+---
+
 <footer class="mt-20 border-t border-white/10 py-20 text-center relative overflow-hidden ui-crosshair tl tr">
   <div class="max-w-4xl mx-auto px-6 flex flex-col items-center">
     <p class="font-serif text-sm md:text-base tracking-[0.5em] text-white/80 mb-12">
-      神椿を、観測せよ。
+      {footer.tagline}
     </p>
 
     <div class="flex gap-12 text-[9px] tracking-kamidest font-light text-white/40 mb-16">
-      <a href="#" class="hover:text-white transition-colors relative after:content-[''] after:absolute after:-bottom-2 after:left-0 after:w-0 after:h-[1px] after:bg-white hover:after:w-full after:transition-all">ABOUT</a>
-      <a href="#" class="hover:text-white transition-colors relative after:content-[''] after:absolute after:-bottom-2 after:left-0 after:w-0 after:h-[1px] after:bg-white hover:after:w-full after:transition-all">GUIDELINES</a>
-      <a href="#" class="hover:text-white transition-colors relative after:content-[''] after:absolute after:-bottom-2 after:left-0 after:w-0 after:h-[1px] after:bg-white hover:after:w-full after:transition-all">CONTACT</a>
+      {footer.links.map((link) => (
+        <a href={link.href} class="hover:text-white transition-colors relative after:content-[''] after:absolute after:-bottom-2 after:left-0 after:w-0 after:h-[1px] after:bg-white hover:after:w-full after:transition-all">
+          {link.label}
+        </a>
+      ))}
     </div>
 
     <div class="w-[1px] h-12 bg-white/10 mb-12"></div>
 
     <p class="text-[9px] text-white/30 tracking-widest max-w-lg mb-6 font-light leading-loose uppercase">
-      This is an unofficial fan observation database.<br />
-      Not affiliated with KAMITSUBAKI STUDIO or THINKR.<br />
-      All official rights belong to their respective owners.
+      {footer.disclaimer.map((line) => (
+        <>
+          {line}<br />
+        </>
+      ))}
     </p>
     <p class="text-[9px] font-mono text-white/20 tracking-widest">
-      &copy; 2024 OBSERVER DATABASE / VERSION_2.4.1
+      {footer.copyright}
     </p>
   </div>
 </footer>

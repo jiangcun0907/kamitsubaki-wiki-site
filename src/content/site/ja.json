@@ -1,0 +1,124 @@
+{
+  "locale": "ja",
+  "translationKey": "home",
+  "defaultLocale": "zh",
+  "supportedLocales": [
+    {
+      "code": "zh",
+      "label": "中文",
+      "shortLabel": "中"
+    },
+    {
+      "code": "ja",
+      "label": "日本語",
+      "shortLabel": "日"
+    },
+    {
+      "code": "en",
+      "label": "English",
+      "shortLabel": "EN"
+    }
+  ],
+  "navItems": [
+    {
+      "label": "ABOUT",
+      "href": "#about"
+    },
+    {
+      "label": "DATABASE",
+      "href": "#database"
+    },
+    {
+      "label": "PROJECTS",
+      "href": "#projects"
+    },
+    {
+      "label": "LOG",
+      "href": "#log"
+    }
+  ],
+  "databaseJumpLinks": [
+    {
+      "label": ">> V.W.P [WITCHES]",
+      "href": "#cat-vwp"
+    },
+    {
+      "label": ">> SOLO ARTISTS",
+      "href": "#cat-solo"
+    },
+    {
+      "label": ">> CREATORS",
+      "href": "#cat-creator"
+    },
+    {
+      "label": ">> MUSICAL ISOTOPES",
+      "href": "#cat-isotope"
+    }
+  ],
+  "hero": {
+    "brandLines": [
+      "Kamitsubaki",
+      "Studio",
+      "Unofficial Wiki"
+    ],
+    "systemVersion": "SYS.VER_2.4.1",
+    "coordinates": "COORD: 35.6620° N, 139.7038° E",
+    "status": "STATUS: OBSERVING",
+    "leftVertical": "音楽と物語で、世界を少しだけ変える。",
+    "rightVertical": "神椿非公式観測所",
+    "eyebrow": "UNOFFICIAL OBSERVATION DATABASE",
+    "title": "Observer",
+    "marquee": "KAMITSUBAKI STUDIO UNOFFICIAL DATABASE KAMITSUBAKI STUDIO UNOFFICIAL DATABASE"
+  },
+  "sections": {
+    "about": {
+      "heading": "00. PREFACE",
+      "subheading": "観測者へ告ぐ",
+      "body": [
+        "ここは「神椿市」における事象を記録する非公式の観測所。",
+        "音楽と物語が交差するこの場所で、私たちは特異点たる存在—魔女たち、そして創造者たちの軌跡を追う。",
+        "すべての記録は断片であり、真実は常に更新され続ける。"
+      ],
+      "note": [
+        "This terminal provides an unofficial, scalable index of entities and protocols related to KAMITSUBAKI STUDIO.",
+        "Data structure expanded to accommodate V.W.P, Soloists, Creators, and derivative phenomenons."
+      ]
+    },
+    "database": {
+      "heading": "01. DATABASE",
+      "subheading": "観測対象一覧"
+    },
+    "projects": {
+      "heading": "02. PROTOCOLS",
+      "subheading": "派生計画・プロジェクト",
+      "viewAllLabel": "VIEW ALL PROTOCOLS >>"
+    },
+    "log": {
+      "heading": "03. LOG",
+      "subheading": "観測記録"
+    }
+  },
+  "footer": {
+    "tagline": "神椿を、観測せよ。",
+    "links": [
+      {
+        "label": "ABOUT",
+        "href": "#about"
+      },
+      {
+        "label": "GUIDELINES",
+        "href": "#"
+      },
+      {
+        "label": "CONTACT",
+        "href": "#"
+      }
+    ],
+    "disclaimer": [
+      "This is an unofficial fan observation database.",
+      "Not affiliated with KAMITSUBAKI STUDIO or THINKR.",
+      "All official rights belong to their respective owners."
+    ],
+    "copyright": "© 2024 OBSERVER DATABASE / VERSION_2.4.1"
+  }
+}

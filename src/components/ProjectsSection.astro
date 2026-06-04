@@ -5,17 +5,24 @@ type Project = {
   description: string;
 };
 
-const { projects } = Astro.props as { projects: Project[] };
+const { projects, section } = Astro.props as {
+  projects: Project[];
+  section: {
+    heading: string;
+    subheading: string;
+    viewAllLabel: string;
+  };
+};
 ---
 
 <section id="projects" class="py-32 px-6 max-w-7xl mx-auto border-t border-white/10 relative ui-crosshair bl br">
   <div class="flex flex-col md:flex-row justify-between items-end mb-16 reveal-up">
     <div>
-      <h3 class="text-[10px] tracking-kamidest-lg font-light text-white mb-2">02. PROTOCOLS</h3>
-      <p class="font-serif text-[10px] text-white/50 tracking-widest">派生計画・プロジェクト</p>
+      <h3 class="text-[10px] tracking-kamidest-lg font-light text-white mb-2">{section.heading}</h3>
+      <p class="font-serif text-[10px] text-white/50 tracking-widest">{section.subheading}</p>
     </div>
     <a href="#" class="text-[9px] font-mono text-white/40 hover:text-white transition-colors border-b border-transparent hover:border-white pb-1 mt-6 md:mt-0">
-      VIEW ALL PROTOCOLS >>
+      {section.viewAllLabel}
     </a>
   </div>
 

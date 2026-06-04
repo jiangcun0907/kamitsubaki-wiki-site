@@ -1,0 +1,124 @@
+{
+  "locale": "en",
+  "translationKey": "home",
+  "defaultLocale": "zh",
+  "supportedLocales": [
+    {
+      "code": "zh",
+      "label": "中文",
+      "shortLabel": "中"
+    },
+    {
+      "code": "ja",
+      "label": "日本語",
+      "shortLabel": "日"
+    },
+    {
+      "code": "en",
+      "label": "English",
+      "shortLabel": "EN"
+    }
+  ],
+  "navItems": [
+    {
+      "label": "ABOUT",
+      "href": "#about"
+    },
+    {
+      "label": "DATABASE",
+      "href": "#database"
+    },
+    {
+      "label": "PROJECTS",
+      "href": "#projects"
+    },
+    {
+      "label": "LOG",
+      "href": "#log"
+    }
+  ],
+  "databaseJumpLinks": [
+    {
+      "label": ">> V.W.P [WITCHES]",
+      "href": "#cat-vwp"
+    },
+    {
+      "label": ">> SOLO ARTISTS",
+      "href": "#cat-solo"
+    },
+    {
+      "label": ">> CREATORS",
+      "href": "#cat-creator"
+    },
+    {
+      "label": ">> MUSICAL ISOTOPES",
+      "href": "#cat-isotope"
+    }
+  ],
+  "hero": {
+    "brandLines": [
+      "Kamitsubaki",
+      "Studio",
+      "Unofficial Wiki"
+    ],
+    "systemVersion": "SYS.VER_2.4.1",
+    "coordinates": "COORD: 35.6620° N, 139.7038° E",
+    "status": "STATUS: OBSERVING",
+    "leftVertical": "Changing the world, little by little, through music and stories.",
+    "rightVertical": "KAMITSUBAKI Unofficial Observatory",
+    "eyebrow": "UNOFFICIAL OBSERVATION DATABASE",
+    "title": "Observer",
+    "marquee": "KAMITSUBAKI STUDIO UNOFFICIAL DATABASE KAMITSUBAKI STUDIO UNOFFICIAL DATABASE"
+  },
+  "sections": {
+    "about": {
+      "heading": "00. PREFACE",
+      "subheading": "To observers",
+      "body": [
+        "This is an unofficial observatory recording phenomena around Kamitsubaki City.",
+        "Where music and story intersect, we follow the traces of the witches, the creators, and other singular presences.",
+        "Every record is a fragment, and the truth is always being updated."
+      ],
+      "note": [
+        "This terminal provides an unofficial, scalable index of entities and protocols related to KAMITSUBAKI STUDIO.",
+        "Data structure expanded to accommodate V.W.P, Soloists, Creators, and derivative phenomenons."
+      ]
+    },
+    "database": {
+      "heading": "01. DATABASE",
+      "subheading": "Observation targets"
+    },
+    "projects": {
+      "heading": "02. PROTOCOLS",
+      "subheading": "Derivative plans and projects",
+      "viewAllLabel": "VIEW ALL PROTOCOLS >>"
+    },
+    "log": {
+      "heading": "03. LOG",
+      "subheading": "Observation log"
+    }
+  },
+  "footer": {
+    "tagline": "Observe Kamitsubaki.",
+    "links": [
+      {
+        "label": "ABOUT",
+        "href": "#about"
+      },
+      {
+        "label": "GUIDELINES",
+        "href": "#"
+      },
+      {
+        "label": "CONTACT",
+        "href": "#"
+      }
+    ],
+    "disclaimer": [
+      "This is an unofficial fan observation database.",
+      "Not affiliated with KAMITSUBAKI STUDIO or THINKR.",
+      "All official rights belong to their respective owners."
+    ],
+    "copyright": "© 2024 OBSERVER DATABASE / VERSION_2.4.1"
+  }
+}

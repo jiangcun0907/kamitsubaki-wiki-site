@@ -22,9 +22,13 @@ type ArtistCategory = {
   items: Artist[];
 };
 
-const { artistCategories, databaseJumpLinks } = Astro.props as {
+const { artistCategories, databaseJumpLinks, section } = Astro.props as {
   artistCategories: ArtistCategory[];
   databaseJumpLinks: DatabaseJumpLink[];
+  section: {
+    heading: string;
+    subheading: string;
+  };
 };
 ---
 
@@ -42,8 +46,8 @@ const { artistCategories, databaseJumpLinks } = Astro.props as {
   <div class="relative z-10 grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-24">
     <div class="lg:col-span-3">
       <div class="sticky top-32 reveal-up">
-        <h3 class="text-[10px] tracking-kamidest-lg font-light text-white mb-2">01. DATABASE</h3>
-        <p class="font-serif text-[10px] text-white/50 tracking-widest mb-12">観測対象一覧</p>
+        <h3 class="text-[10px] tracking-kamidest-lg font-light text-white mb-2">{section.heading}</h3>
+        <p class="font-serif text-[10px] text-white/50 tracking-widest mb-12">{section.subheading}</p>
 
         <div class="hidden lg:flex flex-col gap-5 text-[9px] font-mono tracking-widest text-white/30 border-l border-white/10 pl-4">
           {databaseJumpLinks.map((item) => (

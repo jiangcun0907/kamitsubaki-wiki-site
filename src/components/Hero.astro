@@ -1,29 +1,33 @@
+---
+const { hero } = Astro.props;
+---
+
 <header class="relative w-full h-screen flex flex-col justify-center items-center border-b border-white/10 overflow-hidden ui-crosshair bl br">
   <div class="absolute top-32 left-6 md:left-12 text-[9px] font-mono text-white/30 tracking-widest leading-loose reveal-up" style="transition-delay: 0.5s;">
-    SYS.VER_2.4.1<br />
-    COORD: 35.6620° N, 139.7038° E<br />
-    STATUS: OBSERVING
+    {hero.systemVersion}<br />
+    {hero.coordinates}<br />
+    {hero.status}
   </div>
 
   <div class="absolute top-1/2 left-6 md:left-12 -translate-y-1/2 reveal-up" style="transition-delay: 0.2s;">
     <p class="t-vertical font-serif text-white/40 tracking-[0.4em] text-xs md:text-sm h-64 border-l border-white/10 pl-4">
-      音楽と物語で、世界を少しだけ変える。
+      {hero.leftVertical}
     </p>
   </div>
 
   <div class="absolute top-1/2 right-6 md:right-12 -translate-y-1/2 reveal-up" style="transition-delay: 0.4s;">
     <p class="t-vertical font-serif text-white/70 text-sm md:text-base tracking-[0.5em] font-light">
-      神椿非公式観測所
+      {hero.rightVertical}
     </p>
   </div>
 
   <div class="text-center z-10 px-4 mt-20 relative">
     <div class="absolute -top-12 left-1/2 -translate-x-1/2 w-[1px] h-8 bg-white/30 reveal-up" style="transition-delay: 0.6s;"></div>
     <p class="text-[9px] md:text-xs tracking-kamidest-lg text-white/40 mb-8 font-light reveal-up">
-      UNOFFICIAL OBSERVATION DATABASE
+      {hero.eyebrow}
     </p>
     <h2 class="text-5xl md:text-8xl lg:text-[10rem] font-extralight tracking-widest text-white uppercase reveal-up mix-blend-overlay" style="transition-delay: 0.1s;">
-      Observer
+      {hero.title}
     </h2>
     <div class="w-[1px] h-24 bg-white/20 mx-auto mt-12 reveal-up" style="transition-delay: 0.3s;"></div>
   </div>
@@ -40,7 +44,7 @@
   <div class="absolute bottom-8 w-full opacity-5 pointer-events-none select-none">
     <div class="marquee-container">
       <div class="marquee-content text-[150px] font-bold tracking-tighter leading-none">
-        KAMITSUBAKI STUDIO UNOFFICIAL DATABASE KAMITSUBAKI STUDIO UNOFFICIAL DATABASE
+        {hero.marquee}
       </div>
     </div>
   </div>

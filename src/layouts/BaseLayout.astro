@@ -1,15 +1,30 @@
 ---
 import '../styles/global.css';
 
-const { title = 'KAMITSUBAKI FAN WIKI' } = Astro.props;
+const {
+  title = 'KAMITSUBAKI FAN WIKI',
+  lang = 'zh',
+  alternates = [],
+} = Astro.props as {
+  title?: string;
+  lang?: string;
+  alternates?: {
+    locale: string;
+    href: string;
+  }[];
+};
 ---
 
 <!doctype html>
-<html lang="ja" class="scroll-smooth">
+<html lang={lang} class="scroll-smooth">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
+    {alternates.map((alternate) => (
+      <link rel="alternate" hreflang={alternate.locale} href={alternate.href} />
+    ))}
+    <link rel="alternate" hreflang="x-default" href="/zh/" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
