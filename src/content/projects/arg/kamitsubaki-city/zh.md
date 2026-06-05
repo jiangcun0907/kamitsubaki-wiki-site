@@ -3,7 +3,6 @@ locale: "zh"
 translationKey: "kamitsubaki-city"
 kind: "PROJECT_ARG"
 title: "神椿市建设中。"
-description: "原创 IP 项目。作为玩家参与型 ARG 展开的神椿市相关记录。"
+description: ""
 order: 1
 ---
-

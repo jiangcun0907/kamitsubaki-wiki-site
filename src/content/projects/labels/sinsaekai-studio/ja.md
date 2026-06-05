@@ -3,7 +3,6 @@ locale: "ja"
 translationKey: "sinsaekai-studio"
 kind: "PROJECT_LABEL"
 title: "SINSAEKAI STUDIO"
-description: "神椿スタジオから派生した、新たなクリエイティブレーベル。深脊界。"
+description: ""
 order: 2
 ---
-

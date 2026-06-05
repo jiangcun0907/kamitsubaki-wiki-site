@@ -4,6 +4,7 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import SiteNav from '../../../components/SiteNav.astro';
 import SiteFooter from '../../../components/SiteFooter.astro';
 import WikiInfoBox from '../../../components/WikiInfoBox.astro';
+import WikiArticleHeader from '../../../components/WikiArticleHeader.astro';
 import TableOfContents from '../../../components/TableOfContents.astro';
 import { getLocalizedSite } from '../../../lib/homeData.mjs';
 import { buildLocaleLinks, defaultLocale, supportedLocales } from '../../../lib/i18n.mjs';
@@ -31,35 +32,86 @@ export async function getStaticPaths() {
 const { locale, id } = Astro.params;
 const { entry } = Astro.props;
 const { Content, headings } = await render(entry);
+const localeCode = locale as 'zh' | 'ja' | 'en';
 
 const siteEntries = await getCollection('site');
-const homeContent = getLocalizedSite(siteEntries, locale as any, defaultLocale);
-const localeLinks = buildLocaleLinks(homeContent, locale as any);
+const homeContent = getLocalizedSite(siteEntries, localeCode, defaultLocale);
+const currentPath = `/artists/${id}`;
+const localeLinks = buildLocaleLinks(homeContent, localeCode, currentPath);
 
 const alternates = supportedLocales.map((localeCode) => ({
   locale: localeCode,
   href: `/${localeCode}/artists/${id}`,
 }));
+
+const articleLabels = {
+  zh: {
+    home: '首页',
+    artists: '艺人',
+    article: 'Wiki 条目',
+    category: '分类',
+    source: '编辑源文件',
+    languages: '切换语言',
+    contents: '目录',
+  },
+  ja: {
+    home: 'ホーム',
+    artists: 'アーティスト',
+    article: 'Wiki 記事',
+    category: '分類',
+    source: 'ソースを編集',
+    languages: '言語を切り替え',
+    contents: '目次',
+  },
+  en: {
+    home: 'Home',
+    artists: 'Artists',
+    article: 'Wiki Article',
+    category: 'Category',
+    source: 'Edit source',
+    languages: 'Switch language',
+    contents: 'Contents',
+  },
+}[localeCode];
+
+const sourceHref = `https://github.com/LinkTh1rsty/kamitsubaki-wiki-site/edit/main/src/content/artists/${id}/${localeCode}.md`;
 ---
 
 <BaseLayout lang={locale} alternates={alternates} title={`${entry.data.name} - KAMITSUBAKI WIKI`}>
-  <SiteNav navItems={homeContent.navItems} localeLinks={localeLinks} brandLines={homeContent.hero.brandLines} />
-  
-  <div class="max-w-[90rem] mx-auto px-6 py-12 lg:grid lg:grid-cols-12 gap-12 lg:gap-8 items-start pt-32">
-    
-    <!-- Left Sidebar ToC (Desktop) -->
+  <SiteNav navItems={homeContent.navItems} localeLinks={localeLinks} brandLines={homeContent.hero.brandLines} compact />
+
+  <div class="fixed left-0 top-0 z-[60] h-px w-full origin-left bg-white/70" data-reading-progress></div>
+
+  <div class="mx-auto max-w-[92rem] px-5 pb-4 pt-20 sm:px-6 lg:pt-20">
+    <WikiArticleHeader
+      data={entry.data}
+      localeLinks={localeLinks}
+      labels={articleLabels}
+      sourceHref={sourceHref}
+      homeHref={`/${localeCode}/`}
+    />
+  </div>
+
+  <div class="mx-auto grid max-w-[92rem] items-start gap-8 px-5 py-5 sm:px-6 lg:grid-cols-12 lg:gap-8">
     <aside class="hidden lg:block lg:col-span-2 sticky top-32">
-      <TableOfContents headings={headings} />
+      <TableOfContents headings={headings} title={articleLabels.contents} />
     </aside>
 
-    <!-- Main Content -->
-    <main class="lg:col-span-7 w-full min-w-0 order-last lg:order-none">
-      <article class="prose prose-invert max-w-none prose-headings:font-serif prose-headings:font-bold prose-h2:text-2xl prose-h2:border-b prose-h2:border-white/10 prose-h2:pb-3 prose-h2:mt-16 prose-h2:mb-6 prose-h2:text-white prose-p:text-white/70 prose-p:leading-loose prose-a:text-[#00ffd0] prose-a:no-underline hover:prose-a:underline prose-li:text-white/70">
+    <main class="order-last w-full min-w-0 lg:order-none lg:col-span-7">
+      <details class="wiki-mobile-toc mb-8 rounded-lg border border-white/10 bg-white/[0.03] p-4 lg:hidden">
+        <summary class="cursor-pointer text-[11px] font-mono uppercase tracking-[0.24em] text-white/65">
+          {articleLabels.contents}
+        </summary>
+        <div class="mt-4 border-t border-white/10 pt-4">
+          <TableOfContents headings={headings} title={articleLabels.contents} />
+        </div>
+      </details>
+
+      <article class="wiki-prose prose prose-invert max-w-none">
         <Content />
       </article>
     </main>
 
-    <!-- Right Sidebar InfoBox -->
     <aside class="lg:col-span-3 sticky top-32 w-full max-w-sm mx-auto lg:max-w-none">
       <WikiInfoBox data={entry.data} />
     </aside>

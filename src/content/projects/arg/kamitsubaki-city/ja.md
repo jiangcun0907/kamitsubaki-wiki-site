@@ -3,7 +3,6 @@ locale: "ja"
 translationKey: "kamitsubaki-city"
 kind: "PROJECT_ARG"
 title: "神椿市建設中。"
-description: "オリジナルIPプロジェクト。プレイヤー参加型の代替現実ゲーム(ARG)として展開された神椿市の記録。"
+description: ""
 order: 1
 ---
-

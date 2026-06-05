@@ -74,15 +74,8 @@
     "about": {
       "heading": "00. PREFACE",
       "subheading": "致观测者",
-      "body": [
-        "这里是记录「神椿市」相关事象的非官方观测所。",
-        "在音乐与故事交汇的地方，我们追踪作为特异点存在的魔女们，以及创造者们留下的轨迹。",
-        "所有记录都是片段，真实也始终持续更新。"
-      ],
-      "note": [
-        "This terminal provides an unofficial, scalable index of entities and protocols related to KAMITSUBAKI STUDIO.",
-        "Data structure expanded to accommodate V.W.P, Soloists, Creators, and derivative phenomenons."
-      ]
+      "body": [],
+      "note": []
     },
     "database": {
       "heading": "01. DATABASE",

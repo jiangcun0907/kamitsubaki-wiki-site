@@ -3,7 +3,6 @@ locale: "en"
 translationKey: "sinsaekai-studio"
 kind: "PROJECT_LABEL"
 title: "SINSAEKAI STUDIO"
-description: "A new creative label derived from Kamitsubaki Studio: SINSAEKAI."
+description: ""
 order: 2
 ---
-

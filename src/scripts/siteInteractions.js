@@ -76,4 +76,23 @@ document.addEventListener('DOMContentLoaded', () => {
   revealElements.forEach((element) => {
     revealObserver.observe(element);
   });
+
+  const readingProgressBars = document.querySelectorAll('[data-reading-progress]');
+
+  if (readingProgressBars.length > 0) {
+    const updateReadingProgress = () => {
+      const scrollable = document.documentElement.scrollHeight - window.innerHeight;
+      const progress = scrollable > 0 ? Math.min(window.scrollY / scrollable, 1) : 0;
+
+      readingProgressBars.forEach((bar) => {
+        if (bar instanceof HTMLElement) {
+          bar.style.transform = `scaleX(${progress})`;
+        }
+      });
+    };
+
+    updateReadingProgress();
+    window.addEventListener('scroll', updateReadingProgress, { passive: true });
+    window.addEventListener('resize', updateReadingProgress);
+  }
 });

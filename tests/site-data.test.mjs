@@ -62,7 +62,7 @@ test('artist database keeps the original four categories and key entities', asyn
   ];
   const artistEntries = await Promise.all(
     artistFiles.map(async (id) => ({
-      id,
+      id: `${artistFolders.get(id)}/${id}/zh`,
       data: await readMd(`../src/content/artists/${artistFolders.get(id)}/${id}/zh.md`),
     })),
   );
@@ -77,6 +77,7 @@ test('artist database keeps the original four categories and key entities', asyn
   assert.equal(vwp.title, '虚拟世代的魔女们');
   assert.equal(vwp.items.length, 5);
   assert.deepEqual(vwp.items[0], {
+    id: 'vwp/kaf',
     code: '01',
     name: '花谱',
     romanizedName: 'KAF',

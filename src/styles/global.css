@@ -3,7 +3,7 @@
 
 @theme {
   --font-sans: Montserrat, "Noto Sans JP", sans-serif;
-  --font-serif: "Shippori Mincho", serif;
+  --font-serif: "Noto Serif SC", "Shippori Mincho", serif;
   --font-mono: "Courier New", monospace;
   --color-kamiblack: #0a0a0a;
   --color-kamigray: #1f1f1f;
@@ -14,6 +14,18 @@
 
 :root {
   --cursor-size: 8px;
+}
+
+:lang(ja) {
+  --font-serif: "Shippori Mincho", "Noto Serif SC", serif;
+}
+
+:lang(en) {
+  --font-serif: "Shippori Mincho", "Noto Serif SC", serif;
+}
+
+html {
+  scroll-padding-top: 8rem;
 }
 
 body {
@@ -252,6 +264,150 @@ body {
   text-shadow:
     2px 0 2px rgba(255, 255, 255, 0.2),
     -2px 0 2px rgba(100, 100, 100, 0.2);
+}
+
+[data-reading-progress] {
+  transform: scaleX(0);
+  transition: transform 120ms linear;
+}
+
+.wiki-chip {
+  display: inline-flex;
+  min-width: 2rem;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  padding: 0.35rem 0.5rem;
+  color: rgba(255, 255, 255, 0.42);
+  transition: border-color 0.2s ease, color 0.2s ease, background-color 0.2s ease;
+}
+
+.wiki-chip:hover {
+  background-color: rgba(255, 255, 255, 0.04);
+}
+
+.wiki-source-link {
+  width: max-content;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.22);
+  padding-bottom: 0.25rem;
+  color: rgba(255, 255, 255, 0.52);
+  transition: border-color 0.2s ease, color 0.2s ease;
+}
+
+.wiki-source-link:hover {
+  border-color: rgba(255, 255, 255, 0.8);
+  color: white;
+}
+
+.wiki-page-title,
+.wiki-infobox h2,
+.wiki-prose :where(h2, h3) {
+  line-height: 1.16;
+}
+
+.wiki-page-title {
+  padding-bottom: 0.04em;
+}
+
+.wiki-prose {
+  --tw-prose-body: rgba(255, 255, 255, 0.72);
+  --tw-prose-headings: rgba(255, 255, 255, 0.94);
+  --tw-prose-lead: rgba(255, 255, 255, 0.74);
+  --tw-prose-links: #00ffd0;
+  --tw-prose-bold: rgba(255, 255, 255, 0.9);
+  --tw-prose-counters: rgba(255, 255, 255, 0.38);
+  --tw-prose-bullets: rgba(255, 255, 255, 0.34);
+  --tw-prose-hr: rgba(255, 255, 255, 0.12);
+  --tw-prose-quotes: rgba(255, 255, 255, 0.78);
+  --tw-prose-quote-borders: rgba(0, 255, 208, 0.55);
+  --tw-prose-captions: rgba(255, 255, 255, 0.4);
+  --tw-prose-code: rgba(255, 255, 255, 0.88);
+  --tw-prose-pre-code: rgba(255, 255, 255, 0.78);
+  --tw-prose-pre-bg: rgba(255, 255, 255, 0.055);
+  --tw-prose-th-borders: rgba(255, 255, 255, 0.18);
+  --tw-prose-td-borders: rgba(255, 255, 255, 0.08);
+  font-size: 1rem;
+  line-height: 1.95;
+}
+
+.wiki-prose :where(h2, h3, h4) {
+  scroll-margin-top: 8rem;
+}
+
+.wiki-prose :where(h2) {
+  margin-top: 4rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+  padding-bottom: 0.9rem;
+  font-family: var(--font-serif);
+  font-size: 1.75rem;
+  letter-spacing: 0.08em;
+}
+
+.wiki-prose :where(h3) {
+  margin-top: 2.6rem;
+  font-family: var(--font-serif);
+  letter-spacing: 0.06em;
+}
+
+.wiki-prose :where(p, li) {
+  color: rgba(255, 255, 255, 0.72);
+}
+
+.wiki-prose :where(a) {
+  text-decoration: none;
+  text-underline-offset: 0.25em;
+}
+
+.wiki-prose :where(a:hover) {
+  text-decoration: underline;
+}
+
+.wiki-prose :where(blockquote) {
+  background: rgba(255, 255, 255, 0.035);
+  border-left-width: 2px;
+  padding: 1rem 1.25rem;
+  font-style: normal;
+}
+
+.wiki-prose :where(code):not(:where(pre code)) {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.06);
+  padding: 0.1rem 0.35rem;
+  font-weight: 400;
+}
+
+.wiki-prose :where(code)::before,
+.wiki-prose :where(code)::after {
+  content: none;
+}
+
+.wiki-prose :where(pre) {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 0.5rem;
+}
+
+.wiki-prose :where(table) {
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  font-size: 0.92rem;
+}
+
+.wiki-prose :where(th) {
+  background: rgba(255, 255, 255, 0.055);
+  color: rgba(255, 255, 255, 0.82);
+}
+
+.wiki-toc a {
+  border-left: 1px solid transparent;
+  padding-left: 0.5rem;
+}
+
+.wiki-toc a.text-white {
+  border-left-color: rgba(0, 255, 208, 0.75);
+}
+
+.wiki-mobile-toc summary::marker {
+  color: rgba(255, 255, 255, 0.35);
 }
 
 @media (prefers-reduced-motion: reduce) {

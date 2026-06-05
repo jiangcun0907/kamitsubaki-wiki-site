@@ -14,36 +14,50 @@ interface Props {
 const { data } = Astro.props;
 ---
 
-<aside class="w-full backdrop-blur-md bg-white/5 border border-white/10 rounded-xl overflow-hidden shadow-2xl relative">
-  <div class="absolute inset-0 bg-gradient-to-b from-transparent to-black/60 pointer-events-none"></div>
-  
-  <div class="p-1 bg-white/5">
-    <img src={data.image} alt={data.name} class="w-full h-auto aspect-square object-cover rounded-lg filter contrast-125 grayscale-[20%]" />
+<aside class="wiki-infobox w-full overflow-hidden rounded-lg border border-white/10 bg-white/[0.035] shadow-2xl backdrop-blur-md">
+  <div class="border-b border-white/10 bg-white/[0.03] px-4 py-3">
+    <p class="text-[10px] font-mono uppercase tracking-[0.28em] text-white/35">Infobox</p>
+    <h2 class="mt-1 font-serif text-2xl font-semibold tracking-[0.12em] text-white">{data.name}</h2>
   </div>
-  
-  <div class="p-5 relative z-10">
-    <div class="flex items-baseline justify-between mb-2">
-      <h1 class="text-3xl font-serif font-bold text-white tracking-wider">{data.name}</h1>
-      <span class="text-sm font-sans tracking-widest text-white/50">{data.romanizedName}</span>
+
+  <figure class="bg-black/30 p-1">
+    <img
+      src={data.image}
+      alt={data.name}
+      class="aspect-square w-full rounded-md object-cover filter grayscale-[15%] contrast-125"
+    />
+    <figcaption class="px-3 py-2 text-center text-[10px] tracking-[0.2em] text-white/35">
+      {data.romanizedName}
+    </figcaption>
+  </figure>
+
+  <div class="p-4">
+    <div class="mb-4 border-b border-white/10 pb-4">
+      <p class="text-[10px] font-mono uppercase tracking-[0.24em] text-white/30">Classification</p>
+      <p class="mt-1 text-sm tracking-[0.18em] text-white/75">{data.categoryTitle}</p>
     </div>
-    
-    <div class="text-xs tracking-[0.2em] text-white/70 uppercase border-b border-white/10 pb-3 mb-4">
-      {data.categoryTitle}
-    </div>
-    
-    <dl class="space-y-3 text-sm font-sans">
-      <div class="flex justify-between items-center border-b border-white/5 pb-2">
-        <dt class="text-white/50 tracking-wider text-xs">STATUS</dt>
-        <dd class="text-white tracking-widest flex items-center gap-2">
+
+    <dl class="divide-y divide-white/5 text-sm">
+      <div class="grid grid-cols-[6rem_1fr] gap-3 py-3">
+        <dt class="text-[10px] font-mono uppercase tracking-[0.2em] text-white/35">Name</dt>
+        <dd class="text-white/80">{data.name}</dd>
+      </div>
+      <div class="grid grid-cols-[6rem_1fr] gap-3 py-3">
+        <dt class="text-[10px] font-mono uppercase tracking-[0.2em] text-white/35">Romanized</dt>
+        <dd class="text-white/80">{data.romanizedName}</dd>
+      </div>
+      <div class="grid grid-cols-[6rem_1fr] gap-3 py-3">
+        <dt class="text-[10px] font-mono uppercase tracking-[0.2em] text-white/35">{data.statusLabel}</dt>
+        <dd class="flex items-center gap-2 tracking-[0.16em] text-white/85">
           {data.status === 'ACTIVE' && <span class="w-2 h-2 rounded-full bg-green-400 animate-pulse"></span>}
           {data.status}
         </dd>
       </div>
       
       {data.meta && (
-        <div class="flex justify-between items-center border-b border-white/5 pb-2">
-          <dt class="text-white/50 tracking-wider text-xs">META</dt>
-          <dd class="text-white">{data.meta}</dd>
+        <div class="grid grid-cols-[6rem_1fr] gap-3 py-3">
+          <dt class="text-[10px] font-mono uppercase tracking-[0.2em] text-white/35">Meta</dt>
+          <dd class="text-white/80">{data.meta}</dd>
         </div>
       )}
     </dl>

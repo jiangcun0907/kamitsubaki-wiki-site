@@ -5,10 +5,10 @@ export function isSupportedLocale(locale) {
   return supportedLocales.includes(locale);
 }
 
-export function buildLocaleLinks(siteContent, currentLocale) {
+export function buildLocaleLinks(siteContent, currentLocale, currentPath = '/') {
   return siteContent.supportedLocales.map((locale) => ({
     ...locale,
-    href: `/${locale.code}/`,
+    href: `/${locale.code}${currentPath}`,
     current: locale.code === currentLocale,
   }));
 }

@@ -7,43 +7,62 @@ interface Heading {
 
 interface Props {
   headings: Heading[];
+  title?: string;
 }
 
-const { headings } = Astro.props;
+const { headings, title = 'Contents' } = Astro.props as Props;
+const visibleHeadings = headings.filter((heading) => heading.depth === 2 || heading.depth === 3);
 ---
 
-<nav class="w-full max-h-[calc(100vh-10rem)] overflow-y-auto pr-2 custom-scrollbar">
-  <h3 class="text-xs font-mono tracking-widest text-white/40 mb-4 uppercase">Contents</h3>
-  <ul class="space-y-2 text-sm font-sans border-l border-white/10 pl-4 toc-list">
-    {headings.filter(h => h.depth === 2 || h.depth === 3).map((heading) => (
-      <li class={`heading-level-${heading.depth}`}>
-        <a 
-          href={`#${heading.slug}`} 
-          class="block py-1 text-white/60 hover:text-white hover:translate-x-1 transition-all duration-300"
-          data-slug={heading.slug}
-        >
-          {heading.text}
-        </a>
-      </li>
-    ))}
-  </ul>
+<nav class="wiki-toc w-full max-h-[calc(100vh-10rem)] overflow-y-auto pr-2 custom-scrollbar" aria-label={title}>
+  <div class="mb-4 flex items-center justify-between gap-3">
+    <h3 class="text-xs font-mono tracking-widest text-white/40 uppercase">{title}</h3>
+    <span class="text-[10px] font-mono text-white/25">{visibleHeadings.length}</span>
+  </div>
+  {visibleHeadings.length > 0 ? (
+    <ul class="space-y-1 text-sm font-sans border-l border-white/10 pl-4 toc-list">
+      {visibleHeadings.map((heading) => (
+        <li class={`heading-level-${heading.depth}`}>
+          <a
+            href={`#${heading.slug}`}
+            class="block rounded-sm py-1.5 pr-2 text-white/55 hover:text-white hover:translate-x-1 transition-all duration-300"
+            data-slug={heading.slug}
+          >
+            {heading.text}
+          </a>
+        </li>
+      ))}
+    </ul>
+  ) : (
+    <p class="border-l border-white/10 pl-4 text-xs leading-relaxed text-white/35">
+      No sections yet.
+    </p>
+  )}
 </nav>
 
 <script>
   function initToC() {
+    if (document.documentElement.dataset.tocInitialized === 'true') {
+      return;
+    }
+
+    document.documentElement.dataset.tocInitialized = 'true';
+
     const observer = new IntersectionObserver(
       (entries) => {
         entries.forEach((entry) => {
           const id = entry.target.getAttribute('id');
-          const link = document.querySelector(`.toc-list a[data-slug="${id}"]`);
+          const links = document.querySelectorAll(`.toc-list a[data-slug="${id}"]`);
           
-          if (entry.isIntersecting && link) {
+          if (entry.isIntersecting && links.length > 0) {
             document.querySelectorAll('.toc-list a').forEach((a) => {
               a.classList.remove('text-white', 'font-bold', 'translate-x-1');
-              a.classList.add('text-white/60');
+              a.classList.add('text-white/55');
             });
-            link.classList.add('text-white', 'font-bold', 'translate-x-1');
-            link.classList.remove('text-white/60');
+            links.forEach((link) => {
+              link.classList.add('text-white', 'font-bold', 'translate-x-1');
+              link.classList.remove('text-white/55');
+            });
           }
         });
       },
@@ -55,7 +74,6 @@ const { headings } = Astro.props;
     });
   }
 
-  // Run on first load and on subsequent page navigations (if using View Transitions)
   initToC();
   document.addEventListener('astro:page-load', initToC);
 </script>

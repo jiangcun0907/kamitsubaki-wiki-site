@@ -60,10 +60,9 @@ statusLabel: STATUS
 status: ACTIVE
 image: https://placehold.co/1200x800/111/333?text=KAF
 ---
-
-## 简介
-在这里编写详细的角色介绍。支持所有的 Markdown 语法。
 ```
+
+Frontmatter 之后的正文区域可以留空。需要补充条目内容时，直接在 `---` 之后编写 Markdown。
 
 ### Extended Markdown & LaTeX Support
 
@@ -99,7 +98,7 @@ Example JSON log:
   "translationKey": "2024-06-01-vwp-live",
   "date": "2024.06.01",
   "type": "UPDATE",
-  "message": "V.W.P 3rd ONE-MAN LIVE 曲目数据已追加。",
+  "message": "",
   "order": 1
 }
 ```

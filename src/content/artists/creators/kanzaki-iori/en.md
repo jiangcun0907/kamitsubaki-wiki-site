@@ -15,4 +15,3 @@ name: "Kanzaki Iori"
 categoryTitle: "Creators"
 categorySubtitle: "CREATORS / COMPOSERS / ILLUSTRATORS"
 ---
-

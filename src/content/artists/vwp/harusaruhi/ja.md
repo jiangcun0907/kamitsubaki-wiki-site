@@ -14,4 +14,3 @@ name: "春猿火"
 categoryTitle: "仮想世代の魔女達"
 categorySubtitle: "VIRTUAL WITCH PHENOMENON"
 ---
-

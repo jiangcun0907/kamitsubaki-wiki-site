@@ -3,7 +3,6 @@ locale: "en"
 translationKey: "kamitsubaki-city"
 kind: "PROJECT_ARG"
 title: "Kamitsubaki City Under Construction"
-description: "An original IP project. Records of Kamitsubaki City as it unfolded through a player-participation ARG."
+description: ""
 order: 1
 ---
-

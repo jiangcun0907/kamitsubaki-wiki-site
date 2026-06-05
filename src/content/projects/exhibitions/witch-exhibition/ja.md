@@ -3,7 +3,6 @@ locale: "ja"
 translationKey: "witch-exhibition"
 kind: "PROJECT_EXHIBITION"
 title: "魔女展"
-description: "V.W.Pの軌跡を辿る特別展覧会。衣装、設定資料、アートワークの物理展示記録。"
+description: ""
 order: 3
 ---
-

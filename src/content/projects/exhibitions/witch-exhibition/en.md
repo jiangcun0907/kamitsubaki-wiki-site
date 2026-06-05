@@ -3,7 +3,6 @@ locale: "en"
 translationKey: "witch-exhibition"
 kind: "PROJECT_EXHIBITION"
 title: "Witch Exhibition"
-description: "A special exhibition tracing V.W.P. costumes, design materials, and artwork in physical display records."
+description: ""
 order: 3
 ---
-

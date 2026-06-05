@@ -3,7 +3,6 @@ locale: "zh"
 translationKey: "sinsaekai-studio"
 kind: "PROJECT_LABEL"
 title: "SINSAEKAI STUDIO"
-description: "从神椿工作室派生的新创意厂牌。深脊界。"
+description: ""
 order: 2
 ---
-
