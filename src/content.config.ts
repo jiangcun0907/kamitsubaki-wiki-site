@@ -3,6 +3,15 @@ import { defineCollection } from 'astro:content';
 import { z } from 'astro/zod';
 
 const locale = z.enum(['zh', 'ja', 'en']);
+const seo = z
+  .object({
+    title: z.string().optional(),
+    description: z.string().optional(),
+    image: z.string().optional(),
+    keywords: z.array(z.string()).optional(),
+    noindex: z.boolean().optional(),
+  })
+  .optional();
 
 const site = defineCollection({
   loader: glob({ pattern: '*.json', base: './src/content/site' }),
@@ -93,6 +102,7 @@ const artists = defineCollection({
     status: z.string(),
     inactive: z.boolean().optional(),
     image: z.string(),
+    seo,
   }),
 });
 
@@ -105,6 +115,7 @@ const projects = defineCollection({
     title: z.string(),
     description: z.string(),
     order: z.number(),
+    seo,
   }),
 });
 

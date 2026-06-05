@@ -84,12 +84,31 @@ itemOrder: 1
 statusLabel: "STATUS"
 status: "ACTIVE"
 image: "https://placehold.co/1200x800/111/333?text=KAF"
+seo:
+  title: "花谱 - KAMITSUBAKI WIKI"
+  description: "Custom text for search results and link previews."
+  image: "https://example.com/share-card.jpg"
+  keywords:
+    - "花谱"
+    - "KAF"
 ---
 ```
 
 Write article content after the second `---`. Empty article bodies are allowed, so you can add structured metadata first and fill the article later.
 
 Markdown supports headings, lists, tables, links, code blocks, and LaTeX math through KaTeX.
+
+## Metadata And Link Previews
+
+The `seo` block is optional. When it is missing, the site scans:
+
+- `name`, `romanizedName`, category, and status for fallback metadata.
+- The first Markdown paragraph for the page `description`.
+- `image` for Open Graph and Twitter preview cards.
+
+Use `seo.title`, `seo.description`, `seo.image`, `seo.keywords`, or `seo.noindex` only when you need exact control over search results or social previews.
+
+Set `PUBLIC_SITE_URL` during deployment, for example `https://example.com`. Canonical URLs and local image paths will become absolute URLs automatically.
 
 ## Adding A New Page
 
@@ -143,8 +162,8 @@ The CI workflow is defined in `.github/workflows/ci.yml`.
 
 ## Documentation
 
-- [Contributing guide](docs/contributing.md)
-- [Architecture notes](docs/architecture.md)
+- [Contributing guide](docs/contributing.en.md)
+- [Architecture notes](docs/architecture.en.md)
 
 ## Tech Stack
 

@@ -10,6 +10,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { buildArtistCategories, getLocalizedEntries, getLocalizedSite, sortByOrder } from '../../lib/homeData.mjs';
 import { buildLocaleLinks, defaultLocale, supportedLocales } from '../../lib/i18n.mjs';
+import { buildHomeMetadata } from '../../lib/metadata.mjs';
 
 export function getStaticPaths() {
   return supportedLocales.map((locale) => ({
@@ -32,9 +33,10 @@ const alternates = supportedLocales.map((localeCode) => ({
   locale: localeCode,
   href: `/${localeCode}/`,
 }));
+const metadata = buildHomeMetadata(homeContent, locale);
 ---
 
-<BaseLayout lang={locale} alternates={alternates}>
+<BaseLayout lang={locale} alternates={alternates} metadata={metadata}>
   <SiteNav navItems={homeContent.navItems} localeLinks={localeLinks} brandLines={homeContent.hero.brandLines} />
   <Hero hero={homeContent.hero} />
   <AboutSection content={homeContent.sections.about} />

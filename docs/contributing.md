@@ -1,53 +1,37 @@
-# Contributing Guide
+# 贡献指南
 
-This guide is the single reference for editing the wiki and opening a pull request.
+[English](contributing.en.md) / [中文](contributing.md) / [日本語](contributing.ja.md)
 
-## Edit Content
+这份文档是编辑百科和提交 Pull Request 的主要参考。
 
-Most edits belong in `src/content/`.
+## 编辑内容
 
-```text
-src/content/site/       Site chrome and labels (.json)
-src/content/artists/    Artist and creator wiki pages (.md)
-src/content/projects/   Project pages and cards (.md)
-src/content/logs/       Timeline rows (.json)
-```
-
-Do not edit `dist/`, `.astro/`, or `node_modules/`.
-
-## Language Files
-
-The site supports three locale routes:
+大多数修改都在 `src/content/`。
 
 ```text
-/zh/  Chinese, default
-/ja/  Japanese
-/en/  English
+src/content/site/       站点导航、分区标题、页脚文案 (.json)
+src/content/artists/    艺人、创作者、组合、音乐同位体条目 (.md)
+src/content/projects/   企划页面和卡片内容 (.md)
+src/content/logs/       时间线/更新记录 (.json)
 ```
 
-Each translatable record should have all three locale files.
+不要编辑 `dist/`、`.astro/` 或 `node_modules/`。
 
-Artist example:
+## 三语文件
+
+站点支持三个语言路由：
 
 ```text
-src/content/artists/vwp/kaf/zh.md
-src/content/artists/vwp/kaf/ja.md
-src/content/artists/vwp/kaf/en.md
+/zh/  中文，默认语言
+/ja/  日文
+/en/  英文
 ```
 
-Project example:
+每个可翻译记录都应该有三份语言文件。新增条目时请同时创建 `zh.md`、`ja.md`、`en.md`，并保持相同的 `translationKey`。
 
-```text
-src/content/projects/arg/kamitsubaki-city/zh.md
-src/content/projects/arg/kamitsubaki-city/ja.md
-src/content/projects/arg/kamitsubaki-city/en.md
-```
+## Markdown 结构
 
-Use the same `translationKey` in every translation of the same record.
-
-## Markdown Page Shape
-
-Markdown files use YAML frontmatter for structured data.
+Markdown 文件使用 YAML frontmatter 存放结构化数据。
 
 ```yaml
 ---
@@ -64,31 +48,41 @@ itemOrder: 1
 statusLabel: "STATUS"
 status: "ACTIVE"
 image: "https://placehold.co/1200x800/111/333?text=KAF"
+seo:
+  title: "花谱 - KAMITSUBAKI WIKI"
+  description: "用于搜索结果和链接预览的自定义描述。"
+  image: "https://example.com/share-card.jpg"
+  keywords:
+    - "花谱"
+    - "KAF"
 ---
 ```
 
-Write article content after the second `---`. Empty article bodies are allowed.
+正文写在第二个 `---` 后面。正文可以留空，但不要写占位介绍。
 
-Supported article syntax:
+## 元数据
 
-- Markdown headings, lists, tables, links, and code blocks
-- LaTeX math with KaTeX
-- External links that open in a new tab
-- Auto-generated table of contents from `##` and `###` headings
+`seo` 是可选字段。不填写时，站点会自动扫描：
 
-## Add A New Entry
+- `name`、`romanizedName`、分类和状态作为兜底元数据。
+- Markdown 正文第一段作为页面描述。
+- `image` 作为 Open Graph 和 Twitter 分享图。
 
-1. Create a folder under the right content category.
-2. Add `zh.md`, `ja.md`, and `en.md`.
-3. Keep `translationKey` identical across the three files.
-4. Fill the required frontmatter fields.
-5. Leave the article body empty if the real content is not ready.
-6. Run verification.
-7. Open a pull request.
+只有需要精确控制搜索结果或分享卡片时，才填写 `seo.title`、`seo.description`、`seo.image`、`seo.keywords` 或 `seo.noindex`。部署时设置 `PUBLIC_SITE_URL` 可以让 canonical URL 和站内图片变成绝对地址。
 
-## Verify Locally
+## 新增条目
 
-Run the same commands used by CI:
+1. 在正确的内容分类下创建文件夹。
+2. 添加 `zh.md`、`ja.md`、`en.md`。
+3. 三个文件使用相同的 `translationKey`。
+4. 填写必要 frontmatter。
+5. 正文未准备好时可以留空。
+6. 运行本地验证。
+7. 发起 Pull Request。
+
+## 本地验证
+
+CI 和本地使用同一套命令：
 
 ```bash
 pnpm test
@@ -96,26 +90,24 @@ pnpm check
 pnpm build
 ```
 
-If `pnpm check` reports a content schema error, compare the failing file with `src/content.config.ts`.
+如果 `pnpm check` 报内容 schema 错误，请对照 `src/content.config.ts` 检查对应文件。
 
-## Pull Request Flow
+## Pull Request 流程
 
-1. Create a branch from `main`.
-2. Edit content or implementation.
-3. Run local verification.
-4. Commit and push your branch.
-5. Open a pull request into `main`.
-6. Wait for GitHub Actions CI.
-7. Fix any CI or review feedback in the same branch.
+1. 从 `main` 创建分支。
+2. 修改内容或实现。
+3. 运行本地验证。
+4. 提交并推送分支。
+5. 向 `main` 发起 Pull Request。
+6. 等待 GitHub Actions CI。
+7. 在同一分支修复 CI 或 review 问题。
 
-The CI workflow lives at `.github/workflows/ci.yml`.
+CI 工作流在 `.github/workflows/ci.yml`。
 
-## Production Checklist
+## 合并前检查
 
-Before merging:
-
-- No filler article text.
-- All required locale files exist.
-- `pnpm test`, `pnpm check`, and `pnpm build` pass.
-- The PR changes only relevant files.
-- Generated folders such as `dist/` are not committed.
+- 没有占位正文。
+- 所有必要语言文件都存在。
+- `pnpm test`、`pnpm check`、`pnpm build` 通过。
+- PR 只包含相关文件。
+- 不提交 `dist/` 等生成目录。

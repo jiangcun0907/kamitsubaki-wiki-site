@@ -84,12 +84,31 @@ itemOrder: 1
 statusLabel: "STATUS"
 status: "ACTIVE"
 image: "https://placehold.co/1200x800/111/333?text=KAF"
+seo:
+  title: "花譜 - KAMITSUBAKI WIKI"
+  description: "検索結果とリンクプレビュー用のカスタム説明。"
+  image: "https://example.com/share-card.jpg"
+  keywords:
+    - "花譜"
+    - "KAF"
 ---
 ```
 
 本文は 2 つ目の `---` の後に書きます。本文は空でも問題ありません。先に構造化データだけ追加し、記事本文は後から整備できます。
 
 Markdown は見出し、リスト、表、リンク、コードブロック、KaTeX による LaTeX 数式をサポートします。
+
+## メタデータとリンクプレビュー
+
+`seo` ブロックは任意です。未設定の場合、サイトは次の情報を自動で取得します。
+
+- `name`、`romanizedName`、カテゴリ、ステータスをフォールバックのメタデータに使います。
+- Markdown 本文の最初の段落をページ `description` に使います。
+- `image` を Open Graph と Twitter のプレビューカードに使います。
+
+検索結果や共有プレビューを正確に制御したい場合だけ、`seo.title`、`seo.description`、`seo.image`、`seo.keywords`、`seo.noindex` を設定してください。
+
+デプロイ時に `PUBLIC_SITE_URL` を設定できます。例: `https://example.com`。canonical URL とローカル画像パスは自動で絶対 URL になります。
 
 ## 新しい記事を追加する
 
@@ -143,8 +162,8 @@ CI ワークフローは `.github/workflows/ci.yml` にあります。
 
 ## ドキュメント
 
-- [Contributing guide](docs/contributing.md)
-- [Architecture notes](docs/architecture.md)
+- [コントリビューションガイド](docs/contributing.ja.md)
+- [アーキテクチャ](docs/architecture.ja.md)
 
 ## 技術スタック
 

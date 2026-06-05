@@ -84,12 +84,31 @@ itemOrder: 1
 statusLabel: "STATUS"
 status: "ACTIVE"
 image: "https://placehold.co/1200x800/111/333?text=KAF"
+seo:
+  title: "花谱 - KAMITSUBAKI WIKI"
+  description: "用于搜索结果和分享卡片的自定义描述。"
+  image: "https://example.com/share-card.jpg"
+  keywords:
+    - "花谱"
+    - "KAF"
 ---
 ```
 
 正文写在第二个 `---` 之后。正文可以留空，所以可以先补结构化信息，之后再完善文章内容。
 
 Markdown 支持标题、列表、表格、链接、代码块，以及通过 KaTeX 渲染的 LaTeX 公式。
+
+## 元数据与分享卡片
+
+每个条目的 `seo` 字段都是可选的。没有填写时，站点会自动扫描：
+
+- `name`、`romanizedName`、分类和状态用于标题与兜底描述。
+- Markdown 正文的第一段用于页面 `description`。
+- `image` 用于 Open Graph 和 Twitter 分享卡片。
+
+需要精确控制搜索结果或社交平台预览时，再填写 `seo.title`、`seo.description`、`seo.image`、`seo.keywords` 或 `seo.noindex`。
+
+部署时可以设置环境变量 `PUBLIC_SITE_URL`，例如 `https://example.com`。设置后，canonical URL 和站内图片地址会自动转成绝对地址。
 
 ## 新增条目
 

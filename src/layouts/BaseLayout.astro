@@ -1,10 +1,21 @@
 ---
 import '../styles/global.css';
 
+type PageMetadata = {
+  title?: string;
+  description?: string;
+  image?: string;
+  canonicalPath?: string;
+  type?: 'website' | 'article';
+  keywords?: string[];
+  noindex?: boolean;
+};
+
 const {
   title = 'KAMITSUBAKI FAN WIKI',
   lang = 'zh',
   alternates = [],
+  metadata = {},
 } = Astro.props as {
   title?: string;
   lang?: string;
@@ -12,7 +23,19 @@ const {
     locale: string;
     href: string;
   }[];
+  metadata?: PageMetadata;
 };
+
+const siteName = 'KAMITSUBAKI WIKI';
+const siteOrigin = import.meta.env.PUBLIC_SITE_URL?.replace(/\/$/, '') || '';
+const pageTitle = metadata.title || title;
+const pageDescription = metadata.description || 'KAMITSUBAKI STUDIO 非官方粉丝百科。';
+const pageType = metadata.type || 'website';
+const canonicalPath = metadata.canonicalPath || Astro.url.pathname;
+const canonicalUrl = siteOrigin ? `${siteOrigin}${canonicalPath}` : canonicalPath;
+const pageImage = metadata.image;
+const pageImageUrl = pageImage && siteOrigin && pageImage.startsWith('/') ? `${siteOrigin}${pageImage}` : pageImage;
+const robots = metadata.noindex ? 'noindex, nofollow' : 'index, follow';
 ---
 
 <!doctype html>
@@ -20,11 +43,25 @@ const {
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{title}</title>
+    <title>{pageTitle}</title>
+    <meta name="description" content={pageDescription} />
+    <meta name="robots" content={robots} />
+    {metadata.keywords?.length && <meta name="keywords" content={metadata.keywords.join(', ')} />}
+    <link rel="canonical" href={canonicalUrl} />
     {alternates.map((alternate) => (
       <link rel="alternate" hreflang={alternate.locale} href={alternate.href} />
     ))}
     <link rel="alternate" hreflang="x-default" href="/zh/" />
+    <meta property="og:site_name" content={siteName} />
+    <meta property="og:type" content={pageType} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={pageDescription} />
+    <meta property="og:url" content={canonicalUrl} />
+    {pageImageUrl && <meta property="og:image" content={pageImageUrl} />}
+    <meta name="twitter:card" content={pageImageUrl ? 'summary_large_image' : 'summary'} />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={pageDescription} />
+    {pageImageUrl && <meta name="twitter:image" content={pageImageUrl} />}
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />

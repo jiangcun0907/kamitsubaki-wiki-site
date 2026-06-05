@@ -299,6 +299,21 @@ body {
   color: white;
 }
 
+.wiki-guide-action[aria-disabled="true"] {
+  pointer-events: none;
+}
+
+.wiki-guide-action[aria-disabled="false"] {
+  border-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.92);
+  color: black;
+}
+
+.wiki-guide-action[aria-disabled="false"]:hover {
+  border-color: white;
+  background-color: white;
+}
+
 .wiki-page-title,
 .wiki-infobox h2,
 .wiki-prose :where(h2, h3) {

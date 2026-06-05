@@ -12,4 +12,6 @@ artists/vwp/kaf/en.md
 
 Keep `translationKey` identical across all translations of the same record.
 
+Metadata is automatic by default. Add an optional `seo` block only when a page needs custom search or link-preview text.
+
 See `docs/contributing.md` for the full editing guide.
