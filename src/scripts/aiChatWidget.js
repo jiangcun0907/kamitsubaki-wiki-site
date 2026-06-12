@@ -77,6 +77,11 @@ async function bootstrap(root) {
 }
 
 async function readStream(response, paragraph, thinkingMessage, messages, copy) {
+  const contentType = response.headers.get('Content-Type') || '';
+  if (!contentType.includes('text/event-stream')) {
+    throw new Error('AI observer response is not an event stream.');
+  }
+
   if (!response.body) {
     paragraph.textContent = paragraph.dataset.emptyResponse || '';
     return;
@@ -144,7 +149,7 @@ function initWidget(root) {
   toggle.addEventListener('click', () => {
     setExpanded(root, !root.classList.contains('is-open'));
     if (root.classList.contains('is-open')) {
-      input.focus();
+      window.setTimeout(() => input.focus(), 120);
     }
   });
 
