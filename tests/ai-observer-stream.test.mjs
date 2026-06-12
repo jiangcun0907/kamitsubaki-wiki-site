@@ -132,6 +132,27 @@ test('createMockObserverStream returns status, source, delta, and done events', 
   assert.match(streamText, /KAMITSUBAKI STUDIO/);
 });
 
+test('createMockObserverStream emits retrieved source metadata in answers', async () => {
+  const source = {
+    title: 'Wikipedia: 神椿工作室',
+    url: 'https://zh.wikipedia.org/wiki/%E7%A5%9E%E6%A4%BF%E5%B7%A5%E4%BD%9C%E5%AE%A4',
+    sourceType: 'wiki',
+    trustTier: 'medium',
+  };
+  const streamText = await readStreamText(
+    createMockObserverStream({ message: '神椿是什么？', locale: 'zh', sources: [source] }),
+  );
+  const { events } = parseAiStreamChunk(streamText);
+  const emittedSource = events.find((event) => event.type === 'source');
+  const answer = events
+    .filter((event) => event.type === 'delta')
+    .map((event) => event.data.text)
+    .join('');
+
+  assert.deepEqual(emittedSource.data, source);
+  assert.match(answer, /Wikipedia: 神椿工作室/);
+});
+
 test('createMockObserverStream returns a Japanese answer for ja locale', async () => {
   const answer = await readDeltaText(createMockObserverStream({ message: '神椿とは？', locale: 'ja' }));
 

@@ -20,6 +20,31 @@ function createThinkingMessage() {
   return message;
 }
 
+function appendSource(paragraph, source) {
+  if (!source?.title || !source?.url) {
+    return;
+  }
+
+  const message = paragraph.closest('.ai-message');
+  if (!message) {
+    return;
+  }
+
+  let sources = message.querySelector('.ai-message__sources');
+  if (!sources) {
+    sources = document.createElement('div');
+    sources.className = 'ai-message__sources';
+    message.append(sources);
+  }
+
+  const link = document.createElement('a');
+  link.href = source.url;
+  link.target = '_blank';
+  link.rel = 'noreferrer';
+  link.textContent = source.title;
+  sources.append(link);
+}
+
 function scrollMessages(messages) {
   messages.scrollTo({ top: messages.scrollHeight, behavior: 'smooth' });
 }
@@ -115,6 +140,10 @@ async function readStream(response, paragraph, thinkingMessage, messages, copy) 
       if (event.type === 'challenge_required') {
         thinkingMessage.remove();
         paragraph.textContent = event.data.message || copy.challengeFallback || '';
+      }
+
+      if (event.type === 'source') {
+        appendSource(paragraph, event.data);
       }
 
       if (event.type === 'error') {

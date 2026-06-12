@@ -36,6 +36,7 @@ function createEnv(overrides = {}) {
     SESSION_HASH_SECRET: 'test-session-secret',
     TURNSTILE_SECRET: 'turnstile-secret',
     TURNSTILE_SITE_KEY: 'site-key',
+    AI_OBSERVER_RETRIEVAL: 'off',
     ...overrides,
   };
 }

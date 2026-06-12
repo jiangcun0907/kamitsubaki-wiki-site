@@ -2,6 +2,7 @@ import { assessChatRequest } from './abuse.js';
 import { buildObserverGreeting } from './geo.js';
 import { createSessionToken, hashIpAddress, hashSessionToken, hmacSha256Hex } from './identity.js';
 import { createMockObserverStream } from './mockProvider.js';
+import { retrieveKamitsubakiSources } from './retrieval.js';
 import { recordUsageEvent, upsertAnonymousSession } from './storage.js';
 import { createEncodedStream, streamResponse } from './stream.js';
 
@@ -159,7 +160,17 @@ async function handleChat(request, env) {
     modelName: 'observer-mock-v1',
   });
 
-  return withSessionCookie(streamResponse(createMockObserverStream({ message, locale })), session);
+  const sources =
+    env.AI_OBSERVER_RETRIEVAL === 'off'
+      ? undefined
+      : await retrieveKamitsubakiSources({
+          message,
+          locale,
+          fetchImpl: fetch,
+          limit: 6,
+        });
+
+  return withSessionCookie(streamResponse(createMockObserverStream({ message, locale, sources })), session);
 }
 
 function handleOptions() {

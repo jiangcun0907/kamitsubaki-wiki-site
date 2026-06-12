@@ -10,4 +10,5 @@ database_id = "replace-with-cloudflare-d1-database-id"
 migrations_dir = "migrations"
 
 [vars]
+AI_OBSERVER_RETRIEVAL = "on"
 TURNSTILE_SITE_KEY = "1x00000000000000000000AA"

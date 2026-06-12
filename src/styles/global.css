@@ -870,6 +870,34 @@ input[type="reset"] {
   overflow-wrap: anywhere;
 }
 
+.ai-message__sources {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: 0.62rem;
+}
+
+.ai-message__sources a {
+  max-width: 100%;
+  overflow: hidden;
+  border: 1px solid rgba(137, 245, 223, 0.16);
+  border-radius: 999px;
+  padding: 0.28rem 0.48rem;
+  color: rgba(137, 245, 223, 0.78);
+  font-size: 0.62rem;
+  line-height: 1;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.ai-message__sources a:hover,
+.ai-message__sources a:focus-visible {
+  border-color: rgba(137, 245, 223, 0.48);
+  color: #e8fffa;
+  outline: none;
+}
+
 .ai-message--assistant {
   justify-self: start;
 }
