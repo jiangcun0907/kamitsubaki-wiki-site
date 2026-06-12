@@ -35,6 +35,20 @@ function createCookie(value) {
   return `${SESSION_COOKIE}=${encodeURIComponent(value)}; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=31536000`;
 }
 
+function withSessionCookie(response, session) {
+  if (!session.isNew) {
+    return response;
+  }
+
+  const headers = new Headers(response.headers);
+  headers.set('Set-Cookie', createCookie(session.sessionToken));
+  return new Response(response.body, {
+    status: response.status,
+    statusText: response.statusText,
+    headers,
+  });
+}
+
 async function buildAnonymousSession(request, env) {
   const existingToken = getCookie(request, SESSION_COOKIE);
   const sessionToken = existingToken || createSessionToken();
@@ -135,6 +149,7 @@ async function handleChat(request, env) {
   }
 
   const session = await buildAnonymousSession(request, env);
+  await upsertAnonymousSession(env.AI_OBSERVER_DB, session);
   await recordUsageEvent(env.AI_OBSERVER_DB, {
     id: crypto.randomUUID(),
     anonymousSessionId: session.id,
@@ -144,7 +159,7 @@ async function handleChat(request, env) {
     modelName: 'observer-mock-v1',
   });
 
-  return streamResponse(createMockObserverStream({ message, locale }));
+  return withSessionCookie(streamResponse(createMockObserverStream({ message, locale })), session);
 }
 
 function handleOptions() {

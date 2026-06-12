@@ -60,9 +60,13 @@ test('bootstrap returns greeting, viewer, and Turnstile config', async () => {
   assert.equal(body.turnstile.siteKey, 'site-key');
   assert.equal(body.viewer.kind, 'anonymous');
   assert.match(response.headers.get('Set-Cookie'), /kfw_ai_session=/);
+  assert.equal(env.AI_OBSERVER_DB.calls.length, 1);
+  assert.match(env.AI_OBSERVER_DB.calls[0].sql, /INSERT INTO anonymous_sessions/);
+  assert.match(env.AI_OBSERVER_DB.calls[0].binds[0], /^anon_/);
+  assert.notEqual(env.AI_OBSERVER_DB.calls[0].binds[2], '203.0.113.42');
 });
 
-test('chat returns a normalized event stream for normal messages', async () => {
+test('chat persists a new anonymous session and returns a normalized event stream', async () => {
   const env = createEnv();
   const response = await worker.fetch(
     new Request('https://example.com/api/ai/chat', {
@@ -81,8 +85,35 @@ test('chat returns a normalized event stream for normal messages', async () => {
 
   assert.equal(response.status, 200);
   assert.equal(response.headers.get('Content-Type'), 'text/event-stream; charset=utf-8');
+  assert.match(response.headers.get('Set-Cookie'), /kfw_ai_session=/);
   assert.match(text, /event: delta/);
   assert.match(text, /event: done/);
+  assert.equal(env.AI_OBSERVER_DB.calls.length, 2);
+  assert.match(env.AI_OBSERVER_DB.calls[0].sql, /INSERT INTO anonymous_sessions/);
+  assert.match(env.AI_OBSERVER_DB.calls[1].sql, /INSERT INTO usage_events/);
+  assert.equal(env.AI_OBSERVER_DB.calls[1].binds[3], 'mock_chat');
+  assert.equal(env.AI_OBSERVER_DB.calls[1].binds[4], 'mock');
+  assert.equal(env.AI_OBSERVER_DB.calls[1].binds[5], 'observer-mock-v1');
+});
+
+test('chat reuses an existing anonymous session cookie', async () => {
+  const env = createEnv();
+  const response = await worker.fetch(
+    new Request('https://example.com/api/ai/chat', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Cookie: 'kfw_ai_session=existing-token',
+      },
+      body: JSON.stringify({ message: '神椿是什么？', locale: 'zh' }),
+    }),
+    env,
+    {},
+  );
+
+  assert.equal(response.status, 200);
+  assert.equal(response.headers.get('Set-Cookie'), null);
+  assert.equal(env.AI_OBSERVER_DB.calls.length, 2);
 });
 
 test('chat returns challenge_required for high-frequency anonymous messages', async () => {
