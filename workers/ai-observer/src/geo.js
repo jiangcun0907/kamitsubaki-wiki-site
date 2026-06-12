@@ -35,20 +35,57 @@ const CHINA_REGION_BY_CODE = new Map([
   ['ZJ', '浙江'],
 ]);
 
-const CHINA_REGION_NAME_PATTERNS = [
-  [/guangdong/i, '广东'],
-  [/beijing/i, '北京'],
-  [/shanghai/i, '上海'],
-  [/tianjin/i, '天津'],
-  [/chongqing/i, '重庆'],
-  [/guangxi/i, '广西'],
-  [/hong kong/i, '香港'],
-  [/macau|macao/i, '澳门'],
-  [/inner mongolia/i, '内蒙古'],
-  [/xinjiang/i, '新疆'],
-  [/tibet|xizang/i, '西藏'],
-  [/ningxia/i, '宁夏'],
-];
+const CHINA_PROVINCE_LEVEL_NAMES = new Set(CHINA_REGION_BY_CODE.values());
+
+const CHINA_REGION_CODE_BY_ENGLISH_NAME = new Map([
+  ['anhui', 'AH'],
+  ['beijing', 'BJ'],
+  ['chongqing', 'CQ'],
+  ['fujian', 'FJ'],
+  ['gansu', 'GS'],
+  ['guangdong', 'GD'],
+  ['guangxi', 'GX'],
+  ['guizhou', 'GZ'],
+  ['hainan', 'HI'],
+  ['hebei', 'HE'],
+  ['heilongjiang', 'HL'],
+  ['henan', 'HA'],
+  ['hong kong', 'HK'],
+  ['hubei', 'HB'],
+  ['hunan', 'HN'],
+  ['inner mongolia', 'NM'],
+  ['jiangsu', 'JS'],
+  ['jiangxi', 'JX'],
+  ['jilin', 'JL'],
+  ['liaoning', 'LN'],
+  ['macao', 'MO'],
+  ['macau', 'MO'],
+  ['ningxia', 'NX'],
+  ['qinghai', 'QH'],
+  ['shaanxi', 'SN'],
+  ['shandong', 'SD'],
+  ['shanghai', 'SH'],
+  ['shanxi', 'SX'],
+  ['sichuan', 'SC'],
+  ['taiwan', 'TW'],
+  ['tianjin', 'TJ'],
+  ['tibet', 'XZ'],
+  ['xinjiang', 'XJ'],
+  ['xizang', 'XZ'],
+  ['yunnan', 'YN'],
+  ['zhejiang', 'ZJ'],
+]);
+
+function normalizeEnglishRegionKey(region) {
+  return region
+    .toLowerCase()
+    .replace(/[^\p{L}\p{N}]+/gu, ' ')
+    .replace(/\b(?:zhuang|hui|uyghur|uighur|weiwuer)\s+autonomous\s+region\b/g, '')
+    .replace(/\bspecial\s+administrative\s+region\b/g, '')
+    .replace(/\b(?:autonomous\s+region|province|municipality)\b/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
 
 export function normalizeChinaRegion(cf = {}) {
   if (cf.country !== 'CN') {
@@ -66,7 +103,7 @@ export function normalizeChinaRegion(cf = {}) {
   }
 
   if (/[\u3400-\u9fff]/.test(region)) {
-    return region
+    const normalizedRegion = region
       .replace(/省$/, '')
       .replace(/市$/, '')
       .replace(/壮族自治区$/, '')
@@ -74,10 +111,12 @@ export function normalizeChinaRegion(cf = {}) {
       .replace(/维吾尔自治区$/, '')
       .replace(/自治区$/, '')
       .replace(/特别行政区$/, '');
+
+    return CHINA_PROVINCE_LEVEL_NAMES.has(normalizedRegion) ? normalizedRegion : '';
   }
 
-  const matched = CHINA_REGION_NAME_PATTERNS.find(([pattern]) => pattern.test(region));
-  return matched?.[1] ?? '';
+  const matchedCode = CHINA_REGION_CODE_BY_ENGLISH_NAME.get(normalizeEnglishRegionKey(region));
+  return matchedCode ? CHINA_REGION_BY_CODE.get(matchedCode) : '';
 }
 
 export function buildObserverGreeting({ cf = {}, displayName = '' } = {}) {
