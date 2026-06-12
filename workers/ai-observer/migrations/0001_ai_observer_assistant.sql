@@ -142,11 +142,18 @@ CREATE TABLE IF NOT EXISTS deletion_requests (
   created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
   completed_at TEXT,
   FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE SET NULL,
-  FOREIGN KEY (anonymous_session_id) REFERENCES anonymous_sessions(id) ON DELETE SET NULL
+  FOREIGN KEY (anonymous_session_id) REFERENCES anonymous_sessions(id) ON DELETE SET NULL,
+  CHECK (
+    (user_id IS NOT NULL AND anonymous_session_id IS NULL)
+    OR (user_id IS NULL AND anonymous_session_id IS NOT NULL)
+  )
 );
 
 CREATE UNIQUE INDEX IF NOT EXISTS idx_user_identities_provider_user
   ON user_identities(provider, provider_user_id);
+
+CREATE UNIQUE INDEX IF NOT EXISTS idx_anonymous_sessions_token_hash
+  ON anonymous_sessions(session_token_hash);
 
 CREATE INDEX IF NOT EXISTS idx_anonymous_sessions_token_ip
   ON anonymous_sessions(session_token_hash, ip_hash);
