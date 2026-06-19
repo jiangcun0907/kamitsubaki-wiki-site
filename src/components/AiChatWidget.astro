@@ -148,13 +148,13 @@ const apiBase = import.meta.env.PUBLIC_AI_OBSERVER_API_BASE || '';
       </article>
     </div>
 
-    <div class="ai-chat__quick px-4 py-3 flex gap-2 overflow-x-auto scrollbar-hide border-t border-white/5" data-ai-quick>
+    <div class="ai-chat__quick shrink-0 px-4 py-3 flex gap-2 overflow-x-auto scrollbar-hide border-t border-white/5" data-ai-quick>
       {copy.quickPrompts.map((prompt) => (
         <button class="shrink-0 text-[0.7rem] font-sans text-[#d1d1d1]/80 bg-white/5 border border-white/10 px-3 py-1.5 rounded-full hover:bg-[#c4a7ff]/10 hover:border-[#c4a7ff]/40 hover:text-white transition-all whitespace-nowrap shadow-sm" type="button" data-ai-prompt={prompt}>{prompt}</button>
       ))}
     </div>
 
-    <form class="ai-chat__form p-4 border-t border-white/5 bg-black/20" data-ai-form>
+    <form class="ai-chat__form shrink-0 p-4 border-t border-white/5 bg-black/20" data-ai-form>
       <label class="sr-only" for="ai-chat-input">{copy.inputLabel}</label>
       <div class="relative flex items-end gap-2 bg-white/5 border border-white/10 rounded-xl p-1 focus-within:border-[#89f5df]/50 focus-within:bg-[#89f5df]/5 transition-all shadow-inner">
         <textarea class="w-full bg-transparent resize-none outline-none text-[0.85rem] font-sans text-[#f6f7fb] placeholder-[#f6f7fb]/30 py-2.5 pl-3 max-h-32 min-h-[44px]" id="ai-chat-input" data-ai-input rows="1" maxlength="5000" placeholder={copy.inputPlaceholder}></textarea>
