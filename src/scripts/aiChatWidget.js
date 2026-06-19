@@ -1,6 +1,7 @@
 import { parseAiStreamChunk } from '../lib/aiStream.mjs';
 
 const widgets = document.querySelectorAll('[data-ai-chat]');
+let turnstileLoader;
 
 function createMessage(role, text = '') {
   const message = document.createElement('article');
@@ -155,6 +156,61 @@ async function bootstrap(root) {
   }
 }
 
+function loadTurnstile() {
+  if (window.turnstile) {
+    return Promise.resolve(window.turnstile);
+  }
+
+  if (turnstileLoader) {
+    return turnstileLoader;
+  }
+
+  turnstileLoader = new Promise((resolve, reject) => {
+    const script = document.createElement('script');
+    script.src = 'https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit';
+    script.async = true;
+    script.defer = true;
+    script.onload = () => (window.turnstile ? resolve(window.turnstile) : reject(new Error('Turnstile unavailable.')));
+    script.onerror = () => reject(new Error('Turnstile failed to load.'));
+    document.head.append(script);
+  });
+
+  return turnstileLoader;
+}
+
+async function requestTurnstileToken(root, paragraph, copy) {
+  const siteKey = root.dataset.turnstileSiteKey || '';
+  if (!siteKey) {
+    return '';
+  }
+
+  try {
+    const turnstile = await loadTurnstile();
+    const container = document.createElement('div');
+    container.className = 'ai-message__challenge';
+    paragraph.after(container);
+
+    return await new Promise((resolve) => {
+      turnstile.render(container, {
+        sitekey: siteKey,
+        callback(token) {
+          root.dataset.turnstileToken = token;
+          paragraph.textContent = copy.challengeReady || paragraph.textContent;
+          resolve(token);
+        },
+        'error-callback'() {
+          resolve('');
+        },
+        'expired-callback'() {
+          delete root.dataset.turnstileToken;
+        },
+      });
+    });
+  } catch {
+    return '';
+  }
+}
+
 function startOAuth(root, provider) {
   const apiBase = root.dataset.apiBase || '';
   if (!apiBase || !['github', 'google'].includes(provider)) {
@@ -184,7 +240,7 @@ async function logout(root, copy) {
   }
 }
 
-async function readStream(response, paragraph, thinkingMessage, messages, copy) {
+async function readStream(response, paragraph, thinkingMessage, messages, copy, root) {
   const contentType = response.headers.get('Content-Type') || '';
   if (!contentType.includes('text/event-stream')) {
     throw new Error('AI observer response is not an event stream.');
@@ -199,6 +255,7 @@ async function readStream(response, paragraph, thinkingMessage, messages, copy) 
   const decoder = new TextDecoder();
   let remainder = '';
   let hasDelta = false;
+  let needsChallenge = false;
 
   while (true) {
     const { value, done } = await reader.read();
@@ -223,6 +280,12 @@ async function readStream(response, paragraph, thinkingMessage, messages, copy) 
       if (event.type === 'challenge_required') {
         thinkingMessage.remove();
         paragraph.textContent = event.data.message || copy.challengeFallback || '';
+        needsChallenge = true;
+      }
+
+      if (event.type === 'login_required') {
+        thinkingMessage.remove();
+        paragraph.textContent = event.data.message || copy.loginRequiredFallback || copy.authErrorFallback || '';
       }
 
       if (event.type === 'source') {
@@ -239,6 +302,10 @@ async function readStream(response, paragraph, thinkingMessage, messages, copy) 
   if (!hasDelta && !paragraph.textContent) {
     thinkingMessage.remove();
     paragraph.textContent = paragraph.dataset.emptyResponse || '';
+  }
+
+  if (needsChallenge && root) {
+    await requestTurnstileToken(root, paragraph, copy);
   }
 }
 
@@ -314,6 +381,7 @@ function initWidget(root) {
 
     const apiBase = root.dataset.apiBase || '';
     const locale = root.dataset.locale || document.documentElement.lang || 'zh';
+    const turnstileToken = root.dataset.turnstileToken || '';
     const userMessage = createMessage('user', message);
     messages.append(userMessage.message);
     input.value = '';
@@ -334,10 +402,11 @@ function initWidget(root) {
           'Content-Type': 'application/json',
           Accept: 'text/event-stream',
         },
-        body: JSON.stringify({ message, locale, ...readModelSettings(root) }),
+        body: JSON.stringify({ message, locale, turnstileToken, ...readModelSettings(root) }),
       });
+      delete root.dataset.turnstileToken;
 
-      await readStream(response, assistantMessage.paragraph, thinkingMessage, messages, copy);
+      await readStream(response, assistantMessage.paragraph, thinkingMessage, messages, copy, root);
     } catch {
       thinkingMessage.remove();
       assistantMessage.paragraph.textContent = copy.fallbackOffline || '';

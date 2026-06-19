@@ -23,6 +23,7 @@ type AiChatCopy = {
   streamErrorFallback: string;
   accountAnonymous: string;
   accountLoggedInPrefix: string;
+  loginRequiredFallback?: string;
   githubLoginLabel: string;
   googleLoginLabel: string;
   logoutLabel: string;
@@ -39,6 +40,7 @@ const normalizedCopy = {
   thinkingModeLabel: copy.thinkingModeLabel ?? 'Thinking',
   accountAnonymous: copy.accountAnonymous ?? 'Anonymous observer',
   accountLoggedInPrefix: copy.accountLoggedInPrefix ?? 'Signed in',
+  loginRequiredFallback: copy.loginRequiredFallback ?? 'Anonymous limit reached. Sign in to continue.',
   githubLoginLabel: copy.githubLoginLabel ?? 'Continue with GitHub',
   googleLoginLabel: copy.googleLoginLabel ?? 'Continue with Google',
   logoutLabel: copy.logoutLabel ?? 'Sign out',
