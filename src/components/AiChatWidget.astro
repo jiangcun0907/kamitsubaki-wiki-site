@@ -8,14 +8,14 @@ type AiChatCopy = {
   inputLabel: string;
   inputPlaceholder: string;
   sendLabel: string;
+  keyboardHint?: string;
   modelModeLabel: string;
-  customModelLabel: string;
-  customModelPlaceholder: string;
   thinkingModeLabel: string;
   modelModes: { value: string; label: string }[];
   thinkingModes: { value: string; label: string }[];
   bubbleIdle: string;
   bubbleThinking: string;
+  thinkingPhrases?: string[];
   greeting: string;
   fallbackOffline: string;
   emptyResponse: string;
@@ -28,6 +28,15 @@ type AiChatCopy = {
   googleLoginLabel: string;
   logoutLabel: string;
   authErrorFallback: string;
+  historyLabel?: string;
+  historyEmpty?: string;
+  newThreadLabel?: string;
+  renameThreadLabel?: string;
+  deleteThreadLabel?: string;
+  clearHistoryLabel?: string;
+  renameThreadPrompt?: string;
+  deleteThreadConfirm?: string;
+  clearHistoryConfirm?: string;
   quickPrompts: string[];
 };
 
@@ -35,9 +44,8 @@ const { lang = 'zh', copy } = Astro.props as { lang?: string; copy: AiChatCopy }
 const normalizedCopy = {
   ...copy,
   modelModeLabel: copy.modelModeLabel ?? 'Model',
-  customModelLabel: copy.customModelLabel ?? 'Custom',
-  customModelPlaceholder: copy.customModelPlaceholder ?? 'model-id',
   thinkingModeLabel: copy.thinkingModeLabel ?? 'Thinking',
+  keyboardHint: copy.keyboardHint ?? 'Enter sends · Control+Enter newline',
   accountAnonymous: copy.accountAnonymous ?? 'Anonymous observer',
   accountLoggedInPrefix: copy.accountLoggedInPrefix ?? 'Signed in',
   loginRequiredFallback: copy.loginRequiredFallback ?? 'Anonymous limit reached. Sign in to continue.',
@@ -45,13 +53,22 @@ const normalizedCopy = {
   googleLoginLabel: copy.googleLoginLabel ?? 'Continue with Google',
   logoutLabel: copy.logoutLabel ?? 'Sign out',
   authErrorFallback: copy.authErrorFallback ?? 'The auth line is unstable.',
-  modelModes: copy.modelModes ?? [
+  historyLabel: copy.historyLabel ?? 'History',
+  historyEmpty: copy.historyEmpty ?? 'No conversations yet.',
+  newThreadLabel: copy.newThreadLabel ?? 'New chat',
+  renameThreadLabel: copy.renameThreadLabel ?? 'Rename',
+  deleteThreadLabel: copy.deleteThreadLabel ?? 'Delete',
+  clearHistoryLabel: copy.clearHistoryLabel ?? 'Clear history',
+  renameThreadPrompt: copy.renameThreadPrompt ?? 'Conversation title',
+  deleteThreadConfirm: copy.deleteThreadConfirm ?? 'Delete this conversation?',
+  clearHistoryConfirm: copy.clearHistoryConfirm ?? 'Delete all conversations?',
+  thinkingPhrases: copy.thinkingPhrases ?? [copy.bubbleThinking ?? 'Thinking'],
+  modelModes: (copy.modelModes ?? [
     { value: 'auto', label: 'Auto' },
     { value: 'fast', label: 'Fast' },
     { value: 'balanced', label: 'Balanced' },
     { value: 'deep', label: 'Deep' },
-    { value: 'custom', label: 'Custom' },
-  ],
+  ]).filter((mode) => mode.value !== 'custom'),
   thinkingModes: copy.thinkingModes ?? [
     { value: 'auto', label: 'Auto' },
     { value: 'off', label: 'Off' },
@@ -62,111 +79,241 @@ const normalizedCopy = {
 const apiBase = import.meta.env.PUBLIC_AI_OBSERVER_API_BASE || '';
 ---
 
+<div class="ai-chat__launcher" data-ai-launcher>
+  <div class="ai-chat__bubble" data-ai-bubble aria-hidden="true">{copy.bubbleIdle}</div>
+  <button
+    class="ai-chat__orb"
+    type="button"
+    data-ai-toggle
+    aria-label={copy.buttonLabel}
+    aria-expanded="false"
+    onclick="(()=>{const launcher=this.closest('[data-ai-launcher]');if(launcher?.dataset.suppressClick==='true')return;const root=document.querySelector('[data-ai-chat]');root?.classList.add('is-open');launcher?.classList.add('is-hidden');root?.querySelector('[data-ai-panel]')?.setAttribute('aria-hidden','false');this.setAttribute('aria-expanded','true');setTimeout(()=>root?.querySelector('[data-ai-input]')?.focus(),160);})()"
+  >
+    <span class="ai-chat__orb-ring" aria-hidden="true"></span>
+    <span class="ai-chat__orb-core" aria-hidden="true">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 11.5a8.5 8.5 0 0 1-12.3 7.6L3 21l1.9-5.7A8.5 8.5 0 1 1 21 11.5Z" />
+      </svg>
+    </span>
+  </button>
+</div>
+
 <aside
-  class="ai-chat fixed bottom-6 right-6 z-50 font-sans"
+  class="ai-chat fixed inset-0 z-50 font-sans"
   data-ai-chat
   data-api-base={apiBase}
   data-locale={lang}
   data-copy={JSON.stringify(normalizedCopy)}
   aria-label={copy.title}
 >
-  <div class="ai-chat__bubble absolute bottom-16 right-0 mb-2 px-4 py-2.5 bg-[#0f1419]/90 text-[#f0f0f0] border border-white/10 text-xs tracking-wider rounded-xl shadow-[0_8px_30px_rgba(0,0,0,0.5)] opacity-0 scale-95 pointer-events-none transition-all duration-300 origin-bottom-right backdrop-blur-md" data-ai-bubble aria-hidden="true">{copy.bubbleIdle}</div>
-  
-  <button class="ai-chat__orb relative flex items-center justify-center w-14 h-14 rounded-full bg-[#0a0a0a] text-[#89f5df] border border-white/10 shadow-[0_0_20px_rgba(137,245,223,0.1)] transition-all duration-300 hover:scale-105 hover:border-[#89f5df]/50 hover:shadow-[0_0_30px_rgba(137,245,223,0.2)] active:scale-95" type="button" data-ai-toggle aria-label={copy.buttonLabel} aria-expanded="false">
-    <span class="ai-chat__orb-ring absolute inset-0 rounded-full border border-[#89f5df]/20"></span>
-    <span class="ai-chat__orb-core">
-      <svg class="w-6 h-6 transition-transform duration-300" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-        <path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/>
-      </svg>
-    </span>
-  </button>
+  <button
+    class="ai-chat__scrim"
+    type="button"
+    data-ai-scrim
+    aria-label={copy.closeLabel}
+    onclick="(()=>{const root=this.closest('[data-ai-chat]');root?.classList.remove('is-open');document.querySelector('[data-ai-launcher]')?.classList.remove('is-hidden');root?.querySelector('[data-ai-panel]')?.setAttribute('aria-hidden','true');document.querySelector('[data-ai-toggle]')?.setAttribute('aria-expanded','false');})()"
+  ></button>
 
-  <section class="ai-chat__panel absolute bottom-20 right-0 w-[32rem] h-[45rem] max-w-[calc(100vw-3rem)] max-h-[85vh] flex flex-col bg-[#07080a]/90 backdrop-blur-xl border border-white/10 shadow-[0_30px_90px_rgba(0,0,0,0.7)] rounded-xl overflow-hidden transition-all duration-300 opacity-0 scale-95 pointer-events-none origin-bottom-right" data-ai-panel aria-hidden="true">
-    
-    <header class="ai-chat__header shrink-0 flex items-center justify-between p-5 border-b border-white/5 bg-gradient-to-r from-white/5 to-transparent">
-      <div>
-        <p class="text-[0.6rem] font-medium text-[#89f5df]/70 uppercase tracking-[0.2em] mb-1">{copy.status}</p>
-        <h2 class="text-[1rem] font-serif text-[#f6f7fb] tracking-wider">{copy.title}</h2>
+  <section class="ai-chat__panel" data-ai-panel aria-hidden="true">
+    <header class="ai-chat__header">
+      <div class="ai-chat__title-block">
+        <p>{copy.status}</p>
+        <h2>{copy.title}</h2>
       </div>
-      <div class="ai-chat__actions flex items-center gap-2">
-        <button class="p-2 text-[#d1d1d1]/60 hover:text-[#89f5df] hover:bg-[#89f5df]/10 border border-transparent hover:border-[#89f5df]/30 rounded-full transition-all" type="button" data-ai-minimize aria-label={copy.minimizeLabel}>
-          <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5 12h14" /></svg>
+      <div class="ai-chat__actions">
+        <button class="ai-chat__icon-button" type="button" data-ai-history-toggle aria-label={normalizedCopy.historyLabel} aria-expanded="false">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 12a9 9 0 1 0 3-6.7"/><path d="M3 4v5h5"/><path d="M12 7v5l3 2"/></svg>
         </button>
-        <button class="p-2 text-[#d1d1d1]/60 hover:text-[#89f5df] hover:bg-[#89f5df]/10 border border-transparent hover:border-[#89f5df]/30 rounded-full transition-all" type="button" data-ai-close aria-label={copy.closeLabel}>
-          <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M18 6L6 18M6 6l12 12" /></svg>
+        <button class="ai-chat__icon-button" type="button" data-ai-settings-toggle aria-label={`${normalizedCopy.modelModeLabel} / ${normalizedCopy.thinkingModeLabel}`} aria-expanded="false">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7h10"/><path d="M18 7h2"/><path d="M16 5v4"/><path d="M4 17h2"/><path d="M10 17h10"/><path d="M8 15v4"/></svg>
         </button>
+        <button
+          class="ai-chat__icon-button"
+          type="button"
+          data-ai-close
+          aria-label={copy.closeLabel}
+          onclick="(()=>{const root=this.closest('[data-ai-chat]');root?.classList.remove('is-open');document.querySelector('[data-ai-launcher]')?.classList.remove('is-hidden');root?.querySelector('[data-ai-panel]')?.setAttribute('aria-hidden','true');document.querySelector('[data-ai-toggle]')?.setAttribute('aria-expanded','false');})()"
+        >
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 6 6 18M6 6l12 12" /></svg>
+        </button>
+      </div>
+      <div class="ai-chat__settings-popover" data-ai-settings-popover hidden>
+        <div class="ai-chat__controls" data-ai-controls>
+          <div class="ai-chat__control-group">
+            <span>{normalizedCopy.modelModeLabel}</span>
+            <div class="ai-chat__segmented" role="radiogroup" data-ai-model-choice data-value={normalizedCopy.modelModes[0]?.value ?? 'auto'} aria-label={normalizedCopy.modelModeLabel}>
+              {normalizedCopy.modelModes.map((mode, index) => (
+                <button type="button" role="radio" data-ai-model-option={mode.value} aria-checked={index === 0 ? 'true' : 'false'} class={index === 0 ? 'is-active' : ''}>
+                  {mode.label}
+                </button>
+              ))}
+            </div>
+          </div>
+          <div class="ai-chat__control-group">
+            <span>{normalizedCopy.thinkingModeLabel}</span>
+            <div class="ai-chat__segmented" role="radiogroup" data-ai-thinking-mode data-value={normalizedCopy.thinkingModes[0]?.value ?? 'auto'} aria-label={normalizedCopy.thinkingModeLabel}>
+              {normalizedCopy.thinkingModes.map((mode, index) => (
+                <button type="button" role="radio" data-ai-thinking-option={mode.value} aria-checked={index === 0 ? 'true' : 'false'} class={index === 0 ? 'is-active' : ''}>
+                  {mode.label}
+                </button>
+              ))}
+            </div>
+          </div>
+        </div>
       </div>
     </header>
 
-    <div class="ai-chat__auth shrink-0 flex flex-col gap-3 p-4 px-5 border-b border-white/5 bg-gradient-to-r from-[#c4a7ff]/5 to-transparent" data-ai-auth>
-      <div class="flex items-center justify-between">
-        <p class="text-xs font-mono text-[#d1d1d1]/70" data-ai-auth-status>{normalizedCopy.accountAnonymous}</p>
-        <button class="text-[0.65rem] text-[#ffbebe]/80 hover:text-white transition-colors px-2 py-1 border border-transparent hover:border-[#ffbebe]/30 rounded-full bg-white/5" type="button" data-ai-logout hidden>{normalizedCopy.logoutLabel}</button>
+    <div class="ai-chat__auth" data-ai-auth>
+      <div class="ai-chat__auth-row">
+        <p data-ai-auth-status>{normalizedCopy.accountAnonymous}</p>
+        <button class="ai-chat__logout" type="button" data-ai-logout hidden>{normalizedCopy.logoutLabel}</button>
       </div>
-      <div class="flex gap-3 ai-chat__auth-actions">
-        <button class="group flex flex-1 items-center justify-center gap-2 py-2 px-3 text-xs font-sans rounded-full bg-white/5 border border-white/10 hover:border-[#c4a7ff]/50 hover:bg-[#c4a7ff]/10 text-[#d1d1d1] hover:text-white transition-all active:scale-95" type="button" data-ai-oauth="github">
-          <svg class="w-4 h-4 opacity-70 group-hover:opacity-100 transition-opacity" viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+      <div class="ai-chat__auth-actions">
+        <button type="button" data-ai-oauth="github">
+          <svg viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
           {normalizedCopy.githubLoginLabel}
         </button>
-        <button class="group flex flex-1 items-center justify-center gap-2 py-2 px-3 text-xs font-sans rounded-full bg-white/5 border border-white/10 hover:border-[#c4a7ff]/50 hover:bg-[#c4a7ff]/10 text-[#d1d1d1] hover:text-white transition-all active:scale-95" type="button" data-ai-oauth="google">
-          <svg class="w-4 h-4 opacity-70 group-hover:opacity-100 transition-opacity" viewBox="0 0 48 48"><path fill="#FFC107" d="M43.611 20.083H42V20H24v8h11.303c-1.649 4.657-6.08 8-11.303 8-6.627 0-12-5.373-12-12s5.373-12 12-12c3.059 0 5.842 1.154 7.961 3.039l5.657-5.657C34.046 6.053 29.268 4 24 4 12.955 4 4 12.955 4 24s8.955 20 20 20 20-8.955 20-20c0-1.341-.138-2.65-.389-3.917z"/><path fill="#FF3D00" d="M6.306 14.691l6.571 4.819C14.655 15.108 18.961 12 24 12c3.059 0 5.842 1.154 7.961 3.039l5.657-5.657C34.046 6.053 29.268 4 24 4 16.318 4 9.656 8.337 6.306 14.691z"/><path fill="#4CAF50" d="M24 44c5.166 0 9.86-1.977 13.409-5.192l-6.19-5.238C29.211 35.091 26.715 36 24 36c-5.202 0-9.619-3.317-11.283-7.946l-6.522 5.025C9.505 39.556 16.227 44 24 44z"/><path fill="#1976D2" d="M43.611 20.083H42V20H24v8h11.303c-.792 2.237-2.231 4.166-4.087 5.571c.001-.001.002-.001.003-.002l6.19 5.238C36.971 39.205 44 34 44 24c0-1.341-.138-2.65-.389-3.917z"/></svg>
+        <button type="button" data-ai-oauth="google">
+          <svg viewBox="0 0 48 48" aria-hidden="true"><path fill="#FFC107" d="M43.611 20.083H42V20H24v8h11.303c-1.649 4.657-6.08 8-11.303 8-6.627 0-12-5.373-12-12S17.373 12 24 12c3.059 0 5.842 1.154 7.961 3.039l5.657-5.657C34.046 6.053 29.268 4 24 4 12.955 4 4 12.955 4 24s8.955 20 20 20 20-8.955 20-20c0-1.341-.138-2.65-.389-3.917z"/><path fill="#FF3D00" d="m6.306 14.691 6.571 4.819C14.655 15.108 18.961 12 24 12c3.059 0 5.842 1.154 7.961 3.039l5.657-5.657C34.046 6.053 29.268 4 24 4 16.318 4 9.656 8.337 6.306 14.691z"/><path fill="#4CAF50" d="M24 44c5.166 0 9.86-1.977 13.409-5.192l-6.19-5.238C29.211 35.091 26.715 36 24 36c-5.202 0-9.619-3.317-11.283-7.946l-6.522 5.025C9.505 39.556 16.227 44 24 44z"/><path fill="#1976D2" d="M43.611 20.083H42V20H24v8h11.303c-.792 2.237-2.231 4.166-4.087 5.571l6.19 5.238C36.971 39.205 44 34 44 24c0-1.341-.138-2.65-.389-3.917z"/></svg>
           {normalizedCopy.googleLoginLabel}
         </button>
       </div>
-      <p class="text-xs text-red-500 mt-1" data-ai-auth-note hidden></p>
+      <p data-ai-auth-note hidden></p>
     </div>
 
-    <div class="ai-chat__controls shrink-0 grid grid-cols-2 gap-3 p-4 border-b border-white/5 bg-white/[0.02]" data-ai-controls>
-      <label class="flex flex-col gap-1.5 min-w-0">
-        <span class="text-[0.6rem] text-[#89f5df]/70 uppercase tracking-[0.2em]">{normalizedCopy.modelModeLabel}</span>
-        <select class="w-full h-8 text-xs bg-black/30 border border-white/10 rounded font-sans text-[#d1d1d1] px-2 outline-none focus:border-[#89f5df]/50 focus:bg-[#89f5df]/10 transition-colors" data-ai-model-choice aria-label={normalizedCopy.modelModeLabel}>
-          {normalizedCopy.modelModes.map((mode) => (
-            <option class="bg-[#0f1419]" value={mode.value}>{mode.label}</option>
-          ))}
-        </select>
-      </label>
-      <label class="ai-chat__custom-model flex flex-col gap-1.5 col-span-2 min-w-0" data-ai-custom-model-wrap hidden>
-        <span class="text-[0.6rem] text-[#89f5df]/70 uppercase tracking-[0.2em]">{normalizedCopy.customModelLabel}</span>
-        <input class="w-full h-8 text-xs bg-black/30 border border-white/10 rounded font-sans text-[#d1d1d1] px-2 outline-none focus:border-[#89f5df]/50 focus:bg-[#89f5df]/10 transition-colors" data-ai-custom-model type="text" inputmode="text" autocomplete="off" placeholder={normalizedCopy.customModelPlaceholder} />
-      </label>
-      <label class="flex flex-col gap-1.5 min-w-0">
-        <span class="text-[0.6rem] text-[#89f5df]/70 uppercase tracking-[0.2em]">{normalizedCopy.thinkingModeLabel}</span>
-        <select class="w-full h-8 text-xs bg-black/30 border border-white/10 rounded font-sans text-[#d1d1d1] px-2 outline-none focus:border-[#89f5df]/50 focus:bg-[#89f5df]/10 transition-colors" data-ai-thinking-mode aria-label={normalizedCopy.thinkingModeLabel}>
-          {normalizedCopy.thinkingModes.map((mode) => (
-            <option class="bg-[#0f1419]" value={mode.value}>{mode.label}</option>
-          ))}
-        </select>
-      </label>
-    </div>
-
-    <div class="ai-chat__messages flex-1 overflow-y-auto p-4 space-y-4 scroll-smooth" data-ai-messages role="log" aria-live="polite">
-      <article class="ai-message ai-message--assistant flex gap-3 w-full">
-        <div class="w-8 h-8 rounded-full border border-white/10 bg-[#0a0a0a] flex items-center justify-center shrink-0 shadow-sm">
-           <svg class="w-4 h-4 text-[#89f5df]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>
+    <div class="ai-chat__body">
+      <aside class="ai-chat__history" data-ai-history-panel hidden>
+        <div class="ai-chat__history-head">
+          <span>{normalizedCopy.historyLabel}</span>
+          <div class="ai-chat__history-actions">
+            <button type="button" data-ai-new-thread>{normalizedCopy.newThreadLabel}</button>
+            <button type="button" data-ai-history-clear aria-label={normalizedCopy.clearHistoryLabel} title={normalizedCopy.clearHistoryLabel}>
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7h16"/><path d="M9 7V4h6v3"/><path d="m7 7 1 13h8l1-13"/><path d="M10 11v5M14 11v5"/></svg>
+            </button>
+          </div>
         </div>
-        <div class="bg-white/5 border border-white/10 text-[#d1d1d1] px-4 py-3 rounded-2xl rounded-tl-sm text-[0.85rem] leading-[1.75] font-sans">
-          <p>{copy.greeting}</p>
+        <template data-ai-thread-menu></template>
+        <div class="ai-chat__thread-list" data-ai-thread-list data-empty={normalizedCopy.historyEmpty} aria-live="polite"></div>
+      </aside>
+
+      <main class="ai-chat__main">
+        <div class="ai-chat__messages" data-ai-messages role="log" aria-live="polite">
+          <article class="ai-message ai-message--assistant">
+            <div class="ai-message__avatar" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11.5a8.5 8.5 0 0 1-12.3 7.6L3 21l1.9-5.7A8.5 8.5 0 1 1 21 11.5Z"/></svg>
+            </div>
+            <div class="ai-message__content ai-markdown">
+              <p>{copy.greeting}</p>
+            </div>
+          </article>
         </div>
-      </article>
+
+        <div class="ai-chat__quick" data-ai-quick>
+          {copy.quickPrompts.map((prompt) => <button type="button" data-ai-prompt={prompt}>{prompt}</button>)}
+        </div>
+
+        <form class="ai-chat__form" data-ai-form>
+          <label class="sr-only" for="ai-chat-input">{copy.inputLabel}</label>
+          <div class="ai-chat__composer">
+            <textarea
+              id="ai-chat-input"
+              data-ai-input
+              rows="1"
+              maxlength="5000"
+              placeholder={copy.inputPlaceholder}
+            ></textarea>
+            <button type="submit" data-ai-submit aria-label={copy.sendLabel}>
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M12 5l7 7-7 7" /></svg>
+            </button>
+          </div>
+          <p class="ai-chat__hint">{normalizedCopy.keyboardHint}</p>
+        </form>
+      </main>
     </div>
 
-    <div class="ai-chat__quick shrink-0 px-4 py-3 flex gap-2 overflow-x-auto scrollbar-hide border-t border-white/5" data-ai-quick>
-      {copy.quickPrompts.map((prompt) => (
-        <button class="shrink-0 text-[0.7rem] font-sans text-[#d1d1d1]/80 bg-white/5 border border-white/10 px-3 py-1.5 rounded-full hover:bg-[#c4a7ff]/10 hover:border-[#c4a7ff]/40 hover:text-white transition-all whitespace-nowrap shadow-sm" type="button" data-ai-prompt={prompt}>{prompt}</button>
-      ))}
-    </div>
-
-    <form class="ai-chat__form shrink-0 p-4 border-t border-white/5 bg-black/20" data-ai-form>
-      <label class="sr-only" for="ai-chat-input">{copy.inputLabel}</label>
-      <div class="relative flex items-end gap-2 bg-white/5 border border-white/10 rounded-xl p-1 focus-within:border-[#89f5df]/50 focus-within:bg-[#89f5df]/5 transition-all shadow-inner">
-        <textarea class="w-full bg-transparent resize-none outline-none text-[0.85rem] font-sans text-[#f6f7fb] placeholder-[#f6f7fb]/30 py-2.5 pl-3 max-h-32 min-h-[44px]" id="ai-chat-input" data-ai-input rows="1" maxlength="5000" placeholder={copy.inputPlaceholder}></textarea>
-        <button class="shrink-0 w-9 h-9 flex items-center justify-center rounded-lg bg-white/10 border border-white/10 text-[#d1d1d1] hover:bg-[#89f5df]/20 hover:text-[#89f5df] hover:border-[#89f5df]/40 transition-all disabled:opacity-30 disabled:cursor-not-allowed mb-1 mr-1" type="submit" data-ai-submit aria-label={copy.sendLabel}>
-          <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M12 5l7 7-7 7" /></svg>
-        </button>
-      </div>
-    </form>
+    <dialog class="ai-chat__dialog" data-ai-history-dialog>
+      <form method="dialog">
+        <div class="ai-chat__dialog-glow" aria-hidden="true"></div>
+        <h3 data-ai-dialog-title></h3>
+        <p data-ai-dialog-message></p>
+        <input data-ai-dialog-input type="text" maxlength="80" autocomplete="off" />
+        <div class="ai-chat__dialog-actions">
+          <button type="submit" value="cancel">{copy.closeLabel}</button>
+          <button class="is-primary" type="submit" value="confirm" data-ai-dialog-confirm></button>
+        </div>
+      </form>
+    </dialog>
   </section>
 </aside>
+
+<script is:inline>
+  (() => {
+    document.querySelectorAll('[data-ai-chat]').forEach((root) => {
+      if (!(root instanceof HTMLElement) || root.dataset.aiShellBound === 'true') {
+        return;
+      }
+
+      root.dataset.aiShellBound = 'true';
+      const setOpen = (open) => {
+        root.classList.toggle('is-open', open);
+        document.querySelector('[data-ai-launcher]')?.classList.toggle('is-hidden', open);
+        root.querySelector('[data-ai-panel]')?.setAttribute('aria-hidden', open ? 'false' : 'true');
+        document.querySelector('[data-ai-toggle]')?.setAttribute('aria-expanded', String(open));
+        if (open) {
+          window.setTimeout(() => root.querySelector('[data-ai-input]')?.focus(), 160);
+        }
+      };
+
+      root.addEventListener('click', (event) => {
+        const target = event.target instanceof Element ? event.target : null;
+        if (!target) {
+          return;
+        }
+
+        if (target.closest('[data-ai-toggle]')) {
+          if (root.dataset.launcherDragging !== 'true') {
+            setOpen(true);
+          }
+          return;
+        }
+
+        if (target.closest('[data-ai-close], [data-ai-scrim]')) {
+          setOpen(false);
+        }
+      });
+
+      root.querySelectorAll('[data-ai-input]').forEach((input) => {
+        if (!(input instanceof HTMLTextAreaElement) || input.dataset.aiKeydownBound === 'true') {
+          return;
+        }
+
+        input.dataset.aiKeydownBound = 'true';
+        input.addEventListener('keydown', (event) => {
+          const isEnter = event.key === 'Enter' || event.code === 'NumpadEnter';
+          if (!isEnter) {
+            return;
+          }
+
+          if ((event.ctrlKey || event.metaKey) && !event.isComposing) {
+            event.preventDefault();
+            const start = input.selectionStart ?? input.value.length;
+            const end = input.selectionEnd ?? input.value.length;
+            input.value = `${input.value.slice(0, start)}\n${input.value.slice(end)}`;
+            input.selectionStart = start + 1;
+            input.selectionEnd = start + 1;
+            input.dispatchEvent(new Event('input', { bubbles: true }));
+            return;
+          }
+
+          if (!event.shiftKey && !event.altKey && !event.ctrlKey && !event.metaKey && !event.isComposing) {
+            event.preventDefault();
+            input.form?.requestSubmit();
+          }
+        });
+      });
+    });
+  })();
+</script>
 
 <script>
   import '../scripts/aiChatWidget.js';

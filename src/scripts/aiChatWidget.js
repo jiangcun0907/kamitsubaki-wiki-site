@@ -1,67 +1,285 @@
+import katex from 'katex';
+import { micromark } from 'micromark';
+import { gfm, gfmHtml } from 'micromark-extension-gfm';
+import { math, mathHtml } from 'micromark-extension-math';
 import { parseAiStreamChunk } from '../lib/aiStream.mjs';
 
 const widgets = document.querySelectorAll('[data-ai-chat]');
+const launcherStorageKey = 'kfw_ai_launcher_position';
+const launcherDragThreshold = 12;
 let turnstileLoader;
+
+function sanitizeRenderedHtml(html) {
+  const template = document.createElement('template');
+  template.innerHTML = html;
+  const allowedTags = new Set([
+    'A',
+    'BLOCKQUOTE',
+    'BR',
+    'CODE',
+    'DIV',
+    'EM',
+    'H1',
+    'H2',
+    'H3',
+    'H4',
+    'HR',
+    'LI',
+    'OL',
+    'P',
+    'PRE',
+    'SPAN',
+    'STRONG',
+    'TABLE',
+    'TBODY',
+    'TD',
+    'TH',
+    'THEAD',
+    'TR',
+    'UL',
+  ]);
+  const allowedAttributes = new Set(['aria-hidden', 'class', 'colspan', 'href', 'rel', 'rowspan', 'target', 'title']);
+
+  template.content.querySelectorAll('*').forEach((element) => {
+    if (!allowedTags.has(element.tagName)) {
+      element.replaceWith(document.createTextNode(element.textContent || ''));
+      return;
+    }
+
+    for (const attribute of [...element.attributes]) {
+      const name = attribute.name.toLowerCase();
+      if (name.startsWith('on') || !allowedAttributes.has(name)) {
+        element.removeAttribute(attribute.name);
+        continue;
+      }
+
+      if (name === 'href') {
+        try {
+          const url = new URL(attribute.value, window.location.origin);
+          if (!['http:', 'https:'].includes(url.protocol)) {
+            element.removeAttribute(attribute.name);
+          }
+        } catch {
+          element.removeAttribute(attribute.name);
+        }
+      }
+    }
+  });
+
+  template.content.querySelectorAll('a[href]').forEach((link) => {
+    link.setAttribute('target', '_blank');
+    link.setAttribute('rel', 'noreferrer');
+  });
+
+  return template.innerHTML;
+}
+
+function renderMarkdown(text) {
+  return sanitizeRenderedHtml(
+    micromark(String(text || ''), {
+      extensions: [gfm(), math()],
+      htmlExtensions: [gfmHtml(), mathHtml({ katex, throwOnError: false, strict: false })],
+    }),
+  );
+}
+
+function setMessageMarkdown(content, text) {
+  content.innerHTML = renderMarkdown(text);
+}
+
+function createStreamingRenderer(content, messages) {
+  let pendingText = '';
+  let frame = 0;
+
+  const flush = () => {
+    frame = 0;
+    content.textContent = pendingText;
+    scrollMessages(messages);
+  };
+
+  return {
+    update(text) {
+      pendingText = text;
+      if (!content.classList.contains('ai-message__content--streaming')) {
+        content.classList.add('ai-message__content--streaming');
+        content.textContent = '';
+      }
+      if (!frame) {
+        frame = window.requestAnimationFrame(flush);
+      }
+    },
+    complete(text) {
+      if (frame) {
+        window.cancelAnimationFrame(frame);
+        frame = 0;
+      }
+      content.classList.remove('ai-message__content--streaming');
+      setMessageMarkdown(content, text);
+      scrollMessages(messages);
+    },
+    cancel() {
+      if (frame) {
+        window.cancelAnimationFrame(frame);
+        frame = 0;
+      }
+      content.classList.remove('ai-message__content--streaming');
+    },
+  };
+}
 
 function createMessage(role, text = '') {
   const message = document.createElement('article');
   message.className = `ai-message ai-message--${role}`;
 
-  const paragraph = document.createElement('p');
-  paragraph.textContent = text;
-  message.append(paragraph);
+  if (role === 'assistant') {
+    const avatar = document.createElement('div');
+    avatar.className = 'ai-message__avatar';
+    avatar.setAttribute('aria-hidden', 'true');
+    avatar.innerHTML =
+      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11.5a8.5 8.5 0 0 1-12.3 7.6L3 21l1.9-5.7A8.5 8.5 0 1 1 21 11.5Z"/></svg>';
+    message.append(avatar);
+  }
 
-  return { message, paragraph };
+  const content = document.createElement('div');
+  content.className = 'ai-message__content ai-markdown';
+  setMessageMarkdown(content, text);
+  message.append(content);
+
+  return { message, content };
 }
 
-function createThinkingMessage() {
-  const { message } = createMessage('assistant');
+function createThinkingMessage(copy) {
+  const phrases = Array.isArray(copy.thinkingPhrases) && copy.thinkingPhrases.length
+    ? copy.thinkingPhrases
+    : [copy.bubbleThinking, copy.status].filter(Boolean);
+  const { message, content } = createMessage('assistant');
   message.classList.add('ai-message--thinking');
-  message.innerHTML = '<span></span><span></span><span></span>';
+  content.classList.remove('ai-markdown');
+  content.innerHTML = `
+    <div class="ai-thinking" aria-live="polite">
+      <span class="ai-thinking__beam" aria-hidden="true"></span>
+      <span class="ai-thinking__text"></span>
+      <span class="ai-thinking__dots" aria-hidden="true"><i></i><i></i><i></i></span>
+    </div>
+  `;
+  const text = content.querySelector('.ai-thinking__text');
+  if (text) {
+    text.textContent = phrases[0] || '';
+  }
+
+  if (phrases.length > 1) {
+    let index = 0;
+    const timer = window.setInterval(() => {
+      index = (index + 1) % phrases.length;
+      if (text) {
+        text.textContent = phrases[index];
+      }
+    }, 1600);
+    message.dataset.thinkingTimer = String(timer);
+  }
+
   return message;
 }
 
-function appendSource(paragraph, source) {
+function removeThinkingMessage(message) {
+  const timer = Number(message.dataset.thinkingTimer || 0);
+  if (timer) {
+    window.clearInterval(timer);
+  }
+  message.remove();
+}
+
+function parseHttpUrl(value) {
+  try {
+    const url = new URL(String(value || ''), window.location.href);
+    return url.protocol === 'http:' || url.protocol === 'https:' ? url : null;
+  } catch {
+    return null;
+  }
+}
+
+function formatSourceHost(url) {
+  return url.hostname.replace(/^www\./, '');
+}
+
+function formatSourceKind(source) {
+  const type = String(source?.sourceType || '').toLowerCase();
+  if (type === 'current-page') {
+    return '当前页';
+  }
+  if (type === 'official') {
+    return '官方';
+  }
+  if (type === 'wiki') {
+    return '站内/百科';
+  }
+  if (type.startsWith('web')) {
+    return '全网';
+  }
+  return '来源';
+}
+
+function appendSource(content, source) {
   if (!source?.title || !source?.url) {
     return;
   }
 
-  const message = paragraph.closest('.ai-message');
+  const sourceUrl = parseHttpUrl(source.url);
+  if (!sourceUrl) {
+    return;
+  }
+
+  const message = content.closest('.ai-message');
   if (!message) {
     return;
   }
 
   let sources = message.querySelector('.ai-message__sources');
   if (!sources) {
-    sources = document.createElement('div');
+    sources = document.createElement('details');
     sources.className = 'ai-message__sources';
+    sources.innerHTML = `
+      <summary>
+        <span class="ai-message__sources-label">引用</span>
+        <span class="ai-message__sources-count">0</span>
+      </summary>
+      <div class="ai-message__sources-list"></div>
+    `;
     message.append(sources);
   }
 
+  const list = sources.querySelector('.ai-message__sources-list');
+  if (!(list instanceof HTMLElement)) {
+    return;
+  }
+
+  const normalizedUrl = sourceUrl.href;
+  const existingLinks = Array.from(list.querySelectorAll('a'));
+  if (existingLinks.some((link) => link.href === normalizedUrl)) {
+    return;
+  }
+
   const link = document.createElement('a');
-  link.href = source.url;
+  const kind = document.createElement('b');
+  const title = document.createElement('span');
+  const host = document.createElement('small');
+  link.href = normalizedUrl;
   link.target = '_blank';
   link.rel = 'noreferrer';
-  link.textContent = source.title;
-  sources.append(link);
+  kind.textContent = formatSourceKind(source);
+  title.textContent = String(source.title || formatSourceHost(sourceUrl)).trim();
+  host.textContent = formatSourceHost(sourceUrl);
+  link.append(kind, title, host);
+  list.append(link);
+
+  const count = sources.querySelector('.ai-message__sources-count');
+  if (count) {
+    count.textContent = String(list.querySelectorAll('a').length);
+  }
 }
 
 function scrollMessages(messages) {
   messages.scrollTo({ top: messages.scrollHeight, behavior: 'smooth' });
-}
-
-function setExpanded(root, expanded) {
-  root.classList.toggle('is-open', expanded);
-  root.querySelector('[data-ai-panel]')?.setAttribute('aria-hidden', expanded ? 'false' : 'true');
-  root.querySelector('[data-ai-toggle]')?.setAttribute('aria-expanded', String(expanded));
-}
-
-function setThinking(root, copy, thinking) {
-  root.classList.toggle('is-thinking', thinking);
-  const bubble = root.querySelector('[data-ai-bubble]');
-  if (bubble) {
-    bubble.textContent = thinking ? copy.bubbleThinking : copy.bubbleIdle;
-  }
 }
 
 function normalizeCopy(root) {
@@ -72,26 +290,124 @@ function normalizeCopy(root) {
   }
 }
 
-function updateCustomModelVisibility(root) {
-  const modelChoice = root.querySelector('[data-ai-model-choice]');
-  const customModelWrap = root.querySelector('[data-ai-custom-model-wrap]');
-  if (!(modelChoice instanceof HTMLSelectElement) || !(customModelWrap instanceof HTMLElement)) {
+function setExpanded(root, expanded) {
+  const launcher = document.querySelector('[data-ai-launcher]');
+  root.classList.toggle('is-open', expanded);
+  root.querySelector('[data-ai-panel]')?.setAttribute('aria-hidden', expanded ? 'false' : 'true');
+  document.querySelector('[data-ai-toggle]')?.setAttribute('aria-expanded', String(expanded));
+  launcher?.classList.toggle('is-hidden', expanded);
+  if (!expanded) {
+    toggleSettings(root, false);
+  }
+}
+
+function setThinking(root, copy, thinking) {
+  root.classList.toggle('is-thinking', thinking);
+  const bubble = document.querySelector('[data-ai-bubble]');
+  if (bubble) {
+    bubble.textContent = thinking ? copy.bubbleThinking : copy.bubbleIdle;
+  }
+}
+
+function toggleSettings(root, expanded) {
+  const popover = root.querySelector('[data-ai-settings-popover]');
+  const toggle = root.querySelector('[data-ai-settings-toggle]');
+  if (!(popover instanceof HTMLElement) || !(toggle instanceof HTMLButtonElement)) {
     return;
   }
 
-  customModelWrap.hidden = modelChoice.value !== 'custom';
+  popover.hidden = !expanded;
+  toggle.setAttribute('aria-expanded', String(expanded));
+  root.classList.toggle('is-settings-open', expanded);
+}
+
+function toggleHistory(root, expanded) {
+  const panel = root.querySelector('[data-ai-history-panel]');
+  const toggle = root.querySelector('[data-ai-history-toggle]');
+  if (!(panel instanceof HTMLElement) || !(toggle instanceof HTMLButtonElement)) {
+    return;
+  }
+
+  const isUser = root.dataset.viewerKind === 'user';
+  panel.hidden = !expanded || !isUser;
+  toggle.setAttribute('aria-expanded', String(expanded && isUser));
+  root.classList.toggle('is-history-open', expanded && isUser);
+  if (expanded && isUser) {
+    loadThreadList(root).catch(() => {});
+  }
 }
 
 function readModelSettings(root) {
   const modelChoice = root.querySelector('[data-ai-model-choice]');
-  const customModel = root.querySelector('[data-ai-custom-model]');
   const thinkingMode = root.querySelector('[data-ai-thinking-mode]');
 
   return {
-    modelChoice: modelChoice instanceof HTMLSelectElement ? modelChoice.value : 'auto',
-    customModel: customModel instanceof HTMLInputElement ? customModel.value.trim() : '',
-    thinkingMode: thinkingMode instanceof HTMLSelectElement ? thinkingMode.value : 'auto',
+    modelChoice: modelChoice instanceof HTMLElement ? modelChoice.dataset.value || 'auto' : 'auto',
+    thinkingMode: thinkingMode instanceof HTMLElement ? thinkingMode.dataset.value || 'auto' : 'auto',
   };
+}
+
+function compactText(value, maxLength) {
+  return String(value || '')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .slice(0, maxLength);
+}
+
+function collectPageContext(root) {
+  const main = document.querySelector('main') || document.body;
+  const title = document.querySelector('h1')?.textContent || document.title || '';
+  const description = document.querySelector('meta[name="description"]')?.getAttribute('content') || '';
+  const headings = Array.from(main.querySelectorAll('h1, h2, h3'))
+    .map((heading) => compactText(heading.textContent, 90))
+    .filter(Boolean)
+    .slice(0, 18);
+  const clonedMain = main.cloneNode(true);
+  if (clonedMain instanceof HTMLElement) {
+    clonedMain.querySelectorAll('[data-ai-chat], [data-ai-launcher], script, style, nav, footer, form, button').forEach((node) => node.remove());
+  }
+
+  const path = window.location.pathname;
+  const kind = path.includes('/artists/') || path.includes('/projects/') || path.includes('/logs/')
+    ? 'article'
+    : path === '/' || /^\/(zh|ja|en)\/?$/.test(path)
+      ? 'home'
+      : 'page';
+
+  return {
+    url: window.location.href,
+    title: compactText(title, 160),
+    description: compactText(description, 260),
+    headings,
+    text: compactText(clonedMain.textContent || main.textContent || '', kind === 'home' ? 12000 : 10000),
+    kind,
+    locale: root.dataset.locale || document.documentElement.lang || 'zh',
+  };
+}
+
+function setSegmentedValue(group, value) {
+  if (!(group instanceof HTMLElement)) {
+    return;
+  }
+
+  group.dataset.value = value;
+  group.querySelectorAll('button[role="radio"]').forEach((button) => {
+    if (!(button instanceof HTMLButtonElement)) {
+      return;
+    }
+    const isActive = button.dataset.aiModelOption === value || button.dataset.aiThinkingOption === value;
+    button.classList.toggle('is-active', isActive);
+    button.setAttribute('aria-checked', String(isActive));
+  });
+}
+
+function insertTextareaNewline(input) {
+  const start = input.selectionStart ?? input.value.length;
+  const end = input.selectionEnd ?? input.value.length;
+  input.value = `${input.value.slice(0, start)}\n${input.value.slice(end)}`;
+  input.selectionStart = start + 1;
+  input.selectionEnd = start + 1;
+  input.dispatchEvent(new Event('input', { bubbles: true }));
 }
 
 function updateAuthState(root, copy, viewer) {
@@ -99,6 +415,7 @@ function updateAuthState(root, copy, viewer) {
   const logout = root.querySelector('[data-ai-logout]');
   const oauthButtons = root.querySelectorAll('[data-ai-oauth]');
   const note = root.querySelector('[data-ai-auth-note]');
+  const historyToggle = root.querySelector('[data-ai-history-toggle]');
   const isUser = viewer?.kind === 'user';
 
   root.dataset.viewerKind = isUser ? 'user' : 'anonymous';
@@ -117,6 +434,14 @@ function updateAuthState(root, copy, viewer) {
 
   if (logout instanceof HTMLButtonElement) {
     logout.hidden = !isUser;
+  }
+
+  if (historyToggle instanceof HTMLButtonElement) {
+    historyToggle.hidden = !isUser;
+  }
+
+  if (!isUser) {
+    toggleHistory(root, false);
   }
 
   if (note instanceof HTMLElement) {
@@ -143,11 +468,17 @@ async function bootstrap(root) {
   const data = await response.json();
   const copy = normalizeCopy(root);
   updateAuthState(root, copy, data.viewer);
+  if (data.viewer?.kind === 'user') {
+    if (Array.isArray(data.recentThreads)) {
+      renderThreadList(root, data.recentThreads);
+    }
+    loadThreadList(root).catch(() => {});
+  }
 
   if (typeof data.greeting === 'string' && data.greeting) {
-    const firstAssistantMessage = root.querySelector('.ai-message--assistant p');
-    if (firstAssistantMessage) {
-      firstAssistantMessage.textContent = data.greeting;
+    const firstAssistantMessage = root.querySelector('.ai-message--assistant .ai-message__content');
+    if (firstAssistantMessage instanceof HTMLElement) {
+      setMessageMarkdown(firstAssistantMessage, data.greeting);
     }
   }
 
@@ -178,7 +509,7 @@ function loadTurnstile() {
   return turnstileLoader;
 }
 
-async function requestTurnstileToken(root, paragraph, copy) {
+async function requestTurnstileToken(root, content, copy) {
   const siteKey = root.dataset.turnstileSiteKey || '';
   if (!siteKey) {
     return '';
@@ -188,14 +519,14 @@ async function requestTurnstileToken(root, paragraph, copy) {
     const turnstile = await loadTurnstile();
     const container = document.createElement('div');
     container.className = 'ai-message__challenge';
-    paragraph.after(container);
+    content.after(container);
 
     return await new Promise((resolve) => {
       turnstile.render(container, {
         sitekey: siteKey,
         callback(token) {
           root.dataset.turnstileToken = token;
-          paragraph.textContent = copy.challengeReady || paragraph.textContent;
+          setMessageMarkdown(content, copy.challengeReady || content.textContent || '');
           resolve(token);
         },
         'error-callback'() {
@@ -236,26 +567,239 @@ async function logout(root, copy) {
       headers: { Accept: 'application/json' },
     });
   } finally {
+    root.dataset.currentThreadId = '';
     updateAuthState(root, copy, { kind: 'anonymous' });
   }
 }
 
-async function readStream(response, paragraph, thinkingMessage, messages, copy, root) {
+function renderThreadList(root, threads) {
+  const list = root.querySelector('[data-ai-thread-list]');
+  if (!(list instanceof HTMLElement)) {
+    return;
+  }
+
+  list.innerHTML = '';
+  if (!threads.length) {
+    const empty = document.createElement('p');
+    empty.className = 'ai-chat__history-empty';
+    empty.textContent = list.dataset.empty || '';
+    list.append(empty);
+    return;
+  }
+
+  for (const thread of threads) {
+    const row = document.createElement('div');
+    row.className = 'ai-chat__thread-row';
+    row.dataset.threadId = thread.id;
+
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.dataset.aiThreadId = thread.id;
+    button.className = 'ai-chat__thread';
+    button.innerHTML = `<span></span><small></small>`;
+    button.querySelector('span').textContent = thread.title || thread.id;
+    button.querySelector('small').textContent = thread.updatedAt || '';
+    button.classList.toggle('is-active', thread.id === root.dataset.currentThreadId);
+
+    const menu = document.createElement('button');
+    menu.type = 'button';
+    menu.className = 'ai-chat__thread-menu';
+    menu.dataset.aiThreadMenuToggle = thread.id;
+    menu.setAttribute('aria-label', 'Conversation actions');
+    menu.setAttribute('aria-expanded', 'false');
+    menu.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><circle cx="5" cy="12" r="1.5"/><circle cx="12" cy="12" r="1.5"/><circle cx="19" cy="12" r="1.5"/></svg>';
+
+    const actions = document.createElement('div');
+    actions.className = 'ai-chat__thread-actions';
+    actions.hidden = true;
+    actions.innerHTML = `<button type="button" data-ai-thread-rename></button><button type="button" data-ai-thread-delete></button>`;
+    actions.querySelector('[data-ai-thread-rename]').textContent = normalizeCopy(root).renameThreadLabel || '';
+    actions.querySelector('[data-ai-thread-delete]').textContent = normalizeCopy(root).deleteThreadLabel || '';
+
+    row.append(button, menu, actions);
+    list.append(row);
+  }
+}
+
+function openHistoryDialog(root, { title, message = '', value = '', confirmLabel = '', showInput = false }) {
+  const dialog = root.querySelector('[data-ai-history-dialog]');
+  if (!(dialog instanceof HTMLDialogElement)) {
+    return Promise.resolve(null);
+  }
+  const titleNode = dialog.querySelector('[data-ai-dialog-title]');
+  const messageNode = dialog.querySelector('[data-ai-dialog-message]');
+  const input = dialog.querySelector('[data-ai-dialog-input]');
+  const confirm = dialog.querySelector('[data-ai-dialog-confirm]');
+  if (titleNode) titleNode.textContent = title;
+  if (messageNode instanceof HTMLElement) {
+    messageNode.textContent = message;
+    messageNode.hidden = !message;
+  }
+  if (input instanceof HTMLInputElement) {
+    input.hidden = !showInput;
+    input.value = value;
+  }
+  if (confirm instanceof HTMLButtonElement) confirm.textContent = confirmLabel;
+  if (dialog.open) dialog.close('cancel');
+
+  return new Promise((resolve) => {
+    dialog.addEventListener('close', () => {
+      resolve(dialog.returnValue === 'confirm' ? (showInput && input instanceof HTMLInputElement ? input.value : true) : null);
+    }, { once: true });
+    dialog.showModal();
+    if (showInput && input instanceof HTMLInputElement) {
+      window.setTimeout(() => {
+        input.focus();
+        input.select();
+      }, 40);
+    }
+  });
+}
+
+async function renameThread(root, threadId, currentTitle, copy) {
+  const title = await openHistoryDialog(root, {
+    title: copy.renameThreadLabel || '',
+    value: currentTitle || '',
+    confirmLabel: copy.renameThreadLabel || '',
+    showInput: true,
+  });
+  if (!title?.trim()) {
+    return;
+  }
+  const response = await fetch(`${root.dataset.apiBase}/api/ai/threads/${encodeURIComponent(threadId)}`, {
+    method: 'PATCH',
+    credentials: 'include',
+    headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+    body: JSON.stringify({ title: title.trim() }),
+  });
+  if (response.ok) {
+    await loadThreadList(root);
+  }
+}
+
+async function deleteThread(root, threadId, copy) {
+  const confirmed = await openHistoryDialog(root, {
+    title: copy.deleteThreadLabel || '',
+    message: copy.deleteThreadConfirm || '',
+    confirmLabel: copy.deleteThreadLabel || '',
+  });
+  if (!confirmed) {
+    return;
+  }
+  const response = await fetch(`${root.dataset.apiBase}/api/ai/threads/${encodeURIComponent(threadId)}`, {
+    method: 'DELETE',
+    credentials: 'include',
+    headers: { Accept: 'application/json' },
+  });
+  if (!response.ok) {
+    return;
+  }
+  if (root.dataset.currentThreadId === threadId) {
+    root.dataset.currentThreadId = '';
+    clearMessages(root);
+  }
+  await loadThreadList(root);
+}
+
+async function clearAllThreads(root, copy) {
+  const confirmed = await openHistoryDialog(root, {
+    title: copy.clearHistoryLabel || '',
+    message: copy.clearHistoryConfirm || '',
+    confirmLabel: copy.clearHistoryLabel || '',
+  });
+  if (!confirmed) {
+    return;
+  }
+  const response = await fetch(`${root.dataset.apiBase}/api/ai/threads`, {
+    method: 'DELETE',
+    credentials: 'include',
+    headers: { Accept: 'application/json' },
+  });
+  if (!response.ok) {
+    return;
+  }
+  root.dataset.currentThreadId = '';
+  clearMessages(root);
+  await loadThreadList(root);
+}
+
+async function loadThreadList(root) {
+  const apiBase = root.dataset.apiBase || '';
+  if (!apiBase || root.dataset.viewerKind !== 'user') {
+    return;
+  }
+
+  const response = await fetch(`${apiBase}/api/ai/threads`, {
+    credentials: 'include',
+    headers: { Accept: 'application/json' },
+  });
+  if (!response.ok) {
+    return;
+  }
+
+  const data = await response.json();
+  renderThreadList(root, Array.isArray(data.threads) ? data.threads : []);
+}
+
+function clearMessages(root) {
+  const messages = root.querySelector('[data-ai-messages]');
+  if (!(messages instanceof HTMLElement)) {
+    return;
+  }
+  messages.innerHTML = '';
+}
+
+async function loadThreadDetail(root, threadId) {
+  const apiBase = root.dataset.apiBase || '';
+  const messages = root.querySelector('[data-ai-messages]');
+  if (!apiBase || !(messages instanceof HTMLElement)) {
+    return;
+  }
+
+  const response = await fetch(`${apiBase}/api/ai/threads/${encodeURIComponent(threadId)}`, {
+    credentials: 'include',
+    headers: { Accept: 'application/json' },
+  });
+  if (!response.ok) {
+    return;
+  }
+
+  const data = await response.json();
+  root.dataset.currentThreadId = data.thread?.id || '';
+  clearMessages(root);
+  for (const item of data.messages || []) {
+    const rendered = createMessage(item.role === 'user' ? 'user' : 'assistant', item.content || '');
+    messages.append(rendered.message);
+    for (const source of item.sources || []) {
+      appendSource(rendered.content, source);
+    }
+  }
+  renderThreadList(root, [...root.querySelectorAll('[data-ai-thread-id]')].map((button) => ({
+    id: button.dataset.aiThreadId,
+    title: button.querySelector('span')?.textContent || '',
+    updatedAt: button.querySelector('small')?.textContent || '',
+  })));
+  scrollMessages(messages);
+}
+
+async function readStream(response, content, thinkingMessage, messages, copy, root) {
   const contentType = response.headers.get('Content-Type') || '';
   if (!contentType.includes('text/event-stream')) {
     throw new Error('AI observer response is not an event stream.');
   }
 
   if (!response.body) {
-    paragraph.textContent = paragraph.dataset.emptyResponse || '';
+    setMessageMarkdown(content, content.dataset.emptyResponse || '');
     return;
   }
 
   const reader = response.body.getReader();
   const decoder = new TextDecoder();
   let remainder = '';
+  let assistantText = '';
   let hasDelta = false;
   let needsChallenge = false;
+  const streamRenderer = createStreamingRenderer(content, messages);
 
   while (true) {
     const { value, done } = await reader.read();
@@ -267,78 +811,274 @@ async function readStream(response, paragraph, thinkingMessage, messages, copy, 
     remainder = parsed.remainder;
 
     for (const event of parsed.events) {
+      if (event.type === 'thread' && event.data.threadId) {
+        root.dataset.currentThreadId = event.data.threadId;
+      }
+
       if (event.type === 'delta' && typeof event.data.text === 'string') {
         if (!hasDelta) {
-          thinkingMessage.remove();
-          paragraph.textContent = '';
+          removeThinkingMessage(thinkingMessage);
           hasDelta = true;
         }
-        paragraph.textContent += event.data.text;
-        scrollMessages(messages);
+        assistantText += event.data.text;
+        streamRenderer.update(assistantText);
       }
 
       if (event.type === 'challenge_required') {
-        thinkingMessage.remove();
-        paragraph.textContent = event.data.message || copy.challengeFallback || '';
+        removeThinkingMessage(thinkingMessage);
+        streamRenderer.cancel();
+        setMessageMarkdown(content, event.data.message || copy.challengeFallback || '');
         needsChallenge = true;
       }
 
       if (event.type === 'login_required') {
-        thinkingMessage.remove();
-        paragraph.textContent = event.data.message || copy.loginRequiredFallback || copy.authErrorFallback || '';
+        removeThinkingMessage(thinkingMessage);
+        streamRenderer.cancel();
+        setMessageMarkdown(content, event.data.message || copy.loginRequiredFallback || copy.authErrorFallback || '');
       }
 
       if (event.type === 'source') {
-        appendSource(paragraph, event.data);
+        appendSource(content, event.data);
       }
 
       if (event.type === 'error') {
-        thinkingMessage.remove();
-        paragraph.textContent = event.data.message || copy.streamErrorFallback || '';
+        removeThinkingMessage(thinkingMessage);
+        streamRenderer.cancel();
+        setMessageMarkdown(content, event.data.message || copy.streamErrorFallback || '');
       }
     }
   }
 
-  if (!hasDelta && !paragraph.textContent) {
-    thinkingMessage.remove();
-    paragraph.textContent = paragraph.dataset.emptyResponse || '';
+  if (hasDelta) {
+    streamRenderer.complete(assistantText);
+  }
+
+  if (!hasDelta && !content.textContent) {
+    removeThinkingMessage(thinkingMessage);
+    streamRenderer.cancel();
+    setMessageMarkdown(content, content.dataset.emptyResponse || '');
   }
 
   if (needsChallenge && root) {
-    await requestTurnstileToken(root, paragraph, copy);
+    await requestTurnstileToken(root, content, copy);
   }
+}
+
+function applyLauncherPosition(position) {
+  const launcher = document.querySelector('[data-ai-launcher]');
+  if (!(launcher instanceof HTMLElement)) {
+    return;
+  }
+
+  const width = launcher.offsetWidth || 72;
+  const height = launcher.offsetHeight || 72;
+  const x = Math.max(12, Math.min(Number(position?.x ?? window.innerWidth - width - 24), window.innerWidth - width - 12));
+  const y = Math.max(12, Math.min(Number(position?.y ?? window.innerHeight - height - 24), window.innerHeight - height - 12));
+  launcher.style.left = `${x}px`;
+  launcher.style.top = `${y}px`;
+  launcher.style.right = 'auto';
+  launcher.style.bottom = 'auto';
+}
+
+function initLauncherDrag(root) {
+  const launcher = document.querySelector('[data-ai-launcher]');
+  if (!(launcher instanceof HTMLElement)) {
+    return;
+  }
+
+  try {
+    applyLauncherPosition(JSON.parse(localStorage.getItem(launcherStorageKey) || 'null'));
+  } catch {
+    applyLauncherPosition(null);
+  }
+
+  let drag = null;
+  launcher.addEventListener('pointerdown', (event) => {
+    if (!(event.target instanceof Element) || !event.target.closest('[data-ai-toggle]')) {
+      return;
+    }
+    if (event.button !== 0) {
+      return;
+    }
+    const rect = launcher.getBoundingClientRect();
+    drag = {
+      pointerId: event.pointerId,
+      startX: event.clientX,
+      startY: event.clientY,
+      offsetX: event.clientX - rect.left,
+      offsetY: event.clientY - rect.top,
+      moved: false,
+    };
+  });
+
+  window.addEventListener('pointermove', (event) => {
+    if (!drag || event.pointerId !== drag.pointerId) {
+      return;
+    }
+    const moved = Math.abs(event.clientX - drag.startX) + Math.abs(event.clientY - drag.startY);
+    if (moved > launcherDragThreshold) {
+      drag.moved = true;
+      root.dataset.launcherDragging = 'true';
+      launcher.dataset.dragging = 'true';
+    }
+    if (drag.moved) {
+      event.preventDefault();
+      applyLauncherPosition({ x: event.clientX - drag.offsetX, y: event.clientY - drag.offsetY });
+    }
+  });
+
+  window.addEventListener('pointerup', (event) => {
+    if (!drag || event.pointerId !== drag.pointerId) {
+      return;
+    }
+    if (drag.moved) {
+      event.preventDefault();
+      const rect = launcher.getBoundingClientRect();
+      localStorage.setItem(launcherStorageKey, JSON.stringify({ x: rect.left, y: rect.top }));
+      launcher.dataset.suppressClick = 'true';
+      window.setTimeout(() => {
+        delete launcher.dataset.suppressClick;
+      }, 160);
+    }
+    delete root.dataset.launcherDragging;
+    delete launcher.dataset.dragging;
+    drag = null;
+  });
+
+  window.addEventListener('pointercancel', (event) => {
+    if (!drag || event.pointerId !== drag.pointerId) {
+      return;
+    }
+    drag = null;
+    delete root.dataset.launcherDragging;
+    delete launcher.dataset.dragging;
+    delete launcher.dataset.suppressClick;
+  });
+
+  launcher.addEventListener('click', (event) => {
+    if (launcher.dataset.suppressClick === 'true') {
+      event.preventDefault();
+      event.stopImmediatePropagation();
+    }
+  }, true);
+
+  window.addEventListener('resize', () => {
+    const rect = launcher.getBoundingClientRect();
+    applyLauncherPosition({ x: rect.left, y: rect.top });
+  });
 }
 
 function initWidget(root) {
   const copy = normalizeCopy(root);
-  const toggle = root.querySelector('[data-ai-toggle]');
+  const toggle = document.querySelector('[data-ai-toggle]');
   const close = root.querySelector('[data-ai-close]');
-  const minimize = root.querySelector('[data-ai-minimize]');
+  const scrim = root.querySelector('[data-ai-scrim]');
+  const settingsToggle = root.querySelector('[data-ai-settings-toggle]');
+  const settingsPopover = root.querySelector('[data-ai-settings-popover]');
+  const historyToggle = root.querySelector('[data-ai-history-toggle]');
+  const newThreadButton = root.querySelector('[data-ai-new-thread]');
+  const clearHistoryButton = root.querySelector('[data-ai-history-clear]');
   const form = root.querySelector('[data-ai-form]');
   const input = root.querySelector('[data-ai-input]');
   const messages = root.querySelector('[data-ai-messages]');
   const quick = root.querySelector('[data-ai-quick]');
-  const modelChoice = root.querySelector('[data-ai-model-choice]');
+  const threadList = root.querySelector('[data-ai-thread-list]');
   const oauthButtons = root.querySelectorAll('[data-ai-oauth]');
   const logoutButton = root.querySelector('[data-ai-logout]');
 
-  if (!toggle || !close || !minimize || !form || !input || !messages || !quick) {
+  if (
+    !(toggle instanceof HTMLButtonElement) ||
+    !(close instanceof HTMLButtonElement) ||
+    !(form instanceof HTMLFormElement) ||
+    !(input instanceof HTMLTextAreaElement) ||
+    !(messages instanceof HTMLElement) ||
+    !(quick instanceof HTMLElement)
+  ) {
     return;
   }
 
-  updateCustomModelVisibility(root);
+  const openPanel = () => {
+    setExpanded(root, true);
+    window.setTimeout(() => input.focus(), 160);
+  };
+
+  initLauncherDrag(root);
   updateAuthState(root, copy, { kind: 'anonymous' });
   bootstrap(root).catch(() => {});
 
   toggle.addEventListener('click', () => {
-    setExpanded(root, !root.classList.contains('is-open'));
-    if (root.classList.contains('is-open')) {
-      window.setTimeout(() => input.focus(), 120);
+    const launcher = document.querySelector('[data-ai-launcher]');
+    if (launcher instanceof HTMLElement && launcher.dataset.suppressClick === 'true') {
+      return;
     }
+    openPanel();
   });
 
   close.addEventListener('click', () => setExpanded(root, false));
-  minimize.addEventListener('click', () => setExpanded(root, false));
+  scrim?.addEventListener('click', () => setExpanded(root, false));
+  settingsToggle?.addEventListener('click', () => {
+    const popover = root.querySelector('[data-ai-settings-popover]');
+    toggleSettings(root, popover instanceof HTMLElement ? popover.hidden : true);
+  });
+  settingsPopover?.addEventListener('click', (event) => {
+    const option = event.target instanceof Element
+      ? event.target.closest('[data-ai-model-option], [data-ai-thinking-option]')
+      : null;
+    if (!(option instanceof HTMLButtonElement)) {
+      return;
+    }
+
+    const modelValue = option.dataset.aiModelOption;
+    const thinkingValue = option.dataset.aiThinkingOption;
+    if (modelValue) {
+      setSegmentedValue(root.querySelector('[data-ai-model-choice]'), modelValue);
+    }
+    if (thinkingValue) {
+      setSegmentedValue(root.querySelector('[data-ai-thinking-mode]'), thinkingValue);
+    }
+  });
+  historyToggle?.addEventListener('click', () => {
+    const panel = root.querySelector('[data-ai-history-panel]');
+    toggleHistory(root, panel instanceof HTMLElement ? panel.hidden : true);
+  });
+  newThreadButton?.addEventListener('click', () => {
+    root.dataset.currentThreadId = '';
+    clearMessages(root);
+    const greeting = createMessage('assistant', copy.greeting || '');
+    messages.append(greeting.message);
+  });
+
+  clearHistoryButton?.addEventListener('click', () => {
+    clearAllThreads(root, copy).catch(() => {});
+  });
+
+  threadList?.addEventListener('click', (event) => {
+    const target = event.target instanceof Element ? event.target : null;
+    const row = target?.closest('[data-thread-id]');
+    const threadId = row instanceof HTMLElement ? row.dataset.threadId || '' : '';
+    const menuToggle = target?.closest('[data-ai-thread-menu-toggle]');
+    if (menuToggle instanceof HTMLButtonElement) {
+      const actions = row?.querySelector('.ai-chat__thread-actions');
+      if (actions instanceof HTMLElement) {
+        actions.hidden = !actions.hidden;
+        menuToggle.setAttribute('aria-expanded', String(!actions.hidden));
+      }
+      return;
+    }
+    if (target?.closest('[data-ai-thread-rename]')) {
+      const currentTitle = row?.querySelector('[data-ai-thread-id] span')?.textContent || '';
+      renameThread(root, threadId, currentTitle, copy).catch(() => {});
+      return;
+    }
+    if (target?.closest('[data-ai-thread-delete]')) {
+      deleteThread(root, threadId, copy).catch(() => {});
+      return;
+    }
+    const button = target?.closest('[data-ai-thread-id]');
+    if (button instanceof HTMLButtonElement) {
+      loadThreadDetail(root, button.dataset.aiThreadId || '').catch(() => {});
+    }
+  });
 
   quick.addEventListener('click', (event) => {
     const target = event.target;
@@ -349,10 +1089,6 @@ function initWidget(root) {
     input.value = target.dataset.aiPrompt || '';
     input.focus();
   });
-
-  if (modelChoice) {
-    modelChoice.addEventListener('change', () => updateCustomModelVisibility(root));
-  }
 
   oauthButtons.forEach((button) => {
     button.addEventListener('click', () => {
@@ -371,6 +1107,24 @@ function initWidget(root) {
     input.style.height = `${Math.min(input.scrollHeight, 128)}px`;
   });
 
+  input.addEventListener('keydown', (event) => {
+    if (event.defaultPrevented) {
+      return;
+    }
+
+    const isEnter = event.key === 'Enter' || event.code === 'NumpadEnter';
+    if (isEnter && (event.ctrlKey || event.metaKey) && !event.isComposing) {
+      event.preventDefault();
+      insertTextareaNewline(input);
+      return;
+    }
+
+    if (isEnter && !event.shiftKey && !event.altKey && !event.ctrlKey && !event.metaKey && !event.isComposing) {
+      event.preventDefault();
+      form.requestSubmit();
+    }
+  });
+
   form.addEventListener('submit', async (event) => {
     event.preventDefault();
 
@@ -387,14 +1141,22 @@ function initWidget(root) {
     input.value = '';
     input.style.height = 'auto';
 
-    const thinkingMessage = createThinkingMessage();
+    const thinkingMessage = createThinkingMessage(copy);
     const assistantMessage = createMessage('assistant', '');
-    assistantMessage.paragraph.dataset.emptyResponse = copy.emptyResponse || '';
+    assistantMessage.content.dataset.emptyResponse = copy.emptyResponse || '';
     messages.append(thinkingMessage, assistantMessage.message);
     scrollMessages(messages);
     setThinking(root, copy, true);
 
     try {
+      const body = {
+        message,
+        locale,
+        turnstileToken,
+        threadId: root.dataset.currentThreadId || undefined,
+        pageContext: collectPageContext(root),
+        ...readModelSettings(root),
+      };
       const response = await fetch(`${apiBase}/api/ai/chat`, {
         method: 'POST',
         credentials: 'include',
@@ -402,14 +1164,17 @@ function initWidget(root) {
           'Content-Type': 'application/json',
           Accept: 'text/event-stream',
         },
-        body: JSON.stringify({ message, locale, turnstileToken, ...readModelSettings(root) }),
+        body: JSON.stringify(body),
       });
       delete root.dataset.turnstileToken;
 
-      await readStream(response, assistantMessage.paragraph, thinkingMessage, messages, copy, root);
+      await readStream(response, assistantMessage.content, thinkingMessage, messages, copy, root);
+      if (root.dataset.viewerKind === 'user') {
+        loadThreadList(root).catch(() => {});
+      }
     } catch {
-      thinkingMessage.remove();
-      assistantMessage.paragraph.textContent = copy.fallbackOffline || '';
+      removeThinkingMessage(thinkingMessage);
+      setMessageMarkdown(assistantMessage.content, copy.fallbackOffline || '');
     } finally {
       setThinking(root, copy, false);
       scrollMessages(messages);

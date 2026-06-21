@@ -114,17 +114,24 @@
     "inputLabel": "向 AI 观测端提问",
     "inputPlaceholder": "问我神椿、V.W.P、企划、世界观...",
     "sendLabel": "发送",
+    "keyboardHint": "回车发送 · Control+回车换行",
     "bubbleIdle": "需要快速了解神椿吗？",
-    "bubbleThinking": "正在观测资料流...",
-    "greeting": "晚上好，观测者。我可以帮你快速了解神椿、整理百科线索，或继续扩展到公开网页资料。",
+    "bubbleThinking": "正在整理观测线索...",
+    "thinkingPhrases": [
+      "读取当前页面",
+      "检索站内脉络",
+      "搜索公开网页",
+      "校验信息层级"
+    ],
+    "greeting": "晚上好，观测者。你可以把我当作神椿 Wiki 的向导：当前页面我能帮你总结，陌生名词我能带你入门，关系和世界观也可以一起梳理。",
     "fallbackOffline": "观测回线暂时不稳定，稍后再试。",
     "emptyResponse": "观测完成，但没有可展示的回答。",
     "challengeFallback": "观测频率过高，请稍后再试。",
     "streamErrorFallback": "观测端暂时无法回答。",
     "quickPrompts": [
-      "神椿是什么？",
-      "V.W.P 是谁？",
-      "推荐新用户阅读路线"
+      "总结当前页面",
+      "这和 V.W.P 有什么关系？",
+      "给我一条入门路线"
     ],
     "modelModeLabel": "模型",
     "customModelLabel": "自定义",
@@ -172,9 +179,19 @@
     ],
     "accountAnonymous": "匿名观测",
     "accountLoggedInPrefix": "已登录",
+    "loginRequiredFallback": "匿名观测已达到 5 条对话限制，请登录账号后继续。",
     "logoutLabel": "登出",
     "authErrorFallback": "认证回线暂时不稳定。",
     "githubLoginLabel": "GitHub 登录",
-    "googleLoginLabel": "Google 登录"
+    "googleLoginLabel": "Google 登录",
+    "historyLabel": "历史对话",
+    "historyEmpty": "登录后开始对话，这里会保存你的观测记录。",
+    "newThreadLabel": "新对话",
+    "renameThreadLabel": "重命名",
+    "deleteThreadLabel": "删除",
+    "clearHistoryLabel": "清空历史",
+    "renameThreadPrompt": "输入新的对话标题",
+    "deleteThreadConfirm": "确定删除这条对话记录吗？此操作无法撤销。",
+    "clearHistoryConfirm": "确定清空你的全部对话记录吗？此操作无法撤销。"
   }
 }

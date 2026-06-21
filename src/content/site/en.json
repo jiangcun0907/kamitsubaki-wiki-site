@@ -114,17 +114,24 @@
     "inputLabel": "Ask the AI Observer",
     "inputPlaceholder": "Ask about Kamitsubaki, V.W.P, projects, lore...",
     "sendLabel": "Send",
+    "keyboardHint": "Enter sends · Control+Enter inserts a new line",
     "bubbleIdle": "Need a quick Kamitsubaki primer?",
-    "bubbleThinking": "Observing the archive stream...",
-    "greeting": "Good evening, observer. I can help you understand Kamitsubaki, summarize wiki threads, and expand into public web sources.",
+    "bubbleThinking": "Tracing the context...",
+    "thinkingPhrases": [
+      "Reading this page",
+      "Searching the wiki trail",
+      "Checking public web sources",
+      "Weighing source confidence"
+    ],
+    "greeting": "Good evening, observer. Treat me as a Kamitsubaki Wiki guide: I can summarize this page, unpack unfamiliar names, and connect projects, artists, and lore without turning it into a support script.",
     "fallbackOffline": "The observation line is offline. Please try again later.",
     "emptyResponse": "Observation complete, but there is no displayable answer.",
     "challengeFallback": "Observation frequency is too high. Please try again later.",
     "streamErrorFallback": "The observer cannot answer right now.",
     "quickPrompts": [
-      "What is Kamitsubaki?",
-      "Who are V.W.P?",
-      "New reader route"
+      "Summarize this page",
+      "How does this connect to V.W.P?",
+      "Give me a first route"
     ],
     "modelModeLabel": "Model",
     "customModelLabel": "Custom",
@@ -172,9 +179,19 @@
     ],
     "accountAnonymous": "Anonymous observer",
     "accountLoggedInPrefix": "Signed in",
+    "loginRequiredFallback": "Anonymous observation is limited to 5 AI conversations. Sign in to continue.",
     "logoutLabel": "Sign out",
     "authErrorFallback": "The auth line is unstable.",
     "githubLoginLabel": "Sign in with GitHub",
-    "googleLoginLabel": "Sign in with Google"
+    "googleLoginLabel": "Sign in with Google",
+    "historyLabel": "History",
+    "historyEmpty": "Sign in and start a conversation to keep your observation history here.",
+    "newThreadLabel": "New chat",
+    "renameThreadLabel": "Rename",
+    "deleteThreadLabel": "Delete",
+    "clearHistoryLabel": "Clear history",
+    "renameThreadPrompt": "Enter a new conversation title",
+    "deleteThreadConfirm": "Delete this conversation? This cannot be undone.",
+    "clearHistoryConfirm": "Delete all your conversation history? This cannot be undone."
   }
 }

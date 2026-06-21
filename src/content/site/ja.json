@@ -114,17 +114,24 @@
     "inputLabel": "AI 観測端末に質問する",
     "inputPlaceholder": "神椿、V.W.P、企画、世界観について...",
     "sendLabel": "送信",
+    "keyboardHint": "Enterで送信 · Control+Enterで改行",
     "bubbleIdle": "神椿をすばやく知りたい？",
-    "bubbleThinking": "資料流を観測中...",
-    "greeting": "こんばんは、観測者。神椿の概要、百科の手がかり、公開情報への拡張を手伝えます。",
+    "bubbleThinking": "文脈をたどっています...",
+    "thinkingPhrases": [
+      "現在のページを読んでいます",
+      "Wiki 内の流れを探しています",
+      "公開ウェブを確認しています",
+      "情報の確度を見ています"
+    ],
+    "greeting": "こんばんは、観測者。神椿 Wiki の案内役として使ってください。今見ているページの要約、知らない名前の説明、企画・アーティスト・世界観のつながりを自然に整理できます。",
     "fallbackOffline": "観測回線が一時的に不安定です。少し後でもう一度試してください。",
     "emptyResponse": "観測は完了しましたが、表示できる回答がありません。",
     "challengeFallback": "観測頻度が高すぎます。少し後でもう一度試してください。",
     "streamErrorFallback": "観測端末は一時的に回答できません。",
     "quickPrompts": [
-      "神椿とは？",
-      "V.W.P は誰？",
-      "初めての読み方を教えて"
+      "このページを要約して",
+      "V.W.P との関係は？",
+      "最初の読み方を教えて"
     ],
     "modelModeLabel": "モデル",
     "customModelLabel": "任意",
@@ -172,9 +179,19 @@
     ],
     "accountAnonymous": "匿名観測者",
     "accountLoggedInPrefix": "ログイン中",
+    "loginRequiredFallback": "匿名観測は AI 会話 5 件までです。続けるにはログインしてください。",
     "logoutLabel": "ログアウト",
     "authErrorFallback": "認証回線が不安定です。",
     "githubLoginLabel": "GitHubでログイン",
-    "googleLoginLabel": "Googleでログイン"
+    "googleLoginLabel": "Googleでログイン",
+    "historyLabel": "会話履歴",
+    "historyEmpty": "ログインして会話を始めると、ここに観測履歴が保存されます。",
+    "newThreadLabel": "新規チャット",
+    "renameThreadLabel": "名前を変更",
+    "deleteThreadLabel": "削除",
+    "clearHistoryLabel": "履歴を消去",
+    "renameThreadPrompt": "新しい会話タイトルを入力",
+    "deleteThreadConfirm": "この会話を削除しますか？この操作は取り消せません。",
+    "clearHistoryConfirm": "すべての会話履歴を削除しますか？この操作は取り消せません。"
   }
 }
