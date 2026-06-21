@@ -154,6 +154,14 @@ test('AI chat widget supports draggable launcher, compact settings, history, and
   assert.ok(packageJson.dependencies.katex || packageJson.devDependencies.katex);
 });
 
+test('streaming uses one assistant bubble for thinking and the final answer', async () => {
+  const script = await readProjectFile('../src/scripts/aiChatWidget.js');
+
+  assert.match(script, /const assistantMessage = createThinkingMessage\(copy\)/);
+  assert.match(script, /messages\.append\(assistantMessage\.message\)/);
+  assert.equal(script.includes('messages.append(thinkingMessage, assistantMessage.message)'), false);
+});
+
 test('AI chat widget exposes auth hooks and localized account copy', async () => {
   const component = await readProjectFile('../src/components/AiChatWidget.astro');
   const script = await readProjectFile('../src/scripts/aiChatWidget.js');

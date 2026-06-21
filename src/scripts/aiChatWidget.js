@@ -178,15 +178,18 @@ function createThinkingMessage(copy) {
     message.dataset.thinkingTimer = String(timer);
   }
 
-  return message;
+  return { message, content };
 }
 
-function removeThinkingMessage(message) {
+function finishThinkingMessage({ message, content }) {
   const timer = Number(message.dataset.thinkingTimer || 0);
   if (timer) {
     window.clearInterval(timer);
   }
-  message.remove();
+  delete message.dataset.thinkingTimer;
+  message.classList.remove('ai-message--thinking');
+  content.classList.add('ai-markdown');
+  content.textContent = '';
 }
 
 function parseHttpUrl(value) {
@@ -782,13 +785,15 @@ async function loadThreadDetail(root, threadId) {
   scrollMessages(messages);
 }
 
-async function readStream(response, content, thinkingMessage, messages, copy, root) {
+async function readStream(response, assistantMessage, messages, copy, root) {
+  const { content } = assistantMessage;
   const contentType = response.headers.get('Content-Type') || '';
   if (!contentType.includes('text/event-stream')) {
     throw new Error('AI observer response is not an event stream.');
   }
 
   if (!response.body) {
+    finishThinkingMessage(assistantMessage);
     setMessageMarkdown(content, content.dataset.emptyResponse || '');
     return;
   }
@@ -798,6 +803,7 @@ async function readStream(response, content, thinkingMessage, messages, copy, ro
   let remainder = '';
   let assistantText = '';
   let hasDelta = false;
+  let hasTerminalMessage = false;
   let needsChallenge = false;
   const streamRenderer = createStreamingRenderer(content, messages);
 
@@ -817,7 +823,7 @@ async function readStream(response, content, thinkingMessage, messages, copy, ro
 
       if (event.type === 'delta' && typeof event.data.text === 'string') {
         if (!hasDelta) {
-          removeThinkingMessage(thinkingMessage);
+          finishThinkingMessage(assistantMessage);
           hasDelta = true;
         }
         assistantText += event.data.text;
@@ -825,16 +831,18 @@ async function readStream(response, content, thinkingMessage, messages, copy, ro
       }
 
       if (event.type === 'challenge_required') {
-        removeThinkingMessage(thinkingMessage);
+        finishThinkingMessage(assistantMessage);
         streamRenderer.cancel();
         setMessageMarkdown(content, event.data.message || copy.challengeFallback || '');
         needsChallenge = true;
+        hasTerminalMessage = true;
       }
 
       if (event.type === 'login_required') {
-        removeThinkingMessage(thinkingMessage);
+        finishThinkingMessage(assistantMessage);
         streamRenderer.cancel();
         setMessageMarkdown(content, event.data.message || copy.loginRequiredFallback || copy.authErrorFallback || '');
+        hasTerminalMessage = true;
       }
 
       if (event.type === 'source') {
@@ -842,9 +850,10 @@ async function readStream(response, content, thinkingMessage, messages, copy, ro
       }
 
       if (event.type === 'error') {
-        removeThinkingMessage(thinkingMessage);
+        finishThinkingMessage(assistantMessage);
         streamRenderer.cancel();
         setMessageMarkdown(content, event.data.message || copy.streamErrorFallback || '');
+        hasTerminalMessage = true;
       }
     }
   }
@@ -853,8 +862,8 @@ async function readStream(response, content, thinkingMessage, messages, copy, ro
     streamRenderer.complete(assistantText);
   }
 
-  if (!hasDelta && !content.textContent) {
-    removeThinkingMessage(thinkingMessage);
+  if (!hasDelta && !hasTerminalMessage) {
+    finishThinkingMessage(assistantMessage);
     streamRenderer.cancel();
     setMessageMarkdown(content, content.dataset.emptyResponse || '');
   }
@@ -1141,10 +1150,9 @@ function initWidget(root) {
     input.value = '';
     input.style.height = 'auto';
 
-    const thinkingMessage = createThinkingMessage(copy);
-    const assistantMessage = createMessage('assistant', '');
+    const assistantMessage = createThinkingMessage(copy);
     assistantMessage.content.dataset.emptyResponse = copy.emptyResponse || '';
-    messages.append(thinkingMessage, assistantMessage.message);
+    messages.append(assistantMessage.message);
     scrollMessages(messages);
     setThinking(root, copy, true);
 
@@ -1168,12 +1176,12 @@ function initWidget(root) {
       });
       delete root.dataset.turnstileToken;
 
-      await readStream(response, assistantMessage.content, thinkingMessage, messages, copy, root);
+      await readStream(response, assistantMessage, messages, copy, root);
       if (root.dataset.viewerKind === 'user') {
         loadThreadList(root).catch(() => {});
       }
     } catch {
-      removeThinkingMessage(thinkingMessage);
+      finishThinkingMessage(assistantMessage);
       setMessageMarkdown(assistantMessage.content, copy.fallbackOffline || '');
     } finally {
       setThinking(root, copy, false);
