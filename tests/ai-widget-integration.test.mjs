@@ -136,6 +136,7 @@ test('AI chat widget supports draggable launcher, compact settings, history, and
   assert.match(script, /data\.recentThreads/);
   assert.match(script, /collectPageContext/);
   assert.match(script, /pageContext: collectPageContext\(root\)/);
+  assert.match(script, /action: 'ai_chat'/);
   assert.match(script, /document\.createElement\('details'\)/);
   assert.match(script, /formatSourceKind/);
   assert.match(script, /ai-message__sources-count/);
@@ -188,6 +189,10 @@ test('AI chat widget exposes auth hooks and localized account copy', async () =>
   assert.match(component, /data-ai-logout/);
   assert.match(script, /api\/auth\/oauth/);
   assert.match(script, /startOAuth/);
+  assert.match(script, /action: 'oauth_login'/);
+  assert.match(script, /method: 'POST'/);
+  assert.match(script, /authorizationUrl/);
+  assert.match(script, /JSON\.stringify\(\{ turnstileToken \}\)/);
   assert.match(script, /api\/auth\/logout/);
   assert.match(script, /updateAuthState/);
   assert.match(css, /\.ai-chat__auth/);

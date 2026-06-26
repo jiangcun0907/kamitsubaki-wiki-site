@@ -514,7 +514,7 @@ function loadTurnstile() {
   return turnstileLoader;
 }
 
-async function requestTurnstileToken(root, content, copy) {
+async function requestTurnstileToken(root, content, copy, options = {}) {
   const siteKey = root.dataset.turnstileSiteKey || '';
   if (!siteKey) {
     return '';
@@ -524,17 +524,27 @@ async function requestTurnstileToken(root, content, copy) {
     const turnstile = await loadTurnstile();
     const container = document.createElement('div');
     container.className = 'ai-message__challenge';
-    content.after(container);
+    const anchor = content instanceof HTMLElement ? content : root;
+    if (anchor === root) {
+      root.append(container);
+    } else {
+      anchor.after(container);
+    }
 
     return await new Promise((resolve) => {
       turnstile.render(container, {
         sitekey: siteKey,
+        action: options.action || 'ai_chat',
         callback(token) {
           root.dataset.turnstileToken = token;
-          setMessageMarkdown(content, copy.challengeReady || content.textContent || '');
+          container.remove();
+          if (options.updateContent !== false && content instanceof HTMLElement) {
+            setMessageMarkdown(content, copy.challengeReady || content.textContent || '');
+          }
           resolve(token);
         },
         'error-callback'() {
+          container.remove();
           resolve('');
         },
         'expired-callback'() {
@@ -547,16 +557,44 @@ async function requestTurnstileToken(root, content, copy) {
   }
 }
 
-function startOAuth(root, provider) {
+async function startOAuth(root, provider, trigger, copy) {
   const apiBase = root.dataset.apiBase || '';
   if (!apiBase || !['github', 'google'].includes(provider)) {
+    return;
+  }
+
+  const challengeAnchor = trigger instanceof HTMLElement ? trigger.closest('.ai-chat__auth-actions') || trigger : null;
+  const turnstileToken = await requestTurnstileToken(root, challengeAnchor, copy, {
+    action: 'oauth_login',
+    updateContent: false,
+  });
+  if (!turnstileToken) {
+    const note = root.querySelector('[data-ai-auth-note]');
+    if (note instanceof HTMLElement) {
+      note.hidden = false;
+      note.textContent = copy.challengeFallback || copy.authErrorFallback || '';
+    }
     return;
   }
 
   const returnTo = window.location.href;
   const url = new URL(apiBase + '/api/auth/oauth/' + provider + '/start');
   url.searchParams.set('returnTo', returnTo);
-  window.location.assign(url.toString());
+  const response = await fetch(url.toString(), {
+    method: 'POST',
+    credentials: 'include',
+    headers: {
+      'Content-Type': 'application/json',
+      Accept: 'application/json',
+    },
+    body: JSON.stringify({ turnstileToken }),
+  });
+  delete root.dataset.turnstileToken;
+  const data = await response.json();
+  if (!response.ok || !data.authorizationUrl) {
+    throw new Error('OAuth security challenge failed.');
+  }
+  window.location.assign(data.authorizationUrl);
 }
 
 async function logout(root, copy) {
@@ -1102,9 +1140,19 @@ function initWidget(root) {
   });
 
   oauthButtons.forEach((button) => {
-    button.addEventListener('click', () => {
+    button.addEventListener('click', async () => {
       if (button instanceof HTMLButtonElement) {
-        startOAuth(root, button.dataset.aiOauth || '');
+        button.disabled = true;
+        try {
+          await startOAuth(root, button.dataset.aiOauth || '', button, copy);
+        } catch {
+          const note = root.querySelector('[data-ai-auth-note]');
+          if (note instanceof HTMLElement) {
+            note.hidden = false;
+            note.textContent = copy.authErrorFallback || copy.challengeFallback || '';
+          }
+          button.disabled = false;
+        }
       }
     });
   });
@@ -1146,7 +1194,6 @@ function initWidget(root) {
 
     const apiBase = root.dataset.apiBase || '';
     const locale = root.dataset.locale || document.documentElement.lang || 'zh';
-    const turnstileToken = root.dataset.turnstileToken || '';
     const userMessage = createMessage('user', message);
     messages.append(userMessage.message);
     input.value = '';
@@ -1159,6 +1206,16 @@ function initWidget(root) {
     setThinking(root, copy, true);
 
     try {
+      setMessageMarkdown(assistantMessage.content, copy.challengeFallback || copy.thinking || '');
+      const turnstileToken = await requestTurnstileToken(root, assistantMessage.content, copy, {
+        action: 'ai_chat',
+      });
+      if (!turnstileToken) {
+        finishThinkingMessage(assistantMessage);
+        setMessageMarkdown(assistantMessage.content, copy.challengeFallback || copy.streamErrorFallback || '');
+        return;
+      }
+
       const body = {
         message,
         locale,
