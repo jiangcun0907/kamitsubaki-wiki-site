@@ -60,6 +60,7 @@ test('AI chat implementation does not hardcode localized chat copy', async () =>
 test('AI chat widget exposes interaction hooks and stream parser integration', async () => {
   const component = await readProjectFile('../src/components/AiChatWidget.astro');
   const script = await readProjectFile('../src/scripts/aiChatWidget.js');
+  const controls = await readProjectFile('../src/lib/aiChatControls.mjs');
   const css = await readProjectFile('../src/styles/global.css');
 
   assert.match(component, /data-ai-chat/);
@@ -72,18 +73,16 @@ test('AI chat widget exposes interaction hooks and stream parser integration', a
   assert.match(component, /data-ai-settings-popover/);
   assert.match(component, /data-ai-model-choice/);
   assert.match(component, /data-ai-thinking-mode/);
-  assert.match(component, /aiKeydownBound/);
-  assert.match(component, /event\.ctrlKey/);
-  assert.match(component, /selectionStart/);
-  assert.match(component, /requestSubmit/);
-  assert.match(component, /aiShellBound/);
-  assert.match(component, /setOpen\(true\)/);
-  assert.match(component, /document\.querySelector\('\[data-ai-chat\]'\)/);
-  assert.match(component, /classList\.add\('is-hidden'\)/);
-  assert.match(component, /dataset\.suppressClick/);
+  assert.match(script, /toggle\.addEventListener\('click'/);
+  assert.match(script, /close\.addEventListener\('click'/);
+  assert.match(script, /scrim\?\.addEventListener\('click'/);
+  assert.match(script, /setExpanded\(root, true\)/);
+  assert.match(script, /setExpanded\(root, false\)/);
+  assert.match(script, /document\.querySelector\('\[data-ai-launcher\]'\)/);
+  assert.match(script, /classList\.toggle\('is-hidden'/);
+  assert.match(script, /dataset\.suppressClick/);
   assert.equal(component.includes("dataset.launcherDragging==='true'"), false);
-  assert.match(component, /onclick="[^"]*classList\.add\('is-open'\)/);
-  assert.match(component, /onclick="[^"]*classList\.remove\('is-open'\)/);
+  assert.equal(component.includes('onclick='), false);
   assert.equal(component.includes('data-ai-custom-model'), false);
   assert.match(script, /parseAiStreamChunk/);
   assert.match(script, /text\/event-stream/);
@@ -93,8 +92,8 @@ test('AI chat widget exposes interaction hooks and stream parser integration', a
   assert.match(css, /\.ai-message__sources-list/);
   assert.match(script, /dataset\.aiPrompt/);
   assert.match(script, /readModelSettings/);
-  assert.match(script, /modelChoice/);
-  assert.match(script, /thinkingMode/);
+  assert.match(controls, /modelChoice/);
+  assert.match(controls, /thinkingMode/);
   assert.match(script, /event\.key === 'Enter'/);
   assert.match(script, /event\.ctrlKey/);
   assert.match(script, /event\.metaKey/);
@@ -141,9 +140,13 @@ test('AI chat widget supports draggable launcher, compact settings, history, and
   assert.match(script, /data-page-context-root/);
   assert.match(script, /!node\.closest\('\[data-ai-chat\]'\)/);
   assert.match(script, /clonedMain\.textContent \|\| ''/);
-  assert.match(script, /copy\.bubbleThinking \|\| copy\.thinking/);
+  assert.match(script, /copy\.thinkingPhrases/);
+  assert.match(script, /\[copy\.bubbleThinking, copy\.status\]\.filter\(Boolean\)/);
   assert.equal(script.includes('setMessageMarkdown(assistantMessage.content, copy.challengeFallback || copy.thinking || \'\')'), false);
   assert.match(script, /action: 'ai_chat'/);
+  assert.match(script, /root\.dataset\.viewerKind !== 'user'/);
+  assert.match(script, /result\.needsChallenge && root\.dataset\.viewerKind === 'user'/);
+  assert.match(script, /requestChat\(retryToken\)/);
   assert.match(script, /document\.createElement\('details'\)/);
   assert.match(script, /formatSourceKind/);
   assert.match(script, /ai-message__sources-count/);

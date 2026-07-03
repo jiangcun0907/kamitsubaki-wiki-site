@@ -2,6 +2,7 @@ import katex from 'katex';
 import { micromark } from 'micromark';
 import { gfm, gfmHtml } from 'micromark-extension-gfm';
 import { math, mathHtml } from 'micromark-extension-math';
+import { readModelSettings, setSegmentedValue } from '../lib/aiChatControls.mjs';
 import { parseAiStreamChunk } from '../lib/aiStream.mjs';
 
 const widgets = document.querySelectorAll('[data-ai-chat]');
@@ -148,11 +149,11 @@ function createMessage(role, text = '') {
   return { message, content };
 }
 
-function createThinkingMessage(copy) {
+function startThinkingMessage(assistantMessage, copy) {
   const phrases = Array.isArray(copy.thinkingPhrases) && copy.thinkingPhrases.length
     ? copy.thinkingPhrases
     : [copy.bubbleThinking, copy.status].filter(Boolean);
-  const { message, content } = createMessage('assistant');
+  const { message, content } = assistantMessage;
   message.classList.add('ai-message--thinking');
   content.classList.remove('ai-markdown');
   content.innerHTML = `
@@ -177,7 +178,12 @@ function createThinkingMessage(copy) {
     }, 1600);
     message.dataset.thinkingTimer = String(timer);
   }
+}
 
+function createThinkingMessage(copy) {
+  const assistantMessage = createMessage('assistant');
+  startThinkingMessage(assistantMessage, copy);
+  const { message, content } = assistantMessage;
   return { message, content };
 }
 
@@ -340,16 +346,6 @@ function toggleHistory(root, expanded) {
   }
 }
 
-function readModelSettings(root) {
-  const modelChoice = root.querySelector('[data-ai-model-choice]');
-  const thinkingMode = root.querySelector('[data-ai-thinking-mode]');
-
-  return {
-    modelChoice: modelChoice instanceof HTMLElement ? modelChoice.dataset.value || 'auto' : 'auto',
-    thinkingMode: thinkingMode instanceof HTMLElement ? thinkingMode.dataset.value || 'auto' : 'auto',
-  };
-}
-
 function compactText(value, maxLength) {
   return String(value || '')
     .replace(/\s+/g, ' ')
@@ -412,22 +408,6 @@ function collectPageContext(root) {
     kind,
     locale: root.dataset.locale || document.documentElement.lang || 'zh',
   };
-}
-
-function setSegmentedValue(group, value) {
-  if (!(group instanceof HTMLElement)) {
-    return;
-  }
-
-  group.dataset.value = value;
-  group.querySelectorAll('button[role="radio"]').forEach((button) => {
-    if (!(button instanceof HTMLButtonElement)) {
-      return;
-    }
-    const isActive = button.dataset.aiModelOption === value || button.dataset.aiThinkingOption === value;
-    button.classList.toggle('is-active', isActive);
-    button.setAttribute('aria-checked', String(isActive));
-  });
 }
 
 function insertTextareaNewline(input) {
@@ -935,8 +915,10 @@ async function readStream(response, assistantMessage, messages, copy, root) {
   }
 
   if (needsChallenge && root) {
-    await requestTurnstileToken(root, content, copy);
+    return { needsChallenge: true };
   }
+
+  return { needsChallenge: false };
 }
 
 function applyLauncherPosition(position) {
@@ -1231,26 +1213,18 @@ function initWidget(root) {
     scrollMessages(messages);
     setThinking(root, copy, true);
 
-    try {
-      setMessageMarkdown(assistantMessage.content, copy.bubbleThinking || copy.thinking || '');
-      const turnstileToken = await requestTurnstileToken(root, assistantMessage.content, copy, {
-        action: 'ai_chat',
-      });
-      if (!turnstileToken) {
-        finishThinkingMessage(assistantMessage);
-        setMessageMarkdown(assistantMessage.content, copy.challengeFallback || copy.streamErrorFallback || '');
-        return;
-      }
-
+    const requestChat = (turnstileToken = '') => {
       const body = {
         message,
         locale,
-        turnstileToken,
         threadId: root.dataset.currentThreadId || undefined,
         pageContext: collectPageContext(root),
         ...readModelSettings(root),
       };
-      const response = await fetch(`${apiBase}/api/ai/chat`, {
+      if (turnstileToken) {
+        body.turnstileToken = turnstileToken;
+      }
+      return fetch(`${apiBase}/api/ai/chat`, {
         method: 'POST',
         credentials: 'include',
         headers: {
@@ -1259,9 +1233,38 @@ function initWidget(root) {
         },
         body: JSON.stringify(body),
       });
+    };
+
+    try {
+      let turnstileToken = '';
+      if (root.dataset.viewerKind !== 'user') {
+        turnstileToken = await requestTurnstileToken(root, assistantMessage.content, copy, {
+          action: 'ai_chat',
+        });
+        if (!turnstileToken) {
+          finishThinkingMessage(assistantMessage);
+          setMessageMarkdown(assistantMessage.content, copy.challengeFallback || copy.streamErrorFallback || '');
+          return;
+        }
+      }
+
+      let response = await requestChat(turnstileToken);
       delete root.dataset.turnstileToken;
 
-      await readStream(response, assistantMessage, messages, copy, root);
+      let result = await readStream(response, assistantMessage, messages, copy, root);
+      if (result.needsChallenge && root.dataset.viewerKind === 'user') {
+        const retryToken = await requestTurnstileToken(root, assistantMessage.content, copy, {
+          action: 'ai_chat',
+          updateContent: false,
+        });
+        if (retryToken) {
+          startThinkingMessage(assistantMessage, copy);
+          scrollMessages(messages);
+          response = await requestChat(retryToken);
+          delete root.dataset.turnstileToken;
+          result = await readStream(response, assistantMessage, messages, copy, root);
+        }
+      }
       if (root.dataset.viewerKind === 'user') {
         loadThreadList(root).catch(() => {});
       }

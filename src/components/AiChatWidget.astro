@@ -87,7 +87,6 @@ const apiBase = import.meta.env.PUBLIC_AI_OBSERVER_API_BASE || 'https://kamitsub
     data-ai-toggle
     aria-label={copy.buttonLabel}
     aria-expanded="false"
-    onclick="(()=>{const launcher=this.closest('[data-ai-launcher]');if(launcher?.dataset.suppressClick==='true')return;const root=document.querySelector('[data-ai-chat]');root?.classList.add('is-open');launcher?.classList.add('is-hidden');root?.querySelector('[data-ai-panel]')?.setAttribute('aria-hidden','false');this.setAttribute('aria-expanded','true');setTimeout(()=>root?.querySelector('[data-ai-input]')?.focus(),160);})()"
   >
     <span class="ai-chat__orb-corner ai-chat__orb-corner--tl" aria-hidden="true">+</span>
     <span class="ai-chat__orb-corner ai-chat__orb-corner--tr" aria-hidden="true">+</span>
@@ -118,7 +117,6 @@ const apiBase = import.meta.env.PUBLIC_AI_OBSERVER_API_BASE || 'https://kamitsub
     type="button"
     data-ai-scrim
     aria-label={copy.closeLabel}
-    onclick="(()=>{const root=this.closest('[data-ai-chat]');root?.classList.remove('is-open');document.querySelector('[data-ai-launcher]')?.classList.remove('is-hidden');root?.querySelector('[data-ai-panel]')?.setAttribute('aria-hidden','true');document.querySelector('[data-ai-toggle]')?.setAttribute('aria-expanded','false');})()"
   ></button>
 
   <section class="ai-chat__panel" data-ai-panel aria-hidden="true">
@@ -134,16 +132,6 @@ const apiBase = import.meta.env.PUBLIC_AI_OBSERVER_API_BASE || 'https://kamitsub
         <button class="ai-chat__icon-btn" type="button" data-ai-history-toggle aria-expanded="false" aria-label="History">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1"><path d="M3 12a9 9 0 1 0 3-6.7"/><path d="M3 4v5h5"/><path d="M12 7v5l3 2"/></svg>
         </button>
-        <div class="ai-chat__auth" data-ai-auth>
-          <div class="ai-chat__auth-status" data-ai-auth-status>{normalizedCopy.accountAnonymous}</div>
-          <div class="ai-chat__auth-actions">
-            <button class="ai-chat__auth-btn" type="button" data-ai-oauth="github"><svg viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg> GitHub</button>
-            <button class="ai-chat__auth-btn" type="button" data-ai-oauth="google"><svg viewBox="0 0 48 48" aria-hidden="true"><path fill="#FFC107" d="M43.611 20.083H42V20H24v8h11.303c-1.649 4.657-6.08 8-11.303 8-6.627 0-12-5.373-12-12S17.373 12 24 12c3.059 0 5.842 1.154 7.961 3.039l5.657-5.657C34.046 6.053 29.268 4 24 4 12.955 4 4 12.955 4 24s8.955 20 20 20 20-8.955 20-20c0-1.341-.138-2.65-.389-3.917z"/><path fill="#FF3D00" d="m6.306 14.691 6.571 4.819C14.655 15.108 18.961 12 24 12c3.059 0 5.842 1.154 7.961 3.039l5.657-5.657C34.046 6.053 29.268 4 24 4 16.318 4 9.656 8.337 6.306 14.691z"/><path fill="#4CAF50" d="M24 44c5.166 0 9.86-1.977 13.409-5.192l-6.19-5.238C29.211 35.091 26.715 36 24 36c-5.202 0-9.619-3.317-11.283-7.946l-6.522 5.025C9.505 39.556 16.227 44 24 44z"/><path fill="#1976D2" d="M43.611 20.083H42V20H24v8h11.303c-.792 2.237-2.231 4.166-4.087 5.571l6.19 5.238C36.971 39.205 44 34 44 24c0-1.341-.138-2.65-.389-3.917z"/></svg> Google</button>
-            <button class="ai-chat__auth-btn" type="button" data-ai-logout hidden><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" x2="9" y1="12" y2="12"/></svg> Exit</button>
-          </div>
-          <p data-ai-auth-note hidden></p>
-        </div>
-
         <button class="ai-chat__icon-btn" type="button" data-ai-settings-toggle aria-expanded="false" aria-label="Settings">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1"><path d="M4 7h10"/><path d="M18 7h2"/><path d="M16 5v4"/><path d="M4 17h2"/><path d="M10 17h10"/><path d="M8 15v4"/></svg>
         </button>
@@ -178,8 +166,20 @@ const apiBase = import.meta.env.PUBLIC_AI_OBSERVER_API_BASE || 'https://kamitsub
       </div>
     </header>
 
+    <div class="ai-chat__session-bar">
+      <div class="ai-chat__auth" data-ai-auth>
+        <div class="ai-chat__auth-status" data-ai-auth-status>{normalizedCopy.accountAnonymous}</div>
+        <div class="ai-chat__auth-actions">
+          <button class="ai-chat__auth-btn" type="button" data-ai-oauth="github"><svg viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg> {normalizedCopy.githubLoginLabel}</button>
+          <button class="ai-chat__auth-btn" type="button" data-ai-oauth="google"><svg viewBox="0 0 48 48" aria-hidden="true"><path fill="#FFC107" d="M43.611 20.083H42V20H24v8h11.303c-1.649 4.657-6.08 8-11.303 8-6.627 0-12-5.373-12-12S17.373 12 24 12c3.059 0 5.842 1.154 7.961 3.039l5.657-5.657C34.046 6.053 29.268 4 24 4 12.955 4 4 12.955 4 24s8.955 20 20 20 20-8.955 20-20c0-1.341-.138-2.65-.389-3.917z"/><path fill="#FF3D00" d="m6.306 14.691 6.571 4.819C14.655 15.108 18.961 12 24 12c3.059 0 5.842 1.154 7.961 3.039l5.657-5.657C34.046 6.053 29.268 4 24 4 16.318 4 9.656 8.337 6.306 14.691z"/><path fill="#4CAF50" d="M24 44c5.166 0 9.86-1.977 13.409-5.192l-6.19-5.238C29.211 35.091 26.715 36 24 36c-5.202 0-9.619-3.317-11.283-7.946l-6.522 5.025C9.505 39.556 16.227 44 24 44z"/><path fill="#1976D2" d="M43.611 20.083H42V20H24v8h11.303c-.792 2.237-2.231 4.166-4.087 5.571l6.19 5.238C36.971 39.205 44 34 44 24c0-1.341-.138-2.65-.389-3.917z"/></svg> {normalizedCopy.googleLoginLabel}</button>
+          <button class="ai-chat__auth-btn" type="button" data-ai-logout hidden><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" x2="9" y1="12" y2="12"/></svg> {normalizedCopy.logoutLabel}</button>
+        </div>
+      </div>
+      <p data-ai-auth-note hidden></p>
+    </div>
+
     <div class="ai-chat__body">
-      <aside class="ai-chat__history" data-ai-history-panel>
+      <aside class="ai-chat__history" data-ai-history-panel hidden>
         <div class="ai-chat__history-head">
           <span>// ARCHIVES</span>
           <div class="ai-chat__history-actions">
@@ -241,75 +241,6 @@ const apiBase = import.meta.env.PUBLIC_AI_OBSERVER_API_BASE || 'https://kamitsub
     </form>
   </dialog>
 </aside>
-
-<script is:inline>
-  (() => {
-    document.querySelectorAll('[data-ai-chat]').forEach((root) => {
-      if (!(root instanceof HTMLElement) || root.dataset.aiShellBound === 'true') {
-        return;
-      }
-
-      root.dataset.aiShellBound = 'true';
-      const setOpen = (open) => {
-        root.classList.toggle('is-open', open);
-        document.querySelector('[data-ai-launcher]')?.classList.toggle('is-hidden', open);
-        root.querySelector('[data-ai-panel]')?.setAttribute('aria-hidden', open ? 'false' : 'true');
-        document.querySelector('[data-ai-toggle]')?.setAttribute('aria-expanded', String(open));
-        if (open) {
-          window.setTimeout(() => root.querySelector('[data-ai-input]')?.focus(), 160);
-        }
-      };
-
-      root.addEventListener('click', (event) => {
-        const target = event.target instanceof Element ? event.target : null;
-        if (!target) {
-          return;
-        }
-
-        if (target.closest('[data-ai-toggle]')) {
-          if (root.dataset.launcherDragging !== 'true') {
-            setOpen(true);
-          }
-          return;
-        }
-
-        if (target.closest('[data-ai-close], [data-ai-scrim]')) {
-          setOpen(false);
-        }
-      });
-
-      root.querySelectorAll('[data-ai-input]').forEach((input) => {
-        if (!(input instanceof HTMLTextAreaElement) || input.dataset.aiKeydownBound === 'true') {
-          return;
-        }
-
-        input.dataset.aiKeydownBound = 'true';
-        input.addEventListener('keydown', (event) => {
-          const isEnter = event.key === 'Enter' || event.code === 'NumpadEnter';
-          if (!isEnter) {
-            return;
-          }
-
-          if ((event.ctrlKey || event.metaKey) && !event.isComposing) {
-            event.preventDefault();
-            const start = input.selectionStart ?? input.value.length;
-            const end = input.selectionEnd ?? input.value.length;
-            input.value = `${input.value.slice(0, start)}\n${input.value.slice(end)}`;
-            input.selectionStart = start + 1;
-            input.selectionEnd = start + 1;
-            input.dispatchEvent(new Event('input', { bubbles: true }));
-            return;
-          }
-
-          if (!event.shiftKey && !event.altKey && !event.ctrlKey && !event.metaKey && !event.isComposing) {
-            event.preventDefault();
-            input.form?.requestSubmit();
-          }
-        });
-      });
-    });
-  })();
-</script>
 
 <script>
   import '../scripts/aiChatWidget.js';
