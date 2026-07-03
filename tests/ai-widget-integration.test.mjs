@@ -160,6 +160,9 @@ test('AI chat widget supports draggable launcher, compact settings, history, and
   assert.match(css, /\.ai-chat__launcher\.is-hidden/);
   assert.match(css, /\.ai-chat__settings-popover/);
   assert.match(css, /\.ai-chat__segmented/);
+  assert.match(css, /\.ai-chat__header\s*\{[^}]*z-index: 4;/s);
+  assert.match(css, /\.ai-chat__settings-popover\s*\{[^}]*z-index: 20;/s);
+  assert.match(css, /\.ai-chat__body\s*\{[^}]*z-index: 1;/s);
   assert.match(css, /\.ai-chat__history/);
   assert.match(css, /aiPanelScan/);
   assert.match(css, /min-height: 3\.05rem/);
