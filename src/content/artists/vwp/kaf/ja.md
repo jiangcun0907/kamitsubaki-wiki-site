@@ -20,6 +20,9 @@ officialLinks:
   - label: "V.W.P 公式ページ"
     href: "https://kamitsubaki.jp/artist/v-w-p/"
 featuredEntries:
+  - label: "V.W.P"
+    href: "/ja/artists/vwp/vwp"
+    kind: "artist"
   - label: "可不 / KAFU"
     href: "/ja/artists/isotopes/kafu"
     kind: "artist"

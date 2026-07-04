@@ -19,6 +19,10 @@ officialLinks:
     href: "https://twitter.com/virtual_teresa"
   - label: "Instagram"
     href: "https://www.instagram.com/virtual_teresa/"
+  - label: "Weibo"
+    href: "https://www.weibo.com/u/7454971009"
+  - label: "bilibili"
+    href: "https://space.bilibili.com/586849155"
 featuredEntries: []
 theme:
   name: "teresa Dawn"

@@ -55,7 +55,7 @@ seo:
 
 ## Overview
 
-Kaika (廻花) is a new-generation virtual singer-songwriter under KAMITSUBAKI STUDIO, described as "a new branching point of KAF." She debuted on January 14, 2024, at KAF's 4th ONE-MAN LIVE "Kaika" held at Yoyogi National Gymnasium, emerging as a distinct artistic identity that channels impulsive, unfiltered feelings directly into song. Her concept represents a fork in KAF's creative lineage — a new flower blooming from the same root but growing in its own direction.
+Kaika (廻花) is a new-generation virtual singer-songwriter under KAMITSUBAKI STUDIO, described as "a new branching point of KAF." She debuted on January 14, 2024, at KAF's 4th ONE-MAN LIVE "Kaika" (怪歌) held at Yoyogi National Stadium First Gymnasium (国立代々木競技場第一体育館), emerging as a distinct artistic identity that channels impulsive, unfiltered feelings directly into song. Her concept represents a fork in KAF's creative lineage — a new flower blooming from the same root but growing in its own direction.
 
 With a vocal style that leans into raw emotional expression, Kaika occupies a unique space within the Kamitsubaki ecosystem: part singer-songwriter, part character narrative. Her work explores immediacy and instinct, contrasting with the more literary or philosophical approaches of other V.W.P members.
 
@@ -65,11 +65,12 @@ Kaika's identity is built on the idea of "branching" — she is explicitly frame
 
 ## Activity History
 
-- January 14, 2024: Debuted at KAF's 4th ONE-MAN LIVE "Kaika" at Yoyogi National Gymnasium.
+- January 14, 2024: Debuted at KAF's 4th ONE-MAN LIVE "Kaika" (怪歌) at Yoyogi National Stadium First Gymnasium.
 - August 25, 2024: Performed at YouTube Music Weekend 8.0.
+- January 14, 2025: Held Transmission Mini Live "Umareru mae kara kimi wo shitteru."
 - Released debut album *Umareru mae kara kimi wo shitteru* ("I've Known You Since Before You Were Born").
 - Released singles: "Stand By Me," "Higurashi no Uta," "Teddy Bear," "Kaika."
-- July 19, 2025: Held solo exhibition "KuruKuru."
+- July 19, 2025: Held Kaika Exhibition "Kurukuru" (廻花展「くるくる」).
 
 ## Representative Works
 

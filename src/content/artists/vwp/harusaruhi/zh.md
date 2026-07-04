@@ -21,6 +21,9 @@ officialLinks:
   - label: "V.W.P 官方页"
     href: "https://kamitsubaki.jp/artist/v-w-p/"
 featuredEntries:
+  - label: "V.W.P"
+    href: "/zh/artists/vwp/vwp"
+    kind: "artist"
   - label: "神椿市建设中。"
     href: "/zh/projects/arg/kamitsubaki-city"
     kind: "project"

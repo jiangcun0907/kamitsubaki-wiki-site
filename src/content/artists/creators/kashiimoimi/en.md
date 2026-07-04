@@ -17,7 +17,7 @@ officialLinks:
   - label: "Twitter"
     href: "https://twitter.com/moi__moimi"
   - label: "Bilibili"
-    href: "https://space.bilibili.com/"
+    href: "https://space.bilibili.com/627704742"
 theme:
   name: "Kashii Twilight"
   accentColor: "#c47aed"

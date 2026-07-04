@@ -71,7 +71,7 @@ Within KUUSOU, CIEL's voice forms a distinctive complementary relationship with 
 ## Activity History
 
 - Discovered through KAMITSUBAKI STUDIO's audition program "Kamitsubaki-shi Ijuu Teijuu-ka."
-- Made her first major event appearance at KAMITSUBAKI FES'23 (March 2023).
+- February 15, 2023: Made her first major event appearance at KAMITSUBAKI FES'23.
 - Performed the theme song for the theatrical anime *Eiga Daisuki Ponpo-san*.
 - Held her first VR Chat solo live, drawing approximately 400 attendees.
 - May 13, 2024: Participated in the virtual reading play *Kuusou Geki —Kamitsubaki-shi Goban-gai—*.

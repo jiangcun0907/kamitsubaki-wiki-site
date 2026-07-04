@@ -22,6 +22,13 @@ officialLinks:
     href: "https://www.tiktok.com/@anmc_kamitsubaki"
   - label: "Steam"
     href: "https://store.steampowered.com/app/2951340"
+featuredEntries:
+  - label: "Empty old City"
+    href: "/en/artists/solo/empty-old-city"
+    kind: "artist"
+  - label: "Kazuhide Oka"
+    href: "/en/artists/creators/kazuhide-oka"
+    kind: "artist"
 theme:
   name: "ANMC Indie Game"
   accentColor: "#7ecbf0"
@@ -60,11 +67,11 @@ The core concept is "music becomes a piece of the game." By producing games, mus
 
 ANMC's defining characteristic is its refusal to separate game and music into distinct works. Songs are born from in-game scenarios, and music videos are composed as scenes within the game world. Everything branches from a shared narrative origin, producing a cohesive cross-media experience.
 
-Two titles are currently available on Steam: *Natsuno Kanata* (App ID: 2951340) and a second release (App ID: 3337210). On June 12, 2026, a demo for the new game *Planica Space* was released, and on March 20, 2026, *Girls Maid Pudding* celebrated its first anniversary.
+Two titles are currently available on Steam: *Natsuno Kanata* (App ID: 2951340) and a second release (App ID: 3337210). On June 12, 2026, a demo for the new game *Platonica Space* was released, and on March 20, 2026, *Girls Maid Pudding* celebrated its first anniversary.
 
 ## Discography
 
-- 6th Single: "Mata Tabi wa Nekomimi to" feat. kahoca
+- 6th Single: "Mata Tabi wa Nekomimi to" feat. kahoca (from Empty old City), Ichinose Hinatsu
 - 5th Single: "Futari dake no Monogatari"
 - 4th Single: "moonless"
 - 3rd Single: "Tsuki no Nioi" feat. WaMi

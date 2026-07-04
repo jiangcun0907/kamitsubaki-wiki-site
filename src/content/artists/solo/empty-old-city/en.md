@@ -22,6 +22,10 @@ officialLinks:
     href: "https://www.tiktok.com/@emptyoldcity"
   - label: "Streaming"
     href: "https://emptyoldcity.lnk.to/Artist"
+  - label: "bilibili"
+    href: "https://space.bilibili.com/3546660365928495"
+  - label: "Weibo"
+    href: "https://weibo.com/u/7914489238"
 featuredEntries: []
 theme:
   name: "Empty old City Midnight"

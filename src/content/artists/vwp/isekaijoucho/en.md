@@ -18,6 +18,9 @@ officialLinks:
   - label: "Official V.W.P page"
     href: "https://kamitsubaki.jp/artist/v-w-p/"
 featuredEntries:
+  - label: "V.W.P"
+    href: "/en/artists/vwp/vwp"
+    kind: "artist"
   - label: "SEKAI"
     href: "/en/artists/isotopes/sekai"
     kind: "artist"
