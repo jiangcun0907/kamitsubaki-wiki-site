@@ -1137,9 +1137,12 @@ input[type="reset"] {
 }
 
 .ai-chat__thread-row {
-  display: flex;
-  gap: 0;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: stretch;
+  gap: 1px;
   border: 1px solid transparent;
+  background: rgba(255, 255, 255, 0.035);
 }
 
 .ai-chat__thread-row:hover {
@@ -1147,7 +1150,6 @@ input[type="reset"] {
 }
 
 .ai-chat__thread {
-  flex: 1;
   padding: 0.72rem 0.85rem;
   background: transparent;
   border: none;
@@ -1184,29 +1186,13 @@ input[type="reset"] {
   color: var(--ai-accent);
 }
 
-.ai-chat__thread-menu {
-  width: 2.5rem;
-  border: none;
-  background: transparent;
-  color: var(--ai-text-muted);
-  cursor: pointer;
-}
-
-.ai-chat__thread-menu:hover {
-  color: var(--ai-accent);
-}
-
 .ai-chat__thread-actions {
-  position: absolute;
-  top: 100%;
-  right: 0;
-  z-index: 20;
   display: flex;
-  flex-direction: column;
-  background: var(--ai-bg);
-  border: 1px solid var(--ai-accent);
-  padding: 0.25rem;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+  align-items: stretch;
+  gap: 1px;
+  padding: 0;
+  background: rgba(255, 255, 255, 0.06);
+  border-left: 1px solid var(--ai-border);
 }
 
 .ai-chat__thread-actions[hidden] {
@@ -1214,20 +1200,29 @@ input[type="reset"] {
 }
 
 .ai-chat__thread-actions button {
-  background: transparent;
+  display: grid;
+  place-items: center;
+  min-width: 3.75rem;
+  background: rgba(0, 0, 0, 0.52);
   border: none;
-  color: var(--ai-text-main);
-  padding: 0.5rem 1rem;
-  font-size: 0.75rem;
+  color: var(--ai-text-muted);
+  padding: 0 0.58rem;
+  font-size: 0.68rem;
   font-family: var(--font-mono);
   text-transform: uppercase;
-  text-align: left;
+  text-align: center;
+  white-space: nowrap;
   cursor: pointer;
+  transition: background 150ms ease, color 150ms ease;
 }
 
 .ai-chat__thread-actions button:hover {
-  background: var(--ai-accent-dim);
+  background: rgba(255, 255, 255, 0.14);
   color: var(--ai-accent);
+}
+
+.ai-chat__thread-actions [data-ai-thread-delete]:hover {
+  color: rgba(255, 170, 170, 0.92);
 }
 
 .ai-chat__thread-row {

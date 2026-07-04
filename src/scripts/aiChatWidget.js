@@ -687,22 +687,25 @@ function renderThreadList(root, threads) {
     button.querySelector('small').textContent = thread.updatedAt || '';
     button.classList.toggle('is-active', thread.id === root.dataset.currentThreadId);
 
-    const menu = document.createElement('button');
-    menu.type = 'button';
-    menu.className = 'ai-chat__thread-menu';
-    menu.dataset.aiThreadMenuToggle = thread.id;
-    menu.setAttribute('aria-label', 'Conversation actions');
-    menu.setAttribute('aria-expanded', 'false');
-    menu.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><circle cx="5" cy="12" r="1.5"/><circle cx="12" cy="12" r="1.5"/><circle cx="19" cy="12" r="1.5"/></svg>';
-
     const actions = document.createElement('div');
     actions.className = 'ai-chat__thread-actions';
-    actions.hidden = true;
+    actions.setAttribute('aria-label', 'Conversation actions');
     actions.innerHTML = `<button type="button" data-ai-thread-rename></button><button type="button" data-ai-thread-delete></button>`;
-    actions.querySelector('[data-ai-thread-rename]').textContent = normalizeCopy(root).renameThreadLabel || '';
-    actions.querySelector('[data-ai-thread-delete]').textContent = normalizeCopy(root).deleteThreadLabel || '';
+    const renameButton = actions.querySelector('[data-ai-thread-rename]');
+    const deleteButton = actions.querySelector('[data-ai-thread-delete]');
+    const copy = normalizeCopy(root);
+    if (renameButton instanceof HTMLButtonElement) {
+      renameButton.textContent = copy.renameThreadLabel || '';
+      renameButton.setAttribute('aria-label', copy.renameThreadLabel || 'Rename');
+      renameButton.title = copy.renameThreadLabel || '';
+    }
+    if (deleteButton instanceof HTMLButtonElement) {
+      deleteButton.textContent = copy.deleteThreadLabel || '';
+      deleteButton.setAttribute('aria-label', copy.deleteThreadLabel || 'Delete');
+      deleteButton.title = copy.deleteThreadLabel || '';
+    }
 
-    row.append(button, menu, actions);
+    row.append(button, actions);
     list.append(row);
   }
 }
@@ -724,6 +727,12 @@ function openHistoryDialog(root, { title, message = '', value = '', confirmLabel
   if (input instanceof HTMLInputElement) {
     input.hidden = !showInput;
     input.value = value;
+    input.onkeydown = (event) => {
+      if (showInput && event.key === 'Enter' && !event.isComposing) {
+        event.preventDefault();
+        dialog.close('confirm');
+      }
+    };
   }
   if (confirm instanceof HTMLButtonElement) confirm.textContent = confirmLabel;
   if (dialog.open) dialog.close('cancel');

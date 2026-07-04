@@ -231,9 +231,15 @@ test('logged-in history exposes rename, delete, clear, and restored source contr
   assert.match(script, /renameThread/);
   assert.match(script, /deleteThread/);
   assert.match(script, /clearAllThreads/);
+  assert.match(script, /data-ai-thread-rename/);
+  assert.match(script, /data-ai-thread-delete/);
+  assert.match(script, /dialog\.close\('confirm'\)/);
+  assert.equal(script.includes('dataset.aiThreadMenuToggle'), false);
   assert.match(script, /item\.sources/);
   assert.match(script, /method: 'PATCH'/);
   assert.match(script, /method: 'DELETE'/);
+  assert.match(css, /grid-template-columns: minmax\(0, 1fr\) auto/);
+  assert.match(css, /\.ai-chat__thread-actions button/);
   assert.match(css, /backdrop-filter:/);
   assert.match(css, /--ai-glass/);
   assert.match(css, /prefers-reduced-motion/);
