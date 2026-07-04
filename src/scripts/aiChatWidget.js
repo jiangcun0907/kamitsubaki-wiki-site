@@ -687,27 +687,103 @@ function renderThreadList(root, threads) {
     button.querySelector('small').textContent = thread.updatedAt || '';
     button.classList.toggle('is-active', thread.id === root.dataset.currentThreadId);
 
+    const menu = document.createElement('button');
+    menu.type = 'button';
+    menu.className = 'ai-chat__thread-menu';
+    menu.dataset.aiThreadMenuToggle = thread.id;
+    menu.setAttribute('aria-label', 'Conversation actions');
+    menu.setAttribute('aria-expanded', 'false');
+    menu.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><circle cx="5" cy="12" r="1.45"/><circle cx="12" cy="12" r="1.45"/><circle cx="19" cy="12" r="1.45"/></svg>';
+
     const actions = document.createElement('div');
     actions.className = 'ai-chat__thread-actions';
+    actions.hidden = true;
     actions.setAttribute('aria-label', 'Conversation actions');
-    actions.innerHTML = `<button type="button" data-ai-thread-rename></button><button type="button" data-ai-thread-delete></button>`;
+    const copy = normalizeCopy(root);
+    const renameLabel = copy.renameThreadLabel || 'Rename';
+    const deleteLabel = copy.deleteThreadLabel || 'Delete';
+    actions.innerHTML = `
+      <div class="ai-chat__thread-action-view" data-ai-thread-action-view="choices">
+        <button type="button" data-ai-thread-rename></button>
+        <button type="button" data-ai-thread-delete></button>
+      </div>
+      <div class="ai-chat__thread-action-view ai-chat__thread-action-view--form" data-ai-thread-action-view="rename" hidden>
+        <input type="text" maxlength="80" data-ai-thread-rename-input>
+        <div class="ai-chat__thread-confirm-row">
+          <button type="button" data-ai-thread-action-cancel>[CANCEL]</button>
+          <button type="button" data-ai-thread-rename-confirm></button>
+        </div>
+      </div>
+      <div class="ai-chat__thread-action-view ai-chat__thread-action-view--confirm" data-ai-thread-action-view="delete" hidden>
+        <p data-ai-thread-delete-message></p>
+        <div class="ai-chat__thread-confirm-row">
+          <button type="button" data-ai-thread-action-cancel>[CANCEL]</button>
+          <button type="button" data-ai-thread-delete-confirm></button>
+        </div>
+      </div>
+    `;
     const renameButton = actions.querySelector('[data-ai-thread-rename]');
     const deleteButton = actions.querySelector('[data-ai-thread-delete]');
-    const copy = normalizeCopy(root);
+    const renameConfirm = actions.querySelector('[data-ai-thread-rename-confirm]');
+    const deleteConfirm = actions.querySelector('[data-ai-thread-delete-confirm]');
+    const renameInput = actions.querySelector('[data-ai-thread-rename-input]');
+    const deleteMessage = actions.querySelector('[data-ai-thread-delete-message]');
     if (renameButton instanceof HTMLButtonElement) {
-      renameButton.textContent = copy.renameThreadLabel || '';
-      renameButton.setAttribute('aria-label', copy.renameThreadLabel || 'Rename');
-      renameButton.title = copy.renameThreadLabel || '';
+      renameButton.textContent = renameLabel;
+      renameButton.setAttribute('aria-label', renameLabel);
+      renameButton.title = renameLabel;
     }
     if (deleteButton instanceof HTMLButtonElement) {
-      deleteButton.textContent = copy.deleteThreadLabel || '';
-      deleteButton.setAttribute('aria-label', copy.deleteThreadLabel || 'Delete');
-      deleteButton.title = copy.deleteThreadLabel || '';
+      deleteButton.textContent = deleteLabel;
+      deleteButton.setAttribute('aria-label', deleteLabel);
+      deleteButton.title = deleteLabel;
+    }
+    if (renameConfirm instanceof HTMLButtonElement) {
+      renameConfirm.textContent = renameLabel;
+    }
+    if (deleteConfirm instanceof HTMLButtonElement) {
+      deleteConfirm.textContent = deleteLabel;
+    }
+    if (renameInput instanceof HTMLInputElement) {
+      renameInput.setAttribute('aria-label', renameLabel);
+    }
+    if (deleteMessage instanceof HTMLElement) {
+      deleteMessage.textContent = copy.deleteThreadConfirm || '';
     }
 
-    row.append(button, actions);
+    row.append(button, menu, actions);
     list.append(row);
   }
+}
+
+function setThreadActionView(row, view) {
+  const actions = row?.querySelector('.ai-chat__thread-actions');
+  if (!(actions instanceof HTMLElement)) {
+    return;
+  }
+
+  actions.querySelectorAll('[data-ai-thread-action-view]').forEach((panel) => {
+    if (panel instanceof HTMLElement) {
+      panel.hidden = panel.dataset.aiThreadActionView !== view;
+    }
+  });
+}
+
+function closeThreadMenus(list, exceptRow = null) {
+  list.querySelectorAll('[data-thread-id]').forEach((row) => {
+    if (!(row instanceof HTMLElement) || row === exceptRow) {
+      return;
+    }
+    const actions = row.querySelector('.ai-chat__thread-actions');
+    const toggle = row.querySelector('[data-ai-thread-menu-toggle]');
+    if (actions instanceof HTMLElement) {
+      actions.hidden = true;
+      setThreadActionView(row, 'choices');
+    }
+    if (toggle instanceof HTMLButtonElement) {
+      toggle.setAttribute('aria-expanded', 'false');
+    }
+  });
 }
 
 function openHistoryDialog(root, { title, message = '', value = '', confirmLabel = '', showInput = false }) {
@@ -751,14 +827,8 @@ function openHistoryDialog(root, { title, message = '', value = '', confirmLabel
   });
 }
 
-async function renameThread(root, threadId, currentTitle, copy) {
-  const title = await openHistoryDialog(root, {
-    title: copy.renameThreadLabel || '',
-    value: currentTitle || '',
-    confirmLabel: copy.renameThreadLabel || '',
-    showInput: true,
-  });
-  if (!title?.trim()) {
+async function renameThread(root, threadId, title) {
+  if (!threadId || !title?.trim()) {
     return;
   }
   const response = await fetch(`${root.dataset.apiBase}/api/ai/threads/${encodeURIComponent(threadId)}`, {
@@ -772,13 +842,8 @@ async function renameThread(root, threadId, currentTitle, copy) {
   }
 }
 
-async function deleteThread(root, threadId, copy) {
-  const confirmed = await openHistoryDialog(root, {
-    title: copy.deleteThreadLabel || '',
-    message: copy.deleteThreadConfirm || '',
-    confirmLabel: copy.deleteThreadLabel || '',
-  });
-  if (!confirmed) {
+async function deleteThread(root, threadId) {
+  if (!threadId) {
     return;
   }
   const response = await fetch(`${root.dataset.apiBase}/api/ai/threads/${encodeURIComponent(threadId)}`, {
@@ -1163,23 +1228,83 @@ function initWidget(root) {
     if (menuToggle instanceof HTMLButtonElement) {
       const actions = row?.querySelector('.ai-chat__thread-actions');
       if (actions instanceof HTMLElement) {
-        actions.hidden = !actions.hidden;
+        closeThreadMenus(threadList, row instanceof HTMLElement ? row : null);
+        const shouldOpen = actions.hidden;
+        actions.hidden = !shouldOpen;
+        if (shouldOpen) {
+          setThreadActionView(row, 'choices');
+        }
         menuToggle.setAttribute('aria-expanded', String(!actions.hidden));
       }
       return;
     }
     if (target?.closest('[data-ai-thread-rename]')) {
       const currentTitle = row?.querySelector('[data-ai-thread-id] span')?.textContent || '';
-      renameThread(root, threadId, currentTitle, copy).catch(() => {});
+      const input = row?.querySelector('[data-ai-thread-rename-input]');
+      setThreadActionView(row, 'rename');
+      if (input instanceof HTMLInputElement) {
+        input.value = currentTitle;
+        input.focus({ preventScroll: true });
+        input.select();
+      }
+      return;
+    }
+    if (target?.closest('[data-ai-thread-rename-confirm]')) {
+      const input = row?.querySelector('[data-ai-thread-rename-input]');
+      const nextTitle = input instanceof HTMLInputElement ? input.value : '';
+      renameThread(root, threadId, nextTitle).catch(() => {});
       return;
     }
     if (target?.closest('[data-ai-thread-delete]')) {
-      deleteThread(root, threadId, copy).catch(() => {});
+      setThreadActionView(row, 'delete');
+      return;
+    }
+    if (target?.closest('[data-ai-thread-delete-confirm]')) {
+      deleteThread(root, threadId).catch(() => {});
+      return;
+    }
+    if (target?.closest('[data-ai-thread-action-cancel]')) {
+      const actions = row?.querySelector('.ai-chat__thread-actions');
+      const toggle = row?.querySelector('[data-ai-thread-menu-toggle]');
+      if (actions instanceof HTMLElement) {
+        actions.hidden = true;
+        setThreadActionView(row, 'choices');
+      }
+      if (toggle instanceof HTMLButtonElement) {
+        toggle.setAttribute('aria-expanded', 'false');
+      }
       return;
     }
     const button = target?.closest('[data-ai-thread-id]');
     if (button instanceof HTMLButtonElement) {
+      closeThreadMenus(threadList);
       loadThreadDetail(root, button.dataset.aiThreadId || '').catch(() => {});
+    }
+  });
+
+  threadList?.addEventListener('keydown', (event) => {
+    const target = event.target instanceof Element ? event.target : null;
+    if (!(target instanceof HTMLInputElement) || !target.matches('[data-ai-thread-rename-input]')) {
+      return;
+    }
+    const row = target.closest('[data-thread-id]');
+    const threadId = row instanceof HTMLElement ? row.dataset.threadId || '' : '';
+    if (event.key === 'Enter' && !event.isComposing) {
+      event.preventDefault();
+      renameThread(root, threadId, target.value).catch(() => {});
+    }
+    if (event.key === 'Escape') {
+      event.preventDefault();
+      const actions = row?.querySelector('.ai-chat__thread-actions');
+      const toggle = row?.querySelector('[data-ai-thread-menu-toggle]');
+      if (actions instanceof HTMLElement) {
+        actions.hidden = true;
+        setThreadActionView(row, 'choices');
+      }
+      if (toggle instanceof HTMLButtonElement) {
+        toggle.setAttribute('aria-expanded', 'false');
+        toggle.focus();
+      }
     }
   });
 
