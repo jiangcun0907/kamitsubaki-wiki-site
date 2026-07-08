@@ -162,7 +162,8 @@ PUBLIC_AI_OBSERVER_API_BASE=http://127.0.0.1:8787 pnpm dev --host 127.0.0.1
 生产部署时，在静态站点环境变量中设置：
 
 ```env
-PUBLIC_AI_OBSERVER_API_BASE=https://your-backend-worker.example
+PUBLIC_SITE_URL=https://kamitsubaki.wiki
+PUBLIC_AI_OBSERVER_API_BASE=https://api.kamitsubaki.wiki
 ```
 
 浏览器只会调用后端公开 API：`GET /api/ai/bootstrap` 和 `POST /api/ai/chat`。不要在这个前端仓库中提交后端源码、模型密钥、数据库配置或服务端规则。

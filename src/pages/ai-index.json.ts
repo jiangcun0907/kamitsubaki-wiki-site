@@ -28,7 +28,7 @@ function titleFor(entry: { data: Record<string, unknown> }) {
 }
 
 export const GET: APIRoute = async ({ site }) => {
-  const origin = (import.meta.env.PUBLIC_SITE_URL || site?.origin || 'https://kamitsubaki.wiki.linkth1rsty.cc').replace(/\/$/u, '');
+  const origin = (import.meta.env.PUBLIC_SITE_URL || site?.origin || 'https://kamitsubaki.wiki').replace(/\/$/u, '');
   const groups = await Promise.all([
     getCollection('artists'),
     getCollection('projects'),

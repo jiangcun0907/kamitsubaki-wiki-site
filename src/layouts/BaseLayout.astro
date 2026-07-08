@@ -29,7 +29,7 @@ const {
 };
 
 const siteName = 'Kamitsubaki Studio Fan Wiki';
-const siteOrigin = import.meta.env.PUBLIC_SITE_URL?.replace(/\/$/, '') || '';
+const siteOrigin = (import.meta.env.PUBLIC_SITE_URL || Astro.site?.origin || 'https://kamitsubaki.wiki').replace(/\/$/, '');
 const pageTitle = metadata.title || title;
 const pageDescription = metadata.description || 'KAMITSUBAKI STUDIO 非官方粉丝百科。';
 const pageType = metadata.type || 'website';

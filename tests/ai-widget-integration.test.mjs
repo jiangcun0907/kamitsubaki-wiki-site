@@ -36,7 +36,7 @@ test('AI chat widget receives copy from BaseLayout content lookup', async () => 
 test('AI chat keeps the production Worker fallback when Pages build variables are absent', async () => {
   const component = await readProjectFile('../src/components/AiChatWidget.astro');
 
-  assert.match(component, /PUBLIC_AI_OBSERVER_API_BASE\s*\|\|\s*'https:\/\/kamitsubaki-ai-observer\.linkth1rstyg\.workers\.dev'/);
+  assert.match(component, /PUBLIC_AI_OBSERVER_API_BASE\s*\|\|\s*'https:\/\/api\.kamitsubaki\.wiki'/);
 });
 
 test('AI chat bootstrap sends the active page locale for localized IP greetings', async () => {
