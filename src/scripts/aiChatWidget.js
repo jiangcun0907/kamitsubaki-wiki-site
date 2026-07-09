@@ -825,7 +825,7 @@ function openHistoryDialog(root, { title, message = '', value = '', confirmLabel
     dialog.addEventListener('close', () => {
       resolve(dialog.returnValue === 'confirm' ? (showInput && input instanceof HTMLInputElement ? input.value : true) : null);
     }, { once: true });
-    dialog.showModal();
+    dialog.show();
     if (showInput && input instanceof HTMLInputElement) {
       window.setTimeout(() => {
         input.focus();
