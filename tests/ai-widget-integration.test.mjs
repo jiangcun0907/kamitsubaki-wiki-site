@@ -67,6 +67,9 @@ test('AI chat widget exposes interaction hooks and stream parser integration', a
   assert.match(component, /data-ai-toggle/);
   assert.match(component, /data-ai-launcher/);
   assert.match(component, /data-ai-scrim/);
+  assert.match(component, /<script is:inline>/);
+  assert.match(component, /document\.addEventListener\('click'/);
+  assert.match(component, /root\.classList\.toggle\('is-open', expanded\)/);
   assert.match(component, /data-ai-messages/);
   assert.match(component, /data-ai-form/);
   assert.match(component, /data-ai-settings-toggle/);

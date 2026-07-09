@@ -243,6 +243,45 @@ const apiBase = import.meta.env.PUBLIC_AI_OBSERVER_API_BASE || 'https://api.kami
   </dialog>
 </aside>
 
+<script is:inline>
+  (() => {
+    const root = document.querySelector('[data-ai-chat]');
+    const toggle = document.querySelector('[data-ai-toggle]');
+    const launcher = document.querySelector('[data-ai-launcher]');
+    if (!(root instanceof HTMLElement) || !(toggle instanceof HTMLButtonElement)) {
+      return;
+    }
+
+    const panel = root.querySelector('[data-ai-panel]');
+    const close = root.querySelector('[data-ai-close]');
+    const scrim = root.querySelector('[data-ai-scrim]');
+
+    const setExpanded = (expanded) => {
+      root.classList.toggle('is-open', expanded);
+      if (panel instanceof HTMLElement) {
+        panel.setAttribute('aria-hidden', expanded ? 'false' : 'true');
+      }
+      toggle.setAttribute('aria-expanded', String(expanded));
+      if (launcher instanceof HTMLElement) {
+        launcher.classList.toggle('is-hidden', expanded);
+      }
+    };
+
+    document.addEventListener('click', (event) => {
+      if (!(event.target instanceof Element) || !event.target.closest('[data-ai-toggle]')) {
+        return;
+      }
+      if (launcher instanceof HTMLElement && launcher.dataset.suppressClick === 'true') {
+        return;
+      }
+      setExpanded(true);
+    }, true);
+
+    close?.addEventListener('click', () => setExpanded(false));
+    scrim?.addEventListener('click', () => setExpanded(false));
+  })();
+</script>
+
 <script>
   import '../scripts/aiChatWidget.js';
 </script>
