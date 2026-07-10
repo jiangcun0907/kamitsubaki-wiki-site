@@ -115,11 +115,31 @@
     "maxVisible": 12,
     "items": [
       {
-        "label": "GitHub",
-        "href": "https://github.com/LinkTh1rsty/kamitsubaki-wiki-site",
-        "handle": "@LinkTh1rsty",
-        "icon": "github",
+        "label": "QQ群",
+        "href": "https://qun.qq.com/",
+        "handle": "群号：1056086519",
+        "icon": "qq",
         "featured": true
+      },
+      {
+        "label": "抖音群",
+        "href": "https://v.douyin.com/group/689323013627",
+        "handle": "抖音社群入口",
+        "icon": "link",
+        "featured": true
+      },
+      {
+        "label": "Discord",
+        "href": "https://discord.gg/cnXcvkS4j7",
+        "handle": "中文观测者社群",
+        "icon": "discord",
+        "featured": true
+      },
+      {
+        "label": "GitHub",
+        "href": "https://github.com/LinkTh1rsty",
+        "handle": "@LinkTh1rsty",
+        "icon": "github"
       },
       {
         "label": "反馈与联系",
@@ -160,24 +180,6 @@
         "handle": "填写你的微博主页",
         "icon": "weibo",
         "enabled": false
-      },
-      {
-        "label": "Discord",
-        "href": "https://discord.gg/cnXcvkS4j7",
-        "handle": "中文观测者社群",
-        "icon": "discord"
-      },
-      {
-        "label": "QQ群",
-        "href": "https://qun.qq.com/",
-        "handle": "群号：1056086519",
-        "icon": "qq"
-      },
-      {
-        "label": "抖音群",
-        "href": "https://v.douyin.com/group/689323013627",
-        "handle": "抖音社群入口",
-        "icon": "link"
       }
     ]
   },

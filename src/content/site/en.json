@@ -115,11 +115,31 @@
     "maxVisible": 12,
     "items": [
       {
-        "label": "GitHub",
-        "href": "https://github.com/LinkTh1rsty/kamitsubaki-wiki-site",
-        "handle": "@LinkTh1rsty",
-        "icon": "github",
+        "label": "QQ Group",
+        "href": "https://qun.qq.com/",
+        "handle": "Group no. 1056086519",
+        "icon": "qq",
         "featured": true
+      },
+      {
+        "label": "Douyin Group",
+        "href": "https://v.douyin.com/group/689323013627",
+        "handle": "Douyin community entry",
+        "icon": "link",
+        "featured": true
+      },
+      {
+        "label": "Discord",
+        "href": "https://discord.gg/cnXcvkS4j7",
+        "handle": "Chinese observer community",
+        "icon": "discord",
+        "featured": true
+      },
+      {
+        "label": "GitHub",
+        "href": "https://github.com/LinkTh1rsty",
+        "handle": "@LinkTh1rsty",
+        "icon": "github"
       },
       {
         "label": "Feedback",
@@ -160,24 +180,6 @@
         "handle": "Add your Weibo page",
         "icon": "weibo",
         "enabled": false
-      },
-      {
-        "label": "Discord",
-        "href": "https://discord.gg/cnXcvkS4j7",
-        "handle": "Chinese observer community",
-        "icon": "discord"
-      },
-      {
-        "label": "QQ Group",
-        "href": "https://qun.qq.com/",
-        "handle": "Group no. 1056086519",
-        "icon": "qq"
-      },
-      {
-        "label": "Douyin Group",
-        "href": "https://v.douyin.com/group/689323013627",
-        "handle": "Douyin community entry",
-        "icon": "link"
       }
     ]
   },

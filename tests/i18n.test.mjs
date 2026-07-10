@@ -73,7 +73,14 @@ test('localized site config exposes configurable social contact links', async ()
 
     assert.equal(contactLink.href, '#social-contact');
     assert.equal(site.socialContact.enabled, true);
-    assert.equal(site.socialContact.items.some((item) => item.icon === 'github' && item.featured), true);
+    assert.deepEqual(
+      site.socialContact.items.slice(0, 3).map((item) => item.icon),
+      ['qq', 'link', 'discord'],
+    );
+    assert.equal(
+      site.socialContact.items.find((item) => item.icon === 'github')?.href,
+      'https://github.com/LinkTh1rsty',
+    );
     assert.equal(site.socialContact.items.some((item) => item.enabled === false && item.icon === 'bilibili'), true);
   }
 });
