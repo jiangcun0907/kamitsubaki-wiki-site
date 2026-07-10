@@ -46,17 +46,6 @@ test('AI chat bootstrap sends the active page locale for localized IP greetings'
   assert.match(script, /fetch\(bootstrapUrl/);
 });
 
-test('AI chat launcher entrypoint lazy-loads heavy markdown rendering', async () => {
-  const script = await readProjectFile('../src/scripts/aiChatWidget.js');
-  const renderer = await readProjectFile('../src/lib/aiMarkdownRenderer.mjs');
-
-  assert.equal(script.includes("from 'katex'"), false);
-  assert.equal(script.includes("from 'micromark'"), false);
-  assert.match(script, /import\('\.\.\/lib\/aiMarkdownRenderer\.mjs'\)/);
-  assert.match(renderer, /from 'katex'/);
-  assert.match(renderer, /from 'micromark'/);
-});
-
 test('AI chat implementation does not hardcode localized chat copy', async () => {
   const component = await readProjectFile('../src/components/AiChatWidget.astro');
   const script = await readProjectFile('../src/scripts/aiChatWidget.js');
@@ -129,7 +118,6 @@ test('AI chat widget supports draggable launcher, compact settings, history, and
   const component = await readProjectFile('../src/components/AiChatWidget.astro');
   const homePage = await readProjectFile('../src/pages/[locale]/index.astro');
   const script = await readProjectFile('../src/scripts/aiChatWidget.js');
-  const renderer = await readProjectFile('../src/lib/aiMarkdownRenderer.mjs');
   const css = await readProjectFile('../src/styles/global.css');
   const packageJson = JSON.parse(await readProjectFile('../package.json'));
 
@@ -167,10 +155,9 @@ test('AI chat widget supports draggable launcher, compact settings, history, and
   assert.match(script, /document\.createElement\('details'\)/);
   assert.match(script, /formatSourceKind/);
   assert.match(script, /ai-message__sources-count/);
-  assert.match(script, /loadMarkdownRenderer/);
-  assert.match(renderer, /sanitizeRenderedHtml/);
-  assert.match(renderer, /micromark/);
-  assert.match(renderer, /katex/);
+  assert.match(script, /sanitizeRenderedHtml/);
+  assert.match(script, /micromark/);
+  assert.match(script, /katex/);
   assert.match(script, /createStreamingRenderer/);
   assert.match(script, /requestAnimationFrame/);
   assert.match(script, /textContent = pendingText/);
@@ -244,6 +231,10 @@ test('logged-in history exposes rename, delete, clear, and restored source contr
   assert.match(script, /renameThread/);
   assert.match(script, /deleteThread/);
   assert.match(script, /clearAllThreads/);
+  assert.match(script, /showAuthNote/);
+  assert.match(script, /renderThreadList\(root, \[\]\)/);
+  assert.match(script, /loadThreadList\(root\)\.catch\(\(\) => \{\}\)/);
+  assert.match(script, /copy\.authErrorFallback \|\| copy\.fallbackOffline/);
   assert.match(script, /data-ai-thread-menu-toggle/);
   assert.match(script, /data-ai-thread-rename/);
   assert.match(script, /data-ai-thread-delete/);

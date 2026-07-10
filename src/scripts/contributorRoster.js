@@ -1,5 +1,3 @@
-const rosterRoots = document.querySelectorAll('[data-contributor-roster]');
-
 function escapeHtml(value) {
   return String(value ?? '')
     .replace(/&/g, '&amp;')
@@ -95,13 +93,13 @@ function renderRoster(root, data, copy) {
       ${Number.isFinite(Number(totals.entries)) ? `<div><strong>${Number(totals.entries || 0)}</strong><span>${escapeHtml(copy.entries)}</span></div>` : ''}
     </div>
     <div class="contributor-roster__grid">
-      <section>
+      <section class="contributor-roster__section">
         <h3>${escapeHtml(copy.topTitle)}</h3>
         <div class="contributor-roster__people">
           ${topContributors.map((contributor) => renderContributor(contributor, copy)).join('')}
         </div>
       </section>
-      <section>
+      <section class="contributor-roster__section">
         <h3>${escapeHtml(copy.recentTitle)}</h3>
         <ol class="contributor-roster__recent">
           ${recent.map((event) => renderRecent(event, copy, locale)).join('')}
@@ -112,6 +110,11 @@ function renderRoster(root, data, copy) {
 }
 
 async function loadRoster(root) {
+  const status = root.dataset.contributorRosterStatus;
+  if (status === 'loading' || status === 'loaded' || status === 'error') {
+    return;
+  }
+
   const apiBase = root.dataset.apiBase || '';
   const mode = root.dataset.mode || 'summary';
   const copy = JSON.parse(root.dataset.copy || '{}');
@@ -120,6 +123,8 @@ async function loadRoster(root) {
   if (!apiBase || !content) {
     return;
   }
+
+  root.dataset.contributorRosterStatus = 'loading';
 
   const url = new URL(mode === 'entry' ? '/api/contributors/entry' : '/api/contributors/summary', apiBase);
   if (mode === 'entry') {
@@ -136,13 +141,20 @@ async function loadRoster(root) {
     content.innerHTML = renderRoster(root, data, copy);
     content.hidden = false;
     state?.setAttribute('hidden', '');
+    root.dataset.contributorRosterStatus = 'loaded';
   } catch {
+    root.dataset.contributorRosterStatus = 'error';
     if (state) {
       state.textContent = copy.empty || 'Contribution records are waiting for sync';
     }
   }
 }
 
-for (const root of rosterRoots) {
-  loadRoster(root);
+function initializeContributorRosters() {
+  for (const root of document.querySelectorAll('[data-contributor-roster]')) {
+    loadRoster(root);
+  }
 }
+
+initializeContributorRosters();
+document.addEventListener('astro:page-load', initializeContributorRosters);

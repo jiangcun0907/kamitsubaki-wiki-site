@@ -29,9 +29,13 @@ test('contributor roster fetches public summary and entry contribution APIs', as
   assert.match(script, /searchParams\.set\('entryId'/);
   assert.match(script, /renderContributor/);
   assert.match(script, /renderRecent/);
+  assert.match(script, /contributorRosterStatus/);
+  assert.match(script, /astro:page-load/);
+  assert.match(script, /status === 'loading' \|\| status === 'loaded' \|\| status === 'error'/);
   assert.match(css, /\.contributor-roster/);
   assert.match(css, /\.contributor-roster--entry/);
   assert.match(css, /\.contributor-roster--summary/);
+  assert.match(css, /\.contributor-roster__section/);
 });
 
 test('contributor sync script derives safe identities from git history', async () => {
