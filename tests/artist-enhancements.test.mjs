@@ -11,7 +11,7 @@ async function readSource(path) {
 
 async function readFrontmatter(path) {
   const content = await readSource(path);
-  const match = content.match(/---\n([\s\S]*?)\n---/);
+  const match = content.match(/---\r?\n([\s\S]*?)\r?\n---/);
   return yaml.parse(match[1]);
 }
 
@@ -26,7 +26,7 @@ test('artist schema supports optional wiki-oriented metadata fields', async () =
   assert.match(config, /featuredEntries:/);
   assert.match(config, /z\.enum\(\['artist', 'project', 'album', 'song'\]\)/);
   assert.match(config, /const theme = z/);
-  assert.match(config, /\btheme,\n/);
+  assert.match(config, /\btheme,\r?\n/);
   assert.match(config, /palette: z\.array/);
 });
 

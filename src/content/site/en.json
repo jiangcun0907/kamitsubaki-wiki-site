@@ -70,7 +70,8 @@
     },
     "database": {
       "heading": "01. DATABASE",
-      "subheading": "Observation targets"
+      "subheading": "Observation targets",
+      "expandLabel": "Expand all"
     },
     "projects": {
       "heading": "02. PROTOCOLS",

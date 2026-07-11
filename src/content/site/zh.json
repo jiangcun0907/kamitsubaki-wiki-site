@@ -70,7 +70,8 @@
     },
     "database": {
       "heading": "01. DATABASE",
-      "subheading": "观测对象一览"
+      "subheading": "观测对象一览",
+      "expandLabel": "展开全部"
     },
     "projects": {
       "heading": "02. PROTOCOLS",

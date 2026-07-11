@@ -70,7 +70,8 @@
     },
     "database": {
       "heading": "01. DATABASE",
-      "subheading": "観測対象一覧"
+      "subheading": "観測対象一覧",
+      "expandLabel": "すべて展開"
     },
     "projects": {
       "heading": "02. PROTOCOLS",

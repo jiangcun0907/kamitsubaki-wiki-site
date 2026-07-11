@@ -20,7 +20,7 @@ async function readJson(path) {
 
 async function readMd(path) {
   const content = await readFile(new URL(path, import.meta.url), 'utf8');
-  const match = content.match(/---\n([\s\S]*?)\n---/);
+  const match = content.match(/---\r?\n([\s\S]*?)\r?\n---/);
   return yaml.parse(match[1]);
 }
 

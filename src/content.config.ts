@@ -69,6 +69,7 @@ const site = defineCollection({
       database: z.object({
         heading: z.string(),
         subheading: z.string(),
+        expandLabel: z.string().optional(),
       }),
       projects: z.object({
         heading: z.string(),
