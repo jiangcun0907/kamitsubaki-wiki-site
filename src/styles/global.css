@@ -309,7 +309,10 @@ html.has-js .reveal-up.active {
   background: transparent;
   border: none;
   cursor: none;
-  outline: none;
+}
+
+.artist-expand-btn:focus-visible {
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.72);
 }
 
 .artist-expand-divider {

@@ -206,11 +206,17 @@ document.addEventListener('DOMContentLoaded', () => {
           row.style.opacity = '0';
           row.style.transform = 'translateY(24px)';
           row.style.transitionDelay = `${index * 0.05}s`;
+          row.addEventListener(
+            'transitionend',
+            () => {
+              row.style.transitionDelay = '';
+            },
+            { once: true },
+          );
           requestAnimationFrame(() => {
             requestAnimationFrame(() => {
               row.style.opacity = '';
               row.style.transform = '';
-              row.style.transitionDelay = '';
             });
           });
         });

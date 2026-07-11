@@ -29,11 +29,13 @@ const { artistCategories, databaseJumpLinks, section } = Astro.props as {
   section: {
     heading: string;
     subheading: string;
+    expandLabel?: string;
   };
   locale: string;
 };
 
 const locale = Astro.props.locale ?? 'zh';
+const ITEMS_PER_CATEGORY = 6;
 ---
 
 <section id="database" class="relative mx-auto max-w-7xl px-5 py-20 ui-crosshair bl br tl tr sm:px-6 sm:py-32">
@@ -62,36 +64,70 @@ const locale = Astro.props.locale ?? 'zh';
     </div>
 
     <div class="lg:col-span-9 flex flex-col pb-20" id="artist-list">
-      {artistCategories.map((category) => (
-        <div id={category.id} class="artist-category mb-16 pt-8 scroll-mt-32 last:mb-8 sm:mb-24 sm:last:mb-12">
-          <div class="border-b border-white/20 pb-4 mb-4 flex justify-between items-end reveal-up">
-            <h4 class="font-serif text-base tracking-[0.4em] text-white/80">{category.title}</h4>
-            <span class="text-[9px] font-mono text-white/40 hidden md:block">{category.subtitle}</span>
-          </div>
+      {artistCategories.map((category) => {
+        const hasMore = category.items.length > ITEMS_PER_CATEGORY;
+        const collapsedId = `${category.id}-collapsed`;
 
-          {category.items.map((artist) => (
-            <a href={`/${locale}/artists/${artist.id}`} class="artist-row group block list-row py-6 reveal-up" data-img={artist.image}>
-              <div class="flex flex-col md:flex-row md:items-center justify-between px-4 gap-4">
-                <div class="flex items-center gap-6">
-                  <span class="font-mono text-[9px] text-white/20 w-6">{artist.code}</span>
-                  <h4 class="font-serif text-xl md:text-2xl text-white/60 tracking-[0.2em] group-hover:text-white transition-all duration-300 glitch-text">
-                    {artist.name}
-                  </h4>
-                  <span class="text-[9px] tracking-kamidest font-light text-white/30 group-hover:text-white/80 transition-colors">
-                    {artist.romanizedName}
-                  </span>
+        return (
+          <div id={category.id} class="artist-category mb-16 pt-8 scroll-mt-32 last:mb-8 sm:mb-24 sm:last:mb-12">
+            <div class="border-b border-white/20 pb-4 mb-4 flex justify-between items-end reveal-up">
+              <h4 class="font-serif text-base tracking-[0.4em] text-white/80">{category.title}</h4>
+              <span class="text-[9px] font-mono text-white/40 hidden md:block">{category.subtitle}</span>
+            </div>
+
+            <div id={collapsedId}>
+              {category.items.map((artist, idx) => (
+                <a
+                  href={`/${locale}/artists/${artist.id}`}
+                  class={`artist-row group block list-row py-6 reveal-up${idx >= ITEMS_PER_CATEGORY ? ' artist-row-collapsed hidden' : ''}`}
+                  data-img={artist.image}
+                >
+                  <div class="flex flex-col md:flex-row md:items-center justify-between px-4 gap-4">
+                    <div class="flex items-center gap-6">
+                      <span class="font-mono text-[9px] text-white/20 w-6">{artist.code}</span>
+                      <h4 class="font-serif text-xl md:text-2xl text-white/60 tracking-[0.2em] group-hover:text-white transition-all duration-300 glitch-text">
+                        {artist.name}
+                      </h4>
+                      <span class="text-[9px] tracking-kamidest font-light text-white/30 group-hover:text-white/80 transition-colors">
+                        {artist.romanizedName}
+                      </span>
+                    </div>
+                    <div class="text-[8px] font-mono text-white/30 flex gap-6 md:text-right">
+                      {artist.meta && <span class="hidden md:block">{artist.meta}</span>}
+                      <span class="w-16 text-left md:text-right">
+                        {artist.statusLabel}: <span class={artist.inactive ? 'text-white/30 line-through' : 'text-white/70'}>{artist.status}</span>
+                      </span>
+                    </div>
+                  </div>
+                </a>
+              ))}
+            </div>
+
+            {hasMore && (
+              <button
+                type="button"
+                class="artist-expand-btn group"
+                aria-label={section.expandLabel ?? 'Expand'}
+                aria-expanded="false"
+                aria-controls={collapsedId}
+                data-category-id={category.id}
+              >
+                <div class="artist-expand-divider">
+                  <div class="artist-expand-line artist-expand-line--left"></div>
+                  <svg
+                    class="artist-expand-chevron w-3 h-3"
+                    viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"
+                    aria-hidden="true"
+                  >
+                    <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                  </svg>
+                  <div class="artist-expand-line artist-expand-line--right"></div>
                 </div>
-                <div class="text-[8px] font-mono text-white/30 flex gap-6 md:text-right">
-                  {artist.meta && <span class="hidden md:block">{artist.meta}</span>}
-                  <span class="w-16 text-left md:text-right">
-                    {artist.statusLabel}: <span class={artist.inactive ? 'text-white/30 line-through' : 'text-white/70'}>{artist.status}</span>
-                  </span>
-                </div>
-              </div>
-            </a>
-          ))}
-        </div>
-      ))}
+              </button>
+            )}
+          </div>
+        );
+      })}
     </div>
   </div>
 </section>
