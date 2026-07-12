@@ -1,3 +1,5 @@
+import { normalizeContributorData } from '../lib/contributorRosterData.mjs';
+
 function escapeHtml(value) {
   return String(value ?? '')
     .replace(/&/g, '&amp;')
@@ -8,125 +10,147 @@ function escapeHtml(value) {
 }
 
 function initials(name) {
-  return String(name || '?')
-    .trim()
-    .slice(0, 2)
-    .toUpperCase();
+  return String(name || '?').trim().slice(0, 2).toUpperCase();
 }
 
 function formatDate(value, locale) {
-  if (!value) {
-    return '';
-  }
-  const date = new Date(value);
-  if (Number.isNaN(date.getTime())) {
-    return '';
-  }
-  return new Intl.DateTimeFormat(locale || 'zh', {
-    year: 'numeric',
-    month: '2-digit',
-    day: '2-digit',
-  }).format(date);
+  const date = new Date(value || 0);
+  if (Number.isNaN(date.getTime())) return '';
+  return new Intl.DateTimeFormat(locale || 'zh', { year: 'numeric', month: '2-digit', day: '2-digit' }).format(date);
+}
+
+function readableEntry(value) {
+  const fallback = String(value || '').split('/').filter(Boolean).at(-1) || '';
+  return fallback
+    .replace(/\.(md|mdx|json)$/i, '')
+    .split(/[-_]/)
+    .filter(Boolean)
+    .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
+    .join(' ');
 }
 
 function renderAvatar(contributor) {
   const name = contributor.displayName || contributor.githubLogin || 'Contributor';
-  if (contributor.avatarUrl) {
-    return `<img src="${escapeHtml(contributor.avatarUrl)}" alt="" loading="lazy" referrerpolicy="no-referrer" />`;
-  }
-  return `<span>${escapeHtml(initials(name))}</span>`;
+  return contributor.avatarUrl
+    ? `<img src="${escapeHtml(contributor.avatarUrl)}" alt="" loading="lazy" referrerpolicy="no-referrer" />`
+    : `<span>${escapeHtml(initials(name))}</span>`;
 }
 
-function renderContributor(contributor, copy) {
+function renderContributor(contributor, copy, mode) {
   const name = contributor.displayName || contributor.githubLogin || 'Contributor';
+  const rank = mode === 'summary'
+    ? `<span class="contributor-roster__rank"><small>${escapeHtml(copy.rankLabel)}</small>#${String(contributor.rank || 0).padStart(2, '0')}</span>`
+    : '';
   const body = `
+    ${rank}
     <span class="contributor-roster__avatar">${renderAvatar(contributor)}</span>
     <span class="contributor-roster__identity">
       <strong>${escapeHtml(name)}</strong>
       <small>${Number(contributor.contributionCount || 0)} ${escapeHtml(copy.contributions)}${contributor.entryCount ? ` · ${Number(contributor.entryCount)} ${escapeHtml(copy.entries)}` : ''}</small>
     </span>
+    ${contributor.profileUrl ? '<span class="contributor-roster__profile-arrow" aria-hidden="true">↗</span>' : ''}
   `;
-
-  if (contributor.profileUrl) {
-    return `<a class="contributor-roster__person" href="${escapeHtml(contributor.profileUrl)}" target="_blank" rel="noopener noreferrer">${body}</a>`;
-  }
-
-  return `<div class="contributor-roster__person">${body}</div>`;
+  const tag = contributor.profileUrl ? 'a' : 'div';
+  const link = contributor.profileUrl
+    ? ` href="${escapeHtml(contributor.profileUrl)}" target="_blank" rel="noopener noreferrer"`
+    : '';
+  return `<${tag} class="contributor-roster__person"${link}>${body}</${tag}>`;
 }
 
-function renderRecent(event, copy, locale) {
-  const summary = event.summary || copy.unknownSummary;
+function renderLocales(event, copy) {
+  return (event.locales || [])
+    .map((locale) => `<span class="contributor-roster__locale">${escapeHtml(copy.localeLabels?.[locale] || locale.toUpperCase())}</span>`)
+    .join('');
+}
+
+function renderActivity(event, copy, locale) {
+  const entryNames = (event.entryIds || []).map(readableEntry).filter(Boolean);
+  const entryLabel = entryNames.join(' · ') || readableEntry(event.entryId || event.path) || copy.unknownSummary;
   const name = event.contributor?.displayName || event.contributor?.githubLogin || 'Contributor';
-  const commitLabel = event.commitSha ? event.commitSha.slice(0, 7) : copy.commit;
   const commit = event.commitUrl
-    ? `<a href="${escapeHtml(event.commitUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(commitLabel)}</a>`
-    : `<span>${escapeHtml(commitLabel)}</span>`;
+    ? `<a href="${escapeHtml(event.commitUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(copy.commit)} ↗</a>`
+    : '';
 
   return `
-    <li>
-      <div class="contributor-roster__recent-main">
-        <strong>${escapeHtml(summary)}</strong>
-        <span>${escapeHtml(name)} · ${escapeHtml(formatDate(event.committedAt, locale))}</span>
+    <li class="contributor-roster__activity">
+      <div class="contributor-roster__activity-main">
+        <strong>${escapeHtml(entryLabel)}</strong>
+        <div class="contributor-roster__locales">${renderLocales(event, copy)}</div>
       </div>
-      <div class="contributor-roster__recent-meta">
-        <span>${escapeHtml(event.entryId || event.path || '')}</span>
+      <div class="contributor-roster__activity-meta">
+        <span>${escapeHtml(name)} · ${escapeHtml(formatDate(event.committedAt, locale))}</span>
         ${commit}
       </div>
     </li>
   `;
 }
 
-function renderRoster(root, data, copy) {
-  const totals = data.totals || {};
-  const topContributors = data.topContributors || [];
-  const recent = data.recent || [];
-  const locale = root.dataset.locale || 'zh';
-
-  if (!topContributors.length && !recent.length) {
-    return `<div class="contributor-roster__empty">${escapeHtml(copy.empty)}</div>`;
-  }
-
+function renderActions(root, copy) {
   return `
-    <div class="contributor-roster__stats">
-      <div><strong>${Number(totals.contributors || 0)}</strong><span>${escapeHtml(copy.contributors)}</span></div>
-      <div><strong>${Number(totals.contributions || 0)}</strong><span>${escapeHtml(copy.contributions)}</span></div>
-      ${Number.isFinite(Number(totals.entries)) ? `<div><strong>${Number(totals.entries || 0)}</strong><span>${escapeHtml(copy.entries)}</span></div>` : ''}
-    </div>
-    <div class="contributor-roster__grid">
-      <section class="contributor-roster__section">
-        <h3>${escapeHtml(copy.topTitle)}</h3>
-        <div class="contributor-roster__people">
-          ${topContributors.map((contributor) => renderContributor(contributor, copy)).join('')}
-        </div>
-      </section>
-      <section class="contributor-roster__section">
-        <h3>${escapeHtml(copy.recentTitle)}</h3>
-        <ol class="contributor-roster__recent">
-          ${recent.map((event) => renderRecent(event, copy, locale)).join('')}
-        </ol>
-      </section>
+    <div class="contributor-roster__actions">
+      <a class="contributor-roster__action contributor-roster__action--primary" href="${escapeHtml(root.dataset.editHref || root.dataset.guideHref || '#')}">${escapeHtml(copy.joinAction)} <span aria-hidden="true">→</span></a>
+      <a class="contributor-roster__action" href="${escapeHtml(root.dataset.guideHref || '#')}">${escapeHtml(copy.guideAction)}</a>
     </div>
   `;
 }
 
+function renderEmpty(root, copy) {
+  return `<div class="contributor-roster__empty"><p>${escapeHtml(copy.empty)}</p>${renderActions(root, copy)}</div>`;
+}
+
+function renderRoster(root, source, copy) {
+  const mode = root.dataset.mode || 'summary';
+  const data = normalizeContributorData(source, { mode, recentLimit: mode === 'entry' ? 3 : 8 });
+  const { totals, topContributors, recent } = data;
+  const locale = root.dataset.locale || 'zh';
+  if (!topContributors.length && !recent.length) return renderEmpty(root, copy);
+
+  return `
+    <div class="contributor-roster__stats" aria-label="${escapeHtml(copy.title)}">
+      <div><strong>${Number(totals.contributors || 0)}</strong><span>${escapeHtml(copy.contributors)}</span></div>
+      <div><strong>${Number(totals.contributions || 0)}</strong><span>${escapeHtml(copy.contributions)}</span></div>
+      ${mode === 'summary' ? `<div><strong>${Number(totals.entries || 0)}</strong><span>${escapeHtml(copy.entries)}</span></div>` : ''}
+    </div>
+    <div class="contributor-roster__grid">
+      <section class="contributor-roster__section contributor-roster__section--people">
+        <div class="contributor-roster__section-heading"><h3>${escapeHtml(copy.topTitle)}</h3><span>${String(topContributors.length).padStart(2, '0')}</span></div>
+        <div class="contributor-roster__people">${topContributors.map((item) => renderContributor(item, copy, mode)).join('')}</div>
+      </section>
+      <section class="contributor-roster__section contributor-roster__section--activity">
+        <div class="contributor-roster__section-heading"><h3>${escapeHtml(copy.recentTitle)}</h3><span>LIVE</span></div>
+        <ol class="contributor-roster__recent">${recent.map((event) => renderActivity(event, copy, locale)).join('')}</ol>
+      </section>
+    </div>
+    ${renderActions(root, copy)}
+  `;
+}
+
+function renderError(root, state, copy) {
+  state.hidden = false;
+  state.innerHTML = `<span>${escapeHtml(copy.error)}</span><button type="button" data-contributor-retry>${escapeHtml(copy.retry)}</button>`;
+  state.querySelector('[data-contributor-retry]')?.addEventListener('click', () => {
+    delete root.dataset.contributorRosterStatus;
+    state.textContent = copy.loading;
+    loadRoster(root);
+  });
+}
+
 async function loadRoster(root) {
   const status = root.dataset.contributorRosterStatus;
-  if (status === 'loading' || status === 'loaded' || status === 'error') {
-    return;
-  }
+  if (status === 'loading' || status === 'loaded') return;
 
-  const apiBase = root.dataset.apiBase || '';
   const mode = root.dataset.mode || 'summary';
   const copy = JSON.parse(root.dataset.copy || '{}');
   const state = root.querySelector('[data-contributor-state]');
   const content = root.querySelector('[data-contributor-content]');
-  if (!apiBase || !content) {
-    return;
-  }
+  if (!root.dataset.apiBase || !state || !content) return;
 
   root.dataset.contributorRosterStatus = 'loading';
+  state.hidden = false;
+  state.textContent = copy.loading;
+  content.hidden = true;
 
-  const url = new URL(mode === 'entry' ? '/api/contributors/entry' : '/api/contributors/summary', apiBase);
+  const url = new URL(mode === 'entry' ? '/api/contributors/entry' : '/api/contributors/summary', root.dataset.apiBase);
   if (mode === 'entry') {
     url.searchParams.set('collection', root.dataset.collection || '');
     url.searchParams.set('entryId', root.dataset.entryId || '');
@@ -134,26 +158,19 @@ async function loadRoster(root) {
 
   try {
     const response = await fetch(url, { headers: { Accept: 'application/json' } });
-    if (!response.ok) {
-      throw new Error(`Contributor API returned ${response.status}`);
-    }
-    const data = await response.json();
-    content.innerHTML = renderRoster(root, data, copy);
+    if (!response.ok) throw new Error(`Contributor API returned ${response.status}`);
+    content.innerHTML = renderRoster(root, await response.json(), copy);
     content.hidden = false;
-    state?.setAttribute('hidden', '');
+    state.hidden = true;
     root.dataset.contributorRosterStatus = 'loaded';
   } catch {
     root.dataset.contributorRosterStatus = 'error';
-    if (state) {
-      state.textContent = copy.empty || 'Contribution records are waiting for sync';
-    }
+    renderError(root, state, copy);
   }
 }
 
 function initializeContributorRosters() {
-  for (const root of document.querySelectorAll('[data-contributor-roster]')) {
-    loadRoster(root);
-  }
+  for (const root of document.querySelectorAll('[data-contributor-roster]')) loadRoster(root);
 }
 
 initializeContributorRosters();
