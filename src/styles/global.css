@@ -4260,54 +4260,6 @@ html.has-js .reveal-up.active {
   color: var(--text-secondary);
 }
 
-:root[data-theme="light"] .ai-chat {
-  --ai-bg: #f7f6f2;
-  --ai-surface: rgba(255, 255, 255, 0.94);
-  --ai-panel: rgba(247, 246, 242, 0.96);
-  --ai-line: rgba(0, 0, 0, 0.12);
-  --ai-border: rgba(0, 0, 0, 0.18);
-  --ai-accent: #0a0a0a;
-  --ai-accent-soft: rgba(0, 0, 0, 0.045);
-  --ai-accent-dim: rgba(0, 0, 0, 0.09);
-  --ai-text-main: rgba(0, 0, 0, 0.84);
-  --ai-text-muted: rgba(0, 0, 0, 0.58);
-  --ai-text-faint: rgba(0, 0, 0, 0.36);
-}
-
-:root[data-theme="light"] .ai-chat__scrim {
-  background: rgba(244, 243, 238, 0.72);
-}
-
-:root[data-theme="light"] .ai-chat__dialog,
-:root[data-theme="light"] .ai-chat__composer,
-:root[data-theme="light"] .ai-chat__settings-popover,
-:root[data-theme="light"] .ai-chat__thread-actions {
-  border-color: var(--ai-border);
-  background: var(--ai-surface);
-  color: var(--ai-text-main);
-  box-shadow: 0 22px 60px var(--shadow-color);
-}
-
-:root[data-theme="light"] .ai-message--assistant .ai-message__content {
-  border-color: var(--ai-border);
-  background: #ffffff;
-  color: var(--ai-text-main);
-}
-
-:root[data-theme="light"] .social-contact__panel,
-:root[data-theme="light"] .social-contact__toggle {
-  border-color: var(--line-default);
-  background: color-mix(in srgb, var(--surface-raised) 94%, transparent);
-  color: var(--text-primary);
-  box-shadow: 0 18px 46px var(--shadow-color);
-}
-
-:root[data-theme="light"] .social-contact__link {
-  border-color: var(--line-default);
-  background: var(--surface-subtle);
-  color: var(--text-primary);
-}
-
 @media (max-width: 639px) {
   .theme-toggle {
     bottom: max(1rem, env(safe-area-inset-bottom));

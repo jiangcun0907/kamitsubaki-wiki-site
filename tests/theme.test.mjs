@@ -81,15 +81,4 @@ test('light theme explicitly covers core home, article, guide, and contributor s
   }
 });
 
-test('light theme gives social and AI observer panels readable semantic surfaces', async () => {
-  const css = await readProjectFile('../src/styles/global.css');
-  assert.match(css, /:root\[data-theme="light"\] \.ai-chat\s*\{[\s\S]*--ai-bg:/);
-  assert.match(css, /:root\[data-theme="light"\] \.social-contact__panel/);
-  assert.match(css, /:root\[data-theme="light"\] \.social-contact__toggle/);
-  assert.match(css, /:root\[data-theme="light"\] \.ai-chat__scrim/);
-  assert.match(css, /:root\[data-theme="light"\] \.ai-chat__dialog/);
-  assert.match(css, /:root\[data-theme="light"\] \.ai-chat__composer/);
-  assert.match(css, /:root\[data-theme="light"\] \.ai-message--assistant/);
-});
-
 export { readProjectFile };
