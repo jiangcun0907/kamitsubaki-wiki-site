@@ -132,3 +132,19 @@ test('git history collector aggregates locale files without exposing author emai
   assert.match(privateAuthor.identity.emailHash, /^[a-f0-9]{64}$/);
   assert.doesNotMatch(JSON.stringify(privateAuthor), /private@example\.com/);
 });
+
+test('contributor roster exposes localized honor wall copy and contribution routes', async () => {
+  const component = await readProjectFile('../src/components/ContributorRoster.astro');
+
+  assert.match(component, /一起维护这座观测站/);
+  assert.match(component, /この観測記録を一緒に育てる/);
+  assert.match(component, /Build this fan archive together/);
+  assert.match(component, /rankLabel/);
+  assert.match(component, /localeLabels/);
+  assert.match(component, /retry/);
+  assert.match(component, /error/);
+  assert.match(component, /data-guide-href/);
+  assert.match(component, /data-edit-href/);
+  assert.match(component, /contribute\/edit/);
+  assert.match(component, /src\/content\/artists/);
+});
