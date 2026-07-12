@@ -37,6 +37,12 @@
       "href": "#log"
     }
   ],
+  "themeToggle": {
+    "label": "切换显示主题",
+    "system": "跟随系统",
+    "light": "浅色",
+    "dark": "深色"
+  },
   "hero": {
     "brandLines": [
       "Kamitsubaki",

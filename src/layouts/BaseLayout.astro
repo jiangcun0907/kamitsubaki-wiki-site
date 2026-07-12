@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import AiChatWidget from '../components/AiChatWidget.astro';
 import SocialContactWidget from '../components/SocialContactWidget.astro';
+import ThemeToggle from '../components/ThemeToggle.astro';
 import '../styles/global.css';
 
 type PageMetadata = {
@@ -44,13 +45,30 @@ const defaultSiteEntry = siteEntries.find((entry) => entry.data.locale === 'zh')
 const siteEntry = siteEntries.find((entry) => entry.data.locale === lang) ?? defaultSiteEntry;
 const aiChatCopy = siteEntry?.data.aiChat;
 const socialContactCopy = siteEntry?.data.socialContact;
+const themeToggleCopy = siteEntry?.data.themeToggle;
 ---
 
 <!doctype html>
-<html lang={lang} class="scroll-smooth">
+<html lang={lang} class="scroll-smooth" data-theme="dark" data-theme-preference="system">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script is:inline>
+      (() => {
+        const key = 'kamitsubaki-wiki:theme:v1';
+        const allowed = ['system', 'light', 'dark'];
+        let preference = 'system';
+        try {
+          const saved = localStorage.getItem(key);
+          if (allowed.includes(saved)) preference = saved;
+        } catch {}
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        const theme = preference === 'system' ? (prefersDark ? 'dark' : 'light') : preference;
+        document.documentElement.dataset.themePreference = preference;
+        document.documentElement.dataset.theme = theme;
+        document.documentElement.style.colorScheme = theme;
+      })();
+    </script>
     <title>{pageTitle}</title>
     <meta name="description" content={pageDescription} />
     <meta name="robots" content={robots} />
@@ -92,6 +110,7 @@ const socialContactCopy = siteEntry?.data.socialContact;
     <div class="cursor-dot hidden md:block" id="cursor"></div>
 
     <slot />
+    {themeToggleCopy && <ThemeToggle copy={themeToggleCopy} />}
     {socialContactCopy && <SocialContactWidget copy={socialContactCopy} />}
     {aiChatCopy && <AiChatWidget lang={lang} copy={aiChatCopy} />}
 

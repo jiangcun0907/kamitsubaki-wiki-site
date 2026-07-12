@@ -23,4 +23,31 @@ test('theme preferences normalize, resolve, and cycle predictably', async () => 
   assert.equal(nextThemePreference('invalid'), 'light');
 });
 
+test('base layout initializes the saved theme before paint and mounts localized controls', async () => {
+  const [layout, component, script, schema, zh, ja, en] = await Promise.all([
+    readProjectFile('../src/layouts/BaseLayout.astro'),
+    readProjectFile('../src/components/ThemeToggle.astro'),
+    readProjectFile('../src/scripts/themeToggle.js'),
+    readProjectFile('../src/content.config.ts'),
+    readProjectFile('../src/content/site/zh.json'),
+    readProjectFile('../src/content/site/ja.json'),
+    readProjectFile('../src/content/site/en.json'),
+  ]);
+
+  assert.match(layout, /kamitsubaki-wiki:theme:v1/);
+  assert.match(layout, /localStorage\.getItem/);
+  assert.match(layout, /matchMedia\('\(prefers-color-scheme: dark\)'\)/);
+  assert.match(layout, /documentElement\.dataset\.theme/);
+  assert.match(layout, /<ThemeToggle copy=\{themeToggleCopy\}/);
+  assert.match(component, /data-theme-toggle/);
+  assert.match(component, /aria-live="polite"/);
+  assert.match(script, /nextThemePreference/);
+  assert.match(script, /localStorage\.setItem/);
+  assert.match(script, /addEventListener\('change'/);
+  assert.match(schema, /themeToggle:/);
+  assert.match(zh, /跟随系统/);
+  assert.match(ja, /システム/);
+  assert.match(en, /System/);
+});
+
 export { readProjectFile };
