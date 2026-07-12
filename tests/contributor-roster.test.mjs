@@ -40,16 +40,17 @@ test('contributor roster fetches public summary and entry contribution APIs', as
 
 test('contributor sync script derives safe identities from git history', async () => {
   const script = await readProjectFile('../scripts/sync-contributors.mjs');
+  const history = await readProjectFile('../scripts/contributor-history.mjs');
   const packageJson = JSON.parse(await readProjectFile('../package.json'));
 
   assert.equal(packageJson.scripts['contributors:sync'], 'node scripts/sync-contributors.mjs');
   assert.match(script, /src\/content\/artists/);
   assert.match(script, /src\/content\/site/);
-  assert.match(script, /users\\\.noreply\\\.github\\\.com/);
-  assert.match(script, /https:\/\/github\.com\/\$\{githubLogin\}\.png\?size=96/);
-  assert.match(script, /emailHash/);
+  assert.match(history, /users\\\.noreply\\\.github\\\.com/);
+  assert.match(history, /https:\/\/github\.com\/\$\{githubLogin\}\.png\?size=96/);
+  assert.match(history, /emailHash/);
   assert.match(script, /api\/admin\/contributors\/sync/);
-  assert.doesNotMatch(script, /email:\s*authorEmail/);
+  assert.doesNotMatch(`${script}\n${history}`, /email:\s*authorEmail/);
 });
 
 test('contributor data groups locale files from one commit into one contribution', async () => {
@@ -102,4 +103,32 @@ test('entry contributor data shows at most three unique recent commits', async (
 
   assert.equal(normalized.recent.length, 3);
   assert.deepEqual(normalized.recent.map((event) => event.commitSha), ['commit-0', 'commit-1', 'commit-2']);
+});
+
+test('git history collector aggregates locale files without exposing author email', async () => {
+  const { collectContributionEvents, contributorFromAuthor } = await import('../scripts/contributor-history.mjs');
+  const gitOutput = [
+    '\x1eabc123\x1fLink\x1f123+Link@users.noreply.github.com\x1f2026-07-12T00:00:00.000Z\x1fdocs: update teresa',
+    'src/content/artists/solo/teresa/zh.md',
+    'src/content/artists/solo/teresa/ja.md',
+    'src/content/artists/solo/teresa/en.md',
+  ].join('\n');
+
+  const events = collectContributionEvents(gitOutput, 'https://example.com/commit');
+
+  assert.equal(events.length, 1);
+  assert.deepEqual(events[0].locales, ['en', 'ja', 'zh']);
+  assert.deepEqual(events[0].paths, [
+    'src/content/artists/solo/teresa/en.md',
+    'src/content/artists/solo/teresa/ja.md',
+    'src/content/artists/solo/teresa/zh.md',
+  ]);
+  assert.equal(events[0].contributor.githubLogin, 'link');
+  assert.equal(events[0].commitUrl, 'https://example.com/commit/abc123');
+  assert.doesNotMatch(JSON.stringify(events), /users\.noreply|authorEmail|@/i);
+
+  const privateAuthor = contributorFromAuthor('Aqaz', 'private@example.com');
+  assert.equal(privateAuthor.identity.provider, 'git_email');
+  assert.match(privateAuthor.identity.emailHash, /^[a-f0-9]{64}$/);
+  assert.doesNotMatch(JSON.stringify(privateAuthor), /private@example\.com/);
 });
