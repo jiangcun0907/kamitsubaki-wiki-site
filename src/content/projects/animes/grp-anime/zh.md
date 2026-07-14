@@ -13,7 +13,7 @@ order: 1
 ### 登场角色
 
 - 佳镜院（CV：[佳镜院](https://kamitsubaki.wiki/zh/artists/girls_revolution_project/kakyoin/)）
-- 御莉姬（CV：[御莉姬](https://kamitsubaki.wiki/zh/artists/girls_revolution_project/orihime/)]）
+- 御莉姬（CV：[御莉姬](https://kamitsubaki.wiki/zh/artists/girls_revolution_project/orihime/)）
 - 硝子宫（CV：[硝子宫](https://kamitsubaki.wiki/zh/artists/girls_revolution_project/garasumiya/)）
 - 美古途（CV：[美古途](https://kamitsubaki.wiki/zh/artists/girls_revolution_project/mikoto/)）
 - 夕凪机（CV：[夕凪机](https://kamitsubaki.wiki/zh/artists/girls_revolution_project/yunagi/)）

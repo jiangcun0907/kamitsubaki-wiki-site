@@ -13,7 +13,7 @@ order: 1
 ## 登場キャラクター
 
 - カキョウイン（声 - [佳鏡院](https://kamitsubaki.wiki/ja/artists/girls_revolution_project/kakyoin/)）
-- オリヒメ（声 - [御莉姫](https://kamitsubaki.wiki/ja/artists/girls_revolution_project/orihime/)]）
+- オリヒメ（声 - [御莉姫](https://kamitsubaki.wiki/ja/artists/girls_revolution_project/orihime/)）
 - ガラスミヤ（声 - [硝子宮](https://kamitsubaki.wiki/ja/artists/girls_revolution_project/garasumiya/)）
 - ミコト（声 - [美古途](https://kamitsubaki.wiki/ja/artists/girls_revolution_project/mikoto/)）
 - ユウナギ（声 - [夕凪機](https://kamitsubaki.wiki/ja/artists/girls_revolution_project/yunagi/)）
