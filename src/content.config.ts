@@ -267,7 +267,10 @@ const songs = defineCollection({
 });
 
 const syntaxGuide = defineCollection({
-  loader: glob({ pattern: '{zh,ja,en}.md', base: './src/content/contribute/syntax-guide' }),
+  loader: glob({
+    pattern: ['zh.md', 'ja.md', 'en.md'],
+    base: new URL('./content/contribute/syntax-guide/', import.meta.url),
+  }),
   schema: z.object({
     locale,
     translationKey: z.string(),

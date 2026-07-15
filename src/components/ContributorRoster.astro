@@ -9,6 +9,7 @@ interface Props {
 const { mode, locale = 'zh', collection = '', entryId = '' } = Astro.props as Props;
 const apiBase = import.meta.env.PUBLIC_AI_OBSERVER_API_BASE || 'https://kamitsubaki-ai-observer.linkth1rstyg.workers.dev';
 const guideHref = `/${locale}/contribute/edit`;
+const syntaxHref = `/${locale}/contribute/syntax`;
 const targetPath = collection === 'artists' && entryId ? `src/content/artists/${entryId}/${locale}.md` : '';
 const editHref = targetPath ? `${guideHref}?target=${encodeURIComponent(targetPath)}` : guideHref;
 const copy = {
@@ -111,6 +112,7 @@ const copy = {
   data-collection={collection}
   data-entry-id={entryId}
   data-guide-href={guideHref}
+  data-syntax-href={syntaxHref}
   data-edit-href={editHref}
   data-copy={JSON.stringify(copy)}
 >
