@@ -17,6 +17,8 @@ Most contributors only need `src/content/`.
 ```text
 src/content/site/       Site navigation, section labels, footer text (.json)
 src/content/artists/    Artist, creator, unit, and isotope wiki pages (.md)
+src/content/albums/     Album entries and structured track lists (.md)
+src/content/songs/      Song entries (.md)
 src/content/projects/   Project cards and project wiki content (.md)
 src/content/logs/       Timeline/update rows (.md)
 src/content/contribute/ GitHub edit-guide copy (.md)
@@ -123,7 +125,7 @@ Set `PUBLIC_SITE_URL` during deployment, for example `https://example.com`. Cano
 
 ## Adding A New Page
 
-1. Pick the correct folder under `src/content/artists/` or `src/content/projects/`.
+1. Pick the correct folder under `src/content/artists/`, `src/content/albums/`, `src/content/songs/`, or `src/content/projects/`.
 2. Create one folder for the entry, for example `src/content/artists/vwp/new-artist/`.
 3. Add `zh.md`, `ja.md`, and `en.md`.
 4. Use the same `translationKey` in all three files.

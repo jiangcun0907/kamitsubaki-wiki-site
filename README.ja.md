@@ -17,6 +17,8 @@ Astro で構築された、非公式 KAMITSUBAKI STUDIO ファン Wiki の静的
 ```text
 src/content/site/       ナビゲーション、セクション名、フッターなどのサイト文言 (.json)
 src/content/artists/    アーティスト、クリエイター、ユニット、音楽的同位体の記事 (.md)
+src/content/albums/     アルバム記事と構造化された収録曲一覧 (.md)
+src/content/songs/      楽曲記事 (.md)
 src/content/projects/   プロジェクトカードとプロジェクト記事 (.md)
 src/content/logs/       タイムライン/更新ログ (.md)
 src/content/contribute/ GitHub 編集ガイドの文言 (.md)
@@ -123,7 +125,7 @@ src/content/artists/vwp/kaf/zh.md
 
 ## 新しい記事を追加する
 
-1. `src/content/artists/` または `src/content/projects/` で正しい分類を選びます。
+1. `src/content/artists/`、`src/content/albums/`、`src/content/songs/`、または `src/content/projects/` で正しい分類を選びます。
 2. 例として `src/content/artists/vwp/new-artist/` のように記事用フォルダを作ります。
 3. `zh.md`、`ja.md`、`en.md` を追加します。
 4. 3 ファイルで同じ `translationKey` を使います。

@@ -169,7 +169,7 @@ const metadata = {
         </p>
 
         <div class="mt-4 flex flex-wrap gap-2">
-          {localeLinks.map((item) => (
+          {localeLinks.map((item: { href: string; current: boolean; label: string; shortLabel: string }) => (
             <a
               href={item.href}
               aria-current={item.current ? 'page' : undefined}

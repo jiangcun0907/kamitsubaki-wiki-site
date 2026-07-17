@@ -9,7 +9,10 @@ type LocaleLink = {
 
 type Labels = {
   home: string;
-  artists: string;
+  artists?: string;
+  songs?: string;
+  albums?: string;
+  section?: string;
   article: string;
   category: string;
   source: string;
@@ -20,11 +23,11 @@ type Props = {
   data: {
     name: string;
     romanizedName: string;
-    categoryTitle: string;
-    categorySubtitle: string;
+    categoryTitle?: string;
+    categorySubtitle?: string;
     profileTagline?: string;
-    statusLabel: string;
-    status: string;
+    statusLabel?: string;
+    status?: string;
     meta?: string;
   };
   localeLinks: LocaleLink[];
@@ -34,13 +37,14 @@ type Props = {
 };
 
 const { data, localeLinks, labels, sourceHref, homeHref } = Astro.props as Props;
+const sectionLabel = labels.section ?? labels.artists ?? labels.songs ?? labels.albums;
 ---
 
 <header class="wiki-article-header border-b border-white/10 pb-3 sm:pb-4 reveal-up">
   <nav aria-label="Breadcrumb" class="mb-4 hidden flex-wrap items-center gap-2 text-[9px] font-mono uppercase tracking-[0.22em] text-white/35 sm:flex">
     <a href={homeHref} class="hover:text-white transition-colors">{labels.home}</a>
     <span class="text-white/15">/</span>
-    <span>{labels.artists}</span>
+    {sectionLabel && <span>{sectionLabel}</span>}
     <span class="text-white/15">/</span>
     <span class="text-white/60">{data.name}</span>
   </nav>
@@ -59,7 +63,7 @@ const { data, localeLinks, labels, sourceHref, homeHref } = Astro.props as Props
       <div class="mt-2 flex flex-wrap items-center gap-x-3 gap-y-1.5 text-[10px] leading-none tracking-[0.12em] text-white/45 sm:mt-3 sm:gap-x-4 sm:text-[11px] sm:tracking-[0.14em]">
         <span>{data.romanizedName}</span>
         <span class="hidden h-px w-8 bg-white/15 sm:block"></span>
-        <span class="hidden sm:inline">{labels.category}: {data.categoryTitle}</span>
+        {data.categoryTitle && <span class="hidden sm:inline">{labels.category}: {data.categoryTitle}</span>}
       </div>
     </div>
 
@@ -83,14 +87,18 @@ const { data, localeLinks, labels, sourceHref, homeHref } = Astro.props as Props
   </div>
 
   <dl class="mt-4 hidden flex-wrap gap-x-5 gap-y-2 border-t border-white/10 pt-3 text-[10px] sm:flex">
-    <div class="flex items-baseline gap-2">
-      <dt class="font-mono uppercase tracking-[0.16em] text-white/30 sm:tracking-[0.2em]">{data.statusLabel}</dt>
-      <dd class="leading-none tracking-[0.1em] text-white/75 sm:tracking-[0.12em]">{data.status}</dd>
-    </div>
-    <div class="flex items-baseline gap-2">
-      <dt class="font-mono uppercase tracking-[0.16em] text-white/30 sm:tracking-[0.2em]">{labels.category}</dt>
-      <dd class="truncate leading-none tracking-[0.1em] text-white/75 sm:tracking-[0.12em]">{data.categorySubtitle}</dd>
-    </div>
+    {data.statusLabel && data.status && (
+      <div class="flex items-baseline gap-2">
+        <dt class="font-mono uppercase tracking-[0.16em] text-white/30 sm:tracking-[0.2em]">{data.statusLabel}</dt>
+        <dd class="leading-none tracking-[0.1em] text-white/75 sm:tracking-[0.12em]">{data.status}</dd>
+      </div>
+    )}
+    {data.categorySubtitle && (
+      <div class="flex items-baseline gap-2">
+        <dt class="font-mono uppercase tracking-[0.16em] text-white/30 sm:tracking-[0.2em]">{labels.category}</dt>
+        <dd class="truncate leading-none tracking-[0.1em] text-white/75 sm:tracking-[0.12em]">{data.categorySubtitle}</dd>
+      </div>
+    )}
     {data.meta && (
       <div class="col-span-2 flex items-baseline gap-2 sm:col-span-1">
         <dt class="font-mono uppercase tracking-[0.16em] text-white/30 sm:tracking-[0.2em]">Meta</dt>

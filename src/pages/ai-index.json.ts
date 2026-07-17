@@ -31,10 +31,12 @@ export const GET: APIRoute = async ({ site }) => {
   const origin = (import.meta.env.PUBLIC_SITE_URL || site?.origin || 'https://kamitsubaki.wiki').replace(/\/$/u, '');
   const groups = await Promise.all([
     getCollection('artists'),
+    getCollection('albums'),
+    getCollection('songs'),
     getCollection('projects'),
     getCollection('logs'),
   ]);
-  const collectionNames = ['artists', 'projects', 'logs'];
+  const collectionNames = ['artists', 'albums', 'songs', 'projects', 'logs'];
   const entries = groups.flatMap((group, groupIndex) =>
     group.map((entry) => {
       const path = articleRoute(collectionNames[groupIndex], entry.id);

@@ -146,7 +146,7 @@ test('contributor roster exposes localized honor wall copy and contribution rout
   assert.match(component, /data-guide-href/);
   assert.match(component, /data-edit-href/);
   assert.match(component, /contribute\/edit/);
-  assert.match(component, /src\/content\/artists/);
+  assert.match(component, /src\/content\/\$\{collection\}/);
 });
 
 test('contributor renderer builds honor wall cards, readable activity, and retry states', async () => {

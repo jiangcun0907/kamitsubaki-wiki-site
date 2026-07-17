@@ -1,5 +1,6 @@
 ---
 import AboutSection from '../../components/AboutSection.astro';
+import AlbumsSection from '../../components/AlbumsSection.astro';
 import ArtistDatabase from '../../components/ArtistDatabase.astro';
 import ContributorRoster from '../../components/ContributorRoster.astro';
 import Hero from '../../components/Hero.astro';
@@ -28,6 +29,16 @@ const projectEntries = getLocalizedEntries(await getCollection('projects'), loca
 const logEntryCollection = getLocalizedEntries(await getCollection('logs'), locale, defaultLocale);
 const songEntries = getLocalizedEntries(await getCollection('songs'), locale, defaultLocale);
 const songs = songEntries.slice(0, 4);
+const compareOptionalNumber = (left?: number, right?: number) =>
+  (left ?? Number.POSITIVE_INFINITY) - (right ?? Number.POSITIVE_INFINITY);
+const albumEntries = getLocalizedEntries(await getCollection('albums'), locale, defaultLocale);
+const albums = [...albumEntries]
+  .sort((a, b) =>
+    compareOptionalNumber(a.data.categoryOrder, b.data.categoryOrder)
+    || compareOptionalNumber(a.data.itemOrder, b.data.itemOrder)
+    || (b.data.releaseDate ?? '').localeCompare(a.data.releaseDate ?? ''),
+  )
+  .slice(0, 4);
 
 const artistCategories = buildArtistCategories(artistEntries);
 const databaseJumpLinks = buildDatabaseJumpLinks(artistCategories);
@@ -53,6 +64,7 @@ const metadata = buildHomeMetadata(homeContent, locale);
       locale={locale}
     />
     <SongsSection songs={songs} section={homeContent.sections.songs} locale={locale} />
+    <AlbumsSection albums={albums} section={homeContent.sections.albums} locale={locale} />
     <ContributorRoster mode="summary" locale={locale} />
     <ProjectsSection projects={projects} section={homeContent.sections.projects} />
     <LogSection logEntries={logEntries} section={homeContent.sections.log} />

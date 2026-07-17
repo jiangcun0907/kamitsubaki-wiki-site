@@ -85,6 +85,12 @@ const site = defineCollection({
         subheading: z.string(),
         viewAllLabel: z.string().optional(),
       }),
+      albums: z.object({
+        heading: z.string(),
+        subheading: z.string(),
+        viewAllLabel: z.string().optional(),
+        emptyLabel: z.string().optional(),
+      }),
     }),
     footer: z.object({
       tagline: z.string(),
@@ -262,6 +268,53 @@ const songs = defineCollection({
     categoryOrder: z.number().optional(),
     itemOrder: z.number().optional(),
     image: z.string().optional(),
+    theme,
+    seo,
+  }),
+});
+
+const albums = defineCollection({
+  loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/albums' }),
+  schema: z.object({
+    locale,
+    translationKey: z.string(),
+    title: z.string(),
+    romanizedTitle: z.string().optional(),
+    artist: z.string(),
+    type: z.string().optional(),
+    description: z.string().optional(),
+    releaseDate: z.string().optional(),
+    label: z.string().optional(),
+    catalogNumber: z.string().optional(),
+    trackCount: z.number().int().nonnegative().optional(),
+    duration: z.string().optional(),
+    code: z.string().optional(),
+    categoryTitle: z.string().optional(),
+    categorySubtitle: z.string().optional(),
+    categoryOrder: z.number().optional(),
+    itemOrder: z.number().optional(),
+    image: z.string().optional(),
+    officialLinks: z
+      .array(
+        z.object({
+          label: z.string(),
+          href: z.string(),
+        }),
+      )
+      .optional(),
+    tracks: z
+      .array(
+        z.object({
+          disc: z.number().int().positive().optional(),
+          number: z.string().optional(),
+          title: z.string(),
+          artist: z.string().optional(),
+          duration: z.string().optional(),
+          songId: z.string().optional(),
+        }),
+      )
+      .optional(),
+    theme,
     seo,
   }),
 });
@@ -364,5 +417,6 @@ export const collections = {
   logs,
   editGuide,
   songs,
+  albums,
   syntaxGuide,
 };

@@ -22,7 +22,7 @@ const artistFolders = new Map([
 
 const projectFolders = new Map([
   ['kamitsubaki-city', 'arg'],
-  ['sinsaekai-studio', 'labels'],
+  ['sinsekai-studio', 'labels'],
   ['witch-exhibition', 'exhibitions'],
 ]);
 
@@ -36,12 +36,12 @@ async function readMd(path) {
   return yaml.parse(match[1]);
 }
 
-test('nav items point to the four primary page sections', async () => {
+test('nav items point to the primary page sections in display order', async () => {
   const { navItems } = await readJson('../src/content/site/zh.json');
 
   assert.deepEqual(
     navItems.map((item) => item.href),
-    ['#about', '#database', '#projects', '#log'],
+    ['#about', '#database', '#songs', '#albums', '#projects', '#log'],
   );
 });
 
@@ -84,7 +84,7 @@ test('artist database keeps the original four categories and key entities', asyn
     meta: 'DEBUT: 2018.10.18',
     statusLabel: 'STATUS',
     status: 'ACTIVE',
-    image: 'https://placehold.co/1200x800/111/333?text=KAF',
+    image: 'https://placehold.co/1200x800/111321/f29ac2?text=KAF',
   });
 });
 
@@ -199,7 +199,7 @@ test('artist database creates readable fallback labels from folder names', () =>
 });
 
 test('projects and log entries preserve the static page content', async () => {
-  const projectFiles = ['kamitsubaki-city', 'sinsaekai-studio', 'witch-exhibition'];
+  const projectFiles = ['kamitsubaki-city', 'sinsekai-studio', 'witch-exhibition'];
   const projects = sortByOrder(
     await Promise.all(
       projectFiles.map(async (id) => ({

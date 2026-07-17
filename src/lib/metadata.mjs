@@ -68,14 +68,14 @@ export function buildArticleDescription(data, body) {
   return scanMarkdownDescription(body, fallback || defaultSiteDescription);
 }
 
-export function buildArticleMetadata({ data, body = '', locale, id }) {
+export function buildArticleMetadata({ data, body = '', locale, id, collection = 'artists' }) {
   const seo = data.seo || {};
 
   return {
     title: seo.title || `${data.name} - ${siteName}`,
     description: seo.description || buildArticleDescription(data, body),
     image: seo.image || data.image,
-    canonicalPath: `/${locale}/artists/${id}`,
+    canonicalPath: `/${locale}/${collection}/${id}`,
     type: 'article',
     keywords: seo.keywords,
     noindex: seo.noindex,

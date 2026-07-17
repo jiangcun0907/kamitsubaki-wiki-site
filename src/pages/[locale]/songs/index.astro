@@ -24,7 +24,7 @@ const alternates = supportedLocales.map((code) => ({ locale: code, href: `/${cod
 const sortedSongs = songEntries.sort((a, b) => (a.data.categoryOrder || 0) - (b.data.categoryOrder || 0));
 ---
 
-<BaseLayout lang={localeCode} title={`Songs - Kamitsubaki Studio Fan Wiki`}>
+<BaseLayout lang={localeCode} alternates={alternates} title={`Songs - Kamitsubaki Studio Fan Wiki`}>
   <div class="min-h-screen">
     <SiteNav navItems={homeContent.navItems} localeLinks={localeLinks} brandLines={homeContent.hero.brandLines} compact homeHref={`/${localeCode}/`} />
     

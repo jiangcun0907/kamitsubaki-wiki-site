@@ -33,6 +33,10 @@
       "href": "#songs"
     },
     {
+      "label": "ALBUMS",
+      "href": "#albums"
+    },
+    {
       "label": "PROJECTS",
       "href": "#projects"
     },
@@ -82,13 +86,19 @@
       "subheading": "楽曲作品",
       "viewAllLabel": "VIEW ALL SONGS >>"
     },
+    "albums": {
+      "heading": "03. ALBUMS",
+      "subheading": "アルバム作品",
+      "viewAllLabel": "VIEW ALL ALBUMS >>",
+      "emptyLabel": "アルバム記事を準備中です。編集への参加を歓迎します。"
+    },
     "projects": {
-      "heading": "03. PROTOCOLS",
+      "heading": "04. PROTOCOLS",
       "subheading": "派生計画・プロジェクト",
       "viewAllLabel": "VIEW ALL PROTOCOLS >>"
     },
     "log": {
-      "heading": "04. LOG",
+      "heading": "05. LOG",
       "subheading": "観測記録"
     }
   },

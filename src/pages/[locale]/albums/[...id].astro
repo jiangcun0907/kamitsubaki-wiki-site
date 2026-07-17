@@ -1,0 +1,171 @@
+---
+import { getCollection, render } from 'astro:content';
+import AlbumInfoBox from '../../../components/AlbumInfoBox.astro';
+import ContributorRoster from '../../../components/ContributorRoster.astro';
+import SiteFooter from '../../../components/SiteFooter.astro';
+import SiteNav from '../../../components/SiteNav.astro';
+import TableOfContents from '../../../components/TableOfContents.astro';
+import WikiArticleHeader from '../../../components/WikiArticleHeader.astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { getLocalizedSite } from '../../../lib/homeData.mjs';
+import { buildLocaleLinks, defaultLocale, supportedLocales } from '../../../lib/i18n.mjs';
+import { buildArticleMetadata } from '../../../lib/metadata.mjs';
+
+export async function getStaticPaths() {
+  const albumEntries = await getCollection('albums');
+
+  return albumEntries.map((entry) => {
+    const parts = entry.id.split('/');
+    const entryLocale = parts.pop();
+    const idPath = parts.join('/');
+
+    return {
+      params: { locale: entryLocale, id: idPath },
+      props: { entry },
+    };
+  });
+}
+
+const { locale, id } = Astro.params;
+const { entry } = Astro.props;
+const { Content, headings } = await render(entry);
+const localeCode = locale as 'zh' | 'ja' | 'en';
+const hasArticleBody = Boolean(entry.body?.trim());
+const hasTracks = Boolean(entry.data.tracks?.length);
+const hasMainContent = hasArticleBody || hasTracks;
+const hasTableOfContents = hasArticleBody && headings.some((heading) => heading.depth === 2 || heading.depth === 3);
+
+const siteEntries = await getCollection('site');
+const homeContent = getLocalizedSite(siteEntries, localeCode, defaultLocale);
+const currentPath = `/albums/${id}`;
+const localeLinks = buildLocaleLinks(homeContent, localeCode, currentPath);
+const alternates = supportedLocales.map((code) => ({ locale: code, href: `/${code}/albums/${id}` }));
+
+const articleLabels = {
+  zh: {
+    home: '首页', albums: '专辑', article: 'Wiki 条目', category: '分类', source: '编辑源文件', languages: '切换语言',
+    contents: '目录', infobox: '专辑信息', artist: '艺人', type: '类型', releaseDate: '发行日期', label: '发行厂牌',
+    catalogNumber: '商品编号', trackCount: '曲目数', duration: '总时长', officialLinks: '官方链接', coverPlaceholder: '暂无专辑封面',
+    tracklist: '曲目列表', disc: '碟片', track: '曲目', trackArtist: '艺人', trackDuration: '时长', albumFallback: '专辑作品',
+  },
+  ja: {
+    home: 'ホーム', albums: 'アルバム', article: 'Wiki 記事', category: '分類', source: 'ソースを編集', languages: '言語を切り替え',
+    contents: '目次', infobox: 'アルバム情報', artist: 'アーティスト', type: '種類', releaseDate: 'リリース日', label: 'レーベル',
+    catalogNumber: '規格品番', trackCount: '曲数', duration: '総時間', officialLinks: '公式リンク', coverPlaceholder: 'ジャケット未登録',
+    tracklist: '収録曲', disc: 'ディスク', track: '曲名', trackArtist: 'アーティスト', trackDuration: '時間', albumFallback: 'アルバム作品',
+  },
+  en: {
+    home: 'Home', albums: 'Albums', article: 'Wiki Article', category: 'Category', source: 'Edit source', languages: 'Switch language',
+    contents: 'Contents', infobox: 'Album Info', artist: 'Artist', type: 'Type', releaseDate: 'Release Date', label: 'Label',
+    catalogNumber: 'Catalog No.', trackCount: 'Tracks', duration: 'Duration', officialLinks: 'Official Links', coverPlaceholder: 'No cover available',
+    tracklist: 'Track listing', disc: 'Disc', track: 'Track', trackArtist: 'Artist', trackDuration: 'Duration', albumFallback: 'Album works',
+  },
+}[localeCode];
+
+const contentSourcePath = `src/content/albums/${id}/${localeCode}.md`;
+const sourceHref = `/${localeCode}/contribute/edit?target=${encodeURIComponent(contentSourcePath)}`;
+const articleData = {
+  ...entry.data,
+  name: entry.data.title,
+  romanizedName: entry.data.romanizedTitle ?? entry.data.artist,
+  profileTagline: entry.data.description,
+  categoryTitle: entry.data.categoryTitle ?? entry.data.type ?? articleLabels.albumFallback,
+  categorySubtitle: entry.data.categorySubtitle ?? entry.data.artist,
+  statusLabel: entry.data.releaseDate ? articleLabels.releaseDate : undefined,
+  status: entry.data.releaseDate,
+  meta: entry.data.artist,
+};
+const metadata = buildArticleMetadata({ data: articleData, body: entry.body, locale: localeCode, id, collection: 'albums' });
+const theme = entry.data.theme ?? {
+  accentColor: '#d7b8ff',
+  mutedColor: '#9ba9d0',
+  surfaceColor: '#11111a',
+  highlightColor: '#f8f5ff',
+};
+const themeStyle = [
+  `--wiki-accent-color:${theme.accentColor}`,
+  `--wiki-muted-color:${theme.mutedColor ?? theme.accentColor}`,
+  `--wiki-surface-color:${theme.surfaceColor ?? '#11111a'}`,
+  `--wiki-highlight-color:${theme.highlightColor ?? '#f8f5ff'}`,
+].join(';');
+---
+
+<BaseLayout lang={localeCode} alternates={alternates} title={`${entry.data.title} - Kamitsubaki Studio Fan Wiki`} metadata={metadata}>
+  <div class="wiki-theme-shell" style={themeStyle}>
+    <SiteNav navItems={homeContent.navItems} localeLinks={localeLinks} brandLines={homeContent.hero.brandLines} compact homeHref={`/${localeCode}/`} />
+    <div class="fixed left-0 top-0 z-[60] h-px w-full origin-left bg-white/70" data-reading-progress></div>
+
+    <div class="mx-auto max-w-[92rem] px-4 pb-3 pt-17 sm:px-6 sm:pb-4 sm:pt-20 lg:pt-20">
+      <WikiArticleHeader data={articleData} localeLinks={localeLinks} labels={articleLabels} sourceHref={sourceHref} homeHref={`/${localeCode}/`} />
+    </div>
+
+    <div class:list={[
+      'mx-auto grid max-w-[92rem] items-start gap-5 px-4 py-4 sm:gap-8 sm:px-6 sm:py-5 lg:gap-8',
+      hasMainContent ? 'lg:grid-cols-12' : 'lg:grid-cols-[minmax(0,1fr)_22rem]',
+    ]}>
+      {hasTableOfContents && (
+        <aside class="hidden lg:col-span-2 lg:block lg:sticky lg:top-32">
+          <TableOfContents headings={headings} title={articleLabels.contents} />
+        </aside>
+      )}
+
+      {hasMainContent && (
+        <main class:list={[
+          'order-last w-full min-w-0 lg:order-none',
+          hasTableOfContents ? 'lg:col-span-7' : 'lg:col-span-8 lg:col-start-2',
+        ]}>
+          {hasTableOfContents && (
+            <details class="wiki-mobile-toc mb-8 rounded-lg border border-white/10 bg-white/[0.03] p-4 lg:hidden">
+              <summary class="cursor-pointer font-mono text-[11px] uppercase tracking-[0.24em] text-white/65">{articleLabels.contents}</summary>
+              <div class="mt-4 border-t border-white/10 pt-4"><TableOfContents headings={headings} title={articleLabels.contents} /></div>
+            </details>
+          )}
+
+          {hasArticleBody && <article class="wiki-reader wiki-prose prose prose-invert max-w-none reveal-up"><Content /></article>}
+
+          {hasTracks && (
+            <section class:list={['reveal-up', hasArticleBody && 'mt-12 border-t border-white/10 pt-10']}>
+              <h2 class="font-serif text-2xl tracking-[0.08em] text-white">{articleLabels.tracklist}</h2>
+              <div class="mt-6 overflow-x-auto border-y border-white/10">
+                <table class="w-full min-w-[34rem] border-collapse text-left text-sm">
+                  <thead class="font-mono text-[9px] uppercase tracking-[0.18em] text-white/35">
+                    <tr class="border-b border-white/10">
+                      <th class="px-3 py-3 font-normal">#</th>
+                      <th class="px-3 py-3 font-normal">{articleLabels.track}</th>
+                      <th class="px-3 py-3 font-normal">{articleLabels.trackArtist}</th>
+                      <th class="px-3 py-3 text-right font-normal">{articleLabels.trackDuration}</th>
+                    </tr>
+                  </thead>
+                  <tbody class="divide-y divide-white/5">
+                    {entry.data.tracks?.map((track, index) => (
+                      <tr class="text-white/70">
+                        <td class="px-3 py-4 font-mono text-[10px] text-white/30">
+                          {track.disc && track.disc > 1 ? `${track.disc}-` : ''}{track.number ?? String(index + 1).padStart(2, '0')}
+                        </td>
+                        <td class="px-3 py-4 font-serif tracking-wide text-white/85">
+                          {track.songId ? <a href={`/${localeCode}/songs/${track.songId}`} class="transition-colors hover:text-white">{track.title}</a> : track.title}
+                        </td>
+                        <td class="px-3 py-4 text-xs text-white/50">{track.artist ?? entry.data.artist}</td>
+                        <td class="px-3 py-4 text-right font-mono text-[10px] text-white/40">{track.duration}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </section>
+          )}
+        </main>
+      )}
+
+      <aside class:list={[
+        'w-full max-w-sm mx-auto lg:sticky lg:top-32 lg:max-w-none reveal-up',
+        hasMainContent ? 'lg:col-span-3' : 'lg:col-start-2',
+      ]}>
+        <AlbumInfoBox data={entry.data} labels={articleLabels} />
+        <ContributorRoster mode="entry" locale={localeCode} collection="albums" entryId={id} />
+      </aside>
+    </div>
+
+    <SiteFooter footer={homeContent.footer} />
+  </div>
+</BaseLayout>

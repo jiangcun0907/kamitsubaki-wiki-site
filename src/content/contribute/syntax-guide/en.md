@@ -293,4 +293,32 @@ The following properties are shared by every entry category:
 | `image` | String | No | Path to the song artwork, single cover, or album cover |
 | `seo` | Shared SEO object | No | Search-engine and social-sharing information |
 
+### Album properties
+
+| Property | Type | Required | Purpose and content |
+| --- | --- | :---: | --- |
+| `locale` | `zh / ja / en` | Yes | Language of the current album entry |
+| `translationKey` | String | Yes | Shared identifier used by all language versions of the same album |
+| `title` | String | Yes | Album title |
+| `romanizedTitle` | String | No | Romanized, Latin-script, or international display title |
+| `artist` | String | Yes | Main album artist |
+| `type` | String | No | Release type, such as `Album`, `EP`, or `Mini Album` |
+| `description` | String | No | Short description shown near the detail-page heading |
+| `releaseDate` | String | No | Release date. The recommended format is `YYYY-MM-DD` |
+| `label` | String | No | Releasing label |
+| `catalogNumber` | String | No | Catalog or product number |
+| `trackCount` | Number | No | Total number of tracks |
+| `duration` | String | No | Total album duration |
+| `code` | String | No | List number, archive number, or internal identifier |
+| `categoryTitle` | String | No | Title of the album category |
+| `categorySubtitle` | String | No | Subtitle of the album category |
+| `categoryOrder` | Number | No | Sorting value between categories |
+| `itemOrder` | Number | No | Sorting value of the album within its category |
+| `image` | String | No | Path or URL for the album cover |
+| `officialLinks` | Object array | No | Official, purchase, or streaming links; each item uses `label` and `href` |
+| `tracks` | Object array | No | Track list. Each item requires `title` and may include `disc`, `number`, `artist`, `duration`, and `songId` |
+| `tracks[].songId` | String | No | Path of a related song entry on this site, such as `kaf-originals/shi` |
+| `theme` | Shared theme object | No | Custom color theme for the album detail page |
+| `seo` | Shared SEO object | No | Search-engine and social-sharing information |
+
 - For specific examples, refer to completed entries in this site's GitHub repository.

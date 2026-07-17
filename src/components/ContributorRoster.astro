@@ -10,7 +10,8 @@ const { mode, locale = 'zh', collection = '', entryId = '' } = Astro.props as Pr
 const apiBase = import.meta.env.PUBLIC_AI_OBSERVER_API_BASE || 'https://kamitsubaki-ai-observer.linkth1rstyg.workers.dev';
 const guideHref = `/${locale}/contribute/edit`;
 const syntaxHref = `/${locale}/contribute/syntax`;
-const targetPath = collection === 'artists' && entryId ? `src/content/artists/${entryId}/${locale}.md` : '';
+const editableCollections = new Set(['artists', 'albums', 'songs', 'projects', 'logs']);
+const targetPath = editableCollections.has(collection) && entryId ? `src/content/${collection}/${entryId}/${locale}.md` : '';
 const editHref = targetPath ? `${guideHref}?target=${encodeURIComponent(targetPath)}` : guideHref;
 const copy = {
   zh: {

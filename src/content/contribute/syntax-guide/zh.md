@@ -238,4 +238,33 @@ ruby字语法如下：<br>
 |`itemOrder`|数字|否|歌曲在分类内的排序值|
 |`image`|字符串|否|歌曲封面、单曲封面或专辑图片路径|
 |`seo`|公共 SEO 对象|否|搜索和分享信息|
+
+### 专辑部分
+
+|属性|类型|必填|作用与填写内容|
+|:---:|:---:|:--:|:---:|
+|`locale`|`zh / ja / en`|是|当前专辑词条语言|
+|`translationKey`|字符串|是|同一专辑多语言版本的共同标识|
+|`title`|字符串|是|专辑标题|
+|`romanizedTitle`|字符串|否|专辑的罗马字、拉丁字母或国际显示名|
+|`artist`|字符串|是|专辑主要艺人|
+|`type`|字符串|否|作品类型，例如 `Album`、`EP`、`Mini Album`|
+|`description`|字符串|否|用于详情页标题区的简短介绍|
+|`releaseDate`|字符串|否|发行日期，建议使用 `YYYY-MM-DD`|
+|`label`|字符串|否|发行厂牌|
+|`catalogNumber`|字符串|否|商品编号或唱片编号|
+|`trackCount`|数字|否|总曲目数|
+|`duration`|字符串|否|专辑总时长|
+|`code`|字符串|否|列表编号、档案编号或内部代码|
+|`categoryTitle`|字符串|否|所属分类标题|
+|`categorySubtitle`|字符串|否|所属分类副标题|
+|`categoryOrder`|数字|否|分类排序值|
+|`itemOrder`|数字|否|专辑在分类内的排序值|
+|`image`|字符串|否|专辑封面路径或 URL|
+|`officialLinks`|对象数组|否|官方页面、购买或串流链接；每项填写 `label` 与 `href`|
+|`tracks`|对象数组|否|曲目表；每项必须填写 `title`，还可填写 `disc`、`number`、`artist`、`duration`、`songId`|
+|`tracks[].songId`|字符串|否|关联本站歌曲词条的路径，例如 `kaf-originals/shi`|
+|`theme`|公共主题对象|否|专辑详情页的个性化配色|
+|`seo`|公共 SEO 对象|否|搜索和分享信息|
+
 - ***关于具体的填写示例，可在本站GitHub仓库寻找已填写完毕的词条内容进行查看。***

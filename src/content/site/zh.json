@@ -25,12 +25,16 @@
       "href": "#about"
     },
     {
+      "label": "DATABASE",
+      "href": "#database"
+    },
+    {
       "label": "RHYTHM",
       "href": "#songs"
     },
     {
-      "label": "DATABASE",
-      "href": "#database"
+      "label": "ALBUMS",
+      "href": "#albums"
     },
     {
       "label": "PROJECTS",
@@ -82,13 +86,19 @@
       "subheading": "音乐作品",
       "viewAllLabel": "VIEW ALL SONGS >>"
     },
+    "albums": {
+      "heading": "03. ALBUMS",
+      "subheading": "专辑作品",
+      "viewAllLabel": "VIEW ALL ALBUMS >>",
+      "emptyLabel": "专辑词条正在整理中，欢迎参与补充。"
+    },
     "projects": {
-      "heading": "03. PROTOCOLS",
+      "heading": "04. PROTOCOLS",
       "subheading": "派生计划・项目",
       "viewAllLabel": "VIEW ALL PROTOCOLS >>"
     },
     "log": {
-      "heading": "04. LOG",
+      "heading": "05. LOG",
       "subheading": "观测记录"
     }
   },

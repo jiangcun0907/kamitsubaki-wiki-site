@@ -17,6 +17,8 @@
 ```text
 src/content/site/       导航、分区标题、页脚等站点文案 (.json)
 src/content/artists/    艺人、创作者、组合、音乐同位体条目 (.md)
+src/content/albums/     专辑条目与结构化曲目表 (.md)
+src/content/songs/      歌曲条目 (.md)
 src/content/projects/   企划卡片与企划条目 (.md)
 src/content/logs/       时间线/更新记录 (.md)
 src/content/contribute/ GitHub 编辑教程页文案 (.md)
@@ -123,7 +125,7 @@ src/content/artists/vwp/kaf/zh.md
 
 ## 新增条目
 
-1. 在 `src/content/artists/` 或 `src/content/projects/` 下选择正确分类。
+1. 在 `src/content/artists/`、`src/content/albums/`、`src/content/songs/` 或 `src/content/projects/` 下选择正确分类。
 2. 为条目创建一个文件夹，例如 `src/content/artists/vwp/new-artist/`。
 3. 添加 `zh.md`、`ja.md`、`en.md`。
 4. 三个文件使用相同的 `translationKey`。

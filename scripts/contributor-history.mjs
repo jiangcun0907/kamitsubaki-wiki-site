@@ -57,7 +57,7 @@ export function parseContentPath(path) {
   }
 
   const collection = parts[2];
-  if (!['artists', 'projects', 'logs', 'contribute'].includes(collection)) {
+  if (!['artists', 'albums', 'songs', 'projects', 'logs', 'contribute'].includes(collection)) {
     return null;
   }
 
