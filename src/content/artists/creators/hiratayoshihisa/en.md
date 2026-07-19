@@ -33,7 +33,7 @@ theme:
       value: "#E0ECFF"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=Hirata+Yoshihisa"
+image: "https://placehold.co/1200x800/0a0f1a/4a90d9?text=Yoshihisa+Hirata"
 name: "Hirata Yoshihisa"
 categoryTitle: "Creators"
 categorySubtitle: "CREATORS / COMPOSERS"

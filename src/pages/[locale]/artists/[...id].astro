@@ -76,6 +76,7 @@ const articleLabels = {
       album: '专辑',
       song: '歌曲',
     },
+    stubNotice: '此条目仍在完善中，部分资料可能缺失。',
   },
   ja: {
     home: 'ホーム',
@@ -103,6 +104,7 @@ const articleLabels = {
       album: 'アルバム',
       song: '楽曲',
     },
+    stubNotice: 'この記事は未完成のため、一部の情報が不足している場合があります。',
   },
   en: {
     home: 'Home',
@@ -130,6 +132,7 @@ const articleLabels = {
       album: 'Album',
       song: 'Song',
     },
+    stubNotice: 'This entry is still being expanded and may contain incomplete information.',
   },
 }[localeCode];
 
@@ -169,6 +172,9 @@ const themeStyle = [
         sourceHref={sourceHref}
         homeHref={`/${localeCode}/`}
       />
+      {articleData.contentStatus === 'stub' && (
+        <p class="mt-3 border border-amber-200/15 bg-amber-200/[0.04] px-4 py-3 text-xs tracking-wide text-amber-50/60">{articleLabels.stubNotice}</p>
+      )}
     </div>
 
     <div class:list={[

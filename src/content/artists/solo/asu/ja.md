@@ -35,7 +35,7 @@ theme:
       value: "#FFFBE6"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=ASU"
+image: "https://placehold.co/1200x800/0e1117/ffd966?text=ASU"
 name: "明透 / ASU"
 categoryTitle: "ソロ / ユニット"
 categorySubtitle: "SOLO ARTISTS & UNITS"

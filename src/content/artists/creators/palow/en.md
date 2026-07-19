@@ -43,7 +43,7 @@ theme:
       value: "#EDE8FF"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=PALOW."
+image: "https://placehold.co/1200x800/12101f/7b68ee?text=PALOW."
 name: "PALOW."
 categoryTitle: "Creators"
 categorySubtitle: "CREATORS / COMPOSERS / ILLUSTRATORS"

@@ -37,7 +37,7 @@ theme:
       value: "#E0F0FF"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=PIEDPIPER"
+image: "https://placehold.co/1200x800/0d1520/4a9eff?text=PIEDPIPER"
 name: "PIEDPIPER"
 categoryTitle: "クリエイター"
 categorySubtitle: "CREATORS / COMPOSERS / ILLUSTRATORS"

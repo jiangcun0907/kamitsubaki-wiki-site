@@ -9,6 +9,8 @@ const githubRepository = process.env.GITHUB_REPOSITORY || '';
 const commitBaseUrl = process.env.CONTRIBUTORS_COMMIT_BASE_URL || 'https://github.com/linkth1rsty/kamitsubaki-wiki-site/commit';
 const contentRoots = [
   'src/content/artists',
+  'src/content/albums',
+  'src/content/songs',
   'src/content/projects',
   'src/content/logs',
   'src/content/contribute',

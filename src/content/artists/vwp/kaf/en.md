@@ -46,7 +46,7 @@ theme:
       value: "#FFF6FA"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=KAF"
+image: "https://placehold.co/1200x800/111321/f29ac2?text=KAF"
 name: "KAF"
 categoryTitle: "Witches of the Virtual Generation"
 categorySubtitle: "VIRTUAL WITCH PHENOMENON"

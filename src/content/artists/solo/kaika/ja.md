@@ -41,7 +41,7 @@ theme:
       value: "#FFEDF0"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=Kaika"
+image: "https://placehold.co/1200x800/1a0d10/e8788a?text=Kaika"
 name: "Kaika"
 categoryTitle: "ソロ / ユニット"
 categorySubtitle: "SOLO ARTISTS & UNITS"

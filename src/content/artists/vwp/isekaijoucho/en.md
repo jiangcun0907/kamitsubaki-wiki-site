@@ -44,7 +44,7 @@ theme:
       value: "#E8E3D5"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=ISEKAIJOUCHO"
+image: "https://placehold.co/1200x800/0d1110/d65a31?text=ISEKAIJOUCHO"
 name: "ISEKAIJOUCHO"
 categoryTitle: "Witches of the Virtual Generation"
 categorySubtitle: "VIRTUAL WITCH PHENOMENON"

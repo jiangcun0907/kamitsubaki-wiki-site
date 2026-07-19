@@ -53,7 +53,7 @@ theme:
       value: "#F0FFF4"
 statusLabel: "TYPE"
 status: "CeVIO AI"
-image: "https://placehold.co/1200x800/111/333?text=HARU"
+image: "https://placehold.co/1200x800/0f1a14/48bb78?text=HARU"
 name: "羽累"
 categoryTitle: "音乐同位体"
 categorySubtitle: "MUSICAL ISOTOPE"

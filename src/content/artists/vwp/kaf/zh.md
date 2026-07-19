@@ -46,7 +46,7 @@ theme:
       value: "#FFF6FA"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=KAF"
+image: "https://placehold.co/1200x800/111321/f29ac2?text=KAF"
 name: "花譜"
 categoryTitle: "虚拟世代的魔女们"
 categorySubtitle: "VIRTUAL WITCH PHENOMENON"

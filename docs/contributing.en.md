@@ -4,6 +4,14 @@
 
 This guide is the main reference for editing the wiki and opening a Pull Request.
 
+## Where to start
+
+- For a first contribution or a browser-only edit, open the in-site [Contribution Learning Center](https://kamitsubaki.wiki/en/contribute/edit). It chooses a route by experience and places the Markdown/property reference on the same page.
+- If you already know the repository and need field or command details, continue with this document.
+- When editing a specific entry, start from its “Edit source” action so the learning center can carry the exact target path.
+
+Recommended order: **choose a route → confirm the target → look up syntax while editing → review the diff → open the PR → follow CI and review**. You do not need to learn all of Markdown before starting.
+
 ## Edit Content
 
 Most edits belong in `src/content/`.
@@ -73,6 +81,14 @@ seo:
 ```
 
 Write article content after the second `---`. Empty bodies are allowed, but do not add filler text.
+
+### Content security
+
+Article HTML uses an explicit allowlist. Common typography, tables, `ruby`, `details`, and images are retained; `script`, `style`, raw `iframe`, forms, inline event handlers, and dangerous URLs are removed during the build. Audio and video must use the controlled `@[provider](ID-or-share-URL "optional caption")` shortcode. Supported providers are YouTube, bilibili, Apple Music, Spotify, NetEase Music, and QQ Music.
+
+Authors should call Wiki shortcodes instead of writing their generated HTML, for example `{{ruby::text::reading}}`, `{{spoiler::hidden text}}`, `{{mark::important}}`, the song-page `{{lyrics-controls::en}}`, and the paired `{{details::title}}` / `{{/details}}` block. Multiline code continues to use a language-labelled Markdown fence for syntax highlighting. The HTML allowlist is the final compatibility and security boundary, not the preferred everyday authoring API.
+
+See the [content rendering security policy](content-security.md) for the exact boundary, migration behavior, and extension procedure. Authors can also use the copyable examples in the in-site [Markdown and entry-property guide](https://kamitsubaki.wiki/en/contribute/syntax).
 
 `theme` is optional. When present, the article page shows a palette panel and uses the entry colors for the ToC highlight, source link accent, and infobox framing.
 

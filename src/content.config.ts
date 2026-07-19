@@ -3,6 +3,25 @@ import { defineCollection } from 'astro:content';
 import { z } from 'astro/zod';
 
 const locale = z.enum(['zh', 'ja', 'en']);
+const contentStatus = z.enum(['stub', 'published']).default('published');
+const dateString = z.string().regex(
+  /^\d{4}(?:-\d{2}(?:-\d{2})?)?$/,
+  'Expected YYYY, YYYY-MM, or YYYY-MM-DD',
+);
+const durationString = z.string().regex(
+  /^\d{1,2}:\d{2}(?::\d{2})?$/,
+  'Expected MM:SS or HH:MM:SS',
+);
+const siteRelativeOrHttpUrl = z.string().refine((value) => {
+  if (value.startsWith('/') && !value.startsWith('//')) return true;
+
+  try {
+    const url = new URL(value);
+    return url.protocol === 'http:' || url.protocol === 'https:';
+  } catch {
+    return false;
+  }
+}, 'Must be an HTTP(S) URL or a site-relative path');
 const seo = z
   .object({
     title: z.string().optional(),
@@ -79,6 +98,17 @@ const site = defineCollection({
       log: z.object({
         heading: z.string(),
         subheading: z.string(),
+      }),
+      songs: z.object({
+        heading: z.string(),
+        subheading: z.string(),
+        viewAllLabel: z.string().optional(),
+      }),
+      albums: z.object({
+        heading: z.string(),
+        subheading: z.string(),
+        viewAllLabel: z.string().optional(),
+        emptyLabel: z.string().optional(),
       }),
     }),
     footer: z.object({
@@ -174,6 +204,7 @@ const artists = defineCollection({
   schema: z.object({
     locale,
     translationKey: z.string(),
+    contentStatus,
     code: z.string().optional(),
     name: z.string(),
     romanizedName: z.string(),
@@ -190,7 +221,7 @@ const artists = defineCollection({
       .array(
         z.object({
           label: z.string(),
-          href: z.string(),
+          href: siteRelativeOrHttpUrl,
         }),
       )
       .optional(),
@@ -198,7 +229,7 @@ const artists = defineCollection({
       .array(
         z.object({
           label: z.string(),
-          href: z.string(),
+          href: siteRelativeOrHttpUrl,
           kind: z.enum(['artist', 'project', 'album', 'song']),
         }),
       )
@@ -235,6 +266,80 @@ const logs = defineCollection({
     title: z.string(),
     summary: z.string().optional(),
     order: z.number(),
+    seo,
+  }),
+});
+
+const workBaseSchema = z.object({
+    locale,
+    translationKey: z.string(),
+    title: z.string(),
+    artist: z.string(),
+    releaseDate: dateString.optional(),
+    code: z.string().optional(),
+    categoryTitle: z.string().optional(),
+    categorySubtitle: z.string().optional(),
+    categoryOrder: z.number().optional(),
+    itemOrder: z.number().optional(),
+    image: z.string().optional(),
+    theme,
+    seo,
+});
+
+const songs = defineCollection({
+  loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/songs' }),
+  schema: workBaseSchema.extend({
+    artistId: z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, 'Expected a lowercase URL slug'),
+    composer: z.string().optional(),
+    lyricist: z.string().optional(),
+    album: z.string().optional(),
+    duration: durationString.optional(),
+  }),
+});
+
+const albums = defineCollection({
+  loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/albums' }),
+  schema: workBaseSchema.extend({
+    romanizedTitle: z.string().optional(),
+    type: z.string().optional(),
+    description: z.string().optional(),
+    label: z.string().optional(),
+    catalogNumber: z.string().optional(),
+    trackCount: z.number().int().nonnegative().optional(),
+    duration: durationString.optional(),
+    officialLinks: z
+      .array(
+        z.object({
+          label: z.string(),
+          href: siteRelativeOrHttpUrl,
+        }),
+      )
+      .optional(),
+    tracks: z
+      .array(
+        z.object({
+          disc: z.number().int().positive().optional(),
+          number: z.string().optional(),
+          title: z.string(),
+          artist: z.string().optional(),
+          duration: durationString.optional(),
+          songId: z.string().optional(),
+        }),
+      )
+      .optional(),
+  }),
+});
+
+const syntaxGuide = defineCollection({
+  loader: glob({
+    pattern: ['zh.md', 'ja.md', 'en.md'],
+    base: new URL('./content/contribute/syntax-guide/', import.meta.url),
+  }),
+  schema: z.object({
+    locale,
+    translationKey: z.string(),
+    title: z.string(),
+    description: z.string().optional(),
     seo,
   }),
 });
@@ -322,4 +427,7 @@ export const collections = {
   projects,
   logs,
   editGuide,
+  songs,
+  albums,
+  syntaxGuide,
 };

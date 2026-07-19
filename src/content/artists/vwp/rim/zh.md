@@ -46,7 +46,7 @@ theme:
       value: "#100D18"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=RIM"
+image: "https://placehold.co/1200x800/100d18/e92832?text=RIM"
 name: "理芽"
 categoryTitle: "虚拟世代的魔女们"
 categorySubtitle: "VIRTUAL WITCH PHENOMENON"

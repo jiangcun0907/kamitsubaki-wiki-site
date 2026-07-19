@@ -39,7 +39,7 @@ theme:
       value: "#FFF4E6"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=GUIANO"
+image: "https://placehold.co/1200x800/1a1410/f5a623?text=GUIANO"
 name: "Guiano"
 categoryTitle: "クリエイター"
 categorySubtitle: "CREATORS / COMPOSERS / ILLUSTRATORS"

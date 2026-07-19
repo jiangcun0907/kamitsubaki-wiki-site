@@ -45,7 +45,7 @@ theme:
       value: "#E8F2FF"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=CIEL"
+image: "https://placehold.co/1200x800/0d1520/6eb4f7?text=CIEL"
 name: "CIEL"
 categoryTitle: "Solo Artists / Units"
 categorySubtitle: "SOLO ARTISTS & UNITS"

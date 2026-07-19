@@ -9,7 +9,7 @@ meta: "ROLE: COMPOSER"
 statusLabel: "STATUS"
 status: "GRADUATED"
 inactive: true
-image: "https://placehold.co/1200x800/111/333?text=KANZAKI+IORI"
+image: "https://placehold.co/1200x800/0a0a12/a0a0b0?text=KANZAKI+IORI"
 name: "カンザキイオリ"
 categoryTitle: "创作者"
 categorySubtitle: "CREATORS / COMPOSERS / ILLUSTRATORS"

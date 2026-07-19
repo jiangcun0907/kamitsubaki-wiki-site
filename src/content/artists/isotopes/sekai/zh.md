@@ -53,7 +53,7 @@ theme:
       value: "#F0EBFF"
 statusLabel: "TYPE"
 status: "CeVIO AI"
-image: "https://placehold.co/1200x800/111/333?text=SEKAI"
+image: "https://placehold.co/1200x800/0f0d1a/a78bfa?text=SEKAI"
 name: "星界"
 categoryTitle: "音乐同位体"
 categorySubtitle: "MUSICAL ISOTOPE"

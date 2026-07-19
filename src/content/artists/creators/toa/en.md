@@ -34,7 +34,7 @@ theme:
       value: "#FFF0F5"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=TOA"
+image: "https://placehold.co/1200x800/1a1018/f7a8c4?text=Toa"
 name: "Toa"
 categoryTitle: "Creators"
 categorySubtitle: "CREATORS / COMPOSERS"

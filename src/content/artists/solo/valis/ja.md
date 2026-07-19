@@ -42,7 +42,7 @@ theme:
       value: "#FFF0F5"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=VALIS"
+image: "https://placehold.co/1200x800/111018/ff6b9d?text=VALIS"
 name: "ヴァリス"
 categoryTitle: "ソロアーティスト＆ユニット"
 categorySubtitle: "SOLO ARTISTS & UNITS"

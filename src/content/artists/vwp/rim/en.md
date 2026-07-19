@@ -46,7 +46,7 @@ theme:
       value: "#100D18"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=RIM"
+image: "https://placehold.co/1200x800/100d18/e92832?text=RIM"
 name: "RIM"
 categoryTitle: "Witches of the Virtual Generation"
 categorySubtitle: "VIRTUAL WITCH PHENOMENON"

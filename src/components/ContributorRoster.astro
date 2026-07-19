@@ -9,7 +9,9 @@ interface Props {
 const { mode, locale = 'zh', collection = '', entryId = '' } = Astro.props as Props;
 const apiBase = import.meta.env.PUBLIC_AI_OBSERVER_API_BASE || 'https://kamitsubaki-ai-observer.linkth1rstyg.workers.dev';
 const guideHref = `/${locale}/contribute/edit`;
-const targetPath = collection === 'artists' && entryId ? `src/content/artists/${entryId}/${locale}.md` : '';
+const syntaxHref = `/${locale}/contribute/syntax`;
+const editableCollections = new Set(['artists', 'albums', 'songs', 'projects', 'logs']);
+const targetPath = editableCollections.has(collection) && entryId ? `src/content/${collection}/${entryId}/${locale}.md` : '';
 const editHref = targetPath ? `${guideHref}?target=${encodeURIComponent(targetPath)}` : guideHref;
 const copy = {
   zh: {
@@ -27,6 +29,7 @@ const copy = {
     entries: '个条目',
     rankLabel: '荣誉序号',
     guideAction: '查看贡献指南',
+    syntaxAction: '语法属性指南',
     joinAction: mode === 'entry' ? '维护这个条目' : '加入贡献者',
     commit: '查看修改',
     unknownSummary: '完善条目资料',
@@ -48,6 +51,7 @@ const copy = {
     entries: '件の記事',
     rankLabel: 'オナー番号',
     guideAction: '貢献ガイドを見る',
+    syntaxAction: '構文属性ガイド',
     joinAction: mode === 'entry' ? 'この記事を編集する' : '貢献に参加する',
     commit: '変更を見る',
     unknownSummary: '記事資料を更新',
@@ -69,6 +73,7 @@ const copy = {
     entries: 'entries',
     rankLabel: 'Honor number',
     guideAction: 'Read the contribution guide',
+    syntaxAction: 'Read the syntax guide',
     joinAction: mode === 'entry' ? 'Improve this entry' : 'Join the contributors',
     commit: 'View change',
     unknownSummary: 'Improved entry information',
@@ -90,6 +95,7 @@ const copy = {
   entries: 'entries',
   rankLabel: 'Honor number',
   guideAction: 'Read the contribution guide',
+  syntaxAction: 'Syntax guide',
   joinAction: 'Join the contributors',
   commit: 'View change',
   unknownSummary: 'Improved entry information',
@@ -107,6 +113,7 @@ const copy = {
   data-collection={collection}
   data-entry-id={entryId}
   data-guide-href={guideHref}
+  data-syntax-href={syntaxHref}
   data-edit-href={editHref}
   data-copy={JSON.stringify(copy)}
 >

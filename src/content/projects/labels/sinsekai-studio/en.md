@@ -40,47 +40,53 @@ At *SINSEKAI STUDIO*, three companies are collaborating closely under the keywor
  
 **Virtual singer**
 
-- **ASU**  
-    A next-generation virtual singer from SINSEKAI, a derivative universe of the Kamitsubaki worldview. Her character design was created by the renowned illustrator Yoneyama Mai. ASU possesses an innate sense of rhythm and an unpredictable vocal style. She is innocent and carefree by nature, preferring to act on intuition rather than overthink things. She officially debuted on August 23, 2021, and is currently one of the core virtual singers of SINSEKAI.
+- [**ASU**](https://kamitsubaki.wiki/en/artists/solo/asu/)   
+    <br>A next-generation virtual singer from SINSEKAI, a derivative universe of the Kamitsubaki worldview. Her character design was created by the renowned illustrator Yoneyama Mai. ASU possesses an innate sense of rhythm and an unpredictable vocal style. She is innocent and carefree by nature, preferring to act on intuition rather than overthink things. She officially debuted on August 23, 2021, and is currently one of the core virtual singers of SINSEKAI.
     
 - **BEMA**  
-    A newly debuted virtual singer who officially launched on April 30, 2025. Her character design was also handled by Yoneyama Mai, featuring a motif of crosses and black lilies. If ASU symbolizes "light," BEMA is positioned as the embodiment of "darkness," using her clear voice to depict a dark world. Currently, she is active as part of a new duo with ASU, themed around "love."
+    <br>A newly debuted virtual singer who officially launched on April 30, 2025. Her character design was also handled by Yoneyama Mai, featuring a motif of crosses and black lilies. If ASU symbolizes "light," BEMA is positioned as the embodiment of "darkness," using her clear voice to depict a dark world. Currently, she is active as part of a new duo with ASU, themed around "love."
     
-- **梓川(Azusagawa)**  
-    A virtual singer under SINSEKAI. She released her debut solo album, _Tanshi_, in June 2025 via SINSEKAI RECORD, featuring a total of 12 tracks.
+- **Azusagawa**  
+    <br>A virtual singer under SINSEKAI. She released her debut solo album, _Tanshi_, in June 2025 via SINSEKAI RECORD, featuring a total of 12 tracks.
     
-- **Sooda**  
-    A singer-songwriter, a member of the duo _Ameyadori_, and an artist under SINSEKAI CITY.
+- [**Sooda**](https://kamitsubaki.wiki/en/artists/creators/sooda/)  
+    <br>A singer-songwriter, a member of the duo _Ameyadori_, and an artist under SINSEKAI CITY.
     
-- **MIMI**  
-    A Vocaloid producer and music creator who writes and composes songs for artists under the Kamitsubaki label.
+- [**MIMI**](https://kamitsubaki.wiki/en/artists/creators/mimi/)  
+    <br>A Vocaloid producer and music creator who writes and composes songs for artists under the Kamitsubaki label.
     
-- **とあ(Toa)**  
-    A music producer and arranger.
+- [**Toa**](https://kamitsubaki.wiki/en/artists/creators/toa/)  
+    <br>A music producer and arranger.
     
-- **詩道(Shido)**  
-    A web singer and singer-songwriter under SINSEKAI RECORD, known for her guitar-based performances.
+- **Shido**  
+    <br>A web singer and singer-songwriter under SINSEKAI RECORD, known for her guitar-based performances.
     
-- **Yunosuke**  
-    A well-known EDM-style sound creator and arranger.
+- [**Yunosuke**](https://kamitsubaki.wiki/en/artists/creators/yunosuke/)  
+    <br>A well-known EDM-style sound creator and arranger.
     
-- **雨宿り(Ameyadori)**  
-    A musical duo formed in November 2022 by two SINSEKAI singer-songwriters, Mizuno Atsu and Sooda. The group's name conveys the feeling of quietly taking shelter from the hardships of daily life, aiming to offer comfort through music. Within their musical universe, there is also a girl named _Ame_, born from the duo's imagination, who serves as a gentle presence close to the listeners' hearts.
+- **Ameyadori**  
+    <br>A musical duo formed in November 2022 by two SINSEKAI singer-songwriters, Mizuno Atsu and Sooda. The group's name conveys the feeling of quietly taking shelter from the hardships of daily life, aiming to offer comfort through music. Within their musical universe, there is also a girl named _Ame_, born from the duo's imagination, who serves as a gentle presence close to the listeners' hearts.
     
-- **VALIS**  
-    A virtual idol group under SINSEKAI, consisting of Chino, Myu, Neffy, Nina, Rara, and Vitte. The group officially joined the SINSEKAI STUDIO system in November 2021 and continues to be active in music and stage performances within the SINSEKAI ecosystem.
+- [**VALIS**](https://kamitsubaki.wiki/en/artists/solo/valis/)   
+    <br>A virtual idol group under SINSEKAI, consisting of Chino, Myu, Neffy, Nina, Rara, and Vitte. The group officially joined the SINSEKAI STUDIO system in November 2021 and continues to be active in music and stage performances within the SINSEKAI ecosystem.
     
-- **Awairo**  
-    A new group announced to debut in October 2023, featuring members such as Yunosuke, Singer, and WaMi. It is a key musical act introduced during SINSEKAI's expansion phase.
+- [**Awairo**](https://kamitsubaki.wiki/en/artists/solo/awairo/)    
+    <br>A new group announced to debut in October 2023, featuring members such as Yunosuke, Singer, and WaMi. It is a key musical act introduced during SINSEKAI's expansion phase.
     
 
 **CREATOR FARM**
  
-- **Hi-Fi P**  
-    A music producer responsible for arrangement and production.
+- [**Hi-Fi P**](https://kamitsubaki.wiki/en/artists/creators/hifi-p/)  
+    <br>A music producer responsible for arrangement and production.
     
-- **tokiwa**  
-    A music producer and arranger.
+- [**tokiwa**](https://kamitsubaki.wiki/en/artists/creators/tokiwa/)  
+    <br>A music producer and arranger.
     
-- **他人事(Hitogoto)**  
-    A music producer and arranger.
+- [**他人事(Hitogoto)**](https://kamitsubaki.wiki/en/artists/creators/hitogoto/)  
+    <br>A music producer and arranger.
+
+## External Links
+
+- [**SINSEKAI RECORD Official Website**](https://kamitsubaki.jp/)<span class="wiki-spoiler" tabindex="0">(Redirect to kamitsubaki.jp, [Internet Archive](https://web.archive.org/web/20240131034942/https://sinsekaistudio.jp/))</span><br>
+- [**SINSEKAI RECORD Official YouTube Channel**](https://www.youtube.com/channel/UCTqFLDr_7lgEaZunMn8gu1Q)
+- [**SINSEKAI RECORD Official X Account**](https://x.com/sinsekai__jp)

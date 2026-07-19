@@ -67,6 +67,41 @@ test('artist display data preserves extended metadata from content files', async
   assert.equal(data.theme.palette.length > 1, true);
 });
 
+test('placeholder artist entries are visibly marked and excluded from indexing', async () => {
+  const [config, database, detail, stubEntry] = await Promise.all([
+    readSource('../src/content.config.ts'),
+    readSource('../src/components/ArtistDatabase.astro'),
+    readSource('../src/pages/[locale]/artists/[...id].astro'),
+    readSource('../src/content/artists/girls_revolution_project/orihime/zh.md'),
+  ]);
+
+  assert.match(config, /z\.enum\(\['stub', 'published'\]\)/);
+  assert.match(database, /artist\.contentStatus === 'stub'/);
+  assert.match(detail, /articleData\.contentStatus === 'stub'/);
+  assert.match(stubEntry, /contentStatus: stub/);
+});
+
+test('every artist row receives direct hover and keyboard background listeners', async () => {
+  const interactions = await readSource('../src/scripts/siteInteractions.js');
+
+  assert.match(interactions, /querySelectorAll\('\.artist-row'\)\.forEach/);
+  assert.match(interactions, /row\.addEventListener\('mouseenter'/);
+  assert.match(interactions, /row\.addEventListener\('mouseleave'/);
+  assert.match(interactions, /row\.addEventListener\('focusin'/);
+  assert.match(interactions, /data-artist-hover-ready/);
+  assert.doesNotMatch(interactions, /artistList\.addEventListener\('mouseover'/);
+});
+
+test('artist background hover does not change entry text brightness or weight', async () => {
+  const database = await readSource('../src/components/ArtistDatabase.astro');
+  const styles = await readSource('../src/styles/global.css');
+
+  assert.doesNotMatch(database, /group-hover:text-white/);
+  assert.doesNotMatch(database, /glitch-text/);
+  assert.doesNotMatch(styles, /\.artist-row:hover\s+\.glitch-text/);
+  assert.doesNotMatch(styles, /\.artist-row:hover[^}]*text-shadow/s);
+});
+
 test('table of contents tracks the active heading from scroll position', async () => {
   const toc = await readSource('../src/components/TableOfContents.astro');
 

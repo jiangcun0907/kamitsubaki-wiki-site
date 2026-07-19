@@ -35,7 +35,7 @@ theme:
       value: "#F3E8FF"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=Kashii+Moimi"
+image: "https://placehold.co/1200x800/12091a/c47aed?text=Moimi+Kashii"
 name: "香椎モイミ"
 categoryTitle: "クリエイター"
 categorySubtitle: "CREATORS / COMPOSERS"

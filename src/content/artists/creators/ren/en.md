@@ -34,7 +34,7 @@ theme:
       value: "#E8E6FF"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=REN"
+image: "https://placehold.co/1200x800/0e0e1a/7b68ee?text=Ren"
 name: "Ren"
 categoryTitle: "Creators"
 categorySubtitle: "CREATORS / COMPOSERS"

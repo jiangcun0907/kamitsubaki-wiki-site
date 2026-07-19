@@ -35,7 +35,7 @@ theme:
       value: "#E0F7FA"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=YUNOSUKE"
+image: "https://placehold.co/1200x800/0d1b2a/5ce1e6?text=Yunosuke"
 name: "Yunosuke"
 categoryTitle: "クリエイター"
 categorySubtitle: "CREATORS / COMPOSERS"

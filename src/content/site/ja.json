@@ -29,6 +29,14 @@
       "href": "#database"
     },
     {
+      "label": "RHYTHM",
+      "href": "#songs"
+    },
+    {
+      "label": "ALBUMS",
+      "href": "#albums"
+    },
+    {
       "label": "PROJECTS",
       "href": "#projects"
     },
@@ -73,13 +81,24 @@
       "subheading": "観測対象一覧",
       "expandLabel": "すべて展開"
     },
+    "songs": {
+      "heading": "02. RHYTHM",
+      "subheading": "楽曲作品",
+      "viewAllLabel": "VIEW ALL SONGS >>"
+    },
+    "albums": {
+      "heading": "03. ALBUMS",
+      "subheading": "アルバム作品",
+      "viewAllLabel": "VIEW ALL ALBUMS >>",
+      "emptyLabel": "アルバム記事を準備中です。編集への参加を歓迎します。"
+    },
     "projects": {
-      "heading": "02. PROTOCOLS",
+      "heading": "04. PROTOCOLS",
       "subheading": "派生計画・プロジェクト",
       "viewAllLabel": "VIEW ALL PROTOCOLS >>"
     },
     "log": {
-      "heading": "03. LOG",
+      "heading": "05. LOG",
       "subheading": "観測記録"
     }
   },

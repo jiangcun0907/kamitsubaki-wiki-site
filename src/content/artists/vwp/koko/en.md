@@ -46,7 +46,7 @@ theme:
       value: "#F2F0FF"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=KOKO"
+image: "https://placehold.co/1200x800/0b0b12/8a5cff?text=KOKO"
 name: "KOKO"
 categoryTitle: "Witches of the Virtual Generation"
 categorySubtitle: "VIRTUAL WITCH PHENOMENON"

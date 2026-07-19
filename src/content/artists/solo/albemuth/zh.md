@@ -7,7 +7,7 @@ categoryOrder: 2
 itemOrder: 2
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=ALBEMUTH"
+image: "https://placehold.co/1200x800/0a0a12/a0a0b0?text=ALBEMUTH"
 name: "Albemuth"
 categoryTitle: "Solo / 组合"
 categorySubtitle: "SOLO ARTISTS & UNITS"

@@ -33,7 +33,7 @@ theme:
       value: "#E0ECF8"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=KAWASAKI"
+image: "https://placehold.co/1200x800/0f1520/4a90d9?text=Kawasaki"
 name: "Kawasaki"
 categoryTitle: "创作者"
 categorySubtitle: "CREATORS / VIDEO DIRECTORS"

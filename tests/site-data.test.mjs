@@ -3,7 +3,7 @@ import { readFile } from 'node:fs/promises';
 import test from 'node:test';
 import yaml from 'yaml';
 
-import { buildArtistCategories, buildDatabaseJumpLinks, buildLogCards, buildProjectCards, sortByOrder } from '../src/lib/homeData.mjs';
+import { buildArtistCategories, buildDatabaseJumpLinks, buildLogCards, buildProjectCards } from '../src/lib/homeData.mjs';
 
 const artistFolders = new Map([
   ['kaf', 'vwp'],
@@ -22,7 +22,7 @@ const artistFolders = new Map([
 
 const projectFolders = new Map([
   ['kamitsubaki-city', 'arg'],
-  ['sinsaekai-studio', 'labels'],
+  ['sinsekai-studio', 'labels'],
   ['witch-exhibition', 'exhibitions'],
 ]);
 
@@ -36,12 +36,12 @@ async function readMd(path) {
   return yaml.parse(match[1]);
 }
 
-test('nav items point to the four primary page sections', async () => {
+test('nav items point to the primary page sections in display order', async () => {
   const { navItems } = await readJson('../src/content/site/zh.json');
 
   assert.deepEqual(
     navItems.map((item) => item.href),
-    ['#about', '#database', '#projects', '#log'],
+    ['#about', '#database', '#songs', '#albums', '#projects', '#log'],
   );
 });
 
@@ -84,7 +84,7 @@ test('artist database keeps the original four categories and key entities', asyn
     meta: 'DEBUT: 2018.10.18',
     statusLabel: 'STATUS',
     status: 'ACTIVE',
-    image: 'https://placehold.co/1200x800/111/333?text=KAF',
+    image: 'https://placehold.co/1200x800/111321/f29ac2?text=KAF',
   });
 });
 
@@ -199,15 +199,16 @@ test('artist database creates readable fallback labels from folder names', () =>
 });
 
 test('projects and log entries preserve the static page content', async () => {
-  const projectFiles = ['kamitsubaki-city', 'sinsaekai-studio', 'witch-exhibition'];
-  const projects = sortByOrder(
+  const projectFiles = ['kamitsubaki-city', 'sinsekai-studio', 'witch-exhibition'];
+  const projects = buildProjectCards(
     await Promise.all(
       projectFiles.map(async (id) => ({
         id: `${projectFolders.get(id)}/${id}/zh`,
         data: await readMd(`../src/content/projects/${projectFolders.get(id)}/${id}/zh.md`),
       })),
     ),
-  ).map((entry) => entry.data);
+    'zh',
+  );
   const logFiles = ['2024-06-01-vwp-live', '2024-05-15-city-timeline', '2024-04-30-rim-album'];
   const logEntries = buildLogCards(
     await Promise.all(
@@ -219,10 +220,41 @@ test('projects and log entries preserve the static page content', async () => {
     'zh',
   );
 
-  assert.equal(projects.length, 3);
-  assert.equal(projects[0].title, '神椿市建设中。');
-  assert.equal(projects[1].title, 'SINSAEKAI STUDIO');
-  assert.equal(projects[2].title, '魔女展');
+  assert.deepEqual(
+    projects.map(({ id, href, kind, categorySlug, categoryTitle }) => ({
+      id,
+      href,
+      kind,
+      categorySlug,
+      categoryTitle,
+    })),
+    [
+      {
+        id: 'arg/kamitsubaki-city',
+        href: '/zh/projects/arg/kamitsubaki-city',
+        kind: 'PROJECT_ARG',
+        categorySlug: 'arg',
+        categoryTitle: 'ARG',
+      },
+      {
+        id: 'labels/sinsekai-studio',
+        href: '/zh/projects/labels/sinsekai-studio',
+        kind: 'PROJECT_LABEL',
+        categorySlug: 'labels',
+        categoryTitle: 'Labels',
+      },
+      {
+        id: 'exhibitions/witch-exhibition',
+        href: '/zh/projects/exhibitions/witch-exhibition',
+        kind: 'PROJECT_EXHIBITION',
+        categorySlug: 'exhibitions',
+        categoryTitle: 'Exhibitions',
+      },
+    ],
+  );
+  assert.equal(projects[1].title, 'SINSEKAI RECORD');
+  assert.equal(projects.every((project) => typeof project.title === 'string' && project.title.length > 0), true);
+  assert.equal(projects.every((project) => typeof project.description === 'string'), true);
 
   assert.deepEqual(
     logEntries.map((entry) => entry.date),

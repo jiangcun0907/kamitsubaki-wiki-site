@@ -36,7 +36,7 @@ theme:
       value: "#FCE4EF"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=MIMI"
+image: "https://placehold.co/1200x800/1a0f18/d4739a?text=MIMI"
 name: "MIMI"
 categoryTitle: "Creators"
 categorySubtitle: "CREATORS / COMPOSERS / ILLUSTRATORS"

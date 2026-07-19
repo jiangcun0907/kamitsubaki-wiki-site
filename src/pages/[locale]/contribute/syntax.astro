@@ -1,0 +1,313 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import SiteNav from '../../../components/SiteNav.astro';
+import SiteFooter from '../../../components/SiteFooter.astro';
+import TableOfContents from '../../../components/TableOfContents.astro';
+import { getLocalizedSite } from '../../../lib/homeData.mjs';
+import { buildLocaleLinks, defaultLocale, supportedLocales } from '../../../lib/i18n.mjs';
+
+export async function getStaticPaths() {
+  return supportedLocales.map((locale) => ({
+    params: { locale },
+  }));
+}
+
+const { locale } = Astro.params;
+const localeCode = locale as 'zh' | 'ja' | 'en';
+
+const siteEntries = await getCollection('site');
+const guideEntries = await getCollection('syntaxGuide');
+const homeContent = getLocalizedSite(siteEntries, localeCode, defaultLocale);
+
+const entry =
+  guideEntries.find((item) => item.data.locale === localeCode) ??
+  guideEntries.find((item) => item.data.locale === defaultLocale);
+
+if (!entry) {
+  throw new Error(`Missing syntax guide for locale: ${localeCode}`);
+}
+
+const { Content, headings } = await render(entry);
+const hasArticleBody = Boolean(entry.body?.trim());
+const hasTableOfContents = headings.some(
+  (heading) => heading.depth === 2 || heading.depth === 3,
+);
+
+const currentPath = '/contribute/syntax';
+const localeLinks = buildLocaleLinks(homeContent, localeCode, currentPath);
+const alternates = supportedLocales.map((code) => ({
+  locale: code,
+  href: `/${code}${currentPath}`,
+}));
+
+const contentSourcePath = `src/content/contribute/syntax-guide/${localeCode}.md`;
+const sourceHref = `/${localeCode}/contribute/edit?target=${encodeURIComponent(contentSourcePath)}`;
+
+const labels = {
+  zh: {
+    back: '返回贡献学习中心',
+    eyebrow: '站点指南',
+    contents: '目录',
+    category: '分类',
+    categoryValue: '语法与属性',
+    language: '语言',
+    entryId: '条目标识',
+    translationKey: '翻译键',
+    status: '状态',
+    statusValue: '持续维护',
+    source: '编辑源文件',
+    infobox: '指南信息',
+    emptyTitle: '指南内容正在整理',
+    emptyBody: '该语言版本已经建立入口，但正文内容仍待补充。',
+    emptyAction: '补充这份指南',
+    descriptionFallback: '本站使用的 Markdown 语法及词条属性填写指南。',
+  },
+  ja: {
+    back: '学習センターへ戻る',
+    eyebrow: 'サイトガイド',
+    contents: '目次',
+    category: '分類',
+    categoryValue: '構文と属性',
+    language: '言語',
+    entryId: '記事 ID',
+    translationKey: '翻訳キー',
+    status: '状態',
+    statusValue: '継続更新中',
+    source: 'ソースを編集',
+    infobox: 'ガイド情報',
+    emptyTitle: 'ガイドを整理中です',
+    emptyBody: 'この言語版の入口は用意されていますが、本文はまだ補完中です。',
+    emptyAction: 'このガイドを補完する',
+    descriptionFallback: '本サイトで使用する Markdown 構文と記事属性の記入ガイドです。',
+  },
+  en: {
+    back: 'Back to contribution learning center',
+    eyebrow: 'Site Guide',
+    contents: 'Contents',
+    category: 'Category',
+    categoryValue: 'Syntax and Properties',
+    language: 'Language',
+    entryId: 'Entry ID',
+    translationKey: 'Translation key',
+    status: 'Status',
+    statusValue: 'Maintained',
+    source: 'Edit source',
+    infobox: 'Guide information',
+    emptyTitle: 'Guide in progress',
+    emptyBody: 'This language entry exists, but its article body is still being completed.',
+    emptyAction: 'Contribute to this guide',
+    descriptionFallback: 'A guide to the Markdown syntax and entry properties used on this site.',
+  },
+}[localeCode];
+
+const pageDescription = entry.data.description ?? labels.descriptionFallback;
+const pageTitle = `${entry.data.seo?.title ?? entry.data.title} - Kamitsubaki Studio Fan Wiki`;
+
+const metadata = {
+  title: pageTitle,
+  description: entry.data.seo?.description ?? pageDescription,
+  image: entry.data.seo?.image,
+  canonicalPath: `/${localeCode}${currentPath}`,
+  type: 'article' as const,
+  keywords: entry.data.seo?.keywords,
+  noindex: entry.data.seo?.noindex ?? false,
+};
+---
+
+<BaseLayout
+  lang={localeCode}
+  alternates={alternates}
+  title={pageTitle}
+  metadata={metadata}
+>
+  <SiteNav
+    navItems={homeContent.navItems}
+    localeLinks={localeLinks}
+    brandLines={homeContent.hero.brandLines}
+    compact
+    homeHref={`/${localeCode}/`}
+  />
+
+  <div
+    class="fixed left-0 top-0 z-[60] h-px w-full origin-left bg-white/70"
+    data-reading-progress
+  ></div>
+
+  <main class="mx-auto max-w-[92rem] px-4 pb-12 pt-24 sm:px-6 sm:pt-28 lg:pt-28">
+    <header class="wiki-entry-hero grid gap-8 border-b border-white/10 pb-8 sm:gap-10 sm:pb-10 lg:grid-cols-[minmax(0,1fr)_22rem] reveal-up">
+      <div class="min-w-0">
+        <a
+          href={`/${localeCode}/contribute/edit#syntax-reference`}
+          class="text-[9px] font-mono uppercase tracking-[0.22em] text-white/38 transition-colors hover:text-white"
+        >
+          {labels.back}
+        </a>
+
+        <p class="mt-5 text-[9px] font-mono uppercase tracking-[0.24em] text-white/32">
+          {labels.eyebrow}
+        </p>
+
+        <h1 class="wiki-page-title mt-3 max-w-4xl font-serif text-[2rem] font-semibold leading-tight tracking-[0.06em] text-white sm:text-5xl">
+          {entry.data.title}
+        </h1>
+
+        <div class="mt-4 flex flex-wrap items-center gap-x-4 gap-y-2 text-[10px] tracking-[0.14em] text-white/42 sm:text-[11px]">
+          <span>{labels.category}: {labels.categoryValue}</span>
+          <span class="hidden h-px w-8 bg-white/15 sm:block"></span>
+          <span>{labels.language}: {localeCode.toUpperCase()}</span>
+        </div>
+
+        <p class="mt-6 max-w-3xl text-sm leading-7 text-white/62 sm:text-[15px] sm:leading-8">
+          {pageDescription}
+        </p>
+      </div>
+
+      <aside class="wiki-side-card wiki-entry-meta-card rounded-md border border-white/10 bg-white/[0.03] p-5 sm:p-6">
+        <p class="text-[9px] font-mono uppercase tracking-[0.2em] text-white/35">
+          {labels.language}
+        </p>
+
+        <div class="mt-4 flex flex-wrap gap-2">
+          {localeLinks.map((item: { href: string; current: boolean; label: string; shortLabel: string }) => (
+            <a
+              href={item.href}
+              aria-current={item.current ? 'page' : undefined}
+              title={item.label}
+              class:list={[
+                'inline-flex min-h-9 min-w-9 items-center justify-center border px-3 font-mono text-[9px] uppercase tracking-[0.16em] transition-colors',
+                item.current
+                  ? 'border-cyan-100/45 bg-cyan-100/[0.06] text-cyan-50'
+                  : 'border-white/10 text-white/42 hover:border-white/30 hover:text-white',
+              ]}
+            >
+              {item.shortLabel}
+            </a>
+          ))}
+        </div>
+
+        <p class="mt-6 text-[9px] font-mono uppercase tracking-[0.2em] text-white/32">
+          {labels.entryId}
+        </p>
+        <p class="mt-2 break-all text-[11px] leading-6 text-white/48">
+          syntax-guide/{localeCode}
+        </p>
+
+        <a
+          href={sourceHref}
+          class="wiki-empty-state__action mt-6 inline-flex"
+        >
+          {labels.source}
+        </a>
+      </aside>
+    </header>
+
+    <div class="mt-8 grid items-start gap-8 lg:mt-10 lg:grid-cols-12">
+      {hasTableOfContents && (
+        <aside class="hidden lg:col-span-2 lg:block lg:sticky lg:top-32">
+          <TableOfContents headings={headings} title={labels.contents} />
+        </aside>
+      )}
+
+      {hasArticleBody ? (
+        <article class:list={[
+          'wiki-reader wiki-prose prose prose-invert min-w-0 max-w-none reveal-up',
+          hasTableOfContents ? 'lg:col-span-7' : 'lg:col-span-9',
+        ]}>
+          {hasTableOfContents && (
+            <details class="wiki-mobile-toc mb-8 rounded-lg border border-white/10 bg-white/[0.03] p-4 lg:hidden">
+              <summary class="cursor-pointer text-[11px] font-mono uppercase tracking-[0.24em] text-white/65">
+                {labels.contents}
+              </summary>
+              <div class="mt-4 border-t border-white/10 pt-4">
+                <TableOfContents headings={headings} title={labels.contents} />
+              </div>
+            </details>
+          )}
+
+          <Content />
+        </article>
+      ) : (
+        <section class:list={[
+          'wiki-empty-state w-full reveal-up',
+          hasTableOfContents ? 'lg:col-span-7' : 'lg:col-span-9',
+        ]} aria-labelledby="syntax-empty-title">
+          <p class="text-[9px] font-mono uppercase tracking-[0.24em] text-white/36">
+            SYNTAX GUIDE
+          </p>
+          <h2
+            id="syntax-empty-title"
+            class="mt-4 font-serif text-2xl text-white/88 sm:text-3xl"
+          >
+            {labels.emptyTitle}
+          </h2>
+          <p class="mt-4 max-w-xl text-sm leading-7 text-white/62 sm:text-[15px] sm:leading-8">
+            {labels.emptyBody}
+          </p>
+          <a href={sourceHref} class="wiki-empty-state__action mt-7">
+            {labels.emptyAction}
+          </a>
+        </section>
+      )}
+
+      <aside class="w-full max-w-sm lg:col-span-3 lg:sticky lg:top-32 lg:max-w-none reveal-up">
+        <section class="wiki-side-card wiki-entry-meta-card rounded-md border border-white/10 bg-white/[0.03] p-5 sm:p-6">
+          <p class="text-[9px] font-mono uppercase tracking-[0.2em] text-white/35">
+            {labels.infobox}
+          </p>
+
+          <h2 class="mt-3 font-serif text-xl tracking-[0.04em] text-white/88">
+            {entry.data.title}
+          </h2>
+
+          <dl class="mt-6 divide-y divide-white/10">
+            <div class="py-4 first:pt-0">
+              <dt class="font-mono text-[9px] uppercase tracking-[0.18em] text-white/30">
+                {labels.category}
+              </dt>
+              <dd class="mt-2 text-sm leading-6 text-white/68">
+                {labels.categoryValue}
+              </dd>
+            </div>
+
+            <div class="py-4">
+              <dt class="font-mono text-[9px] uppercase tracking-[0.18em] text-white/30">
+                {labels.translationKey}
+              </dt>
+              <dd class="mt-2 break-all font-mono text-[11px] leading-6 text-cyan-100/72">
+                {entry.data.translationKey}
+              </dd>
+            </div>
+
+            <div class="py-4">
+              <dt class="font-mono text-[9px] uppercase tracking-[0.18em] text-white/30">
+                {labels.language}
+              </dt>
+              <dd class="mt-2 text-sm leading-6 text-white/68">
+                {localeCode.toUpperCase()}
+              </dd>
+            </div>
+
+            <div class="py-4 last:pb-0">
+              <dt class="font-mono text-[9px] uppercase tracking-[0.18em] text-white/30">
+                {labels.status}
+              </dt>
+              <dd class="mt-2 text-sm leading-6 text-white/68">
+                {labels.statusValue}
+              </dd>
+            </div>
+          </dl>
+
+          <a
+            href={sourceHref}
+            class="wiki-empty-state__action mt-6 inline-flex"
+          >
+            {labels.source}
+          </a>
+        </section>
+      </aside>
+    </div>
+  </main>
+
+  <SiteFooter footer={homeContent.footer} />
+</BaseLayout>

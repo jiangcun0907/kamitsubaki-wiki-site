@@ -53,7 +53,7 @@ theme:
       value: "#F0F4F8"
 statusLabel: "TYPE"
 status: "CeVIO AI"
-image: "https://placehold.co/1200x800/111/333?text=COKO"
+image: "https://placehold.co/1200x800/0a1120/4299e1?text=COKO"
 name: "COKO"
 categoryTitle: "Musical Isotopes"
 categorySubtitle: "MUSICAL ISOTOPE"

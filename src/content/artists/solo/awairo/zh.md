@@ -33,7 +33,7 @@ theme:
       value: "#E6F3FA"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=Awairo"
+image: "https://placehold.co/1200x800/0f1923/a8d8ea?text=Awairo"
 name: "淡色 / Awairo"
 categoryTitle: "Solo / 组合"
 categorySubtitle: "SOLO ARTISTS & UNITS"

@@ -8,7 +8,7 @@ itemOrder: 6
 meta: "ROLE: SINGER-SONGWRITER"
 statusLabel: "ステータス"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=SOODA"
+image: "https://placehold.co/1200x800/0a0a12/a0a0b0?text=Sooda"
 name: "Sooda"
 ---
 

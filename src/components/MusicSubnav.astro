@@ -1,0 +1,38 @@
+---
+const { locale, current } = Astro.props as {
+  locale: 'zh' | 'ja' | 'en';
+  current: 'songs' | 'albums';
+};
+
+const copy = {
+  zh: { label: '音乐作品分类', songs: '单曲', albums: '专辑' },
+  ja: { label: '音楽作品カテゴリー', songs: '楽曲', albums: 'アルバム' },
+  en: { label: 'Music categories', songs: 'Songs', albums: 'Albums' },
+}[locale];
+---
+
+<nav aria-label={copy.label} class="music-subnav border-y border-white/10 bg-white/[0.02]">
+  <div class="flex flex-wrap items-center gap-1 p-1.5">
+    <a
+      href={`/${locale}/songs`}
+      aria-current={current === 'songs' ? 'page' : undefined}
+      class:list={[
+        'rounded-full px-5 py-2 font-mono text-[10px] uppercase tracking-[0.18em] transition-colors',
+        current === 'songs' ? 'bg-white text-black' : 'text-white/45 hover:bg-white/10 hover:text-white',
+      ]}
+    >
+      {copy.songs}
+    </a>
+    <a
+      href={`/${locale}/albums`}
+      aria-current={current === 'albums' ? 'page' : undefined}
+      class:list={[
+        'rounded-full px-5 py-2 font-mono text-[10px] uppercase tracking-[0.18em] transition-colors',
+        current === 'albums' ? 'bg-white text-black' : 'text-white/45 hover:bg-white/10 hover:text-white',
+      ]}
+    >
+      {copy.albums}
+    </a>
+  </div>
+
+</nav>

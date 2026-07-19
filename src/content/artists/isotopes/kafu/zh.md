@@ -53,7 +53,7 @@ theme:
       value: "#FFF6FA"
 statusLabel: "TYPE"
 status: "CeVIO AI"
-image: "https://placehold.co/1200x800/111/333?text=KAFU"
+image: "https://placehold.co/1200x800/111321/f29ac2?text=KAFU"
 name: "可不"
 categoryTitle: "音乐同位体"
 categorySubtitle: "MUSICAL ISOTOPE"

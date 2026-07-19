@@ -47,7 +47,7 @@ theme:
       value: "#0F0D0E"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=HARUSARUHI"
+image: "https://placehold.co/1200x800/0f0d0e/ffd400?text=HARUSARUHI"
 name: "春猿火"
 categoryTitle: "仮想世代の魔女達"
 categorySubtitle: "VIRTUAL WITCH PHENOMENON"

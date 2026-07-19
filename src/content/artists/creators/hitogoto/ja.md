@@ -35,7 +35,7 @@ theme:
       value: "#F0E6F6"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=HITOGOTO"
+image: "https://placehold.co/1200x800/1a0e22/9b59b6?text=HITOGOTO"
 name: "ヒトゴト"
 categoryTitle: "クリエイター"
 categorySubtitle: "CREATORS / COMPOSERS / ILLUSTRATORS"

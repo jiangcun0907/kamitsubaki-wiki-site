@@ -134,6 +134,10 @@ export function buildArtistCategories(artistEntries) {
       item.inactive = artist.inactive;
     }
 
+    if (artist.contentStatus !== undefined) {
+      item.contentStatus = artist.contentStatus;
+    }
+
     category.items.push(item);
   }
 

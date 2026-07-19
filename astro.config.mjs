@@ -9,6 +9,7 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   markdown: {
+    syntaxHighlight: false,
     processor: unified(siteMarkdownOptions),
   },
 });

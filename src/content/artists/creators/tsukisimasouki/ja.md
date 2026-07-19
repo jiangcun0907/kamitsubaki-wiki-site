@@ -31,7 +31,7 @@ theme:
       value: "#EDE8FF"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=TSUKISHIMA+SOUKI"
+image: "https://placehold.co/1200x800/12101e/8b5cf6?text=Tsukishima+Souki"
 name: "Tsukishima Souki"
 categoryTitle: "クリエイター"
 categorySubtitle: "CREATORS / WRITERS"

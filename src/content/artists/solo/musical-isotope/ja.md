@@ -34,7 +34,7 @@ theme:
       value: "#ECE4FF"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=Musical+Isotope"
+image: "https://placehold.co/1200x800/12101a/b48eff?text=Musical+Isotope"
 name: "音楽的同位体"
 categoryTitle: "ソロ / ユニット"
 categorySubtitle: "SOLO ARTISTS & UNITS"

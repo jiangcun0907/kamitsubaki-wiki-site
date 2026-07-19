@@ -46,7 +46,7 @@ theme:
       value: "#DFF0FF"
 statusLabel: "STATUS"
 status: "ACTIVE"
-image: "https://placehold.co/1200x800/111/333?text=ANMC"
+image: "https://placehold.co/1200x800/0e1a24/7ecbf0?text=ANMC"
 name: "ANMC"
 categoryTitle: "ソロ / ユニット"
 categorySubtitle: "SOLO ARTISTS & UNITS"

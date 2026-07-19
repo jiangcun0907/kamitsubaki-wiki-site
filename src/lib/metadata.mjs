@@ -60,7 +60,7 @@ export function scanMarkdownDescription(markdown, fallback = defaultSiteDescript
 
 export function buildArticleDescription(data, body) {
   const fallback = compactText(
-    [data.name, data.romanizedName, data.categoryTitle, data.categorySubtitle, data.status]
+    [data.title || data.name, data.subtitle || data.romanizedName, data.description, data.categoryTitle, data.categorySubtitle, data.status]
       .filter(Boolean)
       .join(' / '),
   );
@@ -68,17 +68,18 @@ export function buildArticleDescription(data, body) {
   return scanMarkdownDescription(body, fallback || defaultSiteDescription);
 }
 
-export function buildArticleMetadata({ data, body = '', locale, id }) {
+export function buildArticleMetadata({ data, body = '', locale, id, collection = 'artists' }) {
   const seo = data.seo || {};
+  const articleTitle = data.title || data.name;
 
   return {
-    title: seo.title || `${data.name} - ${siteName}`,
+    title: seo.title || `${articleTitle} - ${siteName}`,
     description: seo.description || buildArticleDescription(data, body),
     image: seo.image || data.image,
-    canonicalPath: `/${locale}/artists/${id}`,
+    canonicalPath: `/${locale}/${collection}/${id}`,
     type: 'article',
     keywords: seo.keywords,
-    noindex: seo.noindex,
+    noindex: seo.noindex ?? data.contentStatus === 'stub',
   };
 }
 

@@ -53,7 +53,7 @@ theme:
       value: "#FFF5F5"
 statusLabel: "TYPE"
 status: "CeVIO AI"
-image: "https://placehold.co/1200x800/111/333?text=RIME"
+image: "https://placehold.co/1200x800/1a0f0f/e51500?text=RIME"
 name: "RIME"
 categoryTitle: "Musical Isotopes"
 categorySubtitle: "MUSICAL ISOTOPE"

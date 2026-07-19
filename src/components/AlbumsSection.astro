@@ -1,0 +1,93 @@
+---
+type Album = {
+  id: string;
+  data: {
+    title: string;
+    artist: string;
+    type?: string;
+    releaseDate?: string;
+    code?: string;
+  };
+};
+
+const { albums, section, locale } = Astro.props as {
+  albums: Album[];
+  section: {
+    heading: string;
+    subheading: string;
+    viewAllLabel?: string;
+    emptyLabel?: string;
+  };
+  locale: string;
+};
+---
+
+<section id="albums" class="relative mx-auto max-w-7xl px-5 py-20 ui-crosshair bl br tl tr sm:px-6 sm:py-32">
+  <div class="relative z-10 grid grid-cols-1 gap-9 sm:gap-12 lg:grid-cols-12 lg:gap-24">
+    <div class="lg:col-span-3">
+      <div class="sticky top-32 reveal-up">
+        <h3 class="mb-2 text-[10px] font-light tracking-kamidest-lg text-white">{section.heading}</h3>
+        <p class="mb-12 font-serif text-[10px] tracking-widest text-white/50">{section.subheading}</p>
+
+        {section.viewAllLabel && (
+          <a
+            href={`/${locale}/albums`}
+            class="group inline-flex items-center gap-3 text-[10px] tracking-widest text-white/40 transition-colors duration-300 hover:text-white"
+          >
+            <span class="border-b border-white/20 pb-1 transition-colors group-hover:border-white/60">
+              {section.viewAllLabel}
+            </span>
+            <svg class="h-3 w-3 transition-transform group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+            </svg>
+          </a>
+        )}
+      </div>
+    </div>
+
+    <div class="flex flex-col pb-20 lg:col-span-9">
+      <div class="mb-4 hidden items-end justify-between border-b border-white/20 pb-4 md:flex reveal-up">
+        <span class="w-12 font-mono text-[9px] text-white/40">CODE</span>
+        <span class="flex-1 pl-4 font-mono text-[9px] text-white/40">TITLE & ARTIST</span>
+        <span class="w-32 text-right font-mono text-[9px] text-white/40">RELEASE</span>
+      </div>
+
+      {albums.length > 0 ? (
+        <div id="albums-list">
+          {albums.map((album, index) => {
+            const albumPath = album.id.split('/').slice(0, -1).join('/');
+            return (
+              <a href={`/${locale}/albums/${albumPath}`} class="group block list-row py-6 reveal-up">
+                <div class="flex flex-col justify-between gap-4 px-4 md:flex-row md:items-center">
+                  <div class="flex flex-1 items-center gap-6">
+                    <span class="w-8 font-mono text-[9px] text-white/20 md:w-12">
+                      {album.data.code || String(index + 1).padStart(3, '0')}
+                    </span>
+                    <div>
+                      <h4 class="font-serif text-lg tracking-wide text-white/80 transition-colors duration-300 group-hover:text-white md:text-xl">
+                        {album.data.title}
+                      </h4>
+                      <span class="mt-1 block text-[10px] font-light tracking-wider text-white/40 transition-colors group-hover:text-white/60">
+                        {album.data.artist}{album.data.type && ` · ${album.data.type}`}
+                      </span>
+                    </div>
+                  </div>
+                  <div class="flex items-center gap-4 font-mono text-[9px] text-white/30 md:gap-8 md:text-right">
+                    {album.data.releaseDate && <span class="w-20 text-left md:text-right">{album.data.releaseDate}</span>}
+                    <svg class="h-4 w-4 -translate-x-4 text-white opacity-0 transition-all duration-300 group-hover:translate-x-0 group-hover:opacity-100" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 5l7 7-7 7" />
+                    </svg>
+                  </div>
+                </div>
+              </a>
+            );
+          })}
+        </div>
+      ) : (
+        <p class="border-y border-white/10 px-4 py-10 font-mono text-[10px] tracking-[0.18em] text-white/35 reveal-up">
+          {section.emptyLabel ?? 'Album entries are being prepared.'}
+        </p>
+      )}
+    </div>
+  </div>
+</section>

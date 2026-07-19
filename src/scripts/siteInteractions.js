@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
       {
         root: null,
         rootMargin: '0px 0px -10% 0px',
-        threshold: 0.06,
+        threshold: 0.01,
       },
     );
 
@@ -88,32 +88,32 @@ document.addEventListener('DOMContentLoaded', () => {
     cursor.style.display = 'none';
   }
 
-  const artistRows = document.querySelectorAll('.artist-row');
   const bgContainer = document.getElementById('artist-bg-container');
   const bgImg = document.getElementById('artist-bg-img');
+  const artistList = document.getElementById('artist-list');
 
-  artistRows.forEach((row) => {
-    row.addEventListener('mouseenter', () => {
-      if (!(bgContainer instanceof HTMLElement) || !(bgImg instanceof HTMLImageElement)) {
-        return;
-      }
-
+  if (bgContainer instanceof HTMLElement && bgImg instanceof HTMLImageElement) {
+    const showArtistBackground = (row) => {
       bgImg.src = row.getAttribute('data-img') ?? '';
       bgContainer.style.opacity = '1';
-      setTimeout(() => {
+      window.setTimeout(() => {
         bgImg.style.transform = 'scale(1)';
       }, 50);
-    });
+    };
 
-    row.addEventListener('mouseleave', () => {
-      if (!(bgContainer instanceof HTMLElement) || !(bgImg instanceof HTMLImageElement)) {
-        return;
-      }
-
+    const hideArtistBackground = () => {
       bgContainer.style.opacity = '0';
       bgImg.style.transform = 'scale(0.95)';
+    };
+
+    document.querySelectorAll('.artist-row').forEach((row) => {
+      row.addEventListener('mouseenter', () => showArtistBackground(row));
+      row.addEventListener('mouseleave', hideArtistBackground);
+      row.addEventListener('focusin', () => showArtistBackground(row));
+      row.addEventListener('focusout', hideArtistBackground);
+      row.setAttribute('data-artist-hover-ready', 'true');
     });
-  });
+  }
 
   const heroParallaxElements = document.querySelectorAll('[data-hero-parallax]');
 
@@ -160,7 +160,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Preload artist hover images in the background on idle to prevent latency/flash
   const preloadArtistImages = () => {
-    artistRows.forEach((row) => {
+    const rowsToPreload = document.querySelectorAll('.artist-row');
+    rowsToPreload.forEach((row) => {
       const imgUrl = row.getAttribute('data-img');
       if (imgUrl) {
         const img = new Image();
@@ -175,8 +176,49 @@ document.addEventListener('DOMContentLoaded', () => {
     window.setTimeout(preloadArtistImages, 1500);
   }
 
+  document.addEventListener('click', (event) => {
+    const button = event.target instanceof Element && event.target.closest('[data-lyric-action]');
+    if (!(button instanceof HTMLButtonElement)) return;
+
+    const controls = button.closest('.my-lyric-controls');
+    const lyricBox = controls?.nextElementSibling;
+    if (!(lyricBox instanceof HTMLElement) || !lyricBox.classList.contains('my-lyric-box')) return;
+
+    const action = button.dataset.lyricAction;
+    let active = false;
+
+    if (action === 'ruby') active = lyricBox.classList.toggle('hide-ruby');
+    else if (action === 'translation') active = lyricBox.classList.toggle('hide-translation');
+    else if (action === 'phonetic') active = lyricBox.classList.toggle('show-romaji');
+    else return;
+
+    button.setAttribute('aria-pressed', String(active));
+    if (action === 'phonetic') {
+      button.textContent = active ? button.dataset.alternateLabel || '' : button.dataset.primaryLabel || '';
+    } else {
+      button.textContent = active ? button.dataset.showLabel || '' : button.dataset.hideLabel || '';
+    }
+  });
+
+  const toggleSpoiler = (spoiler) => {
+    const revealed = spoiler.classList.toggle('is-revealed');
+    spoiler.setAttribute('aria-expanded', String(revealed));
+  };
+
+  document.addEventListener('click', (event) => {
+    const spoiler = event.target instanceof Element && event.target.closest('.wiki-spoiler');
+    if (spoiler instanceof HTMLElement) toggleSpoiler(spoiler);
+  });
+
+  document.addEventListener('keydown', (event) => {
+    if (event.key !== 'Enter' && event.key !== ' ') return;
+    const spoiler = event.target instanceof Element && event.target.closest('.wiki-spoiler');
+    if (!(spoiler instanceof HTMLElement)) return;
+    event.preventDefault();
+    toggleSpoiler(spoiler);
+  });
+
   // ── Artist category expand/collapse ──
-  const artistList = document.getElementById('artist-list');
   if (artistList instanceof HTMLElement) {
     artistList.addEventListener('click', (event) => {
       const button = event.target instanceof Element && event.target.closest('.artist-expand-btn');
