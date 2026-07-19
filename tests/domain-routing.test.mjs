@@ -21,3 +21,14 @@ test('legacy SINSAEKAI project routes redirect to the corrected slug', async () 
     );
   }
 });
+
+test('legacy song catalog routes redirect to the folder-driven structure', async () => {
+  const redirects = await readFile(new URL('../public/_redirects', import.meta.url), 'utf8');
+
+  for (const locale of ['zh', 'ja', 'en']) {
+    assert.match(
+      redirects,
+      new RegExp(`^/${locale}/songs/kaf-originals/shi\\s+/${locale}/songs/kaf/originals/shi\\s+301$`, 'm'),
+    );
+  }
+});

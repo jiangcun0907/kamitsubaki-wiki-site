@@ -1,33 +1,43 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, type CollectionEntry } from 'astro:content';
 import MusicSubnav from '../../../../components/MusicSubnav.astro';
 import SiteFooter from '../../../../components/SiteFooter.astro';
 import SiteNav from '../../../../components/SiteNav.astro';
 import BaseLayout from '../../../../layouts/BaseLayout.astro';
 import { getLocalizedEntries, getLocalizedSite } from '../../../../lib/homeData.mjs';
 import { buildLocaleLinks, defaultLocale, supportedLocales } from '../../../../lib/i18n.mjs';
-import { groupMusicByArtist } from '../../../../lib/musicCatalog.mjs';
+import { buildArtistSongCatalog } from '../../../../lib/musicCatalog.mjs';
 
 export async function getStaticPaths() {
-  const allSongs = await getCollection('songs');
+  const [allSongs, allArtists] = await Promise.all([
+    getCollection('songs'),
+    getCollection('artists'),
+  ]);
 
   return supportedLocales.flatMap((locale) => {
     const localizedSongs = getLocalizedEntries(allSongs, locale, defaultLocale);
-    return groupMusicByArtist(localizedSongs, locale).map((group) => ({
+    const localizedArtists = getLocalizedEntries(allArtists, locale, defaultLocale);
+
+    return buildArtistSongCatalog(localizedSongs, localizedArtists, locale).map((group) => ({
       params: { locale, artist: group.slug },
-      props: { songs: group.entries, artistName: group.artist },
+      props: { group },
     }));
   });
 }
 
 const { locale, artist } = Astro.params;
-const { songs, artistName } = Astro.props;
+const { group } = Astro.props;
 const localeCode = locale as 'zh' | 'ja' | 'en';
-const sortedSongs = [...songs].sort((a, b) =>
-  (a.data.itemOrder ?? Number.POSITIVE_INFINITY) - (b.data.itemOrder ?? Number.POSITIVE_INFINITY)
-  || (a.data.releaseDate ?? '').localeCompare(b.data.releaseDate ?? '')
-  || a.data.title.localeCompare(b.data.title, localeCode),
-);
+const artistName = group.artist;
+type SongCategory = {
+  slug: string;
+  id: string;
+  title: string;
+  subtitle: string;
+  order: number;
+  entries: CollectionEntry<'songs'>[];
+};
+const categories = group.categories as SongCategory[];
 
 const siteEntries = await getCollection('site');
 const homeContent = getLocalizedSite(siteEntries, localeCode, defaultLocale);
@@ -35,44 +45,139 @@ const currentPath = `/songs/artists/${artist}`;
 const localeLinks = buildLocaleLinks(homeContent, localeCode, currentPath);
 const alternates = supportedLocales.map((code) => ({ locale: code, href: `/${code}${currentPath}` }));
 const copy = {
-  zh: { back: '全部艺人', count: '首歌曲', album: '收录专辑' },
-  ja: { back: 'すべてのアーティスト', count: '曲', album: '収録アルバム' },
-  en: { back: 'All artists', count: 'songs', album: 'Album' },
+  zh: {
+    back: '全部艺人', songs: '首歌曲', categories: '个分类', catalog: '作品分类', album: '收录专辑',
+    released: '发布于', artistEntry: '查看艺人条目', browse: '按分类浏览', uncategorized: '其他歌曲',
+  },
+  ja: {
+    back: 'すべてのアーティスト', songs: '曲', categories: 'カテゴリ', catalog: '楽曲分類', album: '収録アルバム',
+    released: 'リリース', artistEntry: 'アーティスト記事を見る', browse: 'カテゴリから探す', uncategorized: 'その他の楽曲',
+  },
+  en: {
+    back: 'All artists', songs: 'songs', categories: 'categories', catalog: 'Catalog', album: 'Album',
+    released: 'Released', artistEntry: 'View artist entry', browse: 'Browse by category', uncategorized: 'Other songs',
+  },
 }[localeCode];
+const accentColor = group.theme?.accentColor ?? '#d9dbe8';
+const pageStyle = `--catalog-accent:${accentColor};--catalog-surface:${group.theme?.surfaceColor ?? '#101117'}`;
 ---
 
 <BaseLayout lang={localeCode} alternates={alternates} title={`${artistName} - Kamitsubaki Studio Fan Wiki`}>
-  <div class="min-h-screen">
+  <div class="min-h-screen" style={pageStyle}>
     <SiteNav navItems={homeContent.navItems} localeLinks={localeLinks} brandLines={homeContent.hero.brandLines} compact homeHref={`/${localeCode}/`} />
 
     <main class="mx-auto max-w-7xl px-5 py-24 sm:px-6">
       <a href={`/${localeCode}/songs`} class="font-mono text-[9px] uppercase tracking-[0.18em] text-white/40 transition-colors hover:text-white">← {copy.back}</a>
-      <div class="mb-8 mt-7 flex flex-wrap items-end justify-between gap-4">
-        <h1 class="font-serif text-3xl uppercase tracking-widest text-white">{artistName}</h1>
-        <span class="font-mono text-[9px] uppercase tracking-[0.16em] text-white/30">{sortedSongs.length} {copy.count}</span>
-      </div>
-      <MusicSubnav locale={localeCode} current="songs" />
 
-      <div class="mt-14 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-        {sortedSongs.map((song, index) => {
-          const songPath = song.id.split('/').slice(0, -1).join('/');
-          return (
-            <a href={`/${localeCode}/songs/${songPath}`} class="group flex items-center gap-4 border border-white/10 bg-white/[0.02] p-4 transition-colors hover:border-white/30 hover:bg-white/[0.05]">
-              {song.data.image ? (
-                <img src={song.data.image} alt="" class="h-16 w-16 shrink-0 object-cover" loading="lazy" />
-              ) : (
-                <span class="grid h-16 w-16 shrink-0 place-items-center bg-white/5 font-mono text-[10px] text-white/25">{String(index + 1).padStart(2, '0')}</span>
-              )}
-              <span class="min-w-0">
-                <strong class="block truncate font-serif text-base font-normal tracking-wide text-white/85 group-hover:text-white">{song.data.title}</strong>
-                <span class="mt-1 block truncate text-[10px] tracking-wide text-white/40">{song.data.album ? `${copy.album}: ${song.data.album}` : artistName}</span>
-              </span>
+      <section class="catalog-hero mt-7 overflow-hidden border border-white/10 bg-white/[0.025]">
+        <div class="catalog-hero__media relative min-h-64 overflow-hidden bg-white/[0.03] sm:min-h-80">
+          {group.cover ? (
+            <img src={group.cover} alt={artistName} class="absolute inset-0 h-full w-full object-cover opacity-75" />
+          ) : (
+            <span class="absolute inset-0 grid place-items-center font-serif text-8xl text-white/10">{artistName.slice(0, 1)}</span>
+          )}
+          <div class="absolute inset-0 bg-gradient-to-t from-[#090a0f] via-transparent to-transparent sm:bg-gradient-to-r sm:from-transparent sm:to-[#090a0f]"></div>
+        </div>
+
+        <div class="catalog-hero__body flex flex-col justify-center p-6 sm:p-9 lg:p-12">
+          <p class="font-mono text-[9px] uppercase tracking-[0.24em] text-white/35">{copy.catalog}</p>
+          <h1 class="mt-3 font-serif text-4xl tracking-[0.08em] text-white sm:text-5xl">{artistName}</h1>
+          {group.romanizedName && group.romanizedName !== artistName && (
+            <p class="mt-2 font-mono text-[10px] uppercase tracking-[0.24em] text-white/35">{group.romanizedName}</p>
+          )}
+          {group.artistEntry?.data.profileTagline && (
+            <p class="mt-6 max-w-xl text-sm leading-7 text-white/50">{group.artistEntry.data.profileTagline}</p>
+          )}
+          <div class="mt-7 flex flex-wrap items-center gap-x-6 gap-y-3 border-t border-white/10 pt-5 font-mono text-[9px] uppercase tracking-[0.18em] text-white/40">
+            <span><strong class="mr-2 text-base font-normal text-white/80">{group.entries.length}</strong>{copy.songs}</span>
+            <span><strong class="mr-2 text-base font-normal text-white/80">{categories.length}</strong>{copy.categories}</span>
+            {group.artistPath && (
+              <a href={`/${localeCode}/artists/${group.artistPath}`} class="ml-auto text-white/45 transition-colors hover:text-white">{copy.artistEntry} →</a>
+            )}
+          </div>
+        </div>
+      </section>
+
+      <div class="mt-8"><MusicSubnav locale={localeCode} current="songs" /></div>
+
+      <nav class="category-jump mt-8 border-y border-white/10 py-4" aria-label={copy.browse}>
+        <div class="flex items-center gap-5 overflow-x-auto pb-1 sm:gap-8">
+          <span class="shrink-0 font-mono text-[9px] uppercase tracking-[0.2em] text-white/25">{copy.browse}</span>
+          {categories.map((category, index) => (
+            <a href={`#${category.id}`} class="category-jump__link shrink-0 font-mono text-[10px] uppercase tracking-[0.16em] text-white/45 transition-colors hover:text-white">
+              <span class="mr-2 text-white/20">{String(index + 1).padStart(2, '0')}</span>{category.title}
             </a>
-          );
-        })}
+          ))}
+        </div>
+      </nav>
+
+      <div class="mt-14 space-y-16 sm:space-y-20">
+        {categories.map((category, categoryIndex) => (
+          <section id={category.id} class="catalog-category scroll-mt-28">
+            <header class="mb-6 flex items-end justify-between gap-5 border-b border-white/10 pb-5">
+              <div class="flex min-w-0 items-baseline gap-4">
+                <span class="font-mono text-[10px] tracking-[0.2em] text-white/20">{String(categoryIndex + 1).padStart(2, '0')}</span>
+                <div class="min-w-0">
+                  <h2 class="font-serif text-2xl tracking-[0.08em] text-white sm:text-3xl">{category.slug === 'uncategorized' ? copy.uncategorized : category.title}</h2>
+                  <p class="mt-1 font-mono text-[8px] uppercase tracking-[0.24em] text-white/25">{category.subtitle}</p>
+                </div>
+              </div>
+              <span class="shrink-0 font-mono text-[9px] uppercase tracking-[0.16em] text-white/30">{category.entries.length} {copy.songs}</span>
+            </header>
+
+            <div class="grid gap-px bg-white/10 sm:grid-cols-2">
+              {category.entries.map((song, songIndex) => {
+                const songPath = song.id.split('/').slice(0, -1).join('/');
+                return (
+                  <a href={`/${localeCode}/songs/${songPath}`} class="song-row group relative flex min-h-28 items-center gap-4 bg-[#090a0f] p-4 transition-colors hover:bg-white/[0.045] sm:p-5">
+                    <span class="absolute left-0 top-0 h-full w-px bg-[var(--catalog-accent)] opacity-0 transition-opacity group-hover:opacity-80"></span>
+                    {song.data.image ? (
+                      <img src={song.data.image} alt="" class="h-20 w-20 shrink-0 object-cover opacity-75 transition-opacity group-hover:opacity-100" loading="lazy" />
+                    ) : (
+                      <span class="grid h-20 w-20 shrink-0 place-items-center bg-white/5 font-mono text-[10px] text-white/25">{String(songIndex + 1).padStart(2, '0')}</span>
+                    )}
+                    <span class="min-w-0 flex-1">
+                      <strong class="block truncate font-serif text-lg font-normal tracking-wide text-white/85 transition-colors group-hover:text-white">{song.data.title}</strong>
+                      <span class="mt-2 block truncate text-[10px] tracking-wide text-white/35">
+                        {song.data.album ? `${copy.album}: ${song.data.album}` : song.data.releaseDate ? `${copy.released} ${song.data.releaseDate}` : artistName}
+                      </span>
+                    </span>
+                    <span class="shrink-0 font-mono text-xs text-white/20 transition-transform group-hover:translate-x-1 group-hover:text-white/60" aria-hidden="true">→</span>
+                  </a>
+                );
+              })}
+            </div>
+          </section>
+        ))}
       </div>
     </main>
 
     <SiteFooter footer={homeContent.footer} />
   </div>
 </BaseLayout>
+
+<style>
+  .catalog-hero {
+    display: grid;
+    background: color-mix(in srgb, var(--catalog-surface) 68%, #090a0f);
+  }
+
+  .category-jump__link:focus-visible,
+  .song-row:focus-visible {
+    outline: 1px solid color-mix(in srgb, var(--catalog-accent) 72%, white);
+    outline-offset: 3px;
+  }
+
+  @media (min-width: 640px) {
+    .catalog-hero {
+      grid-template-columns: minmax(0, 0.92fr) minmax(0, 1.08fr);
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .song-row span,
+    .song-row img {
+      transition: none;
+    }
+  }
+</style>

@@ -6,7 +6,7 @@ import MusicSubnav from '../../../components/MusicSubnav.astro';
 import { getCollection } from 'astro:content';
 import { getLocalizedSite, getLocalizedEntries } from '../../../lib/homeData.mjs';
 import { buildLocaleLinks, defaultLocale, supportedLocales } from '../../../lib/i18n.mjs';
-import { groupMusicByArtist } from '../../../lib/musicCatalog.mjs';
+import { buildArtistSongCatalog } from '../../../lib/musicCatalog.mjs';
 
 export function getStaticPaths() {
   return supportedLocales.map((locale) => ({ params: { locale } }));
@@ -18,6 +18,7 @@ const localeCode = locale as 'zh' | 'ja' | 'en';
 const siteEntries = await getCollection('site');
 const homeContent = getLocalizedSite(siteEntries, localeCode, defaultLocale);
 const songEntries = getLocalizedEntries(await getCollection('songs'), localeCode, defaultLocale);
+const artistEntries = getLocalizedEntries(await getCollection('artists'), localeCode, defaultLocale);
 
 const localeLinks = buildLocaleLinks(homeContent, localeCode, `/songs`);
 const alternates = supportedLocales.map((code) => ({ locale: code, href: `/${code}/songs` }));
@@ -27,17 +28,11 @@ const sortedSongs = [...songEntries].sort((a, b) =>
   || (a.data.itemOrder ?? Number.POSITIVE_INFINITY) - (b.data.itemOrder ?? Number.POSITIVE_INFINITY)
   || a.data.title.localeCompare(b.data.title, localeCode),
 );
-type SongEntry = (typeof sortedSongs)[number];
-const artistGroups = groupMusicByArtist(sortedSongs, localeCode) as Array<{
-  artist: string;
-  slug: string;
-  id: string;
-  entries: SongEntry[];
-}>;
+const artistGroups = buildArtistSongCatalog(sortedSongs, artistEntries, localeCode);
 const copy = {
-  zh: { title: '音乐作品', count: '首作品', view: '查看全部歌曲' },
-  ja: { title: '楽曲作品', count: '曲', view: 'すべての楽曲を見る' },
-  en: { title: 'Songs', count: 'tracks', view: 'View all songs' },
+  zh: { title: '音乐作品', intro: '选择艺人，按作品类型浏览歌曲。', count: '首作品', categories: '个分类', view: '进入艺人曲库' },
+  ja: { title: '楽曲作品', intro: 'アーティストを選び、楽曲の種類ごとに閲覧できます。', count: '曲', categories: 'カテゴリ', view: '楽曲一覧を見る' },
+  en: { title: 'Songs', intro: 'Choose an artist, then browse songs by catalog type.', count: 'tracks', categories: 'categories', view: 'Open catalog' },
 }[localeCode];
 ---
 
@@ -46,21 +41,48 @@ const copy = {
     <SiteNav navItems={homeContent.navItems} localeLinks={localeLinks} brandLines={homeContent.hero.brandLines} compact homeHref={`/${localeCode}/`} />
     
     <main class="mx-auto max-w-7xl px-5 py-24 sm:px-6">
-      <h1 class="font-serif text-3xl text-white mb-8 tracking-widest uppercase">{copy.title}</h1>
+      <div class="mb-8 max-w-2xl">
+        <h1 class="font-serif text-3xl uppercase tracking-widest text-white">{copy.title}</h1>
+        <p class="mt-3 text-sm leading-7 text-white/45">{copy.intro}</p>
+      </div>
       <MusicSubnav locale={localeCode} current="songs" />
 
       <div class="mt-14 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
         {artistGroups.map((group) => (
-          <a href={`/${localeCode}/songs/artists/${group.slug}`} class="group overflow-hidden border border-white/10 bg-white/[0.02] transition-colors hover:border-white/30 hover:bg-white/[0.05]">
-            {group.entries[0]?.data.image && (
-              <img src={group.entries[0].data.image} alt="" class="aspect-[16/10] w-full object-cover opacity-65 transition duration-500 group-hover:scale-[1.02] group-hover:opacity-90" loading="lazy" />
-            )}
+          <a
+            href={`/${localeCode}/songs/artists/${group.slug}`}
+            class="artist-card group overflow-hidden border border-white/10 bg-white/[0.02] transition-colors hover:border-white/30 hover:bg-white/[0.05]"
+            style={`--artist-accent:${group.theme?.accentColor ?? '#ffffff'}`}
+          >
+            <div class="relative aspect-[16/10] overflow-hidden bg-white/[0.035]">
+              {group.cover ? (
+                <img
+                  src={group.cover}
+                  alt={group.artist}
+                  class="h-full w-full object-cover opacity-70 grayscale-[20%] transition duration-700 group-hover:scale-[1.025] group-hover:opacity-95 group-hover:grayscale-0"
+                  loading="lazy"
+                />
+              ) : (
+                <span class="grid h-full place-items-center font-serif text-5xl text-white/10">{group.artist.slice(0, 1)}</span>
+              )}
+              <div class="absolute inset-0 bg-gradient-to-t from-[#08090d] via-transparent to-transparent"></div>
+              <span class="absolute bottom-4 left-4 font-mono text-[9px] uppercase tracking-[0.2em] text-white/55">
+                {String(group.categories.length).padStart(2, '0')} {copy.categories}
+              </span>
+            </div>
             <div class="p-6">
               <div class="flex items-end justify-between gap-4">
-                <h2 class="font-serif text-2xl tracking-wide text-white">{group.artist}</h2>
-                <span class="font-mono text-[9px] uppercase tracking-[0.16em] text-white/30">{group.entries.length} {copy.count}</span>
+                <div class="min-w-0">
+                  <h2 class="truncate font-serif text-2xl tracking-wide text-white">{group.artist}</h2>
+                  {group.romanizedName && group.romanizedName !== group.artist && (
+                    <p class="mt-1 truncate font-mono text-[9px] uppercase tracking-[0.2em] text-white/30">{group.romanizedName}</p>
+                  )}
+                </div>
+                <span class="shrink-0 font-mono text-[9px] uppercase tracking-[0.16em] text-white/30">{group.entries.length} {copy.count}</span>
               </div>
-              <p class="mt-5 border-t border-white/10 pt-4 font-mono text-[9px] uppercase tracking-[0.16em] text-white/35 transition-colors group-hover:text-white/65">{copy.view} →</p>
+              <p class="artist-card__action mt-5 flex items-center justify-between border-t border-white/10 pt-4 font-mono text-[9px] uppercase tracking-[0.16em] text-white/35 transition-colors group-hover:text-white/75">
+                <span>{copy.view}</span><span aria-hidden="true">→</span>
+              </p>
             </div>
           </a>
         ))}
@@ -70,3 +92,40 @@ const copy = {
     <SiteFooter footer={homeContent.footer} />
   </div>
 </BaseLayout>
+
+<style>
+  .artist-card {
+    position: relative;
+  }
+
+  .artist-card::after {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 1px;
+    content: '';
+    background: var(--artist-accent);
+    opacity: 0;
+    transform: scaleX(0.3);
+    transition: opacity 300ms ease, transform 500ms ease;
+  }
+
+  .artist-card:hover::after,
+  .artist-card:focus-visible::after {
+    opacity: 0.75;
+    transform: scaleX(1);
+  }
+
+  .artist-card:focus-visible {
+    outline: 1px solid color-mix(in srgb, var(--artist-accent) 70%, white);
+    outline-offset: 3px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .artist-card img,
+    .artist-card::after {
+      transition: none;
+    }
+  }
+</style>

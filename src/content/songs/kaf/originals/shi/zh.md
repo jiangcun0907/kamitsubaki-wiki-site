@@ -9,12 +9,12 @@ lyricist: カンザキイオリ
 album: 観測α/観測β
 duration: "03:50"
 releaseDate: "2018-12-06"
-categoryTitle: 花譜-原创曲
-categorySubtitle: KAF-ORIGINALS
-categoryOrder: 6
+categoryTitle: 原创曲
+categorySubtitle: ORIGINALS
+categoryOrder: 10
 itemOrder: 1
 code: KO1
-image: https://placehold.co/1200x800/0a0a12/a0a0b0?text=SHI
+image: /images/artists/kaf.jpg
 ---
 
 ## 简介

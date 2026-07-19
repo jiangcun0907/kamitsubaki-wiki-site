@@ -84,7 +84,7 @@ test('artist database keeps the original four categories and key entities', asyn
     meta: 'DEBUT: 2018.10.18',
     statusLabel: 'STATUS',
     status: 'ACTIVE',
-    image: 'https://placehold.co/1200x800/111321/f29ac2?text=KAF',
+    image: '/images/artists/kaf.jpg',
   });
 });
 

@@ -9,12 +9,12 @@ lyricist: カンザキイオリ
 album: 観測α/観測β
 duration: "03:50"
 releaseDate: "2018-12-06"
-categoryTitle: 花譜-原創
-categorySubtitle: KAF-ORIGINALS
-categoryOrder: 6
+categoryTitle: オリジナル曲
+categorySubtitle: ORIGINALS
+categoryOrder: 10
 itemOrder: 1
 code: KO1
-image: https://placehold.co/1200x800/0a0a12/a0a0b0?text=SHI
+image: /images/artists/kaf.jpg
 ---
 
 ## 紹介
@@ -23,7 +23,7 @@ image: https://placehold.co/1200x800/0a0a12/a0a0b0?text=SHI
 
 ## 試聴
 
-@[youtube](3Wtx6k2vInU "花譜 - 糸")
+@[bilibili](BV1CJ411b7Ym "花譜 - 糸")
 
 ## 歌詞
 

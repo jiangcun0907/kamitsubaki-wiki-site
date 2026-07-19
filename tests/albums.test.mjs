@@ -52,13 +52,48 @@ test('music pages use artist-first song navigation and a flat album catalog', as
 
   assert.match(subnav, /current === 'songs'/);
   assert.match(subnav, /current === 'albums'/);
-  assert.match(songsPage, /groupMusicByArtist/);
+  assert.match(songsPage, /buildArtistSongCatalog/);
   assert.match(songsPage, /songs\/artists\/\$\{group\.slug\}/);
-  assert.match(artistSongsPage, /groupMusicByArtist/);
+  assert.match(artistSongsPage, /buildArtistSongCatalog/);
+  assert.match(artistSongsPage, /category\.entries\.map/);
   assert.match(artistSongsPage, /songs\/\$\{songPath\}/);
   assert.doesNotMatch(albumsPage, /groupMusicByArtist/);
   assert.match(albumsPage, /sortedAlbums\.map/);
   assert.match(albumDetail, /<MusicSubnav locale=\{localeCode\} current="albums"/);
+});
+
+test('song catalog uses artist entry artwork and folder-driven categories', async () => {
+  const { buildArtistSongCatalog, parseSongCatalogPath } = await import('../src/lib/musicCatalog.mjs');
+  const songs = [
+    { id: 'kaf/originals/shi/zh', data: { artist: '花譜', artistId: 'kaf', title: '糸', itemOrder: 1 } },
+    { id: 'kaf/covers/example/zh', data: { artist: '花譜', artistId: 'kaf', title: 'Example cover', itemOrder: 1 } },
+    { id: 'kaf-genealogy/example/zh', data: { artist: '花譜', artistId: 'kaf', title: 'Legacy path' } },
+  ];
+  const artists = [{
+    id: 'vwp/kaf/zh',
+    data: {
+      translationKey: 'kaf',
+      name: '花譜',
+      romanizedName: 'KAF',
+      image: '/images/artists/kaf.webp',
+      categoryOrder: 1,
+      itemOrder: 1,
+    },
+  }];
+
+  const [catalog] = buildArtistSongCatalog(songs, artists, 'zh');
+  assert.equal(catalog.cover, '/images/artists/kaf.webp');
+  assert.equal(catalog.artistPath, 'vwp/kaf');
+  assert.deepEqual(
+    catalog.categories.map((category) => ({ slug: category.slug, title: category.title, size: category.entries.length })),
+    [
+      { slug: 'originals', title: '原创曲', size: 1 },
+      { slug: 'covers', title: '翻唱曲', size: 1 },
+      { slug: 'genealogy', title: '系谱曲', size: 1 },
+    ],
+  );
+  assert.equal(parseSongCatalogPath('kaf/originals/shi/zh', 'kaf').songPath, 'kaf/originals/shi');
+  assert.equal(parseSongCatalogPath('kaf-covers/example/zh', 'kaf').categorySlug, 'covers');
 });
 
 test('music catalog groups entries by artist with stable anchors', async () => {

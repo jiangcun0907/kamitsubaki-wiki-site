@@ -9,12 +9,12 @@ lyricist: Iori Kanzaki
 album: Observation α/Observation β
 duration: "03:50"
 releaseDate: "2018-12-06"
-categoryTitle: KAF-ORIGINALS
-categorySubtitle: 花譜-原創
-categoryOrder: 6
+categoryTitle: Original Songs
+categorySubtitle: ORIGINALS
+categoryOrder: 10
 itemOrder: 1
 code: KO1
-image: https://placehold.co/1200x800/0a0a12/a0a0b0?text=SHI
+image: /images/artists/kaf.jpg
 ---
 
 ## Introduction
@@ -23,7 +23,7 @@ The very first original song of KAF.
 
 ## Preview
 
-@[youtube](3Wtx6k2vInU "KAF - Ito")
+@[bilibili](BV1CJ411b7Ym "KAF - Ito")
 
 ## Lyrics
 
