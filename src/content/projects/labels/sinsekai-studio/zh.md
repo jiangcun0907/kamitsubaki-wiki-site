@@ -76,6 +76,6 @@ pulse：致力于构建虚拟世界「INSPIX WORLD」，并不断挑战次世代
 
 ## 外部链接
 
-- [**深脊界 官方网站**](https://kamitsubaki.jp/)<span style="filter: blur(5px); transition: filter 0.3s; cursor: pointer;" onmouseover="this.style.filter='none'" onmouseout="this.style.filter='blur(5px)'" onclick="this.style.filter='none'">（现已重定向至kamitsubaki.jp，[Internet Archive存档](https://web.archive.org/web/20240131034942/https://sinsekaistudio.jp/))</span><br>
+- [**深脊界 官方网站**](https://kamitsubaki.jp/)<span class="wiki-spoiler" tabindex="0">（现已重定向至kamitsubaki.jp，[Internet Archive存档](https://web.archive.org/web/20240131034942/https://sinsekaistudio.jp/))</span><br>
 - [**深脊界 官方Youtube页面**](https://www.youtube.com/channel/UCTqFLDr_7lgEaZunMn8gu1Q)<br>
 - [**深脊界 官方X主页**](https://x.com/sinsekai__jp)<br>

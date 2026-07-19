@@ -37,7 +37,7 @@ featuredEntries:
 theme:
   name: KAKYOIN theme
   accentColor: "#3c4293"
-  muteColor: "#d7332a"
+  mutedColor: "#d7332a"
   surfaceColor: "#111321"
   highlightColor: "#fff6fa"
   palette:
@@ -55,15 +55,6 @@ seo:
     - KAKYOIN
     - GIRLS REV PROJECT
 ---
-
-<style> 
-.center-table-wrapper table th, 
-.center-table-wrapper table td { 
-text-align: center !important; 
-vertical-align: middle !important; 
-padding: 12px 20px; 
-} 
-</style>
 
 ## 紹介
 
@@ -86,10 +77,10 @@ padding: 12px 20px;
 
 | 投稿日 | 楽曲名 | 作詞 | 作曲 | 試聴 |
 | :---: | :---: | :---: | :---: | :---: |
-| 2024年10月23日 | 夢の揺籠 | Wiz_nicc | Wiz_nicc | <iframe width="330" height="260" src="https://www.youtube.com/embed/pP667C1y1zA?si=2kXeZA-ru7ZleSXF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> |
-| 2024年12月11日 | 宇宙逃避行 | MIMI | MIMI | <iframe width="330" height="260" src="https://www.youtube.com/embed/QBObLindkQk?si=BcJCEw1zPln9zAtA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> |
-| 2025年3月19日 | <ruby>キリガサガリキ<rt>kirigasagariki</rt></ruby> | Purukichi | Purukichi | <iframe width="330" height="260" src="https://www.youtube.com/embed/O-19NUEyBiU?si=vDQhbNk2Q_tkJwmF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> |
-| 2025年11月12日 | 月へゆく | tama | tama | <iframe width="330" height="260" src="https://www.youtube.com/embed/4Oeflvc57GM?si=Qlkr2WnrvPtmvN8f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> |
+| 2024年10月23日 | 夢の揺籠 | Wiz_nicc | Wiz_nicc | @[youtube](https://www.youtube.com/embed/pP667C1y1zA?si=2kXeZA-ru7ZleSXF) |
+| 2024年12月11日 | 宇宙逃避行 | MIMI | MIMI | @[youtube](https://www.youtube.com/embed/QBObLindkQk?si=BcJCEw1zPln9zAtA) |
+| 2025年3月19日 | <ruby>キリガサガリキ<rt>kirigasagariki</rt></ruby> | Purukichi | Purukichi | @[youtube](https://www.youtube.com/embed/O-19NUEyBiU?si=vDQhbNk2Q_tkJwmF) |
+| 2025年11月12日 | 月へゆく | tama | tama | @[youtube](https://www.youtube.com/embed/4Oeflvc57GM?si=Qlkr2WnrvPtmvN8f) |
 
 ### コラボ・グループ曲
 - このカテゴリには、コラボレーション楽曲、心世紀のユニット曲、少女革命計画のグループ曲など、佳鏡院が参加した歌唱楽曲が含まれています。
@@ -98,21 +89,21 @@ padding: 12px 20px;
 
 | 投稿日 | 楽曲名 | 歌唱 | 作詞 | 作曲 | 試聴 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2025年2月12日 | <ruby>シネマティック<rt>Cinematic</rt></ruby> | 佳鏡院<br>氷夏至 | 櫻井健太郎 | 櫻井健太郎 | <iframe width="330" height="260" src="https://www.youtube.com/embed/J5LONI0DVik?si=eXxF6WYwujSeHhpG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> |
+| 2025年2月12日 | <ruby>シネマティック<rt>Cinematic</rt></ruby> | 佳鏡院<br>氷夏至 | 櫻井健太郎 | 櫻井健太郎 | @[youtube](https://www.youtube.com/embed/J5LONI0DVik?si=eXxF6WYwujSeHhpG) |
 
 #### 心世紀 ユニット曲
 
 | 投稿日 | 楽曲名 | 作詞 | 作曲 | 試聴 |
 | :---: | :---: | :---: | :---: | :---: |
-| 2024-08-09 | <ruby>フェイクナイト・シンデレラ<rt>Fake Night Cinderella</rt></ruby> | 矢野達也 | 矢野達也 | <iframe width="330" height="260" src="https://www.youtube.com/embed/b3btbgVGuqA?si=h_tMVMMwGh61fJLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> |
-| 2024-09-18 | <ruby>パーフェクション<rt>Perfection</rt></ruby> | 水野あつ | HIDEYA KOJIMA | <iframe width="330" height="260" src="https://www.youtube.com/embed/qYkxlMfM8L8?si=SSY9PBJ2uOSX4c6r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> |
-| 2025-01-22 | Ephemeral | 100回嘔吐 | 100回嘔吐 | <iframe width="330" height="260" src="https://www.youtube.com/embed/8JRuowZtRBc?si=YZNAPErdlRnMC3Oo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> |
-| 2025-02-26 | <ruby>ココロト<rt>Kokoroto</rt></ruby> | とあ | とあ | <iframe width="330" height="260" src="https://www.youtube.com/embed/fNrKWnVc7bI?si=xX4i9sq7F2fXtELp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> |
-| 2025-04-02 | うそ鳴き | ぽん | HIDEYA KOJIMA | <iframe width="330" height="260" src="https://www.youtube.com/embed/MhblPJMvc4c?si=tV6ky_J36DxNOmQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> |
-| 2025-05-21 | いぜれ僕は溶けて | Purukichi | Purukichi | <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:70%;max-width:330px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/song/%E3%81%84%E3%81%9A%E3%82%8C%E5%83%95%E3%81%AF%E6%BA%B6%E3%81%91%E3%81%A6-feat-purukichi/1842289624"></iframe> |
-| 2025-05-21 | <ruby>ミリオン・コンプレクシティ<rt>Million Complexity</rt></ruby> | 矢野達也 | 矢野達也 | <iframe width="330" height="260" src="https://www.youtube.com/embed/POfCdtX4caM?si=jXOKBQgoUxpTeVlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> |
-| 2025-10-29 | <ruby>ロストオービット<rt>Lost Orbit</rt></ruby> | shikisai | shikisai | <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:70%;max-width:330px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/song/%E3%83%AD%E3%82%B9%E3%83%88%E3%82%AA%E3%83%BC%E3%83%93%E3%83%83%E3%83%88-feat-shikisai/1842289621"></iframe> |
-| 2025-10-29 | <ruby>コントラスト<rt>Contrast</rt></ruby> | 矢野達也 | 矢野達也 | <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:70%;max-width:330px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/song/%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%B9%E3%83%88-feat-%E7%9F%A2%E9%87%8E%E9%81%94%E4%B9%9F/1842289625"></iframe> |
-| 2025-10-29 | FantastiQ | ぽん | HIDEYA KOJIMA | <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:70%;max-width:330px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/song/fantastiq-feat-hideya-kojima/1842289627"></iframe> |
-| 2025-10-29 | 改変 -心- | たなか | たなか、LLLL | <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:70%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/song/%E6%94%B9%E5%A4%89-%E5%BF%83-feat-%E3%81%9F%E3%81%AA%E3%81%8B-llll/1842289629"></iframe> |
-| 2026-02-20 | 雑几帖 | 矢野達也 | 矢野達也 | <iframe width="330" height="260" src="https://www.youtube.com/embed/XhXkkh_4cVs?si=WVor92d2H8x5MgKF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> |
+| 2024-08-09 | <ruby>フェイクナイト・シンデレラ<rt>Fake Night Cinderella</rt></ruby> | 矢野達也 | 矢野達也 | @[youtube](https://www.youtube.com/embed/b3btbgVGuqA?si=h_tMVMMwGh61fJLA) |
+| 2024-09-18 | <ruby>パーフェクション<rt>Perfection</rt></ruby> | 水野あつ | HIDEYA KOJIMA | @[youtube](https://www.youtube.com/embed/qYkxlMfM8L8?si=SSY9PBJ2uOSX4c6r) |
+| 2025-01-22 | Ephemeral | 100回嘔吐 | 100回嘔吐 | @[youtube](https://www.youtube.com/embed/8JRuowZtRBc?si=YZNAPErdlRnMC3Oo) |
+| 2025-02-26 | <ruby>ココロト<rt>Kokoroto</rt></ruby> | とあ | とあ | @[youtube](https://www.youtube.com/embed/fNrKWnVc7bI?si=xX4i9sq7F2fXtELp) |
+| 2025-04-02 | うそ鳴き | ぽん | HIDEYA KOJIMA | @[youtube](https://www.youtube.com/embed/MhblPJMvc4c?si=tV6ky_J36DxNOmQs) |
+| 2025-05-21 | いぜれ僕は溶けて | Purukichi | Purukichi | @[apple-music](https://embed.music.apple.com/cn/song/%E3%81%84%E3%81%9A%E3%82%8C%E5%83%95%E3%81%AF%E6%BA%B6%E3%81%91%E3%81%A6-feat-purukichi/1842289624) |
+| 2025-05-21 | <ruby>ミリオン・コンプレクシティ<rt>Million Complexity</rt></ruby> | 矢野達也 | 矢野達也 | @[youtube](https://www.youtube.com/embed/POfCdtX4caM?si=jXOKBQgoUxpTeVlQ) |
+| 2025-10-29 | <ruby>ロストオービット<rt>Lost Orbit</rt></ruby> | shikisai | shikisai | @[apple-music](https://embed.music.apple.com/cn/song/%E3%83%AD%E3%82%B9%E3%83%88%E3%82%AA%E3%83%BC%E3%83%93%E3%83%83%E3%83%88-feat-shikisai/1842289621) |
+| 2025-10-29 | <ruby>コントラスト<rt>Contrast</rt></ruby> | 矢野達也 | 矢野達也 | @[apple-music](https://embed.music.apple.com/cn/song/%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%B9%E3%83%88-feat-%E7%9F%A2%E9%87%8E%E9%81%94%E4%B9%9F/1842289625) |
+| 2025-10-29 | FantastiQ | ぽん | HIDEYA KOJIMA | @[apple-music](https://embed.music.apple.com/cn/song/fantastiq-feat-hideya-kojima/1842289627) |
+| 2025-10-29 | 改変 -心- | たなか | たなか、LLLL | @[apple-music](https://embed.music.apple.com/cn/song/%E6%94%B9%E5%A4%89-%E5%BF%83-feat-%E3%81%9F%E3%81%AA%E3%81%8B-llll/1842289629) |
+| 2026-02-20 | 雑几帖 | 矢野達也 | 矢野達也 | @[youtube](https://www.youtube.com/embed/XhXkkh_4cVs?si=WVor92d2H8x5MgKF) |

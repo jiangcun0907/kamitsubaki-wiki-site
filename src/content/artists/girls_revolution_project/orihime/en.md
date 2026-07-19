@@ -1,6 +1,7 @@
 ---
 locale: en
 translationKey: orihime
+contentStatus: stub
 code: G1
 romanizedName: ORIHIME
 categoryOrder: 5

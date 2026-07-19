@@ -59,6 +59,24 @@ test('article metadata scans markdown when seo description is not provided', () 
   assert.equal(scanMarkdownDescription(''), 'KAMITSUBAKI STUDIO 非官方粉丝百科。');
 });
 
+test('article metadata supports title-based works and noindexes stub entries', () => {
+  const metadata = buildArticleMetadata({
+    locale: 'en',
+    id: 'vwp/fate',
+    collection: 'albums',
+    data: {
+      title: 'FATE',
+      artist: 'V.W.P',
+      description: 'V.W.P first album',
+      contentStatus: 'stub',
+    },
+  });
+
+  assert.equal(metadata.title, 'FATE - Kamitsubaki Studio Fan Wiki');
+  assert.equal(metadata.description, 'FATE / V.W.P first album');
+  assert.equal(metadata.noindex, true);
+});
+
 test('base layout renders configurable metadata tags', async () => {
   const layout = await readFile(new URL('../src/layouts/BaseLayout.astro', import.meta.url), 'utf8');
 

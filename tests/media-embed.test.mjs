@@ -20,6 +20,10 @@ test('rejects unknown providers and malformed targets', () => {
   assert.equal(resolveMediaEmbed('unknown', 'https://example.com/embed'), null);
   assert.equal(resolveMediaEmbed('youtube', 'javascript:alert(1)'), null);
   assert.equal(resolveMediaEmbed('apple-music', 'https://example.com/song/123'), null);
+  assert.equal(resolveMediaEmbed('youtube', 'https://maliciousyoutube.com/watch?v=3Wtx6k2vInU'), null);
+  assert.equal(resolveMediaEmbed('bilibili', 'https://example.com/video/BV1CJ411b7Ym'), null);
+  assert.equal(resolveMediaEmbed('netease', 'https://example.com/song?id=2637083551'), null);
+  assert.equal(resolveMediaEmbed('qq-music', 'https://example.com/song/001ABCDEF'), null);
 });
 
 test('renders the unified accessible iframe shell', () => {
@@ -28,6 +32,7 @@ test('renders the unified accessible iframe shell', () => {
   assert.match(html, /loading="lazy"/);
   assert.match(html, /title="KAF - Ito"/);
   assert.match(html, /referrerpolicy="strict-origin-when-cross-origin"/);
+  assert.doesNotMatch(html, /clipboard-write|web-share|autoplay/);
   assert.doesNotMatch(html, /javascript:/);
 });
 

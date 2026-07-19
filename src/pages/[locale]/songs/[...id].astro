@@ -7,6 +7,7 @@ import WikiInfoBox from '../../../components/WikiInfoBox.astro';
 import WikiArticleHeader from '../../../components/WikiArticleHeader.astro';
 import TableOfContents from '../../../components/TableOfContents.astro';
 import ContributorRoster from '../../../components/ContributorRoster.astro';
+import MusicSubnav from '../../../components/MusicSubnav.astro';
 import { getLocalizedSite } from '../../../lib/homeData.mjs';
 import { buildLocaleLinks, defaultLocale, supportedLocales } from '../../../lib/i18n.mjs';
 import { buildArticleMetadata } from '../../../lib/metadata.mjs';
@@ -202,6 +203,7 @@ const themeStyle = [
     <div class="fixed left-0 top-0 z-[60] h-px w-full origin-left bg-white/70" data-reading-progress></div>
 
     <div class="mx-auto max-w-[92rem] px-4 pb-3 pt-17 sm:px-6 sm:pb-4 sm:pt-20 lg:pt-20">
+      <div class="mb-4"><MusicSubnav locale={localeCode} current="songs" /></div>
       <WikiArticleHeader
         data={articleData}
         localeLinks={localeLinks}

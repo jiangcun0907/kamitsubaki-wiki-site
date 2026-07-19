@@ -3,6 +3,7 @@ locale: en
 translationKey: shi_kaf
 title: 糸
 artist: KAF
+artistId: kaf
 composer: Iori Kanzaki
 lyricist: Iori Kanzaki
 album: Observation α/Observation β
@@ -28,69 +29,9 @@ The very first original song of KAF.
 
     The translation is now AI translation for now. If you have any better translation, please pull request on GitHub.
 
-<style>
-.my-lyric-box {
-margin: 20px 0;
-font-family: inherit;
-line-height: 1.6;
-}
-.my-lyric-controls {
-margin-bottom: 25px;
-display: flex;
-gap: 12px;
-flex-wrap: wrap;
-}
-.my-lyric-controls button {
-padding: 6px 14px;
-background: transparent;
-color: inherit;
-border: 1px solid rgba(255, 255, 255, 0.2);
-border-radius: 4px;
-cursor: pointer;
-font-size: 0.9em;
-transition: all 0.2s ease;
-}
-.my-lyric-controls button:hover {
-background: rgba(255, 255, 255, 0.1);
-border-color: rgba(255, 255, 255, 0.4);
-}
-.my-lyric-box .lyric-line {
-display: flex;
-align-items: baseline; 
-margin-bottom: 1.8rem;
-gap: 20px;
-}
-.my-lyric-box .jp-lyric {
-flex: 1;
-letter-spacing: 0.5px;
-}
-.my-lyric-box .trans-lyric {
-flex: 1;
-opacity: 0.6;
-font-size: 0.95em;
-transition: opacity 0.3s ease;
-}
-@media (max-width: 600px) {
-.my-lyric-box .lyric-line { flex-direction: column; gap: 4px; }
-}
-/* 注音逻辑 */
-.my-lyric-box ruby { ruby-align: center; }
-.my-lyric-box rt { font-size: 0.6em; transition: opacity 0.2s; user-select: none; }
-.my-lyric-box .roma { display: none; }
-.my-lyric-box .furi { display: ruby-text; }
-.my-lyric-box.hide-ruby rt { display: none !important; }
-.my-lyric-box.hide-translation .trans-lyric { opacity: 0; visibility: hidden; }
-.my-lyric-box.show-romaji .furi { display: none; }
-.my-lyric-box.show-romaji .roma { display: ruby-text; }
-</style>
+{{lyrics-controls::en}}
 
-<div class="my-lyric-controls">
-<button id="btn-ruby" onclick="toggleRuby()">隐藏注音</button>
-<button id="btn-trans" onclick="toggleTrans()">隐藏翻译</button>
-<button id="btn-type" onclick="toggleType()">切换罗马音</button>
-</div>
-
-<div class="my-lyric-box" id="lyric-container">
+<div class="my-lyric-box">
 
 <div class="lyric-line">
 <div class="jp-lyric">
@@ -296,24 +237,3 @@ transition: opacity 0.3s ease;
 </div>
 
 </div>
-
-<script>
-function toggleRuby() {
-const box = document.getElementById('lyric-container');
-const btn = document.getElementById('btn-ruby');
-box.classList.toggle('hide-ruby');
-btn.textContent = box.classList.contains('hide-ruby') ? 'Show kana' : 'Hide kana';
-}
-function toggleTrans() {
-const box = document.getElementById('lyric-container');
-const btn = document.getElementById('btn-trans');
-box.classList.toggle('hide-translation');
-btn.textContent = box.classList.contains('hide-translation') ? 'Show translation' : 'Hide translation';
-}
-function toggleType() {
-const box = document.getElementById('lyric-container');
-const btn = document.getElementById('btn-type');
-box.classList.toggle('show-romaji');
-btn.textContent = box.classList.contains('show-romaji') ? 'Switch to kana' : 'Switch to romaji';
-}
-</script>

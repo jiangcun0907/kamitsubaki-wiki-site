@@ -27,8 +27,8 @@ const PROVIDER_LABELS = {
   'qq-music': 'QQ 音乐',
 };
 
-const VIDEO_ALLOW = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen';
-const AUDIO_ALLOW = 'autoplay; clipboard-write; encrypted-media; fullscreen';
+const VIDEO_ALLOW = 'encrypted-media; picture-in-picture; fullscreen';
+const AUDIO_ALLOW = 'encrypted-media; fullscreen';
 const SAFE_ID = /^[A-Za-z0-9_-]+$/;
 const BILIBILI_BVID = /^BV[A-Za-z0-9]+$/i;
 
@@ -44,6 +44,11 @@ function cleanTarget(value) {
   return String(value || '').trim().replace(/^<|>$/g, '');
 }
 
+function isAllowedHostname(hostname, allowedDomain) {
+  const normalized = hostname.replace(/^www\./, '').toLowerCase();
+  return normalized === allowedDomain || normalized.endsWith(`.${allowedDomain}`);
+}
+
 function youtube(target) {
   const value = cleanTarget(target);
   const url = safeUrl(value);
@@ -52,9 +57,9 @@ function youtube(target) {
   if (url) {
     const hostname = url.hostname.replace(/^www\./, '').toLowerCase();
     if (hostname === 'youtu.be') id = url.pathname.split('/').filter(Boolean)[0];
-    if (hostname.endsWith('youtube.com')) {
+    else if (isAllowedHostname(hostname, 'youtube.com')) {
       id = url.searchParams.get('v') || url.pathname.match(/^\/(?:embed|shorts|live)\/([^/?#]+)/)?.[1];
-    }
+    } else return null;
   }
 
   if (!id || !SAFE_ID.test(id)) return null;
@@ -68,6 +73,7 @@ function youtube(target) {
 function bilibili(target) {
   const value = cleanTarget(target);
   const url = safeUrl(value);
+  if (url && !isAllowedHostname(url.hostname, 'bilibili.com') && url.hostname.toLowerCase() !== 'b23.tv') return null;
   const pathId = url?.pathname.match(/\/(BV[A-Za-z0-9]+|av\d+)/i)?.[1];
   const id = pathId || url?.searchParams.get('bvid') || url?.searchParams.get('aid') || value;
 
@@ -133,6 +139,7 @@ function spotify(target) {
 function netease(target) {
   const value = cleanTarget(target);
   const url = safeUrl(value);
+  if (url && !isAllowedHostname(url.hostname, 'music.163.com')) return null;
   const id = url?.searchParams.get('id') || value.match(/(?:song|album|playlist)\/(\d+)/)?.[1] || value;
   if (!/^\d+$/.test(id)) return null;
 
@@ -149,6 +156,7 @@ function netease(target) {
 function qqMusic(target) {
   const value = cleanTarget(target);
   const url = safeUrl(value);
+  if (url && !isAllowedHostname(url.hostname, 'y.qq.com')) return null;
   const pathId = url?.pathname.match(/\/(?:songDetail|song)\/([A-Za-z0-9]+)/i)?.[1];
   const id = url?.searchParams.get('songmid') || url?.searchParams.get('songid') || pathId || value;
   if (!id || !SAFE_ID.test(id)) return null;
@@ -198,6 +206,86 @@ export function renderMediaEmbed(providerName, target, caption = '') {
     : `<figcaption class="wiki-embed__caption wiki-embed__caption--provider">${escapeHtml(media.label)}</figcaption>`;
 
   return `<figure class="wiki-embed wiki-embed--${media.kind} wiki-embed--${media.provider}" data-media-provider="${media.provider}"${height}><div class="wiki-embed__frame"><iframe src="${escapeHtml(media.src)}" title="${escapeHtml(iframeTitle)}" loading="lazy" allow="${escapeHtml(media.allow)}" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen${sandbox}></iframe></div>${figcaption}</figure>`;
+}
+
+function renderMediaPlaceholder(providerName, target, caption = '') {
+  const media = resolveMediaEmbed(providerName, target);
+  if (!media) return null;
+
+  return `<wiki-media-embed data-provider="${escapeHtml(media.provider)}" data-target="${escapeHtml(cleanTarget(target))}" data-caption="${escapeHtml(String(caption || '').trim())}"></wiki-media-embed>`;
+}
+
+function mediaEmbedNode(media) {
+  const title = String(media.caption || '').trim();
+  const iframeTitle = title || `${media.label} media player`;
+  const figureClasses = ['wiki-embed', `wiki-embed--${media.kind}`, `wiki-embed--${media.provider}`];
+  const figureProperties = {
+    className: figureClasses,
+    dataMediaProvider: media.provider,
+  };
+
+  if (media.height) figureProperties.style = `--wiki-embed-height:${media.height}px`;
+
+  const iframeProperties = {
+    src: media.src,
+    title: iframeTitle,
+    loading: 'lazy',
+    allow: media.allow,
+    referrerPolicy: 'strict-origin-when-cross-origin',
+    allowFullScreen: true,
+  };
+
+  if (media.sandbox) iframeProperties.sandbox = media.sandbox.split(' ');
+
+  return {
+    type: 'element',
+    tagName: 'figure',
+    properties: figureProperties,
+    children: [
+      {
+        type: 'element',
+        tagName: 'div',
+        properties: { className: ['wiki-embed__frame'] },
+        children: [{ type: 'element', tagName: 'iframe', properties: iframeProperties, children: [] }],
+      },
+      {
+        type: 'element',
+        tagName: 'figcaption',
+        properties: {
+          className: title
+            ? ['wiki-embed__caption']
+            : ['wiki-embed__caption', 'wiki-embed__caption--provider'],
+        },
+        children: title
+          ? [
+              { type: 'element', tagName: 'span', properties: {}, children: [{ type: 'text', value: media.label }] },
+              { type: 'text', value: title },
+            ]
+          : [{ type: 'text', value: media.label }],
+      },
+    ],
+  };
+}
+
+function materializeMediaPlaceholders(node) {
+  if (!node?.children) return;
+
+  node.children = node.children.flatMap((child) => {
+    if (child?.type === 'element' && child.tagName === 'wiki-media-embed') {
+      const provider = child.properties?.dataProvider;
+      const target = child.properties?.dataTarget;
+      const caption = child.properties?.dataCaption || '';
+      const media = resolveMediaEmbed(provider, target);
+      return media ? [mediaEmbedNode({ ...media, caption })] : [];
+    }
+
+    materializeMediaPlaceholders(child);
+    return [child];
+  });
+}
+
+export function rehypeMaterializeMediaEmbeds() {
+  return materializeMediaPlaceholders;
 }
 
 function shortcodeFromLink(node) {
@@ -254,7 +342,7 @@ function mediaStackFromTableCell(node) {
   }
 
   if (expectsLink || shortcodes.length === 0) return null;
-  const embeds = shortcodes.map(({ provider, target, caption }) => renderMediaEmbed(provider, target, caption));
+  const embeds = shortcodes.map(({ provider, target, caption }) => renderMediaPlaceholder(provider, target, caption));
   if (embeds.some((embed) => !embed)) return null;
   return `<div class="wiki-embed-stack" data-media-embed-stack>${embeds.join('')}</div>`;
 }
@@ -270,7 +358,7 @@ function transformShortcodes(node) {
     }
 
     const shortcode = shortcodeFromParagraph(child);
-    const html = shortcode && renderMediaEmbed(shortcode.provider, shortcode.target, shortcode.caption);
+    const html = shortcode && renderMediaPlaceholder(shortcode.provider, shortcode.target, shortcode.caption);
     if (html) return { type: 'html', value: html };
     transformShortcodes(child);
     return child;

@@ -3,6 +3,7 @@ locale: zh
 translationKey: shi_kaf
 title: 糸
 artist: 花譜
+artistId: kaf
 composer: カンザキイオリ
 lyricist: カンザキイオリ
 album: 観測α/観測β
@@ -28,70 +29,9 @@ image: https://placehold.co/1200x800/0a0a12/a0a0b0?text=SHI
 
     目前提供的翻译为AI翻译仅作占位，有能力的同好可提供更好的翻译在本站GitHub仓库提交PR进行修改。
 
-<style>
-.my-lyric-box {
-margin: 20px 0;
-font-family: inherit;
-line-height: 1.6;
-}
-.my-lyric-controls {
-margin-bottom: 25px;
-display: flex;
-gap: 12px;
-flex-wrap: wrap;
-}
-/* 匹配你仓库暗色主题的按钮样式 */
-.my-lyric-controls button {
-padding: 6px 14px;
-background: transparent;
-color: inherit;
-border: 1px solid rgba(255, 255, 255, 0.2);
-border-radius: 4px;
-cursor: pointer;
-font-size: 0.9em;
-transition: all 0.2s ease;
-}
-.my-lyric-controls button:hover {
-background: rgba(255, 255, 255, 0.1);
-border-color: rgba(255, 255, 255, 0.4);
-}
-.my-lyric-box .lyric-line {
-display: flex;
-align-items: baseline; 
-margin-bottom: 1.8rem;
-gap: 20px;
-}
-.my-lyric-box .jp-lyric {
-flex: 1;
-letter-spacing: 0.5px;
-}
-.my-lyric-box .cn-lyric {
-flex: 1;
-opacity: 0.6;
-font-size: 0.95em;
-transition: opacity 0.3s ease;
-}
-@media (max-width: 600px) {
-.my-lyric-box .lyric-line { flex-direction: column; gap: 4px; }
-}
-/* 注音逻辑 */
-.my-lyric-box ruby { ruby-align: center; }
-.my-lyric-box rt { font-size: 0.6em; transition: opacity 0.2s; user-select: none; }
-.my-lyric-box .roma { display: none; }
-.my-lyric-box .furi { display: ruby-text; }
-.my-lyric-box.hide-ruby rt { display: none !important; }
-.my-lyric-box.hide-translation .cn-lyric { opacity: 0; visibility: hidden; }
-.my-lyric-box.show-romaji .furi { display: none; }
-.my-lyric-box.show-romaji .roma { display: ruby-text; }
-</style>
+{{lyrics-controls::zh}}
 
-<div class="my-lyric-controls">
-<button id="btn-ruby" onclick="toggleRuby()">隐藏注音</button>
-<button id="btn-trans" onclick="toggleTrans()">隐藏翻译</button>
-<button id="btn-type" onclick="toggleType()">切换罗马音</button>
-</div>
-
-<div class="my-lyric-box" id="lyric-container">
+<div class="my-lyric-box">
 
 <div class="lyric-line">
 <div class="jp-lyric">
@@ -297,24 +237,3 @@ transition: opacity 0.3s ease;
 </div>
 
 </div>
-
-<script>
-function toggleRuby() {
-const box = document.getElementById('lyric-container');
-const btn = document.getElementById('btn-ruby');
-box.classList.toggle('hide-ruby');
-btn.textContent = box.classList.contains('hide-ruby') ? '显示注音' : '隐藏注音';
-}
-function toggleTrans() {
-const box = document.getElementById('lyric-container');
-const btn = document.getElementById('btn-trans');
-box.classList.toggle('hide-translation');
-btn.textContent = box.classList.contains('hide-translation') ? '显示翻译' : '隐藏翻译';
-}
-function toggleType() {
-const box = document.getElementById('lyric-container');
-const btn = document.getElementById('btn-type');
-box.classList.toggle('show-romaji');
-btn.textContent = box.classList.contains('show-romaji') ? '切换假名注音' : '切换罗马音';
-}
-</script>

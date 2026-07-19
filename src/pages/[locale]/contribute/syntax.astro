@@ -46,7 +46,7 @@ const sourceHref = `/${localeCode}/contribute/edit?target=${encodeURIComponent(c
 
 const labels = {
   zh: {
-    back: '返回首页',
+    back: '返回贡献学习中心',
     eyebrow: '站点指南',
     contents: '目录',
     category: '分类',
@@ -64,7 +64,7 @@ const labels = {
     descriptionFallback: '本站使用的 Markdown 语法及词条属性填写指南。',
   },
   ja: {
-    back: 'ホームへ戻る',
+    back: '学習センターへ戻る',
     eyebrow: 'サイトガイド',
     contents: '目次',
     category: '分類',
@@ -82,7 +82,7 @@ const labels = {
     descriptionFallback: '本サイトで使用する Markdown 構文と記事属性の記入ガイドです。',
   },
   en: {
-    back: 'Back to home',
+    back: 'Back to contribution learning center',
     eyebrow: 'Site Guide',
     contents: 'Contents',
     category: 'Category',
@@ -138,7 +138,7 @@ const metadata = {
     <header class="wiki-entry-hero grid gap-8 border-b border-white/10 pb-8 sm:gap-10 sm:pb-10 lg:grid-cols-[minmax(0,1fr)_22rem] reveal-up">
       <div class="min-w-0">
         <a
-          href={`/${localeCode}/`}
+          href={`/${localeCode}/contribute/edit#syntax-reference`}
           class="text-[9px] font-mono uppercase tracking-[0.22em] text-white/38 transition-colors hover:text-white"
         >
           {labels.back}

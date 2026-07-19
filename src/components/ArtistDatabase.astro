@@ -12,6 +12,7 @@ type Artist = {
   meta?: string;
   statusLabel: string;
   status: string;
+  contentStatus?: 'stub' | 'published';
   inactive?: boolean;
   image: string;
 };
@@ -23,7 +24,7 @@ type ArtistCategory = {
   items: Artist[];
 };
 
-const { artistCategories, databaseJumpLinks, section } = Astro.props as {
+const { artistCategories, databaseJumpLinks, section, locale = 'zh' } = Astro.props as {
   artistCategories: ArtistCategory[];
   databaseJumpLinks: DatabaseJumpLink[];
   section: {
@@ -31,10 +32,10 @@ const { artistCategories, databaseJumpLinks, section } = Astro.props as {
     subheading: string;
     expandLabel?: string;
   };
-  locale: string;
+  locale: 'zh' | 'ja' | 'en';
 };
 
-const locale = Astro.props.locale ?? 'zh';
+const stubLabel = { zh: '待完善', ja: '未完成', en: 'STUB' }[locale];
 const ITEMS_PER_CATEGORY = 6;
 ---
 
@@ -85,12 +86,15 @@ const ITEMS_PER_CATEGORY = 6;
                   <div class="flex flex-col md:flex-row md:items-center justify-between px-4 gap-4">
                     <div class="flex items-center gap-6">
                       <span class="font-mono text-[9px] text-white/20 w-6">{artist.code}</span>
-                      <h4 class="font-serif text-xl md:text-2xl text-white/60 tracking-[0.2em] group-hover:text-white transition-all duration-300 glitch-text">
+                      <h4 class="font-serif text-xl md:text-2xl text-white/60 tracking-[0.2em]">
                         {artist.name}
                       </h4>
-                      <span class="text-[9px] tracking-kamidest font-light text-white/30 group-hover:text-white/80 transition-colors">
+                      <span class="text-[9px] tracking-kamidest font-light text-white/30">
                         {artist.romanizedName}
                       </span>
+                      {artist.contentStatus === 'stub' && (
+                        <span class="rounded-full border border-amber-200/20 px-2 py-1 font-mono text-[8px] tracking-widest text-amber-100/60">{stubLabel}</span>
+                      )}
                     </div>
                     <div class="text-[8px] font-mono text-white/30 flex gap-6 md:text-right">
                       {artist.meta && <span class="hidden md:block">{artist.meta}</span>}

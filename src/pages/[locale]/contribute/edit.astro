@@ -1,8 +1,9 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import SiteNav from '../../../components/SiteNav.astro';
 import SiteFooter from '../../../components/SiteFooter.astro';
+import TableOfContents from '../../../components/TableOfContents.astro';
 import { getLocalizedSite } from '../../../lib/homeData.mjs';
 import { buildLocaleLinks, defaultLocale, supportedLocales } from '../../../lib/i18n.mjs';
 import { renderMarkdownFragment } from '../../../lib/markdown.mjs';
@@ -15,6 +16,7 @@ const { locale } = Astro.params;
 const localeCode = locale as 'zh' | 'ja' | 'en';
 const siteEntries = await getCollection('site');
 const guideEntries = await getCollection('editGuide');
+const syntaxEntries = await getCollection('syntaxGuide');
 const homeContent = getLocalizedSite(siteEntries, localeCode, defaultLocale);
 const copy =
   guideEntries.find((entry) => entry.data.locale === localeCode)?.data ??
@@ -24,6 +26,61 @@ const localeLinks = buildLocaleLinks(homeContent, localeCode, currentPath);
 const alternates = supportedLocales.map((code) => ({ locale: code, href: `/${code}${currentPath}` }));
 
 if (!copy) throw new Error(`Missing edit guide content for locale: ${localeCode}`);
+
+const syntaxEntry =
+  syntaxEntries.find((entry) => entry.data.locale === localeCode) ??
+  syntaxEntries.find((entry) => entry.data.locale === defaultLocale);
+
+if (!syntaxEntry) throw new Error(`Missing syntax guide content for locale: ${localeCode}`);
+
+const { Content: SyntaxContent, headings: syntaxHeadings } = await render(syntaxEntry);
+const syntaxSourcePath = `src/content/contribute/syntax-guide/${localeCode}.md`;
+const syntaxEditHref = `/${localeCode}/contribute/edit?target=${encodeURIComponent(syntaxSourcePath)}#syntax-reference`;
+const syntaxStandaloneHref = `/${localeCode}/contribute/syntax`;
+const learningCopy = {
+  zh: {
+    navLabel: '贡献学习中心',
+    journey: '分步贡献路线',
+    reference: 'Markdown 与属性参考',
+    start: '从路线开始',
+    referenceEyebrow: '02 / 随用随查',
+    referenceTitle: '写内容时，答案就在同一页。',
+    referenceIntro: '不必离开贡献流程，也不必一次记住全部语法。先完成与你当前修改有关的部分；遇到格式、媒体或 frontmatter 字段时，再从目录直接跳到对应章节。',
+    contents: '本页目录',
+    standalone: '在独立阅读页打开',
+    editReference: '改进这份参考',
+    workflowTitle: '推荐学习顺序',
+    workflow: ['先选一条贡献路线', '确认目标文件与语言', '修改时按需查语法', '预览差异并提交 PR'],
+  },
+  ja: {
+    navLabel: 'コントリビューション学習センター',
+    journey: 'ステップ別ガイド',
+    reference: 'Markdown・属性リファレンス',
+    start: 'ガイドから始める',
+    referenceEyebrow: '02 / 必要なときに参照',
+    referenceTitle: '編集に必要な答えを、このページだけで。',
+    referenceIntro: '貢献フローから離れたり、すべての構文を暗記したりする必要はありません。まず現在の変更に必要な部分を進め、書式・メディア・frontmatter で迷ったときに目次から該当章へ移動してください。',
+    contents: 'ページ内目次',
+    standalone: '独立した閲覧ページで開く',
+    editReference: 'このリファレンスを改善',
+    workflowTitle: 'おすすめの学習順序',
+    workflow: ['自分に合うルートを選ぶ', '対象ファイルと言語を確認', '編集中に構文を参照', '差分を確認して PR を送る'],
+  },
+  en: {
+    navLabel: 'Contribution learning center',
+    journey: 'Step-by-step contribution routes',
+    reference: 'Markdown and property reference',
+    start: 'Start with a route',
+    referenceEyebrow: '02 / Look up as you work',
+    referenceTitle: 'Keep every editing answer on the same page.',
+    referenceIntro: 'You do not need to leave the contribution flow or memorize the whole reference. Complete only what your change needs, then jump to the relevant section when you meet a formatting, media, or frontmatter question.',
+    contents: 'On this page',
+    standalone: 'Open the focused reading view',
+    editReference: 'Improve this reference',
+    workflowTitle: 'Recommended learning order',
+    workflow: ['Choose a contribution route', 'Confirm the file and locale', 'Look up syntax while editing', 'Review the diff and open a PR'],
+  },
+}[localeCode];
 
 const docsHref = `https://github.com/LinkTh1rsty/kamitsubaki-wiki-site/blob/main/${copy.docsPath}`;
 const repoEditRoot = 'https://github.com/LinkTh1rsty/kamitsubaki-wiki-site/edit/main/';
@@ -81,6 +138,20 @@ const metadata = {
       <a href={`/${localeCode}/`} class="transition-colors hover:text-white">{copy.back}</a>
       <a href={docsHref} class="transition-colors hover:text-white" target="_blank" rel="noopener noreferrer">{copy.docs}</a>
     </div>
+
+    <nav class="guide-workspace-nav" aria-label={learningCopy.navLabel}>
+      <p>{learningCopy.navLabel}</p>
+      <div>
+        <a href="#choose-guide">
+          <span>01</span>
+          {learningCopy.journey}
+        </a>
+        <a href="#syntax-reference">
+          <span>02</span>
+          {learningCopy.reference}
+        </a>
+      </div>
+    </nav>
 
     <section class="guide-hero border-y border-white/10 py-10 sm:py-14 lg:py-16">
       <div class="grid gap-10 lg:grid-cols-[minmax(0,1fr)_minmax(25rem,0.8fr)] lg:items-center">
@@ -312,6 +383,40 @@ const metadata = {
         </div>
       </section>
     ))}
+
+    <section id="syntax-reference" class="guide-reference border-t border-white/10 pt-12 sm:pt-16">
+      <header class="guide-reference__header">
+        <div>
+          <p class="text-[9px] font-mono uppercase tracking-[0.22em] text-cyan-200/60">{learningCopy.referenceEyebrow}</p>
+          <h2 class="mt-3 max-w-3xl font-serif text-3xl tracking-[0.05em] text-white sm:text-4xl">{learningCopy.referenceTitle}</h2>
+          <p class="mt-5 max-w-3xl text-sm leading-7 text-white/55 sm:text-[15px] sm:leading-8">{learningCopy.referenceIntro}</p>
+        </div>
+        <ol aria-label={learningCopy.workflowTitle}>
+          {learningCopy.workflow.map((step, index) => (
+            <li><span>{String(index + 1).padStart(2, '0')}</span>{step}</li>
+          ))}
+        </ol>
+      </header>
+
+      <div class="guide-reference__layout">
+        <aside class="guide-reference__toc">
+          <p>{learningCopy.contents}</p>
+          <TableOfContents headings={syntaxHeadings} title={learningCopy.contents} />
+        </aside>
+
+        <article class="wiki-reader wiki-prose prose prose-invert min-w-0 max-w-none">
+          <SyntaxContent />
+        </article>
+
+        <aside class="guide-reference__actions">
+          <p class="font-serif text-lg tracking-[0.04em] text-white/82">{syntaxEntry.data.title}</p>
+          <p class="mt-3 text-xs leading-6 text-white/46">{syntaxEntry.data.description}</p>
+          <a href={syntaxStandaloneHref}>{learningCopy.standalone}</a>
+          <a href={syntaxEditHref}>{learningCopy.editReference}</a>
+          <a href="#choose-guide">{learningCopy.start}</a>
+        </aside>
+      </div>
+    </section>
   </main>
 
   <SiteFooter footer={homeContent.footer} />

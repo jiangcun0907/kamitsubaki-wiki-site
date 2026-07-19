@@ -18,7 +18,7 @@ order: 1
 - 美古途（CV：[美古途](https://kamitsubaki.wiki/zh/artists/girls_revolution_project/mikoto/)）
 - 夕凪机（CV：[夕凪机](https://kamitsubaki.wiki/zh/artists/girls_revolution_project/yunagi/)）
 - 氷夏至（CV：[氷夏至](https://kamitsubaki.wiki/zh/artists/girls_revolution_project/hinageshi/)）
-- ？？？<span style="filter: blur(5px); transition: filter 0.3s; cursor: pointer;" onmouseover="this.style.filter='none'" onmouseout="this.style.filter='blur(5px)'" onclick="this.style.filter='none'">白丸</span>（CV：？？？[<span style="filter: blur(5px); transition: filter 0.3s; cursor: pointer;" onmouseover="this.style.filter='none'" onmouseout="this.style.filter='blur(5px)'" onclick="this.style.filter='none'">ヰ世界情绪</span>](https://kamitsubaki.wiki/zh/artists/vwp/isekaijoucho/)）
+- ？？？<span class="wiki-spoiler" tabindex="0">白丸</span>（CV：？？？[<span class="wiki-spoiler" tabindex="0">ヰ世界情绪</span>](https://kamitsubaki.wiki/zh/artists/vwp/isekaijoucho/)）
 - 魔王（CV：诗道）
 
 ### 剧集列表

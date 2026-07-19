@@ -1,49 +1,55 @@
 ---
 locale: en
 translationKey: syntax-guide
-title: Markdown Syntax and Property Guide
-description: A guide to the Markdown syntax and entry properties used on this site.
+title: Complete Markdown and Entry Property Guide
+description: "One reference for a first edit or a complete new entry: Markdown, frontmatter, media, content structure, and pre-PR checks."
 ---
 
-This encyclopedia uses Markdown to create entries, unlike Wikipedia and Moegirlpedia, which use wikitext syntax. This document therefore provides a simple Markdown tutorial—or, more precisely, a tutorial covering everything required to create entries on this site.
+Use this as a **look-up reference**, not a chapter you must memorize. For a first contribution, choose a route above. While editing, jump here only when you need a heading, link, image, media embed, or frontmatter field.
 
-Please note that all syntax symbols must use half-width ASCII characters. Full-width punctuation entered with a Chinese or Japanese input method will not work.
+## Before you edit
+
+The shortest reliable workflow is:
+
+1. Confirm that the target is under `src/content/` and that `zh.md`, `ja.md`, or `en.md` matches the intended locale.
+2. Change only what the contribution needs, and prepare a traceable source for new facts.
+3. Preserve both `---` markers, existing fields, indentation, and quotes in frontmatter.
+4. Review Preview / Changes before opening the Pull Request.
+
+This site uses Markdown rather than wiki text. Syntax characters must be half-width ASCII characters; full-width punctuation entered by a Chinese or Japanese input method will not work.
+
+> Beginner rule: prefer a small, correct change. Do not reorganize unrelated paragraphs, and never use AI output as a factual source.
 
 ## Headings
 
-Use the `#` symbol to create headings. The number of `#` symbols determines the heading level.
+Use `#` to create headings. Its count determines the level, up to six, and it must be followed by a space. Entry bodies normally begin with `##`, because the page title already comes from frontmatter.
 
-For example, `#` creates a level-one heading, `##` creates a level-two heading, and so on. Markdown supports up to six heading levels.
+**Source:**
 
-A space must be placed after the `#` symbols for the heading syntax to work.
+```md
+## Level-two heading
+### Level-three heading
+```
 
-For example:
+**Rendered result:**
 
-`# Level-one heading`
-
-This will produce the following heading:
-
-# Level-one heading
+### Level-three heading example
 
 ## Text formatting
 
-- Bold: **bold text**
+**Source:**
 
-  Use two asterisks or two underscores. The syntax is `**text to make bold**` or `__text to make bold__`.
+```md
+**Bold text**
+*Italic text*
+***Bold italic text***
+~~Strikethrough text~~
+`Inline code`
+```
 
-- Italic: *italic text* or _italic text_
+**Rendered result:**
 
-  Use one asterisk or one underscore. The syntax is `*italic text*` or `_italic text_`.
-
-- Bold italic: ***bold italic text***
-
-  Use three asterisks. The syntax is `***bold italic text***`.
-
-- Strikethrough: ~~strikethrough text~~
-
-  Use two tildes. The syntax is `~~strikethrough text~~`.
-
-- Inline code: wrap the content in backticks: `` `inline code` ``.
+**Bold text**, *italic text*, ***bold italic text***, ~~strikethrough text~~, `inline code`
 
 ## Lists
 
@@ -51,14 +57,17 @@ This will produce the following heading:
 
 Use `-` or `+`:
 
+**Source:**
+
+```md
 - Item one
 - Item two
-
-The syntax is:
-
-```markdown
-- List item
 ```
+
+**Rendered result:**
+
+- Item one
+- Item two
 
 Remember to add a space after the list marker.
 
@@ -66,25 +75,29 @@ Remember to add a space after the list marker.
 
 Use a number followed by a period:
 
+**Source:**
+
+```md
+1. First step
+2. Second step
+3. Third step
+```
+
+**Rendered result:**
+
 1. First step
 2. Second step
 3. Third step
 
 ## Links
 
-The link syntax is:
+**Source:**
 
-```markdown
-[Link name](URL)
-```
-
-For example:
-
-```markdown
+```md
 [Visit this site](https://kamitsubaki.wiki/en/)
 ```
 
-The result will be:
+**Rendered result:**
 
 [Visit this site](https://kamitsubaki.wiki/en/)
 
@@ -92,14 +105,16 @@ The result will be:
 
 Use `|` to define columns and `-` to define the header separator:
 
-```markdown
+**Source:**
+
+```md
 | Artist | Song | Lyrics |
 | :--- | :---: | ---: |
 | KAF | 糸 | Omitted |
 | RIM | 1999 | Omitted |
 ```
 
-This produces the following table:
+**Rendered result:**
 
 | Artist | Song | Lyrics |
 | :--- | :---: | ---: |
@@ -112,7 +127,7 @@ Alignment rules:
 - `:---:` means centered.
 - `---:` means right-aligned.
 
-### Frontmatter
+## Frontmatter
 
 The frontmatter block at the top of a file contains the properties of the entry being edited.
 
@@ -127,15 +142,21 @@ translationKey: example-entry
 title: Example Entry
 ---
 ```
-### Inserting Images
 
-To insert an image into an entry, please use the following format:
+**Rendered result:** the page reads these fields to generate its title, locale relationship, and metadata; the YAML block is not displayed as article text.
+## Inserting images
 
-`![Image description](/public/images/image_path)`
+**Source:**
 
-Additionally, please upload the images you wish to insert into the `/public/images/` directory. The image path should be relative to the `/public/images/` directory.
+```md
+![Cover art for KAF's Ito](/images/songs/shi.webp)
+```
 
-### About Markdown editors
+**Rendered result:** the image appears at this position. If the asset is temporarily unavailable, its alternative text still explains the intended content.
+
+Place the file in `public/images/`, but use a public URL beginning with `/images/`; do not include `public` in the URL. Describe informative images clearly. Decorative images may use an empty description: `![](...)`.
+
+## About Markdown editors
 
 Markdown does not require a specialized editor. You can even create a Markdown file using a basic text editor such as Notepad, as long as you save the file with the `.md` extension.
 
@@ -143,65 +164,257 @@ For users who are unfamiliar with Markdown, an editor with real-time preview may
 
 Obsidian is recommended because it offers a comprehensive feature set and is available on multiple platforms.
 
-## Advanced content
+## Wiki shortcodes and controlled media
 
-After learning the basic Markdown syntax, you can explore a slightly more advanced presentation method: HTML.
+After learning the Markdown basics, you may use a small, supported subset of HTML for ruby text, disclosure panels, and semantic markup. Article HTML is sanitized during the build; not every element supported by a browser is permitted here.
 
-Markdown supports embedded HTML, allowing us to create a wider range of formatting effects. The following sections introduce several HTML elements that are commonly used when editing this site.
+### Security boundary
 
-### Ruby tags
+Article bodies allow only these groups of elements:
 
-Ruby text is a typesetting format commonly used in East Asian writing systems. It places pronunciation or annotation text above or beside the main characters.
+- Structure: `p`, `h1`–`h6`, `blockquote`, `hr`, `br`, `div`, and `span`.
+- Text semantics: `a`, `abbr`, `b`, `strong`, `i`, `em`, `u`, `s`, `del`, `mark`, `small`, `code`, `pre`, `kbd`, `samp`, `var`, `sub`, `sup`, `cite`, `q`, and `time`.
+- Lists and data: `ul`, `ol`, `li`, `dl`, `dt`, `dd`, `table`, `thead`, `tbody`, `tfoot`, `tr`, `th`, and `td`.
+- Wiki layout: `ruby`, `rt`, `rp`, `details`, `summary`, `figure`, `figcaption`, `picture`, `img`, and `source`.
 
-For example:
+Attributes are allowlisted too. Normal link, image-alt, and table-span attributes are retained; `class` is limited to the few patterns implemented by the site. The following are removed:
 
-```html
-<ruby>局部坏死<rt>zheng ge hao huo</rt></ruby>
+- Executable or arbitrary third-party containers such as `script`, `style`, `iframe`, `object`, `embed`, and `form`.
+- Every `on*` event attribute, including `onclick`, `onmouseover`, and `onerror`, plus inline `style`.
+- Dangerous URL schemes such as `javascript:`. Authored `id` and `name` values receive a safe prefix so article content cannot shadow page objects.
+
+Contributors normally do not need to write this HTML directly. Prefer the Wiki shortcodes below: site code creates the matching elements and the result still passes through the same allowlist. Propose a reusable shortcode in the PR when a new interaction is needed; do not paste scripts or third-party player snippets into an article.
+
+### Wiki shortcode reference
+
+Shortcodes use a function-like `{{name::argument}}` form. Every name and argument count is fixed:
+
+| Purpose | Syntax |
+| --- | --- |
+| Ruby reading | `{{ruby::text::reading}}` |
+| Reading plus romaji | `{{ruby::text::kana::romaji}}` |
+| Spoiler / redaction | `{{spoiler::hidden text}}` |
+| Highlight | `{{mark::important}}` |
+| Abbreviation | `{{abbr::V.W.P::Virtual Witch Phenomenon}}` |
+| Keyboard input | `{{kbd::Ctrl+K}}` |
+| Machine-readable date | `{{time::display text::2026-07-19}}` |
+| Small, superscript, subscript | `{{small::text}}`, `{{sup::2}}`, `{{sub::2}}` |
+| Lyric toggle buttons | `{{lyrics-controls::en}}` (use `zh` / `ja` for those files) |
+
+Inline arguments are plain text: do not nest Markdown or HTML inside them. A double colon `::` separates arguments and remains safe inside Markdown tables. A misspelled name or incorrect argument count remains visible as source text so the mistake can be found in Preview.
+
+**Source:**
+
+```md
+{{mark::Important}}
+{{abbr::V.W.P::Virtual Witch Phenomenon}}
+Press {{kbd::Ctrl+K}}
+{{time::July 19, 2026::2026-07-19}}
+H{{sub::2}}O and x{{sup::2}}
+{{small::Additional note}}
 ```
 
-For more precise character-by-character alignment, write:
+**Rendered result:**
 
-```html
-<ruby>清<rt>hun</rt>楚<rt>dun</rt></ruby>
+{{mark::Important}}, {{abbr::V.W.P::Virtual Witch Phenomenon}}, press {{kbd::Ctrl+K}}, {{time::July 19, 2026::2026-07-19}}, H{{sub::2}}O and x{{sup::2}}, {{small::additional note}}
+
+On a song page, place `{{lyrics-controls::en}}` in its own paragraph immediately before the `.my-lyric-box` lyric container. The site generates the localized kana, translation, and romaji controls; Japanese automatically omits the translation control. The argument must match the file's `locale`.
+
+### Complete lyric-page authoring
+
+A lyric page has three parts: localized controls, the lyric container, and repeated lyric lines. The controls must occupy their own paragraph immediately before the container. Each `lyric-line` contains one source line and its translation.
+
+#### Code syntax
+
+```md
+{{lyrics-controls::locale}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>source<rt class="furi">kana</rt><rt class="roma">romaji</rt></ruby>
+</div>
+<div class="trans-lyric">English translation</div>
+</div>
+
+</div>
+```
+
+- Replace `locale` with the current file's `zh`, `ja`, or `en`.
+- `furi` is the kana track controlled by “Show kana”; `roma` is the romanization track.
+- Chinese uses `cn-lyric`, English uses `trans-lyric`, and Japanese omits the translation `<div>`.
+- If kana needs no furigana, provide only romaji: `<ruby>なら<rt class="roma">nara</rt></ruby>`.
+- Copy the complete `lyric-line` group for every additional line. Do not put `{{ruby::...}}` shortcodes inside this raw HTML block; Markdown shortcodes are not parsed again inside an HTML block.
+
+#### Authoring
+
+This is a complete single-line example that can be copied into an English song file:
+
+```md
+{{lyrics-controls::en}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>間違<rt class="furi">まちが</rt><rt class="roma">machiga</rt></ruby><ruby>い<rt class="roma">i</rt></ruby>
+</div>
+<div class="trans-lyric">If it is a mistake</div>
+</div>
+
+</div>
+```
+
+#### Example
+
+The code above renders as an interactive lyric-practice component:
+
+{{lyrics-controls::en}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>間違<rt class="furi">まちが</rt><rt class="roma">machiga</rt></ruby><ruby>い<rt class="roma">i</rt></ruby>
+</div>
+<div class="trans-lyric">If it is a mistake</div>
+</div>
+
+</div>
+
+### AI prompt for generating lyric HTML
+
+For long lyrics, an AI assistant can mechanically format source text, readings, romaji, and translations that you already have. AI is not a source for lyrics, translations, or readings: verify every line before pasting and make sure the material's source permits this contribution.
+
+#### Prompt syntax
+
+Copy the complete prompt below and replace its five input sections:
+
+```md
+You are a lyric HTML formatter for the KAMITSUBAKI Wiki. Convert only the lyric tracks I provide into the site's format.
+
+Requirements:
+1. Only transform the input. Do not add lyrics, translate, rewrite, or guess missing readings.
+2. Output only content that can be pasted directly into Markdown. Do not explain and do not use a code fence.
+3. Begin with {{lyrics-controls::file locale}}, followed by exactly one <div class="my-lyric-box"> container.
+4. Use one <div class="lyric-line"> per input line and put Japanese source text inside <div class="jp-lyric">.
+5. With kana and romaji, use <ruby>source<rt class="furi">kana</rt><rt class="roma">romaji</rt></ruby>.
+6. With romaji only, use <ruby>source<rt class="roma">romaji</rt></ruby>. With no reliable reading, keep plain source text.
+7. Use cn-lyric for Chinese translations and trans-lyric for English translations. Omit the translation div for Japanese files or missing translations.
+8. Preserve line count, order, punctuation, and text exactly. If word-level alignment is uncertain, use one ruby for the whole line with the supplied whole-line reading; do not invent segmentation.
+9. Escape <, >, and & in text. Never output style, any on* attribute, script, iframe, id, or unrequested elements.
+10. Check that every div, ruby, and rt is closed correctly. Leave exactly one blank line between the controls and lyric container.
+
+[FILE LOCALE]
+zh / ja / en
+
+[JAPANESE SOURCE — one lyric line per line]
+Paste here
+
+[KANA — optional; line count must match source]
+Paste here
+
+[ROMAJI — optional; line count must match source]
+Paste here
+
+[TRANSLATION — optional; line count must match source]
+Paste here
+```
+
+#### Authoring
+
+Replace only the input sections, for example:
+
+```md
+[FILE LOCALE]
+en
+
+[JAPANESE SOURCE]
+間違い
+
+[KANA]
+まちがい
+
+[ROMAJI]
+machigai
+
+[TRANSLATION]
+If it is a mistake
+```
+
+#### Output example
+
+A valid AI response should resemble this and be ready to paste into the song body:
+
+```md
+{{lyrics-controls::en}}
+
+<div class="my-lyric-box">
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>間違い<rt class="furi">まちがい</rt><rt class="roma">machigai</rt></ruby>
+</div>
+<div class="trans-lyric">If it is a mistake</div>
+</div>
+</div>
+```
+
+### Ruby readings
+
+Provide only the displayed text and its reading:
+
+```md
+{{ruby::局部坏死::zheng ge hao huo}}
+```
+
+For precise character-by-character alignment, place calls next to each other:
+
+```md
+{{ruby::清::hun}}{{ruby::楚::dun}}
 ```
 
 The result is:
 
-- <ruby>清<rt>hun</rt>楚<rt>dun</rt></ruby>
+- {{ruby::清::hun}}{{ruby::楚::dun}}
 
-### Spoiler or concealed-text effect
+### Content hidden by default
 
-This site uses the following code to create a concealed-text effect:
+Use the spoiler shortcode for short inline content and the block form below for longer optional content. Neither form requires article-level JavaScript.
 
-```html
-<span style="filter: blur(5px); transition: filter 0.3s; cursor: pointer;" onmouseover="this.style.filter='none'" onmouseout="this.style.filter='blur(5px)'" onclick="this.style.filter='none'">This is a confidential passage contaminated by forbidden knowledge.</span>
+**Source:**
+
+```md
+The ending is: {{spoiler::hidden by default}}
 ```
 
-The result is:
+**Rendered result:**
 
-<span style="filter: blur(5px); transition: filter 0.3s; cursor: pointer;" onmouseover="this.style.filter='none'" onmouseout="this.style.filter='blur(5px)'" onclick="this.style.filter='none'">You cannot see me. You cannot see me.</span>
-
-When using this effect, replace the text inside the `<span>` element with the content you want to conceal.
+The ending is: {{spoiler::hidden by default}}
 
 ### Collapsible content
 
-When an entry contains too many items, especially inside a table, use the following structure to hide excessive content by default:
+Use paired `details` markers. Each marker must occupy its own paragraph with a blank line around it; normal Markdown remains available between them:
 
-```html
-<details>
-  <summary>Write the title that is normally visible here. Click it to expand.</summary>
-  Write the content that is normally hidden here. It will appear after expansion.
-</details>
+```md
+{{details::Show the complete track list}}
+
+1. First song
+2. **Second song**
+
+{{/details}}
 ```
 
 The result is:
 
-<details>
-  <summary>Write the title that is normally visible here. Click it to expand.</summary>
-  Write the content that is normally hidden here. It will appear after expansion.
-</details>
+{{details::Show the complete track list}}
 
-*Note: You can use `<br>` to insert a line break while editing.*
+1. First song
+2. **Second song**
+
+{{/details}}
+
+For ordinary paragraphs, insert a blank line. Use the allowlisted `<br>` only in special locations such as a table cell.
 
 ### Embedding audio and video
 
@@ -222,6 +435,10 @@ Supported provider names are `youtube`, `bilibili`, `apple-music`, `spotify`, `n
 @[qq-music](001ABCDEF)
 ```
 
+**Rendered example:**
+
+@[youtube](3Wtx6k2vInU "KAF - Ito")
+
 Multiple shortcodes may be placed in the same Markdown table cell. Players are stacked vertically in source order. The cell must contain only shortcodes and whitespace, without explanatory text:
 
 ```md
@@ -230,9 +447,16 @@ Multiple shortcodes may be placed in the same Markdown table cell. Players are s
 | Wiz_nicc | Wiz_nicc | @[bilibili](BV13ZZNYQEQx) @[netease](2637083551) |
 ```
 
-An unrecognized provider or target remains a normal link and never becomes an arbitrary third-party iframe. Existing raw `<iframe>` markup remains compatible, but new content should use the shortcode for consistent sizing and styling.
+An unrecognized provider or target remains a normal link and never becomes an arbitrary third-party iframe. New content should use the shortcode so provider scope, privacy attributes, sizing, and styling stay consistent; do not paste raw third-party `<iframe>` snippets.
 
-These are the syntax formats most commonly used when editing this site. This document may be updated in the future.
+## Pre-PR checklist
+
+- The path matches `locale`, and localized siblings share one `translationKey`.
+- Both `---` markers, YAML indentation, and field types are intact.
+- Dates use `YYYY-MM-DD`; durations use `MM:SS` or `HH:MM:SS`.
+- New facts have reliable sources, links open, and informative images have useful alternative text.
+- Media uses `@[provider](...)`; the body contains no scripts, event handlers, credentials, tokens, or private information.
+- Preview / Changes contains only the intended edit and no accidental deletion of another locale.
 
 ## Property block guide
 
@@ -245,7 +469,28 @@ The following properties are shared by every entry category:
 - `locale`: Identifies the language version of the document. The available values are `zh` for Chinese, `en` for English, and `ja` for Japanese. Enter the value corresponding to the language of the entry you are editing.
 - `translationKey`: A shared identifier connecting different language versions of the same entry. The Chinese, Japanese, and English files for the same entry must use the same value.
 
+**Source example:**
+
+```yaml
+locale: en
+translationKey: kaf-originals-shi
+```
+
+**Result:** the file joins the English collection and links to the Japanese and Chinese files that share this `translationKey`.
+
 ### Artist properties
+
+**Minimal example:**
+
+```yaml
+name: KAF
+romanizedName: KAF
+statusLabel: Activity status
+status: Active
+image: /images/artists/kaf.webp
+```
+
+**Result:** the artist page uses “KAF” as its heading and displays the status and profile image.
 
 | Property | Type | Required | Purpose and content |
 | :---: | :---: | :---: | :--- |
@@ -279,6 +524,17 @@ The following properties are shared by every entry category:
 
 ### Project properties
 
+**Minimal example:**
+
+```yaml
+kind: project
+title: Kamitsubaki City Under Construction
+description: A Kamitsubaki world-building project
+order: 10
+```
+
+**Result:** the project is sorted by `order` and its title and description form the listing card.
+
 | Property | Type | Required | Purpose and content |
 | --- | --- | :---: | --- |
 | `locale` | `zh / ja / en` | Yes | Language of the current project entry |
@@ -290,6 +546,17 @@ The following properties are shared by every entry category:
 | `seo` | Shared SEO object | No | Search-engine and social-sharing information |
 
 ### Log properties
+
+**Minimal example:**
+
+```yaml
+date: "2026-07-19"
+type: update
+title: Site content update
+order: 10
+```
+
+**Result:** the log page displays its date, type, and title and sorts it by `order`.
 
 | Property | Type | Required | Purpose and content |
 | --- | --- | :---: | --- |
@@ -303,6 +570,17 @@ The following properties are shared by every entry category:
 | `seo` | Shared SEO object | No | Search-engine and social-sharing information |
 
 ### Song properties
+
+**Minimal example:**
+
+```yaml
+title: Ito
+artist: KAF
+releaseDate: "2018-12-06"
+duration: "03:52"
+```
+
+**Result:** the song page displays its title, artist, release date, and duration and groups it in the artist's song list.
 
 | Property | Type | Required | Purpose and content |
 | --- | --- | :---: | --- |
@@ -324,6 +602,21 @@ The following properties are shared by every entry category:
 | `seo` | Shared SEO object | No | Search-engine and social-sharing information |
 
 ### Album properties
+
+**Minimal example:**
+
+```yaml
+title: Observation α
+artist: KAF
+type: Album
+releaseDate: "2019-09-11"
+tracks:
+  - number: 1
+    title: Ito
+    songId: kaf-originals/shi
+```
+
+**Result:** the album page builds its metadata and track list; a track with `songId` links to the corresponding song page.
 
 | Property | Type | Required | Purpose and content |
 | --- | --- | :---: | --- |
@@ -352,3 +645,70 @@ The following properties are shared by every entry category:
 | `seo` | Shared SEO object | No | Search-engine and social-sharing information |
 
 - For specific examples, refer to completed entries in this site's GitHub repository.
+
+## Advanced: supported raw HTML
+
+Shortcodes are the easiest option, but the original safe HTML forms remain supported for maintaining older entries or controlling markup precisely. HTML must stay within the allowlist described above. The sanitizer removes `style`, `onmouseover`, `onclick`, `script`, and raw `iframe` content.
+
+### HTML ruby readings
+
+**Source:**
+
+```html
+<ruby>局部坏死<rt>zheng ge hao huo</rt></ruby>
+<ruby>清<rt>hun</rt>楚<rt>dun</rt></ruby>
+```
+
+**Rendered result:**
+
+<ruby>局部坏死<rt>zheng ge hao huo</rt></ruby>; <ruby>清<rt>hun</rt>楚<rt>dun</rt></ruby>
+
+### HTML spoiler text
+
+The old version based on inline styles and mouse event attributes is no longer accepted. Safe raw HTML uses the site-defined `wiki-spoiler` class.
+
+**Source:**
+
+```html
+<span class="wiki-spoiler" tabindex="0">Hidden by default</span>
+```
+
+**Rendered result:**
+
+<span class="wiki-spoiler" tabindex="0">Hidden by default</span>
+
+### HTML disclosure panel
+
+**Source:**
+
+```html
+<details>
+  <summary>Show the complete track list</summary>
+  <p>This supplementary content is collapsed by default.</p>
+</details>
+```
+
+**Rendered result:**
+
+<details>
+  <summary>Show the complete track list</summary>
+  <p>This supplementary content is collapsed by default.</p>
+</details>
+
+### HTML semantic elements and line breaks
+
+**Source:**
+
+```html
+<mark>Important</mark>
+<abbr title="Virtual Witch Phenomenon">V.W.P</abbr>
+Press <kbd>Ctrl+K</kbd><br>
+H<sub>2</sub>O and x<sup>2</sup>
+```
+
+**Rendered result:**
+
+<mark>Important</mark>, <abbr title="Virtual Witch Phenomenon">V.W.P</abbr>, press <kbd>Ctrl+K</kbd><br>
+H<sub>2</sub>O and x<sup>2</sup>
+
+Raw HTML is only for static allowlisted markup. Continue to use `@[provider](...)` for media and `{{lyrics-controls::en}}` for lyric controls so site code owns all interaction behavior.

@@ -1,6 +1,7 @@
 ---
 locale: zh
 translationKey: hinageshi
+contentStatus: stub
 code: G6
 romanizedName: HINAGESHI
 categoryOrder: 5

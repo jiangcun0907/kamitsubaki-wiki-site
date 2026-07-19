@@ -1,6 +1,7 @@
 ---
 locale: ja
 translationKey: garasumiya
+contentStatus: stub
 code: G3
 romanizedName: GARASUMIYA
 categoryOrder: 5

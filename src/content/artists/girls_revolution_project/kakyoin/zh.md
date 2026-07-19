@@ -37,7 +37,7 @@ featuredEntries:
 theme:
   name: KAKYOIN theme
   accentColor: "#3c4293"
-  muteColor: "#d7332a"
+  mutedColor: "#d7332a"
   surfaceColor: "#111321"
   highlightColor: "#fff6fa"
   palette:
@@ -55,15 +55,6 @@ seo:
     - "KAKYOIN"
     - "GIRLS REV PROJECT"
 ---
-
-<style> 
-.center-table-wrapper table th, 
-.center-table-wrapper table td { 
-text-align: center !important; 
-vertical-align: middle !important; 
-padding: 12px 20px; 
-} 
-</style>
 
 ## 简介
 
@@ -88,9 +79,9 @@ padding: 12px 20px;
 |    投稿时间     |                 歌曲名称                 |    作词     |    作曲     |                                                                                                                                                                                                     试听                                                                                                                                                                                                      |
 | :---------: | :----------------------------------: | :-------: | :-------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 2024年10月23日 |                 夢の揺籠                 | Wiz_nicc  | Wiz_nicc  |   @[bilibili](BV13ZZNYQEQx) @[netease](2637083551)  |
-| 2024年12月11日 |                宇宙逃避行                 |   MIMI    |   MIMI    | <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114517451215757&bvid=BV1cUE4zgEVF&cid=29991305386&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2653100592&auto=0&height=66"></iframe><br> |
-| 2025年3月19日  | <ruby>キリガサガリキ<rt>kirigasagariki</rt> | Purukichi | Purukichi |   <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115049322584049&bvid=BV19fY4zYEaP&cid=31779784208&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2683803668&auto=0&height=66"></iframe>   |
-| 2025年11月12日 |                 月へゆく                 |   tama    |   tama    |   <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115576294936811&bvid=BV1cByJBNEUm&cid=34113520708&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2754194786&auto=0&height=66"></iframe>   |
+| 2024年12月11日 |                宇宙逃避行                 |   MIMI    |   MIMI    | @[bilibili](https://player.bilibili.com/player.html?isOutside=true&aid=114517451215757&bvid=BV1cUE4zgEVF&cid=29991305386&p=1) @[netease](https://music.163.com/outchain/player?type=2&id=2653100592&auto=0&height=66) |
+| 2025年3月19日  | <ruby>キリガサガリキ<rt>kirigasagariki</rt> | Purukichi | Purukichi |   @[bilibili](https://player.bilibili.com/player.html?isOutside=true&aid=115049322584049&bvid=BV19fY4zYEaP&cid=31779784208&p=1) @[netease](https://music.163.com/outchain/player?type=2&id=2683803668&auto=0&height=66)   |
+| 2025年11月12日 |                 月へゆく                 |   tama    |   tama    |   @[bilibili](https://player.bilibili.com/player.html?isOutside=true&aid=115576294936811&bvid=BV1cByJBNEUm&cid=34113520708&p=1) @[netease](https://music.163.com/outchain/player?type=2&id=2754194786&auto=0&height=66)   |
 
 ### 合唱曲目
 
@@ -100,21 +91,21 @@ padding: 12px 20px;
 
 |    投稿时间    |              歌曲名称               |    演唱者     |  作词   |  作曲   |                                                                                                                                                                                                   试听                                                                                                                                                                                                    |
 | :--------: | :-----------------------------: | :--------: | :---: | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 2025年2月12日 | <ruby>シネマティック<rt>Cinematic</rt> | 佳镜院<br>冰夏至 | 櫻井健太郎 | 櫻井健太郎 | <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114815800445626&bvid=BV12KGEz5Er2&cid=30913922329&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2672413957&auto=0&height=66"></iframe> |
+| 2025年2月12日 | <ruby>シネマティック<rt>Cinematic</rt> | 佳镜院<br>冰夏至 | 櫻井健太郎 | 櫻井健太郎 | @[bilibili](https://player.bilibili.com/player.html?isOutside=true&aid=114815800445626&bvid=BV12KGEz5Er2&cid=30913922329&p=1) @[netease](https://music.163.com/outchain/player?type=2&id=2672413957&auto=0&height=66) |
 
 #### 心世纪曲目
 
 |    投稿时间    |                           歌曲名称                           |    作词     |      作曲       |                                                                                       试听                                                                                       |
 | :--------: | :------------------------------------------------------: | :-------: | :-----------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 2024-08-09 | <ruby>フェイクナイト・シンデレラ<rt>Fake Night Cinderella</rt></ruby> |   矢野達也    |     矢野達也      | <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2749848111&auto=0&height=66"></iframe> |
-| 2024-09-18 |         <ruby>パーフェクション<rt>Perfection</rt></ruby>         |   水野あつ    | HIDEYA KOJIMA | <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2749849270&auto=0&height=66"></iframe> |
-| 2025-01-22 |                        Ephemeral                         |  100回嘔吐   |    100回嘔吐     | <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2749849268&auto=0&height=66"></iframe> |
-| 2025-02-26 |            <ruby>ココロト<rt>Kokoroto</rt></ruby>            |    とあ     |      とあ       | <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2749849271&auto=0&height=66"></iframe> |
-| 2025-04-02 |                           うそ鳴き                           |    ぽん     | HIDEYA KOJIMA | <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2749848112&auto=0&height=66"></iframe> |
-| 2025-05-21 |                         いずれ僕は溶けて                         | Purukichi |   Purukichi   | <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2749849272&auto=0&height=66"></iframe> |
-| 2025-05-21 |  <ruby>ミリオン・コンプレクシティ<rt>Million Complexity</rt></ruby>   |   矢野達也    |     矢野達也      | <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2749849274&auto=0&height=66"></iframe> |
-| 2025-10-29 |         <ruby>ロストオービット<rt>Lost Orbit</rt></ruby>         | shikisai  |   shikisai    | <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2749849269&auto=0&height=66"></iframe> |
-| 2025-10-29 |           <ruby>コントラスト<rt>Contrast</rt></ruby>           |   矢野達也    |     矢野達也      | <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2749849273&auto=0&height=66"></iframe> |
-| 2025-10-29 |                        FantastiQ                         |    ぽん     | HIDEYA KOJIMA | <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2749848113&auto=0&height=66"></iframe> |
-| 2025-10-29 |                          改変 -心-                          |    たなか    |   たなか、LLLL    | <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2749849275&auto=0&height=66"></iframe> |
-| 2026-02-20 |                           雑几帖                            |   矢野達也    |     矢野達也      | <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=3339843367&auto=0&height=66"></iframe> |
+| 2024-08-09 | <ruby>フェイクナイト・シンデレラ<rt>Fake Night Cinderella</rt></ruby> |   矢野達也    |     矢野達也      | @[netease](https://music.163.com/outchain/player?type=2&id=2749848111&auto=0&height=66) |
+| 2024-09-18 |         <ruby>パーフェクション<rt>Perfection</rt></ruby>         |   水野あつ    | HIDEYA KOJIMA | @[netease](https://music.163.com/outchain/player?type=2&id=2749849270&auto=0&height=66) |
+| 2025-01-22 |                        Ephemeral                         |  100回嘔吐   |    100回嘔吐     | @[netease](https://music.163.com/outchain/player?type=2&id=2749849268&auto=0&height=66) |
+| 2025-02-26 |            <ruby>ココロト<rt>Kokoroto</rt></ruby>            |    とあ     |      とあ       | @[netease](https://music.163.com/outchain/player?type=2&id=2749849271&auto=0&height=66) |
+| 2025-04-02 |                           うそ鳴き                           |    ぽん     | HIDEYA KOJIMA | @[netease](https://music.163.com/outchain/player?type=2&id=2749848112&auto=0&height=66) |
+| 2025-05-21 |                         いずれ僕は溶けて                         | Purukichi |   Purukichi   | @[netease](https://music.163.com/outchain/player?type=2&id=2749849272&auto=0&height=66) |
+| 2025-05-21 |  <ruby>ミリオン・コンプレクシティ<rt>Million Complexity</rt></ruby>   |   矢野達也    |     矢野達也      | @[netease](https://music.163.com/outchain/player?type=2&id=2749849274&auto=0&height=66) |
+| 2025-10-29 |         <ruby>ロストオービット<rt>Lost Orbit</rt></ruby>         | shikisai  |   shikisai    | @[netease](https://music.163.com/outchain/player?type=2&id=2749849269&auto=0&height=66) |
+| 2025-10-29 |           <ruby>コントラスト<rt>Contrast</rt></ruby>           |   矢野達也    |     矢野達也      | @[netease](https://music.163.com/outchain/player?type=2&id=2749849273&auto=0&height=66) |
+| 2025-10-29 |                        FantastiQ                         |    ぽん     | HIDEYA KOJIMA | @[netease](https://music.163.com/outchain/player?type=2&id=2749848113&auto=0&height=66) |
+| 2025-10-29 |                          改変 -心-                          |    たなか    |   たなか、LLLL    | @[netease](https://music.163.com/outchain/player?type=2&id=2749849275&auto=0&height=66) |
+| 2026-02-20 |                           雑几帖                            |   矢野達也    |     矢野達也      | @[netease](https://music.163.com/outchain/player?type=2&id=3339843367&auto=0&height=66) |

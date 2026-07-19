@@ -296,16 +296,6 @@ html.has-js .reveal-up.active {
   z-index: -1;
 }
 
-.glitch-text {
-  position: relative;
-}
-
-.artist-row:hover .glitch-text {
-  text-shadow:
-    2px 0 2px rgba(255, 255, 255, 0.2),
-    -2px 0 2px rgba(100, 100, 100, 0.2);
-}
-
 .artist-expand-btn {
   width: 100%;
   background: transparent;
@@ -1006,6 +996,110 @@ html.has-js .reveal-up.active {
   text-underline-offset: 0.22em;
 }
 
+/* Safe interactive patterns available to sanitized wiki content. */
+.my-lyric-box {
+  margin: 1.25rem 0;
+  font-family: inherit;
+  line-height: 1.6;
+}
+
+.my-lyric-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.my-lyric-controls button {
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 0.25rem;
+  background: transparent;
+  padding: 0.4rem 0.9rem;
+  color: inherit;
+  font-size: 0.9em;
+  transition: background-color 180ms ease, border-color 180ms ease;
+}
+
+.my-lyric-controls button:hover,
+.my-lyric-controls button:focus-visible,
+.my-lyric-controls button[aria-pressed='true'] {
+  border-color: rgba(255, 255, 255, 0.42);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.my-lyric-box .lyric-line {
+  display: flex;
+  align-items: baseline;
+  gap: 1.25rem;
+  margin-bottom: 1.8rem;
+}
+
+.my-lyric-box .jp-lyric,
+.my-lyric-box .cn-lyric,
+.my-lyric-box .trans-lyric {
+  flex: 1;
+}
+
+.my-lyric-box .jp-lyric {
+  letter-spacing: 0.03em;
+}
+
+.my-lyric-box .cn-lyric,
+.my-lyric-box .trans-lyric {
+  opacity: 0.6;
+  font-size: 0.95em;
+  transition: opacity 180ms ease, visibility 180ms ease;
+}
+
+.my-lyric-box ruby {
+  ruby-align: center;
+}
+
+.my-lyric-box rt {
+  user-select: none;
+  font-size: 0.6em;
+}
+
+.my-lyric-box .roma {
+  display: none;
+}
+
+.my-lyric-box.hide-ruby rt {
+  display: none !important;
+}
+
+.my-lyric-box.hide-translation :where(.cn-lyric, .trans-lyric) {
+  visibility: hidden;
+  opacity: 0;
+}
+
+.my-lyric-box.show-romaji .furi {
+  display: none;
+}
+
+.my-lyric-box.show-romaji .roma {
+  display: ruby-text;
+}
+
+.wiki-spoiler {
+  filter: blur(0.32rem);
+  cursor: pointer;
+  transition: filter 180ms ease;
+}
+
+.wiki-spoiler:hover,
+.wiki-spoiler:focus-visible,
+.wiki-spoiler.is-revealed {
+  filter: none;
+}
+
+@media (max-width: 600px) {
+  .my-lyric-box .lyric-line {
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+}
+
 .wiki-guide-rail a {
   border-left: 1px solid transparent;
 }
@@ -1026,6 +1120,56 @@ html.has-js .reveal-up.active {
 
 .guide-shell [hidden] {
   display: none !important;
+}
+
+.guide-workspace-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  border: 1px solid var(--guide-border);
+  background: rgba(3, 3, 3, 0.92);
+  padding: 0.65rem 0.75rem 0.65rem 1rem;
+}
+
+.guide-workspace-nav > p {
+  font-family: var(--font-mono);
+  font-size: 0.56rem;
+  letter-spacing: 0.18em;
+  color: rgba(255, 255, 255, 0.34);
+  text-transform: uppercase;
+}
+
+.guide-workspace-nav > div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 0.35rem;
+}
+
+.guide-workspace-nav a {
+  display: inline-flex;
+  min-height: 2.35rem;
+  align-items: center;
+  gap: 0.65rem;
+  border: 1px solid transparent;
+  padding: 0.55rem 0.75rem;
+  font-family: var(--font-mono);
+  font-size: 0.58rem;
+  letter-spacing: 0.08em;
+  color: rgba(255, 255, 255, 0.58);
+  transition: border-color 180ms ease, background-color 180ms ease, color 180ms ease;
+}
+
+.guide-workspace-nav a span {
+  color: rgba(117, 245, 226, 0.72);
+}
+
+.guide-workspace-nav a:hover,
+.guide-workspace-nav a:focus-visible {
+  border-color: rgba(117, 245, 226, 0.32);
+  background: rgba(117, 245, 226, 0.055);
+  color: white;
 }
 
 .guide-hero {
@@ -1541,6 +1685,140 @@ html.has-js .reveal-up.active {
   border: 1px solid rgba(117, 245, 226, 0.13);
   border-radius: 50%;
   content: '';
+}
+
+.guide-reference {
+  scroll-margin-top: 7rem;
+  margin-top: clamp(4.5rem, 10vw, 8rem);
+}
+
+.guide-reference__header {
+  display: grid;
+  gap: 2rem;
+  align-items: end;
+}
+
+.guide-reference__header ol {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1px;
+  border: 1px solid var(--guide-border);
+  background: var(--guide-border);
+}
+
+.guide-reference__header li {
+  display: grid;
+  min-height: 5.5rem;
+  align-content: space-between;
+  gap: 0.75rem;
+  background: #030303;
+  padding: 1rem;
+  font-size: 0.72rem;
+  line-height: 1.55;
+  color: rgba(255, 255, 255, 0.58);
+}
+
+.guide-reference__header li span {
+  font-family: var(--font-mono);
+  font-size: 0.57rem;
+  color: rgba(117, 245, 226, 0.62);
+}
+
+.guide-reference__layout {
+  display: grid;
+  grid-template-columns: 13rem minmax(0, 1fr) 15rem;
+  gap: clamp(1.5rem, 3vw, 2.75rem);
+  align-items: start;
+  margin-top: clamp(2.5rem, 6vw, 4.5rem);
+}
+
+.guide-reference__toc,
+.guide-reference__actions {
+  position: sticky;
+  top: 7.5rem;
+}
+
+.guide-reference__toc > p {
+  margin-bottom: 1rem;
+  font-family: var(--font-mono);
+  font-size: 0.57rem;
+  letter-spacing: 0.18em;
+  color: rgba(255, 255, 255, 0.34);
+  text-transform: uppercase;
+}
+
+.guide-reference__actions {
+  border-left: 1px solid var(--guide-border);
+  padding-left: 1.25rem;
+}
+
+.guide-reference__actions a {
+  display: block;
+  border-top: 1px solid var(--guide-border);
+  padding: 0.85rem 0;
+  font-family: var(--font-mono);
+  font-size: 0.58rem;
+  line-height: 1.55;
+  letter-spacing: 0.06em;
+  color: rgba(117, 245, 226, 0.68);
+  transition: color 180ms ease, padding-left 180ms ease;
+}
+
+.guide-reference__actions a:first-of-type {
+  margin-top: 1rem;
+}
+
+.guide-reference__actions a:hover,
+.guide-reference__actions a:focus-visible {
+  padding-left: 0.35rem;
+  color: white;
+}
+
+.guide-reference .wiki-prose {
+  min-width: 0;
+}
+
+@media (max-width: 1023px) {
+  .guide-reference__layout {
+    grid-template-columns: minmax(0, 1fr) 15rem;
+  }
+
+  .guide-reference__toc {
+    position: static;
+    grid-column: 1 / -1;
+  }
+}
+
+@media (max-width: 767px) {
+  .guide-workspace-nav {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .guide-workspace-nav > div,
+  .guide-workspace-nav a {
+    width: 100%;
+  }
+
+  .guide-reference__header ol {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .guide-reference__layout {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .guide-reference__toc,
+  .guide-reference__actions {
+    position: static;
+  }
+
+  .guide-reference__actions {
+    border-top: 1px solid var(--guide-border);
+    border-left: 0;
+    padding-top: 1.25rem;
+    padding-left: 0;
+  }
 }
 
 @media (max-width: 1023px) {

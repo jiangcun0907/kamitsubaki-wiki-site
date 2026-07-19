@@ -18,7 +18,7 @@ order: 1
 - ミコト（声 - [美古途](https://kamitsubaki.wiki/ja/artists/girls_revolution_project/mikoto/)）
 - ユウナギ（声 - [夕凪機](https://kamitsubaki.wiki/ja/artists/girls_revolution_project/yunagi/)）
 - ヒナゲシ（声 - [氷夏至](https://kamitsubaki.wiki/ja/artists/girls_revolution_project/hinageshi/)）
-- ？？？<span style="filter: blur(5px); transition: filter 0.3s; cursor: pointer;" onmouseover="this.style.filter='none'" onmouseout="this.style.filter='blur(5px)'" onclick="this.style.filter='none'">シロマル</span>（CV：？？？[<span style="filter: blur(5px); transition: filter 0.3s; cursor: pointer;" onmouseover="this.style.filter='none'" onmouseout="this.style.filter='blur(5px)'" onclick="this.style.filter='none'">ヰ世界情绪</span>](https://kamitsubaki.wiki/ja/artists/vwp/isekaijoucho/)）
+- ？？？<span class="wiki-spoiler" tabindex="0">シロマル</span>（CV：？？？[<span class="wiki-spoiler" tabindex="0">ヰ世界情绪</span>](https://kamitsubaki.wiki/ja/artists/vwp/isekaijoucho/)）
 - 魔王（声 - 诗道）
 
 ### 各話リスト

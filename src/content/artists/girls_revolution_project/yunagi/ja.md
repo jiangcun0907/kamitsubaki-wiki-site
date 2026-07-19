@@ -1,6 +1,7 @@
 ---
 locale: ja
 translationKey: yunagi
+contentStatus: stub
 code: G5
 romanizedName: YUNAGI
 categoryOrder: 5

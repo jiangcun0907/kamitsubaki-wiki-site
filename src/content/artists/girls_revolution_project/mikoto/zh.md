@@ -1,6 +1,7 @@
 ---
 locale: zh
 translationKey: mikoto
+contentStatus: stub
 code: G4
 romanizedName: MIKOTO
 categoryOrder: 5

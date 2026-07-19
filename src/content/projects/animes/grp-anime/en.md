@@ -18,7 +18,7 @@ order: 1
 - Mikoto (VA: [Mikoto](https://kamitsubaki.wiki/en/artists/girls_revolution_project/mikoto/))
 - Yunagi (VA: [Yunagi](https://kamitsubaki.wiki/en/artists/girls_revolution_project/yunagi/))
 - Hinageshi (VA: [Hinageshi](https://kamitsubaki.wiki/en/artists/girls_revolution_project/hinageshi/))
-- ???<span style="filter: blur(5px); transition: filter 0.3s; cursor: pointer;" onmouseover="this.style.filter='none'" onmouseout="this.style.filter='blur(5px)'" onclick="this.style.filter='none'">Shiromaru</span> (CV: ??? / [<span style="filter: blur(5px); transition: filter 0.3s; cursor: pointer;" onmouseover="this.style.filter='none'" onmouseout="this.style.filter='blur(5px)'" onclick="this.style.filter='none'">IsekaiJoucho</span>](https://kamitsubaki.wiki/en/artists/vwp/isekaijoucho/))
+- ???<span class="wiki-spoiler" tabindex="0">Shiromaru</span> (CV: ??? / [<span class="wiki-spoiler" tabindex="0">IsekaiJoucho</span>](https://kamitsubaki.wiki/en/artists/vwp/isekaijoucho/))
 - **Maou** (VA: Shido)
 
 ## Episode List

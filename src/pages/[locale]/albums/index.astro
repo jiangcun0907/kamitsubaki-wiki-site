@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import SiteNav from '../../../components/SiteNav.astro';
 import SiteFooter from '../../../components/SiteFooter.astro';
+import MusicSubnav from '../../../components/MusicSubnav.astro';
 import { getLocalizedEntries, getLocalizedSite } from '../../../lib/homeData.mjs';
 import { buildLocaleLinks, defaultLocale, supportedLocales } from '../../../lib/i18n.mjs';
 
@@ -23,7 +24,6 @@ const sortedAlbums = [...albumEntries].sort((a, b) =>
   || (b.data.releaseDate ?? '').localeCompare(a.data.releaseDate ?? '')
   || a.data.title.localeCompare(b.data.title, localeCode),
 );
-
 const localeLinks = buildLocaleLinks(homeContent, localeCode, '/albums');
 const alternates = supportedLocales.map((code) => ({ locale: code, href: `/${code}/albums` }));
 const copy = {
@@ -38,10 +38,11 @@ const copy = {
     <SiteNav navItems={homeContent.navItems} localeLinks={localeLinks} brandLines={homeContent.hero.brandLines} compact homeHref={`/${localeCode}/`} />
 
     <main class="mx-auto max-w-7xl px-5 py-24 sm:px-6">
-      <h1 class="mb-12 font-serif text-3xl uppercase tracking-widest text-white">{copy.title}</h1>
+      <h1 class="mb-8 font-serif text-3xl uppercase tracking-widest text-white">{copy.title}</h1>
+      <MusicSubnav locale={localeCode} current="albums" />
 
       {sortedAlbums.length > 0 ? (
-        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        <div class="mt-14 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {sortedAlbums.map((album) => {
             const albumPath = album.id.split('/').slice(0, -1).join('/');
             return (

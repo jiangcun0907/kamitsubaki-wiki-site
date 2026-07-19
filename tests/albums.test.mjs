@@ -41,6 +41,62 @@ test('album navigation and labels exist in every supported locale', async () => 
   }
 });
 
+test('music pages use artist-first song navigation and a flat album catalog', async () => {
+  const [subnav, songsPage, artistSongsPage, albumsPage, albumDetail] = await Promise.all([
+    readProjectFile('../src/components/MusicSubnav.astro'),
+    readProjectFile('../src/pages/[locale]/songs/index.astro'),
+    readProjectFile('../src/pages/[locale]/songs/artists/[artist].astro'),
+    readProjectFile('../src/pages/[locale]/albums/index.astro'),
+    readProjectFile('../src/pages/[locale]/albums/[...id].astro'),
+  ]);
+
+  assert.match(subnav, /current === 'songs'/);
+  assert.match(subnav, /current === 'albums'/);
+  assert.match(songsPage, /groupMusicByArtist/);
+  assert.match(songsPage, /songs\/artists\/\$\{group\.slug\}/);
+  assert.match(artistSongsPage, /groupMusicByArtist/);
+  assert.match(artistSongsPage, /songs\/\$\{songPath\}/);
+  assert.doesNotMatch(albumsPage, /groupMusicByArtist/);
+  assert.match(albumsPage, /sortedAlbums\.map/);
+  assert.match(albumDetail, /<MusicSubnav locale=\{localeCode\} current="albums"/);
+});
+
+test('music catalog groups entries by artist with stable anchors', async () => {
+  const { groupMusicByArtist, toArtistAnchor } = await import('../src/lib/musicCatalog.mjs');
+  const entries = [
+    { id: 'songs/b', data: { artist: 'V.W.P', artistId: 'vwp', title: 'B' } },
+    { id: 'songs/a', data: { artist: 'KAF', title: 'A' } },
+    { id: 'songs/c', data: { artist: 'VWP', artistId: 'vwp', title: 'C' } },
+  ];
+
+  assert.equal(toArtistAnchor('V.W.P'), 'artist-v-w-p');
+  assert.deepEqual(
+    groupMusicByArtist(entries).map((group) => ({ artist: group.artist, id: group.id, size: group.entries.length })),
+    [
+      { artist: 'KAF', id: 'artist-kaf', size: 1 },
+      { artist: 'V.W.P', id: 'artist-vwp', size: 2 },
+    ],
+  );
+});
+
+test('album track links are emitted only for localized song entries', async () => {
+  const detailPage = await readProjectFile('../src/pages/[locale]/albums/[...id].astro');
+
+  assert.match(detailPage, /getCollection\('songs'\)/);
+  assert.match(detailPage, /song\.data\.locale === localeCode/);
+  assert.match(detailPage, /localizedSongIds\.has\(track\.songId\)/);
+});
+
+test('work schemas share validated dates, durations, and safe links', async () => {
+  const config = await readProjectFile('../src/content.config.ts');
+
+  assert.match(config, /const workBaseSchema = z\.object/);
+  assert.match(config, /schema: workBaseSchema\.extend/);
+  assert.match(config, /Expected YYYY, YYYY-MM, or YYYY-MM-DD/);
+  assert.match(config, /Expected MM:SS or HH:MM:SS/);
+  assert.match(config, /Must be an HTTP\(S\) URL or a site-relative path/);
+});
+
 test('album and song contributions are included in contributor history', async () => {
   const { parseContentPath } = await import('../scripts/contributor-history.mjs');
   assert.deepEqual(parseContentPath('src/content/albums/kaf/example/zh.md'), {

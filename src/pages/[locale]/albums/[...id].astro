@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import AlbumInfoBox from '../../../components/AlbumInfoBox.astro';
+import MusicSubnav from '../../../components/MusicSubnav.astro';
 import ContributorRoster from '../../../components/ContributorRoster.astro';
 import SiteFooter from '../../../components/SiteFooter.astro';
 import SiteNav from '../../../components/SiteNav.astro';
@@ -36,6 +37,12 @@ const hasMainContent = hasArticleBody || hasTracks;
 const hasTableOfContents = hasArticleBody && headings.some((heading) => heading.depth === 2 || heading.depth === 3);
 
 const siteEntries = await getCollection('site');
+const songEntries = await getCollection('songs');
+const localizedSongIds = new Set(
+  songEntries
+    .filter((song) => song.data.locale === localeCode)
+    .map((song) => song.id.split('/').slice(0, -1).join('/')),
+);
 const homeContent = getLocalizedSite(siteEntries, localeCode, defaultLocale);
 const currentPath = `/albums/${id}`;
 const localeLinks = buildLocaleLinks(homeContent, localeCode, currentPath);
@@ -96,6 +103,7 @@ const themeStyle = [
     <div class="fixed left-0 top-0 z-[60] h-px w-full origin-left bg-white/70" data-reading-progress></div>
 
     <div class="mx-auto max-w-[92rem] px-4 pb-3 pt-17 sm:px-6 sm:pb-4 sm:pt-20 lg:pt-20">
+      <div class="mb-4"><MusicSubnav locale={localeCode} current="albums" /></div>
       <WikiArticleHeader data={articleData} localeLinks={localeLinks} labels={articleLabels} sourceHref={sourceHref} homeHref={`/${localeCode}/`} />
     </div>
 
@@ -143,7 +151,9 @@ const themeStyle = [
                           {track.disc && track.disc > 1 ? `${track.disc}-` : ''}{track.number ?? String(index + 1).padStart(2, '0')}
                         </td>
                         <td class="px-3 py-4 font-serif tracking-wide text-white/85">
-                          {track.songId ? <a href={`/${localeCode}/songs/${track.songId}`} class="transition-colors hover:text-white">{track.title}</a> : track.title}
+                          {track.songId && localizedSongIds.has(track.songId)
+                            ? <a href={`/${localeCode}/songs/${track.songId}`} class="transition-colors hover:text-white">{track.title}</a>
+                            : track.title}
                         </td>
                         <td class="px-3 py-4 text-xs text-white/50">{track.artist ?? entry.data.artist}</td>
                         <td class="px-3 py-4 text-right font-mono text-[10px] text-white/40">{track.duration}</td>
