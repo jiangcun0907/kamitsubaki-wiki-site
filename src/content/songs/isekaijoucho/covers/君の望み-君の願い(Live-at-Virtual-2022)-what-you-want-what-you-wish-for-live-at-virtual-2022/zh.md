@@ -6,6 +6,7 @@ artist: "Ciel"
 artistId: isekaijoucho
 artistIds:
   - "isekaijoucho"
+  - "rim"
 album: "Singularity Live"
 duration: "05:40"
 releaseDate: "2022-11-23"

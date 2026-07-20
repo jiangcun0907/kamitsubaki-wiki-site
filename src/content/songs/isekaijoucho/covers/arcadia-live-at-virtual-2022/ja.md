@@ -6,6 +6,7 @@ artist: "ヰ世界情緒"
 artistId: isekaijoucho
 artistIds:
   - "isekaijoucho"
+  - "rim"
 album: "Singularity Live"
 duration: "07:09"
 releaseDate: "2022-11-23"
@@ -324,3 +325,5 @@ image: /images/albums/rim/singularity-live.jpg
 - [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/isekaijoucho/)
 - [Apple Music](https://music.apple.com/jp/album/arcadia-live-at-virtual-2022/1656389880?i=1656389894&uo=4)
 - [VGMdb ヰ世界情緒](https://vgmdb.net/artist/53599)
+- [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/rim/)
+- [VGMdb 理芽](https://vgmdb.net/artist/53598)

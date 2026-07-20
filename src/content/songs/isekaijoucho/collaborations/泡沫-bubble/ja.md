@@ -267,3 +267,5 @@ image: /images/songs/isekaijoucho/single-1678039164.jpg
 - [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/isekaijoucho/)
 - [Apple Music](https://music.apple.com/jp/album/%E6%B3%A1%E6%B2%AB/1678039164?i=1678039165&uo=4)
 - [VGMdb ヰ世界情緒](https://vgmdb.net/artist/53599)
+- [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/rim/)
+- [VGMdb 理芽](https://vgmdb.net/artist/53598)

@@ -647,7 +647,7 @@ order: 10
 
 ### Song properties
 
-Store song files as `artist ID / category / song ID / locale.md`, for example `songs/kaf/originals/shi/en.md`. The page renders category folders directly. Recommended folders are `originals`, `covers`, `genealogy`, `suites`, `collaborations`, and `projects`; any additional folder automatically becomes a new category.
+Store song files as `artist ID / category / song ID / locale.md`, for example `songs/kaf/originals/shi/en.md`. The first artist folder is the entry's canonical storage location, while its category folder is reused in every associated artist catalog. Recommended folders are `originals`, `covers`, `genealogy`, `suites`, `collaborations`, and `projects`; any additional folder automatically becomes a new category.
 
 **Minimal example:**
 
@@ -659,7 +659,21 @@ releaseDate: "2018-12-06"
 duration: "03:52"
 ```
 
-**Result:** the song page displays its title, artist, release date, and duration and groups it in the artist's song list.
+**Sharing one entry between artists:** create only one song folder for the same recording. Choose one primary artist as the canonical location, keep `artistId` equal to the first path folder, and put every artist catalog that should include the recording in `artistIds`. For example, keep “古傷” only at `songs/harusaruhi/collaborations/古傷-furukizu/`:
+
+```yaml
+title: 古傷
+artist: 幸祜×春猿火
+artistId: harusaruhi
+artistIds:
+  - harusaruhi
+  - koko
+code: apple-1678038919
+```
+
+You now maintain only `zh.md`, `ja.md`, and `en.md` in that folder. The same entry appears under Collaborations for both Harusaruhi and KOKO, and both catalog items link to the same canonical page. Do not copy the body, `translationKey`, or artwork metadata into `songs/koko/`. `artistIds` must include `artistId` and must not contain duplicates; putting `artistId` first is recommended. When present, `code` must identify one unique recording and must not be reused by another song folder.
+
+**Result:** the song page displays its title, artist, release date, and duration and appears in every artist list named by `artistIds`. If `artistIds` is omitted, it appears only under `artistId`.
 
 | Property | Type | Required | Purpose and content |
 | --- | --- | :---: | --- |
@@ -667,13 +681,14 @@ duration: "03:52"
 | `translationKey` | String | Yes | Shared identifier used by all language versions of the same song |
 | `title` | String | Yes | Song title |
 | `artist` | String | Yes | Main performer or artist name |
-| `artistId` | Lowercase slug | Yes | Connects the artist entry and song folder, such as `kaf`; it must match the first folder in the song path |
+| `artistId` | Lowercase slug | Yes | Canonical storage artist, such as `kaf`; it must match the first folder in the song path |
+| `artistIds` | List of lowercase slugs | No | Every artist catalog that should include this same entry; required for multi-artist songs, must include `artistId`, and must not contain duplicates |
 | `composer` | String | No | Composer |
 | `lyricist` | String | No | Lyricist |
 | `album` | String | No | Album containing the song |
 | `duration` | String | No | Song duration. The recommended format is `03:45`, although the schema does not validate it |
 | `releaseDate` | String | No | Release date. The recommended format is `YYYY-MM-DD` |
-| `code` | String | No | Song number, archive number, or internal identifier |
+| `code` | String | No | Unique recording, archive, or internal identifier; it must not be repeated in another song folder |
 | `categoryTitle` | String | No | Title of the category to which the song belongs |
 | `categorySubtitle` | String | No | Subtitle of the category |
 | `categoryOrder` | Number | No | Sorting value between categories |

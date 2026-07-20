@@ -6,6 +6,7 @@ artist: "ヰ世界情緒"
 artistId: isekaijoucho
 artistIds:
   - "isekaijoucho"
+  - "rim"
 album: "Singularity Live"
 duration: "05:22"
 releaseDate: "2022-11-23"
@@ -194,3 +195,5 @@ image: /images/albums/rim/singularity-live.jpg
 - [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/isekaijoucho/)
 - [Apple Music](https://music.apple.com/jp/album/%E3%82%B7%E3%83%AA%E3%82%A6%E3%82%B9%E3%81%AE%E5%BF%83%E8%87%93-live-at-virtual-2022/1656389880?i=1656389893&uo=4)
 - [VGMdb ヰ世界情緒](https://vgmdb.net/artist/53599)
+- [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/rim/)
+- [VGMdb 理芽](https://vgmdb.net/artist/53598)

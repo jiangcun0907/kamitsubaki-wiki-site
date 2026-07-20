@@ -326,19 +326,38 @@ const workBaseSchema = z.object({
     seo,
 });
 
+const artistSlug = z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, 'Expected a lowercase URL slug');
+
+const songSchema = workBaseSchema.extend({
+  artistId: artistSlug,
+  artistIds: z.array(artistSlug).min(1).optional(),
+  composer: z.string().optional(),
+  lyricist: z.string().optional(),
+  album: z.string().optional(),
+  duration: durationString.optional(),
+}).superRefine((song, context) => {
+  if (!song.artistIds) return;
+
+  if (!song.artistIds.includes(song.artistId)) {
+    context.addIssue({
+      code: 'custom',
+      message: 'artistIds must include the canonical artistId',
+      path: ['artistIds'],
+    });
+  }
+
+  if (new Set(song.artistIds).size !== song.artistIds.length) {
+    context.addIssue({
+      code: 'custom',
+      message: 'artistIds must not contain duplicates',
+      path: ['artistIds'],
+    });
+  }
+});
+
 const songs = defineCollection({
   loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/songs' }),
-  schema: workBaseSchema.extend({
-    artistId: z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, 'Expected a lowercase URL slug'),
-    artistIds: z
-      .array(z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, 'Expected a lowercase URL slug'))
-      .min(1)
-      .optional(),
-    composer: z.string().optional(),
-    lyricist: z.string().optional(),
-    album: z.string().optional(),
-    duration: durationString.optional(),
-  }),
+  schema: songSchema,
 });
 
 const albums = defineCollection({

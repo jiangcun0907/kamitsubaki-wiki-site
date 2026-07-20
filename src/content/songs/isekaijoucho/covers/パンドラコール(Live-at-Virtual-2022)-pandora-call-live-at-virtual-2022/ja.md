@@ -6,6 +6,7 @@ artist: "ヰ世界情緒"
 artistId: isekaijoucho
 artistIds:
   - "isekaijoucho"
+  - "rim"
 album: "Singularity Live"
 duration: "03:48"
 releaseDate: "2022-11-23"
@@ -368,3 +369,5 @@ Mistake, calling, killing, parade
 - [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/isekaijoucho/)
 - [Apple Music](https://music.apple.com/jp/album/%E3%83%91%E3%83%B3%E3%83%89%E3%83%A9%E3%82%B3%E3%83%BC%E3%83%AB-live-at-virtual-2022/1656389880?i=1656389891&uo=4)
 - [VGMdb ヰ世界情緒](https://vgmdb.net/artist/53599)
+- [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/rim/)
+- [VGMdb 理芽](https://vgmdb.net/artist/53598)

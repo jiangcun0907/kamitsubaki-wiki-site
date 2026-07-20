@@ -295,3 +295,4 @@ Call me <ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><rub
 - [公式ディスコグラフィー](https://kamitsubaki.jp/discography/harusaruhi/2913/)
 - [Apple Music](https://music.apple.com/jp/album/call/1718892415?i=1718892419&uo=4)
 - [VGMdb 春猿火](https://vgmdb.net/artist/48426)
+- [VGMdb ヰ世界情緒](https://vgmdb.net/artist/53599)

@@ -345,3 +345,5 @@ image: /images/albums/rim/singularity-live.jpg
 - [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/isekaijoucho/)
 - [Apple Music](https://music.apple.com/jp/album/%E3%83%94%E3%83%AB%E3%82%B0%E3%83%AA%E3%83%A0-live-at-virtual-2022/1656389880?i=1656389964&uo=4)
 - [VGMdb ヰ世界情緒](https://vgmdb.net/artist/53599)
+- [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/rim/)
+- [VGMdb 理芽](https://vgmdb.net/artist/53598)

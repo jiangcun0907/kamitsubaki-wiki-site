@@ -6,6 +6,7 @@ artist: "ヰ世界情緒"
 artistId: isekaijoucho
 artistIds:
   - "isekaijoucho"
+  - "rim"
 album: "Singularity Live"
 duration: "02:47"
 releaseDate: "2022-11-23"

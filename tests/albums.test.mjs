@@ -171,6 +171,38 @@ test('multi-artist songs appear once in every credited artist catalog', async ()
   assert.equal(groups.find(({ slug }) => slug === 'rim').entries.length, 1);
 });
 
+test('shared song categories come from the canonical document path for every artist', async () => {
+  const { buildArtistSongCatalog } = await import('../src/lib/musicCatalog.mjs');
+  const entry = {
+    id: 'harusaruhi/collaborations/furukizu/zh',
+    data: {
+      artist: '幸祜×春猿火',
+      artistId: 'harusaruhi',
+      artistIds: ['harusaruhi', 'koko'],
+      title: '古傷',
+      code: 'apple-1678038919',
+    },
+  };
+
+  const catalog = buildArtistSongCatalog([entry], [], 'zh');
+  assert.deepEqual(catalog.map(({ slug }) => slug).sort(), ['harusaruhi', 'koko']);
+  assert.ok(catalog.every(({ categories }) => categories[0].slug === 'collaborations'));
+  assert.ok(catalog.every(({ entries }) => entries[0] === entry));
+});
+
+test('duplicate recording codes fail with single-source authoring guidance', async () => {
+  const { assertUniqueSongDocuments } = await import('../src/lib/musicCatalog.mjs');
+  const data = { artist: '幸祜×春猿火', artistId: 'harusaruhi', title: '古傷', code: 'apple-1678038919' };
+
+  assert.throws(
+    () => assertUniqueSongDocuments([
+      { id: 'harusaruhi/collaborations/furukizu/zh', data },
+      { id: 'koko/collaborations/furukizu/zh', data: { ...data, artistId: 'koko' } },
+    ]),
+    /Keep one document and list every catalog artist in artistIds/,
+  );
+});
+
 test('album track links are emitted only for localized song entries', async () => {
   const detailPage = await readProjectFile('../src/pages/[locale]/albums/[...id].astro');
 

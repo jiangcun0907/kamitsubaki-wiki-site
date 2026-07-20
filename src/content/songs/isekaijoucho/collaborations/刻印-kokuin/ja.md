@@ -267,3 +267,5 @@ Ah, ah, ah, ah
 - [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/isekaijoucho/)
 - [Apple Music](https://music.apple.com/jp/album/%E5%88%BB%E5%8D%B0/1678039038?i=1678039039&uo=4)
 - [VGMdb ヰ世界情緒](https://vgmdb.net/artist/53599)
+- [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/koko/)
+- [VGMdb 幸祜](https://vgmdb.net/artist/53600)
