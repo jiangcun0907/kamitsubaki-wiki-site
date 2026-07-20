@@ -29,7 +29,12 @@
   gap: 0.2rem;
   max-width: 100%;
   overflow-x: auto;
-  scrollbar-width: thin;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.wiki-prose .wiki-media-switcher__tabs::-webkit-scrollbar {
+  display: none;
 }
 
 .wiki-prose .wiki-media-switcher__tab {
@@ -76,6 +81,31 @@
   margin: 0;
   border-radius: 0.35rem;
   box-shadow: none;
+}
+
+.wiki-prose .wiki-media-switcher__panel > :is(.wiki-embed--apple-music, .wiki-embed--netease) {
+  width: min(100%, 42rem);
+  margin-inline: auto;
+  overflow: visible;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+}
+
+.wiki-prose .wiki-media-switcher__panel > :is(.wiki-embed--apple-music, .wiki-embed--netease) .wiki-embed__frame {
+  overflow: hidden;
+  border: 1px solid color-mix(in srgb, var(--wiki-accent-color) 22%, rgba(255, 255, 255, 0.14));
+  border-radius: 0.65rem;
+  background: rgba(255, 255, 255, 0.96);
+  box-shadow: 0 0.75rem 2rem rgba(0, 0, 0, 0.22);
+}
+
+.wiki-prose .wiki-media-switcher__panel > :is(.wiki-embed--apple-music, .wiki-embed--netease) .wiki-embed__caption {
+  display: none;
+}
+
+.wiki-prose .wiki-media-switcher__panel > .wiki-embed--netease .wiki-embed__frame {
+  border-radius: 0.5rem;
 }
 
 @media (max-width: 640px) {

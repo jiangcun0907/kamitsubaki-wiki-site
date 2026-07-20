@@ -14,7 +14,6 @@ categorySubtitle: ORIGINALS
 categoryOrder: 10
 itemOrder: 7
 code: KO7
-image: /images/artists/kaf.jpg
 ---
 
 ## 紹介
@@ -23,7 +22,12 @@ image: /images/artists/kaf.jpg
 
 ## 試聴
 
+{{media-switcher::花譜 - 夜が降り止む前に}}
 @[bilibili](BV1wJ41187KH "花譜 - 夜が降り止む前に")
+@[youtube](dledRqPTNT8 "花譜 - 夜が降り止む前に")
+@[apple-music](https://music.apple.com/jp/song/1688351156 "花譜 - 夜が降り止む前に")
+@[netease](1399849875 "花譜 - 夜が降り止む前に")
+{{/media-switcher}}
 
 ## 歌詞
 

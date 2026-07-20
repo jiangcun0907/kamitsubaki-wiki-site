@@ -14,7 +14,6 @@ categorySubtitle: ORIGINALS
 categoryOrder: 10
 itemOrder: 9
 code: KO9
-image: /images/artists/kaf.jpg
 ---
 
 ## 简介
@@ -23,7 +22,12 @@ image: /images/artists/kaf.jpg
 
 ## 试听
 
+{{media-switcher::花譜 - quiz}}
 @[bilibili](BV1AJ41187pR "花譜 - quiz")
+@[youtube](n0ov2G-_UvU "花譜 - quiz")
+@[apple-music](https://music.apple.com/jp/song/1688351148 "花譜 - quiz")
+@[netease](1399847995 "花譜 - quiz")
+{{/media-switcher}}
 
 ## 歌词
 

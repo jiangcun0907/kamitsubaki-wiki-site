@@ -14,7 +14,6 @@ categorySubtitle: ORIGINALS
 categoryOrder: 10
 itemOrder: 1
 code: KO1
-image: /images/artists/kaf.jpg
 ---
 
 ## 紹介
@@ -23,7 +22,12 @@ image: /images/artists/kaf.jpg
 
 ## 試聴
 
+{{media-switcher::花譜 - 糸}}
 @[bilibili](BV1CJ411b7Ym "花譜 - 糸")
+@[youtube](3Wtx6k2vInU "花譜 - 糸")
+@[apple-music](https://music.apple.com/jp/song/1688351145 "花譜 - 糸")
+@[netease](1399849873 "花譜 - 糸")
+{{/media-switcher}}
 
 ## 歌詞
 

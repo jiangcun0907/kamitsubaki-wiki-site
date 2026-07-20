@@ -14,7 +14,6 @@ categorySubtitle: ORIGINALS
 categoryOrder: 10
 itemOrder: 10
 code: KO10
-image: /images/artists/kaf.jpg
 ---
 
 ## Introduction
@@ -23,7 +22,12 @@ KAF's tenth original song, written, composed, and arranged by Iori Kanzaki.
 
 ## Preview
 
+{{media-switcher::KAF - Yakou Bus nite}}
 @[bilibili](BV1AJ411875A "KAF - Yakou Bus nite")
+@[youtube](RDnArlYduBs "KAF - Yakou Bus nite")
+@[apple-music](https://music.apple.com/jp/song/1688351150 "KAF - Yakou Bus nite")
+@[netease](1399847993 "KAF - Yakou Bus nite")
+{{/media-switcher}}
 
 ## Lyrics
 

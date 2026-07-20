@@ -14,7 +14,6 @@ categorySubtitle: ORIGINALS
 categoryOrder: 10
 itemOrder: 8
 code: KO8
-image: /images/artists/kaf.jpg
 ---
 
 ## 紹介
@@ -23,7 +22,12 @@ image: /images/artists/kaf.jpg
 
 ## 試聴
 
+{{media-switcher::花譜 - そして花になる}}
 @[bilibili](BV1AJ41187Qi "花譜 - そして花になる")
+@[youtube](y6TGSY9Zll0 "花譜 - そして花になる")
+@[apple-music](https://music.apple.com/jp/song/1688351158 "花譜 - そして花になる")
+@[netease](1399849878 "花譜 - そして花になる")
+{{/media-switcher}}
 
 ## 歌詞
 

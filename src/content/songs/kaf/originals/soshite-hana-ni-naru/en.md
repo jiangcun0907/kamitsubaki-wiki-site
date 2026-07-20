@@ -14,7 +14,6 @@ categorySubtitle: ORIGINALS
 categoryOrder: 10
 itemOrder: 8
 code: KO8
-image: /images/artists/kaf.jpg
 ---
 
 ## Introduction
@@ -23,7 +22,12 @@ KAF's eighth original song, written, composed, and arranged by Iori Kanzaki.
 
 ## Preview
 
+{{media-switcher::KAF - Soshite Hana ni Naru}}
 @[bilibili](BV1AJ41187Qi "KAF - Soshite Hana ni Naru")
+@[youtube](y6TGSY9Zll0 "KAF - Soshite Hana ni Naru")
+@[apple-music](https://music.apple.com/jp/song/1688351158 "KAF - Soshite Hana ni Naru")
+@[netease](1399849878 "KAF - Soshite Hana ni Naru")
+{{/media-switcher}}
 
 ## Lyrics
 

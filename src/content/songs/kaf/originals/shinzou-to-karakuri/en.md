@@ -14,7 +14,6 @@ categorySubtitle: ORIGINALS
 categoryOrder: 10
 itemOrder: 2
 code: KO2
-image: /images/artists/kaf.jpg
 ---
 
 ## Introduction
@@ -23,7 +22,12 @@ KAF's second original song, written, composed, and arranged by Iori Kanzaki.
 
 ## Preview
 
+{{media-switcher::KAF - Shinzou to Karakuri}}
 @[bilibili](BV1cJ41187UD "KAF - Shinzou to Karakuri")
+@[youtube](hcm1LGOxJbc "KAF - Shinzou to Karakuri")
+@[apple-music](https://music.apple.com/jp/song/1688351147 "KAF - Shinzou to Karakuri")
+@[netease](1399847991 "KAF - Shinzou to Karakuri")
+{{/media-switcher}}
 
 ## Lyrics
 

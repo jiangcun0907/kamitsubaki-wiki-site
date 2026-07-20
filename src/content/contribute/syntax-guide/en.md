@@ -456,6 +456,7 @@ When the same work has official media on several platforms, wrap the existing me
 
 - A localized title is required, such as the work title or “Official media.”
 - Every item keeps the original media syntax and the same provider and URL validation rules.
+- Lines may be consecutive without blank lines. A single-line block also parses, but one platform per line is recommended for review and maintenance.
 - A switcher accepts `2–6` distinct platforms. Do not repeat a provider, nest switchers, or mix ordinary paragraphs into the block.
 - Every source must validate. One unknown provider, hostile URL, or malformed ID prevents the entire block from creating an iframe and leaves visible source text for correction.
 - Without JavaScript, validated players appear in source order. With JavaScript, use the buttons, arrow keys, Home, or End to switch sources.

@@ -14,7 +14,6 @@ categorySubtitle: ORIGINALS
 categoryOrder: 10
 itemOrder: 6
 code: KO6
-image: /images/artists/kaf.jpg
 ---
 
 ## Introduction
@@ -23,7 +22,12 @@ KAF's sixth original song, written, composed, and arranged by Iori Kanzaki.
 
 ## Preview
 
+{{media-switcher::KAF - Kako wo Kurau}}
 @[bilibili](BV1wJ41187Kd "KAF - Kako wo Kurau")
+@[youtube](tMKrECxEpq8 "KAF - Kako wo Kurau")
+@[apple-music](https://music.apple.com/jp/song/1688351153 "KAF - Kako wo Kurau")
+@[netease](1399847996 "KAF - Kako wo Kurau")
+{{/media-switcher}}
 
 ## Lyrics
 

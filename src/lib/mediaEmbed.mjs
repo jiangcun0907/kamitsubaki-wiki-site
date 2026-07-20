@@ -451,12 +451,59 @@ function renderMediaSwitcherPlaceholder(label, shortcodes) {
   return `<wiki-media-switcher data-label="${escapeHtml(label)}">${embeds.join('')}</wiki-media-switcher>`;
 }
 
+function validatedMediaSwitcherPlaceholder(label, shortcodes) {
+  const resolved = shortcodes.map((shortcode) => shortcode && resolveMediaEmbed(shortcode.provider, shortcode.target));
+  const providerNames = resolved.filter(Boolean).map((media) => media.provider);
+  const valid = Boolean(label)
+    && shortcodes.length >= 2
+    && shortcodes.length <= MAX_MEDIA_SWITCHER_ITEMS
+    && shortcodes.every(Boolean)
+    && resolved.every(Boolean)
+    && new Set(providerNames).size === providerNames.length;
+
+  return valid ? renderMediaSwitcherPlaceholder(label, shortcodes) : null;
+}
+
+function compactMediaSwitcherFromParagraph(node) {
+  if (node?.type !== 'paragraph') return null;
+  const children = node.children || [];
+  if (children.length < 5 || children[0]?.type !== 'text') return null;
+
+  const opening = children[0].value.match(/^\s*\{\{media-switcher::(.+?)\}\}\s*@\s*$/i);
+  if (!opening) return null;
+
+  const shortcodes = [];
+  for (let index = 1; index < children.length; index += 2) {
+    const shortcode = shortcodeFromLink(children[index]);
+    const separator = children[index + 1];
+    if (!shortcode || separator?.type !== 'text') return null;
+    shortcodes.push(shortcode);
+
+    const isLastSeparator = index + 1 === children.length - 1;
+    if (isLastSeparator) {
+      if (!/^\s*\{\{\/media-switcher\}\}\s*$/i.test(separator.value)) return null;
+      return { label: opening[1].trim(), shortcodes };
+    }
+
+    if (!/^\s*@\s*$/.test(separator.value)) return null;
+  }
+
+  return null;
+}
+
 function transformMediaSwitcherBlocks(node) {
   if (!node?.children) return;
 
   const transformed = [];
   for (let index = 0; index < node.children.length; index += 1) {
     const child = node.children[index];
+    const compact = compactMediaSwitcherFromParagraph(child);
+    if (compact) {
+      const placeholder = validatedMediaSwitcherPlaceholder(compact.label, compact.shortcodes);
+      transformed.push(placeholder ? { type: 'html', value: placeholder } : child);
+      continue;
+    }
+
     const opening = paragraphText(child)?.match(MEDIA_SWITCHER_OPEN);
 
     if (!opening) {
@@ -478,16 +525,7 @@ function transformMediaSwitcherBlocks(node) {
     const label = opening[1].trim();
     const contents = node.children.slice(index + 1, closingIndex);
     const shortcodes = contents.map(shortcodeFromParagraph);
-    const resolved = shortcodes.map((shortcode) => shortcode && resolveMediaEmbed(shortcode.provider, shortcode.target));
-    const providerNames = resolved.filter(Boolean).map((media) => media.provider);
-    const valid = Boolean(label)
-      && shortcodes.length >= 2
-      && shortcodes.length <= MAX_MEDIA_SWITCHER_ITEMS
-      && shortcodes.every(Boolean)
-      && resolved.every(Boolean)
-      && new Set(providerNames).size === providerNames.length;
-
-    const placeholder = valid && renderMediaSwitcherPlaceholder(label, shortcodes);
+    const placeholder = validatedMediaSwitcherPlaceholder(label, shortcodes);
     if (placeholder) {
       transformed.push({ type: 'html', value: placeholder });
     } else {

@@ -14,7 +14,6 @@ categorySubtitle: ORIGINALS
 categoryOrder: 10
 itemOrder: 2
 code: KO2
-image: /images/artists/kaf.jpg
 ---
 
 ## 简介
@@ -23,7 +22,12 @@ image: /images/artists/kaf.jpg
 
 ## 试听
 
+{{media-switcher::花譜 - 心臓と絡繰}}
 @[bilibili](BV1cJ41187UD "花譜 - 心臓と絡繰")
+@[youtube](hcm1LGOxJbc "花譜 - 心臓と絡繰")
+@[apple-music](https://music.apple.com/jp/song/1688351147 "花譜 - 心臓と絡繰")
+@[netease](1399847991 "花譜 - 心臓と絡繰")
+{{/media-switcher}}
 
 ## 歌词
 

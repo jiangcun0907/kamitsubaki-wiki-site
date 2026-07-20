@@ -14,7 +14,6 @@ categorySubtitle: ORIGINALS
 categoryOrder: 10
 itemOrder: 5
 code: KO5
-image: /images/artists/kaf.jpg
 ---
 
 ## 简介
@@ -23,7 +22,12 @@ image: /images/artists/kaf.jpg
 
 ## 试听
 
+{{media-switcher::花譜 - 雛鳥}}
 @[bilibili](BV1wJ411873J "花譜 - 雛鳥")
+@[youtube](M1RIUrgJqWw "花譜 - 雛鳥")
+@[apple-music](https://music.apple.com/jp/song/1688351155 "花譜 - 雛鳥")
+@[netease](1399847994 "花譜 - 雛鳥")
+{{/media-switcher}}
 
 ## 歌词
 

@@ -23,6 +23,10 @@ test('media switcher ships accessible pointer and keyboard interactions', async 
   assert.match(styles, /\[aria-selected='true'\]/);
   assert.match(styles, /prefers-reduced-motion/);
   assert.match(styles, /max-width: 640px/);
+  assert.match(styles, /wiki-embed--apple-music/);
+  assert.match(styles, /wiki-embed--netease/);
+  assert.match(styles, /width: min\(100%, 42rem\)/);
+  assert.match(styles, /wiki-embed__caption[\s\S]*display: none/);
 });
 
 test('media switcher authoring rules are documented in every locale', async () => {

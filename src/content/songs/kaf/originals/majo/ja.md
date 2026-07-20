@@ -14,7 +14,6 @@ categorySubtitle: ORIGINALS
 categoryOrder: 10
 itemOrder: 3
 code: KO3
-image: /images/artists/kaf.jpg
 ---
 
 ## 紹介
@@ -23,7 +22,12 @@ image: /images/artists/kaf.jpg
 
 ## 試聴
 
+{{media-switcher::花譜 - 魔女}}
 @[bilibili](BV1FJ41187QY "花譜 - 魔女")
+@[youtube](AqwFHfsAlx0 "花譜 - 魔女")
+@[apple-music](https://music.apple.com/jp/song/1688156970 "花譜 - 魔女")
+@[netease](1365461591 "花譜 - 魔女")
+{{/media-switcher}}
 
 ## 歌詞
 

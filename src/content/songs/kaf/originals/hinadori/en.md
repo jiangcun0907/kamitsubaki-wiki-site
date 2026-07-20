@@ -14,7 +14,6 @@ categorySubtitle: ORIGINALS
 categoryOrder: 10
 itemOrder: 5
 code: KO5
-image: /images/artists/kaf.jpg
 ---
 
 ## Introduction
@@ -23,7 +22,12 @@ KAF's fifth original song, written, composed, and arranged by Iori Kanzaki.
 
 ## Preview
 
+{{media-switcher::KAF - Hinadori}}
 @[bilibili](BV1wJ411873J "KAF - Hinadori")
+@[youtube](M1RIUrgJqWw "KAF - Hinadori")
+@[apple-music](https://music.apple.com/jp/song/1688351155 "KAF - Hinadori")
+@[netease](1399847994 "KAF - Hinadori")
+{{/media-switcher}}
 
 ## Lyrics
 

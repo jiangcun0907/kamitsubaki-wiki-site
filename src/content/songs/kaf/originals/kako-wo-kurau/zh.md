@@ -14,7 +14,6 @@ categorySubtitle: ORIGINALS
 categoryOrder: 10
 itemOrder: 6
 code: KO6
-image: /images/artists/kaf.jpg
 ---
 
 ## 简介
@@ -23,7 +22,12 @@ image: /images/artists/kaf.jpg
 
 ## 试听
 
+{{media-switcher::花譜 - 過去を喰らう}}
 @[bilibili](BV1wJ41187Kd "花譜 - 過去を喰らう")
+@[youtube](tMKrECxEpq8 "花譜 - 過去を喰らう")
+@[apple-music](https://music.apple.com/jp/song/1688351153 "花譜 - 過去を喰らう")
+@[netease](1399847996 "花譜 - 過去を喰らう")
+{{/media-switcher}}
 
 ## 歌词
 

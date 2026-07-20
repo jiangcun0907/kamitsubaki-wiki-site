@@ -70,6 +70,29 @@ test('media switcher aggregates distinct supported providers without changing in
   assert.match(rendered, /aria-selected="false"/);
 });
 
+test('media switcher accepts compact consecutive-line and single-line authoring', async () => {
+  const compactLines = await renderMarkdownFragment(`
+{{media-switcher::花譜 - 雛鳥}}
+@[bilibili](BV1wJ411873J "花譜 - 雛鳥")
+@[youtube](M1RIUrgJqWw "花譜 - 雛鳥")
+@[apple-music](https://music.apple.com/jp/song/1688351155 "花譜 - 雛鳥")
+@[netease](1399847994 "花譜 - 雛鳥")
+{{/media-switcher}}
+  `);
+  const singleLine = await renderMarkdownFragment(
+    '{{media-switcher::花譜 - 雛鳥}} @[bilibili](BV1wJ411873J) @[youtube](M1RIUrgJqWw) @[apple-music](https://music.apple.com/jp/song/1688351155) @[netease](1399847994) {{/media-switcher}}',
+  );
+
+  for (const rendered of [compactLines, singleLine]) {
+    assert.match(rendered, /class="wiki-media-switcher"/);
+    assert.equal((rendered.match(/data-media-switcher-tab/g) || []).length, 4);
+    assert.ok(rendered.indexOf('data-media-provider="bilibili"') < rendered.indexOf('data-media-provider="youtube"'));
+    assert.ok(rendered.indexOf('data-media-provider="youtube"') < rendered.indexOf('data-media-provider="apple-music"'));
+    assert.ok(rendered.indexOf('data-media-provider="apple-music"') < rendered.indexOf('data-media-provider="netease"'));
+    assert.doesNotMatch(rendered, /localhost|href="BV1wJ411873J"|href="M1RIUrgJqWw"/);
+  }
+});
+
 test('media switcher rejects malformed, duplicate, or single-provider groups as inert text', async () => {
   const cases = [
     `

@@ -14,7 +14,6 @@ categorySubtitle: ORIGINALS
 categoryOrder: 10
 itemOrder: 3
 code: KO3
-image: /images/artists/kaf.jpg
 ---
 
 ## Introduction
@@ -23,7 +22,12 @@ KAF's third original song, written, composed, and arranged by Iori Kanzaki.
 
 ## Preview
 
+{{media-switcher::KAF - Majo}}
 @[bilibili](BV1FJ41187QY "KAF - Majo")
+@[youtube](AqwFHfsAlx0 "KAF - Majo")
+@[apple-music](https://music.apple.com/jp/song/1688156970 "KAF - Majo")
+@[netease](1365461591 "KAF - Majo")
+{{/media-switcher}}
 
 ## Lyrics
 

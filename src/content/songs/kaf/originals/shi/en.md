@@ -14,7 +14,6 @@ categorySubtitle: ORIGINALS
 categoryOrder: 10
 itemOrder: 1
 code: KO1
-image: /images/artists/kaf.jpg
 ---
 
 ## Introduction
@@ -23,7 +22,12 @@ The very first original song of KAF.
 
 ## Preview
 
+{{media-switcher::KAF - Ito}}
 @[bilibili](BV1CJ411b7Ym "KAF - Ito")
+@[youtube](3Wtx6k2vInU "KAF - Ito")
+@[apple-music](https://music.apple.com/jp/song/1688351145 "KAF - Ito")
+@[netease](1399849873 "KAF - Ito")
+{{/media-switcher}}
 
 ## Lyrics
 

@@ -14,7 +14,6 @@ categorySubtitle: ORIGINALS
 categoryOrder: 10
 itemOrder: 10
 code: KO10
-image: /images/artists/kaf.jpg
 ---
 
 ## 紹介
@@ -23,7 +22,12 @@ image: /images/artists/kaf.jpg
 
 ## 試聴
 
+{{media-switcher::花譜 - 夜行バスにて}}
 @[bilibili](BV1AJ411875A "花譜 - 夜行バスにて")
+@[youtube](RDnArlYduBs "花譜 - 夜行バスにて")
+@[apple-music](https://music.apple.com/jp/song/1688351150 "花譜 - 夜行バスにて")
+@[netease](1399847993 "花譜 - 夜行バスにて")
+{{/media-switcher}}
 
 ## 歌詞
 

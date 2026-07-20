@@ -14,7 +14,6 @@ categorySubtitle: ORIGINALS
 categoryOrder: 10
 itemOrder: 9
 code: KO9
-image: /images/artists/kaf.jpg
 ---
 
 ## Introduction
@@ -23,7 +22,12 @@ KAF's ninth original song, written, composed, and arranged by Iori Kanzaki.
 
 ## Preview
 
+{{media-switcher::KAF - quiz}}
 @[bilibili](BV1AJ41187pR "KAF - quiz")
+@[youtube](n0ov2G-_UvU "KAF - quiz")
+@[apple-music](https://music.apple.com/jp/song/1688351148 "KAF - quiz")
+@[netease](1399847995 "KAF - quiz")
+{{/media-switcher}}
 
 ## Lyrics
 

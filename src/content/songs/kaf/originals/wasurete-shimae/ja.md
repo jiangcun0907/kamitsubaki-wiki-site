@@ -14,7 +14,6 @@ categorySubtitle: ORIGINALS
 categoryOrder: 10
 itemOrder: 4
 code: KO4
-image: /images/artists/kaf.jpg
 ---
 
 ## 紹介
@@ -23,7 +22,12 @@ image: /images/artists/kaf.jpg
 
 ## 試聴
 
+{{media-switcher::花譜 - 忘れてしまえ}}
 @[bilibili](BV1wJ41187mP "花譜 - 忘れてしまえ")
+@[youtube](2Nj1l-S2FJU "花譜 - 忘れてしまえ")
+@[apple-music](https://music.apple.com/jp/song/1688351146 "花譜 - 忘れてしまえ")
+@[netease](1399847997 "花譜 - 忘れてしまえ")
+{{/media-switcher}}
 
 ## 歌詞
 

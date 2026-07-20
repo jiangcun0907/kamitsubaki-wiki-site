@@ -3,6 +3,8 @@ import { readFile, readdir, stat } from 'node:fs/promises';
 import test from 'node:test';
 import { parse } from 'yaml';
 
+import { renderMarkdownFragment } from '../src/lib/markdown.mjs';
+
 const projectRoot = new URL('../', import.meta.url);
 const locales = ['zh', 'ja', 'en'];
 
@@ -25,16 +27,16 @@ const albums = [
 ];
 
 const songs = [
-  ['shi', 'BV1CJ411b7Ym'],
-  ['shinzou-to-karakuri', 'BV1cJ41187UD'],
-  ['majo', 'BV1FJ41187QY'],
-  ['wasurete-shimae', 'BV1wJ41187mP'],
-  ['hinadori', 'BV1wJ411873J'],
-  ['kako-wo-kurau', 'BV1wJ41187Kd'],
-  ['yoru-ga-furiyamu-mae-ni', 'BV1wJ41187KH'],
-  ['soshite-hana-ni-naru', 'BV1AJ41187Qi'],
-  ['quiz', 'BV1AJ41187pR'],
-  ['yakou-bus-nite', 'BV1AJ411875A'],
+  ['shi', 'BV1CJ411b7Ym', '3Wtx6k2vInU', '1688351145', '1399849873'],
+  ['shinzou-to-karakuri', 'BV1cJ41187UD', 'hcm1LGOxJbc', '1688351147', '1399847991'],
+  ['majo', 'BV1FJ41187QY', 'AqwFHfsAlx0', '1688156970', '1365461591'],
+  ['wasurete-shimae', 'BV1wJ41187mP', '2Nj1l-S2FJU', '1688351146', '1399847997'],
+  ['hinadori', 'BV1wJ411873J', 'M1RIUrgJqWw', '1688351155', '1399847994'],
+  ['kako-wo-kurau', 'BV1wJ41187Kd', 'tMKrECxEpq8', '1688351153', '1399847996'],
+  ['yoru-ga-furiyamu-mae-ni', 'BV1wJ41187KH', 'dledRqPTNT8', '1688351156', '1399849875'],
+  ['soshite-hana-ni-naru', 'BV1AJ41187Qi', 'y6TGSY9Zll0', '1688351158', '1399849878'],
+  ['quiz', 'BV1AJ41187pR', 'n0ov2G-_UvU', '1688351148', '1399847995'],
+  ['yakou-bus-nite', 'BV1AJ411875A', 'RDnArlYduBs', '1688351150', '1399847993'],
 ];
 
 function fileUrl(path) {
@@ -108,7 +110,7 @@ test('KAF album catalog contains 15 localized releases with original Apple Music
   }
 });
 
-test('KAF first 10 original songs are localized, ordered, and use controlled Bilibili embeds', async () => {
+test('KAF first 10 original songs use localized, ordered aggregate media embeds', async () => {
   const songDirectories = (await readdir(fileUrl('src/content/songs/kaf/originals'), { withFileTypes: true }))
     .filter((entry) => entry.isDirectory())
     .map((entry) => entry.name)
@@ -116,7 +118,7 @@ test('KAF first 10 original songs are localized, ordered, and use controlled Bil
 
   assert.deepEqual(songDirectories, songs.map(([slug]) => slug).sort());
 
-  for (const [index, [song, bv]] of songs.entries()) {
+  for (const [index, [song, bv, youtube, appleMusic, netease]] of songs.entries()) {
     const translations = await Promise.all(
       locales.map((locale) => readEntry(`src/content/songs/kaf/originals/${song}/${locale}.md`)),
     );
@@ -127,8 +129,27 @@ test('KAF first 10 original songs are localized, ordered, and use controlled Bil
       assert.equal(data.artistId, 'kaf');
       assert.equal(data.itemOrder, index + 1);
       assert.equal(data.code, `KO${index + 1}`);
-      assert.equal(data.image, '/images/artists/kaf.jpg');
+      assert.equal(data.image, undefined, `${song} must use artist artwork only through the rendering fallback`);
+      assert.match(source, /\{\{media-switcher::[^\n]+\}\}/);
+      assert.match(source, /\{\{\/media-switcher\}\}/);
       assert.match(source, new RegExp(`@\\[bilibili\\]\\(${bv.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`));
+      assert.match(source, new RegExp(`@\\[youtube\\]\\(${youtube.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`));
+      assert.match(source, new RegExp(`@\\[apple-music\\]\\(https://music\\.apple\\.com/jp/song/${appleMusic}`));
+      assert.match(source, new RegExp(`@\\[netease\\]\\(${netease}`));
+
+      const providerOffsets = ['bilibili', 'youtube', 'apple-music', 'netease']
+        .map((provider) => source.indexOf(`@[${provider}](`));
+      assert.ok(providerOffsets.every((offset) => offset >= 0), `${song} must include all four media providers`);
+      assert.deepEqual(
+        providerOffsets,
+        [...providerOffsets].sort((a, b) => a - b),
+        `${song} providers must stay ordered as Bilibili, YouTube, Apple Music, NetEase`,
+      );
+      const aggregateSource = source.match(/\{\{media-switcher::[^\n]+\}\}[\s\S]*?\{\{\/media-switcher\}\}/)?.[0];
+      assert.ok(aggregateSource, `${song} must contain a complete aggregate media block`);
+      const aggregateHtml = await renderMarkdownFragment(aggregateSource);
+      assert.equal((aggregateHtml.match(/data-media-switcher-tab/g) || []).length, 4);
+      assert.equal((aggregateHtml.match(/<iframe /g) || []).length, 4);
       assert.doesNotMatch(source, /<iframe\b/i);
       assert.doesNotMatch(source, /placehold/i);
     }
