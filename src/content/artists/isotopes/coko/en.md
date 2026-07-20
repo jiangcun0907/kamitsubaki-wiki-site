@@ -98,6 +98,26 @@ Recommended related entries:
 - [KAFU](/en/artists/isotopes/kafu)
 - [SEKAI](/en/artists/isotopes/sekai)
 
+## Basic Profile and Character Setting
+
+COKO is a musical-isotope voicebank and character based on KOKO's vocal data, not KOKO herself. Its design and sound preserve the source singer's strong projection, sustained notes, and emotional drive while making those qualities available for new creator works.
+
+| Item | Detail |
+| --- | --- |
+| Voice source | KOKO |
+| Platform | CeVIO AI and VOICEPEAK TALK EXTENSION |
+| Character design | SWAV |
+| First release | January 25, 2023 |
+| Demonstration work | “the last bullet” |
+
+## Representative Songs and Creator Ecosystem
+
+“the last bullet” is the clearest bridge between KOKO's live impact and COKO's synthetic voice. TALK EXTENSION expands COKO beyond singing into speech, while V.I.P places the character alongside other Kamitsubaki musical isotopes. Community-created rap, electronic pop, and high-energy songs form the broader catalogue.
+
+## Name and Identity Boundaries
+
+COKO, KOKO, and songs made with COKO must be recorded as separate layers: synthetic character, source virtual singer, and creator work. A COKO release is not automatically a KOKO performance, even where official projects reference one another.
+
 ## Related Projects / Setting
 
 COKO is a key software product of the "Musical Isotope Project". The project digitizes and extends KOKO's voice, enabling it to act not only as a personal singer's voice but also as an open-source vocal asset for creators to program and restructure, stimulating diverse cross-dimensional creations.

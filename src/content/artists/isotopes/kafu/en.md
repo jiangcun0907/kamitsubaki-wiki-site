@@ -1,136 +1,100 @@
 ---
 locale: "en"
 translationKey: "kafu"
-code: "M1"
+code: "11"
 romanizedName: "KAFU"
-categoryOrder: 4
+categoryOrder: 3
 itemOrder: 1
-meta: "ORIGIN: KAF"
+meta: "RELEASE: 2021.07.07"
 debutDate: "2021-07-07"
-profileTagline: "A CeVIO AI musical isotope built from KAF's vocal data, designed as a creative partner that expands the possibilities of vocal synthesis for creators."
+profileTagline: "The inaugural Musical Isotope CeVIO AI vocal software based on KAF's voicebank."
 designCredits:
-  - "Character Design: PALOW."
+  - "Character design: PALOW."
 affiliations:
   - "KAMITSUBAKI STUDIO"
-  - "Musical Isotope Project"
+  - "PHENOMENON RECORD"
 officialLinks:
-  - label: "Musical Isotope official website"
-    href: "https://musical-isotope.kamitsubaki.jp/"
-  - label: "X (Twitter)"
-    href: "https://twitter.com/musicalisotope"
-  - label: "YouTube"
-    href: "https://www.youtube.com/channel/UCm_1n9F3A6pz-Ms2NP93tBA"
+  - label: "Musical Isotope KAFU official site"
+    href: "https://kafu.kamitsubaki.jp/"
 featuredEntries:
   - label: "KAF"
     href: "/en/artists/vwp/kaf"
     kind: "artist"
-  - label: "SEKAI"
-    href: "/en/artists/isotopes/sekai"
-    kind: "artist"
-  - label: "RIME"
-    href: "/en/artists/isotopes/rime"
-    kind: "artist"
-  - label: "COKO"
-    href: "/en/artists/isotopes/coko"
-    kind: "artist"
-  - label: "HARU"
-    href: "/en/artists/isotopes/haru"
-    kind: "artist"
 theme:
-  name: "KAFU Bloom"
-  accentColor: "#f29ac2"
-  mutedColor: "#e63145"
-  surfaceColor: "#111321"
-  highlightColor: "#fff6fa"
+  name: "KAFU Yellow"
+  accentColor: "#f7ca00"
+  mutedColor: "#a38200"
+  surfaceColor: "#14130d"
+  highlightColor: "#fffde8"
   palette:
-    - label: "KAF Pink"
-      value: "#F29AC2"
-    - label: "Bloom Red"
-      value: "#E63145"
-    - label: "Navy"
-      value: "#111321"
-    - label: "Soft Light"
-      value: "#FFF6FA"
-statusLabel: "TYPE"
-status: "CeVIO AI"
-image: "https://placehold.co/1200x800/111321/f29ac2?text=KAFU"
+    - label: "KAFU Yellow"
+      value: "#F7CA00"
+    - label: "Gold"
+      value: "#A38200"
+    - label: "Warm White"
+      value: "#FFFDE8"
+    - label: "Night"
+      value: "#14130D"
+statusLabel: "STATUS"
+status: "ACTIVE"
+image: "/images/artists/kafu.jpg"
 name: "KAFU"
 categoryTitle: "Musical Isotopes"
-categorySubtitle: "MUSICAL ISOTOPE"
+categorySubtitle: "MUSICAL ISOTOPES"
 seo:
   keywords:
     - "KAFU"
+    - "可不"
+    - "Musical Isotopes"
     - "CeVIO AI"
-    - "Musical Isotope"
-    - "KAMITSUBAKI STUDIO"
+    - "Phony"
 ---
 
 ## Overview
 
-KAFU is the first voice synthesis software in KAMITSUBAKI STUDIO's "Musical Isotope" series, built from the vocal data of virtual singer KAF using AI technology to generate highly realistic singing voices.
+**KAFU** (可不, {{ruby::Kafu::かふ::kafu}}) is the flagship vocal synthesis library of KAMITSUBAKI STUDIO's "Musical Isotope" project, powered by CeVIO AI and Synthesizer V, with voice provider **[KAF](/en/artists/vwp/kaf)**.
 
-Operating on the CeVIO AI platform, KAFU is positioned not merely as a singing synthesis tool but as a "creative partner" for creators — designed to expand the possibilities of vocal synthesis through UGC (User Generated Content), enabling more creators to express their music with near-human singing voices.
+Released on July 7, 2021, KAFU became a phenomenon in VOCALOID producer culture, featuring in viral hits like Tsumiki's *Phony*.
 
-## Role and Creative Position
+<div class="wiki-fact-grid">
+  <div class="wiki-fact-card"><p class="wiki-fact-card__label">VOICE PROVIDER</p><p class="wiki-fact-card__value">KAF</p></div>
+  <div class="wiki-fact-card"><p class="wiki-fact-card__label">SINGING ENGINES</p><p class="wiki-fact-card__value">CeVIO AI; later expanded to Synthesizer V AI</p></div>
+  <div class="wiki-fact-card"><p class="wiki-fact-card__label">CHARACTER DESIGN</p><p class="wiki-fact-card__value">PALOW.</p></div>
+  <div class="wiki-fact-card"><p class="wiki-fact-card__label">RELEASE</p><p class="wiki-fact-card__value">7 July 2021</p></div>
+</div>
 
-The Musical Isotope Project's philosophy is that AI technology should not replace human singing but serve as a partner for creators. KAFU inherits the "girlishness" and "sense of distance" from KAF's voice while gaining a unique "non-human" quality inherent to synthesized voices. This voice quality — situated between human and virtual — has become an aesthetic resource within the creator community.
+## Design and voice identity
 
-In the UGC ecosystem, KAFU has been widely adopted by Vocaloid and CeVIO creators, generating a vast body of derivative works. She is both an extension of KAF's voice and an independent creative symbol.
+PALOW.'s character design uses white and yellow, circular pupils, a hooded outer layer, and geometric details. It makes KAFU legible beside KAF while establishing a separate voice-character identity for creators.
 
-## Activity History
+## Timeline
 
-### 2020
+| Period | Milestone | Notes |
+| --- | --- | --- |
+| October 2020 | Voice survey | Three prototype singing types were presented; Type B became the basis of the released library. |
+| November–December 2020 | Early covers | *Hinadori*, *Shinzō to Karakuri*, and *Kako o Kurau* were published as early demonstrations. |
+| May–July 2021 | Commission series and release | A broad producer lineup introduced the library; the final release arrived on 7 July. |
+| Later | Engine expansion | The product line grew beyond its CeVIO AI launch with a Synthesizer V AI edition. |
 
-- **October 10**: The production of Musical Isotope KAFU was announced in a teaser video following KAF's 2nd ONE-MAN LIVE "Fukakai Ni Q1".
-- **October 19**: Following a Twitter questionnaire and discussions with KAF, it was decided to base KAFU's voice library on "Type B".
-- **December 25**: KAFU's first original song, "Night Rule" (ナイトルール) composed by Nilfruits, was revealed on the live broadcast program "Hanatachi to Tsubaki to Kimi. vol.6".
+## Commissioned-song index
 
-### 2021
+{{details::Show the launch-era song index}}
 
-- **January 9**: The original song "Hologram" (ホログラム) composed by Hifumi was released.
-- **February 20**: The original song "Cute Na Kanojo" (キュートなカノジョ) composed by syudou was released, gaining massive popularity and sparking a creation boom.
-- **June 5**: The original song "Phony" (フォニイ) composed by tsumiki was released, becoming KAFU's most iconic and widely covered hit.
-- **July 7**: The voice synthesis software "Musical Isotope KAFU" was officially released, bundled with its 1st compilation album *KAF+YOU KAFU COMPILATION ALBUM*.
-- **July 17**: The original song "Cat Loving" (キャットラビング) composed by Kashii Moimi was released, generating high engagement and numerous derivative works in the creator community.
+| Date | Song | Creator |
+| --- | --- | --- |
+| 2021-01-09 | *Hologram* | Hifumi |
+| 2021-02-20 | *Cute na Kanojo* | syudou |
+| 2021-03-07 | *Ice Cream* | Guiano |
+| 2021-04-10 | *Retropolis* | R Sound Design |
+| 2021-05-01 | *Hana to Nare* | Yunosuke |
+| 2021-05-08 | *Suimenka* | Osanuma Paseri |
+| 2021-06-05 | *Phony* | Tsumiki |
+| 2021-07-17 | *Cat Loving* | Moimi Kashii |
 
-### 2023
+{{/details}}
 
-- **March 30–31**: Performed at "KAMITSUBAKI FES '23" held at Toyosu PIT.
+These official commissions are an entry point rather than a closed discography: KAFU's significance lies in the expanding body of songs made by independent creators. *Phony*, *Marshall Maximizer*, and *Cute na Kanojo* are widely cited examples of this ecosystem.
 
-### 2024
+## Project connections
 
-- **July 7**: As a member of the isotope group "V.I.P", KAFU performed at the Musical Isotope 3rd Anniversary free virtual mini-live "V.I.P 1st MINI LIVE ETHEREAL WORLD".
-- **August 8**: As a member of "V.I.P", KAFU performed at "KAMITSUBAKI FES '24 THE DAY THE EARTH STOOD STILL" held at Pacifico Yokohama.
-
-### 2025
-
-- **November 2**: As a member of "V.I.P", KAFU performed at "KAMITSUBAKI FES '25 OUR ONE-DAY WAR" held at Kanadevia Hall.
-
-## Representative Works and Related Entries
-
-KAFU does not release traditional music works but exists as a tool within the creator ecosystem. Representative songs created using KAFU include:
-
-- KAF × KAFU "Ryuusenkei Mayday" (composed by HiFi-P)
-- A vast body of derivative works by UGC creators
-
-Useful related entries:
-
-- [KAF](/en/artists/vwp/kaf)
-- [SEKAI](/en/artists/isotopes/sekai)
-
-## Related Projects / Setting
-
-KAFU is a core product of the "Musical Isotope Project," initiated by KAMITSUBAKI STUDIO to develop voice synthesis software based on the vocal data of its virtual singers using AI technology. Following KAFU, SEKAI (based on ISEKAIJOUCHO) also joined the series.
-
-Contact: musical-isotope@kamitsubaki.jp
-
-## References
-
-- Musical Isotope official website: <https://musical-isotope.kamitsubaki.jp/>
-- KAMITSUBAKI STUDIO Musical Isotope page: <https://kamitsubaki.jp/artist/musical-isotope/>
-
-## External Links
-
-- Musical Isotope official website: <https://musical-isotope.kamitsubaki.jp/>
-- X (Twitter): <https://twitter.com/musicalisotope>
-- YouTube: <https://www.youtube.com/channel/UCm_1n9F3A6pz-Ms2NP93tBA>
+KAFU opened the Musical Isotope project. The subsequent [SEKAI](/en/artists/isotopes/sekai), [RIME](/en/artists/isotopes/rime), [COKO](/en/artists/isotopes/coko), and [HARU](/en/artists/isotopes/haru) voice characters extend the same creator-facing framework.

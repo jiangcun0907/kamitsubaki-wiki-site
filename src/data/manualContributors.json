@@ -1,33 +1,116 @@
 [
   {
-    "id": "example-name",
+    "id": "inu",
     "enabled": true,
     "collaboration": {
-      "zh": "资料协力",
-      "ja": "資料協力",
-      "en": "Research support"
+      "zh": "宣传协力",
+      "ja": "広報協力",
+      "en": "Promotion support"
     },
-    "name": "占位贡献者",
-    "avatar": "",
+    "name": "いぬ",
+    "avatar": "/images/contributors/inu.jpg",
     "contacts": [
       {
-        "label": "个人主页",
-        "href": "https://example.com"
-      },
-      {
-        "label": "hello@example.com",
-        "href": "mailto:hello@example.com"
+        "label": "QQ 2427407710",
+        "href": "https://wpa.qq.com/msgrd?v=3&uin=2427407710&site=qq&menu=yes"
       }
     ],
     "introduction": {
-      "zh": "这是一条用于预览卡片布局与展开动画的占位介绍，收到真实资料后可以直接在 JSON 中替换。",
-      "ja": "カードのレイアウトと展開アニメーションを確認するための仮プロフィールです。",
-      "en": "A placeholder profile for previewing the compact card and expansion animation."
+      "zh": "歌を歌うのは寂しいから 目を閉じるのは聞きたいから",
+      "ja": "歌を歌うのは寂しいから 目を閉じるのは聞きたいから",
+      "en": "歌を歌うのは寂しいから 目を閉じるのは聞きたいから"
     },
     "quote": {
-      "zh": "愿每一份微小的协力，都能让观测站看见更远的地方。",
-      "ja": "小さな協力の一つひとつが、観測拠点の視界を広げますように。",
-      "en": "May every small contribution help this observatory see a little farther."
+      "zh": "要继续喜欢神椿呀！",
+      "ja": "要继续喜欢神椿呀！",
+      "en": "要继续喜欢神椿呀！"
+    }
+  },
+  {
+    "id": "kandao-wo-jiao-wo-gunqujianfei",
+    "enabled": true,
+    "collaboration": {
+      "zh": "宣传协力",
+      "ja": "広報協力",
+      "en": "Promotion support"
+    },
+    "name": "看到我叫我滚去减肥",
+    "avatar": "/images/contributors/kandao-wo-jiao-wo-gunqujianfei.jpg",
+    "contacts": [
+      {
+        "label": "QQ 3112036442",
+        "href": "https://wpa.qq.com/msgrd?v=3&uin=3112036442&site=qq&menu=yes"
+      },
+      {
+        "label": "小红书",
+        "href": "https://xhslink.com/m/9hmYtHhLWTr"
+      },
+      {
+        "label": "抖音",
+        "href": "https://v.douyin.com/TJl2Yj9mwKE/"
+      },
+      {
+        "label": "B站：马烈格笔",
+        "href": "https://b23.tv/4BY1fpy"
+      }
+    ],
+    "introduction": {
+      "zh": "看到我叫我滚去减肥",
+      "ja": "看到我叫我滚去减肥",
+      "en": "看到我叫我滚去减肥"
+    },
+    "quote": {
+      "zh": "看到我叫我滚去减肥",
+      "ja": "看到我叫我滚去减肥",
+      "en": "看到我叫我滚去减肥"
+    }
+  },
+  {
+    "id": "xiaochi",
+    "enabled": true,
+    "collaboration": {
+      "zh": "宣传协力",
+      "ja": "広報協力",
+      "en": "Promotion support"
+    },
+    "name": "小池",
+    "avatar": "/images/contributors/xiaochi.png",
+    "contacts": [
+      {
+        "label": "QQ邮箱：2372309656@qq.com",
+        "href": "mailto:2372309656@qq.com"
+      },
+      {
+        "label": "Google邮箱：chiwenchi23@gmail.com",
+        "href": "mailto:chiwenchi23@gmail.com"
+      },
+      {
+        "label": "X：@xc_chii",
+        "href": "https://x.com/xc_chii"
+      },
+      {
+        "label": "Instagram：seven_071008",
+        "href": "https://www.instagram.com/seven_071008/"
+      },
+      {
+        "label": "抖音：xcc_chii"
+      },
+      {
+        "label": "小红书：xc_chii"
+      },
+      {
+        "label": "B站：小池大王123"
+      }
+    ],
+    "introduction": {
+      "zh": "关注花谱喵关注花谱谢谢喵",
+      "ja": "关注花谱喵关注花谱谢谢喵",
+      "en": "关注花谱喵关注花谱谢谢喵"
+    },
+    "quote": {
+      "zh": "世界平和なんて噓だ　皆一人ぼっちだ",
+      "ja": "世界平和なんて噓だ　皆一人ぼっちだ",
+      "en": "世界平和なんて噓だ　皆一人ぼっちだ"
     }
   }
 ]

@@ -6,6 +6,7 @@ import SiteFooter from '../../../components/SiteFooter.astro';
 import MusicSubnav from '../../../components/MusicSubnav.astro';
 import { getLocalizedEntries, getLocalizedSite } from '../../../lib/homeData.mjs';
 import { buildLocaleLinks, defaultLocale, supportedLocales } from '../../../lib/i18n.mjs';
+import { buildArtistAlbumCatalog } from '../../../lib/musicCatalog.mjs';
 
 export function getStaticPaths() {
   return supportedLocales.map((locale) => ({ params: { locale } }));
@@ -16,20 +17,14 @@ const localeCode = locale as 'zh' | 'ja' | 'en';
 const siteEntries = await getCollection('site');
 const homeContent = getLocalizedSite(siteEntries, localeCode, defaultLocale);
 const albumEntries = getLocalizedEntries(await getCollection('albums'), localeCode, defaultLocale);
-const compareOptionalNumber = (left?: number, right?: number) =>
-  (left ?? Number.POSITIVE_INFINITY) - (right ?? Number.POSITIVE_INFINITY);
-const sortedAlbums = [...albumEntries].sort((a, b) =>
-  compareOptionalNumber(a.data.categoryOrder, b.data.categoryOrder)
-  || compareOptionalNumber(a.data.itemOrder, b.data.itemOrder)
-  || (b.data.releaseDate ?? '').localeCompare(a.data.releaseDate ?? '')
-  || a.data.title.localeCompare(b.data.title, localeCode),
-);
+const artistEntries = getLocalizedEntries(await getCollection('artists'), localeCode, defaultLocale);
+const artistGroups = buildArtistAlbumCatalog(albumEntries, artistEntries, localeCode);
 const localeLinks = buildLocaleLinks(homeContent, localeCode, '/albums');
 const alternates = supportedLocales.map((code) => ({ locale: code, href: `/${code}/albums` }));
 const copy = {
-  zh: { title: '专辑作品', empty: '专辑词条正在整理中，欢迎参与补充。', type: '类型', release: '发行日期' },
-  ja: { title: 'アルバム作品', empty: 'アルバム記事を準備中です。編集への参加を歓迎します。', type: '種類', release: 'リリース日' },
-  en: { title: 'Albums', empty: 'Album entries are being prepared. Contributions are welcome.', type: 'Type', release: 'Release date' },
+  zh: { title: '专辑作品', intro: '选择艺人，浏览其专辑、EP 与现场录音作品。', count: '张专辑', view: '进入艺人专辑库' },
+  ja: { title: 'アルバム作品', intro: 'アーティストを選び、アルバム・EP・ライブ音源を閲覧できます。', count: '作品', view: 'アルバム一覧を見る' },
+  en: { title: 'Albums', intro: 'Choose an artist to browse albums, EPs, and live recordings.', count: 'albums', view: 'Open album catalog' },
 }[localeCode];
 ---
 
@@ -38,37 +33,81 @@ const copy = {
     <SiteNav navItems={homeContent.navItems} localeLinks={localeLinks} brandLines={homeContent.hero.brandLines} compact homeHref={`/${localeCode}/`} />
 
     <main class="mx-auto max-w-7xl px-5 py-24 sm:px-6">
-      <h1 class="mb-8 font-serif text-3xl uppercase tracking-widest text-white">{copy.title}</h1>
+      <div class="mb-8 max-w-2xl">
+        <h1 class="font-serif text-3xl uppercase tracking-widest text-white">{copy.title}</h1>
+        <p class="mt-3 text-sm leading-7 text-white/45">{copy.intro}</p>
+      </div>
       <MusicSubnav locale={localeCode} current="albums" />
 
-      {sortedAlbums.length > 0 ? (
-        <div class="mt-14 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {sortedAlbums.map((album) => {
-            const albumPath = album.id.split('/').slice(0, -1).join('/');
-            return (
-              <a href={`/${localeCode}/albums/${albumPath}`} class="group overflow-hidden border border-white/10 bg-white/[0.02] transition-colors hover:border-white/30">
-                {album.data.image && (
-                  <img src={album.data.image} alt="" class="aspect-square w-full object-cover opacity-80 transition-opacity group-hover:opacity-100" loading="lazy" />
-                )}
-                <div class="p-6">
-                  <h2 class="font-serif text-lg tracking-wide text-white">{album.data.title}</h2>
-                  <p class="mt-2 text-sm text-white/50">{album.data.artist}</p>
-                  {(album.data.type || album.data.releaseDate) && (
-                    <dl class="mt-5 flex flex-wrap gap-x-6 gap-y-2 border-t border-white/10 pt-4 font-mono text-[9px] uppercase tracking-[0.16em] text-white/35">
-                      {album.data.type && <div><dt class="sr-only">{copy.type}</dt><dd>{album.data.type}</dd></div>}
-                      {album.data.releaseDate && <div><dt class="sr-only">{copy.release}</dt><dd>{album.data.releaseDate}</dd></div>}
-                    </dl>
-                  )}
-                </div>
-              </a>
-            );
-          })}
-        </div>
-      ) : (
-        <p class="border-y border-white/10 py-12 text-sm tracking-wide text-white/45">{copy.empty}</p>
-      )}
+      <div class="mt-14 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        {artistGroups.map((group) => (
+          <a
+            href={`/${localeCode}/albums/artists/${group.slug}`}
+            class="album-artist-card group overflow-hidden border border-white/10 bg-white/[0.02] transition-colors hover:border-white/30 hover:bg-white/[0.05]"
+            style={`--artist-accent:${group.theme?.accentColor ?? '#ffffff'}`}
+          >
+            <div class="relative aspect-[16/10] overflow-hidden bg-white/[0.035]">
+              {group.cover ? (
+                <img src={group.cover} alt="" class="h-full w-full object-cover opacity-70 grayscale-[20%] transition duration-700 group-hover:scale-[1.025] group-hover:opacity-95 group-hover:grayscale-0" loading="lazy" />
+              ) : (
+                <span class="grid h-full place-items-center font-serif text-5xl text-white/10">{group.artist.slice(0, 1)}</span>
+              )}
+              <div class="absolute inset-0 bg-gradient-to-t from-[#08090d] via-transparent to-transparent"></div>
+              <span class="absolute bottom-4 left-4 font-mono text-[9px] uppercase tracking-[0.2em] text-white/55">
+                {String(group.entries.length).padStart(2, '0')} {copy.count}
+              </span>
+            </div>
+            <div class="p-6">
+              <h2 class="truncate font-serif text-2xl tracking-wide text-white">{group.artist}</h2>
+              {group.romanizedName && group.romanizedName !== group.artist && (
+                <p class="mt-1 truncate font-mono text-[9px] uppercase tracking-[0.2em] text-white/30">{group.romanizedName}</p>
+              )}
+              <p class="mt-5 flex items-center justify-between border-t border-white/10 pt-4 font-mono text-[9px] uppercase tracking-[0.16em] text-white/35 transition-colors group-hover:text-white/75">
+                <span>{copy.view}</span><span aria-hidden="true">→</span>
+              </p>
+            </div>
+          </a>
+        ))}
+      </div>
     </main>
 
     <SiteFooter footer={homeContent.footer} />
   </div>
 </BaseLayout>
+
+<style>
+  .album-artist-card {
+    position: relative;
+  }
+
+  .album-artist-card::after {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 1px;
+    content: '';
+    background: var(--artist-accent);
+    opacity: 0;
+    transform: scaleX(0.3);
+    transition: opacity 300ms ease, transform 500ms ease;
+  }
+
+  .album-artist-card:hover::after,
+  .album-artist-card:focus-visible::after {
+    opacity: 0.75;
+    transform: scaleX(1);
+  }
+
+  .album-artist-card:focus-visible {
+    outline: 1px solid color-mix(in srgb, var(--artist-accent) 70%, white);
+    outline-offset: 3px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .album-artist-card img,
+    .album-artist-card::after {
+      transition: none;
+    }
+  }
+</style>

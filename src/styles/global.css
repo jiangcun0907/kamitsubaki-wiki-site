@@ -47,6 +47,224 @@ body.ui-loading {
   overscroll-behavior: none;
 }
 
+body.announcement-modal-open {
+  overflow: hidden;
+}
+
+.announcement-modal[hidden] {
+  display: none;
+}
+
+.announcement-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  display: grid;
+  place-items: center;
+  padding: 1rem;
+  animation: announcement-modal-fade-in 0.55s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.announcement-modal.is-closing {
+  pointer-events: none;
+  animation: announcement-modal-fade-out 0.38s ease both;
+}
+
+.announcement-modal.is-closing .announcement-modal__panel {
+  animation: announcement-modal-panel-out 0.38s cubic-bezier(0.7, 0, 0.84, 0) both;
+}
+
+.announcement-modal__scrim {
+  position: absolute;
+  inset: 0;
+  border: 0;
+  background: rgba(0, 0, 0, 0.78);
+  backdrop-filter: blur(9px);
+}
+
+.announcement-modal__panel {
+  position: relative;
+  width: min(100%, 48rem);
+  min-height: 23rem;
+  overflow: hidden;
+  border: 1px solid rgba(137, 245, 223, 0.38);
+  background:
+    linear-gradient(135deg, rgba(137, 245, 223, 0.045), transparent 30%),
+    linear-gradient(rgba(255, 255, 255, 0.025) 1px, transparent 1px),
+    #0a0e10;
+  background-size: auto, 100% 4px, auto;
+  padding: 2.25rem;
+  box-shadow: 0 2rem 7rem rgba(0, 0, 0, 0.6), 0 0 3rem rgba(137, 245, 223, 0.06);
+  animation: announcement-modal-panel-in 0.7s cubic-bezier(0.16, 1, 0.3, 1) 0.06s both;
+}
+
+.announcement-modal__panel::before,
+.announcement-modal__panel::after {
+  position: absolute;
+  width: 1.15rem;
+  height: 1.15rem;
+  content: '';
+  pointer-events: none;
+}
+
+.announcement-modal__panel::before {
+  top: -1px;
+  left: -1px;
+  border-top: 2px solid var(--wiki-accent-color);
+  border-left: 2px solid var(--wiki-accent-color);
+}
+
+.announcement-modal__panel::after {
+  right: -1px;
+  bottom: -1px;
+  border-right: 2px solid var(--wiki-accent-color);
+  border-bottom: 2px solid var(--wiki-accent-color);
+}
+
+.announcement-modal__panel > * {
+  position: relative;
+  z-index: 1;
+}
+
+.announcement-modal__topline {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  padding-bottom: 0.75rem;
+  color: rgba(137, 245, 223, 0.82);
+  font: 9px/1.4 var(--font-mono);
+  letter-spacing: 0.18em;
+}
+
+.announcement-modal__topline::after {
+  position: absolute;
+  right: 2.25rem;
+  top: 50%;
+  width: 2.8rem;
+  height: 1px;
+  background: var(--wiki-accent-color);
+  box-shadow: 0 0 0.5rem var(--wiki-accent-color);
+  content: '';
+  opacity: 0.8;
+}
+
+.announcement-modal__button {
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  padding: 0.7rem 0.9rem;
+  color: rgba(255, 255, 255, 0.62);
+  font: 9px/1.2 var(--font-mono);
+  letter-spacing: 0.14em;
+  transition: border-color 0.25s ease, color 0.25s ease;
+}
+
+.announcement-modal__button:hover {
+  border-color: rgba(255, 255, 255, 0.5);
+  color: white;
+}
+
+.announcement-modal__button--primary {
+  border-color: var(--wiki-accent-color);
+  background: var(--wiki-accent-color);
+  color: #07100f;
+}
+
+.announcement-launcher {
+  position: fixed;
+  right: var(--floating-action-edge);
+  bottom: calc(var(--floating-action-edge) + var(--floating-action-size) + var(--floating-action-gap) + var(--floating-action-size) + var(--floating-action-gap));
+  z-index: 38;
+  display: grid;
+  width: var(--floating-action-size);
+  height: var(--floating-action-size);
+  place-items: center;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(3, 3, 3, 0.92);
+  color: rgba(255, 255, 255, 0.58);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.44);
+  transition:
+    border-color 220ms ease,
+    color 220ms ease,
+    box-shadow 220ms ease,
+    transform 220ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.announcement-launcher:hover,
+.announcement-launcher:focus-visible {
+  transform: translate3d(0, -2px, 0);
+  border-color: rgba(137, 245, 223, 0.62);
+  color: var(--wiki-accent-color);
+  box-shadow: 0 0 18px rgba(137, 245, 223, 0.1);
+}
+
+.announcement-launcher > span {
+  position: absolute;
+  top: -0.45rem;
+  left: -0.3rem;
+  color: rgba(137, 245, 223, 0.3);
+  font: 0.62rem/1 var(--font-mono);
+  letter-spacing: 0.1em;
+  pointer-events: none;
+}
+
+.announcement-launcher svg {
+  width: 1.35rem;
+  height: 1.35rem;
+  stroke: currentColor;
+  stroke-width: 1.35;
+  stroke-linecap: square;
+  stroke-linejoin: miter;
+}
+
+@media (min-width: 640px) {
+  .announcement-modal__panel {
+    padding: 3rem;
+  }
+}
+
+@keyframes announcement-modal-fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes announcement-modal-panel-in {
+  from {
+    opacity: 0;
+    transform: translateY(1.5rem) scale(0.97);
+    clip-path: inset(8% 4% 8% 4%);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    clip-path: inset(0);
+  }
+}
+
+@keyframes announcement-modal-fade-out {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+
+@keyframes announcement-modal-panel-out {
+  from {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    clip-path: inset(0);
+  }
+  to {
+    opacity: 0;
+    transform: translateY(1rem) scale(0.975);
+    clip-path: inset(5% 3% 5% 3%);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .announcement-modal,
+  .announcement-modal__panel {
+    animation: none;
+  }
+}
+
 a,
 button,
 summary,
@@ -706,6 +924,213 @@ html.has-js .reveal-up.active {
   text-decoration: none;
 }
 
+/* --- Branded external links --- */
+.external-link-card {
+  position: relative;
+  isolation: isolate;
+  display: grid;
+  grid-template-columns: 2.45rem minmax(0, 1fr) 1.15rem;
+  gap: 0.72rem;
+  align-items: center;
+  min-width: 0;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.11);
+  border-radius: 0.5rem;
+  background: rgba(255, 255, 255, 0.025);
+  padding: 0.68rem 0.72rem;
+  color: rgba(255, 255, 255, 0.82);
+  cursor: pointer;
+  text-decoration: none;
+  transition:
+    border-color 200ms ease,
+    background-color 200ms ease,
+    color 200ms ease;
+}
+
+.external-link-card::before {
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 1px;
+  background: var(--platform-color);
+  opacity: 0.55;
+  content: '';
+  transition: opacity 200ms ease;
+}
+
+.external-link-card:hover,
+.external-link-card:focus-visible {
+  border-color: color-mix(in srgb, var(--platform-color) 28%, rgba(255, 255, 255, 0.2));
+  background-color: rgba(255, 255, 255, 0.045);
+  color: rgba(255, 255, 255, 0.98);
+}
+
+.external-link-card:hover::before,
+.external-link-card:focus-visible::before {
+  opacity: 1;
+}
+
+.external-link-card:focus-visible {
+  outline: 2px solid color-mix(in srgb, var(--platform-color) 72%, white);
+  outline-offset: 3px;
+}
+
+.platform-icon {
+  display: grid;
+  width: 2.45rem;
+  height: 2.45rem;
+  flex: 0 0 auto;
+  place-items: center;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 0.4rem;
+  background: rgba(255, 255, 255, 0.035);
+  color: var(--platform-color);
+  transition: border-color 200ms ease, background-color 200ms ease;
+}
+
+.platform-icon svg {
+  width: 1.17rem;
+  height: 1.17rem;
+  overflow: visible;
+  fill: currentColor;
+}
+
+.platform-icon .platform-icon__globe {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.45;
+}
+
+.external-link-card:hover .platform-icon,
+.external-link-card:focus-visible .platform-icon {
+  border-color: color-mix(in srgb, var(--platform-color) 34%, rgba(255, 255, 255, 0.12));
+  background-color: rgba(255, 255, 255, 0.055);
+}
+
+.external-link-card[data-platform='instagram'] .platform-icon {
+  color: var(--platform-color);
+}
+
+.external-link-card__copy {
+  display: block;
+  min-width: 0;
+  line-height: 1.3;
+}
+
+.external-link-card__label,
+.external-link-card__platform {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.external-link-card__label {
+  color: inherit;
+  font-size: 0.73rem;
+  font-weight: 500;
+  letter-spacing: 0.035em;
+}
+
+.external-link-card__platform {
+  margin-top: 0.24rem;
+  color: rgba(255, 255, 255, 0.34);
+  font-family: var(--font-mono);
+  font-size: 0.53rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
+
+.external-link-card__arrow {
+  width: 1.05rem;
+  height: 1.05rem;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.35;
+  color: rgba(255, 255, 255, 0.38);
+  transition: color 200ms ease, transform 240ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.external-link-card:hover .external-link-card__arrow,
+.external-link-card:focus-visible .external-link-card__arrow {
+  color: rgba(255, 255, 255, 0.78);
+  transform: translate3d(1px, -1px, 0);
+}
+
+.external-link-card--compact {
+  grid-template-columns: 2.15rem minmax(0, 1fr) 1rem;
+  gap: 0.62rem;
+  padding: 0.58rem 0.62rem;
+}
+
+.external-link-card--compact .platform-icon {
+  width: 2.15rem;
+  height: 2.15rem;
+}
+
+.external-link-card--compact .platform-icon svg {
+  width: 1.02rem;
+  height: 1.02rem;
+}
+
+.wiki-external-links-heading {
+  border-bottom-color: color-mix(in srgb, var(--wiki-accent-color) 28%, rgba(255, 255, 255, 0.1)) !important;
+}
+
+.wiki-prose :where(.wiki-external-links) {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.68rem;
+  margin: 1.35rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.wiki-prose :where(.wiki-external-links__item) {
+  min-width: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.wiki-prose :where(.external-link-card--prose) {
+  height: 100%;
+  border-bottom-width: 1px;
+  padding: 0.76rem;
+  color: rgba(255, 255, 255, 0.84);
+}
+
+.wiki-prose :where(.external-link-card--prose:hover) {
+  border-bottom-color: color-mix(in srgb, var(--platform-color) 28%, rgba(255, 255, 255, 0.2));
+  color: rgba(255, 255, 255, 0.98);
+}
+
+@media (max-width: 700px) {
+  .wiki-prose :where(.wiki-external-links) {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .external-link-card,
+  .external-link-card::before,
+  .platform-icon,
+  .external-link-card__arrow {
+    transition-duration: 0.01ms;
+  }
+
+  .external-link-card:hover,
+  .external-link-card:focus-visible,
+  .external-link-card:hover .platform-icon,
+  .external-link-card:focus-visible .platform-icon,
+  .external-link-card:hover .external-link-card__arrow,
+  .external-link-card:focus-visible .external-link-card__arrow {
+    transform: none;
+  }
+}
+
 .wiki-prose :where(blockquote) {
   background: rgba(255, 255, 255, 0.026);
   border-left-width: 2px;
@@ -736,6 +1161,43 @@ html.has-js .reveal-up.active {
   overflow: hidden;
   border: 1px solid rgba(255, 255, 255, 0.1);
   font-size: 0.92rem;
+}
+
+.wiki-prose .wiki-fact-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.7rem;
+  margin: 1.25rem 0 1.5rem;
+}
+
+.wiki-prose .wiki-fact-card {
+  min-width: 0;
+  padding: 0.85rem 0.95rem;
+  border: 1px solid color-mix(in srgb, var(--wiki-accent-color) 22%, rgba(255, 255, 255, 0.1));
+  border-radius: 0.5rem;
+  background: color-mix(in srgb, var(--wiki-accent-color) 5%, rgba(255, 255, 255, 0.025));
+}
+
+.wiki-prose .wiki-fact-card__label {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.43);
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.wiki-prose .wiki-fact-card__value {
+  margin: 0.35rem 0 0;
+  color: rgba(255, 255, 255, 0.86);
+  font-size: 0.88rem;
+  line-height: 1.55;
+}
+
+@media (max-width: 38rem) {
+  .wiki-prose .wiki-fact-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
 }
 
 .wiki-prose :where(th) {
@@ -3609,6 +4071,26 @@ html.has-js .reveal-up.active {
   padding: 0;
 }
 
+.contributor-roster__content [data-roster-animate] {
+  opacity: 0;
+  transform: translateY(0.65rem);
+}
+
+.contributor-roster__content[data-animated='true'] [data-roster-animate] {
+  animation: contributor-roster-reveal 480ms cubic-bezier(0.16, 1, 0.3, 1) var(--roster-delay, 0ms) both;
+}
+
+@keyframes contributor-roster-reveal {
+  from {
+    opacity: 0;
+    transform: translateY(0.65rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 .contributor-roster__stats {
   display: flex;
   flex-wrap: wrap;
@@ -3811,39 +4293,37 @@ html.has-js .reveal-up.active {
 }
 
 /* Contributor honor wall */
-.contributor-roster {
-  overflow: hidden;
-  border: 1px solid rgba(255, 255, 255, 0.11);
-  background:
-    radial-gradient(circle at 92% 5%, color-mix(in srgb, var(--wiki-accent-color) 9%, transparent), transparent 28rem),
-    linear-gradient(145deg, rgba(13, 16, 19, 0.92), rgba(5, 6, 8, 0.84));
-}
-
 .contributor-roster--summary {
-  margin: 0 auto 6rem;
+  margin: 0 auto 4.5rem;
   padding: 0 clamp(1.25rem, 4vw, 3rem);
+  overflow: visible;
+  border: 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.14);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  background: transparent;
 }
 
 .contributor-roster__header {
-  gap: 2rem;
-  padding: clamp(1.7rem, 4vw, 3rem) 0 1.6rem;
+  gap: 1.5rem;
+  padding: clamp(1.4rem, 3vw, 2.1rem) 0 1.25rem;
 }
 
 .contributor-roster__header h2 {
   max-width: 38rem;
-  font-size: clamp(1.55rem, 3.4vw, 2.8rem);
-  line-height: 1.12;
-  letter-spacing: 0.025em;
+  font-size: clamp(1.45rem, 3vw, 2.25rem);
+  line-height: 1.2;
+  letter-spacing: 0;
 }
 
 .contributor-roster__header > p {
   max-width: 31rem;
-  font-size: 0.76rem;
-  line-height: 1.85;
-  color: rgba(245, 246, 248, 0.66);
+  font-size: 0.88rem;
+  line-height: 1.65;
+  color: rgba(245, 246, 248, 0.7);
 }
 
 .contributor-roster__kicker {
+  font-size: 0.68rem;
   color: color-mix(in srgb, var(--wiki-accent-color) 72%, white 28%);
 }
 
@@ -3852,7 +4332,7 @@ html.has-js .reveal-up.active {
   gap: 1rem;
   align-items: center;
   justify-content: space-between;
-  min-height: 5.4rem;
+  min-height: 4.2rem;
 }
 
 .contributor-roster__state button {
@@ -3872,11 +4352,11 @@ html.has-js .reveal-up.active {
 
 .contributor-roster__stats div {
   display: flex;
-  min-height: 5.6rem;
+  min-height: 4.6rem;
   flex-direction: column;
   justify-content: center;
   margin: 0;
-  padding: 1rem 1.25rem;
+  padding: 0.75rem 1rem;
   border-right: 1px solid rgba(255, 255, 255, 0.075);
   border-bottom: 1px solid rgba(255, 255, 255, 0.075);
 }
@@ -3894,7 +4374,8 @@ html.has-js .reveal-up.active {
 }
 
 .contributor-roster__stats span {
-  margin: 0.4rem 0 0;
+  margin: 0.25rem 0 0;
+  font-size: 0.72rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -3902,14 +4383,15 @@ html.has-js .reveal-up.active {
 .contributor-roster__owner {
   position: relative;
   display: grid;
-  grid-template-columns: 5.5rem minmax(0, 1fr) auto auto;
-  gap: clamp(1rem, 3vw, 2rem);
+  grid-template-columns: 5rem minmax(0, 1fr) auto auto;
+  gap: clamp(0.9rem, 2vw, 1.5rem);
   align-items: center;
-  margin-top: 1.5rem;
-  padding: clamp(1.15rem, 3vw, 1.75rem);
-  overflow: hidden;
-  border: 1px solid color-mix(in srgb, var(--wiki-accent-color) 35%, rgba(255, 255, 255, 0.13));
-  background: linear-gradient(120deg, color-mix(in srgb, var(--wiki-accent-color) 12%, transparent), transparent 55%), rgba(255, 255, 255, 0.025);
+  margin-top: 1rem;
+  padding: clamp(0.9rem, 2vw, 1.3rem) 0;
+  border: 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.09);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.09);
+  background: transparent;
   color: inherit;
   text-decoration: none;
   transition: border-color 180ms ease, background-color 180ms ease;
@@ -3917,14 +4399,14 @@ html.has-js .reveal-up.active {
 
 .contributor-roster__owner:hover,
 .contributor-roster__owner:focus-visible {
-  border-color: color-mix(in srgb, var(--wiki-accent-color) 72%, white 12%);
-  background-color: rgba(255, 255, 255, 0.035);
+  border-color: color-mix(in srgb, var(--wiki-accent-color) 28%, rgba(255, 255, 255, 0.12));
+  background-color: rgba(255, 255, 255, 0.018);
   outline: none;
 }
 
 .contributor-roster__owner-avatar {
-  width: 5.5rem;
-  height: 5.5rem;
+  width: 5rem;
+  height: 5rem;
 }
 
 .contributor-roster__owner-avatar > img,
@@ -3942,13 +4424,13 @@ html.has-js .reveal-up.active {
 
 .contributor-roster__owner-copy > span {
   font-family: var(--font-mono);
-  font-size: 0.54rem;
+  font-size: 0.62rem;
   letter-spacing: 0.2em;
   color: color-mix(in srgb, var(--wiki-accent-color) 78%, white 18%);
 }
 
 .contributor-roster__owner-copy h3 {
-  margin: 0.2rem 0 0.65rem;
+  margin: 0.15rem 0 0.4rem;
   font-family: var(--font-serif);
   font-size: clamp(1.15rem, 2.2vw, 1.65rem);
   color: rgba(255, 255, 255, 0.94);
@@ -3959,7 +4441,7 @@ html.has-js .reveal-up.active {
   flex-wrap: wrap;
   gap: 0.55rem;
   align-items: center;
-  font-size: 0.88rem;
+  font-size: 0.96rem;
   color: rgba(255, 255, 255, 0.83);
 }
 
@@ -3970,7 +4452,7 @@ html.has-js .reveal-up.active {
   border: 1px solid color-mix(in srgb, var(--wiki-accent-color) 48%, rgba(255, 255, 255, 0.12));
   padding: 0.12rem 0.38rem;
   font-family: var(--font-mono);
-  font-size: 0.48rem;
+  font-size: 0.56rem;
   font-weight: 400;
   letter-spacing: 0.08em;
   color: color-mix(in srgb, var(--wiki-accent-color) 75%, white 20%);
@@ -3978,31 +4460,31 @@ html.has-js .reveal-up.active {
 
 .contributor-roster__owner-copy p {
   max-width: 38rem;
-  margin: 0.55rem 0 0;
-  font-size: 0.68rem;
-  line-height: 1.7;
-  color: rgba(255, 255, 255, 0.5);
+  margin: 0.4rem 0 0;
+  font-size: 0.78rem;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.58);
 }
 
 .contributor-roster__owner-metrics {
   display: grid;
   grid-template-columns: repeat(2, minmax(6.5rem, 1fr));
-  gap: 0.75rem;
+  gap: 0.5rem;
 }
 
 .contributor-roster__owner-metrics > span {
   display: grid;
-  gap: 0.25rem;
-  padding: 0.8rem;
+  gap: 0.2rem;
+  padding: 0.65rem;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
   font-family: var(--font-mono);
-  font-size: 0.52rem;
+  font-size: 0.62rem;
   line-height: 1.45;
   color: rgba(255, 255, 255, 0.38);
 }
 
 .contributor-roster__owner-metrics strong {
-  font-size: 1.25rem;
+  font-size: 1.35rem;
   color: rgba(255, 255, 255, 0.9);
 }
 
@@ -4012,24 +4494,25 @@ html.has-js .reveal-up.active {
 
 .contributor-roster__grid {
   grid-template-columns: minmax(17rem, 0.85fr) minmax(0, 1.45fr);
-  gap: clamp(2rem, 5vw, 5rem);
-  padding: clamp(2rem, 4vw, 3.4rem) 0;
+  gap: clamp(1.5rem, 3vw, 3rem);
+  padding: clamp(1.5rem, 3vw, 2.3rem) 0;
 }
 
 .contributor-roster__section-heading {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: 0.9rem;
+  margin-bottom: 0.65rem;
 }
 
 .contributor-roster__section-heading h3 {
   margin: 0;
+  font-size: 0.7rem;
 }
 
 .contributor-roster__section-heading > span {
   font-family: var(--font-mono);
-  font-size: 0.58rem;
+  font-size: 0.64rem;
   letter-spacing: 0.18em;
   color: color-mix(in srgb, var(--wiki-accent-color) 62%, transparent);
 }
@@ -4043,11 +4526,12 @@ html.has-js .reveal-up.active {
   position: relative;
   grid-template-columns: 3.1rem 2.75rem minmax(0, 1fr) auto;
   gap: 0.85rem;
-  min-height: 5.1rem;
-  padding: 0.85rem 0.8rem;
-  border: 1px solid rgba(255, 255, 255, 0.085);
-  background: rgba(255, 255, 255, 0.018);
-  transition: border-color 180ms ease, background-color 180ms ease;
+  min-height: 4.4rem;
+  padding: 0.65rem 0;
+  border: 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.085);
+  background: transparent;
+  transition: color 180ms ease, background-color 180ms ease, padding-left 180ms ease;
 }
 
 .contributor-roster__person + .contributor-roster__person {
@@ -4055,19 +4539,19 @@ html.has-js .reveal-up.active {
 }
 
 .contributor-roster__person:hover {
-  border-color: color-mix(in srgb, var(--wiki-accent-color) 28%, rgba(255, 255, 255, 0.1));
-  background: color-mix(in srgb, var(--wiki-accent-color) 5%, rgba(255, 255, 255, 0.018));
+  padding-left: 0.35rem;
+  background: rgba(255, 255, 255, 0.014);
 }
 
 .contributor-roster__rank {
   display: grid;
   color: rgba(255, 255, 255, 0.7);
   font-family: var(--font-mono);
-  font-size: 0.76rem;
+  font-size: 0.82rem;
 }
 
 .contributor-roster__rank small {
-  font-size: 0.48rem;
+  font-size: 0.56rem;
   letter-spacing: 0.08em;
   color: rgba(255, 255, 255, 0.3);
 }
@@ -4079,21 +4563,26 @@ html.has-js .reveal-up.active {
 }
 
 .contributor-roster__identity strong {
-  font-size: 0.9rem;
+  font-size: 1rem;
+}
+
+.contributor-roster__identity small {
+  margin-top: 0.16rem;
+  font-size: 0.7rem;
 }
 
 .contributor-roster__breakdown {
   display: flex;
   flex-wrap: wrap;
   gap: 0.35rem;
-  margin-top: 0.38rem;
+  margin-top: 0.25rem;
 }
 
 .contributor-roster__breakdown > span {
-  border: 1px solid rgba(255, 255, 255, 0.09);
-  padding: 0.16rem 0.34rem;
+  border: 0;
+  padding: 0;
   font-family: var(--font-mono);
-  font-size: 0.49rem;
+  font-size: 0.58rem;
   color: rgba(255, 255, 255, 0.42);
 }
 
@@ -4119,8 +4608,8 @@ html.has-js .reveal-up.active {
 .contributor-roster__activity {
   grid-template-columns: minmax(0, 1fr) auto;
   align-items: center;
-  min-height: 4.35rem;
-  padding: 0.85rem 0;
+  min-height: 3.8rem;
+  padding: 0.65rem 0;
 }
 
 .contributor-roster__activity-main {
@@ -4133,16 +4622,16 @@ html.has-js .reveal-up.active {
   text-overflow: ellipsis;
   white-space: nowrap;
   color: rgba(255, 255, 255, 0.86);
-  font-size: 0.82rem;
+  font-size: 0.9rem;
 }
 
 .contributor-roster__type {
   display: inline-flex;
   margin-right: 0.55rem;
-  border: 1px solid color-mix(in srgb, var(--wiki-accent-color) 28%, rgba(255, 255, 255, 0.1));
-  padding: 0.14rem 0.34rem;
+  border: 0;
+  padding: 0;
   font-family: var(--font-mono);
-  font-size: 0.5rem;
+  font-size: 0.58rem;
   font-weight: 400;
   letter-spacing: 0.06em;
   color: color-mix(in srgb, var(--wiki-accent-color) 65%, white 18%);
@@ -4153,14 +4642,14 @@ html.has-js .reveal-up.active {
   display: flex;
   flex-wrap: wrap;
   gap: 0.35rem;
-  margin-top: 0.45rem;
+  margin-top: 0.3rem;
 }
 
 .contributor-roster__locale {
-  border: 1px solid rgba(255, 255, 255, 0.11);
-  padding: 0.15rem 0.35rem;
+  border: 0;
+  padding: 0;
   font-family: var(--font-mono);
-  font-size: 0.5rem;
+  font-size: 0.57rem;
   letter-spacing: 0.06em;
   color: rgba(255, 255, 255, 0.48);
 }
@@ -4170,7 +4659,7 @@ html.has-js .reveal-up.active {
   gap: 0.35rem;
   justify-items: end;
   font-family: var(--font-mono);
-  font-size: 0.58rem;
+  font-size: 0.65rem;
   color: rgba(255, 255, 255, 0.4);
 }
 
@@ -4183,18 +4672,18 @@ html.has-js .reveal-up.active {
   display: flex;
   flex-wrap: wrap;
   gap: 0.75rem;
-  padding: 0 0 clamp(1.8rem, 4vw, 3rem);
+  padding: 0 0 clamp(1.4rem, 3vw, 2rem);
 }
 
 .contributor-roster__action {
   display: inline-flex;
-  min-height: 2.9rem;
+  min-height: 2.7rem;
   align-items: center;
   justify-content: center;
   border: 1px solid rgba(255, 255, 255, 0.15);
-  padding: 0.75rem 1rem;
+  padding: 0.65rem 0.9rem;
   font-family: var(--font-mono);
-  font-size: 0.62rem;
+  font-size: 0.68rem;
   letter-spacing: 0.1em;
   color: rgba(255, 255, 255, 0.72);
   text-decoration: none;
@@ -4606,7 +5095,7 @@ html.has-js .reveal-up.active {
   }
 
   .contributor-roster__stats span {
-    font-size: 0.52rem;
+    font-size: 0.68rem;
   }
 
   .contributor-roster__grid {
@@ -4651,7 +5140,8 @@ html.has-js .reveal-up.active {
 
   .contributor-roster__activity {
     grid-template-columns: 1fr;
-    gap: 0.55rem;
+    gap: 0.3rem;
+    padding: 0.5rem 0;
   }
 
   .contributor-roster__activity-main strong {
@@ -4675,6 +5165,13 @@ html.has-js .reveal-up.active {
 }
 
 @media (prefers-reduced-motion: reduce) {
+  .contributor-roster__content [data-roster-animate],
+  .contributor-roster__content[data-animated='true'] [data-roster-animate] {
+    opacity: 1;
+    transform: none;
+    animation: none !important;
+  }
+
   .ai-chat__panel,
   .ai-chat__scrim,
   .ai-chat__launcher,

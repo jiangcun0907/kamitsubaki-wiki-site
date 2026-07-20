@@ -1,5 +1,94 @@
+import { detectExternalPlatform } from '../lib/externalPlatforms.mjs';
+
+const externalLinksHeadingPattern = /^(外部链接|外部連結|外部リンク|external\s+links?)$/i;
+
+export const isExternalLinksHeading = (value) => externalLinksHeadingPattern.test(String(value).trim());
+
+const createPlatformIcon = (ownerDocument, platform) => {
+  const badge = ownerDocument.createElement('span');
+  badge.className = 'platform-icon';
+  badge.dataset.platform = platform.id;
+  badge.title = platform.name;
+  badge.setAttribute('aria-hidden', 'true');
+
+  const svg = ownerDocument.createElementNS('http://www.w3.org/2000/svg', 'svg');
+  svg.setAttribute('viewBox', '0 0 24 24');
+  svg.setAttribute('focusable', 'false');
+
+  if (platform.icon) {
+    const path = ownerDocument.createElementNS('http://www.w3.org/2000/svg', 'path');
+    path.setAttribute('d', platform.icon.path);
+    svg.append(path);
+  } else {
+    svg.classList.add('platform-icon__globe');
+    const circle = ownerDocument.createElementNS('http://www.w3.org/2000/svg', 'circle');
+    circle.setAttribute('cx', '12');
+    circle.setAttribute('cy', '12');
+    circle.setAttribute('r', '8.75');
+    const path = ownerDocument.createElementNS('http://www.w3.org/2000/svg', 'path');
+    path.setAttribute('d', 'M3.5 12h17M12 3.25c2.2 2.35 3.3 5.27 3.3 8.75S14.2 18.4 12 20.75C9.8 18.4 8.7 15.48 8.7 12S9.8 5.6 12 3.25Z');
+    svg.append(circle, path);
+  }
+
+  badge.append(svg);
+  return badge;
+};
+
+const createExternalArrow = (ownerDocument) => {
+  const svg = ownerDocument.createElementNS('http://www.w3.org/2000/svg', 'svg');
+  svg.classList.add('external-link-card__arrow');
+  svg.setAttribute('viewBox', '0 0 20 20');
+  svg.setAttribute('aria-hidden', 'true');
+  svg.setAttribute('focusable', 'false');
+  const path = ownerDocument.createElementNS('http://www.w3.org/2000/svg', 'path');
+  path.setAttribute('d', 'M6 14 14 6M8 6h6v6');
+  svg.append(path);
+  return svg;
+};
+
+export const enhanceExternalLinkSections = (root) => {
+  root.querySelectorAll('.wiki-artist-prose h2').forEach((heading) => {
+    if (!isExternalLinksHeading(heading.textContent)) return;
+
+    let list = heading.nextElementSibling;
+    while (list && list.tagName !== 'H2' && list.tagName !== 'UL') list = list.nextElementSibling;
+    if (!list || list.tagName !== 'UL') return;
+
+    heading.classList.add('wiki-external-links-heading');
+    list.classList.add('wiki-external-links');
+
+    Array.from(list.children).forEach((item) => {
+      if (!(item instanceof HTMLElement) || item.dataset.externalLinkEnhanced === 'true') return;
+      const link = item.querySelector(':scope > a');
+      if (!(link instanceof HTMLAnchorElement)) return;
+
+      const label = link.textContent?.trim() || link.href;
+      const platform = detectExternalPlatform({ href: link.href, label });
+      const ownerDocument = link.ownerDocument;
+      const copy = ownerDocument.createElement('span');
+      const name = ownerDocument.createElement('span');
+      const platformName = ownerDocument.createElement('span');
+
+      copy.className = 'external-link-card__copy';
+      name.className = 'external-link-card__label';
+      platformName.className = 'external-link-card__platform';
+      platformName.textContent = platform.name;
+      while (link.firstChild) name.append(link.firstChild);
+      copy.append(name, platformName);
+
+      item.classList.add('wiki-external-links__item');
+      item.dataset.externalLinkEnhanced = 'true';
+      link.classList.add('external-link-card', 'external-link-card--prose');
+      link.dataset.platform = platform.id;
+      link.style.setProperty('--platform-color', platform.color);
+      link.append(createPlatformIcon(ownerDocument, platform), copy, createExternalArrow(ownerDocument));
+    });
+  });
+};
+
 document.addEventListener('DOMContentLoaded', () => {
   document.documentElement.classList.add('has-js');
+  enhanceExternalLinkSections(document);
 
   const preloader = document.getElementById('preloader');
   const bodyWrap = document.getElementById('body-wrap');

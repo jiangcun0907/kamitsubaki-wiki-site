@@ -110,6 +110,25 @@ See also the individual member pages:
 - [ISEKAIJOUCHO](/en/artists/vwp/isekaijoucho)
 - [KOKO](/en/artists/vwp/koko)
 
+## Core Lineage Songs and Live History
+
+V.W.P maintains a lineage-song system distinct from the members' solo catalogues. These five-member songs organize the singers within a shared witch narrative, while derivative songs use pairs or trios to emphasize different vocal combinations.
+
+| Order | Lineage / core song | Record angle |
+| --- | --- | --- |
+| 1 | “Majo (Group Ver.)” | The unit's shared origin |
+| 2 | “Dian Nao” | Formation-era core song |
+| 3 | “Kotodama” | Connects the members through language and voice |
+| 4 | “Kyomei” | Focuses on vocal resonance |
+| 5 | “Henshin” | Identity and concept transformation |
+| 6 | “Rinne” | Cycles, inheritance, and renewal |
+| 7 | “Omocha” | A unit song built around toy imagery |
+| 8 | “Himitsu” | Hidden information and worldbuilding |
+| 9 | “Jōka” | Fire and continuity as central images |
+| 10 | “Kyōkyō” | Dense ensemble energy and frenzy |
+
+The main publicly documented performances include the formation live on March 13, 2021; *Witch Assembly EP.1* on April 15, 2022; the 1st ONE-MAN LIVE *Phenomenon I - Demonstration -* on April 16, 2022; *Witch Assembly EP.2* and *Phenomenon II - Witch Mythology -* on January 13, 2024; and the 3rd ONE-MAN LIVE *Phenomenon III* on January 10, 2026.
+
 ## Related Projects / Setting
 
 V.W.P is directly tied to the "witch" worldview within the Kamitsubaki ecosystem. The five members each represent different witch attributes, and their lineage and derivative songs form the backbone of Kamitsubaki's narrative. Group activities are also deeply connected to cross-media projects like "Kamitsubaki City Under Construction."

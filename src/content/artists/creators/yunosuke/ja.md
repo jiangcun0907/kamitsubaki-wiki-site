@@ -65,6 +65,16 @@ WaMi とのユニット「Awairo」のメンバーとしても活動しており
 - 声優・バーチャルシンガー・ゲーム・CM へのインストルメンタル提供
 - ユニット Awairo（WaMi とのユニット）としての活動
 
+## 投稿と制作履歴
+
+雄之助は2014年10月からネット音楽界で活動し、2014年10月17日に初のオリジナルVOCALOID曲「ループメモリー」を投稿した。EDMやハウスを中心に、インストゥルメンタル、ゲーム楽曲、商業向け制作にも活動を広げている。「Take Me!!」「Pathos」「PaⅢ.SENSATION」は初期の代表作である。
+
+2016年3月7日にはBilibiliへ「Take Me!! (2016 Remix)」を投稿し、日本のVOCALOIDプロデューサーとして早い時期から中国語圏の動画プラットフォームでも活動した。SOUND VOLTEXやArcaeaへの楽曲提供、WaMiとのユニットAwairoにも参加し、2023年10月18日に結成を発表、10月20日に「Pale&Deep」を発表した。
+
+## 作品の整理
+
+主なソロアルバムには『Unique Antique』『Pathos』『Black or White』『Fiction』『Proto』『Tranquilizer』がある。VOCALOID投稿、純音楽、ゲーム提供曲、Awairo作品を分け、作詞・作曲・編曲・調声・歌唱などのクレジットも別項目として残す。
+
 ## 外部リンク
 
 - Twitter：<https://twitter.com/bass_ynk>

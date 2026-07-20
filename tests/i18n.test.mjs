@@ -82,7 +82,7 @@ test('localized site config exposes configurable social contact links', async ()
     const site = await readJson(`../src/content/site/${locale}.json`);
     const contactLink = site.footer.links.find((link) => link.label === 'CONTACT');
 
-    assert.equal(contactLink.href, '#social-contact');
+    assert.equal(contactLink.href, `/${locale}/#social-contact`);
     assert.equal(site.socialContact.enabled, true);
     assert.deepEqual(
       site.socialContact.items.slice(0, 3).map((item) => item.icon),
@@ -92,6 +92,6 @@ test('localized site config exposes configurable social contact links', async ()
       site.socialContact.items.find((item) => item.icon === 'github')?.href,
       'https://github.com/LinkTh1rsty',
     );
-    assert.equal(site.socialContact.items.some((item) => item.enabled === false && item.icon === 'bilibili'), true);
+    assert.equal(site.socialContact.items.every((item) => item.href && item.enabled !== false), true);
   }
 });

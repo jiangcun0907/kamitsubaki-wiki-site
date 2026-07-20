@@ -194,7 +194,7 @@ test('manual collaborators use an independent local data file and summary-only s
   assert.match(component, /data-contributor-drawer/);
   assert.match(component, /data-list-expanded/);
   assert.match(component, /grid-template-rows: 0fr/);
-  assert.match(component, /manual-contributor-hint/);
+  assert.doesNotMatch(component, /manual-contributor-hint/);
   assert.match(component, /contacts\.map/);
   assert.equal(Array.isArray(data), true);
   assert.equal(data[0].enabled, true);
@@ -202,7 +202,7 @@ test('manual collaborators use an independent local data file and summary-only s
   assert.equal(typeof data[0].collaboration.zh, 'string');
   assert.equal(typeof data[0].avatar, 'string');
   assert.equal(Array.isArray(data[0].contacts), true);
-  assert.equal(data[0].contacts.length, 2);
+  assert.equal(data[0].contacts.length, 1);
   assert.equal(typeof data[0].contacts[0].label, 'string');
   assert.equal(typeof data[0].introduction.zh, 'string');
   assert.equal(typeof data[0].quote.zh, 'string');
@@ -224,6 +224,10 @@ test('contributor renderer builds honor wall cards, readable activity, and retry
   assert.match(script, /addEventListener\('click'/);
   assert.match(script, /delete root\.dataset\.contributorRosterStatus/);
   assert.match(script, /copy\.error/);
+  assert.match(script, /prepareRosterMotion/);
+  assert.match(script, /IntersectionObserver/);
+  assert.match(script, /animateRosterNumbers/);
+  assert.match(script, /prefers-reduced-motion/);
 });
 
 test('contributor honor wall styles cover cards, actions, activity, focus, and mobile layouts', async () => {
@@ -237,6 +241,8 @@ test('contributor honor wall styles cover cards, actions, activity, focus, and m
   assert.match(css, /\.contributor-roster__action--primary/);
   assert.match(css, /\.contributor-roster__locale/);
   assert.match(css, /\.contributor-roster__activity/);
+  assert.match(css, /contributor-roster-reveal/);
+  assert.match(css, /data-roster-animate/);
   assert.match(css, /\.contributor-roster--entry \.contributor-roster__person/);
   assert.match(css, /\.contributor-roster__action:focus-visible/);
   assert.match(css, /@media \(max-width: 639px\)[\s\S]*\.contributor-roster__actions/);

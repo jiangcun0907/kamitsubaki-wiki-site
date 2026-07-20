@@ -177,6 +177,7 @@ The CI workflow is defined in `.github/workflows/ci.yml`.
 
 - [Contributing guide](docs/contributing.en.md)
 - [Architecture notes](docs/architecture.en.md)
+- [Branded external-link cards](docs/external-links.en.md)
 
 ## Tech Stack
 

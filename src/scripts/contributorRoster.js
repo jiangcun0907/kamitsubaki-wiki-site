@@ -139,6 +139,67 @@ function renderEmpty(root, copy) {
   return `<div class="contributor-roster__empty"><p>${escapeHtml(copy.empty)}</p>${renderActions(root, copy)}</div>`;
 }
 
+function animateRosterNumbers(content) {
+  const counters = content.querySelectorAll('.contributor-roster__stats strong, .contributor-roster__owner-metrics strong');
+  const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  counters.forEach((counter) => {
+    const target = Number(counter.textContent || 0);
+    if (!Number.isFinite(target) || target <= 0 || reducedMotion) return;
+
+    const startedAt = performance.now();
+    const duration = 480;
+    const update = (now) => {
+      const progress = Math.min(1, (now - startedAt) / duration);
+      const eased = 1 - Math.pow(1 - progress, 3);
+      counter.textContent = String(Math.round(target * eased));
+      if (progress < 1) requestAnimationFrame(update);
+    };
+
+    counter.textContent = '0';
+    requestAnimationFrame(update);
+  });
+}
+
+function prepareRosterMotion(content) {
+  const sequences = [
+    ['.contributor-roster__stats > div', 0, 45],
+    ['.contributor-roster__owner', 130, 0],
+    ['.contributor-roster__section-heading', 190, 0],
+    ['.contributor-roster__person', 230, 35],
+    ['.contributor-roster__activity', 230, 35],
+    ['.contributor-roster__action', 440, 35],
+  ];
+
+  content.dataset.animated = 'false';
+  sequences.forEach(([selector, baseDelay, step]) => {
+    content.querySelectorAll(selector).forEach((element, index) => {
+      element.dataset.rosterAnimate = '';
+      element.style.setProperty('--roster-delay', `${Math.min(520, baseDelay + index * step)}ms`);
+    });
+  });
+
+  let started = false;
+  const start = () => {
+    if (started) return;
+    started = true;
+    content.dataset.animated = 'true';
+    animateRosterNumbers(content);
+  };
+
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches || !('IntersectionObserver' in window)) {
+    requestAnimationFrame(start);
+    return;
+  }
+
+  const observer = new IntersectionObserver((entries) => {
+    if (!entries.some((entry) => entry.isIntersecting)) return;
+    observer.disconnect();
+    start();
+  }, { threshold: 0.12 });
+  observer.observe(content);
+}
+
 function renderRoster(root, source, copy) {
   const mode = root.dataset.mode || 'summary';
   const data = normalizeContributorData(source, { mode, recentLimit: mode === 'entry' ? 3 : 10 });
@@ -211,6 +272,7 @@ async function loadRoster(root) {
     const response = await fetch(url, { headers: { Accept: 'application/json' } });
     if (!response.ok) throw new Error(`Contributor API returned ${response.status}`);
     content.innerHTML = renderRoster(root, await response.json(), copy);
+    prepareRosterMotion(content);
     content.hidden = false;
     state.hidden = true;
     root.dataset.contributorRosterStatus = 'loaded';

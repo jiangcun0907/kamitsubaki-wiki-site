@@ -1,0 +1,34 @@
+---
+import { detectExternalPlatform } from '../lib/externalPlatforms.mjs';
+import PlatformIcon from './PlatformIcon.astro';
+
+interface Props {
+  href: string;
+  label: string;
+  compact?: boolean;
+}
+
+const { href, label, compact = false } = Astro.props;
+const external = /^https?:\/\//.test(href);
+const platform = detectExternalPlatform({ href, label });
+---
+
+<a
+  href={href}
+  target={external ? '_blank' : undefined}
+  rel={external ? 'noopener noreferrer' : undefined}
+  class:list={['external-link-card', compact && 'external-link-card--compact']}
+  style={`--platform-color:${platform.color}`}
+  data-platform={platform.id}
+  aria-label={`${label} — ${platform.name}`}
+>
+  <PlatformIcon href={href} label={label} />
+  <span class="external-link-card__copy">
+    <span class="external-link-card__label">{label}</span>
+    <span class="external-link-card__platform">{platform.name}</span>
+  </span>
+  <svg class="external-link-card__arrow" viewBox="0 0 20 20" aria-hidden="true" focusable="false">
+    <path d="M6 14 14 6M8 6h6v6"></path>
+  </svg>
+</a>
+

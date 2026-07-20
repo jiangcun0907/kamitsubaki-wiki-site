@@ -229,6 +229,13 @@ function initials(name: string) {
       const details = Array.from(root.querySelectorAll<HTMLElement>('[data-contributor-detail]'));
       let selectedId = '';
 
+      const shuffledCards = [...cards];
+      for (let index = shuffledCards.length - 1; index > 0; index -= 1) {
+        const randomIndex = Math.floor(Math.random() * (index + 1));
+        [shuffledCards[index], shuffledCards[randomIndex]] = [shuffledCards[randomIndex], shuffledCards[index]];
+      }
+      shuffledCards.forEach((card) => grid?.append(card));
+
       const closeDetail = () => {
         root.dataset.detailOpen = 'false';
         cards.forEach((card) => card.setAttribute('aria-expanded', 'false'));
@@ -278,47 +285,47 @@ function initials(name: string) {
 
 <style>
   .manual-contributors {
-    --manual-card-size: 7rem;
-    --manual-grid-gap: 0.65rem;
-    margin: 0 0 clamp(2rem, 5vw, 3.5rem);
+    --manual-row-size: 5rem;
+    --manual-grid-gap: clamp(1.25rem, 3vw, 2rem);
+    margin: 0 0 clamp(2rem, 4vw, 2.75rem);
     border-top: 1px solid rgba(255, 255, 255, 0.1);
   }
 
   .manual-contributors__header {
     display: flex;
-    gap: 2rem;
+    gap: 1.5rem;
     align-items: flex-start;
     justify-content: space-between;
-    padding: clamp(1.75rem, 4vw, 2.75rem) 0 1.25rem;
+    padding: clamp(1.6rem, 3vw, 2.4rem) 0 clamp(1.1rem, 2vw, 1.4rem);
   }
 
   .manual-contributors__header h3 {
     margin: 0;
     font-family: var(--font-serif);
-    font-size: clamp(1.15rem, 2.2vw, 1.6rem);
+    font-size: clamp(1.2rem, 2.2vw, 1.7rem);
     font-weight: 400;
-    letter-spacing: 0.07em;
+    letter-spacing: 0;
     color: rgba(255, 255, 255, 0.92);
   }
 
   .manual-contributors__header p {
-    max-width: 42rem;
-    margin: 0.65rem 0 0;
-    font-size: 0.7rem;
-    line-height: 1.8;
-    color: rgba(255, 255, 255, 0.5);
+    max-width: 32rem;
+    margin: 0.55rem 0 0;
+    font-size: 0.82rem;
+    line-height: 1.65;
+    color: rgba(255, 255, 255, 0.56);
   }
 
   .manual-contributors__header > span {
     padding-top: 0.15rem;
     font-family: var(--font-mono);
-    font-size: 0.62rem;
-    letter-spacing: 0.18em;
-    color: color-mix(in srgb, var(--wiki-accent-color) 62%, transparent);
+    font-size: 0.68rem;
+    letter-spacing: 0.12em;
+    color: rgba(255, 255, 255, 0.28);
   }
 
   .manual-contributors__grid-wrap {
-    max-height: calc(var(--manual-card-size) * 2 + var(--manual-grid-gap));
+    max-height: calc(var(--manual-row-size) * 2 + var(--manual-grid-gap));
     overflow: hidden;
     transition: max-height 560ms cubic-bezier(0.22, 1, 0.36, 1);
   }
@@ -329,60 +336,45 @@ function initials(name: string) {
 
   .manual-contributors__grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(6.25rem, 1fr));
-    gap: var(--manual-grid-gap);
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    column-gap: var(--manual-grid-gap);
+    border-top: 1px solid rgba(255, 255, 255, 0.075);
   }
 
   .manual-contributors__card {
     position: relative;
-    display: flex;
-    height: var(--manual-card-size);
+    display: grid;
+    grid-template-columns: 3.75rem minmax(0, 1fr);
+    height: var(--manual-row-size);
     min-width: 0;
-    padding: 0.85rem 0.65rem 0.7rem;
-    flex-direction: column;
+    padding: 0.6rem 0;
     align-items: center;
-    justify-content: center;
-    gap: 0.6rem;
-    overflow: hidden;
-    border: 1px solid rgba(255, 255, 255, 0.1);
+    gap: 0.85rem;
+    border: 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.075);
     border-radius: 0;
-    background: rgba(255, 255, 255, 0.018);
+    background: transparent;
     color: inherit;
     text-align: left;
     cursor: pointer;
-    transition: border-color 260ms ease, background-color 260ms ease, transform 260ms cubic-bezier(0.22, 1, 0.36, 1);
+    transition: color 180ms ease, background-color 180ms ease;
   }
 
   .manual-contributors__card::before {
     position: absolute;
-    inset: 0;
-    background: radial-gradient(circle at 20% 10%, color-mix(in srgb, var(--wiki-accent-color) 14%, transparent), transparent 62%);
+    inset: 0 auto 0 -0.75rem;
+    width: 2px;
+    background: var(--wiki-accent-color);
     content: '';
     opacity: 0;
-    transition: opacity 260ms ease;
-  }
-
-  .manual-contributors__card::after {
-    position: absolute;
-    inset: 0;
-    border: 1px solid transparent;
-    content: '';
-    pointer-events: none;
-    animation: manual-contributor-hint 3.8s ease-in-out 1.2s 2;
-  }
-
-  @keyframes manual-contributor-hint {
-    0%, 100% { border-color: transparent; opacity: 0; }
-    38% { border-color: color-mix(in srgb, var(--wiki-accent-color) 46%, transparent); opacity: 1; }
+    transition: opacity 180ms ease;
   }
 
   .manual-contributors__card:hover,
   .manual-contributors__card:focus-visible,
   .manual-contributors__card[aria-expanded='true'] {
-    border-color: color-mix(in srgb, var(--wiki-accent-color) 46%, rgba(255, 255, 255, 0.16));
-    background: color-mix(in srgb, var(--wiki-accent-color) 6%, rgba(255, 255, 255, 0.02));
+    background: rgba(255, 255, 255, 0.018);
     outline: none;
-    transform: translateY(-2px);
   }
 
   .manual-contributors__card:hover::before,
@@ -403,18 +395,19 @@ function initials(name: string) {
 
   .manual-contributors__avatar {
     position: relative;
-    width: 3.65rem;
-    height: 3.65rem;
+    width: 3.75rem;
+    height: 3.75rem;
+    aspect-ratio: 1 / 1;
+    flex: 0 0 3.75rem;
     overflow: hidden;
-    border: 1px solid color-mix(in srgb, var(--wiki-accent-color) 34%, rgba(255, 255, 255, 0.12));
-    transition: border-color 260ms ease, transform 360ms cubic-bezier(0.22, 1, 0.36, 1);
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    transition: border-color 180ms ease;
   }
 
   .manual-contributors__card:hover .manual-contributors__avatar,
   .manual-contributors__card:focus-visible .manual-contributors__avatar,
   .manual-contributors__card[aria-expanded='true'] .manual-contributors__avatar {
-    border-color: color-mix(in srgb, var(--wiki-accent-color) 64%, white 8%);
-    transform: scale(1.045);
+    border-color: color-mix(in srgb, var(--wiki-accent-color) 52%, rgba(255, 255, 255, 0.25));
   }
 
   .manual-contributors__avatar > img,
@@ -425,7 +418,10 @@ function initials(name: string) {
 
   .manual-contributors__avatar img,
   .manual-contributors__detail-avatar img {
+    display: block;
+    aspect-ratio: 1 / 1;
     object-fit: cover;
+    object-position: center;
   }
 
   .manual-contributors__avatar > span,
@@ -443,45 +439,25 @@ function initials(name: string) {
     display: grid;
     min-width: 0;
     width: 100%;
-    gap: 0.18rem;
-    text-align: center;
-  }
-
-  .manual-contributors__card-copy strong,
-  .manual-contributors__card-copy small {
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
+    gap: 0.32rem;
+    text-align: left;
   }
 
   .manual-contributors__card-copy strong {
     font-family: var(--font-serif);
-    font-size: 0.76rem;
+    font-size: 1rem;
+    line-height: 1.35;
     font-weight: 400;
-    letter-spacing: 0.04em;
+    letter-spacing: 0;
     color: rgba(255, 255, 255, 0.88);
+    overflow-wrap: anywhere;
   }
 
   .manual-contributors__card-copy small {
     font-family: var(--font-mono);
-    font-size: 0.46rem;
-    letter-spacing: 0.07em;
-    color: color-mix(in srgb, var(--wiki-accent-color) 62%, rgba(255, 255, 255, 0.34));
-  }
-
-  .manual-contributors__card-mark {
-    position: absolute;
-    top: 0.72rem;
-    right: 0.72rem;
-    font-family: var(--font-mono);
-    font-size: 0.6rem;
-    color: rgba(255, 255, 255, 0.28);
-    transition: color 240ms ease, transform 420ms cubic-bezier(0.22, 1, 0.36, 1);
-  }
-
-  .manual-contributors__card[aria-expanded='true'] .manual-contributors__card-mark {
-    color: color-mix(in srgb, var(--wiki-accent-color) 82%, white 12%);
-    transform: rotate(45deg) scale(1.08);
+    font-size: 0.68rem;
+    letter-spacing: 0.09em;
+    color: rgba(255, 255, 255, 0.38);
   }
 
   .manual-contributors__toggle {
@@ -493,7 +469,7 @@ function initials(name: string) {
     border: 0;
     background: transparent;
     font-family: var(--font-mono);
-    font-size: 0.55rem;
+    font-size: 0.62rem;
     letter-spacing: 0.08em;
     color: rgba(255, 255, 255, 0.45);
     cursor: pointer;
@@ -531,17 +507,17 @@ function initials(name: string) {
 
   .manual-contributors__drawer-surface {
     position: relative;
-    margin-top: 0.85rem;
-    padding: clamp(1.15rem, 3vw, 1.75rem);
-    border: 1px solid color-mix(in srgb, var(--wiki-accent-color) 24%, rgba(255, 255, 255, 0.08));
-    background: linear-gradient(135deg, color-mix(in srgb, var(--wiki-accent-color) 5%, rgba(255, 255, 255, 0.018)), rgba(255, 255, 255, 0.008));
+    margin-top: clamp(0.75rem, 1.5vw, 1rem);
+    padding: clamp(1rem, 2vw, 1.5rem) 0;
+    border-top: 1px solid color-mix(in srgb, var(--wiki-accent-color) 28%, rgba(255, 255, 255, 0.08));
+    border-bottom: 1px solid rgba(255, 255, 255, 0.075);
   }
 
   .manual-contributors__drawer-close {
     position: absolute;
     z-index: 1;
     top: 0.65rem;
-    right: 0.8rem;
+    right: 0;
     padding: 0.25rem;
     border: 0;
     background: transparent;
@@ -559,8 +535,8 @@ function initials(name: string) {
 
   .manual-contributors__detail {
     display: grid;
-    grid-template-columns: minmax(11rem, 0.7fr) minmax(15rem, 1.2fr) minmax(14rem, 1fr);
-    gap: clamp(1.25rem, 4vw, 3.25rem);
+    grid-template-columns: minmax(12rem, 0.7fr) minmax(18rem, 1.3fr);
+    gap: clamp(1.25rem, 3vw, 2.5rem);
     align-items: start;
     animation: manual-contributor-detail-in 420ms 90ms cubic-bezier(0.22, 1, 0.36, 1) both;
   }
@@ -576,19 +552,21 @@ function initials(name: string) {
 
   .manual-contributors__identity {
     display: grid;
-    grid-template-columns: 3.5rem minmax(0, 1fr);
-    gap: 0.9rem;
+    grid-template-columns: 4.25rem minmax(0, 1fr);
+    gap: 0.85rem;
     align-items: center;
   }
 
   .manual-contributors__detail-avatar,
   .manual-contributors__detail-avatar > img,
   .manual-contributors__detail-avatar > span {
-    width: 3.5rem;
-    height: 3.5rem;
+    width: 4.25rem;
+    height: 4.25rem;
   }
 
   .manual-contributors__detail-avatar {
+    aspect-ratio: 1 / 1;
+    flex: 0 0 4.25rem;
     overflow: hidden;
     border: 1px solid color-mix(in srgb, var(--wiki-accent-color) 38%, rgba(255, 255, 255, 0.12));
   }
@@ -600,34 +578,34 @@ function initials(name: string) {
   .manual-contributors__identity p {
     margin: 0 0 0.35rem;
     font-family: var(--font-mono);
-    font-size: 0.52rem;
-    letter-spacing: 0.1em;
+    font-size: 0.7rem;
+    letter-spacing: 0.08em;
     color: color-mix(in srgb, var(--wiki-accent-color) 72%, white 12%);
   }
 
   .manual-contributors__identity h4 {
     margin: 0;
     font-family: var(--font-serif);
-    font-size: clamp(1.05rem, 2vw, 1.35rem);
+    font-size: clamp(1.15rem, 2vw, 1.45rem);
     font-weight: 400;
-    letter-spacing: 0.05em;
+    letter-spacing: 0;
     color: rgba(255, 255, 255, 0.92);
   }
 
   .manual-contributors__bio > p {
     margin: 0;
-    font-size: 0.7rem;
-    line-height: 1.8;
-    color: rgba(255, 255, 255, 0.54);
+    font-size: 0.82rem;
+    line-height: 1.65;
+    color: rgba(255, 255, 255, 0.62);
   }
 
   .manual-contributors__contacts {
     display: grid;
     grid-template-columns: auto minmax(0, 1fr);
-    gap: 0.55rem 0.85rem;
-    margin-top: 0.85rem;
+    gap: 0.45rem 0.75rem;
+    margin-top: 0.65rem;
     font-family: var(--font-mono);
-    font-size: 0.56rem;
+    font-size: 0.7rem;
   }
 
   .manual-contributors__contacts > span {
@@ -637,7 +615,7 @@ function initials(name: string) {
   .manual-contributors__contacts > div {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.5rem 0.8rem;
+    gap: 0.4rem 0.75rem;
   }
 
   .manual-contributors__contacts a,
@@ -655,23 +633,25 @@ function initials(name: string) {
   }
 
   .manual-contributors__detail blockquote {
+    grid-column: 1 / -1;
     margin: 0;
-    padding-left: clamp(1rem, 3vw, 1.6rem);
-    border-left: 1px solid color-mix(in srgb, var(--wiki-accent-color) 32%, rgba(255, 255, 255, 0.08));
+    padding: clamp(0.8rem, 1.5vw, 1rem) 0 0 clamp(5.25rem, 10vw, 8rem);
+    border-top: 1px solid rgba(255, 255, 255, 0.075);
   }
 
   .manual-contributors__detail blockquote span {
     font-family: var(--font-mono);
-    font-size: 0.5rem;
+    font-size: 0.68rem;
     letter-spacing: 0.12em;
     color: rgba(255, 255, 255, 0.3);
   }
 
   .manual-contributors__detail blockquote p {
-    margin: 0.55rem 0 0;
+    margin: 0.4rem 0 0;
     font-family: var(--font-serif);
-    font-size: 0.82rem;
-    line-height: 1.75;
+    max-width: 52rem;
+    font-size: clamp(0.95rem, 1.5vw, 1.08rem);
+    line-height: 1.65;
     color: rgba(255, 255, 255, 0.74);
   }
 
@@ -680,7 +660,7 @@ function initials(name: string) {
     padding: 1.3rem 0 1.7rem;
     border-top: 1px solid rgba(255, 255, 255, 0.08);
     font-family: var(--font-mono);
-    font-size: 0.62rem;
+    font-size: 0.68rem;
     line-height: 1.7;
     letter-spacing: 0.06em;
     color: rgba(255, 255, 255, 0.38);
@@ -688,16 +668,28 @@ function initials(name: string) {
 
   @media (max-width: 760px) {
     .manual-contributors {
-      --manual-card-size: 6.6rem;
-      --manual-grid-gap: 0.5rem;
+      --manual-row-size: 4.85rem;
+      --manual-grid-gap: 0;
     }
 
     .manual-contributors__header {
       gap: 1rem;
+      padding-top: 1.5rem;
     }
 
     .manual-contributors__grid {
-      grid-template-columns: repeat(3, minmax(0, 1fr));
+      grid-template-columns: 1fr;
+    }
+
+    .manual-contributors__card {
+      grid-template-columns: 3.65rem minmax(0, 1fr);
+      gap: 0.85rem;
+    }
+
+    .manual-contributors__avatar {
+      width: 3.65rem;
+      height: 3.65rem;
+      flex-basis: 3.65rem;
     }
 
     .manual-contributors__detail {
@@ -705,26 +697,29 @@ function initials(name: string) {
       gap: 1rem;
     }
 
+    .manual-contributors__contacts {
+      grid-template-columns: 1fr;
+      gap: 0.4rem;
+    }
+
+    .manual-contributors__contacts > div {
+      gap: 0.55rem 1rem;
+    }
+
     .manual-contributors__detail blockquote {
-      padding: 0.85rem 0 0;
+      padding: 0.9rem 0 0;
       border-top: 1px solid color-mix(in srgb, var(--wiki-accent-color) 24%, rgba(255, 255, 255, 0.08));
-      border-left: 0;
     }
   }
 
   @media (prefers-reduced-motion: reduce) {
     .manual-contributors__grid-wrap,
     .manual-contributors__drawer,
-    .manual-contributors__card,
-    .manual-contributors__card-mark {
+    .manual-contributors__card {
       transition-duration: 0.01ms;
     }
 
     .manual-contributors__detail {
-      animation: none;
-    }
-
-    .manual-contributors__card::after {
       animation: none;
     }
   }

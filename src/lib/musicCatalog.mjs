@@ -192,3 +192,45 @@ export function buildArtistSongCatalog(songEntries, artistEntries, locale = 'en'
     categories: groupSongsByCategory(group.entries, group.slug, locale),
   }));
 }
+
+export function buildArtistAlbumCatalog(albumEntries, artistEntries, locale = 'en') {
+  const groups = new Map();
+
+  for (const entry of albumEntries) {
+    const albumPath = getEntryContentPath(entry.id);
+    const slug = albumPath.split('/').filter(Boolean)[0] || toArtistSlug(entry.data.artist);
+    const artistEntry = findArtistEntry(artistEntries, slug);
+    const group = groups.get(slug) ?? {
+      artist: entry.data.artist.trim(),
+      slug,
+      id: `artist-${slug}`,
+      entries: [],
+      artistEntry,
+      artistPath: artistEntry ? getEntryContentPath(artistEntry.id) : undefined,
+      romanizedName: artistEntry?.data.romanizedName,
+      theme: artistEntry?.data.theme,
+      order: artistEntry?.data.categoryOrder,
+      itemOrder: artistEntry?.data.itemOrder,
+    };
+
+    group.entries.push(entry);
+    groups.set(slug, group);
+  }
+
+  return [...groups.values()]
+    .sort((left, right) =>
+      compareOptionalNumber(left.order, right.order)
+      || compareOptionalNumber(left.itemOrder, right.itemOrder)
+      || left.artist.localeCompare(right.artist, locale, { numeric: true }),
+    )
+    .map((group) => ({
+      ...group,
+      entries: group.entries.sort((left, right) =>
+        compareOptionalNumber(left.data.categoryOrder, right.data.categoryOrder)
+        || compareOptionalNumber(left.data.itemOrder, right.data.itemOrder)
+        || (right.data.releaseDate ?? '').localeCompare(left.data.releaseDate ?? '')
+        || left.data.title.localeCompare(right.data.title, locale),
+      ),
+      cover: group.entries.find((entry) => entry.data.image)?.data.image ?? group.artistEntry?.data.image,
+    }));
+}

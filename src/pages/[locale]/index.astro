@@ -1,5 +1,6 @@
 ---
 import AboutSection from '../../components/AboutSection.astro';
+import AnnouncementModal from '../../components/AnnouncementModal.astro';
 import AlbumsSection from '../../components/AlbumsSection.astro';
 import ArtistDatabase from '../../components/ArtistDatabase.astro';
 import ContributorRoster from '../../components/ContributorRoster.astro';
@@ -27,6 +28,7 @@ const homeContent = getLocalizedSite(siteEntries, locale, defaultLocale);
 const artistEntries = getLocalizedEntries(await getCollection('artists'), locale, defaultLocale);
 const projectEntries = getLocalizedEntries(await getCollection('projects'), locale, defaultLocale);
 const logEntryCollection = getLocalizedEntries(await getCollection('logs'), locale, defaultLocale);
+const announcementEntries = getLocalizedEntries(await getCollection('announcements'), locale, defaultLocale);
 const songEntries = getLocalizedEntries(await getCollection('songs'), locale, defaultLocale);
 const songs = songEntries.slice(0, 4);
 const compareOptionalNumber = (left?: number, right?: number) =>
@@ -44,6 +46,15 @@ const artistCategories = buildArtistCategories(artistEntries);
 const databaseJumpLinks = buildDatabaseJumpLinks(artistCategories);
 const projects = buildProjectCards(projectEntries, locale);
 const logEntries = buildLogCards(logEntryCollection, locale);
+const announcements = [...announcementEntries]
+  .sort((a, b) => Number(Boolean(b.data.pinned)) - Number(Boolean(a.data.pinned)) || a.data.order - b.data.order)
+  .map((entry) => ({ id: entry.id, ...entry.data }));
+const featuredAnnouncement = announcements.find((announcement) => announcement.pinned) ?? announcements[0];
+const announcementModalLabels = {
+  zh: { open: '查看重要公告', close: '知道了' },
+  ja: { open: '重要なお知らせを表示', close: '閉じる' },
+  en: { open: 'View important notice', close: 'Close' },
+}[locale];
 const localeLinks = buildLocaleLinks(homeContent, locale);
 const alternates = supportedLocales.map((localeCode) => ({
   locale: localeCode,
@@ -55,6 +66,7 @@ const metadata = buildHomeMetadata(homeContent, locale);
 <BaseLayout lang={locale} alternates={alternates} metadata={metadata}>
   <div data-page-context-root>
     <SiteNav navItems={homeContent.navItems} localeLinks={localeLinks} brandLines={homeContent.hero.brandLines} homeHref={`/${locale}/`} />
+    <AnnouncementModal announcement={featuredAnnouncement} labels={announcementModalLabels} />
     <Hero hero={homeContent.hero} />
     <AboutSection content={homeContent.sections.about} />
     <ArtistDatabase

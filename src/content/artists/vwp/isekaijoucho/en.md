@@ -128,6 +128,27 @@ Related entries:
 - [SEKAI](/en/artists/isotopes/sekai)
 - [Kamitsubaki City Under Construction](/en/projects/arg/kamitsubaki-city)
 
+## Basic Profile and Character Setting
+
+ISEKAIJOUCHO retains the old-form character “ヰ” in her name as part of her visual and textual identity. Her public design uses ivory hair, heterochromatic eyes, hair covering one eye, gloves, a coat, and recurring flower imagery. “Universal Form” is the common everyday form; Anemone, Heliotrope, Yatagarasu, and other forms belong to particular stages and narratives.
+
+| Item | Detail |
+| --- | --- |
+| Early character design | orie |
+| Later visual collaborators | reoen and other stage/illustration creators |
+| Creative identities | Singer, illustrator, character performer, narrative artist |
+| Voice extension | SEKAI, a musical-isotope voicebank based on her voice |
+
+## Discography, Live Performance, and Collaborations
+
+“Monogatari no Waltz”, “Diorama Drama”, “Hydrangea”, “Tomedonaki Hakujō”, “Artificial Flower”, and “Sirius no Shinzō” form the early solo line. *Sōsei*, *Shikisai*, and *Genshiroku* document later stages. The *CANDY LIVE* cover series, *Anima* lives, Singularity Live with RIM, V.W.P songs, and the 2026 *Flower Closet / Anima Re:birth* programme reveal how singing, drawing, character work, and worldbuilding operate together.
+
+She also takes multiple roles in *Virtual Ties*, including character source, visual creator, and singer. orie, reoen, samayuzame, toukasa, and Harumakigohan are among the creators associated with different parts of the catalogue.
+
+## Forms, Setting, and Anecdotes
+
+Drawing is part of ISEKAIJOUCHO's public creative practice, not merely an accessory to singing. Comments about music, films, games, pets, food, and hobbies should remain in interview or programme context. SEKAI must be kept separate from ISEKAIJOUCHO as a voicebank and character.
+
 ## Related Projects / Setting
 
 ISEKAIJOUCHO connects V.W.P, the musical isotope SEKAI, and the Kamitsubaki City family of projects. Her importance comes from how naturally she layers singer, character, and creator into a single identity.

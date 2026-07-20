@@ -1,6 +1,10 @@
 import { defaultSchema } from 'rehype-sanitize';
 
 const allowedDivClasses = [
+  'wiki-fact-grid',
+  'wiki-fact-card',
+  'wiki-fact-card__label',
+  'wiki-fact-card__value',
   'wiki-embed-stack',
   'my-lyric-controls',
   'my-lyric-box',

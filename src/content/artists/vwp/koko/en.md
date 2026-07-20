@@ -119,6 +119,25 @@ KOKO tends to leave an impression through pressure and directness first. Whether
 Related entry:
 - [Kamitsubaki City Under Construction](/en/projects/arg/kamitsubaki-city)
 
+## Basic Profile and Character Setting
+
+KOKO's name contains the nuance of blessing and protection. Her initial design by SWAV is recognizable through long black-to-purple hair, purple eyes, earrings, a neck ornament, and functional outerwear. The Type-Real Alnair form, revealed through *PLAYER*, emphasizes a real-stage performer and musician.
+
+| Item | Detail |
+| --- | --- |
+| Character design | SWAV |
+| Major projects | *PLAYER*, *ARARE LIVE*, V.W.P |
+| Important collaborators | Onuma Parsley, Len, Feryquitous, Moimi Kashi, DIVELA |
+| Voice extension | COKO, a musical-isotope voicebank based on KOKO's voice |
+
+## Discography, Live Performance, and Collaborations
+
+“harmony”, “Hakuchūmu”, “Kono Sekai ni Kuchizuke wo”, “ASH”, “Meimoku”, “Yakō wo Yobu”, and “the last bullet” outline the path from debut singles to the *PLAYER* period. *prayer* (2022) and *prayer2* (2025) provide the clearest album-level view of her solo line. The *PLAYER* series centres on stage impact, while *ARARE LIVE* highlights covers and range. After a health-related hiatus, *PLAYER III* marked her return to an audience-present solo stage.
+
+## Forms, Setting, and Anecdotes
+
+KOKO's stage forms are linked to each live's concept rather than being interchangeable everyday outfits. KOKO is the virtual singer, while COKO is a separate character and voicebank derived from her voice data. Public health announcements should be recorded factually without speculation about private medical details.
+
 ## Related Projects / Setting
 
 KOKO is tied to V.W.P, to the musical isotope COKO, and to Kamitsubaki City related projects. In the larger map of Kamitsubaki voices, she represents one of the clearest lines of momentum and impact.

@@ -126,6 +126,27 @@ Within V.W.P, she frequently occupies the sharper and more explosive edge of the
 Related entry:
 - [Kamitsubaki City Under Construction](/en/projects/arg/kamitsubaki-city)
 
+## Basic Profile and Character Setting
+
+HARUSARUHI was introduced as a Virtual Rapper. Her visual identity, designed by Hotake Fujimaru, combines black hair with red and blue streaks, golden eyes, headphones, and functional streetwear. “Virtual Rapper” is an important starting position, not a restriction to one genre.
+
+| Item | Detail |
+| --- | --- |
+| Character design | Hotake Fujimaru |
+| Early originals | “Gyakuten”, “Lift Up”, “Moshigoto”, “Oogoto”, “Tsugeguchi” |
+| Major album | *Shingan* |
+| Voice extension | HARU, a musical-isotope voicebank based on her voice |
+
+## Discography, Live Performance, and Collaborations
+
+The early singles establish a high-impact rap route, while *Shingan* gathers that energy into an album-length statement. “Jiyu-ritsu” records everyday thoughts and immediate language and should be distinguished from formally released singles. “Ibasho”, “Kakusei feat. Sanari”, “Aishū sae mo Nakama”, and “Oarana” show the catalogue opening toward melodic and media-tie-in work. The *Shamanism* lives, *Cream Puff Live* covers, Singularity Live, and V.W.P performances document her role as a rhythmic and emotional accelerant.
+
+Takayan contributed to early rap lyrics and “Jiyu-ritsu” materials; Hotake Fujimaru is responsible for the core character design. Descriptions such as “typhoon-like” are performance metaphors, not a complete genre definition.
+
+## Forms, Setting, and Anecdotes
+
+HARUSARUHI first appeared in 3D at KAF's *Fukakai (Re)* in 2020, and later forms were developed for one-man lives and large Kamitsubaki events. “Multiple personalities” in fan culture is a character motif or performance language, not a real-world diagnosis. HARU is an independent synthetic voicebank and character built from her vocal data.
+
 ## Related Projects / Setting
 
 HARUSARUHI is connected to V.W.P, to Kamitsubaki's larger live series, and to the musical isotope HARU. In the broader internal map of Kamitsubaki voices, she represents one of the clearest poles of speed, pressure, and impact.

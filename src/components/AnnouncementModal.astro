@@ -1,0 +1,89 @@
+---
+type Announcement = {
+  id: string;
+  date: string;
+  type: string;
+  title: string;
+  summary: string;
+};
+
+const { announcement, labels } = Astro.props as {
+  announcement?: Announcement;
+  labels: { open: string; close: string };
+};
+
+if (!announcement) return;
+---
+
+<button
+  class="announcement-launcher"
+  type="button"
+  data-announcement-open
+  aria-label={labels.open}
+  aria-controls="announcement-modal-panel"
+>
+  <span aria-hidden="true">//</span>
+  <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+    <path d="M6.5 4.5h11v15h-11zM9 8h6M9 11.5h6M9 15h4" />
+  </svg>
+</button>
+
+<div class="announcement-modal" data-announcement-modal data-announcement-id={announcement.id} hidden>
+  <button class="announcement-modal__scrim" type="button" data-announcement-close aria-label={labels.close}></button>
+  <section id="announcement-modal-panel" class="announcement-modal__panel" role="dialog" aria-modal="true" aria-labelledby="announcement-modal-title" aria-describedby="announcement-modal-summary">
+    <div class="announcement-modal__topline">
+      <span>IMPORTANT NOTICE</span>
+      <span>{announcement.date}</span>
+    </div>
+    <p class="mt-8 text-[9px] font-mono uppercase tracking-[0.24em] text-white/35">{announcement.type}</p>
+    <h2 id="announcement-modal-title" class="mt-3 font-serif text-2xl leading-tight text-white sm:text-3xl">{announcement.title}</h2>
+    <p id="announcement-modal-summary" class="mt-5 text-sm leading-7 text-white/60">{announcement.summary}</p>
+    <div class="mt-8 flex flex-wrap items-center gap-3 border-t border-white/10 pt-5">
+      <button type="button" class="announcement-modal__button announcement-modal__button--primary" data-announcement-close>{labels.close}</button>
+    </div>
+  </section>
+</div>
+
+<script>
+  const modal = document.querySelector('[data-announcement-modal]');
+  const openButton = document.querySelector('[data-announcement-open]');
+  const closeButtons = modal?.querySelectorAll('[data-announcement-close]') ?? [];
+  const storageKey = 'kamitsubaki-wiki-announcement-seen';
+  const hasSeenAnnouncement = window.localStorage.getItem(storageKey) === 'true';
+  const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  let closeTimer: number | undefined;
+
+  const openModal = () => {
+    if (!(modal instanceof HTMLElement)) return;
+    if (closeTimer !== undefined) window.clearTimeout(closeTimer);
+    modal.classList.remove('is-closing');
+    modal.hidden = false;
+    document.body.classList.add('announcement-modal-open');
+    window.requestAnimationFrame(() => {
+      const primaryButton = modal.querySelector('.announcement-modal__button--primary');
+      if (primaryButton instanceof HTMLButtonElement) primaryButton.focus();
+    });
+  };
+
+  const closeModal = () => {
+    if (!(modal instanceof HTMLElement) || modal.hidden || modal.classList.contains('is-closing')) return;
+    document.body.classList.remove('announcement-modal-open');
+    modal.classList.add('is-closing');
+    closeTimer = window.setTimeout(() => {
+      modal.hidden = true;
+      modal.classList.remove('is-closing');
+      if (openButton instanceof HTMLButtonElement) openButton.focus();
+    }, prefersReducedMotion ? 0 : 380);
+  };
+
+  if (!hasSeenAnnouncement && modal instanceof HTMLElement) {
+    window.localStorage.setItem(storageKey, 'true');
+    window.setTimeout(openModal, 450);
+  }
+
+  openButton?.addEventListener('click', openModal);
+  closeButtons.forEach((button) => button.addEventListener('click', closeModal));
+  window.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape') closeModal();
+  });
+</script>

@@ -107,15 +107,19 @@
     "links": [
       {
         "label": "ABOUT",
-        "href": "#about"
+        "href": "/zh/#about"
       },
       {
-        "label": "GUIDELINES",
-        "href": "https://github.com/LinkTh1rsty/kamitsubaki-wiki-site/blob/main/docs/contributing.md"
+        "label": "CONTRIBUTE",
+        "href": "/zh/contribute/edit"
       },
       {
         "label": "CONTACT",
-        "href": "#social-contact"
+        "href": "/zh/#social-contact"
+      },
+      {
+        "label": "REPOSITORY",
+        "href": "https://github.com/LinkTh1rsty/kamitsubaki-wiki-site"
       }
     ],
     "disclaimer": [
@@ -172,34 +176,6 @@
         "href": "/zh/contribute/edit",
         "handle": "一起完善百科",
         "icon": "link"
-      },
-      {
-        "label": "Bilibili",
-        "href": "",
-        "handle": "填写你的 B 站主页",
-        "icon": "bilibili",
-        "enabled": false
-      },
-      {
-        "label": "X",
-        "href": "",
-        "handle": "填写你的 X 账号",
-        "icon": "x",
-        "enabled": false
-      },
-      {
-        "label": "YouTube",
-        "href": "",
-        "handle": "填写你的 YouTube 频道",
-        "icon": "youtube",
-        "enabled": false
-      },
-      {
-        "label": "微博",
-        "href": "",
-        "handle": "填写你的微博主页",
-        "icon": "weibo",
-        "enabled": false
       }
     ]
   },

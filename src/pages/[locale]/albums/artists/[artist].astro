@@ -1,0 +1,136 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import MusicSubnav from '../../../../components/MusicSubnav.astro';
+import SiteFooter from '../../../../components/SiteFooter.astro';
+import SiteNav from '../../../../components/SiteNav.astro';
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import { getLocalizedEntries, getLocalizedSite } from '../../../../lib/homeData.mjs';
+import { buildLocaleLinks, defaultLocale, supportedLocales } from '../../../../lib/i18n.mjs';
+import { buildArtistAlbumCatalog } from '../../../../lib/musicCatalog.mjs';
+
+export async function getStaticPaths() {
+  const [allAlbums, allArtists] = await Promise.all([
+    getCollection('albums'),
+    getCollection('artists'),
+  ]);
+
+  return supportedLocales.flatMap((locale) => {
+    const localizedAlbums = getLocalizedEntries(allAlbums, locale, defaultLocale);
+    const localizedArtists = getLocalizedEntries(allArtists, locale, defaultLocale);
+
+    return buildArtistAlbumCatalog(localizedAlbums, localizedArtists, locale).map((group) => ({
+      params: { locale, artist: group.slug },
+      props: { group },
+    }));
+  });
+}
+
+const { locale, artist } = Astro.params;
+const { group } = Astro.props;
+const localeCode = locale as 'zh' | 'ja' | 'en';
+const albums = group.entries as CollectionEntry<'albums'>[];
+const artistName = group.artist;
+const siteEntries = await getCollection('site');
+const homeContent = getLocalizedSite(siteEntries, localeCode, defaultLocale);
+const currentPath = `/albums/artists/${artist}`;
+const localeLinks = buildLocaleLinks(homeContent, localeCode, currentPath);
+const alternates = supportedLocales.map((code) => ({ locale: code, href: `/${code}${currentPath}` }));
+const copy = {
+  zh: { back: '全部艺人', catalog: '专辑目录', albums: '张作品', artistEntry: '查看艺人条目', type: '类型', release: '发行日期' },
+  ja: { back: 'すべてのアーティスト', catalog: 'アルバム一覧', albums: '作品', artistEntry: 'アーティスト記事を見る', type: '種類', release: 'リリース日' },
+  en: { back: 'All artists', catalog: 'Album catalog', albums: 'albums', artistEntry: 'View artist entry', type: 'Type', release: 'Release date' },
+}[localeCode];
+const accentColor = group.theme?.accentColor ?? '#d9dbe8';
+const pageStyle = `--catalog-accent:${accentColor};--catalog-surface:${group.theme?.surfaceColor ?? '#101117'}`;
+---
+
+<BaseLayout lang={localeCode} alternates={alternates} title={`${artistName} ${copy.catalog} - Kamitsubaki Studio Fan Wiki`}>
+  <div class="min-h-screen" style={pageStyle}>
+    <SiteNav navItems={homeContent.navItems} localeLinks={localeLinks} brandLines={homeContent.hero.brandLines} compact homeHref={`/${localeCode}/`} />
+
+    <main class="mx-auto max-w-7xl px-5 py-24 sm:px-6">
+      <a href={`/${localeCode}/albums`} class="font-mono text-[9px] uppercase tracking-[0.18em] text-white/40 transition-colors hover:text-white">← {copy.back}</a>
+
+      <header class="mt-7 border-y border-white/10 py-8 sm:py-10">
+        <p class="font-mono text-[9px] uppercase tracking-[0.24em] text-white/35">{copy.catalog}</p>
+        <div class="mt-3 flex flex-wrap items-end justify-between gap-6">
+          <div>
+            <h1 class="font-serif text-4xl tracking-[0.08em] text-white sm:text-5xl">{artistName}</h1>
+            {group.romanizedName && group.romanizedName !== artistName && (
+              <p class="mt-2 font-mono text-[10px] uppercase tracking-[0.24em] text-white/35">{group.romanizedName}</p>
+            )}
+          </div>
+          <div class="flex items-center gap-6 font-mono text-[9px] uppercase tracking-[0.18em] text-white/40">
+            <span><strong class="mr-2 text-lg font-normal text-white/80">{albums.length}</strong>{copy.albums}</span>
+            {group.artistPath && <a href={`/${localeCode}/artists/${group.artistPath}`} class="text-white/45 transition-colors hover:text-white">{copy.artistEntry} →</a>}
+          </div>
+        </div>
+      </header>
+
+      <div class="mt-8"><MusicSubnav locale={localeCode} current="albums" /></div>
+
+      <div class="mt-12 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        {albums.map((album) => {
+          const albumPath = album.id.split('/').slice(0, -1).join('/');
+          return (
+            <a href={`/${localeCode}/albums/${albumPath}`} class="album-card group overflow-hidden border border-white/10 bg-white/[0.02] transition-colors hover:border-white/30">
+              {album.data.image ? (
+                <img src={album.data.image} alt="" class="aspect-square w-full object-cover opacity-80 transition duration-700 group-hover:scale-[1.015] group-hover:opacity-100" loading="lazy" />
+              ) : (
+                <span class="grid aspect-square w-full place-items-center bg-white/[0.03] font-serif text-6xl text-white/10">{album.data.title.slice(0, 1)}</span>
+              )}
+              <div class="p-6">
+                <h2 class="font-serif text-lg tracking-wide text-white">{album.data.title}</h2>
+                {(album.data.type || album.data.releaseDate) && (
+                  <dl class="mt-5 flex flex-wrap gap-x-6 gap-y-2 border-t border-white/10 pt-4 font-mono text-[9px] uppercase tracking-[0.16em] text-white/35">
+                    {album.data.type && <div><dt class="sr-only">{copy.type}</dt><dd>{album.data.type}</dd></div>}
+                    {album.data.releaseDate && <div><dt class="sr-only">{copy.release}</dt><dd>{album.data.releaseDate}</dd></div>}
+                  </dl>
+                )}
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    </main>
+
+    <SiteFooter footer={homeContent.footer} />
+  </div>
+</BaseLayout>
+
+<style>
+  .album-card {
+    position: relative;
+  }
+
+  .album-card::after {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 1px;
+    content: '';
+    background: var(--catalog-accent);
+    opacity: 0;
+    transform: scaleX(0.3);
+    transition: opacity 300ms ease, transform 500ms ease;
+  }
+
+  .album-card:hover::after,
+  .album-card:focus-visible::after {
+    opacity: 0.75;
+    transform: scaleX(1);
+  }
+
+  .album-card:focus-visible {
+    outline: 1px solid color-mix(in srgb, var(--catalog-accent) 70%, white);
+    outline-offset: 3px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .album-card img,
+    .album-card::after {
+      transition: none;
+    }
+  }
+</style>

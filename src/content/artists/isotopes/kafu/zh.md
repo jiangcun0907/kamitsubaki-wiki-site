@@ -1,138 +1,111 @@
 ---
 locale: "zh"
 translationKey: "kafu"
-code: "M1"
+code: "11"
 romanizedName: "KAFU"
-categoryOrder: 4
+categoryOrder: 3
 itemOrder: 1
-meta: "ORIGIN: KAF"
+meta: "RELEASE: 2021.07.07"
 debutDate: "2021-07-07"
-profileTagline: "以花譜的歌声数据为基础生成的 CeVIO AI 音乐同位体，作为创作者的「创意伙伴」拓展声音合成的可能性。"
+profileTagline: "基于花谱歌声打造的首款 CeVIO AI / Synthesizer V 音乐同位体声库，引爆 VOCALOID 现象级创作狂潮。"
 designCredits:
   - "角色设计：PALOW."
 affiliations:
   - "KAMITSUBAKI STUDIO"
-  - "音楽的同位体プロジェクト"
+  - "PHENOMENON RECORD"
 officialLinks:
-  - label: "音楽的同位体官方网站"
-    href: "https://musical-isotope.kamitsubaki.jp/"
-  - label: "X (Twitter)"
-    href: "https://twitter.com/musicalisotope"
-  - label: "YouTube"
-    href: "https://www.youtube.com/channel/UCm_1n9F3A6pz-Ms2NP93tBA"
+  - label: "音乐同位体 可不 官方网站"
+    href: "https://kafu.kamitsubaki.jp/"
 featuredEntries:
   - label: "花譜 / KAF"
     href: "/zh/artists/vwp/kaf"
     kind: "artist"
-  - label: "星界 / SEKAI"
-    href: "/zh/artists/isotopes/sekai"
-    kind: "artist"
-  - label: "裏命 / RIME"
-    href: "/zh/artists/isotopes/rime"
-    kind: "artist"
-  - label: "狐子 / COKO"
-    href: "/zh/artists/isotopes/coko"
-    kind: "artist"
-  - label: "羽累 / HARU"
-    href: "/zh/artists/isotopes/haru"
-    kind: "artist"
 theme:
-  name: "KAFU Bloom"
-  accentColor: "#f29ac2"
-  mutedColor: "#e63145"
-  surfaceColor: "#111321"
-  highlightColor: "#fff6fa"
+  name: "KAFU Yellow"
+  accentColor: "#f7ca00"
+  mutedColor: "#a38200"
+  surfaceColor: "#14130d"
+  highlightColor: "#fffde8"
   palette:
-    - label: "花譜粉"
-      value: "#F29AC2"
-    - label: "红花"
-      value: "#E63145"
-    - label: "深蓝"
-      value: "#111321"
-    - label: "柔光白"
-      value: "#FFF6FA"
-statusLabel: "TYPE"
-status: "CeVIO AI"
-image: "https://placehold.co/1200x800/111321/f29ac2?text=KAFU"
+    - label: "可不黄"
+      value: "#F7CA00"
+    - label: "金黄"
+      value: "#A38200"
+    - label: "柔暖白"
+      value: "#FFFDE8"
+    - label: "夜色"
+      value: "#14130D"
+statusLabel: "STATUS"
+status: "ACTIVE"
+image: "/images/artists/kafu.jpg"
 name: "可不"
 categoryTitle: "音乐同位体"
-categorySubtitle: "MUSICAL ISOTOPE"
+categorySubtitle: "MUSICAL ISOTOPES"
 seo:
   keywords:
     - "可不"
     - "KAFU"
+    - "音乐的同位体"
     - "CeVIO AI"
-    - "音楽的同位体"
-    - "KAMITSUBAKI STUDIO"
+    - "Synthesizer V"
+    - "フォニイ"
+    - "花谱"
 ---
 
 ## 概述
 
-可不（KAFU）是 KAMITSUBAKI STUDIO 推出的「音楽的同位体」（Musical Isotope）系列中的第一款声音合成软件，以虚拟歌手花譜（KAF）的歌声数据为基础，通过 AI 技术生成高度还原真人歌唱的声音。
+{{ruby::可不::かふ::kafu}} 是 KAMITSUBAKI STUDIO 推出的首款“音乐的同位体”（Musical Isotope）歌声合成软件及虚拟角色，声源原型为虚拟歌手 **[花譜 / KAF](/zh/artists/vwp/kaf)**。
 
-作为 CeVIO AI 平台上的声库，可不不仅仅是一个歌唱合成工具——她被定位为创作者的「创意伙伴」，旨在通过 UGC（用户生成内容）拓展声音合成的可能性，让更多创作者能够用接近真人的歌声表达自己的音乐。
+软件于 2021 年 7 月 7 日基于 CeVIO AI 引擎正式发售，随后推出了 Synthesizer V AI 版本。可不发售即在 Vocaloid 与同人创作圈引爆现象级狂潮，诞生了如 ツミキ 创作的《{{ruby::フォニイ::ふぉにい::phony}}》（Phony）、きくお 创作的《{{ruby::愛して愛して愛して::あいしてあいしてあいして::aishite aishite aishite}}》Cover 等播放破千万级别的神曲，成为 2020 年代最具代表性的语音合成巨星之一。
 
-## 角色与创作定位
+<div class="wiki-fact-grid">
+  <div class="wiki-fact-card"><p class="wiki-fact-card__label">VOICE PROVIDER</p><p class="wiki-fact-card__value">花譜 / KAF</p></div>
+  <div class="wiki-fact-card"><p class="wiki-fact-card__label">SINGING ENGINE</p><p class="wiki-fact-card__value">CeVIO AI；后续扩展至 Synthesizer V AI</p></div>
+  <div class="wiki-fact-card"><p class="wiki-fact-card__label">CHARACTER DESIGN</p><p class="wiki-fact-card__value">PALOW.</p></div>
+  <div class="wiki-fact-card"><p class="wiki-fact-card__label">RELEASE</p><p class="wiki-fact-card__value">2021 年 7 月 7 日</p></div>
+</div>
 
-音楽的同位体项目的理念是：AI 技术不应取代人类歌唱，而是成为创作者的伙伴。可不继承了花譜声线中的「少女感」与「距离感」，但又因为是合成声音而获得了某种独特的「非人」质感——这种介于真人与虚拟之间的声音特质，恰好成为了创作者社区中的一种美学资源。
+## 角色设计与声音定位
 
-在 UGC 生态中，可不已经被大量 Vocaloid / CeVIO 创作者使用，产出了数量庞大的衍生作品（派生曲）。她既是花譜声音的延伸，也成为了一个独立的创作符号。
+可不的角色视觉由 花譜 的原案插画师 PALOW. 亲自设计，融合了“白黄色调”、“同心环瞳孔”、“连帽风衣”以及与花譜形成对立与互补的几何元素。
 
-## 活动历程
+角色视觉由花譜的原案插画师 PALOW. 设计。白与黄色的主色、环状瞳孔、连帽外套及几何化细节，使其既能与花譜并置，也能作为独立的合成声角色被辨认。
 
-### 2020年
+## 历程
 
-- **10月10日**：在花谱 2nd ONE-MAN LIVE「不可解•弐Q1」制作名单后播出宣传片，首次公布「音乐的同位体 可不(KAFU)」制作企划。
-- **10月19日**：经过推特问卷调查和与花谱的讨论，决定以「Type B」声线为基础进行声库开发。
-- **12月25日**：在直播节目「花达与椿与君。vol.6」中，公布了可不的首支原创歌曲——由煮ル果実创作的《Night Rule》（ナイトルール）。
+| 时间 | 节点 | 说明 |
+| --- | --- | --- |
+| 2020-10 | 声线问卷 | 公开三种试作歌唱类型并征集意见，最终以 Type B 为制作基础。 |
+| 2020-11 ～ 12 | 先行 Cover | 《雛鳥》《心臓と絡繰》《過去を喰らう》等先行作品陆续发布。 |
+| 2021-05 ～ 07 | 委约曲与发售 | 多位创作者参与启动企划；原定档期调整后，于 7 月 7 日正式发售。 |
+| 后续 | 引擎扩展 | 在 CeVIO AI 版本的基础上，系列进一步提供 Synthesizer V AI 版本。 |
 
-### 2021年
+## 官方委约曲与创作入口
 
-- **1月9日**：发布由一二三创作的原创歌曲《ホログラム》（Hologram）。
-- **2月20日**：发布由syudou创作的原创歌曲《キュートなカノジョ》（Cute Na Kanojo），在各大视频网站获得极高人气并迅速走红。
-- **6月5日**：发布由ツミキ创作的原创歌曲《フォニイ》（Phony），成为可不最具代表性的殿堂级大热神曲。
-- **7月7日**：声音合成软件「音乐的同位体 可不(KAFU)」正式发售，并同捆首张概念合辑《KAF+YOU KAFU COMPILATION ALBUM》。
-- **7月17日**：发布由香椎モイミ创作的原创歌曲《キャットラビング》（Cat Loving），在创作者社区引起广泛回响与二次创作热潮。
+可不在发售前后通过连续委约曲展示不同制作人的声线处理方式。下表是启动阶段的重要索引，不以此替代持续增长的 UGC 曲库。
 
-### 2023年
+{{details::展开启动阶段曲目索引}}
 
-- **3月30日－31日**：参演在丰洲PIT举办的「KAMITSUBAKI FES '23」。
+| 日期 | 曲名 | 创作者 |
+| --- | --- | --- |
+| 2020-11-14 | 《雛鳥》covered by 可不 | カンザキイオリ |
+| 2021-01-09 | 《ホログラム》 | 一二三 |
+| 2021-02-20 | 《キュートなカノジョ》 | syudou |
+| 2021-03-07 | 《アイスクリーム》 | Guiano |
+| 2021-04-10 | 《レトロポリス》 | R Sound Design |
+| 2021-05-01 | 《花となれ》 | 雄之助 |
+| 2021-05-08 | 《水面下》 | 大沼パセリ |
+| 2021-06-05 | 《フォニイ》 | ツミキ |
+| 2021-07-17 | 《キャットラビング》 | 香椎モイミ |
 
-### 2024年
+{{/details}}
 
-- **7月7日**：作为同位体组合「V.I.P」成员，参演三周年纪念免费虚拟迷你演唱会「V.I.P 1st MINI LIVE ETHEREAL WORLD」。
-- **8月8日**：作为「V.I.P」成员，参演在横滨 Pacifico 举办的「KAMITSUBAKI FES '24 THE DAY THE EARTH STOOD STILL」。
+《フォニイ》《マーシャル・マキシマイザー》《キュートなカノジョ》等作品常被视为可不在合成声创作生态中具有代表性的使用案例；其意义在于创作者对声库的持续再诠释，而非由单一演唱者固定作品目录。
 
-### 2025年
+## 项目关联
 
-- **11月2日**：作为「V.I.P」成员，参演在 Kanadevia Hall 举办的「KAMITSUBAKI FES '25 OUR ONE-DAY WAR」。
-
-
-## 代表作品与相关条目
-
-可不本身不发行传统意义上的音乐作品，而是作为工具存在于创作者生态中。以可不为核心创作的代表性乐曲包括：
-
-- 花譜 × 可不「流線形メーデー」（HiFi-P 作曲）
-- 大量由 UGC 创作者制作的派生曲
-
-推荐搭配阅读：
-
-- [花譜 / KAF](/zh/artists/vwp/kaf)
-- [星界 / SEKAI](/zh/artists/isotopes/sekai)
-
-## 相关企划 / 关联设定
-
-可不是「音楽的同位体プロジェクト」的核心产品之一。该项目由 KAMITSUBAKI STUDIO 发起，以旗下虚拟歌手的歌声数据为基础，利用 AI 技术制作声音合成软件。可不之后，星界（SEKAI，基于ヰ世界情緒）也加入了这一系列。
-
-联系方式：musical-isotope@kamitsubaki.jp
-
-## 参考资料
-
-- 音楽的同位体官方网站：<https://musical-isotope.kamitsubaki.jp/>
-- KAMITSUBAKI STUDIO 音楽的同位体页面：<https://kamitsubaki.jp/artist/musical-isotope/>
+可不是音乐同位体项目的起点。她与后续的[星界 / SEKAI](/zh/artists/isotopes/sekai)、[裏命 / RIME](/zh/artists/isotopes/rime)、[狐子 / COKO](/zh/artists/isotopes/coko)、[羽累 / HARU](/zh/artists/isotopes/haru)共同构成以虚拟歌手声线为核心、面向创作者开放的合成声系列。
 
 ## 外部链接
 
-- 音楽的同位体官方网站：<https://musical-isotope.kamitsubaki.jp/>
-- X (Twitter)：<https://twitter.com/musicalisotope>
-- YouTube：<https://www.youtube.com/channel/UCm_1n9F3A6pz-Ms2NP93tBA>
+- 音乐同位体 可不 官方网站：<https://kafu.kamitsubaki.jp/>

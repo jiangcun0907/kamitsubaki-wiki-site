@@ -73,6 +73,16 @@ Her prolific output and consistent quality have made her a cornerstone of the AN
 - "Wonderland Underground" (ワンダーランド地下)
 - "Honey Diary" (蜂蜜日記)
 
+## Activity History and Upload Statistics
+
+Kashii Moimi posted her first VOCALOID song, “Sokka”, on niconico and YouTube on December 15, 2018. She joined Bilibili on July 8, 2020. “Cat Loving”, released with KAFU on July 17, 2021, became her first Legend-level song; its YouTube views passed ten million in July 2022. She joined Kamitsubaki on October 18, 2021.
+
+The organized record counts 53 original VOCALOID/CeVIO uploads as of April 27, 2024, including 15 Hall of Fame works and one Legend work. She is known to be a KAITO fan, has supplied songs for ISEKAIJOUCHO, and has tuned demonstration covers for SEKAI. Her public creator interactions also include illustrator Dandan Taikū.
+
+## Albums and Collaborations
+
+Representative works include “Cat Loving”, “Henshoku”, “Kanri-yoku”, “Blue Hero”, “Akumu no Hikari”, “Hishō”, “Shissō Zenya”, “Bad End Maker”, “Human-Like”, “Wonderland Underground”, and “Hachimitsu Nikki”. Album references include *Katsua* and *Henai*. VOCALOID/CeVIO uploads, songs supplied to Kamitsubaki artists, demonstration covers, and personal albums should remain separate catalogue layers.
+
 ## References
 
 - YouTube: <https://www.youtube.com/channel/UC9_8AXpxjjNl62HPhF5IAyg>

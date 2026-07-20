@@ -41,12 +41,13 @@ test('album navigation and labels exist in every supported locale', async () => 
   }
 });
 
-test('music pages use artist-first song navigation and a flat album catalog', async () => {
-  const [subnav, songsPage, artistSongsPage, albumsPage, albumDetail] = await Promise.all([
+test('music pages use artist-first song and album navigation', async () => {
+  const [subnav, songsPage, artistSongsPage, albumsPage, artistAlbumsPage, albumDetail] = await Promise.all([
     readProjectFile('../src/components/MusicSubnav.astro'),
     readProjectFile('../src/pages/[locale]/songs/index.astro'),
     readProjectFile('../src/pages/[locale]/songs/artists/[artist].astro'),
     readProjectFile('../src/pages/[locale]/albums/index.astro'),
+    readProjectFile('../src/pages/[locale]/albums/artists/[artist].astro'),
     readProjectFile('../src/pages/[locale]/albums/[...id].astro'),
   ]);
 
@@ -57,9 +58,42 @@ test('music pages use artist-first song navigation and a flat album catalog', as
   assert.match(artistSongsPage, /buildArtistSongCatalog/);
   assert.match(artistSongsPage, /category\.entries\.map/);
   assert.match(artistSongsPage, /songs\/\$\{songPath\}/);
-  assert.doesNotMatch(albumsPage, /groupMusicByArtist/);
-  assert.match(albumsPage, /sortedAlbums\.map/);
+  assert.match(artistSongsPage, /song\.data\.image \?\? group\.cover/);
+  assert.match(albumsPage, /buildArtistAlbumCatalog/);
+  assert.match(albumsPage, /albums\/artists\/\$\{group\.slug\}/);
+  assert.match(artistAlbumsPage, /buildArtistAlbumCatalog/);
+  assert.match(artistAlbumsPage, /albums\.map/);
+  assert.match(artistAlbumsPage, /albums\/\$\{albumPath\}/);
   assert.match(albumDetail, /<MusicSubnav locale=\{localeCode\} current="albums"/);
+});
+
+test('album catalog groups entries by folder-driven artist ids', async () => {
+  const { buildArtistAlbumCatalog } = await import('../src/lib/musicCatalog.mjs');
+  const albums = [
+    { id: 'kaf/maho/zh', data: { artist: '花譜', title: '魔法', releaseDate: '2020-11-25', itemOrder: 2, image: '/maho.jpg' } },
+    { id: 'kaf/kansoku/zh', data: { artist: '花譜', title: '観測', releaseDate: '2019-09-11', itemOrder: 1, image: '/kansoku.jpg' } },
+    { id: 'vwp/fate/zh', data: { artist: 'V.W.P', title: 'FATE', releaseDate: '2024-03-27', image: '/fate.jpg' } },
+  ];
+  const artists = [
+    { id: 'vwp/kaf/zh', data: { translationKey: 'kaf', name: '花譜', romanizedName: 'KAF', categoryOrder: 1, itemOrder: 1 } },
+    { id: 'vwp/vwp/zh', data: { translationKey: 'vwp', name: 'V.W.P', romanizedName: 'V.W.P', categoryOrder: 1, itemOrder: 0 } },
+  ];
+
+  const catalog = buildArtistAlbumCatalog(albums, artists, 'zh');
+  assert.deepEqual(catalog.map((group) => ({ slug: group.slug, size: group.entries.length })), [
+    { slug: 'vwp', size: 1 },
+    { slug: 'kaf', size: 2 },
+  ]);
+  assert.deepEqual(catalog[1].entries.map((entry) => entry.data.title), ['観測', '魔法']);
+  assert.equal(catalog[1].cover, '/kansoku.jpg');
+});
+
+test('song artwork prefers song covers and falls back to artist artwork', async () => {
+  const songDetail = await readProjectFile('../src/pages/[locale]/songs/[...id].astro');
+
+  assert.match(songDetail, /entry\.data\.image\s*\?\? artistEntry\?\.data\.image/);
+  assert.match(songDetail, /getCollection\('artists'\)/);
+  assert.match(songDetail, /artist\.data\.translationKey === entry\.data\.artistId/);
 });
 
 test('song catalog uses artist entry artwork and folder-driven categories', async () => {

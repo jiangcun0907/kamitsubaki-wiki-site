@@ -130,6 +130,39 @@ Useful related entries:
 - [KAFU](/en/artists/isotopes/kafu)
 - [Kamitsubaki City Under Construction](/en/projects/arg/kamitsubaki-city)
 
+## Basic Profile and Character Setting
+
+KAF's public identity is built around anonymity, observation, and the distance between a virtual body and a real stage. “Observer” is both the name used for her listeners and a description of the relationship established by her works. Early fan expressions belong to fan culture, not to an official civil name.
+
+| Item | Detail |
+| --- | --- |
+| Character design | PALOW. |
+| Core imagery | Observation, the witch, flowers, and the Laplace motif |
+| Main affiliations | KAMITSUBAKI STUDIO, V.W.P, KAFU |
+| Early creative partner | Iori Kanzaki |
+| Voice extension | KAFU, a musical-isotope voicebank based on KAF's voice |
+
+## Discography and Collaborations
+
+The early catalogue is best read through “Ito”, “Shinzo to Karakuri”, “Majo”, “Hinadori”, “Kako wo Kurau”, “Umi ni Bakeru”, and “Tomadoi Telepathy”. The albums *Kansoku*, *Maho*, *Kyoso*, *Guuwa*, and *Shinai* document the shift from uploads to a larger album and live-performance narrative. “Suite”, V.W.P songs, and collaborations with KAFU connect her solo work to Kamitsubaki's wider creator ecosystem.
+
+| Phase | Main material | Significance |
+| --- | --- | --- |
+| Early uploads | “Ito”, “Shinzo to Karakuri”, “Majo”, “Hinadori” | Established the observation vocabulary |
+| Album period | *Kansoku*, *Maho*, *Kyoso* | Developed a continuous solo narrative |
+| Live period | *Fukakai*, *Fukakai 2*, *Fukakai 3*, *Kaika* | Made virtual performance central to the work |
+| Expansion | “Suite”, V.W.P, Kaika, KAFU | Connected singer, unit, songwriter, and synthesis culture |
+
+## Music, Live Performance, and Related Figures
+
+The *Fukakai* series should be treated as a sequence of artistic works rather than a list of concerts. The 2019 crowdfunding live established the shared language of KAF and her audience; later online and rebuilding performances made absence, reconstruction, and virtual staging part of the narrative. *Fukakai 3 (Mad)* reached Nippon Budokan in 2022, while *Fukakai 3 (So)* closed that chapter in 2023. *Kaika* marks a later singer-songwriter phase.
+
+Iori Kanzaki shaped the early musical period, while PALOW. and the visual production team shaped the character's visual continuity. KAF should be kept distinct from KAFU: KAFU is an independent synthetic voicebank and character based on KAF's voice.
+
+## Forms, Setting, and Anecdotes
+
+KAF's visual forms change with the work and stage. Early “chick” and “swallow” imagery, special singing forms, and later live-specific designs embody different chapters rather than ordinary costume changes. Public information about her real-world identity is intentionally limited; this article prioritizes official songs, videos, live performances, published design material, and reliable interviews.
+
 ## Related Projects / Setting
 
 KAF sits at the intersection of several major Kamitsubaki lines. As a V.W.P member she participates in the group's core song cycles; as the source voice of KAFU she extends into fan and creator production culture; and as a recurring figure in Kamitsubaki City projects she also functions as part of the studio's broader narrative identity. In the upcoming 2025 TV anime *Kamitsubaki City Under Construction*, she will make her debut as a voice actor, playing a character based on herself.

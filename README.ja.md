@@ -177,6 +177,7 @@ CI ワークフローは `.github/workflows/ci.yml` にあります。
 
 - [コントリビューションガイド](docs/contributing.ja.md)
 - [アーキテクチャ](docs/architecture.ja.md)
+- [外部リンクのブランドカード](docs/external-links.ja.md)
 
 ## 技術スタック
 

@@ -334,6 +334,20 @@ const albums = defineCollection({
   }),
 });
 
+const announcements = defineCollection({
+  loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/announcements' }),
+  schema: z.object({
+    locale,
+    translationKey: z.string(),
+    date: z.string(),
+    type: z.string(),
+    title: z.string(),
+    summary: z.string(),
+    order: z.number().optional(),
+    pinned: z.boolean().default(false),
+  }),
+});
+
 const syntaxGuide = defineCollection({
   loader: glob({
     pattern: ['zh.md', 'ja.md', 'en.md'],
@@ -430,6 +444,7 @@ export const collections = {
   artists,
   projects,
   logs,
+  announcements,
   editGuide,
   songs,
   albums,

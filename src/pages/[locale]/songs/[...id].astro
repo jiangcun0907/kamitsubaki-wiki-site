@@ -8,7 +8,7 @@ import WikiArticleHeader from '../../../components/WikiArticleHeader.astro';
 import TableOfContents from '../../../components/TableOfContents.astro';
 import ContributorRoster from '../../../components/ContributorRoster.astro';
 import MusicSubnav from '../../../components/MusicSubnav.astro';
-import { getLocalizedSite } from '../../../lib/homeData.mjs';
+import { getLocalizedEntries, getLocalizedSite } from '../../../lib/homeData.mjs';
 import { buildLocaleLinks, defaultLocale, supportedLocales } from '../../../lib/i18n.mjs';
 import { buildArticleMetadata } from '../../../lib/metadata.mjs';
 
@@ -40,6 +40,8 @@ const hasTableOfContents = headings.some((heading) => heading.depth === 2 || hea
 
 const siteEntries = await getCollection('site');
 const homeContent = getLocalizedSite(siteEntries, localeCode, defaultLocale);
+const artistEntries = getLocalizedEntries(await getCollection('artists'), localeCode, defaultLocale);
+const artistEntry = artistEntries.find((artist) => artist.data.translationKey === entry.data.artistId);
 const currentPath = `/songs/${id}`;
 const localeLinks = buildLocaleLinks(homeContent, localeCode, currentPath);
 
@@ -158,6 +160,9 @@ const articleLabels = {
 
 const contentSourcePath = `src/content/songs/${id}/${localeCode}.md`;
 const sourceHref = `/${localeCode}/contribute/edit?target=${encodeURIComponent(contentSourcePath)}`;
+const songImage = entry.data.image
+  ?? artistEntry?.data.image
+  ?? 'https://placehold.co/1200x1200/0f1419/8fb0c2?text=SONG';
 
 // 构造文章数据，映射 songs 集合的专属字段，以便复用 WikiInfoBox 与 WikiArticleHeader
 const articleData = {
@@ -165,7 +170,7 @@ const articleData = {
   name: entry.data.title,
   romanizedName: entry.data.artist,
   meta: entry.data.album,
-  image: entry.data.image ?? 'https://placehold.co/1200x1200/0f1419/8fb0c2?text=SONG',
+  image: songImage,
   categoryTitle: entry.data.categoryTitle ?? articleLabels.songs,
   categorySubtitle: entry.data.categorySubtitle ?? entry.data.artist,
   statusLabel: articleLabels.releaseDate,

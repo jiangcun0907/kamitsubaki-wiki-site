@@ -128,6 +128,27 @@ She also stands out for singing across Japanese, English, and Korean material, w
 Related entry:
 - [Kamitsubaki City Under Construction](/en/projects/arg/kamitsubaki-city)
 
+## Basic Profile and Character Setting
+
+RIM is presented through a cool, mysterious visual language: blue-toned hair, layered multicolour eyes, a hood, and braided hair. Her public character balances a detached surface with songs that can become intimate, sensual, or emotionally intense. The school-uniform form belongs to her early student-singer presentation, while later designs are tied to specific live narratives.
+
+| Item | Detail |
+| --- | --- |
+| Character design | PALOW. |
+| Main imagery | Blue, hooded silhouette, layered eyes, nocturnal romance |
+| Important collaborators | Mao Sasagawa, Guiano, Misumi, samayuzame |
+| Voice extension | RIME, a musical-isotope voicebank based on RIM's voice |
+
+## Discography, Live Performance, and Collaborations
+
+“You & Me”, “Insect Plant”, and “Pillow Talk” are entry points, but RIM's catalogue is broader than the viral circulation of “Insect Plant”. *NEW ROMANCER* and *NEW ROMANCER2* establish two major solo stages. *CHOCOLATE LIVE*, *NEUROMANCE*, Singularity Live, and V.W.P songs show how her controlled vocal colour changes in duet and group arrangements. Sasagawa is a key solo collaborator; Guiano, Misumi, and samayuzame also appear across the catalogue.
+
+RIM's live work is not simply a transfer of music videos to a stage. New outfits, rearrangements, guest appearances, and spatial production give familiar songs a different emotional contour. RIME must be kept separate from RIM as an independent synthetic voicebank and character.
+
+## Forms, Setting, and Anecdotes
+
+RIM's forms should be recorded together with the work or live event in which they appear. A temporary account freeze caused by a copyright claim over older foreign-language cover uploads belongs to her account-operation history and should not be used to infer her attitude toward creation. Public interviews and published works are the appropriate boundary for personal anecdotes.
+
 ## Related Projects / Setting
 
 RIM is active both as a V.W.P member and as the voice provider behind the musical isotope RIME. That gives her a double role inside the Kamitsubaki ecosystem: performer on one side, creator-facing source voice on the other.

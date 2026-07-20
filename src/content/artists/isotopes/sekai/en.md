@@ -106,6 +106,25 @@ Useful related entries:
 - [ISEKAIJOUCHO](/en/artists/vwp/isekaijoucho)
 - [KAFU](/en/artists/isotopes/kafu)
 
+## Basic Profile and Character Setting
+
+SEKAI is a CeVIO AI singing-synthesis product and character based on ISEKAIJOUCHO's vocal data. It inherits transparency, lyricism, and narrative colour from the source voice, but is not ISEKAIJOUCHO herself.
+
+| Item | Detail |
+| --- | --- |
+| Voice source | ISEKAIJOUCHO |
+| Platform | CeVIO AI and VOICEPEAK TALK EXTENSION |
+| Character design | reoen |
+| Key projects | *DIMENSION*, *Metaphor*, V.I.P |
+
+## Representative Songs and Creator Ecosystem
+
+SEKAI's music is primarily produced by UGC creators rather than released as a traditional personal discography. The official “DIMENSION” demonstration cover and the first concept compilation *Metaphor* are useful entry points. Songs made with SEKAI should not be placed directly in ISEKAIJOUCHO's personal catalogue: the voice, visuals, and projects are related, but the records remain separate.
+
+## Name and Identity Boundaries
+
+SEKAI is the voicebank and character; ISEKAIJOUCHO is the virtual singer who provides the source voice. V.I.P and other joint projects place multiple musical isotopes together without erasing the distinction between products and source artists.
+
 ## Related Projects / Setting
 
 SEKAI is part of the Musical Isotope Project, initiated by KAMITSUBAKI STUDIO to develop voice synthesis software based on its virtual singers' vocal data using AI technology. KAFU (based on KAF) and SEKAI (based on ISEKAIJOUCHO) are the current core products.

@@ -1,125 +1,100 @@
 ---
 locale: "zh"
 translationKey: "sekai"
-code: "M2"
+code: "12"
 romanizedName: "SEKAI"
-categoryOrder: 4
+categoryOrder: 3
 itemOrder: 2
-meta: "ORIGIN: ISEKAIJOUCHO"
+meta: "RELEASE: 2022.04.29"
 debutDate: "2022-04-29"
-profileTagline: "以ヰ世界情緒的歌声数据为基础生成的 CeVIO AI 音乐同位体，继承了原歌声中的透明感与叙事性。"
+profileTagline: "基于ヰ世界情绪歌声打造的 CeVIO AI 音乐同位体声库，兼具高冷透彻感与哥特幻想色彩。"
 designCredits:
   - "角色设计：れおえん"
 affiliations:
   - "KAMITSUBAKI STUDIO"
-  - "音楽的同位体プロジェクト"
+  - "PHENOMENON RECORD"
 officialLinks:
-  - label: "音楽的同位体官方网站"
-    href: "https://musical-isotope.kamitsubaki.jp/"
-  - label: "X (Twitter)"
-    href: "https://twitter.com/musicalisotope"
-  - label: "YouTube"
-    href: "https://www.youtube.com/channel/UCm_1n9F3A6pz-Ms2NP93tBA"
+  - label: "音乐同位体 星界 官方网站"
+    href: "https://sekai.kamitsubaki.jp/"
 featuredEntries:
   - label: "ヰ世界情緒 / ISEKAIJOUCHO"
     href: "/zh/artists/vwp/isekaijoucho"
     kind: "artist"
-  - label: "可不 / KAFU"
-    href: "/zh/artists/isotopes/kafu"
-    kind: "artist"
-  - label: "裏命 / RIME"
-    href: "/zh/artists/isotopes/rime"
-    kind: "artist"
-  - label: "狐子 / COKO"
-    href: "/zh/artists/isotopes/coko"
-    kind: "artist"
-  - label: "羽累 / HARU"
-    href: "/zh/artists/isotopes/haru"
-    kind: "artist"
 theme:
-  name: "SEKAI Ethereal"
-  accentColor: "#a78bfa"
-  mutedColor: "#7c3aed"
-  surfaceColor: "#0f0d1a"
-  highlightColor: "#f0ebff"
+  name: "SEKAI Violet"
+  accentColor: "#a382e8"
+  mutedColor: "#5638a1"
+  surfaceColor: "#100d18"
+  highlightColor: "#e6e0f8"
   palette:
     - label: "星界紫"
-      value: "#A78BFA"
+      value: "#A382E8"
     - label: "深紫"
-      value: "#7C3AED"
-    - label: "暗夜"
-      value: "#0F0D1A"
-    - label: "柔光白"
-      value: "#F0EBFF"
-statusLabel: "TYPE"
-status: "CeVIO AI"
-image: "https://placehold.co/1200x800/0f0d1a/a78bfa?text=SEKAI"
+      value: "#5638A1"
+    - label: "象牙白"
+      value: "#E6E0F8"
+    - label: "夜色"
+      value: "#100D18"
+statusLabel: "STATUS"
+status: "ACTIVE"
+image: "/images/artists/sekai.jpg"
 name: "星界"
 categoryTitle: "音乐同位体"
-categorySubtitle: "MUSICAL ISOTOPE"
+categorySubtitle: "MUSICAL ISOTOPES"
 seo:
   keywords:
     - "星界"
     - "SEKAI"
+    - "ヰ世界情緒"
+    - "音乐的同位体"
     - "CeVIO AI"
-    - "音楽的同位体"
-    - "KAMITSUBAKI STUDIO"
 ---
 
 ## 概述
 
-星界（SEKAI）是 KAMITSUBAKI STUDIO「音楽的同位体」系列中的第二款声音合成软件，以虚拟歌手ヰ世界情緒（ISEKAIJOUCHO）的歌声数据为基础。她继承了原歌声中透明感与叙事性的特质，为创作者提供了另一种接近真人的歌声合成选择。
+{{ruby::星界::せかい::sekai}} 是 KAMITSUBAKI STUDIO 推出的音乐同位体合成歌声库，声源原型为虚拟歌手 **[ヰ世界情緒 / ISEKAIJOUCHO](/zh/artists/vwp/isekaijoucho)**。
 
-作为可不（KAFU）之后加入系列的同位体，星界进一步丰富了音楽的同位体产品线。她的声线偏向清澈、柔和，与可不的少女感形成了差异化的定位。
+软件于 2022 年 4 月 29 日基于 CeVIO AI 引擎发售。角色视觉由 れおえん 设计，声线以清澈、柔和与叙事感为重要特征。
+
+<div class="wiki-fact-grid">
+  <div class="wiki-fact-card"><p class="wiki-fact-card__label">VOICE PROVIDER</p><p class="wiki-fact-card__value">ヰ世界情緒 / ISEKAIJOUCHO</p></div>
+  <div class="wiki-fact-card"><p class="wiki-fact-card__label">SINGING / TALK</p><p class="wiki-fact-card__value">CeVIO AI；TALK EXTENSION × VOICEPEAK</p></div>
+  <div class="wiki-fact-card"><p class="wiki-fact-card__label">CHARACTER DESIGN</p><p class="wiki-fact-card__value">れおえん</p></div>
+  <div class="wiki-fact-card"><p class="wiki-fact-card__label">SERIES POSITION</p><p class="wiki-fact-card__value">音乐同位体第二弹</p></div>
+</div>
 
 ## 角色与创作定位
 
-星界的声源来自ヰ世界情緒——V.W.P 成员中以「世界系」叙事与情感表达见长的虚拟歌手。因此，星界在 UGC 生态中也常被用于需要透明感、抒情性与叙事密度的乐曲创作。
+星界继承ヰ世界情緒作品中常见的透明感与叙事氛围，但不等同于原唱者本人的替代版本。作为拥有独立视觉的声库角色，她面向创作者提供可重新编排、填词与调教的歌唱素材，因此曲目生态由官方委约、合辑企划与持续增长的 UGC 共同构成。
 
-与可不类似，星界不仅是工具，更被视为创作者社区中的一个「声源角色」——她有自己的视觉形象和设定，与原唱者ヰ世界情緒既有联系又独立存在。
+## 历程
 
-## 活动历程
+| 时间 | 节点 | 说明 |
+| --- | --- | --- |
+| 2021-10-23 | 制作公布 | 在ヰ世界情緒 1st ONE-MAN LIVE「Anima」片尾公布开发信息。 |
+| 2022-02-28 | 预售开启 | CeVIO AI 版本开始接受预订。 |
+| 2022-04-29 | 正式发售 | 星界作为系列第二弹上线。 |
+| 2023-04-29 | 合辑发布 | 首张合辑《メタファー》发售。 |
+| 2023-12-10 | TALK EXTENSION | 与 VOICEPEAK 合作的朗读扩展版发售。 |
+| 2024-06-09 | V.I.P 舞台 | 参与「V.I.P 1st MINI LIVE ETHEREAL WORLD」。 |
 
-### 2021年
+## 官方委约曲与合辑
 
-- **10月23日**：在ヰ世界情緒 1st ONE-MAN LIVE「Anima」的片尾视频中，首次公布了「音乐的同位体 星界」的制作决定。
+{{details::展开启动阶段曲目索引}}
 
-### 2022年
+| 日期 | 曲名 | 创作者 |
+| --- | --- | --- |
+| 2022-04-15 | 《ステラの座》 | 雄之助 |
+| 2022-04-23 | 《グレートフィルター》 | 伊根 |
+| 2022-04-27 | 《わたしいまめまいしたわ》 | ユリイ・カノン |
+| 2022-04-29 | 《異星にいこうね》 | いよわ |
+| 2022-05-04 | 《遠心力》 | ナナホシ管弦楽団 |
+| 2022-05-06 | 《いらない、いらない、いらない。》 | とあ |
 
-- **2月28日**：「音乐的同位体 星界」开启预售。
-- **4月29日**：「音乐的同位体 星界」（CeVIO AI 歌声合成软件）正式发售。
+{{/details}}
 
-### 2023年
+《メタファー》将星界相关创作以合辑形式集中呈现；对于读者而言，它是从官方委约曲进入其创作网络的一个索引节点。
 
-- **4月29日**：星界 1st 概念合辑《Metaphor》（メタファー）正式发售。
-- **12月10日**：「音乐的同位体 星界 TALK EXTENSION collaboration with VOICEPEAK」（语音合成软件）正式发售。
+## 项目关联
 
-### 2024年
-
-- **6月9日**：出演迷你演唱会「V.I.P 1st MINI LIVE ETHEREAL WORLD」。
-
-## 代表作品与相关条目
-
-星界本身不发行传统音乐作品，而是作为创作工具存在。以星界为核心创作的代表性乐曲由 UGC 创作者社区持续产出。
-
-推荐搭配阅读：
-
-- [ヰ世界情緒 / ISEKAIJOUCHO](/zh/artists/vwp/isekaijoucho)
-- [可不 / KAFU](/zh/artists/isotopes/kafu)
-
-## 相关企划 / 关联设定
-
-星界是「音楽的同位体プロジェクト」的重要成员。该项目由 KAMITSUBAKI STUDIO 发起，以旗下虚拟歌手的歌声数据为基础，利用 AI 技术制作声音合成软件。可不（基于花譜）和星界（基于ヰ世界情緒）是目前系列中的两款核心产品。
-
-联系方式：musical-isotope@kamitsubaki.jp
-
-## 参考资料
-
-- 音楽的同位体官方网站：<https://musical-isotope.kamitsubaki.jp/>
-- KAMITSUBAKI STUDIO 音楽的同位体页面：<https://kamitsubaki.jp/artist/musical-isotope/>
-
-## 外部链接
-
-- 音楽的同位体官方网站：<https://musical-isotope.kamitsubaki.jp/>
-- X (Twitter)：<https://twitter.com/musicalisotope>
-- YouTube：<https://www.youtube.com/channel/UCm_1n9F3A6pz-Ms2NP93tBA>
+星界与[可不 / KAFU](/zh/artists/isotopes/kafu)、[裏命 / RIME](/zh/artists/isotopes/rime)、[狐子 / COKO](/zh/artists/isotopes/coko)、[羽累 / HARU](/zh/artists/isotopes/haru)同属音乐同位体项目；声源原型条目见 [ヰ世界情緒 / ISEKAIJOUCHO](/zh/artists/vwp/isekaijoucho)。

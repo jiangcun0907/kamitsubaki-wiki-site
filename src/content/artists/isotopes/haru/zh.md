@@ -1,107 +1,91 @@
 ---
 locale: "zh"
 translationKey: "haru"
-code: "M5"
+code: "15"
 romanizedName: "HARU"
-categoryOrder: 4
+categoryOrder: 3
 itemOrder: 5
-meta: "ORIGIN: HARUSARUHI"
+meta: "RELEASE: 2023.11.13"
 debutDate: "2023-11-13"
-profileTagline: "以春猿火的歌声数据为基础生成的 CeVIO AI 音乐同位体，将原声线中的爆发力与利落的节奏感带入合成音乐创作。"
+profileTagline: "基于春猿火歌声打造的 CeVIO AI 音乐同位体声库，具备说唱律动感与高情绪冲击力。"
 designCredits:
   - "角色设计：一色"
 affiliations:
   - "KAMITSUBAKI STUDIO"
-  - "音乐的同位体项目"
+  - "PHENOMENON RECORD"
 officialLinks:
-  - label: "音乐的同位体官方网站"
-    href: "https://musical-isotope.kamitsubaki.jp/"
-  - label: "X (Twitter)"
-    href: "https://twitter.com/musicalisotope"
-  - label: "YouTube"
-    href: "https://www.youtube.com/channel/UCm_1n9F3A6pz-Ms2NP93tBA"
+  - label: "音乐同位体 羽累 官方网站"
+    href: "https://haru.kamitsubaki.jp/"
 featuredEntries:
   - label: "春猿火 / HARUSARUHI"
     href: "/zh/artists/vwp/harusaruhi"
     kind: "artist"
-  - label: "可不 / KAFU"
-    href: "/zh/artists/isotopes/kafu"
-    kind: "artist"
-  - label: "星界 / SEKAI"
-    href: "/zh/artists/isotopes/sekai"
-    kind: "artist"
-  - label: "裏命 / RIME"
-    href: "/zh/artists/isotopes/rime"
-    kind: "artist"
-  - label: "狐子 / COKO"
-    href: "/zh/artists/isotopes/coko"
-    kind: "artist"
 theme:
-  name: "HARU Verdant"
-  accentColor: "#48bb78"
-  mutedColor: "#276749"
-  surfaceColor: "#0f1a14"
-  highlightColor: "#f0fff4"
+  name: "HARU Impact"
+  accentColor: "#ffd400"
+  mutedColor: "#e51f2f"
+  surfaceColor: "#0f0d0e"
+  highlightColor: "#1f72ff"
   palette:
-    - label: "羽累绿"
-      value: "#48BB78"
-    - label: "森绿"
-      value: "#276749"
-    - label: "幽翠"
-      value: "#0F1A14"
-    - label: "柔光白"
-      value: "#F0FFF4"
-statusLabel: "TYPE"
-status: "CeVIO AI"
-image: "https://placehold.co/1200x800/0f1a14/48bb78?text=HARU"
+    - label: "羽累黄"
+      value: "#FFD400"
+    - label: "火红"
+      value: "#E51F2F"
+    - label: "电蓝"
+      value: "#1F72FF"
+    - label: "夜色"
+      value: "#0F0D0E"
+statusLabel: "STATUS"
+status: "ACTIVE"
+image: "/images/artists/haru.jpg"
 name: "羽累"
 categoryTitle: "音乐同位体"
-categorySubtitle: "MUSICAL ISOTOPE"
+categorySubtitle: "MUSICAL ISOTOPES"
 seo:
   keywords:
     - "羽累"
     - "HARU"
-    - "CeVIO AI"
+    - "春猿火"
     - "音乐的同位体"
-    - "KAMITSUBAKI STUDIO"
+    - "CeVIO AI"
 ---
 
 ## 概述
 
-羽累（HARU）是 KAMITSUBAKI STUDIO 推出的「音乐的同位体」（Musical Isotope）系列中的第五款声音合成软件，以虚拟 Rapper/歌手春猿火（HARUSARUHI）的歌声数据为基础，通过 CeVIO AI 技术生成高度还原真人歌唱的声音。
+{{ruby::羽累::はる::haru}} 是 KAMITSUBAKI STUDIO 推出的音乐同位体合成歌声库，声源原型为虚拟歌手 **[春猿火 / HARUSARUHI](/zh/artists/vwp/harusaruhi)**。
 
-作为音乐的同位体系列中压轴公开的声库，羽累的名字 “HARU” 取自春猿火名字中的“春”字，同时寄托了“羽化”与“累积”的深层概念。她继承了春猿火歌声中利落的断句和富有速度感的说唱/歌唱实力。
+软件于 2023 年 11 月 13 日基于 CeVIO AI 发售。角色设计由一色操刀，定位强调清晰咬字、快速说唱与强张力演唱。
 
-## 角色与创作定位
+<div class="wiki-fact-grid">
+  <div class="wiki-fact-card"><p class="wiki-fact-card__label">VOICE PROVIDER</p><p class="wiki-fact-card__value">春猿火 / HARUSARUHI</p></div>
+  <div class="wiki-fact-card"><p class="wiki-fact-card__label">SINGING / TALK</p><p class="wiki-fact-card__value">CeVIO AI；TALK EXTENSION × VOICEPEAK</p></div>
+  <div class="wiki-fact-card"><p class="wiki-fact-card__label">CHARACTER DESIGN</p><p class="wiki-fact-card__value">一色</p></div>
+  <div class="wiki-fact-card"><p class="wiki-fact-card__label">NAME CONCEPT</p><p class="wiki-fact-card__value">取自“春”，也关联“羽化”与“累ねる”</p></div>
+</div>
 
-羽累的角色设计由插画家一色负责，形象上为白色的双股长发（右侧扎成麻花辫），配戴有红蓝双色耳罩的耳机，眼角与嘴唇涂抹有明亮活泼的黄色眼影和唇彩，身着融合了国风大宽袖元素与哥特鱼尾裙设计的黑白衣装。
+## 角色设计与声音表现
 
-在声线表现上，羽累拥有清脆明晰的发音，在高速的说唱段落与充满爆发力的高音演绎中表现尤其出色。2024年3月，官方还推出了与 VOICEPEAK 合作的「TALK EXTENSION」版本，使羽累同样具备了极高拟真度的文本朗读与配音功能。
+羽累有一侧编发的白色长发、左右异色耳罩、黄色眼影与唇妆；黑白服装将宽袖和哥特式鱼尾裙组合。她并非把春猿火的演唱简单复制为音源，而是将清晰的发音、节奏推进与高速说唱处理转化为可供调教的歌声素材。
 
-## 活动历程
+## 历程
 
-- **2022年10月18日**：于神椿工作室三周年直播节目中公开先行预告片。
-- **2023年11月13日**：歌声合成软件「CeVIO AI 音乐的同位体 羽累」正式发售。
-- **2024年3月29日**：文本朗读软件「音乐的同位体 羽累 TALK EXTENSION collaboration with VOICEPEAK」正式发售。
-- **2024年7月7日**：与音乐的同位体成员共同参与首场线上联合迷你演唱会「V.I.P 1st MINI LIVE ETHEREAL WORLD」。
-- 自发售以来，羽累已融入工作室的同位体合唱阵容，并凭借极具爆发力的说唱特色成为 UGC 创作者的热门选择。
+| 时间 | 节点 | 说明 |
+| --- | --- | --- |
+| 2022-10-18 | 先行预告 | 神椿工作室三周年特别节目公开羽累的预告影像。 |
+| 2023-11-13 | 正式发售 | CeVIO AI 音乐同位体 羽累上线。 |
+| 2024-03-29 | TALK EXTENSION | 与 VOICEPEAK 合作的朗读扩展版发售。 |
+| 2024-07-07 | V.I.P 演出 | 参与「V.I.P 1st MINI LIVE ETHEREAL WORLD」。 |
 
-## 代表作品与相关条目
+## 使用场景与作品生态
 
-羽累在网络创作者中作为虚拟 Rapper 备受瞩目，被广泛用于各类说唱和快节奏电子流行曲的创作。
+羽累的声音设计特别适合高 BPM、说唱段落密集或需要高音冲击力的编曲。官方企划与创作者投稿共同构成其曲库：前者展示声库的调教方向，后者则持续拓展她在电子流行、摇滚和说唱中的使用方式。
 
-推荐搭配阅读：
+{{details::展开阅读提示}}
 
-- [春猿火 / HARUSARUHI](/zh/artists/vwp/harusaruhi)
-- [可不 / KAFU](/zh/artists/isotopes/kafu)
-- [星界 / SEKAI](/zh/artists/isotopes/sekai)
+若需顺着人物关系阅读，可先浏览声源原型 [春猿火 / HARUSARUHI](/zh/artists/vwp/harusaruhi)，再与同系列的[可不 / KAFU](/zh/artists/isotopes/kafu)、[星界 / SEKAI](/zh/artists/isotopes/sekai)、[裏命 / RIME](/zh/artists/isotopes/rime)、[狐子 / COKO](/zh/artists/isotopes/coko)对照。各声库的“作品”既包含官方示范曲，也包含创作者社群不断增加的投稿，适合按创作者、曲风和发行企划交叉检索。
 
-## 相关企划 / 关联设定
+{{/details}}
 
-羽累是「音乐的同位体项目」的第五名成员。该企划将春猿火那极具个人风格的说唱与人声数字化，让原本在传统音乐中门槛极高的虚拟说唱（Virtual Rap）创作变得触手可及。作为创作者社区的数字伙伴，羽累持续将声音的可能性延伸向更多前沿的音乐场景。
+## 项目关联
 
-## 外部链接
-
-- 音乐的同位体官方网站：<https://musical-isotope.kamitsubaki.jp/>
-- 音乐的同位体官方 X (Twitter)：<https://twitter.com/musicalisotope>
-- 音乐的同位体官方 YouTube 频道：<https://www.youtube.com/channel/UCm_1n9F3A6pz-Ms2NP93tBA>
+羽累是音乐同位体初期五人阵容中的第五位公开成员。她将春猿火的节奏型歌唱与 Rap 表现带入合成声项目，并作为 V.I.P 的成员参与同位体联合舞台。

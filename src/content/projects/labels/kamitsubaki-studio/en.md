@@ -60,3 +60,27 @@ Creative vocal synthesis software developed in collaboration with CeVIO AI and V
 
 - **[Kamitsubaki City Under Construction](/en/projects/arg/kamitsubaki-city)**: A core cross-media IP combining ARG games, board games, light novels, and TV anime series.
 - **SINSAEKAI STUDIO**: Kamitsubaki's sister label, focusing more on indie music and avant-garde visual exploration.
+
+## Label Architecture and Creative Divisions
+
+Kamitsubaki is not only an agency for virtual singers. It is a label ecosystem in which artists, musicians, visual creators, synthesis products, and narrative projects are developed together.
+
+| Division | Role and associated lines |
+| --- | --- |
+| PHENOMENON RECORD | Core virtual-witch label for KAF, RIM, Harusaruhi, Isekaijoucho, KOKO, and V.W.P |
+| SINSEKAI STUDIO / SINSEKAI RECORD | Other-world and derivative lines including Albemuth, ARU, ASU, and VALIS |
+| GIRLS REVOLUTION PROJECT | Cross-media girl-group, audition, and new virtual-artist projects |
+| KAMITSUBAKI CREATION | Network of composers, illustrators, directors, and other production creators |
+| Musical Isotopes | CeVIO AI and VOICEPEAK products and characters developed from artists' vocal data |
+
+## Core Concepts
+
+“Witches”, “Kamitsubaki City”, “observation”, and the boundary between virtual and real recur across the studio's work. Observation is not only a fan label: by watching videos, listening to songs, attending performances, and preserving information, observers become part of the ongoing record of the work.
+
+The studio often starts with music and extends it into videos, illustrations, characters, live shows, games, novels, stage productions, or animation. A single subject may therefore have separate singer, synthetic voicebank, cross-media character, and live-performance layers. This wiki keeps those layers distinct and links them as related records.
+
+## Early Members and Creator Network
+
+The studio's early history also involves CIEL, DUSTCELL, Teresa, and a wide network of composers, illustrators, and visual directors. Kanzaki Iori shaped important KAF and early V.W.P works; Guiano, Onuma Parsley, Misumi, samayuzame, PALOW., orie, reoen, SWAV, and Kawasaki contributed to songs, characters, artwork, music videos, and live visuals at different stages.
+
+These creators are not merely a credits list. Their methods directly shaped the artists' vocal identities, visual language, and worldbuilding, making them essential to understanding how Kamitsubaki works are produced.

@@ -198,6 +198,7 @@ CI 工作流位于 `.github/workflows/ci.yml`。
 
 - [贡献指南](docs/contributing.md)
 - [架构说明](docs/architecture.md)
+- [外部链接品牌卡片](docs/external-links.md)
 
 ## 技术栈
 

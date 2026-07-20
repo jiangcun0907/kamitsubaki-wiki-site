@@ -1,118 +1,103 @@
 ---
 locale: "zh"
 translationKey: "coko"
-code: "M4"
+code: "14"
 romanizedName: "COKO"
-categoryOrder: 4
+categoryOrder: 3
 itemOrder: 4
-meta: "ORIGIN: KOKO"
+meta: "RELEASE: 2023.01.25"
 debutDate: "2023-01-25"
-profileTagline: "以幸祜的歌声数据为基础生成的 CeVIO AI 音乐同位体，将原声线中的爆发力与通透感引入合成音乐创作。"
+profileTagline: "基于幸祜歌声打造的 CeVIO AI 音乐同位体声库，具备爆发力高音与朋克摇滚穿透力。"
 designCredits:
   - "角色设计：SWAV"
 affiliations:
   - "KAMITSUBAKI STUDIO"
-  - "音乐的同位体项目"
+  - "PHENOMENON RECORD"
 officialLinks:
-  - label: "音乐的同位体官方网站"
-    href: "https://musical-isotope.kamitsubaki.jp/"
-  - label: "X (Twitter)"
-    href: "https://twitter.com/musicalisotope"
-  - label: "YouTube"
-    href: "https://www.youtube.com/channel/UCm_1n9F3A6pz-Ms2NP93tBA"
+  - label: "音乐同位体 狐子 官方网站"
+    href: "https://coko.kamitsubaki.jp/"
 featuredEntries:
   - label: "幸祜 / KOKO"
     href: "/zh/artists/vwp/koko"
     kind: "artist"
-  - label: "可不 / KAFU"
-    href: "/zh/artists/isotopes/kafu"
-    kind: "artist"
-  - label: "星界 / SEKAI"
-    href: "/zh/artists/isotopes/sekai"
-    kind: "artist"
-  - label: "裏命 / RIME"
-    href: "/zh/artists/isotopes/rime"
-    kind: "artist"
-  - label: "羽累 / HARU"
-    href: "/zh/artists/isotopes/haru"
-    kind: "artist"
 theme:
-  name: "COKO Aurora"
-  accentColor: "#4299e1"
-  mutedColor: "#2b6cb0"
-  surfaceColor: "#0a1120"
-  highlightColor: "#f0f4f8"
+  name: "COKO Blue"
+  accentColor: "#259ce0"
+  mutedColor: "#114777"
+  surfaceColor: "#0b111a"
+  highlightColor: "#e6f4ff"
   palette:
     - label: "狐子蓝"
-      value: "#4299E1"
-    - label: "苍蓝"
-      value: "#2B6CB0"
-    - label: "极夜"
-      value: "#0A1120"
-    - label: "柔光白"
-      value: "#F0F4F8"
-statusLabel: "TYPE"
-status: "CeVIO AI"
-image: "https://placehold.co/1200x800/0a1120/4299e1?text=COKO"
+      value: "#259CE0"
+    - label: "深蓝"
+      value: "#114777"
+    - label: "冰白"
+      value: "#E6F4FF"
+    - label: "夜色"
+      value: "#0B111A"
+statusLabel: "STATUS"
+status: "ACTIVE"
+image: "/images/artists/coko.jpg"
 name: "狐子"
 categoryTitle: "音乐同位体"
-categorySubtitle: "MUSICAL ISOTOPE"
+categorySubtitle: "MUSICAL ISOTOPES"
 seo:
   keywords:
     - "狐子"
     - "COKO"
-    - "CeVIO AI"
+    - "幸祜"
     - "音乐的同位体"
-    - "KAMITSUBAKI STUDIO"
+    - "CeVIO AI"
 ---
 
 ## 概述
 
-狐子（COKO）是 KAMITSUBAKI STUDIO 推出的「音乐的同位体」（Musical Isotope）系列中的第四款声音合成软件，以虚拟摇滚歌手幸祜（KOKO）的歌声数据为基础，通过 CeVIO AI 技术生成高度还原真人歌唱的声音。
+{{ruby::狐子::ここ::coko}} 是 KAMITSUBAKI STUDIO 推出的音乐同位体合成歌声库，声源原型为虚拟歌手 **[幸祜 / KOKO](/zh/artists/vwp/koko)**。
 
-作为音乐的同位体的一员，狐子继承了幸祜高亢有力且极具爆发力的声线。在日语中，狐子的读音 “COKO” 与幸祜的读音 “KOKO” 形成了巧妙的呼应。
+软件于 2023 年 1 月 25 日基于 CeVIO AI 发售。角色设计由 SWAV 操刀，展现强劲的朋克摇滚风格。
 
-## 角色与创作定位
+<div class="wiki-fact-grid">
+  <div class="wiki-fact-card"><p class="wiki-fact-card__label">VOICE PROVIDER</p><p class="wiki-fact-card__value">幸祜 / KOKO</p></div>
+  <div class="wiki-fact-card"><p class="wiki-fact-card__label">SINGING / TALK</p><p class="wiki-fact-card__value">CeVIO AI；TALK EXTENSION × VOICEPEAK</p></div>
+  <div class="wiki-fact-card"><p class="wiki-fact-card__label">CHARACTER DESIGN</p><p class="wiki-fact-card__value">SWAV</p></div>
+  <div class="wiki-fact-card"><p class="wiki-fact-card__label">NAME RELATION</p><p class="wiki-fact-card__value">COKO 与 KOKO 的日语读音相近</p></div>
+</div>
 
-狐子的设计由 SWAV 操刀，视觉特征包括白色的短发、天蓝色内层挑染、一对灵动的狐耳以及象征九尾狐的尾骨配饰，呈现出融合未来战术感与幻想色彩的独特风格。
+## 角色设计与声音表现
 
-在声音特性上，狐子不仅保留了幸祜歌声中的强力长音，还拥有极其逼真的换气音和高昂的通透感，适用于摇滚、电子音乐等高能量的歌曲风格。2024年1月，官方还推出了与 VOICEPEAK 合作的「TALK EXTENSION」语音合成软件，使狐子也具备了高度拟真的日常对话配音能力。
+狐子采用白色短发与蓝色内层挑染，配以狐耳、菱形耳饰、颈环和代表九尾狐的尾骨饰品。服装将短夹克、紧身衣、战术式绑带与蓝紫渐变领带结合，形成未来感与幻想元素并置的视觉。
 
-## 活动历程
+声线延续幸祜富有力度的长音与高音穿透力，同时适应摇滚、电子等高能量编曲；TALK EXTENSION 则将这一角色延伸至文字朗读和对白表现。
 
-### 2022年
+## 历程
 
-- **7月15日**：首支先行视频公开，首次展示狐子的角色剪影。
-- **10月9日**：在幸祜 2nd ONE-MAN LIVE「PLAYER Ⅱ -AraRe-」上，宣布狐子将于2023年1月25日正式发售，并开启预订。
+| 时间 | 节点 | 说明 |
+| --- | --- | --- |
+| 2022-07-15 | 先行映像 | 官方公开剪影与首支预告，宣布冬季发售计划。 |
+| 2022-10-09 | 发售日公布 | 在幸祜「PLAYER Ⅱ -AraRe-」中公布 2023 年 1 月 25 日发售并开启预售。 |
+| 2023-01-25 | 正式发售 | CeVIO AI 音乐同位体 狐子上线。 |
+| 2023-10 ～ 12 | TALK EXTENSION | 发布与 VOICEPEAK 合作的朗读扩展版信息、预售与试听。 |
+| 2024-01-25 | TALK EXTENSION 发售 | 朗读扩展版正式上线。 |
 
-### 2023年
+## 官方委约曲索引
 
-- **1月25日**：歌声合成软件「CeVIO AI 音乐的同位体 狐子」正式发售。
+{{details::展开早期官方曲目}}
 
-### 2024年
+| 日期 | 曲名 | 创作者 |
+| --- | --- | --- |
+| 2022-10-14 | 《Hello World !》 | r-906 |
+| 2022-10-24 | 《心中ならお嬢様部で》 | SLAVE.V-V-R |
+| 2022-10-28 | 《きつねのうた》 | meiyo |
+| 2022-10-31 | 《コンストラクト》 | メドミア |
+| 2022-11-04 | 《ヴィクセン》 | 葵木ゴウ |
+| 2022-11-16 | 《桔梗》 | ATOLS |
+| 2022-12-14 | 《こんなはずじゃなかった》 | ピコン |
+| 2023-04-14 | 《破壊少女》 | 香椎モイミ |
 
-- **1月25日**：语音合成软件「音乐的同位体 狐子 TALK EXTENSION collaboration with VOICEPEAK」正式发售。
-- 常作为嘉宾参加「KAMITSUBAKI FES」等工作室线下活动，以充满力量感的歌声和舞蹈表现活跃于舞台。
+{{/details}}
 
-## 代表作品与相关条目
+这里列出的是官方渠道集中展示的早期作品。狐子的完整创作生态还包括由使用者不断发表的合成声歌曲，因此不应被简化为一张封闭的“代表曲列表”。
 
-狐子在 UGC（用户生成内容）创作者生态中被广泛应用，代表作品包括：
+## 项目关联
 
-- 《the last bullet》（Covered by 狐子）
-- UGC 创作者以狐子为核心创作的各类高能派生乐曲
-
-推荐搭配阅读：
-
-- [幸祜 / KOKO](/zh/artists/vwp/koko)
-- [可不 / KAFU](/zh/artists/isotopes/kafu)
-- [星界 / SEKAI](/zh/artists/isotopes/sekai)
-
-## 相关企划 / 关联设定
-
-狐子是「音乐的同位体项目」的标志性声库之一。该项目将幸祜的声音以数字化的形式延伸，使其不仅仅作为个人歌手活动，更成为创作者社区中可以自由编程与重新构架的开源声学资产，激发了跨越次元的多元创作。
-
-## 外部链接
-
-- 音乐的同位体官方网站：<https://musical-isotope.kamitsubaki.jp/>
-- 音乐的同位体官方 X (Twitter)：<https://twitter.com/musicalisotope>
-- 音乐的同位体官方 YouTube 频道：<https://www.youtube.com/channel/UCm_1n9F3A6pz-Ms2NP93tBA>
+狐子是音乐同位体项目的第四位公开成员。她与[幸祜 / KOKO](/zh/artists/vwp/koko)保持声源关联，并与其他同位体共同扩展了 KAMITSUBAKI 的创作者向歌声角色网络。
