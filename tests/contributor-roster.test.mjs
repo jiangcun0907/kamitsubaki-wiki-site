@@ -179,22 +179,28 @@ test('contributor roster exposes localized honor wall copy and contribution rout
 test('manual collaborators use an independent local data file and summary-only section', async () => {
   const roster = await readProjectFile('../src/components/ContributorRoster.astro');
   const component = await readProjectFile('../src/components/ManualContributors.astro');
-  const data = await readProjectFile('../src/data/manualContributors.ts');
+  const data = JSON.parse(await readProjectFile('../src/data/manualContributors.json'));
 
   assert.match(roster, /import ManualContributors/);
   assert.match(roster, /mode === 'summary' && <ManualContributors locale=\{locale\}/);
-  assert.match(component, /manualContributors\.filter/);
+  assert.match(component, /manualContributorData/);
   assert.match(component, /特别协力者/);
   assert.match(component, /スペシャルサポーター/);
   assert.match(component, /Special collaborators/);
   assert.match(component, /safeContactHref/);
+  assert.match(component, /safeAvatarSrc/);
   assert.match(component, /manual-contributors__person/);
-  assert.match(data, /collaboration: LocalizedContributorText/);
-  assert.match(data, /name: string/);
-  assert.match(data, /contact:/);
-  assert.match(data, /introduction: LocalizedContributorText/);
-  assert.match(data, /quote: LocalizedContributorText/);
-  assert.match(data, /export const manualContributors/);
+  assert.match(component, /contacts\.map/);
+  assert.equal(Array.isArray(data), true);
+  assert.equal(data[0].enabled, false);
+  assert.deepEqual(Object.keys(data[0]).sort(), ['avatar', 'collaboration', 'contacts', 'enabled', 'id', 'introduction', 'name', 'quote']);
+  assert.equal(typeof data[0].collaboration.zh, 'string');
+  assert.equal(typeof data[0].avatar, 'string');
+  assert.equal(Array.isArray(data[0].contacts), true);
+  assert.equal(data[0].contacts.length, 2);
+  assert.equal(typeof data[0].contacts[0].label, 'string');
+  assert.equal(typeof data[0].introduction.zh, 'string');
+  assert.equal(typeof data[0].quote.zh, 'string');
 });
 
 test('contributor renderer builds honor wall cards, readable activity, and retry states', async () => {

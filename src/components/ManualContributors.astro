@@ -1,9 +1,19 @@
 ---
-import {
-  manualContributors,
-  type ContributorLocale,
-  type LocalizedContributorText,
-} from '../data/manualContributors';
+import manualContributorData from '../data/manualContributors.json';
+
+type ContributorLocale = 'zh' | 'ja' | 'en';
+type LocalizedContributorText = string | Partial<Record<ContributorLocale, string>>;
+
+interface ManualContributor {
+  id: string;
+  collaboration: LocalizedContributorText;
+  name: string;
+  avatar?: string;
+  contacts: Array<{ label: string; href?: string }>;
+  introduction: LocalizedContributorText;
+  quote: LocalizedContributorText;
+  enabled?: boolean;
+}
 
 interface Props {
   locale?: ContributorLocale | string;
@@ -11,7 +21,7 @@ interface Props {
 
 const { locale = 'zh' } = Astro.props as Props;
 const activeLocale: ContributorLocale = locale === 'ja' || locale === 'en' ? locale : 'zh';
-const contributors = manualContributors.filter((contributor) => contributor.enabled !== false);
+const contributors = (manualContributorData as ManualContributor[]).filter((contributor) => contributor.enabled !== false);
 
 const copy = {
   zh: {
@@ -53,6 +63,22 @@ function safeContactHref(value?: string) {
     return '';
   }
 }
+
+function safeAvatarSrc(value?: string) {
+  if (!value) return '';
+  if (value.startsWith('/') && !value.startsWith('//')) return value;
+
+  try {
+    const url = new URL(value);
+    return url.protocol === 'https:' || url.protocol === 'http:' ? value : '';
+  } catch {
+    return '';
+  }
+}
+
+function initials(name: string) {
+  return Array.from(name.trim()).slice(0, 2).join('').toUpperCase() || '?';
+}
 ---
 
 <section class="manual-contributors" aria-labelledby="manual-contributors-title">
@@ -67,7 +93,8 @@ function safeContactHref(value?: string) {
   {contributors.length > 0 ? (
     <div class="manual-contributors__list">
       {contributors.map((contributor, index) => {
-        const contactHref = safeContactHref(contributor.contact.href);
+        const avatarSrc = safeAvatarSrc(contributor.avatar);
+        const contacts = Array.isArray(contributor.contacts) ? contributor.contacts : [];
 
         return (
           <article class="manual-contributors__person">
@@ -76,18 +103,36 @@ function safeContactHref(value?: string) {
               <p>{localized(contributor.collaboration)}</p>
             </div>
             <div class="manual-contributors__profile">
-              <h4>{contributor.name}</h4>
-              <p>{localized(contributor.introduction)}</p>
-              <div class="manual-contributors__contact">
-                <span>{copy.contact}</span>
-                {contactHref ? (
-                  <a href={contactHref} target={contactHref.startsWith('mailto:') ? undefined : '_blank'} rel={contactHref.startsWith('mailto:') ? undefined : 'noopener noreferrer'}>
-                    {contributor.contact.label}<span aria-hidden="true">↗</span>
-                  </a>
-                ) : (
-                  <strong>{contributor.contact.label}</strong>
-                )}
+              <div class="manual-contributors__identity">
+                <span class="manual-contributors__avatar">
+                  {avatarSrc ? (
+                    <img src={avatarSrc} alt="" loading="lazy" referrerpolicy="no-referrer" />
+                  ) : (
+                    <span>{initials(contributor.name)}</span>
+                  )}
+                </span>
+                <div>
+                  <h4>{contributor.name}</h4>
+                  <p>{localized(contributor.introduction)}</p>
+                </div>
               </div>
+              {contacts.length > 0 && (
+                <div class="manual-contributors__contacts">
+                  <span>{copy.contact}</span>
+                  <div>
+                    {contacts.map((contact) => {
+                      const contactHref = safeContactHref(contact.href);
+                      return contactHref ? (
+                        <a href={contactHref} target={contactHref.startsWith('mailto:') ? undefined : '_blank'} rel={contactHref.startsWith('mailto:') ? undefined : 'noopener noreferrer'}>
+                          {contact.label}<span aria-hidden="true">↗</span>
+                        </a>
+                      ) : (
+                        <strong>{contact.label}</strong>
+                      );
+                    })}
+                  </div>
+                </div>
+              )}
             </div>
             <blockquote>
               <span>{copy.quote}</span>
@@ -177,6 +222,37 @@ function safeContactHref(value?: string) {
     color: color-mix(in srgb, var(--wiki-accent-color) 72%, white 16%);
   }
 
+  .manual-contributors__identity {
+    display: grid;
+    grid-template-columns: 3.25rem minmax(0, 1fr);
+    gap: 0.9rem;
+    align-items: start;
+  }
+
+  .manual-contributors__avatar,
+  .manual-contributors__avatar > img,
+  .manual-contributors__avatar > span {
+    display: grid;
+    width: 3.25rem;
+    height: 3.25rem;
+    place-items: center;
+  }
+
+  .manual-contributors__avatar {
+    overflow: hidden;
+    border: 1px solid color-mix(in srgb, var(--wiki-accent-color) 34%, rgba(255, 255, 255, 0.12));
+  }
+
+  .manual-contributors__avatar > img {
+    object-fit: cover;
+  }
+
+  .manual-contributors__avatar > span {
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    color: rgba(255, 255, 255, 0.66);
+  }
+
   .manual-contributors__profile h4 {
     margin: 0;
     font-family: var(--font-serif);
@@ -186,29 +262,34 @@ function safeContactHref(value?: string) {
     color: rgba(255, 255, 255, 0.9);
   }
 
-  .manual-contributors__profile > p {
+  .manual-contributors__identity p {
     margin: 0.55rem 0 0;
     font-size: 0.7rem;
     line-height: 1.75;
     color: rgba(255, 255, 255, 0.52);
   }
 
-  .manual-contributors__contact {
-    display: flex;
-    flex-wrap: wrap;
+  .manual-contributors__contacts {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
     gap: 0.55rem 0.85rem;
-    align-items: center;
     margin-top: 0.9rem;
     font-family: var(--font-mono);
     font-size: 0.58rem;
   }
 
-  .manual-contributors__contact > span {
+  .manual-contributors__contacts > span {
     color: rgba(255, 255, 255, 0.28);
   }
 
-  .manual-contributors__contact a,
-  .manual-contributors__contact strong {
+  .manual-contributors__contacts > div {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.55rem 0.85rem;
+  }
+
+  .manual-contributors__contacts a,
+  .manual-contributors__contacts strong {
     display: inline-flex;
     gap: 0.35rem;
     color: rgba(255, 255, 255, 0.72);
@@ -216,8 +297,8 @@ function safeContactHref(value?: string) {
     text-decoration: none;
   }
 
-  .manual-contributors__contact a:hover,
-  .manual-contributors__contact a:focus-visible {
+  .manual-contributors__contacts a:hover,
+  .manual-contributors__contacts a:focus-visible {
     color: white;
   }
 

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "example-name",
+    "enabled": false,
+    "collaboration": {
+      "zh": "资料协力",
+      "ja": "資料協力",
+      "en": "Research support"
+    },
+    "name": "贡献者名字",
+    "avatar": "",
+    "contacts": [
+      {
+        "label": "个人主页",
+        "href": "https://example.com"
+      },
+      {
+        "label": "hello@example.com",
+        "href": "mailto:hello@example.com"
+      }
+    ],
+    "introduction": {
+      "zh": "这里填写贡献者介绍。",
+      "ja": "ここに紹介文を入力します。",
+      "en": "Add the contributor introduction here."
+    },
+    "quote": {
+      "zh": "这里填写他的一句话。",
+      "ja": "ここにひとことを入力します。",
+      "en": "Add their words here."
+    }
+  }
+]
