@@ -25,42 +25,42 @@ tracks:
     number: "1"
     title: "SWIPE!"
     duration: "02:56"
-    songId: "harusaruhi/originals/track-1785776180"
+    songId: "harusaruhi/originals/swipe"
   -
     number: "2"
     title: "Deep Invite"
     duration: "03:44"
-    songId: "harusaruhi/originals/track-1794241820"
+    songId: "harusaruhi/originals/deep-invite"
   -
     number: "3"
     title: "XRXD"
     duration: "02:12"
-    songId: "harusaruhi/originals/track-1794241821"
+    songId: "harusaruhi/originals/xrxd"
   -
     number: "4"
     title: "META"
     duration: "04:29"
-    songId: "harusaruhi/originals/track-1771810724"
+    songId: "harusaruhi/originals/meta"
   -
     number: "5"
     title: "回向 -echo-"
     duration: "04:36"
-    songId: "harusaruhi/originals/track-1794241823"
+    songId: "harusaruhi/originals/回向-echo-echo"
   -
     number: "6"
     title: "砂時計"
     duration: "04:24"
-    songId: "harusaruhi/originals/track-1753878935"
+    songId: "harusaruhi/originals/砂時計-hourglass"
   -
     number: "7"
     title: "room wear"
     duration: "03:37"
-    songId: "harusaruhi/originals/track-1794241825"
+    songId: "harusaruhi/originals/room-wear"
   -
     number: "8"
     title: "Starcloud"
     duration: "03:19"
-    songId: "harusaruhi/originals/track-1794241826"
+    songId: "harusaruhi/originals/starcloud"
 ---
 
 ## 作品概要
@@ -78,5 +78,5 @@ tracks:
 ## 出典
 
 - [公式ディスコグラフィー](https://kamitsubaki.jp/discography/harusaruhi/6054/)
-- [Apple Music Japan](https://music.apple.com/jp/album/rule-the-world/1794241368?uo=4)
+- [Apple Music](https://music.apple.com/jp/album/rule-the-world/1794241368?uo=4)
 - [VGMdb 春猿火](https://vgmdb.net/artist/48426)

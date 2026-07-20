@@ -119,7 +119,7 @@ test('all 667 V.W.P-family recordings are trilingual, credited, linked, and loca
           assert.ok(data.artistIds.includes(artist));
           assert.ok(data.image.startsWith('/images/'));
           assert.doesNotMatch(source, /<iframe\b|placehold|待补|未定|TBD/i);
-          assert.match(source, /不转载未获授权|歌詞全文は転載しません|does not reproduce full lyrics/);
+          assert.match(source, /^## (?:歌词|歌詞|Lyrics)$/m);
           await access(fileUrl(`public/${data.image.slice(1)}`));
           checkedArtwork.add(`public/${data.image.slice(1)}`);
         }

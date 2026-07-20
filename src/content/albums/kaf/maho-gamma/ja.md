@@ -26,67 +26,67 @@ tracks:
     number: "1"
     title: "危ノーマル(廉 Remix)"
     duration: "03:08"
-    songId: "kaf/remixes/track-1688513300"
+    songId: "kaf/remixes/危ノーマル(廉-Remix)-abnormal-ren-remix"
   -
     number: "2"
     title: "アンサー(楽園市街 Remix)"
     duration: "03:25"
-    songId: "kaf/remixes/track-1688513302"
+    songId: "kaf/remixes/アンサー(楽園市街-Remix)-answer-rakuenshigai-remix"
   -
     number: "3"
     title: "私論理(いよわ Remix)"
     duration: "04:08"
-    songId: "kaf/remixes/track-1688513303"
+    songId: "kaf/remixes/私論理(いよわ-Remix)-my-logic-iyowa-remix"
   -
     number: "4"
     title: "戸惑いテレパシー(あめのむらくもP Remix)"
     duration: "03:47"
-    songId: "kaf/remixes/track-1688513304"
+    songId: "kaf/remixes/戸惑いテレパシー(あめのむらくもP-Remix)-confused-telepathy-amenomurakumop-remix"
   -
     number: "5"
     title: "彷徨い(吐息 Remix)"
     duration: "04:15"
-    songId: "kaf/remixes/track-1688513305"
+    songId: "kaf/remixes/彷徨い(吐息-Remix)-wandering-toiki-remix"
   -
     number: "6"
     title: "畢生よ(柊マグネタイト Remix)"
     duration: "03:53"
-    songId: "kaf/remixes/track-1688513306"
+    songId: "kaf/remixes/畢生よ(柊マグネタイト-Remix)-lifetime-hiiragi-magnetite-remix"
   -
     number: "7"
     title: "花女(wotaku Remix)"
     duration: "05:12"
-    songId: "kaf/remixes/track-1688513307"
+    songId: "kaf/remixes/花女(wotaku-Remix)-flower-girl-wotaku-remix"
   -
     number: "8"
     title: "メルの黄昏(雄之助 Remix)"
     duration: "03:26"
-    songId: "kaf/remixes/track-1688513308"
+    songId: "kaf/remixes/メルの黄昏(雄之助-Remix)-mels-twilight-yunosuke-remix"
   -
     number: "9"
     title: "痛みを(Peg Remix)"
     duration: "03:01"
-    songId: "kaf/remixes/track-1688513309"
+    songId: "kaf/remixes/痛みを(Peg-Remix)-pain-peg-remix"
   -
     number: "10"
     title: "モンタージュ(鬱P Remix)"
     duration: "03:41"
-    songId: "kaf/remixes/track-1688513310"
+    songId: "kaf/remixes/モンタージュ(鬱P-Remix)-montage-utsup-remix"
   -
     number: "11"
     title: "景色(香椎モイミ Remix)"
     duration: "03:51"
-    songId: "kaf/remixes/track-1688513311"
+    songId: "kaf/remixes/景色(香椎モイミ-Remix)-landscape-moimi-kashii-remix"
   -
     number: "12"
     title: "帰り路(100回嘔吐 Remix)"
     duration: "04:08"
-    songId: "kaf/remixes/track-1688513312"
+    songId: "kaf/remixes/帰り路(100回嘔吐-Remix)-on-the-way-back-home-100kaiouto-remix"
   -
     number: "13"
     title: "まほう(MIMI Remix) [feat. RIM]"
     duration: "03:19"
-    songId: "kaf/remixes/track-1688513313"
+    songId: "kaf/remixes/まほう(MIMI-Remix)-magic-mimi-remix"
 ---
 
 ## 作品概要
@@ -105,5 +105,5 @@ tracks:
 ## 出典
 
 - [花譜オフィシャルサイト](https://kaf.kamitsubaki.jp/discography/20211222/122/)
-- [Apple Music 日本](https://music.apple.com/jp/album/%E9%AD%94%E6%B3%95%CE%B3/1688513297?uo=4)
+- [Apple Music](https://music.apple.com/jp/album/%E9%AD%94%E6%B3%95%CE%B3/1688513297?uo=4)
 - [VGMdb 花譜ディスコグラフィー](https://vgmdb.net/artist/34690)

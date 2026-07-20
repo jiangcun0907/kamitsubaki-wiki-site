@@ -25,37 +25,37 @@ tracks:
     number: "1"
     title: "daydream (Guiano Remix)"
     duration: "03:14"
-    songId: "harusaruhi/remixes/track-6772089273"
+    songId: "harusaruhi/remixes/daydream-guiano-remix"
   -
     number: "2"
     title: "砂時計 (水槽 Remix)"
     duration: "03:48"
-    songId: "harusaruhi/remixes/track-6772089274"
+    songId: "harusaruhi/remixes/砂時計(水槽-Remix)-hourglass-suisoh-remix"
   -
     number: "3"
     title: "META (Masayoshi Iimori Remix)"
     duration: "04:11"
-    songId: "harusaruhi/remixes/track-6772089275"
+    songId: "harusaruhi/remixes/meta-masayoshi-iimori-remix"
   -
     number: "4"
     title: "SWIPE! (YUC'e Remix)"
     duration: "03:06"
-    songId: "harusaruhi/remixes/track-6772089277"
+    songId: "harusaruhi/remixes/swipe-yuce-remix"
   -
     number: "5"
     title: "声帯学 (椎乃味醂 Remix)"
     duration: "03:04"
-    songId: "harusaruhi/remixes/track-6772089278"
+    songId: "harusaruhi/remixes/声帯学(椎乃味醂-Remix)-vocal-cordology-sheeno-mirin-remix"
   -
     number: "6"
     title: "ディストーション (Ava1anche Remix)"
     duration: "04:20"
-    songId: "harusaruhi/remixes/track-6772089279"
+    songId: "harusaruhi/remixes/ディストーション(Ava1anche-Remix)-distortion-ava1anche-remix"
   -
     number: "7"
     title: "Deep Invite (TeddyLoid Remix)"
     duration: "03:31"
-    songId: "harusaruhi/remixes/track-6772089280"
+    songId: "harusaruhi/remixes/deep-invite-teddyloid-remix"
 ---
 
 ## Overview
@@ -73,5 +73,5 @@ Artwork uses the highest native Apple Music asset available; physical-only relea
 ## Sources
 
 - [Official discography](https://kamitsubaki.jp/discography/harusaruhi/10753/)
-- [Apple Music Japan](https://music.apple.com/jp/album/glitch-stage/6772089272?uo=4)
+- [Apple Music](https://music.apple.com/jp/album/glitch-stage/6772089272?uo=4)
 - [VGMdb Harusaruhi](https://vgmdb.net/artist/48426)

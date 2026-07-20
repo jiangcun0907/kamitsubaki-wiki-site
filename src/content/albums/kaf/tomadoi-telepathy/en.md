@@ -26,27 +26,27 @@ tracks:
     number: "1"
     title: "戸惑いテレパシー"
     duration: "03:48"
-    songId: "kaf/originals/track-1688524198"
+    songId: "kaf/originals/戸惑いテレパシー-confused-telepathy"
   -
     number: "2"
     title: "戸惑いテレパシー(柊キライ Remix)"
     duration: "03:07"
-    songId: "kaf/remixes/track-1688524199"
+    songId: "kaf/remixes/戸惑いテレパシー(柊キライ-Remix)-confused-telepathy-kirai-hiiragi-remix"
   -
     number: "3"
     title: "戸惑いテレパシー(Orangestar Remix)"
     duration: "03:50"
-    songId: "kaf/remixes/track-1688524200"
+    songId: "kaf/remixes/戸惑いテレパシー(Orangestar-Remix)-confused-telepathy-orangestar-remix"
   -
     number: "4"
     title: "戸惑いテレパシー(羽生まゐご Remix)"
     duration: "03:58"
-    songId: "kaf/remixes/track-1688524201"
+    songId: "kaf/remixes/戸惑いテレパシー(羽生まゐご-Remix)-confused-telepathy-maigo-hanyuu-remix"
   -
     number: "5"
     title: "戸惑いテレパシー(Instrumental)"
     duration: "03:48"
-    songId: "kaf/instrumentals/track-1688524202"
+    songId: "kaf/instrumentals/戸惑いテレパシー(Instrumental)-confused-telepathy-instrumental"
 ---
 
 ## Overview
@@ -65,5 +65,5 @@ This release contains 5 tracks. The table above preserves disc and track order, 
 ## Sources
 
 - [KAF Official Website](https://kaf.kamitsubaki.jp/discography/20200610/110/)
-- [Apple Music Japan](https://music.apple.com/jp/album/%E6%88%B8%E6%83%91%E3%81%84%E3%83%86%E3%83%AC%E3%83%91%E3%82%B7%E3%83%BC-ep/1688524197?uo=4)
+- [Apple Music](https://music.apple.com/jp/album/%E6%88%B8%E6%83%91%E3%81%84%E3%83%86%E3%83%AC%E3%83%91%E3%82%B7%E3%83%BC-ep/1688524197?uo=4)
 - [KAF discography on VGMdb](https://vgmdb.net/artist/34690)

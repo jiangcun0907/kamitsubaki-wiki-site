@@ -25,72 +25,72 @@ tracks:
     number: "1"
     title: "台風の子"
     duration: "03:07"
-    songId: "harusaruhi/originals/track-1692480354"
+    songId: "harusaruhi/originals/台風の子-child-of-the-storm"
   -
     number: "2"
     title: "自由までの距離"
     duration: "04:11"
-    songId: "harusaruhi/originals/track-1687457203"
+    songId: "harusaruhi/originals/自由までの距離-distance-to-freedom"
   -
     number: "3"
     title: "百花繚乱"
     duration: "03:17"
-    songId: "harusaruhi/originals/track-1688671803"
+    songId: "harusaruhi/originals/百花繚乱-profusion-of-flowers"
   -
     number: "4"
     title: "迷人"
     duration: "03:22"
-    songId: "harusaruhi/originals/track-1712294276"
+    songId: "harusaruhi/originals/迷人-maze-in"
   -
     number: "5"
     title: "Interlude #1 -ケダモノ-"
     duration: "01:10"
-    songId: "harusaruhi/originals/track-1725056444"
+    songId: "harusaruhi/originals/Interlude-1-ケダモノ-interlude-1-the-beast"
   -
     number: "6"
     title: "声帯学"
     duration: "02:15"
-    songId: "harusaruhi/originals/track-1725056445"
+    songId: "harusaruhi/originals/声帯学-vocal-cordology"
   -
     number: "7"
     title: "フリーフォール"
     duration: "03:04"
-    songId: "harusaruhi/originals/track-1725056446"
+    songId: "harusaruhi/originals/フリーフォール-free-fall-ride"
   -
     number: "8"
     title: "潜む自信"
     duration: "03:08"
-    songId: "harusaruhi/originals/track-1667765102"
+    songId: "harusaruhi/originals/潜む自信-glimpse-of-confidence"
   -
     number: "9"
     title: "daydream"
     duration: "02:51"
-    songId: "harusaruhi/originals/track-1700373049"
+    songId: "harusaruhi/originals/daydream"
   -
     number: "10"
     title: "Interlude #2 -eventide-"
     duration: "01:29"
-    songId: "harusaruhi/originals/track-1725056779"
+    songId: "harusaruhi/originals/interlude-2-eventide"
   -
     number: "11"
     title: "ディストーション"
     duration: "03:11"
-    songId: "harusaruhi/originals/track-1725056780"
+    songId: "harusaruhi/originals/ディストーション-distortion"
   -
     number: "12"
     title: "friction"
     duration: "02:49"
-    songId: "harusaruhi/originals/track-1725056781"
+    songId: "harusaruhi/originals/friction"
   -
     number: "13"
     title: "中間地点"
     duration: "03:54"
-    songId: "harusaruhi/originals/track-1725056782"
+    songId: "harusaruhi/originals/中間地点-halfway-point"
   -
     number: "14"
     title: "Wind walker"
     duration: "03:59"
-    songId: "harusaruhi/originals/track-1725056783"
+    songId: "harusaruhi/originals/wind-walker"
 ---
 
 ## 作品概要
@@ -108,5 +108,5 @@ tracks:
 ## 出典
 
 - [公式ディスコグラフィー](https://kamitsubaki.jp/discography/harusaruhi/2748/)
-- [Apple Music Japan](https://music.apple.com/jp/album/%E5%BF%83%E7%8D%A3/1725056438?uo=4)
+- [Apple Music](https://music.apple.com/jp/album/%E5%BF%83%E7%8D%A3/1725056438?uo=4)
 - [VGMdb 春猿火](https://vgmdb.net/artist/48426)

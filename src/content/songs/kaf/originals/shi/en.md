@@ -246,4 +246,4 @@ The very first original song of KAF.
 ## Sources
 
 - [KAF Official Website](https://kaf.kamitsubaki.jp/discography/20190515/90/)
-- [Apple Music Japan](https://music.apple.com/jp/album/%E7%B3%B8/1688156968?i=1688156969&uo=4)
+- [Apple Music](https://music.apple.com/jp/album/%E7%B3%B8/1688156968?i=1688156969&uo=4)

@@ -29,12 +29,12 @@ tracks:
     number: "2"
     title: "爆裂パニエさん"
     duration: "03:44"
-    songId: "harusaruhi/covers/track-1688520472"
+    songId: "harusaruhi/covers/爆裂パニエさん-the-explosive-mr-panie"
   -
     number: "3"
     title: "八月の夜"
     duration: "04:27"
-    songId: "harusaruhi/covers/track-1688520473"
+    songId: "harusaruhi/covers/八月の夜-august-night"
   -
     number: "4"
     title: "MC2"
@@ -43,17 +43,17 @@ tracks:
     number: "5"
     title: "イマジナリーフレンド"
     duration: "04:34"
-    songId: "harusaruhi/covers/track-1688520475"
+    songId: "harusaruhi/covers/イマジナリーフレンド-imaginary-friend"
   -
     number: "6"
     title: "愛があれば。"
     duration: "02:57"
-    songId: "harusaruhi/covers/track-1688520476"
+    songId: "harusaruhi/covers/愛があれば-ai-ga-areba"
   -
     number: "7"
     title: "命の行方"
     duration: "03:24"
-    songId: "harusaruhi/covers/track-1688520477"
+    songId: "harusaruhi/covers/命の行方-inochi-no-yukue"
   -
     number: "8"
     title: "MC3"
@@ -62,22 +62,22 @@ tracks:
     number: "9"
     title: "真生活"
     duration: "04:07"
-    songId: "harusaruhi/covers/track-1688520479"
+    songId: "harusaruhi/covers/真生活-true-life"
   -
     number: "10"
     title: "chAngE"
     duration: "04:08"
-    songId: "harusaruhi/covers/track-1688520480"
+    songId: "harusaruhi/covers/change"
   -
     number: "11"
     title: "オドループ"
     duration: "04:25"
-    songId: "harusaruhi/covers/track-1688520481"
+    songId: "harusaruhi/covers/オドループ-oddloop"
   -
     number: "12"
     title: "オリオンをなぞる"
     duration: "04:25"
-    songId: "harusaruhi/covers/track-1688520482"
+    songId: "harusaruhi/covers/オリオンをなぞる-tracing-the-orion"
   -
     number: "13"
     title: "MC4"
@@ -90,17 +90,17 @@ tracks:
     number: "15"
     title: "キュートなカノジョ"
     duration: "02:11"
-    songId: "harusaruhi/covers/track-1688520485"
+    songId: "harusaruhi/covers/キュートなカノジョ-cute-girlfriend"
   -
     number: "16"
     title: "不埒な喝采"
     duration: "02:22"
-    songId: "harusaruhi/covers/track-1688520486"
+    songId: "harusaruhi/covers/不埒な喝采-unscrupulous-cheers"
   -
     number: "17"
     title: "グレートフィルター"
     duration: "04:02"
-    songId: "harusaruhi/covers/track-1688520487"
+    songId: "harusaruhi/covers/グレートフィルター-great-filter"
   -
     number: "18"
     title: "MC6"
@@ -110,7 +110,7 @@ tracks:
     title: "Hug(Original Ver.)"
     artist: "春猿火 & 明透"
     duration: "03:08"
-    songId: "harusaruhi/covers/track-1688520489"
+    songId: "harusaruhi/covers/hug-original-ver"
   -
     number: "20"
     title: "MC7"
@@ -119,12 +119,12 @@ tracks:
     number: "21"
     title: "Prince"
     duration: "04:07"
-    songId: "harusaruhi/covers/track-1688520491"
+    songId: "harusaruhi/covers/prince"
   -
     number: "22"
     title: "シカゴ"
     duration: "03:12"
-    songId: "harusaruhi/covers/track-1688520492"
+    songId: "harusaruhi/covers/シカゴ-chicago"
   -
     number: "23"
     title: "MC8"
@@ -133,17 +133,17 @@ tracks:
     number: "24"
     title: "白春夢"
     duration: "04:22"
-    songId: "harusaruhi/covers/track-1688520494"
+    songId: "harusaruhi/covers/白春夢-hakushunmu"
   -
     number: "25"
     title: "ノンフィクション"
     duration: "04:36"
-    songId: "harusaruhi/covers/track-1688520495"
+    songId: "harusaruhi/covers/ノンフィクション-nonfiction"
   -
     number: "26"
     title: "Departures ~あなたにおくるアイの歌~"
     duration: "04:13"
-    songId: "harusaruhi/covers/track-1688520556"
+    songId: "harusaruhi/covers/Departures-あなたにおくるアイの歌-departures-anata-ni-okuru-ai-no-uta"
   -
     number: "27"
     title: "MC9"
@@ -152,7 +152,7 @@ tracks:
     number: "28"
     title: "少女レイ"
     duration: "04:25"
-    songId: "harusaruhi/covers/track-1688520558"
+    songId: "harusaruhi/covers/少女レイ-shoujo-rei"
   -
     number: "29"
     title: "MC10"
@@ -161,7 +161,7 @@ tracks:
     number: "30"
     title: "若者のすべて"
     duration: "04:57"
-    songId: "harusaruhi/covers/track-1688520560"
+    songId: "harusaruhi/covers/若者のすべて-wakamono-no-subete"
 ---
 
 ## 作品简介
@@ -179,5 +179,5 @@ tracks:
 ## 来源
 
 - [官方作品目录](https://kamitsubaki.jp/discography/harusaruhi/2773/)
-- [Apple Music Japan](https://music.apple.com/jp/album/cream-puff-live-2/1688520470?uo=4)
+- [Apple Music](https://music.apple.com/jp/album/cream-puff-live-2/1688520470?uo=4)
 - [VGMdb 春猿火](https://vgmdb.net/artist/48426)

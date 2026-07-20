@@ -25,22 +25,22 @@ tracks:
     number: "1"
     title: "歌姫 (feat. 花譜, 理芽, 春猿火, ヰ世界情緒 & 幸祜)"
     duration: "03:37"
-    songId: "vwp/projects/track-1826916952"
+    songId: "vwp/projects/歌姫-diva"
   -
     number: "2"
     title: "追憶 (feat. 花譜, 理芽, 春猿火, ヰ世界情緒 & 幸祜)"
     duration: "03:31"
-    songId: "vwp/projects/track-1826916953"
+    songId: "vwp/projects/追憶-chase-the-day"
   -
     number: "3"
     title: "歌姫 (Instrumental)(feat. 花譜, 理芽, 春猿火, ヰ世界情緒 & 幸祜)"
     duration: "03:37"
-    songId: "vwp/instrumentals/track-1826916954"
+    songId: "vwp/instrumentals/歌姫(Instrumental)-diva-instrumental"
   -
     number: "4"
     title: "追憶 (Instrumental)(feat. 花譜, 理芽, 春猿火, ヰ世界情緒 & 幸祜)"
     duration: "03:31"
-    songId: "vwp/instrumentals/track-1826916955"
+    songId: "vwp/instrumentals/追憶(Instrumental)-chase-the-day-instrumental"
 ---
 
 ## 作品简介
@@ -58,5 +58,5 @@ tracks:
 ## 来源
 
 - [官方作品目录](https://kamitsubaki.jp/disco_category/v-w-p/)
-- [Apple Music Japan](https://music.apple.com/jp/album/%E6%AD%8C%E5%A7%AB-feat-%E8%8A%B1%E8%AD%9C-%E7%90%86%E8%8A%BD-%E6%98%A5%E7%8C%BF%E7%81%AB-%E3%83%B0%E4%B8%96%E7%95%8C%E6%83%85%E7%B7%92-%E5%B9%B8%E7%A5%9C-ep/1826916951?uo=4)
+- [Apple Music](https://music.apple.com/jp/album/%E6%AD%8C%E5%A7%AB-feat-%E8%8A%B1%E8%AD%9C-%E7%90%86%E8%8A%BD-%E6%98%A5%E7%8C%BF%E7%81%AB-%E3%83%B0%E4%B8%96%E7%95%8C%E6%83%85%E7%B7%92-%E5%B9%B8%E7%A5%9C-ep/1826916951?uo=4)
 - [VGMdb V.W.P](https://vgmdb.net/artist/47724)

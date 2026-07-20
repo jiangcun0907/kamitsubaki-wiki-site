@@ -25,63 +25,63 @@ tracks:
     number: "1"
     title: "INTRODUCTION -目-"
     duration: "01:37"
-    songId: "harusaruhi/originals/track-1688156579"
+    songId: "harusaruhi/originals/INTRODUCTION-目-introduction-eye"
   -
     number: "2"
     title: "逆転"
     duration: "04:17"
-    songId: "harusaruhi/originals/track-1688156580"
+    songId: "harusaruhi/originals/逆転-reversal"
   -
     number: "3"
     title: "Lift Up"
     duration: "03:09"
-    songId: "harusaruhi/originals/track-1688156581"
+    songId: "harusaruhi/originals/lift-up"
   -
     number: "4"
     title: "猛進"
     duration: "02:33"
-    songId: "harusaruhi/originals/track-1688156582"
+    songId: "harusaruhi/originals/猛進-rush"
   -
     number: "5"
     title: "青春"
     duration: "03:30"
-    songId: "harusaruhi/originals/track-1688156583"
+    songId: "harusaruhi/originals/青春-youth"
   -
     number: "6"
     title: "告げ口"
     duration: "03:52"
-    songId: "harusaruhi/originals/track-1688156584"
+    songId: "harusaruhi/originals/告げ口-the-secret"
   -
     number: "7"
     title: "オオゴト"
     duration: "03:27"
-    songId: "harusaruhi/originals/track-1688156586"
+    songId: "harusaruhi/originals/オオゴト-serious-affair"
   -
     number: "8"
     title: "覚醒"
     artist: "春猿火 & SANARI"
     duration: "03:56"
-    songId: "harusaruhi/originals/track-1688156587"
+    songId: "harusaruhi/originals/覚醒-awakening-心眼"
   -
     number: "9"
     title: "哀愁さえも仲間"
     duration: "04:21"
-    songId: "harusaruhi/originals/track-1688524703"
+    songId: "harusaruhi/originals/哀愁さえも仲間-even-melancholy-companion"
   -
     number: "10"
     title: "台風の眼"
     duration: "04:04"
-    songId: "harusaruhi/originals/track-1687464985"
+    songId: "harusaruhi/originals/台風の眼-eye-of-the-storm"
   -
     number: "11"
     title: "居場所"
     duration: "04:46"
-    songId: "harusaruhi/originals/track-1687474399"
+    songId: "harusaruhi/originals/居場所-my-place"
   -
     number: "12"
     title: "OUTRODUCTION -眼-"
     duration: "01:37"
-    songId: "harusaruhi/originals/track-1688156591"
+    songId: "harusaruhi/originals/OUTRODUCTION-眼-outroduction-eye"
 ---
 
 ## Overview
@@ -99,5 +99,5 @@ Artwork uses the highest native Apple Music asset available; physical-only relea
 ## Sources
 
 - [Official discography](https://kamitsubaki.jp/discography/harusaruhi/824/)
-- [Apple Music Japan](https://music.apple.com/jp/album/%E5%BF%83%E7%9C%BC/1688156578?uo=4)
+- [Apple Music](https://music.apple.com/jp/album/%E5%BF%83%E7%9C%BC/1688156578?uo=4)
 - [VGMdb Harusaruhi](https://vgmdb.net/artist/48426)

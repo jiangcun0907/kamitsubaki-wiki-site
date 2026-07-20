@@ -37,4 +37,4 @@ image: /images/albums/kaf/kansoku.jpg
 ## 来源
 
 - [花譜官方网站](https://kaf.kamitsubaki.jp/discography/20190911/107/)
-- [Apple Music 日本区](https://music.apple.com/jp/album/%E5%BF%98%E3%82%8C%E3%81%A6%E3%81%97%E3%81%BE%E3%81%88/1688351143?i=1688351146&uo=4)
+- [Apple Music](https://music.apple.com/jp/album/%E5%BF%98%E3%82%8C%E3%81%A6%E3%81%97%E3%81%BE%E3%81%88/1688351143?i=1688351146&uo=4)

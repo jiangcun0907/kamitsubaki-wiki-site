@@ -31,17 +31,17 @@ tracks:
     number: "2"
     title: "夜が降りやむ前に(Guiano Remix)"
     duration: "03:00"
-    songId: "kaf/remixes/track-1688672117"
+    songId: "kaf/remixes/夜が降りやむ前に(Guiano-Remix)-before-the-night-falls-guiano-remix"
   -
     number: "3"
     title: "夜が降り止む前に(大沼パセリ Remix)"
     duration: "03:18"
-    songId: "kaf/remixes/track-1688672118"
+    songId: "kaf/remixes/夜が降り止む前に(大沼パセリ-Remix)-before-the-night-falls-parsley-onuma-remix"
   -
     number: "4"
     title: "夜が降り止む前に(Instrumental)"
     duration: "03:33"
-    songId: "kaf/instrumentals/track-1688672119"
+    songId: "kaf/instrumentals/夜が降り止む前に(Instrumental)-before-the-night-falls-instrumental"
 ---
 
 ## Overview
@@ -60,5 +60,5 @@ This release contains 4 tracks. The table above preserves disc and track order, 
 ## Sources
 
 - [KAF Official Website](https://kaf.kamitsubaki.jp/discography/20190628/106/)
-- [Apple Music Japan](https://music.apple.com/jp/album/%E5%A4%9C%E3%81%8C%E9%99%8D%E3%82%8A%E6%AD%A2%E3%82%80%E5%89%8D%E3%81%AB-ep/1688671784?uo=4)
+- [Apple Music](https://music.apple.com/jp/album/%E5%A4%9C%E3%81%8C%E9%99%8D%E3%82%8A%E6%AD%A2%E3%82%80%E5%89%8D%E3%81%AB-ep/1688671784?uo=4)
 - [KAF discography on VGMdb](https://vgmdb.net/artist/34690)

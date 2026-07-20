@@ -1,0 +1,34 @@
+---
+locale: ja
+translationKey: harusaruhi_song_track_1709945228
+title: "明日はくる at CREAM PUFF LIVE 3(Cover)"
+artist: "春猿火"
+artistId: harusaruhi
+artistIds:
+  - "harusaruhi"
+album: "CREAM PUFF LIVE 3"
+duration: "03:42"
+releaseDate: "2023-10-18"
+categoryTitle: "カバー曲"
+categorySubtitle: COVERS
+categoryOrder: 20
+itemOrder: 335
+code: "apple-1709945228"
+image: /images/albums/harusaruhi/cream-puff-live-3.jpg
+---
+
+## 作品概要
+
+「明日はくる at CREAM PUFF LIVE 3(Cover)」は『CREAM PUFF LIVE 3』または関連する正式リリースに収録です。このページは録音バージョン単位で作成し、ライブ、リミックス、リアレンジ版を原曲と区別しています。
+
+## 試聴
+
+@[apple-music](https://music.apple.com/jp/album/%E6%98%8E%E6%97%A5%E3%81%AF%E3%81%8F%E3%82%8B-at-cream-puff-live-3-cover/1709945211?i=1709945228&uo=4 "明日はくる at CREAM PUFF LIVE 3(Cover)")
+
+## 歌詞
+
+## 出典
+
+- [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/harusaruhi/)
+- [Apple Music](https://music.apple.com/jp/album/%E6%98%8E%E6%97%A5%E3%81%AF%E3%81%8F%E3%82%8B-at-cream-puff-live-3-cover/1709945211?i=1709945228&uo=4)
+- [VGMdb 春猿火](https://vgmdb.net/artist/48426)

@@ -1,0 +1,28 @@
+---
+locale: en
+translationKey: isekaijoucho_song_archive_candy_live_09
+title: "垂直落下"
+artist: "ヰ世界情緒"
+artistId: isekaijoucho
+artistIds:
+  - "isekaijoucho"
+album: "CANDY LIVE"
+releaseDate: "2021-03-31"
+categoryTitle: "Covers"
+categorySubtitle: COVERS
+categoryOrder: 20
+itemOrder: 68
+code: "archive-candy-live-09"
+image: /images/albums/isekaijoucho/candy-live.jpg
+---
+
+## Overview
+
+垂直落下 appears on CANDY LIVE or a related official release. Entries are version-specific, keeping live, remix, and rearranged recordings separate from the original.
+
+## Lyrics
+
+## Sources
+
+- [Official discography](https://kamitsubaki.jp/discography/isekaijoucho/382/)
+- [VGMdb Isekaijoucho](https://vgmdb.net/artist/53599)

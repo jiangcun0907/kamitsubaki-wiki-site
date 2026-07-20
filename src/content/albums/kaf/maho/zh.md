@@ -26,77 +26,77 @@ tracks:
     number: "1"
     title: "魔法の無い世界(Instrumental)"
     duration: "03:25"
-    songId: "kaf/instrumentals/track-1688520963"
+    songId: "kaf/instrumentals/魔法の無い世界(Instrumental)-a-world"
   -
     number: "2"
     title: "危ノーマル"
     duration: "03:20"
-    songId: "kaf/originals/track-1688520965"
+    songId: "kaf/originals/危ノーマル-abnormal"
   -
     number: "3"
     title: "アンサー"
     duration: "03:51"
-    songId: "kaf/originals/track-1688520966"
+    songId: "kaf/originals/アンサー-answer"
   -
     number: "4"
     title: "私論理"
     duration: "04:05"
-    songId: "kaf/originals/track-1688520967"
+    songId: "kaf/originals/私論理-my-logic"
   -
     number: "5"
     title: "戸惑いテレパシー"
     duration: "03:47"
-    songId: "kaf/originals/track-1688524198"
+    songId: "kaf/originals/戸惑いテレパシー-confused-telepathy"
   -
     number: "6"
     title: "彷徨い"
     duration: "04:23"
-    songId: "kaf/originals/track-1688520969"
+    songId: "kaf/originals/彷徨い-wandering"
   -
     number: "7"
     title: "畢生よ"
     duration: "04:00"
-    songId: "kaf/originals/track-1688520970"
+    songId: "kaf/originals/畢生よ-lifetime"
   -
     number: "8"
     title: "花女"
     duration: "05:02"
-    songId: "kaf/originals/track-1688520971"
+    songId: "kaf/originals/花女-flower-girl"
   -
     number: "9"
     title: "メルの黄昏"
     duration: "03:55"
-    songId: "kaf/originals/track-1688520972"
+    songId: "kaf/originals/メルの黄昏-mels-twilight"
   -
     number: "10"
     title: "痛みを"
     duration: "04:27"
-    songId: "kaf/originals/track-1688520973"
+    songId: "kaf/originals/痛みを-pain"
   -
     number: "11"
     title: "モンタージュ"
     duration: "03:54"
-    songId: "kaf/originals/track-1688520974"
+    songId: "kaf/originals/モンタージュ-montage"
   -
     number: "12"
     title: "景色"
     duration: "04:48"
-    songId: "kaf/originals/track-1688520975"
+    songId: "kaf/originals/景色-landscape"
   -
     number: "13"
     title: "帰り路"
     duration: "04:05"
-    songId: "kaf/originals/track-1688521006"
+    songId: "kaf/originals/帰り路-on-the-way-back-home"
   -
     number: "14"
     title: "まほう (feat. RIM)"
     duration: "03:14"
-    songId: "kaf/originals/track-1688521007"
+    songId: "kaf/originals/まほう-magic"
   -
     number: "15"
     title: "世界線は分岐する(Instrumental)"
     duration: "03:18"
-    songId: "kaf/instrumentals/track-1688521008"
+    songId: "kaf/instrumentals/世界線は分岐する(Instrumental)-the-world-line-branches-instrumental"
 ---
 
 ## 作品简介
@@ -115,5 +115,5 @@ tracks:
 ## 来源
 
 - [花譜官方网站](https://kaf.kamitsubaki.jp/discography/20201125/118/)
-- [Apple Music 日本区](https://music.apple.com/jp/album/%E9%AD%94%E6%B3%95/1688520962?uo=4)
+- [Apple Music](https://music.apple.com/jp/album/%E9%AD%94%E6%B3%95/1688520962?uo=4)
 - [VGMdb 花譜作品目录](https://vgmdb.net/artist/34690)

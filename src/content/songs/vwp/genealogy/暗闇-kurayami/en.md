@@ -1,0 +1,39 @@
+---
+locale: en
+translationKey: vwp_song_track_1801409166
+title: "暗闇 (feat. Isekaijoucho & V.W.P)"
+artist: "花譜"
+artistId: vwp
+artistIds:
+  - "vwp"
+  - "kaf"
+  - "isekaijoucho"
+  - "rim"
+  - "harusaruhi"
+  - "koko"
+album: "繁殖"
+duration: "04:18"
+releaseDate: "2025-03-26"
+categoryTitle: "Genealogy Songs"
+categorySubtitle: GENEALOGY
+categoryOrder: 30
+itemOrder: 465
+code: "apple-1801409166"
+image: /images/albums/vwp/proliferation.jpg
+---
+
+## Overview
+
+暗闇 (feat. Isekaijoucho & V.W.P) appears on 繁殖 or a related official release. Entries are version-specific, keeping live, remix, and rearranged recordings separate from the original.
+
+## Listen
+
+@[apple-music](https://music.apple.com/jp/album/%E6%9A%97%E9%97%87-feat-isekaijoucho-v-w-p/1801409159?i=1801409166&uo=4 "暗闇 (feat. Isekaijoucho & V.W.P)")
+
+## Lyrics
+
+## Sources
+
+- [Official discography](https://kamitsubaki.jp/disco_category/v-w-p/)
+- [Apple Music](https://music.apple.com/jp/album/%E6%9A%97%E9%97%87-feat-isekaijoucho-v-w-p/1801409159?i=1801409166&uo=4)
+- [VGMdb V.W.P](https://vgmdb.net/artist/47724)

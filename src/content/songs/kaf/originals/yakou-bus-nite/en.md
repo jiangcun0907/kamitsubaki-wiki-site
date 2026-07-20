@@ -37,4 +37,4 @@ Lyrics, readings, and translations will be added from appropriately licensed sou
 ## Sources
 
 - [KAF Official Website](https://kaf.kamitsubaki.jp/discography/20190911/107/)
-- [Apple Music Japan](https://music.apple.com/jp/album/%E5%A4%9C%E8%A1%8C%E3%83%90%E3%82%B9%E3%81%AB%E3%81%A6/1688351143?i=1688351150&uo=4)
+- [Apple Music](https://music.apple.com/jp/album/%E5%A4%9C%E8%A1%8C%E3%83%90%E3%82%B9%E3%81%AB%E3%81%A6/1688351143?i=1688351150&uo=4)

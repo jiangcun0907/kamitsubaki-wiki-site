@@ -37,4 +37,4 @@ image: /images/albums/kaf/flower-and-heart.jpg
 ## 来源
 
 - [花譜官方网站](https://kaf.kamitsubaki.jp/discography/20190515/90/)
-- [Apple Music 日本区](https://music.apple.com/jp/album/%E9%AD%94%E5%A5%B3/1688156968?i=1688156970&uo=4)
+- [Apple Music](https://music.apple.com/jp/album/%E9%AD%94%E5%A5%B3/1688156968?i=1688156970&uo=4)

@@ -25,27 +25,27 @@ tracks:
     number: "1"
     title: "真偽 (feat. KAF, RIM, Harusaruhi, Isekaijoucho & KOKO)"
     duration: "04:52"
-    songId: "vwp/projects/track-1804522523"
+    songId: "vwp/projects/真偽-magi-都市-from-神椿市建設中-REGENERATE"
   -
     number: "2"
     title: "神話 (feat. KAF, RIM, Harusaruhi, Isekaijoucho & KOKO)"
     duration: "04:09"
-    songId: "vwp/projects/track-1804522524"
+    songId: "vwp/projects/神話-mythology-都市-from-神椿市建設中-REGENERATE"
   -
     number: "3"
     title: "流転 (feat. KAF, RIM, Harusaruhi, Isekaijoucho & KOKO)"
     duration: "05:07"
-    songId: "vwp/projects/track-1804522525"
+    songId: "vwp/projects/流転-reincarnation-都市-from-神椿市建設中-REGENERATE"
   -
     number: "4"
     title: "決意 (feat. KAF, RIM, Harusaruhi, Isekaijoucho & KOKO)"
     duration: "03:48"
-    songId: "vwp/projects/track-1804522527"
+    songId: "vwp/projects/決意-determination-都市-from-神椿市建設中-REGENERATE"
   -
     number: "5"
     title: "反逆 (feat. KAF, RIM, Harusaruhi, Isekaijoucho & KOKO)"
     duration: "04:50"
-    songId: "vwp/projects/track-1804522528"
+    songId: "vwp/projects/反逆-rebellion-都市-from-神椿市建設中-REGENERATE"
 ---
 
 ## Overview
@@ -63,5 +63,5 @@ Artwork uses the highest native Apple Music asset available; physical-only relea
 ## Sources
 
 - [Official discography](https://kamitsubaki.jp/disco_category/v-w-p/)
-- [Apple Music Japan](https://music.apple.com/jp/album/%E9%83%BD%E5%B8%82-from-%E7%A5%9E%E6%A4%BF%E5%B8%82%E5%BB%BA%E8%A8%AD%E4%B8%AD-regenerate-feat-kaf-rim-harusaruhi-isekaijoucho/1804522522?uo=4)
+- [Apple Music](https://music.apple.com/jp/album/%E9%83%BD%E5%B8%82-from-%E7%A5%9E%E6%A4%BF%E5%B8%82%E5%BB%BA%E8%A8%AD%E4%B8%AD-regenerate-feat-kaf-rim-harusaruhi-isekaijoucho/1804522522?uo=4)
 - [VGMdb V.W.P](https://vgmdb.net/artist/47724)

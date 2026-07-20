@@ -1,0 +1,34 @@
+---
+locale: zh
+translationKey: isekaijoucho_song_track_1854052592
+title: "芝居の終焉 (Cover Live)"
+artist: "ヰ世界情緒"
+artistId: isekaijoucho
+artistIds:
+  - "isekaijoucho"
+album: "CANDY LIVE 3 (Cover Live)"
+duration: "03:27"
+releaseDate: "2025-12-10"
+categoryTitle: "翻唱曲"
+categorySubtitle: COVERS
+categoryOrder: 20
+itemOrder: 592
+code: "apple-1854052592"
+image: /images/albums/isekaijoucho/candy-live-3.jpg
+---
+
+## 作品简介
+
+《芝居の終焉 (Cover Live)》收录于《CANDY LIVE 3 (Cover Live)》或其相关正式发行。本词条按具体录音版本建立；现场、重混与重新编曲版不会与原版混为一项。
+
+## 试听
+
+@[apple-music](https://music.apple.com/jp/album/%E8%8A%9D%E5%B1%85%E3%81%AE%E7%B5%82%E7%84%89-cover-live/1854052580?i=1854052592&uo=4 "芝居の終焉 (Cover Live)")
+
+## 歌词
+
+## 来源
+
+- [官方作品目录](https://kamitsubaki.jp/disco_category/isekaijoucho/)
+- [Apple Music](https://music.apple.com/jp/album/%E8%8A%9D%E5%B1%85%E3%81%AE%E7%B5%82%E7%84%89-cover-live/1854052580?i=1854052592&uo=4)
+- [VGMdb ヰ世界情緒](https://vgmdb.net/artist/53599)

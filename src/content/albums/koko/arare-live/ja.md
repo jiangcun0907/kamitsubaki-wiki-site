@@ -22,95 +22,95 @@ tracks:
   -
     number: "1"
     title: "Hearts"
-    songId: "koko/covers/archive-arare-live-01"
+    songId: "koko/covers/hearts"
   -
     number: "2"
     title: "About me"
-    songId: "koko/covers/archive-arare-live-02"
+    songId: "koko/covers/about-me"
   -
     number: "3"
     title: "はくしの春"
-    songId: "koko/covers/archive-arare-live-03"
+    songId: "koko/covers/はくしの春-hakushi-no-haru"
   -
     number: "4"
     title: "Uz"
-    songId: "koko/covers/archive-arare-live-04"
+    songId: "koko/covers/uz"
   -
     number: "5"
     title: "夜咄ディセイブ"
-    songId: "koko/covers/archive-arare-live-05"
+    songId: "koko/covers/夜咄ディセイブ-yobanashi-diseibu"
   -
     number: "6"
     title: "虎視眈々"
-    songId: "koko/covers/archive-arare-live-06"
+    songId: "koko/covers/虎視眈々-koshitantan"
   -
     number: "7"
     title: "幸福な死を"
-    songId: "koko/covers/archive-arare-live-07"
+    songId: "koko/covers/幸福な死を-koufuku-na-shi-wo"
   -
     number: "8"
     title: "ビターチョコデコレーション"
-    songId: "koko/covers/archive-arare-live-08"
+    songId: "koko/covers/ビターチョコデコレーション-bitaa-choko-dekoreeshon"
   -
     number: "9"
     title: "ラストリゾート"
-    songId: "koko/covers/archive-arare-live-09"
+    songId: "koko/covers/ラストリゾート-rasuto-rizooto"
   -
     number: "10"
     title: "過去を喰らう -inst.ver-"
-    songId: "koko/covers/archive-arare-live-10"
+    songId: "koko/covers/過去を喰らう-inst-ver-kako-wo-kurau-inst-ver"
   -
     number: "11"
     title: "命のユースティティア"
-    songId: "koko/covers/archive-arare-live-11"
+    songId: "koko/covers/命のユースティティア-inochi-no-yuusutishia"
   -
     number: "12"
     title: "キレキャリオン"
-    songId: "koko/covers/archive-arare-live-12"
+    songId: "koko/covers/キレキャリオン-kire-kyarion"
   -
     number: "13"
     title: "悔やむと書いてミライ"
-    songId: "koko/covers/archive-arare-live-13"
+    songId: "koko/covers/悔やむと書いてミライ-kuyamu-to-kaite-mirai"
   -
     number: "14"
     title: "残響"
-    songId: "koko/covers/archive-arare-live-14"
+    songId: "koko/covers/残響-zankyou"
   -
     number: "15"
     title: "とめどなき白情"
-    songId: "koko/covers/archive-arare-live-15"
+    songId: "koko/covers/とめどなき白情-tomedonaki-hakujou"
   -
     number: "16"
     title: "エゴイスト"
-    songId: "koko/covers/archive-arare-live-16"
+    songId: "koko/covers/エゴイスト-egoisuto"
   -
     number: "17"
     title: "終点"
-    songId: "koko/covers/archive-arare-live-17"
+    songId: "koko/covers/終点-shuuten"
   -
     number: "18"
     title: "君の脈で踊りたかった"
-    songId: "koko/covers/archive-arare-live-18"
+    songId: "koko/covers/君の脈で踊りたかった-kimi-no-myaku-de-odoritakatta"
   -
     number: "19"
     title: "メリュー"
-    songId: "koko/covers/archive-arare-live-19"
+    songId: "koko/covers/メリュー-meryuu"
   -
     number: "20"
     title: "Leia"
-    songId: "koko/covers/archive-arare-live-20"
+    songId: "koko/covers/leia"
   -
     number: "21"
     title: "鏡面の波 feat.ヰ世界情緒"
-    songId: "koko/covers/archive-arare-live-21"
+    songId: "koko/covers/鏡面の波-kyoumen-no-nami"
   -
     number: "22"
     title: "unravel"
-    songId: "koko/covers/archive-arare-live-22"
+    songId: "koko/covers/unravel"
   -
     number: "23"
     title: "未来になれなかったあの夜に（ED）"
-    songId: "koko/covers/archive-arare-live-23"
+    songId: "koko/covers/未来になれなかったあの夜に(ED)-mirai-ninarenakattaano-yoru-ni-ed"
 ---
 
 ## 作品概要
