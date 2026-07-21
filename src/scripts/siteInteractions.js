@@ -128,7 +128,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   };
 
-  if (siteIntro) {
+  if (siteIntro && document.documentElement.classList.contains('site-intro-enabled')) {
     const configuredDuration = Number.parseInt(siteIntro.dataset.animationDuration ?? '', 10);
     const animationDuration = prefersReducedMotion ? 900 : (configuredDuration || 5845);
     const introVideo = siteIntro.querySelector('[data-site-intro-video]');

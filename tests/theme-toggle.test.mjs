@@ -4,7 +4,7 @@ import test from 'node:test';
 
 const readSource = (path) => readFile(new URL(path, import.meta.url), 'utf8');
 
-test('theme choice is restored before paint and can be changed from the site navigation', async () => {
+test('theme preference defaults to system and offers localized light, dark, and system options', async () => {
   const [layout, nav, script, styles] = await Promise.all([
     readSource('../src/layouts/BaseLayout.astro'),
     readSource('../src/components/SiteNav.astro'),
@@ -13,15 +13,31 @@ test('theme choice is restored before paint and can be changed from the site nav
   ]);
 
   assert.match(layout, /kamitsubaki-theme/);
+  assert.match(layout, /let preference = 'system'/);
+  assert.match(layout, /matchMedia\('\(prefers-color-scheme: dark\)'\)/);
+  assert.match(layout, /dataset\.themePreference = preference/);
   assert.match(layout, /document\.documentElement\.dataset\.theme/);
   assert.match(layout, /themeToggle\.js/);
   assert.match(nav, /data-theme-toggle/);
-  assert.match(nav, /site-nav__controls[\s\S]*Language switcher[\s\S]*data-theme-toggle/);
-  assert.match(script, /localStorage\.setItem\(storageKey, nextTheme\)/);
-  assert.match(script, /aria-pressed/);
+  assert.match(nav, /role="radiogroup"/);
+  assert.match(nav, /value: 'light', shortLabel: '日'/);
+  assert.match(nav, /value: 'dark', shortLabel: '夜'/);
+  assert.match(nav, /value: 'system', shortLabel: '系'/);
+  assert.match(nav, /value: 'light', shortLabel: '昼'/);
+  assert.match(nav, /value: 'system', shortLabel: '自'/);
+  assert.match(nav, /value: 'light', shortLabel: 'DAY'/);
+  assert.match(nav, /value: 'dark', shortLabel: 'NIGHT'/);
+  assert.match(nav, /value: 'system', shortLabel: 'SYS'/);
+  assert.match(nav, /site-nav__controls[\s\S]*Language switcher[\s\S]*site-nav__theme-switcher/);
+  assert.match(script, /localStorage\.setItem\(storageKey, nextPreference\)/);
+  assert.match(script, /aria-checked/);
+  assert.match(script, /systemThemeQuery\.addEventListener\('change', handleSystemThemeChange\)/);
   assert.match(styles, /html\[data-theme='light'\]/);
   assert.match(styles, /--theme-bg: #ffffff/);
   assert.match(styles, /--color-white: var\(--theme-fg\)/);
+  assert.match(styles, /\.site-nav__theme-option[\s\S]*background: transparent[\s\S]*border: 0|\.site-nav__theme-option[\s\S]*border: 0[\s\S]*background: transparent/);
+  assert.match(styles, /html\[data-theme='light'\] \.cursor-dot[\s\S]*background-color: #000000[\s\S]*mix-blend-mode: normal/);
+  assert.match(styles, /html\[data-theme='light'\] \.cursor-dot\.hovering[\s\S]*border-color: #000000/);
   assert.match(styles, /\.wiki-toc \.toc-list a\[data-active="true"\][\s\S]*color: var\(--theme-accent-color\)/);
   assert.match(styles, /html\[data-theme='light'\] \[class~='text-white'\][\s\S]*color: #000000/);
   assert.match(styles, /html\[data-theme='light'\] \[class\*='text-white\/'\][\s\S]*color: #42484c/);

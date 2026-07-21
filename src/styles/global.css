@@ -405,6 +405,16 @@ input[type="reset"] {
   border: 1px solid white;
 }
 
+html[data-theme='light'] .cursor-dot {
+  background-color: #000000;
+  mix-blend-mode: normal;
+}
+
+html[data-theme='light'] .cursor-dot.hovering {
+  background-color: transparent;
+  border-color: #000000;
+}
+
 .t-vertical {
   writing-mode: vertical-rl;
   text-orientation: mixed;
@@ -743,56 +753,31 @@ html.has-js .reveal-up.active {
   gap: 0.55rem;
 }
 
-.site-nav__theme-toggle {
-  display: inline-flex;
-  min-height: 1.45rem;
-  align-items: center;
-  gap: 0.4rem;
-  border: 1px solid rgb(var(--theme-fg-rgb) / 0.24);
-  background: rgb(var(--theme-bg-rgb) / 0.72);
-  padding: 0.28rem 0.42rem;
-  color: rgb(var(--theme-fg-rgb) / 0.62);
-  font-family: var(--font-mono);
-  font-size: 0.5rem;
-  line-height: 1;
-  letter-spacing: 0.12em;
+.site-nav__theme-option {
+  appearance: none;
+  border: 0;
+  background: transparent;
+  padding: 0;
+  color: rgb(var(--theme-fg-rgb) / 0.35);
+  font: inherit;
+  letter-spacing: inherit;
+  line-height: inherit;
   text-transform: uppercase;
-  backdrop-filter: blur(8px);
-  transition: border-color 180ms ease, background-color 180ms ease, color 180ms ease;
+  transition: color 300ms ease;
 }
 
-.site-nav__theme-toggle:hover,
-.site-nav__theme-toggle:focus-visible {
-  border-color: rgb(var(--theme-fg-rgb) / 0.52);
-  background: rgb(var(--theme-bg-rgb) / 0.9);
+html[data-theme='light'] .site-nav__theme-option {
+  color: #42484c;
+}
+
+.site-nav__theme-option:hover,
+.site-nav__theme-option:focus-visible,
+.site-nav__theme-option.is-active,
+.site-nav__theme-option[aria-checked='true'],
+html[data-theme-preference='light'] .site-nav__theme-option[data-theme-value='light'],
+html[data-theme-preference='dark'] .site-nav__theme-option[data-theme-value='dark'],
+html[data-theme-preference='system'] .site-nav__theme-option[data-theme-value='system'] {
   color: var(--theme-fg);
-}
-
-.site-nav__theme-icon,
-.site-nav__theme-icon svg {
-  display: block;
-  width: 0.72rem;
-  height: 0.72rem;
-}
-
-.site-nav__theme-icon svg {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: square;
-  stroke-linejoin: miter;
-  stroke-width: 1;
-}
-
-.site-nav__theme-moon {
-  display: none !important;
-}
-
-html[data-theme='light'] .site-nav__theme-sun {
-  display: none;
-}
-
-html[data-theme='light'] .site-nav__theme-moon {
-  display: block !important;
 }
 
 html[data-theme='light'] .site-nav {

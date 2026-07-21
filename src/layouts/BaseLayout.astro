@@ -60,17 +60,35 @@ const socialContactCopy = siteEntry?.data.socialContact;
     <script is:inline define:vars={{ isLocalizedHome }}>
       (() => {
         const storageKey = 'kamitsubaki-theme';
-        let theme = 'dark';
+        const introStorageKey = 'kamitsubaki-home-intro-seen';
+        let preference = 'system';
 
         try {
-          const savedTheme = window.localStorage.getItem(storageKey);
-          if (savedTheme === 'light' || savedTheme === 'dark') theme = savedTheme;
+          const savedPreference = window.localStorage.getItem(storageKey);
+          if (savedPreference === 'light' || savedPreference === 'dark' || savedPreference === 'system') {
+            preference = savedPreference;
+          }
         } catch {
           // Storage may be unavailable in privacy-restricted browsing contexts.
         }
 
+        const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        const theme = preference === 'system' ? (systemPrefersDark ? 'dark' : 'light') : preference;
+        document.documentElement.dataset.themePreference = preference;
         document.documentElement.dataset.theme = theme;
-        if (isLocalizedHome) document.documentElement.classList.add('site-intro-enabled');
+
+        if (isLocalizedHome) {
+          let shouldPlayIntro = true;
+
+          try {
+            shouldPlayIntro = window.sessionStorage.getItem(introStorageKey) !== 'true';
+            if (shouldPlayIntro) window.sessionStorage.setItem(introStorageKey, 'true');
+          } catch {
+            // The intro still works when session storage is unavailable.
+          }
+
+          if (shouldPlayIntro) document.documentElement.classList.add('site-intro-enabled');
+        }
       })();
     </script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />

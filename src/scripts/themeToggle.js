@@ -1,44 +1,57 @@
 const storageKey = 'kamitsubaki-theme';
-const themes = new Set(['dark', 'light']);
+const preferences = new Set(['light', 'dark', 'system']);
+const systemThemeQuery = window.matchMedia('(prefers-color-scheme: dark)');
 
-const getTheme = () => {
-  const theme = document.documentElement.dataset.theme;
-  return themes.has(theme) ? theme : 'dark';
+const getPreference = () => {
+  const preference = document.documentElement.dataset.themePreference;
+  return preferences.has(preference) ? preference : 'system';
 };
 
-const updateToggle = (button, theme) => {
-  const isLight = theme === 'light';
-  const label = isLight ? button.dataset.darkLabel : button.dataset.lightLabel;
-  const ariaLabel = isLight ? button.dataset.darkAria : button.dataset.lightAria;
-  const labelNode = button.querySelector('[data-theme-label]');
-
-  if (labelNode) labelNode.textContent = label || '';
-  button.setAttribute('aria-label', ariaLabel || '');
-  button.setAttribute('title', ariaLabel || '');
-  button.setAttribute('aria-pressed', String(isLight));
+const resolveTheme = (preference) => {
+  if (preference === 'system') return systemThemeQuery.matches ? 'dark' : 'light';
+  return preference === 'light' ? 'light' : 'dark';
 };
 
-const applyTheme = (theme, { persist = false } = {}) => {
-  const nextTheme = themes.has(theme) ? theme : 'dark';
-  document.documentElement.dataset.theme = nextTheme;
-  document.querySelectorAll('[data-theme-toggle]').forEach((button) => updateToggle(button, nextTheme));
+const updateOptions = (preference) => {
+  document.querySelectorAll('[data-theme-toggle]').forEach((button) => {
+    const selected = button.dataset.themeValue === preference;
+    button.setAttribute('aria-checked', String(selected));
+    button.classList.toggle('is-active', selected);
+  });
+};
+
+const applyPreference = (preference, { persist = false } = {}) => {
+  const nextPreference = preferences.has(preference) ? preference : 'system';
+  document.documentElement.dataset.themePreference = nextPreference;
+  document.documentElement.dataset.theme = resolveTheme(nextPreference);
+  updateOptions(nextPreference);
 
   if (persist) {
     try {
-      window.localStorage.setItem(storageKey, nextTheme);
+      window.localStorage.setItem(storageKey, nextPreference);
     } catch {
-      // The visual toggle should still work when storage is unavailable.
+      // The visual selector should still work when storage is unavailable.
     }
   }
 };
 
+const handleSystemThemeChange = () => {
+  if (getPreference() === 'system') applyPreference('system');
+};
+
 document.addEventListener('DOMContentLoaded', () => {
-  applyTheme(getTheme());
+  applyPreference(getPreference());
 
   document.addEventListener('click', (event) => {
     const button = event.target instanceof Element && event.target.closest('[data-theme-toggle]');
     if (!(button instanceof HTMLButtonElement)) return;
 
-    applyTheme(getTheme() === 'light' ? 'dark' : 'light', { persist: true });
+    applyPreference(button.dataset.themeValue, { persist: true });
   });
+
+  if ('addEventListener' in systemThemeQuery) {
+    systemThemeQuery.addEventListener('change', handleSystemThemeChange);
+  } else {
+    systemThemeQuery.addListener(handleSystemThemeChange);
+  }
 });

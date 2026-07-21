@@ -19,7 +19,7 @@ test('homepage intro uses the supplied video path with a theme-specific treatmen
   assert.match(component, /src="\/brand\/main-logo-light\.svg"/);
   assert.match(component, /src="\/brand\/site-intro-light\.mp4"/);
   assert.match(component, /data-site-intro-video/);
-  assert.match(component, /autoplay/);
+  assert.doesNotMatch(component, /\sautoplay/);
   assert.match(component, /html:not\(\[data-theme='light'\]\)[\s\S]*site-intro__video[\s\S]*filter:\s*invert\(1\)/);
   assert.match(component, /html\[data-theme='light'\][\s\S]*site-intro__static-logo--light[\s\S]*display:\s*block/);
 });
@@ -33,11 +33,15 @@ test('intro waits for both its full animation and the window load event', async 
 
   assert.match(layout, /isLocalizedHome && <SiteIntro/);
   assert.match(layout, /site-intro-enabled/);
+  assert.match(layout, /kamitsubaki-home-intro-seen/);
+  assert.match(layout, /sessionStorage\.getItem\(introStorageKey\)/);
+  assert.match(layout, /sessionStorage\.setItem\(introStorageKey, 'true'\)/);
   assert.match(layout, /rel="preload" href="\/brand\/site-intro-light\.mp4" as="video"/);
   assert.match(layout, /rel="preload" href="\/brand\/main-logo-dark\.svg"/);
   assert.match(layout, /rel="preload" href="\/brand\/main-logo-light\.svg"/);
   assert.match(component, /data-animation-duration="5845"/);
   assert.match(interactions, /animationComplete = false/);
+  assert.match(interactions, /siteIntro && document\.documentElement\.classList\.contains\('site-intro-enabled'\)/);
   assert.match(interactions, /pageLoaded = document\.readyState === 'complete'/);
   assert.match(interactions, /if \(leaving \|\| !animationComplete \|\| !pageLoaded\) return/);
   assert.match(interactions, /introVideo\.addEventListener\('ended', finishAnimation/);
