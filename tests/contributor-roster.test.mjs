@@ -40,6 +40,7 @@ test('contributor roster fetches public summary and entry contribution APIs', as
 
 test('contributor sync script derives safe identities from git history', async () => {
   const script = await readProjectFile('../scripts/sync-contributors.mjs');
+  const syncClient = await readProjectFile('../scripts/contributor-sync-client.mjs');
   const history = await readProjectFile('../scripts/contributor-history.mjs');
   const packageJson = JSON.parse(await readProjectFile('../package.json'));
 
@@ -50,7 +51,7 @@ test('contributor sync script derives safe identities from git history', async (
   assert.match(history, /users\\\.noreply\\\.github\\\.com/);
   assert.match(history, /https:\/\/github\.com\/\$\{githubLogin\}\.png\?size=96/);
   assert.match(history, /emailHash/);
-  assert.match(script, /api\/admin\/contributors\/sync/);
+  assert.match(syncClient, /api\/admin\/contributors\/sync/);
   assert.doesNotMatch(`${script}\n${history}`, /email:\s*authorEmail/);
 });
 
@@ -314,12 +315,36 @@ test('GitHub identity resolver enriches contributors, caches commits, and falls 
 test('contributor sync submits an enriched replacement snapshot', async () => {
   const script = await readProjectFile('../scripts/sync-contributors.mjs');
   assert.match(script, /createGithubIdentityResolver/);
-  assert.match(script, /replaceSource:\s*true/);
+  assert.match(script, /gitOutputMaxBuffer\s*=\s*64\s*\*\s*1024\s*\*\s*1024/);
+  assert.match(script, /maxBuffer:\s*gitOutputMaxBuffer/);
+  assert.match(script, /syncContributionEvents/);
   assert.match(script, /GITHUB_TOKEN/);
   assert.match(script, /GITHUB_REPOSITORY/);
   assert.match(script, /identityEnriched/);
-  assert.match(script, /API limit is 1000/);
-  assert.match(script, /accepted.*events\.length/);
+});
+
+test('contributor sync batches large snapshots and replaces the source only once', async () => {
+  const { syncContributionEvents, CONTRIBUTOR_SYNC_BATCH_SIZE } = await import('../scripts/contributor-sync-client.mjs');
+  const events = Array.from({ length: 2_005 }, (_, index) => ({ id: index }));
+  const requests = [];
+  const result = await syncContributionEvents({
+    apiBase: 'https://example.com',
+    syncToken: 'sync-token',
+    events,
+    fetchImpl: async (url, options) => {
+      const body = JSON.parse(options.body);
+      requests.push({ url: String(url), options, body });
+      return { ok: true, json: async () => ({ accepted: body.events.length }) };
+    },
+  });
+
+  assert.equal(CONTRIBUTOR_SYNC_BATCH_SIZE, 1000);
+  assert.deepEqual(requests.map(({ body }) => body.events.length), [1000, 1000, 5]);
+  assert.deepEqual(requests.map(({ body }) => body.replaceSource), [true, false, false]);
+  assert.equal(requests.every(({ body }) => body.source === 'git-history'), true);
+  assert.equal(requests.every(({ options }) => options.headers.Authorization === 'Bearer sync-token'), true);
+  assert.equal(requests.every(({ url }) => url === 'https://example.com/api/admin/contributors/sync'), true);
+  assert.deepEqual(result, { accepted: 2005, batches: 3 });
 });
 
 test('GitHub identity resolver falls back to the associated pull request author', async () => {

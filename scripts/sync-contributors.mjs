@@ -1,5 +1,6 @@
 import { execFileSync } from 'node:child_process';
 import { collectContributionEvents } from './contributor-history.mjs';
+import { syncContributionEvents } from './contributor-sync-client.mjs';
 import { createGithubIdentityResolver } from './github-contributor-identity.mjs';
 
 const apiBase = process.env.CONTRIBUTORS_API_BASE || process.env.PUBLIC_AI_OBSERVER_API_BASE;
@@ -10,9 +11,14 @@ const commitBaseUrl = process.env.CONTRIBUTORS_COMMIT_BASE_URL || 'https://githu
 const backendRepositoryPath = process.env.CONTRIBUTORS_BACKEND_REPO_PATH || '';
 const backendGithubRepository = process.env.CONTRIBUTORS_BACKEND_GITHUB_REPOSITORY || '';
 const backendCommitBaseUrl = process.env.CONTRIBUTORS_BACKEND_COMMIT_BASE_URL || '';
+const gitOutputMaxBuffer = 64 * 1024 * 1024;
 
 function runGit(args, cwd = '.') {
-  return execFileSync('git', args, { cwd, encoding: 'utf8' });
+  return execFileSync('git', args, {
+    cwd,
+    encoding: 'utf8',
+    maxBuffer: gitOutputMaxBuffer,
+  });
 }
 
 function collectRepositoryEvents({ cwd = '.', repository = 'site', githubRepositoryName = '', baseUrl = commitBaseUrl }) {
@@ -49,9 +55,6 @@ async function main() {
   }
 
   const collectedEvents = collectEvents();
-  if (collectedEvents.length > 1000) {
-    throw new Error(`Contributor sync produced ${collectedEvents.length} events; API limit is 1000.`);
-  }
   const identityResolvers = new Map();
   const resolverFor = (repository) => {
     if (!identityResolvers.has(repository)) {
@@ -67,28 +70,9 @@ async function main() {
     if (resolved.contributor.id !== fallback.contributor.id) identityEnriched += 1;
     return { ...publicEvent, ...resolved };
   }));
-  const response = await fetch(new URL('/api/admin/contributors/sync', apiBase), {
-    method: 'POST',
-    headers: {
-      Authorization: `Bearer ${syncToken}`,
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify({
-      source: 'git-history',
-      replaceSource: true,
-      events,
-    }),
-  });
-
-  const body = await response.json().catch(() => ({}));
-  if (!response.ok) {
-    throw new Error(`Contributor sync failed with ${response.status}: ${JSON.stringify(body)}`);
-  }
-  if (Number(body.accepted) !== events.length) {
-    throw new Error(`Contributor sync accepted ${body.accepted ?? 0} of ${events.length} events.`);
-  }
-
-  console.log(`Synced ${body.accepted ?? events.length} contribution events from ${body.contributors ?? 0} contributors; ${identityEnriched} events enriched by GitHub.`);
+  const result = await syncContributionEvents({ apiBase, syncToken, events });
+  const contributors = new Set(events.map((event) => event.contributor.id)).size;
+  console.log(`Synced ${result.accepted} contribution events from ${contributors} contributors in ${result.batches} batches; ${identityEnriched} events enriched by GitHub.`);
 }
 
 main().catch((error) => {
