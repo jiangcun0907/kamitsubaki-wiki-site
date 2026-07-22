@@ -8,7 +8,7 @@
 @import "katex/dist/katex.min.css";
 
 @theme {
-  --font-sans: "Noto Sans SC", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", system-ui, sans-serif;
+  --font-sans: Montserrat, "Noto Sans SC", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", system-ui, sans-serif;
   --font-serif: "Noto Serif SC", "Songti SC", STSong, SimSun, serif;
   --font-mono: SFMono-Regular, Consolas, "Liberation Mono", "Courier New", "Noto Sans SC", "PingFang SC", monospace;
   --color-kamiblack: #0a0a0a;
@@ -90,13 +90,13 @@ html[data-theme='light'] [class*='text-amber-'] {
 }
 
 :lang(zh) {
-  --font-sans: "Noto Sans SC", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", system-ui, sans-serif;
+  --font-sans: Montserrat, "Noto Sans SC", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", system-ui, sans-serif;
   --font-serif: "Noto Serif SC", "Songti SC", STSong, SimSun, serif;
   --font-mono: SFMono-Regular, Consolas, "Liberation Mono", "Courier New", "Noto Sans SC", "PingFang SC", monospace;
 }
 
 :lang(ja) {
-  --font-sans: "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Yu Gothic", YuGothic, Meiryo, system-ui, sans-serif;
+  --font-sans: Montserrat, "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Yu Gothic", YuGothic, Meiryo, system-ui, sans-serif;
   --font-serif: "Shippori Mincho", "Noto Serif JP", "Hiragino Mincho ProN", "Yu Mincho", YuMincho, serif;
   --font-mono: SFMono-Regular, Consolas, "Liberation Mono", "Courier New", "Noto Sans JP", "Hiragino Kaku Gothic ProN", monospace;
 }

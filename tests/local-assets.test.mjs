@@ -20,6 +20,8 @@ test('localized typography uses complete real weights without synthetic bold', a
   assert.match(stylesheet, /:lang\(zh\)[\s\S]*Noto Sans SC/);
   assert.match(stylesheet, /:lang\(ja\)[\s\S]*Noto Sans JP/);
   assert.match(stylesheet, /:lang\(en\)[\s\S]*Montserrat/);
+  assert.match(stylesheet, /:lang\(zh\)\s*\{\s*--font-sans:\s*Montserrat,\s*"Noto Sans SC"/);
+  assert.match(stylesheet, /:lang\(ja\)\s*\{\s*--font-sans:\s*Montserrat,\s*"Noto Sans JP"/);
   assert.match(stylesheet, /font-synthesis:\s*none/);
   assert.match(stylesheet, /b,\s*\nstrong\s*\{\s*\n\s*font-weight:\s*600/);
 });
