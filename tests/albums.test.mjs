@@ -108,6 +108,7 @@ test('song and album catalog cards remove their image mask in light mode', async
     assert.match(source, new RegExp(`html\\[data-theme='light'\\]\\) \\.${className} \\.catalog-card__mask\\s*\\{[\\s\\S]*display: none;`));
     assert.doesNotMatch(source, new RegExp(`html\\[data-theme='light'\\]\\) \\.${className},[\\s\\S]*background-color: #14171a`));
   }
+  assert.match(songCatalog, /artist-card:hover img,[\s\S]*opacity: 1;[\s\S]*filter: none;/);
   assert.match(albumCatalog, /album-artist-card:hover img,[\s\S]*opacity: 1;[\s\S]*filter: none;/);
 });
 

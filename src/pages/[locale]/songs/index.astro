@@ -126,6 +126,13 @@ const copy = {
     display: none;
   }
 
+  :global(html[data-theme='light']) .artist-card img,
+  :global(html[data-theme='light']) .artist-card:hover img,
+  :global(html[data-theme='light']) .artist-card:focus-visible img {
+    opacity: 1;
+    filter: none;
+  }
+
   @media (prefers-reduced-motion: reduce) {
     .artist-card img,
     .artist-card::after {
