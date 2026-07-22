@@ -34,14 +34,12 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [00:35.54]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>まだ<rt class="roma">mada</rt></ruby> <ruby>わたし<rt class="roma">watashi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby>
 </div>
 <div class="trans-lyric">You have yet to hear my voice</div>
-<div class="trans-lyric">You have yet to hear my voice</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:45.78]<ruby>聞<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">You've never heard it</div>
 <div class="trans-lyric">You've never heard it</div>
 </div>
 
@@ -50,14 +48,12 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [00:52.43]<ruby>こんなに<rt class="roma">konnani</rt></ruby><ruby>たくさん<rt class="roma">takusan</rt></ruby>
 </div>
 <div class="trans-lyric">So many</div>
-<div class="trans-lyric">So many</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:01.02]<ruby>いる<rt class="roma">iru</rt></ruby><ruby>はず<rt class="roma">hazu</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="trans-lyric">There can't be that many, can there?</div>
 <div class="trans-lyric">There can't be that many, can there?</div>
 </div>
 
@@ -134,7 +130,6 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 <div class="jp-lyric">
 [01:44.41]<ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ほしい<rt class="roma">hoshii</rt></ruby><ruby>花<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
-<div class="trans-lyric">Because I'm not a flower you'd want to see.</div>
 <div class="trans-lyric">Because I'm not a flower you'd want to see.</div>
 </div>
 
@@ -273,9 +268,6 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 <div class="jp-lyric">
 [04:23.74]<ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>だろ<rt class="roma">daro</rt></ruby> <ruby>誤魔化<rt class="furi">ごまか</rt><rt class="roma">gomaka</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">You can see it, don't deceive.</div>
-<div class="trans-lyric">You can see it, don't deceive.</div>
-<div class="trans-lyric">You can see it, don't deceive.</div>
 <div class="trans-lyric">You can see it, don't deceive.</div>
 </div>
 

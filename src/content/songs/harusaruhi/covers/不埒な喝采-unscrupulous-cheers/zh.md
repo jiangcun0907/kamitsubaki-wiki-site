@@ -36,7 +36,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [00:02.54]<ruby>炎<rt class="furi">ほのお</rt><rt class="roma">honoo</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>蟠<rt class="furi">わだかま</rt><rt class="roma">wadakama</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>灰<rt class="furi">はい</rt><rt class="roma">hai</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[00:02.54]若想见火焰，就将心结化为灰烬</div>
-<div class="cn-lyric">[00:02.54]若想见火焰，就将心结化为灰烬</div>
 </div>
 
 <div class="lyric-line">
@@ -79,15 +78,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [00:25.12]<ruby>紛い物<rt class="furi">まがいもの</rt><rt class="roma">magaimono</rt></ruby><ruby>だった<rt class="roma">datta</rt></ruby><ruby>不埒<rt class="furi">ふらち</rt><rt class="roma">furachi</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>喝采<rt class="furi">かっさい</rt><rt class="roma">kassai</rt></ruby>
 </div>
 <div class="cn-lyric">[00:25.12]曾是赝品的无礼喝彩</div>
-<div class="cn-lyric">[00:25.12]曾是赝品的无礼喝彩</div>
-<div class="cn-lyric">[00:25.12]曾是赝品的无礼喝彩</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:28.15]<ruby>淀<rt class="furi">よど</rt><rt class="roma">yodo</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>溶<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>かし<rt class="roma">kashi</rt></ruby><ruby>込<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>ゆけ<rt class="roma">yuke</rt></ruby>
 </div>
-<div class="cn-lyric">[00:28.15]将淤塞溶解而去吧</div>
 <div class="cn-lyric">[00:28.15]将淤塞溶解而去吧</div>
 </div>
 
@@ -96,14 +92,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [00:31.28]<ruby>今更<rt class="furi">いまさら</rt><rt class="roma">imasara</rt></ruby><ruby>だろ<rt class="roma">daro</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>皮肉<rt class="furi">ひにく</rt><rt class="roma">hiniku</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>もの<rt class="roma">mono</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby>
 </div>
 <div class="cn-lyric">[00:31.28]事到如今真是讽刺啊</div>
-<div class="cn-lyric">[00:31.28]事到如今真是讽刺啊</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:34.28]<ruby>この<rt class="roma">kono</rt></ruby><ruby>場所<rt class="furi">ばしょ</rt><rt class="roma">basho</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>もう<rt class="roma">mou</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="cn-lyric">[00:34.28]已经不在这里了</div>
 <div class="cn-lyric">[00:34.28]已经不在这里了</div>
 </div>
 
@@ -112,8 +106,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [00:37.60]<ruby>い<rt class="roma">i</rt></ruby><ruby>ちゃ<rt class="roma">cha</rt></ruby><ruby>いけ<rt class="roma">ike</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="cn-lyric">[00:37.60]不能在这里</div>
-<div class="cn-lyric">[00:37.60]不能在这里</div>
-<div class="cn-lyric">[00:37.60]不能在这里</div>
 </div>
 
 <div class="lyric-line">
@@ -121,14 +113,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [00:38.97]<ruby>いけ<rt class="roma">ike</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> <ruby>いけ<rt class="roma">ike</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="cn-lyric">[00:38.97]不行 不行</div>
-<div class="cn-lyric">[00:38.97]不行 不行</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:40.64]<ruby>いけ<rt class="roma">ike</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> deny
 </div>
-<div class="cn-lyric">[00:40.64]不行 拒绝</div>
 <div class="cn-lyric">[00:40.64]不行 拒绝</div>
 </div>
 
@@ -212,7 +202,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 <div class="jp-lyric">
 [01:21.05]<ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="cn-lyric">[01:21.05]不是没有</div>
 <div class="cn-lyric">[01:21.05]不是没有</div>
 </div>
 

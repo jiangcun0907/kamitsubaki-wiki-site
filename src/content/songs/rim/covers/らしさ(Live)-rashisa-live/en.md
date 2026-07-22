@@ -36,7 +36,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:23.17]<ruby>自分<rt class="furi">じぶん</rt><rt class="roma">jibun</rt></ruby><ruby>らし<rt class="roma">rashi</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ってな<rt class="roma">ttena</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>？
 </div>
 <div class="trans-lyric">What is being myself?</div>
-<div class="trans-lyric">What is being myself?</div>
 </div>
 
 <div class="lyric-line">
@@ -136,7 +135,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [01:02.66]<ruby>でも<rt class="roma">demo</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby> <ruby>それでも<rt class="roma">soredemo</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
 <div class="trans-lyric">But you know, even so</div>
-<div class="trans-lyric">But you know, even so</div>
 </div>
 
 <div class="lyric-line">
@@ -153,14 +151,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [01:11.38]<ruby>だから<rt class="roma">dakara</rt></ruby> <ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>らしく<rt class="roma">rashiku</rt></ruby>
 </div>
 <div class="trans-lyric">So I, as myself</div>
-<div class="trans-lyric">So I, as myself</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:13.96]<ruby>そして<rt class="roma">soshite</rt></ruby> <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>らしくって<rt class="roma">rashikutte</rt></ruby>
 </div>
-<div class="trans-lyric">And you, as yourself</div>
 <div class="trans-lyric">And you, as yourself</div>
 </div>
 
@@ -169,14 +165,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [01:16.47]<ruby>始<rt class="furi">はじ</rt><rt class="roma">haji</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby> <ruby>探<rt class="furi">さが</rt><rt class="roma">saga</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
 <div class="trans-lyric">From the beginning, as if searching</div>
-<div class="trans-lyric">From the beginning, as if searching</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:19.56]<ruby>もの<rt class="roma">mono</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>思<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
-<div class="trans-lyric">I think it's not that kind of thing</div>
 <div class="trans-lyric">I think it's not that kind of thing</div>
 </div>
 
@@ -185,14 +179,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [01:22.62]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby>
 </div>
 <div class="trans-lyric">I am not you</div>
-<div class="trans-lyric">I am not you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:25.32]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
-<div class="trans-lyric">And you are not me</div>
 <div class="trans-lyric">And you are not me</div>
 </div>
 
@@ -201,14 +193,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [01:28.25]<ruby>すれ違<rt class="furi">すれちが</rt><rt class="roma">surechiga</rt></ruby><ruby>う<rt class="roma">u</rt></ruby> <ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>繋<rt class="furi">つな</rt><rt class="roma">tsuna</rt></ruby><ruby>ぐ<rt class="roma">gu</rt></ruby>
 </div>
 <div class="trans-lyric">We pass by, hold hands</div>
-<div class="trans-lyric">We pass by, hold hands</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:31.04]<ruby>そこ<rt class="roma">soko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby><ruby>生<rt class="furi">う</rt><rt class="roma">u</rt></ruby><ruby>まれる<rt class="roma">mareru</rt></ruby>
 </div>
-<div class="trans-lyric">Even love is born there</div>
 <div class="trans-lyric">Even love is born there</div>
 </div>
 
@@ -217,7 +207,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [01:33.78]<ruby>そういう<rt class="roma">souiu</rt></ruby><ruby>もん<rt class="roma">mon</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby>
 </div>
 <div class="trans-lyric">That's how it is</div>
-<div class="trans-lyric">That's how it is</div>
 </div>
 
 <div class="lyric-line">
@@ -225,14 +214,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [01:36.45]<ruby>自分<rt class="furi">じぶん</rt><rt class="roma">jibun</rt></ruby><ruby>らし<rt class="roma">rashi</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ってな<rt class="roma">ttena</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だろ<rt class="roma">daro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="trans-lyric">What is being oneself, I wonder</div>
-<div class="trans-lyric">What is being oneself, I wonder</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:39.49]<ruby>変<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>られ<rt class="roma">rare</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> <ruby>大切<rt class="furi">たいせつ</rt><rt class="roma">taisetsu</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ある<rt class="roma">aru</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
-<div class="trans-lyric">Because there are things we can't change that are precious</div>
 <div class="trans-lyric">Because there are things we can't change that are precious</div>
 </div>
 

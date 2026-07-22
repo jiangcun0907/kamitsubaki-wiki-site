@@ -92,14 +92,12 @@ Aber wir sind ja bloß Nazidreck vom rechten Rand
 Und wie könnt ihr euch noch im Spiegel anschauen
 </div>
 <div class="trans-lyric">And how can you still look at yourselves in the mirror</div>
-<div class="trans-lyric">And how can you still look at yourselves in the mirror</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Euch wundern, dass euch all die Menschen misstrauen?
 </div>
-<div class="trans-lyric">Wonder that all these people distrust you?</div>
 <div class="trans-lyric">Wonder that all these people distrust you?</div>
 </div>
 
@@ -108,14 +106,12 @@ Euch wundern, dass euch all die Menschen misstrauen?
 Längst vergessen, dass ihr dem Volke geschworen
 </div>
 <div class="trans-lyric">Long forgotten that you swore to the people</div>
-<div class="trans-lyric">Long forgotten that you swore to the people</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Von ihm abzuwenden jegliches Grauen?
 </div>
-<div class="trans-lyric">To avert all horrors from them?</div>
 <div class="trans-lyric">To avert all horrors from them?</div>
 </div>
 
@@ -124,14 +120,12 @@ Von ihm abzuwenden jegliches Grauen?
 Habt ihr kein Gewissen, kein Herz, keine Seele
 </div>
 <div class="trans-lyric">Have you no conscience, no heart, no soul</div>
-<div class="trans-lyric">Have you no conscience, no heart, no soul</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Keinen Anstand, nichts, das euch das Gefühl gäbe
 </div>
-<div class="trans-lyric">No decency, nothing that would give you the feeling</div>
 <div class="trans-lyric">No decency, nothing that would give you the feeling</div>
 </div>
 
@@ -140,14 +134,12 @@ Keinen Anstand, nichts, das euch das Gefühl gäbe
 Ein Teil zu sein des Landes eurer Vorväter
 </div>
 <div class="trans-lyric">To be a part of the land of your forefathers</div>
-<div class="trans-lyric">To be a part of the land of your forefathers</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Dann seid ihr für mich weiter nichts, nichts als Verräter!
 </div>
-<div class="trans-lyric">Then you are nothing more to me, nothing but traitors!</div>
 <div class="trans-lyric">Then you are nothing more to me, nothing but traitors!</div>
 </div>
 
@@ -265,8 +257,6 @@ Dann seid ihr für mich weiter nichts, nichts als Verräter!
 <div class="jp-lyric">
 Verräter! Verräter! Ihr miesen Schreibtischtäter!
 </div>
-<div class="trans-lyric">Traitors! Traitors! You lousy desk perpetrators!</div>
-<div class="trans-lyric">Traitors! Traitors! You lousy desk perpetrators!</div>
 <div class="trans-lyric">Traitors! Traitors! You lousy desk perpetrators!</div>
 </div>
 

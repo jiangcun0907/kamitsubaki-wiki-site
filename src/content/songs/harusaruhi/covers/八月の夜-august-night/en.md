@@ -36,7 +36,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [00:21.79]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>好<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ところ<rt class="roma">tokoro</rt></ruby>
 </div>
 <div class="trans-lyric">The things I like about you</div>
-<div class="trans-lyric">The things I like about you</div>
 </div>
 
 <div class="lyric-line">
@@ -90,15 +89,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [00:43.72]<ruby>さら<rt class="roma">sara</rt></ruby> <ruby>さら<rt class="roma">sara</rt></ruby> <ruby>さら<rt class="roma">sara</rt></ruby> <ruby>さら<rt class="roma">sara</rt></ruby> <ruby>なびく<rt class="roma">nabiku</rt></ruby><ruby>ふたり<rt class="roma">futari</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="trans-lyric">Swaying, swaying, swaying, swaying, the two of us fluttering</div>
-<div class="trans-lyric">Swaying, swaying, swaying, swaying, the two of us fluttering</div>
-<div class="trans-lyric">Swaying, swaying, swaying, swaying, the two of us fluttering</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:48.77]<ruby>まだ<rt class="roma">mada</rt></ruby> <ruby>まだ<rt class="roma">mada</rt></ruby> <ruby>まだ<rt class="roma">mada</rt></ruby> <ruby>まだ<rt class="roma">mada</rt></ruby> <ruby>微妙<rt class="furi">びみょう</rt><rt class="roma">bimyou</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>距離<rt class="furi">きょり</rt><rt class="roma">kyori</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
-<div class="trans-lyric">Still, still, still, still, the delicate distance too</div>
 <div class="trans-lyric">Still, still, still, still, the delicate distance too</div>
 </div>
 
@@ -107,8 +103,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [00:53.88]<ruby>ゆら<rt class="roma">yura</rt></ruby> <ruby>ゆら<rt class="roma">yura</rt></ruby> <ruby>ゆら<rt class="roma">yura</rt></ruby> <ruby>ゆら<rt class="roma">yura</rt></ruby> <ruby>揺<rt class="furi">ゆ</rt><rt class="roma">yu</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby><ruby>気持<rt class="furi">きも</rt><rt class="roma">kimo</rt></ruby><ruby>ち<rt class="roma">chi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="trans-lyric">Flickering, flickering, flickering, flickering, our wavering feelings</div>
-<div class="trans-lyric">Flickering, flickering, flickering, flickering, our wavering feelings</div>
-<div class="trans-lyric">Flickering, flickering, flickering, flickering, our wavering feelings</div>
 </div>
 
 <div class="lyric-line">
@@ -116,16 +110,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [00:56.90]<ruby>微<rt class="furi">かす</rt><rt class="roma">kasu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>指先<rt class="furi">ゆびさき</rt><rt class="roma">yubisaki</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">My fingertips faintly toward you</div>
-<div class="trans-lyric">My fingertips faintly toward you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:59.64]<ruby>振<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby> <ruby>触<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby> <ruby>溢<rt class="furi">あふ</rt><rt class="roma">afu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>重<rt class="furi">かさ</rt><rt class="roma">kasa</rt></ruby><ruby>なる<rt class="roma">naru</rt></ruby>
 </div>
-<div class="trans-lyric">Brush, touch, overflow and overlap</div>
-<div class="trans-lyric">Brush, touch, overflow and overlap</div>
-<div class="trans-lyric">Brush, touch, overflow and overlap</div>
 <div class="trans-lyric">Brush, touch, overflow and overlap</div>
 </div>
 
@@ -135,8 +125,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 <div class="jp-lyric">
 [01:01.81]<ruby>八月<rt class="furi">はちがつ</rt><rt class="roma">hachigatsu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby> <ruby>募<rt class="furi">つの</rt><rt class="roma">tsuno</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby> I love you
 </div>
-<div class="trans-lyric">August night, growing I love you</div>
-<div class="trans-lyric">August night, growing I love you</div>
 <div class="trans-lyric">August night, growing I love you</div>
 </div>
 
@@ -152,7 +140,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [01:07.66]（<ruby>また<rt class="roma">mata</rt></ruby><ruby>次<rt class="furi">つぎ</rt><rt class="roma">tsugi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>）<ruby>また<rt class="roma">mata</rt></ruby><ruby>次<rt class="furi">つぎ</rt><rt class="roma">tsugi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="trans-lyric">(Next time) next time</div>
-<div class="trans-lyric">(Next time) next time</div>
 </div>
 
 <div class="lyric-line">
@@ -160,15 +147,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [01:09.87]<ruby>どうにか<rt class="roma">dounika</rt></ruby><ruby>作<rt class="furi">つく</rt><rt class="roma">tsuku</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>いたん<rt class="roma">itan</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="trans-lyric">I was somehow creating it</div>
-<div class="trans-lyric">I was somehow creating it</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:12.38]<ruby>少<rt class="furi">すこ</rt><rt class="roma">suko</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ずつ<rt class="roma">zutsu</rt></ruby><ruby>酔<rt class="furi">よ</rt><rt class="roma">yo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby> <ruby>ゆらり<rt class="roma">yurari</rt></ruby><ruby>漂<rt class="furi">ただよ</rt><rt class="roma">tadayo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="trans-lyric">Getting tipsy little by little, drifting gently</div>
-<div class="trans-lyric">Getting tipsy little by little, drifting gently</div>
 <div class="trans-lyric">Getting tipsy little by little, drifting gently</div>
 </div>
 
@@ -184,15 +168,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [01:17.60]（<ruby>また<rt class="roma">mata</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>）<ruby>また<rt class="roma">mata</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">(To you again) to you again</div>
-<div class="trans-lyric">(To you again) to you again</div>
-<div class="trans-lyric">(To you again) to you again</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:19.93]<ruby>会<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>理由<rt class="furi">りゆう</rt><rt class="roma">riyuu</rt></ruby><ruby>ずっと<rt class="roma">zutto</rt></ruby><ruby>探<rt class="furi">さが</rt><rt class="roma">saga</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
-<div class="trans-lyric">I've been searching for a reason to see you</div>
 <div class="trans-lyric">I've been searching for a reason to see you</div>
 </div>
 
@@ -371,7 +352,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [03:10.56]（<ruby>さら<rt class="roma">sara</rt></ruby> <ruby>さら<rt class="roma">sara</rt></ruby> <ruby>さら<rt class="roma">sara</rt></ruby> <ruby>さら<rt class="roma">sara</rt></ruby> <ruby>なびく<rt class="roma">nabiku</rt></ruby><ruby>ふたり<rt class="roma">futari</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>）
 </div>
 <div class="trans-lyric">(Swaying, swaying, swaying, swaying, the two of us fluttering)</div>
-<div class="trans-lyric">(Swaying, swaying, swaying, swaying, the two of us fluttering)</div>
 </div>
 
 <div class="lyric-line">
@@ -384,7 +364,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 <div class="jp-lyric">
 [03:20.77]（<ruby>まだ<rt class="roma">mada</rt></ruby> <ruby>まだ<rt class="roma">mada</rt></ruby> <ruby>まだ<rt class="roma">mada</rt></ruby> <ruby>まだ<rt class="roma">mada</rt></ruby> <ruby>微妙<rt class="furi">びみょう</rt><rt class="roma">bimyou</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>距離<rt class="furi">きょり</rt><rt class="roma">kyori</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>）
 </div>
-<div class="trans-lyric">(Still, still, still, still, the delicate distance too)</div>
 <div class="trans-lyric">(Still, still, still, still, the delicate distance too)</div>
 </div>
 

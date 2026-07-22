@@ -46,16 +46,12 @@ image: /images/songs/kaf/track-1882181555.jpg
 [00:03.27]<ruby>また<rt class="roma">mata</rt></ruby><ruby>会<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
 <div class="cn-lyric">[00:03.27]还想见你</div>
-<div class="cn-lyric">[00:03.27]还想见你</div>
-<div class="cn-lyric">[00:03.27]还想见你</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:07.63]<ruby>ねえ<rt class="roma">nee</rt></ruby><ruby>だから<rt class="roma">dakara</rt></ruby><ruby>彼方<rt class="furi">かなた</rt><rt class="roma">kanata</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>貴方<rt class="furi">あなた</rt><rt class="roma">anata</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="cn-lyric">[00:07.63]呐 所以我要向远方为你歌唱</div>
-<div class="cn-lyric">[00:07.63]呐 所以我要向远方为你歌唱</div>
 <div class="cn-lyric">[00:07.63]呐 所以我要向远方为你歌唱</div>
 </div>
 
@@ -71,16 +67,12 @@ image: /images/songs/kaf/track-1882181555.jpg
 [00:18.24]<ruby>ねえ<rt class="roma">nee</rt></ruby><ruby>教<rt class="furi">おし</rt><rt class="roma">oshi</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>どうして<rt class="roma">doushite</rt></ruby> <ruby>どうして<rt class="roma">doushite</rt></ruby>
 </div>
 <div class="cn-lyric">[00:18.24]呐 告诉我 为什么 为什么</div>
-<div class="cn-lyric">[00:18.24]呐 告诉我 为什么 为什么</div>
-<div class="cn-lyric">[00:18.24]呐 告诉我 为什么 为什么</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:23.91]<ruby>どうして<rt class="roma">doushite</rt></ruby>
 </div>
-<div class="cn-lyric">[00:23.91]为什么</div>
-<div class="cn-lyric">[00:23.91]为什么</div>
 <div class="cn-lyric">[00:23.91]为什么</div>
 </div>
 
@@ -145,7 +137,6 @@ image: /images/songs/kaf/track-1882181555.jpg
 [01:07.15]<ruby>ぼく<rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>壊<rt class="furi">こわ</rt><rt class="roma">kowa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby> <ruby>壊<rt class="furi">こわ</rt><rt class="roma">kowa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
 <div class="cn-lyric">[01:07.15]我坏掉了 是坏掉了吗</div>
-<div class="cn-lyric">[01:07.15]我坏掉了 是坏掉了吗</div>
 </div>
 
 <div class="lyric-line">
@@ -183,9 +174,6 @@ image: /images/songs/kaf/track-1882181555.jpg
 <div class="jp-lyric">
 [01:28.58]<ruby>どうして<rt class="roma">doushite</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
-<div class="cn-lyric">[01:28.58]为什么会这样</div>
-<div class="cn-lyric">[01:28.58]为什么会这样</div>
-<div class="cn-lyric">[01:28.58]为什么会这样</div>
 <div class="cn-lyric">[01:28.58]为什么会这样</div>
 </div>
 

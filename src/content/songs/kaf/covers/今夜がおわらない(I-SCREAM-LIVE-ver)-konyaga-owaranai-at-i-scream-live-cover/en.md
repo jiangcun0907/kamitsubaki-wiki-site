@@ -118,7 +118,7 @@ image: /images/albums/kaf/i-scream-live.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:14.40]<ruby>あーあ<rt class="roma">aaa</rt></ruby>
+<ruby>あーあ<rt class="roma">aaa</rt></ruby>
 </div>
 <div class="trans-lyric">Ah-ah</div>
 </div>
@@ -146,7 +146,7 @@ image: /images/albums/kaf/i-scream-live.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:03.56]<ruby>手放<rt class="furi">てばな</rt><rt class="roma">tebana</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
+<ruby>手放<rt class="furi">てばな</rt><rt class="roma">tebana</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="trans-lyric">Because I let go</div>
 </div>
@@ -177,9 +177,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 <ruby>なぁ<rt class="roma">naa</rt></ruby>
 </div>
 <div class="trans-lyric">Hey</div>
-<div class="trans-lyric">Hey</div>
-<div class="trans-lyric">Hey</div>
-<div class="trans-lyric">Hey</div>
 </div>
 
 <div class="lyric-line">
@@ -187,14 +184,12 @@ image: /images/albums/kaf/i-scream-live.jpg
 <ruby>そっと<rt class="roma">sotto</rt></ruby><ruby>触<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="trans-lyric">Even if I touch gently</div>
-<div class="trans-lyric">Even if I touch gently</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>壊<rt class="furi">こわ</rt><rt class="roma">kowa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>しまい<rt class="roma">shimai</rt></ruby><ruby>そう<rt class="roma">sou</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
-<div class="trans-lyric">It seems like it would break</div>
 <div class="trans-lyric">It seems like it would break</div>
 </div>
 
@@ -209,8 +204,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 <div class="jp-lyric">
 <ruby>なんで<rt class="roma">nande</rt></ruby>？
 </div>
-<div class="trans-lyric">Why?</div>
-<div class="trans-lyric">Why?</div>
 <div class="trans-lyric">Why?</div>
 </div>
 
@@ -272,7 +265,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 <ruby>壊<rt class="furi">こわ</rt><rt class="roma">kowa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ちゃう<rt class="roma">chau</rt></ruby><ruby>のに<rt class="roma">noni</rt></ruby>
 </div>
 <div class="trans-lyric">Even though it will break</div>
-<div class="trans-lyric">Break, even though</div>
 </div>
 
 <div class="lyric-line">
@@ -280,8 +272,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 <ruby>こわれ<rt class="roma">koware</rt></ruby><ruby>ちゃう<rt class="roma">chau</rt></ruby><ruby>のに<rt class="roma">noni</rt></ruby>
 </div>
 <div class="trans-lyric">Even though it will break</div>
-<div class="trans-lyric">Even though it will break</div>
-<div class="trans-lyric">Break, even though</div>
 </div>
 
 <div class="lyric-line">

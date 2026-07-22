@@ -36,7 +36,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [00:02.67]I'm on my way back home
 </div>
 <div class="cn-lyric">[00:02.67]我正在回家的路上</div>
-<div class="cn-lyric">[00:02.67]我正在回家的路上</div>
 </div>
 
 <div class="lyric-line">
@@ -64,9 +63,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 <div class="jp-lyric">
 [00:17.14]On my way back home
 </div>
-<div class="cn-lyric">[00:17.14]在回家的路上</div>
-<div class="cn-lyric">[00:17.14]在回家的路上</div>
-<div class="cn-lyric">[00:17.14]在回家的路上</div>
 <div class="cn-lyric">[00:17.14]在回家的路上</div>
 </div>
 
@@ -124,14 +120,12 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [01:00.63]수많은 차들이 지나가네
 </div>
 <div class="cn-lyric">[01:00.63]无数车辆驶过</div>
-<div class="cn-lyric">[01:00.63]无数车辆驶过</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:04.04]수많은 하루들을 싣고서
 </div>
-<div class="cn-lyric">[01:04.04]载着无数个日子</div>
 <div class="cn-lyric">[01:04.04]载着无数个日子</div>
 </div>
 
@@ -140,14 +134,12 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [01:08.18]How was your day
 </div>
 <div class="cn-lyric">[01:08.18]你今天过得怎么样</div>
-<div class="cn-lyric">[01:08.18]你今天过得怎么样</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:11.85]음음
 </div>
-<div class="cn-lyric">[01:11.85]嗯嗯</div>
 <div class="cn-lyric">[01:11.85]嗯嗯</div>
 </div>
 
@@ -156,14 +148,12 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [01:15.10]수많은 말들이 생각나네
 </div>
 <div class="cn-lyric">[01:15.10]想起无数的话语</div>
-<div class="cn-lyric">[01:15.10]想起无数的话语</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:18.55]수많은 침묵들뿐이지만
 </div>
-<div class="cn-lyric">[01:18.55]虽然只有无数的沉默</div>
 <div class="cn-lyric">[01:18.55]虽然只有无数的沉默</div>
 </div>
 
@@ -172,14 +162,12 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [01:21.79]But I gotta say
 </div>
 <div class="cn-lyric">[01:21.79]但我必须说</div>
-<div class="cn-lyric">[01:21.79]但我必须说</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:25.47]I gotta say
 </div>
-<div class="cn-lyric">[01:25.47]我不得不说</div>
 <div class="cn-lyric">[01:25.47]我不得不说</div>
 </div>
 
@@ -197,14 +185,12 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [01:33.28]수고했다고
 </div>
 <div class="cn-lyric">[01:33.28]辛苦了</div>
-<div class="cn-lyric">[01:33.28]辛苦了</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:36.80]더 잘 할 수 있었단 말로
 </div>
-<div class="cn-lyric">[01:36.80]用‘本可以做得更好’的话</div>
 <div class="cn-lyric">[01:36.80]用‘本可以做得更好’的话</div>
 </div>
 
@@ -213,14 +199,12 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [01:40.63]채찍질하지 마
 </div>
 <div class="cn-lyric">[01:40.63]别鞭策自己</div>
-<div class="cn-lyric">[01:40.63]别鞭策自己</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:42.97]I did a freaking good job
 </div>
-<div class="cn-lyric">[01:42.97]我做得真他妈的棒</div>
 <div class="cn-lyric">[01:42.97]我做得真他妈的棒</div>
 </div>
 
@@ -229,14 +213,12 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [01:47.76]이 정도면 뭐
 </div>
 <div class="cn-lyric">[01:47.76]这样也算不错</div>
-<div class="cn-lyric">[01:47.76]这样也算不错</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:50.36]편히 쉬어도 돼
 </div>
-<div class="cn-lyric">[01:50.36]可以安心休息了</div>
 <div class="cn-lyric">[01:50.36]可以安心休息了</div>
 </div>
 
@@ -245,19 +227,12 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [01:54.31]'Cause I
 </div>
 <div class="cn-lyric">[01:54.31]因为我</div>
-<div class="cn-lyric">[01:54.31]因为我</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:57.54]I did a good job
 </div>
-<div class="cn-lyric">[01:57.54]我做得很好</div>
-<div class="cn-lyric">[01:57.54]我做得很好</div>
-<div class="cn-lyric">[01:57.54]我做得很好</div>
-<div class="cn-lyric">[01:57.54]我做得很好</div>
-<div class="cn-lyric">[01:57.54]我做得很好</div>
-<div class="cn-lyric">[01:57.54]我做得很好</div>
 <div class="cn-lyric">[01:57.54]我做得很好</div>
 </div>
 

@@ -82,14 +82,12 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 [01:26.10]<ruby>きっと<rt class="roma">kitto</rt></ruby> <ruby>月<rt class="furi">つき</rt><rt class="roma">tsuki</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>光<rt class="furi">ひかり</rt><rt class="roma">hikari</rt></ruby><ruby>と<rt class="roma">to</rt></ruby> <ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>闇<rt class="furi">やみ</rt><rt class="roma">yami</rt></ruby><ruby>と<rt class="roma">to</rt></ruby>
 </div>
 <div class="cn-lyric">[01:26.10]定是 月光与夜色</div>
-<div class="cn-lyric">[01:26.10]定是 月光与夜色</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:34.43]<ruby>宙<rt class="furi">ちゅう</rt><rt class="roma">chuu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>舞<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>夜光虫<rt class="furi">やこうちゅう</rt><rt class="roma">yakouchuu</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby><ruby>と<rt class="roma">to</rt></ruby>
 </div>
-<div class="cn-lyric">[01:34.43]向着空中飞舞的夜光虫</div>
 <div class="cn-lyric">[01:34.43]向着空中飞舞的夜光虫</div>
 </div>
 
@@ -104,7 +102,6 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 <div class="jp-lyric">
 [01:45.36]<ruby>先<rt class="furi">さき</rt><rt class="roma">saki</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>つたい<rt class="roma">tsutai</rt></ruby><ruby>渡<rt class="furi">わた</rt><rt class="roma">wata</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>いこ<rt class="roma">iko</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="cn-lyric">[01:45.36]沿着其前端渡向前</div>
 <div class="cn-lyric">[01:45.36]沿着其前端渡向前</div>
 </div>
 
@@ -159,14 +156,12 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 [02:47.93]<ruby>取り残<rt class="furi">とりのこ</rt><rt class="roma">torinoko</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>瞳<rt class="furi">ひとみ</rt><rt class="roma">hitomi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="cn-lyric">[02:47.93]被遗留下的眼眸中</div>
-<div class="cn-lyric">[02:47.93]被遗留下的眼眸中</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [02:53.24]<ruby>銀<rt class="furi">ぎん</rt><rt class="roma">gin</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>光<rt class="furi">ひか</rt><rt class="roma">hika</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>涙<rt class="furi">なみだ</rt><rt class="roma">namida</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
-<div class="cn-lyric">[02:53.24]银色闪亮的泪珠</div>
 <div class="cn-lyric">[02:53.24]银色闪亮的泪珠</div>
 </div>
 

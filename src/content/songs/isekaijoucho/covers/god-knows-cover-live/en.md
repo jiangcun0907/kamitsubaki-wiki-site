@@ -96,14 +96,12 @@ Whatever happens, I am with you
 [01:07.93]I won't ever lose you
 </div>
 <div class="trans-lyric">I won't ever lose you</div>
-<div class="trans-lyric">I won't ever lose you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 All that remains in this world is trapped in pain and darkness
 </div>
-<div class="trans-lyric">All that remains in this world is trapped in pain and darkness</div>
 <div class="trans-lyric">All that remains in this world is trapped in pain and darkness</div>
 </div>
 
@@ -112,14 +110,12 @@ All that remains in this world is trapped in pain and darkness
 The light inside your heart will be true
 </div>
 <div class="trans-lyric">The light inside your heart will be true</div>
-<div class="trans-lyric">The light inside your heart will be true</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Beyond the future, we are searching
 </div>
-<div class="trans-lyric">Beyond the future, we are searching</div>
 <div class="trans-lyric">Beyond the future, we are searching</div>
 </div>
 
@@ -128,14 +124,12 @@ Beyond the future, we are searching
 Forever, we are praying nothing will ever betray our souls
 </div>
 <div class="trans-lyric">Forever, we are praying nothing will ever betray our souls</div>
-<div class="trans-lyric">Forever, we are praying nothing will ever betray our souls</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Believe in my way
 </div>
-<div class="trans-lyric">Believe in my way</div>
 <div class="trans-lyric">Believe in my way</div>
 </div>
 
@@ -150,7 +144,6 @@ We're living in this moment
 <div class="jp-lyric">
 Together in God's bless...
 </div>
-<div class="trans-lyric">Together in God's bless...</div>
 <div class="trans-lyric">Together in God's bless...</div>
 </div>
 

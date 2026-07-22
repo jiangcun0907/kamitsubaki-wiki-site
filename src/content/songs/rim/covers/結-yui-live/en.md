@@ -82,16 +82,12 @@ oh baby <ruby>解<rt class="furi">かい</rt><rt class="roma">kai</rt></ruby><ru
 oh how can I break through this
 </div>
 <div class="trans-lyric">oh how can I break through this</div>
-<div class="trans-lyric">oh how can I break through this</div>
-<div class="trans-lyric">oh how can I break through this</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>想<rt class="furi">そう</rt><rt class="roma">sou</rt></ruby><ruby>要<rt class="furi">よう</rt><rt class="roma">you</rt></ruby>妳<ruby>在<rt class="furi">ざい</rt><rt class="roma">zai</rt></ruby><ruby>我<rt class="furi">わが</rt><rt class="roma">waga</rt></ruby><ruby>身<rt class="furi">み</rt><rt class="roma">mi</rt></ruby>邊
 </div>
-<div class="trans-lyric">I want you by my side</div>
-<div class="trans-lyric">I want you by my side</div>
 <div class="trans-lyric">I want you by my side</div>
 </div>
 
@@ -100,16 +96,12 @@ oh how can I break through this
 <ruby>還<rt class="furi">かえ</rt><rt class="roma">kae</rt></ruby><ruby>有<rt class="furi">ゆう</rt><rt class="roma">yuu</rt></ruby><ruby>許多<rt class="furi">きょた</rt><rt class="roma">kyota</rt></ruby><ruby>美好<rt class="furi">みよし</rt><rt class="roma">miyoshi</rt></ruby><ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby><ruby>明天<rt class="furi">めいてん</rt><rt class="roma">meiten</rt></ruby>
 </div>
 <div class="trans-lyric">There are many beautiful tomorrows</div>
-<div class="trans-lyric">There are many beautiful tomorrows</div>
-<div class="trans-lyric">There are many beautiful tomorrows</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>想<rt class="furi">そう</rt><rt class="roma">sou</rt></ruby><ruby>與<rt class="furi">あたえ</rt><rt class="roma">atae</rt></ruby>妳 <ruby>分<rt class="furi">ぶん</rt><rt class="roma">bun</rt></ruby><ruby>享<rt class="furi">とおる</rt><rt class="roma">tooru</rt></ruby><ruby>生命<rt class="furi">せいめい</rt><rt class="roma">seimei</rt></ruby><ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby><ruby>下<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>頁<rt class="furi">ぺえじ</rt><rt class="roma">peeji</rt></ruby>
 </div>
-<div class="trans-lyric">Want to share the next page of life with you</div>
-<div class="trans-lyric">Want to share the next page of life with you</div>
 <div class="trans-lyric">Want to share the next page of life with you</div>
 </div>
 
@@ -127,8 +119,6 @@ oh I feel like I'm goin crazy
 <ruby>看<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>著<rt class="furi">ちょ</rt><rt class="roma">cho</rt></ruby>這<ruby>解<rt class="furi">かい</rt><rt class="roma">kai</rt></ruby><ruby>不<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>開<rt class="furi">ひらき</rt><rt class="roma">hiraki</rt></ruby><ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby><ruby>結<rt class="furi">ゆい</rt><rt class="roma">yui</rt></ruby>
 </div>
 <div class="trans-lyric">Watching this untieable knot</div>
-<div class="trans-lyric">Watching this untieable knot</div>
-<div class="trans-lyric">Watching this untieable knot</div>
 </div>
 
 <div class="lyric-line">
@@ -136,16 +126,12 @@ oh I feel like I'm goin crazy
 <ruby>無能<rt class="furi">むのう</rt><rt class="roma">munou</rt></ruby><ruby>為<rt class="furi">ため</rt><rt class="roma">tame</rt></ruby><ruby>力<rt class="furi">ちから</rt><rt class="roma">chikara</rt></ruby><ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby><ruby>我<rt class="furi">わが</rt><rt class="roma">waga</rt></ruby> <ruby>像<rt class="furi">ぞう</rt><rt class="roma">zou</rt></ruby><ruby>個<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>小<rt class="furi">しょう</rt><rt class="roma">shou</rt></ruby>孩
 </div>
 <div class="trans-lyric">Me, powerless, like a child</div>
-<div class="trans-lyric">Me, powerless, like a child</div>
-<div class="trans-lyric">Me, powerless, like a child</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>打<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>不<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>開<rt class="furi">ひらき</rt><rt class="roma">hiraki</rt></ruby> 掰<ruby>不<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby>壞 這<ruby>死<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>結<rt class="furi">ゆい</rt><rt class="roma">yui</rt></ruby>
 </div>
-<div class="trans-lyric">Can't open, can't break, this dead knot</div>
-<div class="trans-lyric">Can't open, can't break, this dead knot</div>
 <div class="trans-lyric">Can't open, can't break, this dead knot</div>
 </div>
 
@@ -257,7 +243,6 @@ oh how can I break through this
 <div class="jp-lyric">
 oh I feel like i'm goin crazy
 </div>
-<div class="trans-lyric">oh I feel like i'm goin crazy</div>
 <div class="trans-lyric">oh I feel like i'm goin crazy</div>
 </div>
 

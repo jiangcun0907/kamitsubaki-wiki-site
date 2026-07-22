@@ -148,7 +148,6 @@ image: /images/albums/rim/new-romancer-2.jpg
 [00:52.76]<ruby>あー<rt class="roma">aa</rt></ruby>！
 </div>
 <div class="cn-lyric">[00:52.76]啊—！</div>
-<div class="cn-lyric">[00:52.76]啊—！</div>
 </div>
 
 <div class="lyric-line">
@@ -239,7 +238,6 @@ image: /images/albums/rim/new-romancer-2.jpg
 <div class="jp-lyric">
 [01:45.62]<ruby>あの<rt class="roma">ano</rt></ruby><ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
-<div class="cn-lyric">[01:45.62]那片天空</div>
 <div class="cn-lyric">[01:45.62]那片天空</div>
 </div>
 

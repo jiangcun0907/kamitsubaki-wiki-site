@@ -127,8 +127,6 @@ image: /images/albums/harusaruhi/shinju.jpg
 [01:26.846]<ruby>拝啓<rt class="furi">はいけい</rt><rt class="roma">haikei</rt></ruby>、<ruby>貴方<rt class="furi">あなた</rt><rt class="roma">anata</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
 </div>
 <div class="trans-lyric">[01:26.846]Dear you,</div>
-<div class="trans-lyric">Dear you,</div>
-<div class="trans-lyric">Dear you,</div>
 </div>
 
 <div class="lyric-line">
@@ -136,7 +134,6 @@ image: /images/albums/harusaruhi/shinju.jpg
 [01:29.834]<ruby>どうか<rt class="roma">douka</rt></ruby><ruby>その<rt class="roma">sono</rt></ruby><ruby>眩<rt class="furi">まぶ</rt><rt class="roma">mabu</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby>
 </div>
 <div class="trans-lyric">[01:29.834]Please, that dazzling</div>
-<div class="trans-lyric">Please, that dazzling</div>
 </div>
 
 <div class="lyric-line">
@@ -144,7 +141,6 @@ image: /images/albums/harusaruhi/shinju.jpg
 [01:32.692]<ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>灯<rt class="furi">あかり</rt><rt class="roma">akari</rt></ruby> <ruby>冷<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>まさ<rt class="roma">masa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">[01:32.692]Don't let the light of your heart grow cold</div>
-<div class="trans-lyric">Don't let the light of your heart grow cold</div>
 </div>
 
 <div class="lyric-line">
@@ -152,7 +148,6 @@ image: /images/albums/harusaruhi/shinju.jpg
 [01:36.960]<ruby>繋<rt class="furi">つな</rt><rt class="roma">tsuna</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
 <div class="trans-lyric">[01:36.960]Link up and sing</div>
-<div class="trans-lyric">Link up and sing</div>
 </div>
 
 <div class="lyric-line">
@@ -160,7 +155,6 @@ image: /images/albums/harusaruhi/shinju.jpg
 [01:39.452]<ruby>別<rt class="furi">わか</rt><rt class="roma">waka</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>道<rt class="furi">みち</rt><rt class="roma">michi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>走<rt class="furi">はし</rt><rt class="roma">hashi</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
 <div class="trans-lyric">[01:39.452]Run upon separate paths</div>
-<div class="trans-lyric">Run upon separate paths</div>
 </div>
 
 <div class="lyric-line">
@@ -168,7 +162,6 @@ image: /images/albums/harusaruhi/shinju.jpg
 [01:43.153]<ruby>終点<rt class="furi">しゅうてん</rt><rt class="roma">shuuten</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>逢<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>日<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby>。
 </div>
 <div class="trans-lyric">[01:43.153]Until the day we meet at the terminus</div>
-<div class="trans-lyric">Until the day we meet at the terminus</div>
 </div>
 
 <div class="lyric-line">

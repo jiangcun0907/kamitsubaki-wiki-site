@@ -41,8 +41,6 @@ image: /images/songs/vwp/single-1688514156.jpg
 [00:11.34]No one can destroy this feeling
 </div>
 <div class="trans-lyric">No one can destroy this feeling</div>
-<div class="trans-lyric">No one can destroy this feeling</div>
-<div class="trans-lyric">No one can destroy this feeling</div>
 </div>
 
 <div class="lyric-line">
@@ -129,7 +127,6 @@ image: /images/songs/vwp/single-1688514156.jpg
 [01:16.80]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>達<rt class="furi">たち</rt><rt class="roma">tachi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>偽物<rt class="furi">にせもの</rt><rt class="roma">nisemono</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="trans-lyric">We are fakes</div>
-<div class="trans-lyric">We are fakes</div>
 </div>
 
 <br />
@@ -146,14 +143,12 @@ image: /images/songs/vwp/single-1688514156.jpg
 [01:24.68]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>探<rt class="furi">さが</rt><rt class="roma">saga</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">Searching for you</div>
-<div class="trans-lyric">Searching for you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:27.45]<ruby>これ<rt class="roma">kore</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>という<rt class="roma">toiu</rt></ruby><ruby>名前<rt class="furi">なまえ</rt><rt class="roma">namae</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なる<rt class="roma">naru</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
 </div>
-<div class="trans-lyric">If this can be called love</div>
 <div class="trans-lyric">If this can be called love</div>
 </div>
 

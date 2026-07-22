@@ -104,7 +104,6 @@ image: /images/songs/vwp/single-1864120511.jpg
 [00:39.09]<ruby>正真正銘<rt class="furi">しょうしんしょうめい</rt><rt class="roma">shoushinshoumei</rt></ruby> <ruby>これ<rt class="roma">kore</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>最後<rt class="furi">さいご</rt><rt class="roma">saigo</rt></ruby> <ruby>さあ<rt class="roma">saa</rt></ruby><ruby>始<rt class="furi">はじ</rt><rt class="roma">haji</rt></ruby><ruby>めよ<rt class="roma">meyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="cn-lyric">[00:39.09]千真万确 这是最后 那么开始吧</div>
-<div class="cn-lyric">[00:39.09]千真万确 这是最后 那么开始吧</div>
 </div>
 
 <div class="lyric-line">
@@ -118,10 +117,6 @@ image: /images/songs/vwp/single-1864120511.jpg
 <div class="jp-lyric">
 [00:44.09]（Shake it like a fate）
 </div>
-<div class="cn-lyric">[00:44.09]（Shake it like a fate）</div>
-<div class="cn-lyric">[00:44.09]（Shake it like a fate）</div>
-<div class="cn-lyric">[00:44.09]（Shake it like a fate）</div>
-<div class="cn-lyric">[00:44.09]（Shake it like a fate）</div>
 <div class="cn-lyric">[00:44.09]（Shake it like a fate）</div>
 </div>
 
@@ -143,14 +138,12 @@ image: /images/songs/vwp/single-1864120511.jpg
 [00:48.81]<ruby>狂<rt class="furi">くる</rt><rt class="roma">kuru</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>躁<ruby>に<rt class="roma">ni</rt></ruby><ruby>なって<rt class="roma">natte</rt></ruby> Always Trouble
 </div>
 <div class="cn-lyric">[00:48.81]疯狂又躁动 Always Trouble</div>
-<div class="cn-lyric">[00:48.81]疯狂又躁动 Always Trouble</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:51.15]（Fight it Fight it）
 </div>
-<div class="cn-lyric">[00:51.15]（Fight it Fight it）</div>
 <div class="cn-lyric">[00:51.15]（Fight it Fight it）</div>
 </div>
 
@@ -186,14 +179,12 @@ image: /images/songs/vwp/single-1864120511.jpg
 [01:05.65]All our sins grieve well
 </div>
 <div class="cn-lyric">[01:05.65]All our sins grieve well</div>
-<div class="cn-lyric">[01:05.65]All our sins grieve well</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:09.15]Everything alt
 </div>
-<div class="cn-lyric">[01:09.15]Everything alt</div>
 <div class="cn-lyric">[01:09.15]Everything alt</div>
 </div>
 
@@ -202,7 +193,6 @@ image: /images/songs/vwp/single-1864120511.jpg
 [01:12.40]We shoot for reason
 </div>
 <div class="cn-lyric">[01:12.40]We shoot for reason</div>
-<div class="cn-lyric">[01:12.40]We shoot for reason</div>
 </div>
 
 <div class="lyric-line">
@@ -210,14 +200,12 @@ image: /images/songs/vwp/single-1864120511.jpg
 [01:15.76]We can’t plaster fight, you
 </div>
 <div class="cn-lyric">[01:15.76]We can’t plaster fight, you</div>
-<div class="cn-lyric">[01:15.76]We can’t plaster fight, you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:19.79]<ruby>燃<rt class="furi">も</rt><rt class="roma">mo</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby> <ruby>鼓動<rt class="furi">こどう</rt><rt class="roma">kodou</rt></ruby> <ruby>叫<rt class="furi">さけ</rt><rt class="roma">sake</rt></ruby><ruby>ぶ<rt class="roma">bu</rt></ruby> <ruby>祈<rt class="furi">いの</rt><rt class="roma">ino</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby>
 </div>
-<div class="cn-lyric">[01:19.79]燃烧的 心跳 呐喊 祈祷</div>
 <div class="cn-lyric">[01:19.79]燃烧的 心跳 呐喊 祈祷</div>
 </div>
 

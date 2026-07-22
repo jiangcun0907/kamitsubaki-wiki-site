@@ -106,7 +106,6 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [00:51.030]<ruby>無<rt class="furi">む</rt><rt class="roma">mu</rt></ruby><ruby>感情<rt class="furi">かんじょう</rt><rt class="roma">kanjou</rt></ruby> <ruby>不安定<rt class="furi">ふあんてい</rt><rt class="roma">fuantei</rt></ruby> <ruby>反応<rt class="furi">はんのう</rt><rt class="roma">hannou</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>遭<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
 <div class="trans-lyric">[00:51.030]Emotionless, unstable, want to encounter a reaction</div>
-<div class="trans-lyric">Emotionless, unstable, want to encounter a reaction</div>
 </div>
 
 <div class="lyric-line">
@@ -114,7 +113,6 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [00:56.310]<ruby>最初<rt class="furi">さいしょ</rt><rt class="roma">saisho</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>メーデー<rt class="roma">meedee</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>、<ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>居場所<rt class="furi">いばしょ</rt><rt class="roma">ibasho</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>謳<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="trans-lyric">[00:56.310]On the first Mayday, I sing of the place I saw in a dream</div>
-<div class="trans-lyric">On the first Mayday, I sing of the place I saw in a dream</div>
 </div>
 
 <div class="lyric-line">

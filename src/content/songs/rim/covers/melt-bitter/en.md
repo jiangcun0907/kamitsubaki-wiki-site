@@ -52,7 +52,6 @@ melt bitter appears on CHOCOLATE LIVE or a related official release. Entries are
 [00:10.77]<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby> <ruby>愛<rt class="furi">いと</rt><rt class="roma">ito</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby>
 </div>
 <div class="trans-lyric">I love you, saying I love you</div>
-<div class="trans-lyric">I love you, saying I love you</div>
 </div>
 
 <div class="lyric-line">

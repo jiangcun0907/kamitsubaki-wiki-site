@@ -36,14 +36,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [00:16.80]Stay tune in <ruby>東京<rt class="furi">とうきょう</rt><rt class="roma">toukyou</rt></ruby> Friday night
 </div>
 <div class="cn-lyric">[00:16.80]Stay tune in 东京 Friday night</div>
-<div class="cn-lyric">[00:16.80]Stay tune in 东京 Friday night</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:24.63]Oh Good time <ruby>癒<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> like The “Dead rising” soon
 </div>
-<div class="cn-lyric">[00:24.63]Oh Good time 挥之不去 like The “Dead rising” soon</div>
 <div class="cn-lyric">[00:24.63]Oh Good time 挥之不去 like The “Dead rising” soon</div>
 </div>
 
@@ -72,8 +70,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 <div class="jp-lyric">
 [01:01.05]<ruby>うんざり<rt class="roma">unzari</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>もう<rt class="roma">mou</rt></ruby>
 </div>
-<div class="cn-lyric">[01:01.05]已经厌烦了</div>
-<div class="cn-lyric">[01:01.05]已经厌烦了</div>
 <div class="cn-lyric">[01:01.05]已经厌烦了</div>
 </div>
 
@@ -109,14 +105,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [01:18.52]<ruby>ブランド<rt class="roma">burando</rt></ruby><ruby>着<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby><ruby>やつ<rt class="roma">yatsu</rt></ruby> <ruby>もう<rt class="roma">mou</rt></ruby> Good night
 </div>
 <div class="cn-lyric">[01:18.52]穿着名牌的家伙 已经 Good night</div>
-<div class="cn-lyric">[01:18.52]穿着名牌的家伙 已经 Good night</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:22.62]M<ruby>で<rt class="roma">de</rt></ruby><ruby>待<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>ってる<rt class="roma">tteru</rt></ruby><ruby>やつ<rt class="roma">yatsu</rt></ruby> <ruby>もう<rt class="roma">mou</rt></ruby> Good night
 </div>
-<div class="cn-lyric">[01:22.62]在M等待的家伙 已经 Good night</div>
 <div class="cn-lyric">[01:22.62]在M等待的家伙 已经 Good night</div>
 </div>
 
@@ -125,14 +119,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [01:26.40]<ruby>頭<rt class="furi">あたま</rt><rt class="roma">atama</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>良<rt class="furi">よ</rt><rt class="roma">yo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>やつ<rt class="roma">yatsu</rt></ruby> <ruby>もう<rt class="roma">mou</rt></ruby> Good night
 </div>
 <div class="cn-lyric">[01:26.40]只有头脑好的家伙 已经 Good night</div>
-<div class="cn-lyric">[01:26.40]只有头脑好的家伙 已经 Good night</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:30.22]<ruby>広<rt class="furi">ひろ</rt><rt class="roma">hiro</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>浅<rt class="furi">あさ</rt><rt class="roma">asa</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>やつ<rt class="roma">yatsu</rt></ruby> <ruby>もう<rt class="roma">mou</rt></ruby> Good night
 </div>
-<div class="cn-lyric">[01:30.22]广而浅的家伙 已经 Good night</div>
 <div class="cn-lyric">[01:30.22]广而浅的家伙 已经 Good night</div>
 </div>
 
@@ -141,14 +133,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [01:34.87]23 Haunted now the time
 </div>
 <div class="cn-lyric">[01:34.87]23 Haunted now the time</div>
-<div class="cn-lyric">[01:34.87]23 Haunted now the time</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:42.62]“SAT” Scramble comin'
 </div>
-<div class="cn-lyric">[01:42.62]“SAT” Scramble comin'</div>
 <div class="cn-lyric">[01:42.62]“SAT” Scramble comin'</div>
 </div>
 

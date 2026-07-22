@@ -69,7 +69,6 @@ image: /images/albums/vwp/proliferation.jpg
 [00:16.59]Go knock, knock, knock
 </div>
 <div class="trans-lyric">Go knock, knock, knock</div>
-<div class="trans-lyric">Go knock, knock, knock</div>
 </div>
 
 <div class="lyric-line">
@@ -116,14 +115,12 @@ image: /images/albums/vwp/proliferation.jpg
 [00:32.18]<ruby>ねぇ<rt class="roma">nee</rt></ruby> <ruby>キミ<rt class="roma">kimi</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby>
 </div>
 <div class="trans-lyric">Hey, with you</div>
-<div class="trans-lyric">Hey, with you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:33.62]<ruby>感情<rt class="furi">かんじょう</rt><rt class="roma">kanjou</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>息<rt class="furi">いき</rt><rt class="roma">iki</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>追<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>いつけ<rt class="roma">itsuke</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="trans-lyric">My breath can't keep up with my emotions</div>
 <div class="trans-lyric">My breath can't keep up with my emotions</div>
 </div>
 
@@ -132,14 +129,12 @@ image: /images/albums/vwp/proliferation.jpg
 [00:38.27]<ruby>待<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> <ruby>だって<rt class="roma">datte</rt></ruby> <ruby>もう<rt class="roma">mou</rt></ruby><ruby>我慢<rt class="furi">がまん</rt><rt class="roma">gaman</rt></ruby><ruby>でき<rt class="roma">deki</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">Can't wait, I can't hold back anymore</div>
-<div class="trans-lyric">Can't wait, I can't hold back anymore</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:43.30]<ruby>報<rt class="furi">むく</rt><rt class="roma">muku</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>恋<rt class="furi">こい</rt><rt class="roma">koi</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby> <ruby>大嫌<rt class="furi">だいきら</rt><rt class="roma">daikira</rt></ruby><ruby>い<rt class="roma">i</rt></ruby>
 </div>
-<div class="trans-lyric">I hate unrequited love</div>
 <div class="trans-lyric">I hate unrequited love</div>
 </div>
 

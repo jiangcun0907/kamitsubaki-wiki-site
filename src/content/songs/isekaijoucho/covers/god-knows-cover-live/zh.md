@@ -96,14 +96,12 @@ Whatever happens, I am with you
 [01:07.93]I won't ever lose you
 </div>
 <div class="cn-lyric">[01:07.93]我永远不会失去你</div>
-<div class="cn-lyric">[01:07.93]我永远不会失去你</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 All that remains in this world is trapped in pain and darkness
 </div>
-<div class="cn-lyric">这世上残余的一切，被困于痛苦与黑暗</div>
 <div class="cn-lyric">这世上残余的一切，被困于痛苦与黑暗</div>
 </div>
 
@@ -112,14 +110,12 @@ All that remains in this world is trapped in pain and darkness
 The light inside your heart will be true
 </div>
 <div class="cn-lyric">你心中的光芒会真实不虚</div>
-<div class="cn-lyric">你心中的光芒会真实不虚</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Beyond the future, we are searching
 </div>
-<div class="cn-lyric">在未来之外，我们探寻着</div>
 <div class="cn-lyric">在未来之外，我们探寻着</div>
 </div>
 
@@ -128,14 +124,12 @@ Beyond the future, we are searching
 Forever, we are praying nothing will ever betray our souls
 </div>
 <div class="cn-lyric">永远，我们祈祷没有什么会背叛我们的灵魂</div>
-<div class="cn-lyric">永远，我们祈祷没有什么会背叛我们的灵魂</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Believe in my way
 </div>
-<div class="cn-lyric">相信我的道路</div>
 <div class="cn-lyric">相信我的道路</div>
 </div>
 
@@ -150,7 +144,6 @@ We're living in this moment
 <div class="jp-lyric">
 Together in God's bless...
 </div>
-<div class="cn-lyric">一同沐浴在神的祝福中...</div>
 <div class="cn-lyric">一同沐浴在神的祝福中...</div>
 </div>
 

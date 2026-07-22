@@ -36,13 +36,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [00:13.01]<ruby>グミ<rt class="roma">gumi</rt></ruby><ruby>超<rt class="furi">ちょう</rt><rt class="roma">chou</rt></ruby><ruby>うめ<rt class="roma">ume</rt></ruby><ruby>ぇ<rt class="roma">e</rt></ruby>
 </div>
 <div class="trans-lyric">Gummy is super delicious</div>
-<div class="trans-lyric">Gummy is super delicious</div>
-<div class="trans-lyric">Gummy is super delicious</div>
-<div class="trans-lyric">Gummy is super delicious</div>
-<div class="trans-lyric">Gummy is super delicious</div>
-<div class="trans-lyric">Gummy is super delicious</div>
-<div class="trans-lyric">Gummy is super delicious</div>
-<div class="trans-lyric">Gummy is super delicious</div>
 </div>
 
 <div class="lyric-line">
@@ -50,26 +43,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [00:14.25]<ruby>グミ<rt class="roma">gumi</rt></ruby> <ruby>グミ<rt class="roma">gumi</rt></ruby>
 </div>
 <div class="trans-lyric">Gummy gummy</div>
-<div class="trans-lyric">Gummy gummy</div>
-<div class="trans-lyric">Gummy gummy</div>
-<div class="trans-lyric">Gummy gummy</div>
-<div class="trans-lyric">Gummy gummy</div>
-<div class="trans-lyric">Gummy gummy</div>
-<div class="trans-lyric">Gummy gummy</div>
-<div class="trans-lyric">Gummy gummy</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:14.25]<ruby>マジ<rt class="roma">maji</rt></ruby><ruby>超<rt class="furi">ちょう</rt><rt class="roma">chou</rt></ruby><ruby>うめ<rt class="roma">ume</rt></ruby><ruby>ぇ<rt class="roma">e</rt></ruby>
 </div>
-<div class="trans-lyric">Seriously super delicious</div>
-<div class="trans-lyric">Seriously super delicious</div>
-<div class="trans-lyric">Seriously super delicious</div>
-<div class="trans-lyric">Seriously super delicious</div>
-<div class="trans-lyric">Seriously super delicious</div>
-<div class="trans-lyric">Seriously super delicious</div>
-<div class="trans-lyric">Seriously super delicious</div>
 <div class="trans-lyric">Seriously super delicious</div>
 </div>
 
@@ -132,14 +111,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [00:26.46]This is my favorite<ruby>な<rt class="roma">na</rt></ruby><ruby>アイドル<rt class="roma">aidoru</rt></ruby>
 </div>
 <div class="trans-lyric">This is my favorite idol</div>
-<div class="trans-lyric">This is my favorite idol</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:29.68]Colorful<ruby>に<rt class="roma">ni</rt></ruby><ruby>染<rt class="furi">そ</rt><rt class="roma">so</rt></ruby><ruby>まって<rt class="roma">matte</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>最高<rt class="furi">さいこう</rt><rt class="roma">saikou</rt></ruby>
 </div>
-<div class="trans-lyric">Dyeing colorfully, it's the best</div>
 <div class="trans-lyric">Dyeing colorfully, it's the best</div>
 </div>
 
@@ -148,16 +125,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [00:32.85]Pocket<ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>****in’<ruby>相棒<rt class="furi">あいぼう</rt><rt class="roma">aibou</rt></ruby>
 </div>
 <div class="trans-lyric">My ****in' partner in my pocket</div>
-<div class="trans-lyric">My ****in' partner in my pocket</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:35.40]<ruby>グミ<rt class="roma">gumi</rt></ruby>
 </div>
-<div class="trans-lyric">Gummy</div>
-<div class="trans-lyric">Gummy</div>
-<div class="trans-lyric">Gummy</div>
 <div class="trans-lyric">Gummy</div>
 </div>
 
@@ -166,14 +139,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 ****in’
 </div>
 <div class="trans-lyric">****in'</div>
-<div class="trans-lyric">****in'</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:35.40]<ruby>超<rt class="furi">ちょう</rt><rt class="roma">chou</rt></ruby><ruby>うめ<rt class="roma">ume</rt></ruby><ruby>ぇ<rt class="roma">e</rt></ruby>
 </div>
-<div class="trans-lyric">Super delicious</div>
 <div class="trans-lyric">Super delicious</div>
 </div>
 

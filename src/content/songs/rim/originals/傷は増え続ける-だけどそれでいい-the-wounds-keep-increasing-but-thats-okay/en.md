@@ -218,12 +218,6 @@ image: /images/albums/rim/imagine.jpg
 [00:48.20]I'll be fine I'm fine
 </div>
 <div class="trans-lyric">I'll be fine I'm fine</div>
-<div class="trans-lyric">I'll be fine I'm fine</div>
-<div class="trans-lyric">I'll be fine I'm fine</div>
-<div class="trans-lyric">I'll be fine I'm fine</div>
-<div class="trans-lyric">I'll be fine I'm fine</div>
-<div class="trans-lyric">I'll be fine I'm fine</div>
-<div class="trans-lyric">I'll be fine I'm fine</div>
 </div>
 
 <div class="lyric-line">
@@ -242,9 +236,6 @@ image: /images/albums/rim/imagine.jpg
 <div class="jp-lyric">
 [01:05.58]I'll be I'm ok
 </div>
-<div class="trans-lyric">I'll be I'm ok</div>
-<div class="trans-lyric">I'll be I'm ok</div>
-<div class="trans-lyric">I'll be I'm ok</div>
 <div class="trans-lyric">I'll be I'm ok</div>
 </div>
 

@@ -36,7 +36,6 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 హ హ హ హ హ హ హ హ
 </div>
 <div class="cn-lyric">哈 哈 哈 哈 哈 哈 哈 哈</div>
-<div class="cn-lyric">哈 哈 哈 哈 哈 哈 哈 哈</div>
 </div>
 
 <div class="lyric-line">
@@ -57,18 +56,12 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 rose rose rose rose రోజాపువ్వా
 </div>
 <div class="cn-lyric">玫瑰 玫瑰 玫瑰 玫瑰 玫瑰花</div>
-<div class="cn-lyric">玫瑰 玫瑰 玫瑰 玫瑰 玫瑰花</div>
-<div class="cn-lyric">玫瑰 玫瑰 玫瑰 玫瑰 玫瑰花</div>
-<div class="cn-lyric">玫瑰 玫瑰 玫瑰 玫瑰 玫瑰花</div>
-<div class="cn-lyric">玫瑰 玫瑰 玫瑰 玫瑰 玫瑰花</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 రోజాపువ్వా
 </div>
-<div class="cn-lyric">玫瑰花</div>
-<div class="cn-lyric">玫瑰花</div>
 <div class="cn-lyric">玫瑰花</div>
 </div>
 
@@ -77,8 +70,6 @@ rose rose rose rose రోజాపువ్వా
 పువ్వా పువ్వా
 </div>
 <div class="cn-lyric">花朵 花朵</div>
-<div class="cn-lyric">花朵 花朵</div>
-<div class="cn-lyric">花朵 花朵</div>
 </div>
 
 <div class="lyric-line">
@@ -86,19 +77,12 @@ rose rose rose rose రోజాపువ్వా
 రోజు రోజు రోజు రోజు పూస్తూ ఉన్న
 </div>
 <div class="cn-lyric">玫瑰 玫瑰 玫瑰 玫瑰 绽放着</div>
-<div class="cn-lyric">玫瑰 玫瑰 玫瑰 玫瑰 绽放着</div>
-<div class="cn-lyric">玫瑰 玫瑰 玫瑰 玫瑰 绽放着</div>
-<div class="cn-lyric">玫瑰 玫瑰 玫瑰 玫瑰 绽放着</div>
-<div class="cn-lyric">玫瑰 玫瑰 玫瑰 玫瑰 绽放着</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 పువ్వే నువ్వా
 </div>
-<div class="cn-lyric">花儿是你吗</div>
-<div class="cn-lyric">花儿是你吗</div>
-<div class="cn-lyric">花儿是你吗</div>
 <div class="cn-lyric">花儿是你吗</div>
 </div>
 
@@ -109,9 +93,6 @@ rose rose rose rose రోజాపువ్వా
 నవ్వే నువ్వా
 </div>
 <div class="cn-lyric">笑的是你吗</div>
-<div class="cn-lyric">笑的是你吗</div>
-<div class="cn-lyric">笑的是你吗</div>
-<div class="cn-lyric">笑的是你吗</div>
 </div>
 
 <div class="lyric-line">
@@ -119,14 +100,12 @@ rose rose rose rose రోజాపువ్వా
 రేకు విచ్చుకున్న సోకుబంధి పువ్వే నువ్వా
 </div>
 <div class="cn-lyric">绽开花瓣的含羞花 是你吗</div>
-<div class="cn-lyric">绽开花瓣的含羞花 是你吗</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 ముద్దు పెట్టకుండా ఘల్లు మంన మువ్వె నువ్వా
 </div>
-<div class="cn-lyric">没亲吻就叮咚响的铃铛 是你吗</div>
 <div class="cn-lyric">没亲吻就叮咚响的铃铛 是你吗</div>
 </div>
 
@@ -155,9 +134,6 @@ rose rose rose rose రోజాపువ్వా
 <div class="jp-lyric">
 పువ్వా
 </div>
-<div class="cn-lyric">花</div>
-<div class="cn-lyric">花</div>
-<div class="cn-lyric">花</div>
 <div class="cn-lyric">花</div>
 </div>
 
@@ -195,16 +171,12 @@ rose rose rose rose రోజాపువ్వా
 గులాబి గుః
 </div>
 <div class="cn-lyric">玫瑰 咕</div>
-<div class="cn-lyric">玫瑰 咕</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 గుః గుః
 </div>
-<div class="cn-lyric">咕 咕</div>
-<div class="cn-lyric">咕 咕</div>
-<div class="cn-lyric">咕 咕</div>
 <div class="cn-lyric">咕 咕</div>
 </div>
 
@@ -336,9 +308,6 @@ rose rose rose rose రోజాపువ్వా
 గులాబి
 </div>
 <div class="cn-lyric">玫瑰</div>
-<div class="cn-lyric">玫瑰</div>
-<div class="cn-lyric">玫瑰</div>
-<div class="cn-lyric">玫瑰</div>
 </div>
 
 <div class="lyric-line">
@@ -369,7 +338,6 @@ rose rose rose rose రోజాపువ్వా
 <div class="jp-lyric">
 గుః
 </div>
-<div class="cn-lyric">咕</div>
 <div class="cn-lyric">咕</div>
 </div>
 
@@ -472,7 +440,6 @@ rose rose rose rose రోజాపువ్వా
 <div class="jp-lyric">
 రోజాపువ్వా పువ్వా పువ్వా
 </div>
-<div class="cn-lyric">玫瑰花 花 花</div>
 <div class="cn-lyric">玫瑰花 花 花</div>
 </div>
 

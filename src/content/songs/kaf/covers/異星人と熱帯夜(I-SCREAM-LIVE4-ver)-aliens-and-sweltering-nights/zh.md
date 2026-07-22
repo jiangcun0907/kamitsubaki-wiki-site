@@ -34,14 +34,12 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 [00:34.41]<ruby>曖昧<rt class="furi">あいまい</rt><rt class="roma">aimai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>探<rt class="furi">さが</rt><rt class="roma">saga</rt></ruby><ruby>す<rt class="roma">su</rt></ruby> <ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>蜃気楼<rt class="furi">しんきろう</rt><rt class="roma">shinkirou</rt></ruby>
 </div>
 <div class="cn-lyric">[00:34.41]寻找暧昧的话语 心中的海市蜃楼</div>
-<div class="cn-lyric">[00:34.41]寻找暧昧的话语 心中的海市蜃楼</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:42.56]<ruby>今夜<rt class="furi">こんや</rt><rt class="roma">kon'ya</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>抜け出<rt class="furi">ぬけだ</rt><rt class="roma">nukeda</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>こ<rt class="roma">ko</rt></ruby><ruby>う<rt class="roma">u</rt></ruby> <ruby>ささやか<rt class="roma">sasayaka</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>逃避行<rt class="furi">とうひこう</rt><rt class="roma">touhikou</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby><ruby>と<rt class="roma">to</rt></ruby>
 </div>
-<div class="cn-lyric">[00:42.56]今晚就逃出去吧 开始小小的逃亡之旅</div>
 <div class="cn-lyric">[00:42.56]今晚就逃出去吧 开始小小的逃亡之旅</div>
 </div>
 

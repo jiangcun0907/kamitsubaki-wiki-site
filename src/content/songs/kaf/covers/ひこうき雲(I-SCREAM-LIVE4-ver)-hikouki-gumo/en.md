@@ -37,14 +37,12 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 Ashita moshi haretara
 </div>
 <div class="trans-lyric">If tomorrow is clear</div>
-<div class="trans-lyric">If tomorrow is clear</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Hikoukigumo zenbu atsumete
 </div>
-<div class="trans-lyric">Gather all the contrails</div>
 <div class="trans-lyric">Gather all the contrails</div>
 </div>
 
@@ -83,14 +81,12 @@ Afureru omoi to jiyuuna sono basho
 Egakidasu kokoro won ni takushite
 </div>
 <div class="trans-lyric">Entrusting the heart that paints to that place</div>
-<div class="trans-lyric">Entrusting the heart that paints to that place</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Todoke ni iku yo kimi ga iru machi ni
 </div>
-<div class="trans-lyric">I'll go deliver it to the town where you are</div>
 <div class="trans-lyric">I'll go deliver it to the town where you are</div>
 </div>
 
@@ -130,7 +126,6 @@ Yumemita keshiki wa mou touzakatte shimau
 <div class="jp-lyric">
 Bokura o tsunagu yo mugen ni hirogaru
 </div>
-<div class="trans-lyric">It connects us, endlessly expanding</div>
 <div class="trans-lyric">It connects us, endlessly expanding</div>
 </div>
 

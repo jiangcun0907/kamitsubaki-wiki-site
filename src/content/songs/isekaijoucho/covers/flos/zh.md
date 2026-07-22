@@ -31,18 +31,12 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 <ruby>沈丁花<rt class="furi">じんちょうげ</rt><rt class="roma">jinchouge</rt></ruby>
 </div>
 <div class="cn-lyric">瑞香</div>
-<div class="cn-lyric">瑞香</div>
-<div class="cn-lyric">瑞香</div>
-<div class="cn-lyric">瑞香</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>無花果<rt class="furi">いちじく</rt><rt class="roma">ichijiku</rt></ruby>
 </div>
-<div class="cn-lyric">无花果</div>
-<div class="cn-lyric">无花果</div>
-<div class="cn-lyric">无花果</div>
 <div class="cn-lyric">无花果</div>
 </div>
 
@@ -51,18 +45,12 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 <ruby>菖蒲<rt class="furi">しょうぶ</rt><rt class="roma">shoubu</rt></ruby>
 </div>
 <div class="cn-lyric">菖蒲</div>
-<div class="cn-lyric">菖蒲</div>
-<div class="cn-lyric">菖蒲</div>
-<div class="cn-lyric">菖蒲</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>犬<rt class="furi">いぬ</rt><rt class="roma">inu</rt></ruby><ruby>槐<rt class="furi">えんじゅ</rt><rt class="roma">enju</rt></ruby>
 </div>
-<div class="cn-lyric">犬槐</div>
-<div class="cn-lyric">犬槐</div>
-<div class="cn-lyric">犬槐</div>
 <div class="cn-lyric">犬槐</div>
 </div>
 
@@ -71,9 +59,6 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 <ruby>禊<rt class="furi">みそぎ</rt><rt class="roma">misogi</rt></ruby><ruby>萩<rt class="furi">はぎ</rt><rt class="roma">hagi</rt></ruby>
 </div>
 <div class="cn-lyric">禊萩</div>
-<div class="cn-lyric">禊萩</div>
-<div class="cn-lyric">禊萩</div>
-<div class="cn-lyric">禊萩</div>
 </div>
 
 <div class="lyric-line">
@@ -81,18 +66,12 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 <ruby>山桃<rt class="furi">やまもも</rt><rt class="roma">yamamomo</rt></ruby>
 </div>
 <div class="cn-lyric">山桃</div>
-<div class="cn-lyric">山桃</div>
-<div class="cn-lyric">山桃</div>
-<div class="cn-lyric">山桃</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 靑<ruby>葛<rt class="furi">かずら</rt><rt class="roma">kazura</rt></ruby>
 </div>
-<div class="cn-lyric">青葛</div>
-<div class="cn-lyric">青葛</div>
-<div class="cn-lyric">青葛</div>
 <div class="cn-lyric">青葛</div>
 </div>
 
@@ -102,7 +81,6 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 <div class="jp-lyric">
 Flos
 </div>
-<div class="cn-lyric">Flos</div>
 <div class="cn-lyric">Flos</div>
 </div>
 
@@ -201,16 +179,12 @@ Flos
 <ruby>伊吹<rt class="furi">いぶき</rt><rt class="roma">ibuki</rt></ruby><ruby>麝香<rt class="furi">じゃこう</rt><rt class="roma">jakou</rt></ruby><ruby>草<rt class="furi">くさ</rt><rt class="roma">kusa</rt></ruby>
 </div>
 <div class="cn-lyric">伊吹麝香草</div>
-<div class="cn-lyric">伊吹麝香草</div>
-<div class="cn-lyric">伊吹麝香草</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>酸<rt class="furi">さん</rt><rt class="roma">san</rt></ruby><ruby>塊<rt class="furi">かたまり</rt><rt class="roma">katamari</rt></ruby>
 </div>
-<div class="cn-lyric">酸块</div>
-<div class="cn-lyric">酸块</div>
 <div class="cn-lyric">酸块</div>
 </div>
 
@@ -219,16 +193,12 @@ Flos
 衝<ruby>羽根<rt class="furi">はね</rt><rt class="roma">hane</rt></ruby><ruby>空木<rt class="furi">うつぎ</rt><rt class="roma">utsugi</rt></ruby>
 </div>
 <div class="cn-lyric">衝羽根空木</div>
-<div class="cn-lyric">衝羽根空木</div>
-<div class="cn-lyric">衝羽根空木</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>麒麟<rt class="furi">きりん</rt><rt class="roma">kirin</rt></ruby><ruby>草<rt class="furi">くさ</rt><rt class="roma">kusa</rt></ruby>
 </div>
-<div class="cn-lyric">麒麟草</div>
-<div class="cn-lyric">麒麟草</div>
 <div class="cn-lyric">麒麟草</div>
 </div>
 
@@ -237,8 +207,6 @@ Flos
 <ruby>瑠璃<rt class="furi">るり</rt><rt class="roma">ruri</rt></ruby><ruby>雛菊<rt class="furi">ひなぎく</rt><rt class="roma">hinagiku</rt></ruby>
 </div>
 <div class="cn-lyric">琉璃雏菊</div>
-<div class="cn-lyric">琉璃雏菊</div>
-<div class="cn-lyric">琉璃雏菊</div>
 </div>
 
 <div class="lyric-line">
@@ -246,16 +214,12 @@ Flos
 <ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>鼠<rt class="furi">ねずみ</rt><rt class="roma">nezumi</rt></ruby><ruby>木<rt class="furi">き</rt><rt class="roma">ki</rt></ruby>
 </div>
 <div class="cn-lyric">梦鼠木</div>
-<div class="cn-lyric">梦鼠木</div>
-<div class="cn-lyric">梦鼠木</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>仙<rt class="furi">せん</rt><rt class="roma">sen</rt></ruby><ruby>翁<rt class="furi">おきな</rt><rt class="roma">okina</rt></ruby>
 </div>
-<div class="cn-lyric">仙翁</div>
-<div class="cn-lyric">仙翁</div>
 <div class="cn-lyric">仙翁</div>
 </div>
 
@@ -340,14 +304,12 @@ Flos
 <ruby>燻<rt class="furi">くすぶ</rt><rt class="roma">kusubu</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>日々<rt class="furi">ひび</rt><rt class="roma">hibi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>丁寧<rt class="furi">ていねい</rt><rt class="roma">teinei</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="cn-lyric">细心呵护熏染的日子</div>
-<div class="cn-lyric">细心呵护熏染的日子</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>飾<rt class="furi">かざ</rt><rt class="roma">kaza</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby><ruby>花<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>直<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>ぐ<rt class="roma">gu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>枯<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby>
 </div>
-<div class="cn-lyric">装饰的花很快凋零</div>
 <div class="cn-lyric">装饰的花很快凋零</div>
 </div>
 
@@ -356,14 +318,12 @@ Flos
 <ruby>愚鈍<rt class="furi">ぐどん</rt><rt class="roma">gudon</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>覚<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">愚笨的我从梦中醒来</div>
-<div class="cn-lyric">愚笨的我从梦中醒来</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>縋<rt class="furi">すが</rt><rt class="roma">suga</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby><ruby>意味<rt class="furi">いみ</rt><rt class="roma">imi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
-<div class="cn-lyric">依赖的意义也没有没有没有啊</div>
 <div class="cn-lyric">依赖的意义也没有没有没有啊</div>
 </div>
 

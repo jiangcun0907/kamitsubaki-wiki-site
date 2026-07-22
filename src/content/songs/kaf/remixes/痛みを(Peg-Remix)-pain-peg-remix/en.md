@@ -71,7 +71,6 @@ image: /images/albums/kaf/maho-gamma.jpg
 <ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby> <ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="trans-lyric">My, my</div>
-<div class="trans-lyric">My, my</div>
 </div>
 
 <div class="lyric-line">
@@ -94,9 +93,6 @@ image: /images/albums/kaf/maho-gamma.jpg
 <ruby>痛<rt class="furi">いた</rt><rt class="roma">ita</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="trans-lyric">Pain</div>
-<div class="trans-lyric">Pain</div>
-<div class="trans-lyric">Pain</div>
-<div class="trans-lyric">Pain</div>
 </div>
 
 <div class="lyric-line">
@@ -109,7 +105,6 @@ image: /images/albums/kaf/maho-gamma.jpg
 <div class="jp-lyric">
 <ruby>痛<rt class="furi">いた</rt><rt class="roma">ita</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>駆<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>ける<rt class="roma">keru</rt></ruby>
 </div>
-<div class="trans-lyric">Run through the pain</div>
 <div class="trans-lyric">Run through the pain</div>
 </div>
 
@@ -124,7 +119,6 @@ image: /images/albums/kaf/maho-gamma.jpg
 <div class="jp-lyric">
 <ruby>答<rt class="furi">こた</rt><rt class="roma">kota</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
-<div class="trans-lyric">Answers</div>
 <div class="trans-lyric">Answers</div>
 </div>
 
@@ -148,7 +142,6 @@ image: /images/albums/kaf/maho-gamma.jpg
 <ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>きる<rt class="roma">kiru</rt></ruby><ruby>意味<rt class="furi">いみ</rt><rt class="roma">imi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>探<rt class="furi">さが</rt><rt class="roma">saga</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="trans-lyric">We who seek the meaning of life</div>
-<div class="trans-lyric">We who seek the meaning of life</div>
 </div>
 
 <div class="lyric-line">
@@ -156,14 +149,12 @@ image: /images/albums/kaf/maho-gamma.jpg
 <ruby>ある<rt class="roma">aru</rt></ruby><ruby>べき<rt class="roma">beki</rt></ruby><ruby>意味<rt class="furi">いみ</rt><rt class="roma">imi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>探<rt class="furi">さが</rt><rt class="roma">saga</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="trans-lyric">We who seek the meaning we should have</div>
-<div class="trans-lyric">We who seek the meaning we should have</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>間違<rt class="furi">まちが</rt><rt class="roma">machiga</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>だらけ<rt class="roma">darake</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby><ruby>理由<rt class="furi">りゆう</rt><rt class="roma">riyuu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
-<div class="trans-lyric">The reason we are full of mistakes</div>
 <div class="trans-lyric">The reason we are full of mistakes</div>
 </div>
 
@@ -176,7 +167,7 @@ image: /images/albums/kaf/maho-gamma.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:51.75]<ruby>それ<rt class="roma">sore</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby>
+<ruby>それ<rt class="roma">sore</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby>
 </div>
 <div class="trans-lyric">That's fine</div>
 </div>
@@ -230,7 +221,6 @@ image: /images/albums/kaf/maho-gamma.jpg
 <ruby>願<rt class="furi">ねが</rt><rt class="roma">nega</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="trans-lyric">Wish</div>
-<div class="trans-lyric">Wish</div>
 </div>
 
 <div class="lyric-line">
@@ -250,9 +240,8 @@ image: /images/albums/kaf/maho-gamma.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:04.03]<ruby>それでも<rt class="roma">soredemo</rt></ruby>
+<ruby>それでも<rt class="roma">soredemo</rt></ruby>
 </div>
-<div class="trans-lyric">Even so</div>
 <div class="trans-lyric">Even so</div>
 </div>
 
@@ -264,7 +253,7 @@ image: /images/albums/kaf/maho-gamma.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:04.03]<ruby>それでも<rt class="roma">soredemo</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ある<rt class="roma">aru</rt></ruby>
+<ruby>それでも<rt class="roma">soredemo</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ある<rt class="roma">aru</rt></ruby>
 </div>
 <div class="trans-lyric">There is still a world I want to see</div>
 </div>
@@ -324,7 +313,6 @@ image: /images/albums/kaf/maho-gamma.jpg
 <div class="jp-lyric">
 <ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>負<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="trans-lyric">We still won't lose</div>
 <div class="trans-lyric">We still won't lose</div>
 </div>
 
@@ -446,10 +434,8 @@ image: /images/albums/kaf/maho-gamma.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:39.71]<ruby>そう<rt class="roma">sou</rt></ruby><ruby>だろ<rt class="roma">daro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>？
+<ruby>そう<rt class="roma">sou</rt></ruby><ruby>だろ<rt class="roma">daro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>？
 </div>
-<div class="trans-lyric">Isn't that right?</div>
-<div class="trans-lyric">Isn't that right?</div>
 <div class="trans-lyric">Isn't that right?</div>
 </div>
 

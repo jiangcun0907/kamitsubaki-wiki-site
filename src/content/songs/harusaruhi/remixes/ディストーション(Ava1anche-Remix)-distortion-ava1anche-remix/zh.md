@@ -92,17 +92,12 @@ Cuts through the lies
 Everybody wants some
 </div>
 <div class="cn-lyric">人人都想要一些</div>
-<div class="cn-lyric">人人都想要一些</div>
-<div class="cn-lyric">人人都想要一些</div>
-<div class="cn-lyric">人人都想要一些</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 But only few believe
 </div>
-<div class="cn-lyric">但只有少数人相信</div>
-<div class="cn-lyric">但只有少数人相信</div>
 <div class="cn-lyric">但只有少数人相信</div>
 </div>
 
@@ -111,8 +106,6 @@ But only few believe
 I won't be the first to overdose
 </div>
 <div class="cn-lyric">我不会是第一个过量</div>
-<div class="cn-lyric">我不会是第一个过量</div>
-<div class="cn-lyric">我不会是第一个过量</div>
 </div>
 
 <div class="lyric-line">
@@ -120,16 +113,12 @@ I won't be the first to overdose
 On what I want, not what I need
 </div>
 <div class="cn-lyric">在我想要的，不是我需要的</div>
-<div class="cn-lyric">在我想要的，不是我需要的</div>
-<div class="cn-lyric">在我想要的，不是我需要的</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Turn me up and play me loud
 </div>
-<div class="cn-lyric">调高音量，大声播放我</div>
-<div class="cn-lyric">调高音量，大声播放我</div>
 <div class="cn-lyric">调高音量，大声播放我</div>
 </div>
 
@@ -152,21 +141,12 @@ And will be proud to say
 Gimme what I want now
 </div>
 <div class="cn-lyric">现在给我我想要的</div>
-<div class="cn-lyric">现在给我我想要的</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Distortion
 </div>
-<div class="cn-lyric">失真</div>
-<div class="cn-lyric">失真</div>
-<div class="cn-lyric">失真</div>
-<div class="cn-lyric">失真</div>
-<div class="cn-lyric">失真</div>
-<div class="cn-lyric">失真</div>
-<div class="cn-lyric">失真</div>
-<div class="cn-lyric">失真</div>
 <div class="cn-lyric">失真</div>
 </div>
 
@@ -273,14 +253,12 @@ Turn me up and play me loud
 I won't back down and
 </div>
 <div class="cn-lyric">我不会退缩并</div>
-<div class="cn-lyric">我不会退缩并</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Will be proud to say
 </div>
-<div class="cn-lyric">会自豪地说</div>
 <div class="cn-lyric">会自豪地说</div>
 </div>
 
@@ -379,14 +357,12 @@ Before you attack
 Play what you feel, devil in the deal
 </div>
 <div class="cn-lyric">演奏你的感受，交易中的魔鬼</div>
-<div class="cn-lyric">演奏你的感受，交易中的魔鬼</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 A heart of stone and a soul of steel
 </div>
-<div class="cn-lyric">一颗石头心和钢铁灵魂</div>
 <div class="cn-lyric">一颗石头心和钢铁灵魂</div>
 </div>
 

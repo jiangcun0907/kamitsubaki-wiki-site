@@ -37,14 +37,12 @@ image: /images/albums/rim/singularity-live.jpg
 「<ruby>今夜<rt class="furi">こんや</rt><rt class="roma">kon'ya</rt></ruby>」
 </div>
 <div class="trans-lyric">「Tonight」</div>
-<div class="trans-lyric">「Tonight」</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 「<ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>秒<rt class="furi">びょう</rt><rt class="roma">byou</rt></ruby>」
 </div>
-<div class="trans-lyric">「One second」</div>
 <div class="trans-lyric">「One second」</div>
 </div>
 
@@ -137,7 +135,6 @@ Cup Cup Cup Cup <ruby>カップ<rt class="roma">kappu</rt></ruby><ruby>麺<rt cl
 「<ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>秒<rt class="furi">びょう</rt><rt class="roma">byou</rt></ruby> <ruby>跳<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>ねる<rt class="roma">neru</rt></ruby><ruby>エビ<rt class="roma">ebi</rt></ruby><ruby>フライ<rt class="roma">furai</rt></ruby>」
 </div>
 <div class="trans-lyric">「One second, jumping fried shrimp」</div>
-<div class="trans-lyric">「One second, jumping fried shrimp」</div>
 </div>
 
 <div class="lyric-line">
@@ -151,7 +148,6 @@ Cup Cup Cup Cup <ruby>カップ<rt class="roma">kappu</rt></ruby><ruby>麺<rt cl
 <div class="jp-lyric">
 「<ruby>エビ<rt class="roma">ebi</rt></ruby><ruby>フライ<rt class="roma">furai</rt></ruby>」
 </div>
-<div class="trans-lyric">「Fried shrimp」</div>
 <div class="trans-lyric">「Fried shrimp」</div>
 </div>
 
@@ -215,10 +211,6 @@ Cup Cup Cup Cup <ruby>カップ<rt class="roma">kappu</rt></ruby><ruby>麺<rt cl
 「Tick Tack Tick Tack」
 </div>
 <div class="trans-lyric">「Tick Tack Tick Tack」</div>
-<div class="trans-lyric">「Tick Tack Tick Tack」</div>
-<div class="trans-lyric">「Tick Tack Tick Tack」</div>
-<div class="trans-lyric">「Tick Tack Tick Tack」</div>
-<div class="trans-lyric">「Tick Tack Tick Tack」</div>
 </div>
 
 <div class="lyric-line">
@@ -238,9 +230,6 @@ Cup Cup Cup Cup <ruby>カップ<rt class="roma">kappu</rt></ruby><ruby>麺<rt cl
 <div class="jp-lyric">
 「<ruby>テクテクテクテク<rt class="roma">tekutekutekuteku</rt></ruby>」
 </div>
-<div class="trans-lyric">「Teku teku teku teku」</div>
-<div class="trans-lyric">「Teku teku teku teku」</div>
-<div class="trans-lyric">「Teku teku teku teku」</div>
 <div class="trans-lyric">「Teku teku teku teku」</div>
 </div>
 
@@ -267,8 +256,6 @@ Cup Cup Cup Cup <ruby>カップ<rt class="roma">kappu</rt></ruby><ruby>麺<rt cl
 <div class="jp-lyric">
 「<ruby>トクトクトクトク<rt class="roma">tokutokutokutoku</rt></ruby>」
 </div>
-<div class="trans-lyric">「Tok tok tok tok」</div>
-<div class="trans-lyric">「Tok tok tok tok」</div>
 <div class="trans-lyric">「Tok tok tok tok」</div>
 </div>
 
@@ -301,7 +288,6 @@ Cup Cup Cup Cup <ruby>カップ<rt class="roma">kappu</rt></ruby><ruby>麺<rt cl
 <div class="jp-lyric">
 「<ruby>トク<rt class="roma">toku</rt></ruby><ruby>トク<rt class="roma">toku</rt></ruby>」
 </div>
-<div class="trans-lyric">「Tok tok」</div>
 <div class="trans-lyric">「Tok tok」</div>
 </div>
 
@@ -347,7 +333,6 @@ Cup Cup Cup Cup <ruby>カップ<rt class="roma">kappu</rt></ruby><ruby>麺<rt cl
 <div class="jp-lyric">
 「<ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>秒<rt class="furi">びょう</rt><rt class="roma">byou</rt></ruby> <ruby>目覚<rt class="furi">めざ</rt><rt class="roma">meza</rt></ruby><ruby>まし<rt class="roma">mashi</rt></ruby><ruby>時計<rt class="furi">とけい</rt><rt class="roma">tokei</rt></ruby>」
 </div>
-<div class="trans-lyric">「One second, the alarm clock」</div>
 <div class="trans-lyric">「One second, the alarm clock」</div>
 </div>
 
@@ -683,8 +668,6 @@ Cup Cup Cup Cup <ruby>カップ<rt class="roma">kappu</rt></ruby><ruby>麺<rt cl
 <ruby>おやすみ<rt class="roma">oyasumi</rt></ruby>
 </div>
 <div class="trans-lyric">Good night</div>
-<div class="trans-lyric">Good night</div>
-<div class="trans-lyric">Good night</div>
 </div>
 
 <div class="lyric-line">
@@ -809,14 +792,12 @@ Cup Cup Cup Cup <ruby>カップ<rt class="roma">kappu</rt></ruby><ruby>麺<rt cl
 <ruby>おやすみ<rt class="roma">oyasumi</rt></ruby> <ruby>まだ<rt class="roma">mada</rt></ruby><ruby>名前<rt class="furi">なまえ</rt><rt class="roma">namae</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> <ruby>無数<rt class="furi">むすう</rt><rt class="roma">musuu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>想<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby>
 </div>
 <div class="trans-lyric">Good night, countless unnamed feelings</div>
-<div class="trans-lyric">Good night, countless unnamed feelings</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>おやすみ<rt class="roma">oyasumi</rt></ruby> <ruby>また<rt class="roma">mata</rt></ruby><ruby>こんな<rt class="roma">konna</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なる<rt class="roma">naru</rt></ruby><ruby>日<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby>
 </div>
-<div class="trans-lyric">Good night, until a day they become a song on a night like this again</div>
 <div class="trans-lyric">Good night, until a day they become a song on a night like this again</div>
 </div>
 
@@ -887,7 +868,6 @@ Cup Cup Cup Cup <ruby>カップ<rt class="roma">kappu</rt></ruby><ruby>麺<rt cl
 <div class="jp-lyric">
 <ruby>今夜<rt class="furi">こんや</rt><rt class="roma">kon'ya</rt></ruby> <ruby>どうか<rt class="roma">douka</rt></ruby> <ruby>どう<rt class="roma">dou</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
 </div>
-<div class="trans-lyric">Tonight, please, please</div>
 <div class="trans-lyric">Tonight, please, please</div>
 </div>
 
@@ -965,7 +945,6 @@ Cup Cup Cup Cup <ruby>カップ<rt class="roma">kappu</rt></ruby><ruby>麺<rt cl
 <div class="jp-lyric">
 「<ruby>布団<rt class="furi">ふとん</rt><rt class="roma">futon</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>感謝<rt class="furi">かんしゃ</rt><rt class="roma">kansha</rt></ruby>～～」
 </div>
-<div class="trans-lyric">「Gratitude to the futon~~」</div>
 <div class="trans-lyric">「Gratitude to the futon~~」</div>
 </div>
 
@@ -1246,7 +1225,6 @@ Cup Cup Cup Cup <ruby>カップ<rt class="roma">kappu</rt></ruby><ruby>麺<rt cl
 「<ruby>月<rt class="furi">つき</rt><rt class="roma">tsuki</rt></ruby><ruby>花水木<rt class="furi">はなみずき</rt><rt class="roma">hanamizuki</rt></ruby><ruby>金<rt class="furi">きん</rt><rt class="roma">kin</rt></ruby><ruby>土日<rt class="furi">どにち</rt><rt class="roma">donichi</rt></ruby>」
 </div>
 <div class="trans-lyric">「Monday Tuesday Wednesday Thursday Friday Saturday Sunday」</div>
-<div class="trans-lyric">「Monday Tuesday Wednesday Thursday Friday Saturday Sunday」</div>
 </div>
 
 <div class="lyric-line">
@@ -1254,14 +1232,12 @@ Cup Cup Cup Cup <ruby>カップ<rt class="roma">kappu</rt></ruby><ruby>麺<rt cl
 「<ruby>月<rt class="furi">つき</rt><rt class="roma">tsuki</rt></ruby><ruby>花水木<rt class="furi">はなみずき</rt><rt class="roma">hanamizuki</rt></ruby><ruby>金曜日<rt class="furi">きんようび</rt><rt class="roma">kin'youbi</rt></ruby> <ruby>毎日<rt class="furi">まいにち</rt><rt class="roma">mainichi</rt></ruby><ruby>会<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>たら<rt class="roma">tara</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>のに<rt class="roma">noni</rt></ruby>」
 </div>
 <div class="trans-lyric">「Monday Tuesday Wednesday Thursday Friday, I wish we could meet every day」</div>
-<div class="trans-lyric">「Monday Tuesday Wednesday Thursday Friday, I wish we could meet every day」</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 「<ruby>ずーっと<rt class="roma">zuutto</rt></ruby><ruby>ずっと<rt class="roma">zutto</rt></ruby><ruby>今日<rt class="furi">きょう</rt><rt class="roma">kyou</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>のに<rt class="roma">noni</rt></ruby> <ruby>なんて<rt class="roma">nante</rt></ruby> <ruby>永遠<rt class="furi">えいえん</rt><rt class="roma">eien</rt></ruby><ruby>と<rt class="roma">to</rt></ruby>…」
 </div>
-<div class="trans-lyric">「I wish it could be today forever, like eternity...」</div>
 <div class="trans-lyric">「I wish it could be today forever, like eternity...」</div>
 </div>
 

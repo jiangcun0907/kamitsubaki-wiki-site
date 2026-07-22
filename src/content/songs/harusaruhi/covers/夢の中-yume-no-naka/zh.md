@@ -61,7 +61,6 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 [00:39.93]<ruby>善悪<rt class="furi">ぜんあく</rt><rt class="roma">zen'aku</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>作<rt class="furi">つく</rt><rt class="roma">tsuku</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>正義<rt class="furi">せいぎ</rt><rt class="roma">seigi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>正<rt class="furi">ただ</rt><rt class="roma">tada</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>限<rt class="furi">かぎ</rt><rt class="roma">kagi</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[00:39.93]创造善恶 正义不一定正确</div>
-<div class="cn-lyric">[00:39.93]创造善恶 正义不一定正确</div>
 </div>
 
 <div class="lyric-line">

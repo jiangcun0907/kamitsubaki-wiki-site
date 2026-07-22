@@ -57,7 +57,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [00:31.46]<ruby>風鈴<rt class="furi">ふうりん</rt><rt class="roma">fuurin</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>チリ<rt class="roma">chiri</rt></ruby><ruby>ン<rt class="roma">n</rt></ruby>
 </div>
 <div class="trans-lyric">Wind chimes ring, chirin</div>
-<div class="trans-lyric">Wind chimes ring, chirin</div>
 </div>
 
 <div class="lyric-line">
@@ -86,15 +85,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [00:44.86]<ruby>夏<rt class="furi">なつ</rt><rt class="roma">natsu</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>始<rt class="furi">はじ</rt><rt class="roma">haji</rt></ruby><ruby>まった<rt class="roma">matta</rt></ruby>
 </div>
 <div class="trans-lyric">Summer has begun</div>
-<div class="trans-lyric">Summer has begun</div>
-<div class="trans-lyric">Summer has begun</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:44.86]<ruby>合図<rt class="furi">あいず</rt><rt class="roma">aizu</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
-<div class="trans-lyric">A signal came</div>
 <div class="trans-lyric">A signal came</div>
 </div>
 
@@ -116,11 +112,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 <div class="jp-lyric">
 [00:59.97]<ruby>映画<rt class="furi">えいが</rt><rt class="roma">eiga</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="trans-lyric">It's not a movie</div>
-<div class="trans-lyric">It's not a movie</div>
-<div class="trans-lyric">It's not a movie</div>
-<div class="trans-lyric">It's not a movie</div>
-<div class="trans-lyric">It's not a movie</div>
 <div class="trans-lyric">It's not a movie</div>
 </div>
 
@@ -279,7 +270,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 <div class="jp-lyric">
 [02:29.81]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>恋<rt class="furi">こい</rt><rt class="roma">koi</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
-<div class="trans-lyric">It's my love</div>
 <div class="trans-lyric">It's my love</div>
 </div>
 

@@ -65,10 +65,6 @@ image: /images/songs/rim/single-1844807709.jpg
 <ruby>ホイホイホイ<rt class="roma">hoihoihoi</rt></ruby> <ruby>ポイポイポイ<rt class="roma">poipoipoi</rt></ruby>
 </div>
 <div class="cn-lyric">嘿嘿嘿 抛抛抛</div>
-<div class="cn-lyric">嘿嘿嘿 抛抛抛</div>
-<div class="cn-lyric">嘿嘿嘿 抛抛抛</div>
-<div class="cn-lyric">嘿嘿嘿 抛抛抛</div>
-<div class="cn-lyric">嘿嘿嘿 抛抛抛</div>
 </div>
 
 <div class="lyric-line">
@@ -159,8 +155,6 @@ Candy Candy （<ruby>喰<rt class="furi">く</rt><rt class="roma">ku</rt></ruby>
 <ruby>シュガー<rt class="roma">shugaa</rt></ruby><ruby>ハイ<rt class="roma">hai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>なんだか<rt class="roma">nandaka</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>感<rt class="furi">かん</rt><rt class="roma">kan</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby>
 </div>
 <div class="cn-lyric">糖分高涨感觉挺好的</div>
-<div class="cn-lyric">糖分高涨感觉挺好的</div>
-<div class="cn-lyric">糖分高涨感觉挺好的</div>
 </div>
 
 <div class="lyric-line">
@@ -168,21 +162,12 @@ Candy Candy （<ruby>喰<rt class="furi">く</rt><rt class="roma">ku</rt></ruby>
 <ruby>ら<rt class="roma">ra</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby> <ruby>キャンディー<rt class="roma">kyandeii</rt></ruby><ruby>ゲリラ<rt class="roma">gerira</rt></ruby>
 </div>
 <div class="cn-lyric">啦啦啦 糖果游击队</div>
-<div class="cn-lyric">啦啦啦 糖果游击队</div>
-<div class="cn-lyric">啦啦啦 糖果游击队</div>
-<div class="cn-lyric">啦啦啦 糖果游击队</div>
-<div class="cn-lyric">啦啦啦 糖果游击队</div>
-<div class="cn-lyric">啦啦啦 糖果游击队</div>
-<div class="cn-lyric">啦啦啦 糖果游击队</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>その<rt class="roma">sono</rt></ruby><ruby>傷口<rt class="furi">きずぐち</rt><rt class="roma">kizuguchi</rt></ruby> <ruby>治<rt class="furi">なお</rt><rt class="roma">nao</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>たげる<rt class="roma">tageru</rt></ruby>
 </div>
-<div class="cn-lyric">你的伤口 我给你治好</div>
-<div class="cn-lyric">你的伤口 我给你治好</div>
-<div class="cn-lyric">你的伤口 我给你治好</div>
 <div class="cn-lyric">你的伤口 我给你治好</div>
 </div>
 
@@ -197,21 +182,12 @@ Candy Candy （<ruby>喰<rt class="furi">く</rt><rt class="roma">ku</rt></ruby>
 <ruby>味<rt class="furi">あじ</rt><rt class="roma">aji</rt></ruby><ruby>わった<rt class="roma">watta</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby> <ruby>最後<rt class="furi">さいご</rt><rt class="roma">saigo</rt></ruby>
 </div>
 <div class="cn-lyric">一旦品尝 便是终局</div>
-<div class="cn-lyric">一旦品尝 便是终局</div>
-<div class="cn-lyric">一旦品尝 便是终局</div>
-<div class="cn-lyric">一旦品尝 便是终局</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>キャンディー<rt class="roma">kyandeii</rt></ruby><ruby>ゲリラ<rt class="roma">gerira</rt></ruby>
 </div>
-<div class="cn-lyric">糖果游击队</div>
-<div class="cn-lyric">糖果游击队</div>
-<div class="cn-lyric">糖果游击队</div>
-<div class="cn-lyric">糖果游击队</div>
-<div class="cn-lyric">糖果游击队</div>
-<div class="cn-lyric">糖果游击队</div>
 <div class="cn-lyric">糖果游击队</div>
 </div>
 

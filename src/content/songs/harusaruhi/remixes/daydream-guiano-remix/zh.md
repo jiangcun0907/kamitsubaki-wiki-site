@@ -36,16 +36,12 @@ image: /images/albums/harusaruhi/glitch-stage.jpg
 [00:17.64]<ruby>もう少<rt class="furi">もうすこ</rt><rt class="roma">mousuko</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby>daze slowly
 </div>
 <div class="cn-lyric">[00:17.64]再多一点 daze slowly</div>
-<div class="cn-lyric">[00:17.64]再多一点 daze slowly</div>
-<div class="cn-lyric">[00:17.64]再多一点 daze slowly</div>
-<div class="cn-lyric">[00:17.64]再多一点 daze slowly</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:21.10]<ruby>放<rt class="furi">ほう</rt><rt class="roma">hou</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>フリ<rt class="roma">furi</rt></ruby>
 </div>
-<div class="cn-lyric">[00:21.10]被放任假装是梦</div>
 <div class="cn-lyric">[00:21.10]被放任假装是梦</div>
 </div>
 
@@ -54,16 +50,12 @@ image: /images/albums/harusaruhi/glitch-stage.jpg
 [00:24.03]<ruby>陽射<rt class="furi">ひざ</rt><rt class="roma">hiza</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>壊<rt class="furi">こわ</rt><rt class="roma">kowa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>かけ<rt class="roma">kake</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>予定<rt class="furi">よてい</rt><rt class="roma">yotei</rt></ruby><ruby>通<rt class="furi">どお</rt><rt class="roma">doo</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby>
 </div>
 <div class="cn-lyric">[00:24.03]阳光也快要破碎，按计划进行</div>
-<div class="cn-lyric">[00:24.03]阳光也快要破碎，按计划进行</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:29.44]<ruby>もう少<rt class="furi">もうすこ</rt><rt class="roma">mousuko</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>溶<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>ける<rt class="roma">keru</rt></ruby>ice cream
 </div>
-<div class="cn-lyric">[00:29.44]快要融化的 ice cream</div>
-<div class="cn-lyric">[00:29.44]快要融化的 ice cream</div>
-<div class="cn-lyric">[00:29.44]快要融化的 ice cream</div>
 <div class="cn-lyric">[00:29.44]快要融化的 ice cream</div>
 </div>
 
@@ -72,14 +64,12 @@ image: /images/albums/harusaruhi/glitch-stage.jpg
 [00:32.49]<ruby>どうか<rt class="roma">douka</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby>rain of dreams
 </div>
 <div class="cn-lyric">[00:32.49]失常的 rain of dreams</div>
-<div class="cn-lyric">[00:32.49]失常的 rain of dreams</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:35.38]<ruby>掠<rt class="furi">かす</rt><rt class="roma">kasu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>欠<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby><ruby>甘<rt class="furi">あま</rt><rt class="roma">ama</rt></ruby><ruby>い<rt class="roma">i</rt></ruby>pieces
 </div>
-<div class="cn-lyric">[00:35.38]在嘶哑的世界里缺失的甜蜜 pieces</div>
 <div class="cn-lyric">[00:35.38]在嘶哑的世界里缺失的甜蜜 pieces</div>
 </div>
 
@@ -147,14 +137,12 @@ image: /images/albums/harusaruhi/glitch-stage.jpg
 [01:06.35]<ruby>覆<rt class="furi">おお</rt><rt class="roma">oo</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>揺<rt class="furi">ゆ</rt><rt class="roma">yu</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="cn-lyric">[01:06.35]被覆盖着摇曳般</div>
-<div class="cn-lyric">[01:06.35]被覆盖着摇曳般</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:09.60]<ruby>醒<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>める<rt class="roma">meru</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>覚<rt class="furi">おぼ</rt><rt class="roma">obo</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>music
 </div>
-<div class="cn-lyric">[01:09.60]在醒来之前记得的 music</div>
 <div class="cn-lyric">[01:09.60]在醒来之前记得的 music</div>
 </div>
 
@@ -169,7 +157,6 @@ image: /images/albums/harusaruhi/glitch-stage.jpg
 [01:17.68]<ruby>最後<rt class="furi">さいご</rt><rt class="roma">saigo</rt></ruby><ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>口<rt class="furi">くち</rt><rt class="roma">kuchi</rt></ruby><ruby>色<rt class="furi">しょく</rt><rt class="roma">shoku</rt></ruby><ruby>移<rt class="furi">うつ</rt><rt class="roma">utsu</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby>
 </div>
 <div class="cn-lyric">[01:17.68]最后一口染上颜色</div>
-<div class="cn-lyric">[01:17.68]最后一口染上颜色</div>
 </div>
 
 <div class="lyric-line">
@@ -177,14 +164,12 @@ image: /images/albums/harusaruhi/glitch-stage.jpg
 [01:21.01]<ruby>ここ<rt class="roma">koko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>偏<rt class="furi">かたよ</rt><rt class="roma">katayo</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby>tuning
 </div>
 <div class="cn-lyric">[01:21.01]待在这里 偏颇的 tuning</div>
-<div class="cn-lyric">[01:21.01]待在这里 偏颇的 tuning</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:25.98]I will undo it
 </div>
-<div class="cn-lyric">[01:25.98]I will undo it</div>
 <div class="cn-lyric">[01:25.98]I will undo it</div>
 </div>
 

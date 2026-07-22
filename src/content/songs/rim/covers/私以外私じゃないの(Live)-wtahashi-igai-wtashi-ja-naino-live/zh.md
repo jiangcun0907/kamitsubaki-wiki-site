@@ -103,14 +103,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:51.09]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>以外<rt class="furi">いがい</rt><rt class="roma">igai</rt></ruby><ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby> <ruby>当たり前<rt class="furi">あたりまえ</rt><rt class="roma">atarimae</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
 <div class="cn-lyric">[00:51.09]除了我，没有别人是我 虽然理所当然呢</div>
-<div class="cn-lyric">[00:51.09]除了我，没有别人是我 虽然理所当然呢</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:56.69]<ruby>だから<rt class="roma">dakara</rt></ruby><ruby>報<rt class="furi">むく</rt><rt class="roma">muku</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>気持<rt class="furi">きも</rt><rt class="roma">kimo</rt></ruby><ruby>ち<rt class="roma">chi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>整理<rt class="furi">せいり</rt><rt class="roma">seiri</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="cn-lyric">[00:56.69]所以连得不到回报的心情也一并整理</div>
 <div class="cn-lyric">[00:56.69]所以连得不到回报的心情也一并整理</div>
 </div>
 

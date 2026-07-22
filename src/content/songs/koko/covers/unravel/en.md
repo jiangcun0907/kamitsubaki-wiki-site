@@ -38,7 +38,6 @@ unravel appears on ARARE LIVE or a related official release. Entries are version
 [00:08.43]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby> <ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>?
 </div>
 <div class="trans-lyric">Who is inside me?</div>
-<div class="trans-lyric">Who is inside me?</div>
 </div>
 
 <div class="lyric-line">
@@ -97,14 +96,12 @@ unravel appears on ARARE LIVE or a related official release. Entries are version
 [00:56.41]<ruby>壊<rt class="furi">こわ</rt><rt class="roma">kowa</rt></ruby><ruby>せる<rt class="roma">seru</rt></ruby>
 </div>
 <div class="trans-lyric">Can break</div>
-<div class="trans-lyric">Can break</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:56.41]<ruby>壊<rt class="furi">こわ</rt><rt class="roma">kowa</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="trans-lyric">Can't break</div>
 <div class="trans-lyric">Can't break</div>
 </div>
 
@@ -113,14 +110,12 @@ unravel appears on ARARE LIVE or a related official release. Entries are version
 [00:58.49]<ruby>狂<rt class="furi">きょう</rt><rt class="roma">kyou</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby>
 </div>
 <div class="trans-lyric">Can go mad</div>
-<div class="trans-lyric">Can go mad</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:58.49]<ruby>狂<rt class="furi">きょう</rt><rt class="roma">kyou</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="trans-lyric">Can't go mad</div>
 <div class="trans-lyric">Can't go mad</div>
 </div>
 
@@ -136,7 +131,6 @@ unravel appears on ARARE LIVE or a related official release. Entries are version
 [01:00.03]<ruby>揺<rt class="furi">ゆ</rt><rt class="roma">yu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="trans-lyric">Shook</div>
-<div class="trans-lyric">Shook</div>
 </div>
 
 <br />
@@ -146,7 +140,6 @@ unravel appears on ARARE LIVE or a related official release. Entries are version
 [01:03.62]<ruby>歪<rt class="furi">いが</rt><rt class="roma">iga</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>だんだん<rt class="roma">dandan</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby> <ruby>透き通<rt class="furi">すきとお</rt><rt class="roma">sukitoo</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>なって<rt class="roma">natte</rt></ruby>
 </div>
 <div class="trans-lyric">In the twisted world, gradually I become transparent and disappear</div>
-<div class="trans-lyric">In the twisted world, gradually I become transparent and disappear</div>
 </div>
 
 <div class="lyric-line">
@@ -154,14 +147,12 @@ unravel appears on ARARE LIVE or a related official release. Entries are version
 [01:10.52]<ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>つけ<rt class="roma">tsuke</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="trans-lyric">Don't find me</div>
-<div class="trans-lyric">Don't find me</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:15.94]<ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>つめ<rt class="roma">tsume</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
-<div class="trans-lyric">Don't stare at me</div>
 <div class="trans-lyric">Don't stare at me</div>
 </div>
 
@@ -183,7 +174,6 @@ unravel appears on ARARE LIVE or a related official release. Entries are version
 <div class="jp-lyric">
 [01:33.69]<ruby>鮮<rt class="furi">あざ</rt><rt class="roma">aza</rt></ruby><ruby>やか<rt class="roma">yaka</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>まま<rt class="roma">mama</rt></ruby>
 </div>
-<div class="trans-lyric">Still vivid</div>
 <div class="trans-lyric">Still vivid</div>
 </div>
 
@@ -341,7 +331,6 @@ unravel appears on ARARE LIVE or a related official release. Entries are version
 <div class="jp-lyric">
 [03:36.31]<ruby>教<rt class="furi">おし</rt><rt class="roma">oshi</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">Tell me</div>
 <div class="trans-lyric">Tell me</div>
 </div>
 

@@ -35,14 +35,12 @@ image: /images/albums/kaf/kyoso.jpg
 <ruby>かえる<rt class="roma">kaeru</rt></ruby><ruby>のう<rt class="roma">nou</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
 </div>
 <div class="cn-lyric">青蛙的歌声</div>
-<div class="cn-lyric">青蛙的歌声</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>きこえ<rt class="roma">kikoe</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>くる<rt class="roma">kuru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="cn-lyric">传过来了</div>
 <div class="cn-lyric">传过来了</div>
 </div>
 
@@ -51,7 +49,6 @@ image: /images/albums/kaf/kyoso.jpg
 <ruby>クワ<rt class="roma">kuwa</rt></ruby> <ruby>クワ<rt class="roma">kuwa</rt></ruby> <ruby>クワ<rt class="roma">kuwa</rt></ruby> <ruby>クワ<rt class="roma">kuwa</rt></ruby>
 </div>
 <div class="cn-lyric">呱 呱 呱 呱</div>
-<div class="cn-lyric">呱 呱 呱 呱</div>
 </div>
 
 <div class="lyric-line">
@@ -59,14 +56,12 @@ image: /images/albums/kaf/kyoso.jpg
 <ruby>ケケケケ<rt class="roma">kekekeke</rt></ruby> <ruby>ケケケケ<rt class="roma">kekekeke</rt></ruby>
 </div>
 <div class="cn-lyric">咯咯咯咯 咯咯咯咯</div>
-<div class="cn-lyric">咯咯咯咯 咯咯咯咯</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>クワ<rt class="roma">kuwa</rt></ruby> <ruby>クワ<rt class="roma">kuwa</rt></ruby> <ruby>クワ<rt class="roma">kuwa</rt></ruby>
 </div>
-<div class="cn-lyric">呱 呱 呱</div>
 <div class="cn-lyric">呱 呱 呱</div>
 </div>
 

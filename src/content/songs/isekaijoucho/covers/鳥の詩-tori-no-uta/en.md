@@ -31,14 +31,12 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 [00:15.57]<ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>飛行機雲<rt class="furi">ひこうきぐも</rt><rt class="roma">hikoukigumo</rt></ruby> <ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>たち<rt class="roma">tachi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>見送<rt class="furi">みおく</rt><rt class="roma">mioku</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby>
 </div>
 <div class="trans-lyric">We watched the vanishing contrails</div>
-<div class="trans-lyric">We watched the vanishing contrails</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:23.62]<ruby>眩<rt class="furi">まぶ</rt><rt class="roma">mabu</rt></ruby><ruby>しく<rt class="roma">shiku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>逃<rt class="furi">に</rt><rt class="roma">ni</rt></ruby><ruby>げ<rt class="roma">ge</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby> <ruby>いつ<rt class="roma">itsu</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby><ruby>弱<rt class="furi">よわ</rt><rt class="roma">yowa</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">Too dazzling, we fled; always so weak</div>
 <div class="trans-lyric">Too dazzling, we fled; always so weak</div>
 </div>
 
@@ -47,14 +45,12 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 [00:30.33]<ruby>あの<rt class="roma">ano</rt></ruby><ruby>日<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby> <ruby>変<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>わら<rt class="roma">wara</rt></ruby><ruby>ず<rt class="roma">zu</rt></ruby> <ruby>いつ<rt class="roma">itsu</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>変<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>わら<rt class="roma">wara</rt></ruby><ruby>ず<rt class="roma">zu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">From that day, unchanged, forever unchanging</div>
-<div class="trans-lyric">From that day, unchanged, forever unchanging</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:39.12]<ruby>い<rt class="roma">i</rt></ruby><ruby>られ<rt class="roma">rare</rt></ruby><ruby>なかった<rt class="roma">nakatta</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby> <ruby>悔<rt class="furi">くや</rt><rt class="roma">kuya</rt></ruby><ruby>しく<rt class="roma">shiku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>指<rt class="furi">ゆび</rt><rt class="roma">yubi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>離<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>す<rt class="roma">su</rt></ruby>
 </div>
-<div class="trans-lyric">Regretful that we couldn't remain, I let go of your hand</div>
 <div class="trans-lyric">Regretful that we couldn't remain, I let go of your hand</div>
 </div>
 
@@ -110,7 +106,6 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 <div class="jp-lyric">
 [01:53.82]<ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>飛行機雲<rt class="furi">ひこうきぐも</rt><rt class="roma">hikoukigumo</rt></ruby> <ruby>追<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>いかけ<rt class="roma">ikake</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>追<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>いかけ<rt class="roma">ikake</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">Chasing the vanishing contrails, chasing and chasing</div>
 <div class="trans-lyric">Chasing the vanishing contrails, chasing and chasing</div>
 </div>
 

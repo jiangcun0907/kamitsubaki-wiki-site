@@ -60,16 +60,12 @@ image: /images/albums/rim/singularity-live.jpg
 <ruby>一起<rt class="furi">かずき</rt><rt class="roma">kazuki</rt></ruby>渴<ruby>睡<rt class="furi">ねむ</rt><rt class="roma">nemu</rt></ruby><ruby>一起<rt class="furi">かずき</rt><rt class="roma">kazuki</rt></ruby>醉
 </div>
 <div class="cn-lyric">一起渴睡一起醉</div>
-<div class="cn-lyric">一起渴睡一起醉</div>
-<div class="cn-lyric">一起渴睡一起醉</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>不<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>高<rt class="furi">こう</rt><rt class="roma">kou</rt></ruby><ruby>興<rt class="furi">きょう</rt><rt class="roma">kyou</rt></ruby> <ruby>一起<rt class="furi">かずき</rt><rt class="roma">kazuki</rt></ruby><ruby>去<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby>虛
 </div>
-<div class="cn-lyric">不高兴 一起去空虚</div>
-<div class="cn-lyric">不高兴 一起去空虚</div>
 <div class="cn-lyric">不高兴 一起去空虚</div>
 </div>
 
@@ -78,16 +74,12 @@ image: /images/albums/rim/singularity-live.jpg
 <ruby>一起<rt class="furi">かずき</rt><rt class="roma">kazuki</rt></ruby>錯<ruby>亦<rt class="furi">また</rt><rt class="roma">mata</rt></ruby><ruby>一起<rt class="furi">かずき</rt><rt class="roma">kazuki</rt></ruby>對
 </div>
 <div class="cn-lyric">一起错亦一起对</div>
-<div class="cn-lyric">一起错亦一起对</div>
-<div class="cn-lyric">一起错亦一起对</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>彼此<rt class="furi">ひし</rt><rt class="roma">hishi</rt></ruby><ruby>有<rt class="furi">ゆう</rt><rt class="roma">yuu</rt></ruby><ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby> <ruby>彼此<rt class="furi">ひし</rt><rt class="roma">hishi</rt></ruby><ruby>也有<rt class="furi">やゆう</rt><rt class="roma">yayuu</rt></ruby><ruby>玩具<rt class="furi">おもちゃ</rt><rt class="roma">omocha</rt></ruby>
 </div>
-<div class="cn-lyric">彼此有谁 彼此也有玩具</div>
-<div class="cn-lyric">彼此有谁 彼此也有玩具</div>
 <div class="cn-lyric">彼此有谁 彼此也有玩具</div>
 </div>
 
@@ -96,16 +88,12 @@ image: /images/albums/rim/singularity-live.jpg
 <ruby>一起<rt class="furi">かずき</rt><rt class="roma">kazuki</rt></ruby><ruby>進<rt class="furi">しん</rt><rt class="roma">shin</rt></ruby><ruby>或<rt class="furi">ある</rt><rt class="roma">aru</rt></ruby><ruby>一起<rt class="furi">かずき</rt><rt class="roma">kazuki</rt></ruby><ruby>退<rt class="furi">しさ</rt><rt class="roma">shisa</rt></ruby>
 </div>
 <div class="cn-lyric">一起进或一起退</div>
-<div class="cn-lyric">一起进或一起退</div>
-<div class="cn-lyric">一起进或一起退</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 沒<ruby>法<rt class="furi">ほう</rt><rt class="roma">hou</rt></ruby><ruby>一起<rt class="furi">かずき</rt><rt class="roma">kazuki</rt></ruby><ruby>失<rt class="furi">しつ</rt><rt class="roma">shitsu</rt></ruby><ruby>去<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby>
 </div>
-<div class="cn-lyric">没法一起失去</div>
-<div class="cn-lyric">没法一起失去</div>
 <div class="cn-lyric">没法一起失去</div>
 </div>
 

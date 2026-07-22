@@ -147,7 +147,6 @@ image: /images/albums/isekaijoucho/sousei.jpg
 [00:55.94]<ruby>霞<rt class="furi">かすみ</rt><rt class="roma">kasumi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>つい<rt class="roma">tsui</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>くる<rt class="roma">kuru</rt></ruby>
 </div>
 <div class="cn-lyric">[00:55.94]雾霭跟随而来</div>
-<div class="cn-lyric">[00:55.94]薄雾随之而来</div>
 </div>
 
 <br />

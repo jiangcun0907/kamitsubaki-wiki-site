@@ -73,8 +73,6 @@ READY (Live Cover) appears on CHOCOLATE LIVE4 or a related official release. Ent
 [00:48.19]Sensation of stopping shocked
 </div>
 <div class="trans-lyric">Sensation of stopping shocked</div>
-<div class="trans-lyric">Sensation of stopping shocked</div>
-<div class="trans-lyric">Sensation of stopping shocked</div>
 </div>
 
 <div class="lyric-line">
@@ -126,7 +124,6 @@ READY (Live Cover) appears on CHOCOLATE LIVE4 or a related official release. Ent
 [01:13.28]I moved I walked I walked
 </div>
 <div class="trans-lyric">I moved I walked I walked</div>
-<div class="trans-lyric">I moved I walked I walked</div>
 </div>
 
 <div class="lyric-line">
@@ -177,14 +174,12 @@ READY (Live Cover) appears on CHOCOLATE LIVE4 or a related official release. Ent
 [01:40.46]Mom told me wait be steady be locked be ready
 </div>
 <div class="trans-lyric">Mom told me wait be steady be locked be ready</div>
-<div class="trans-lyric">Mom told me wait be steady be locked be ready</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:44.11]For things just like this
 </div>
-<div class="trans-lyric">For things just like this</div>
 <div class="trans-lyric">For things just like this</div>
 </div>
 

@@ -153,9 +153,6 @@ image: /images/songs/vwp/single-1741511499.jpg
 [02:23.88]I'm Falling down...
 </div>
 <div class="trans-lyric">I'm Falling down...</div>
-<div class="trans-lyric">I'm Falling down...</div>
-<div class="trans-lyric">I'm Falling down...</div>
-<div class="trans-lyric">I'm Falling down...</div>
 </div>
 
 <div class="lyric-line">

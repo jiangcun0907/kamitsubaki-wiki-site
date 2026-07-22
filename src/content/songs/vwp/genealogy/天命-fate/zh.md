@@ -57,7 +57,6 @@ image: /images/albums/vwp/awakening.jpg
 <ruby>但<rt class="furi">ただし</rt><rt class="roma">tadashi</rt></ruby><ruby>願<rt class="furi">ねがい</rt><rt class="roma">negai</rt></ruby><ruby>永<rt class="furi">ひさし</rt><rt class="roma">hisashi</rt></ruby>沒<ruby>有<rt class="furi">ゆう</rt><rt class="roma">yuu</rt></ruby><ruby>終止<rt class="furi">しゅうし</rt><rt class="roma">shuushi</rt></ruby> <ruby>但<rt class="furi">ただし</rt><rt class="roma">tadashi</rt></ruby><ruby>命運<rt class="furi">めいうん</rt><rt class="roma">meiun</rt></ruby>緣盡於此
 </div>
 <div class="cn-lyric">但願永沒有終止 但命運緣盡於此</div>
-<div class="cn-lyric">但願永沒有終止 但命運緣盡於此</div>
 </div>
 
 <div class="lyric-line">
@@ -74,7 +73,6 @@ image: /images/albums/vwp/awakening.jpg
 就<ruby>算<rt class="furi">さん</rt><rt class="roma">san</rt></ruby><ruby>今<rt class="furi">こん</rt><rt class="roma">kon</rt></ruby><ruby>天<rt class="furi">てん</rt><rt class="roma">ten</rt></ruby><ruby>後悔<rt class="furi">こうかい</rt><rt class="roma">koukai</rt></ruby><ruby>不<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>止<rt class="furi">とめ</rt><rt class="roma">tome</rt></ruby> <ruby>不可<rt class="furi">ふか</rt><rt class="roma">fuka</rt></ruby>扭轉你<ruby>離別<rt class="furi">りべつ</rt><rt class="roma">ribetsu</rt></ruby>
 </div>
 <div class="cn-lyric">就算今天後悔不止 不可扭轉你離別</div>
-<div class="cn-lyric">就算今天後悔不止 不可扭轉你離別</div>
 </div>
 
 <div class="lyric-line">
@@ -82,14 +80,12 @@ image: /images/albums/vwp/awakening.jpg
 如沒<ruby>有<rt class="furi">ゆう</rt><rt class="roma">yuu</rt></ruby>你 <ruby>我<rt class="furi">わが</rt><rt class="roma">waga</rt></ruby><ruby>又<rt class="furi">また</rt><rt class="roma">mata</rt></ruby><ruby>為<rt class="furi">ため</rt><rt class="roma">tame</rt></ruby><ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>人<rt class="furi">にん</rt><rt class="roma">nin</rt></ruby><ruby>思念<rt class="furi">しねん</rt><rt class="roma">shinen</rt></ruby>
 </div>
 <div class="cn-lyric">如沒有你 我又為誰人思念</div>
-<div class="cn-lyric">如沒有你 我又為誰人思念</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>讓<rt class="furi">ゆずる</rt><rt class="roma">yuzuru</rt></ruby><ruby>我<rt class="furi">わが</rt><rt class="roma">waga</rt></ruby><ruby>得<rt class="furi">え</rt><rt class="roma">e</rt></ruby><ruby>到<rt class="furi">いた</rt><rt class="roma">ita</rt></ruby><ruby>大勢<rt class="furi">たいせい</rt><rt class="roma">taisei</rt></ruby><ruby>遮<rt class="furi">さえぎ</rt><rt class="roma">saegi</rt></ruby><ruby>天<rt class="furi">てん</rt><rt class="roma">ten</rt></ruby> <ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>亦<rt class="furi">また</rt><rt class="roma">mata</rt></ruby>沒<ruby>有心<rt class="furi">うしん</rt><rt class="roma">ushin</rt></ruby>跳
 </div>
-<div class="cn-lyric">讓我得到大勢遮天 世界亦沒有心跳</div>
 <div class="cn-lyric">讓我得到大勢遮天 世界亦沒有心跳</div>
 </div>
 

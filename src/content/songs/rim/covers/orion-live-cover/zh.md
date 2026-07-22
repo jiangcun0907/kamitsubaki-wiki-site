@@ -36,16 +36,12 @@ image: /images/albums/rim/chocolate-live-4.jpg
 Orion, won't you give me your star sign
 </div>
 <div class="cn-lyric">猎户座，何不赐我你的星宿</div>
-<div class="cn-lyric">猎户座，何不赐我你的星宿</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Orion, get up on the sky-line
 </div>
-<div class="cn-lyric">猎户座，升起于天际线</div>
-<div class="cn-lyric">猎户座，升起于天际线</div>
-<div class="cn-lyric">猎户座，升起于天际线</div>
 <div class="cn-lyric">猎户座，升起于天际线</div>
 </div>
 
@@ -54,16 +50,12 @@ Orion, get up on the sky-line
 I'm high on my hill and I feel fine
 </div>
 <div class="cn-lyric">我站在山丘高处，感觉舒畅</div>
-<div class="cn-lyric">我站在山丘高处，感觉舒畅</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Orion, let's sip the heavens' heady wine
 </div>
-<div class="cn-lyric">猎户座，让我们共饮天穹的醇酒</div>
-<div class="cn-lyric">猎户座，让我们共饮天穹的醇酒</div>
-<div class="cn-lyric">猎户座，让我们共饮天穹的醇酒</div>
 <div class="cn-lyric">猎户座，让我们共饮天穹的醇酒</div>
 </div>
 
@@ -195,7 +187,6 @@ Prime years fly fading with each young heart's beat.
 Orion, won't you make me a star sign
 </div>
 <div class="cn-lyric">猎户座，何不让我成为星象</div>
-<div class="cn-lyric">猎户座，何不让我成为星象</div>
 </div>
 
 <div class="lyric-line">
@@ -208,7 +199,6 @@ Orion, get up on the sky-line
 <div class="jp-lyric">
 I'm high on your love and I feel fine
 </div>
-<div class="cn-lyric">沐浴在你的爱中，我感觉舒畅</div>
 <div class="cn-lyric">沐浴在你的爱中，我感觉舒畅</div>
 </div>
 

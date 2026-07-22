@@ -102,14 +102,12 @@ image: /images/albums/kaf/kyoso-gamma.jpg
 这<ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>上<rt class="furi">じょう</rt><rt class="roma">jou</rt></ruby> <ruby>没<rt class="furi">ぼつ</rt><rt class="roma">botsu</rt></ruby><ruby>有<rt class="furi">ゆう</rt><rt class="roma">yuu</rt></ruby>规则 <ruby>会<rt class="furi">かい</rt><rt class="roma">kai</rt></ruby><ruby>是<rt class="furi">ぜ</rt><rt class="roma">ze</rt></ruby>绝对<ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby>啊
 </div>
 <div class="trans-lyric">In this world, no rule is absolute, you see</div>
-<div class="trans-lyric">In this world, no rule is absolute, you see</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 尽<ruby>管<rt class="furi">かん</rt><rt class="roma">kan</rt></ruby><ruby>去<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>放肆<rt class="furi">ほうし</rt><rt class="roma">houshi</rt></ruby><ruby>地<rt class="furi">ち</rt><rt class="roma">chi</rt></ruby> 说<ruby>出<rt class="furi">で</rt><rt class="roma">de</rt></ruby>你爱<ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby> <ruby>事情<rt class="furi">じじょう</rt><rt class="roma">jijou</rt></ruby>就<ruby>好<rt class="furi">よしみ</rt><rt class="roma">yoshimi</rt></ruby>
 </div>
-<div class="trans-lyric">Just go ahead and freely say the things you love</div>
 <div class="trans-lyric">Just go ahead and freely say the things you love</div>
 </div>
 
@@ -118,15 +116,12 @@ image: /images/albums/kaf/kyoso-gamma.jpg
 尽<ruby>管<rt class="furi">かん</rt><rt class="roma">kan</rt></ruby><ruby>去<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>大胆<rt class="furi">だいたん</rt><rt class="roma">daitan</rt></ruby><ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby> 做你<ruby>所<rt class="furi">しょ</rt><rt class="roma">sho</rt></ruby>爱<ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby> <ruby>事情<rt class="furi">じじょう</rt><rt class="roma">jijou</rt></ruby>就<ruby>好<rt class="furi">よしみ</rt><rt class="roma">yoshimi</rt></ruby>
 </div>
 <div class="trans-lyric">Just go ahead and boldly do the things you love</div>
-<div class="trans-lyric">Just go ahead and boldly do the things you love</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>一定<rt class="furi">いってい</rt><rt class="roma">ittei</rt></ruby><ruby>都<rt class="furi">と</rt><rt class="roma">to</rt></ruby>拥<ruby>有<rt class="furi">ゆう</rt><rt class="roma">yuu</rt></ruby> 那<ruby>唯一<rt class="furi">ゆいいつ</rt><rt class="roma">yuiitsu</rt></ruby><ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby>
 </div>
-<div class="trans-lyric">Surely everyone has that one and only</div>
-<div class="trans-lyric">Surely everyone has that one and only</div>
 <div class="trans-lyric">Surely everyone has that one and only</div>
 </div>
 
@@ -259,7 +254,6 @@ image: /images/albums/kaf/kyoso-gamma.jpg
 <div class="jp-lyric">
 <ruby>只<rt class="furi">ただ</rt><rt class="roma">tada</rt></ruby><ruby>有<rt class="furi">ゆう</rt><rt class="roma">yuu</rt></ruby>你<ruby>自己<rt class="furi">じこ</rt><rt class="roma">jiko</rt></ruby> <ruby>才知<rt class="furi">さいち</rt><rt class="roma">saichi</rt></ruby><ruby>道<rt class="furi">どう</rt><rt class="roma">dou</rt></ruby>啊
 </div>
-<div class="trans-lyric">Only you yourself would know</div>
 <div class="trans-lyric">Only you yourself would know</div>
 </div>
 

@@ -66,9 +66,6 @@ image: /images/songs/koko/single-1800618742.jpg
 [00:42.55]Give it some thought before you fall
 </div>
 <div class="cn-lyric">[00:42.55]在你坠落前再想一想</div>
-<div class="cn-lyric">[00:42.55]在你坠落前再想一想</div>
-<div class="cn-lyric">[00:42.55]在你坠落前再想一想</div>
-<div class="cn-lyric">[00:42.55]在你坠落前再想一想</div>
 </div>
 
 <div class="lyric-line">
@@ -114,14 +111,12 @@ image: /images/songs/koko/single-1800618742.jpg
 [01:16.73]I won't turn away
 </div>
 <div class="cn-lyric">[01:16.73]我不会转身离去</div>
-<div class="cn-lyric">[01:16.73]我不会转身离去</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:21.80]As you sail away from the shore
 </div>
-<div class="cn-lyric">[01:21.80]当你驾船离开海岸</div>
 <div class="cn-lyric">[01:21.80]当你驾船离开海岸</div>
 </div>
 
@@ -130,14 +125,12 @@ image: /images/songs/koko/single-1800618742.jpg
 [01:26.72]I'm a castaway
 </div>
 <div class="cn-lyric">[01:26.72]我是个漂流者</div>
-<div class="cn-lyric">[01:26.72]我是个漂流者</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:31.43]But I was dead and buried long before
 </div>
-<div class="cn-lyric">[01:31.43]但我早已死去并被埋葬</div>
 <div class="cn-lyric">[01:31.43]但我早已死去并被埋葬</div>
 </div>
 

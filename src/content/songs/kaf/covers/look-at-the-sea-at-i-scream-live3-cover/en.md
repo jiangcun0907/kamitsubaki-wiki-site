@@ -67,16 +67,12 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [00:31.27]Look at the sea look at the flow
 </div>
 <div class="trans-lyric">Look at the sea look at the flow</div>
-<div class="trans-lyric">Look at the sea look at the flow</div>
-<div class="trans-lyric">Look at the sea look at the flow</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:36.03]Look at the bird
 </div>
-<div class="trans-lyric">Look at the bird</div>
-<div class="trans-lyric">Look at the bird</div>
 <div class="trans-lyric">Look at the bird</div>
 </div>
 
@@ -85,12 +81,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [00:38.09]<ruby>醒<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
 <div class="trans-lyric">Please don't wake up</div>
-<div class="trans-lyric">Please don't wake up</div>
-<div class="trans-lyric">Please don't wake up</div>
-<div class="trans-lyric">Please don't wake up</div>
-<div class="trans-lyric">Please don't wake up</div>
-<div class="trans-lyric">Please don't wake up</div>
-<div class="trans-lyric">Please don't wake up</div>
 </div>
 
 <div class="lyric-line">
@@ -98,16 +88,12 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [00:41.44]Look at the sea look at the sky
 </div>
 <div class="trans-lyric">Look at the sea look at the sky</div>
-<div class="trans-lyric">Look at the sea look at the sky</div>
-<div class="trans-lyric">Look at the sea look at the sky</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:46.10]Look at the moon
 </div>
-<div class="trans-lyric">Look at the moon</div>
-<div class="trans-lyric">Look at the moon</div>
 <div class="trans-lyric">Look at the moon</div>
 </div>
 
@@ -250,7 +236,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [02:10.49]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>髪<rt class="furi">かみ</rt><rt class="roma">kami</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>数<rt class="furi">かぞ</rt><rt class="roma">kazo</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
 <div class="trans-lyric">[02:10.49]I want to count your hair</div>
-<div class="trans-lyric">I want to count your hair</div>
 </div>
 
 <div class="lyric-line">

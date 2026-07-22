@@ -103,7 +103,6 @@ NEUROMANCE appears on NEW ROMANCER or a related official release. Entries are ve
 [01:00.26]「<ruby>こころ<rt class="roma">kokoro</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>、<ruby>からだ<rt class="roma">karada</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="trans-lyric">"Heart, and body too</div>
-<div class="trans-lyric">"Heart, and body too</div>
 </div>
 
 <div class="lyric-line">
@@ -111,7 +110,6 @@ NEUROMANCE appears on NEW ROMANCER or a related official release. Entries are ve
 [01:04.88]<ruby>あの<rt class="roma">ano</rt></ruby><ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>預<rt class="furi">あづ</rt><rt class="roma">azu</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">[01:04.88]Try entrusting them to that sky</div>
-<div class="trans-lyric">Try entrusting them to that sky</div>
 </div>
 
 <div class="lyric-line">
@@ -156,7 +154,6 @@ NEUROMANCE appears on NEW ROMANCER or a related official release. Entries are ve
 [01:29.28]<ruby>何故<rt class="furi">なぜ</rt><rt class="roma">naze</rt></ruby>？<ruby>ねぇ<rt class="roma">nee</rt></ruby><ruby>何故<rt class="furi">なぜ</rt><rt class="roma">naze</rt></ruby>？
 </div>
 <div class="trans-lyric">[01:29.28]Why? Hey, why?</div>
-<div class="trans-lyric">Why? Hey, why?</div>
 </div>
 
 <div class="lyric-line">
@@ -164,7 +161,6 @@ NEUROMANCE appears on NEW ROMANCER or a related official release. Entries are ve
 [01:31.04]<ruby>ねぇ<rt class="roma">nee</rt></ruby>、<ruby>何故<rt class="furi">なぜ</rt><rt class="roma">naze</rt></ruby>？
 </div>
 <div class="trans-lyric">[01:31.04]Hey, why?</div>
-<div class="trans-lyric">Hey, why?</div>
 </div>
 
 <div class="lyric-line">
@@ -172,7 +168,6 @@ NEUROMANCE appears on NEW ROMANCER or a related official release. Entries are ve
 [01:32.69]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>達<rt class="furi">たち</rt><rt class="roma">tachi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>、<ruby>何故<rt class="furi">なぜ</rt><rt class="roma">naze</rt></ruby>？
 </div>
 <div class="trans-lyric">[01:32.69]You all, why?</div>
-<div class="trans-lyric">You all, why?</div>
 </div>
 
 <div class="lyric-line">
@@ -180,7 +175,6 @@ NEUROMANCE appears on NEW ROMANCER or a related official release. Entries are ve
 [01:34.73]<ruby>ねぇ<rt class="roma">nee</rt></ruby><ruby>何故<rt class="furi">なぜ</rt><rt class="roma">naze</rt></ruby>？
 </div>
 <div class="trans-lyric">[01:34.73]Hey, why?</div>
-<div class="trans-lyric">Hey, why?</div>
 </div>
 
 <div class="lyric-line">

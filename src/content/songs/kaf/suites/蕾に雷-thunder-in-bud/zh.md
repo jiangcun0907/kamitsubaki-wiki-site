@@ -37,8 +37,6 @@ image: /images/songs/kaf/track-1689187557.jpg
 [00:00.17](Five, six)
 </div>
 <div class="cn-lyric">[00:00.17](Five, six)</div>
-<div class="cn-lyric">[00:00.17](Five, six)</div>
-<div class="cn-lyric">[00:00.17](Five, six)</div>
 </div>
 
 <br />
@@ -101,7 +99,6 @@ image: /images/songs/kaf/track-1689187557.jpg
 [01:05.35]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>恋<rt class="furi">こい</rt><rt class="roma">koi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby> <ruby>筈<rt class="furi">はず</rt><rt class="roma">hazu</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="cn-lyric">[01:05.35]我本应是在恋爱</div>
-<div class="cn-lyric">我本应是在恋爱</div>
 </div>
 
 <br />

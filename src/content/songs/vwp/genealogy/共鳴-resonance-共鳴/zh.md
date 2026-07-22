@@ -182,18 +182,12 @@ image: /images/songs/vwp/single-1689357635.jpg
 [01:23.30]<ruby>レッツシングアウトボーイ<rt class="roma">rettsushinguautoboui</rt></ruby>
 </div>
 <div class="cn-lyric">[01:23.30]Let's sing out boy</div>
-<div class="cn-lyric">[01:23.30]Let's sing out boy</div>
-<div class="cn-lyric">[01:23.30]Let's sing out boy</div>
-<div class="cn-lyric">[01:23.30]Let's sing out boy</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:24.98]<ruby>レッツシングアウトガール<rt class="roma">rettsushinguautogaaru</rt></ruby>
 </div>
-<div class="cn-lyric">[01:24.98]Let's sing out girl</div>
-<div class="cn-lyric">[01:24.98]Let's sing out girl</div>
-<div class="cn-lyric">[01:24.98]Let's sing out girl</div>
 <div class="cn-lyric">[01:24.98]Let's sing out girl</div>
 </div>
 
@@ -209,16 +203,12 @@ image: /images/songs/vwp/single-1689357635.jpg
 [01:30.28]<ruby>ベイビーアイラービュー<rt class="roma">beibiiairaabyuu</rt></ruby>
 </div>
 <div class="cn-lyric">[01:30.28]Baby I love you</div>
-<div class="cn-lyric">[01:30.28]Baby I love you</div>
-<div class="cn-lyric">[01:30.28]Baby I love you</div>
-<div class="cn-lyric">[01:30.28]Baby I love you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:31.98]<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>どうも<rt class="roma">doumo</rt></ruby>
 </div>
-<div class="cn-lyric">[01:31.98]爱似乎</div>
 <div class="cn-lyric">[01:31.98]爱似乎</div>
 </div>
 
@@ -409,7 +399,6 @@ image: /images/songs/vwp/single-1689357635.jpg
 <div class="jp-lyric">
 [02:48.80]<ruby>とりあえず<rt class="roma">toriaezu</rt></ruby><ruby>みんな<rt class="roma">minna</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>みよ<rt class="roma">miyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>（<ruby>せ<rt class="roma">se</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>）
 </div>
-<div class="cn-lyric">[02:48.80]总之大家一起说出来吧（预备）</div>
 <div class="cn-lyric">[02:48.80]总之大家一起说出来吧（预备）</div>
 </div>
 

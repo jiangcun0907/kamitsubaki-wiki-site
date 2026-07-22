@@ -36,21 +36,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [00:10.83]<ruby>イマジナリーフレンド<rt class="roma">imajinariifurendo</rt></ruby>
 </div>
 <div class="trans-lyric">Imaginary Friend</div>
-<div class="trans-lyric">Imaginary Friend</div>
-<div class="trans-lyric">Imaginary Friend</div>
-<div class="trans-lyric">Imaginary Friend</div>
-<div class="trans-lyric">Imaginary Friend</div>
-<div class="trans-lyric">Imaginary Friend</div>
-<div class="trans-lyric">Imaginary Friend</div>
-<div class="trans-lyric">Imaginary Friend</div>
-<div class="trans-lyric">Imaginary Friend</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:15.52]<ruby>ねえ<rt class="roma">nee</rt></ruby><ruby>どうして<rt class="roma">doushite</rt></ruby>？
 </div>
-<div class="trans-lyric">Hey, why?</div>
 <div class="trans-lyric">Hey, why?</div>
 </div>
 
@@ -64,7 +55,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 <div class="jp-lyric">
 [00:21.23]<ruby>死<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>じゃった<rt class="roma">jatta</rt></ruby>？
 </div>
-<div class="trans-lyric">Did you die?</div>
 <div class="trans-lyric">Did you die?</div>
 </div>
 
@@ -97,14 +87,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [00:34.25]<ruby>そう<rt class="roma">sou</rt></ruby>、<ruby>そう<rt class="roma">sou</rt></ruby><ruby>そう<rt class="roma">sou</rt></ruby>、<ruby>特別<rt class="furi">とくべつ</rt><rt class="roma">tokubetsu</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>日<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby>
 </div>
 <div class="trans-lyric">Yes, yes, yes, about the day I had a special dream</div>
-<div class="trans-lyric">Yes, yes, yes, about the day I had a special dream</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:39.83]<ruby>そう<rt class="roma">sou</rt></ruby>、<ruby>そう<rt class="roma">sou</rt></ruby><ruby>そう<rt class="roma">sou</rt></ruby>、<ruby>早朝<rt class="furi">そうちょう</rt><rt class="roma">souchou</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>うまく<rt class="roma">umaku</rt></ruby><ruby>ログイン<rt class="roma">roguin</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
-<div class="trans-lyric">Yes, yes, yes, I logged in successfully early in the morning</div>
 <div class="trans-lyric">Yes, yes, yes, I logged in successfully early in the morning</div>
 </div>
 
@@ -113,14 +101,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [00:44.71]<ruby>エラー<rt class="roma">eraa</rt></ruby><ruby>ばっか<rt class="roma">bakka</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>人生<rt class="furi">じんせい</rt><rt class="roma">jinsei</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">In a life full of errors</div>
-<div class="trans-lyric">In a life full of errors</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:47.45]<ruby>花火<rt class="furi">はなび</rt><rt class="roma">hanabi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>あがる<rt class="roma">agaru</rt></ruby><ruby>お<rt class="roma">o</rt></ruby><ruby>城<rt class="furi">しろ</rt><rt class="roma">shiro</rt></ruby>
 </div>
-<div class="trans-lyric">A castle where fireworks go up</div>
 <div class="trans-lyric">A castle where fireworks go up</div>
 </div>
 
@@ -129,14 +115,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [00:50.47]<ruby>ひ<rt class="roma">hi</rt></ruby><ruby>ゅ<rt class="roma">yu</rt></ruby><ruby>ーーー<rt class="roma">---</rt></ruby><ruby>ぅ<rt class="roma">u</rt></ruby>
 </div>
 <div class="trans-lyric">Hyyyuuuh</div>
-<div class="trans-lyric">Hyyyuuuh</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:50.47]<ruby>ひ<rt class="roma">hi</rt></ruby><ruby>ゅ<rt class="roma">yu</rt></ruby><ruby>ーーーー<rt class="roma">----</rt></ruby><ruby>ぅ<rt class="roma">u</rt></ruby>
 </div>
-<div class="trans-lyric">Hyyyyyuuuh</div>
 <div class="trans-lyric">Hyyyyyuuuh</div>
 </div>
 
@@ -220,18 +204,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [01:36.41]<ruby>うさ<rt class="roma">usa</rt></ruby><ruby>うさ<rt class="roma">usa</rt></ruby><ruby>うさ<rt class="roma">usa</rt></ruby><ruby>ちゃん<rt class="roma">chan</rt></ruby><ruby>の<rt class="roma">no</rt></ruby> <ruby>憂さ晴<rt class="furi">うさば</rt><rt class="roma">usaba</rt></ruby><ruby>らし<rt class="roma">rashi</rt></ruby>
 </div>
 <div class="trans-lyric">Usa Usa Usa-chan's stress relief</div>
-<div class="trans-lyric">Usa Usa Usa-chan's stress relief</div>
-<div class="trans-lyric">Usa Usa Usa-chan's stress relief</div>
-<div class="trans-lyric">Usa Usa Usa-chan's stress relief</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:39.28]<ruby>バラバラ<rt class="roma">barabara</rt></ruby><ruby>バランス<rt class="roma">baransu</rt></ruby> <ruby>持ち直<rt class="furi">もちなお</rt><rt class="roma">mochinao</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">Bara Bara Balance, regain it</div>
-<div class="trans-lyric">Bara Bara Balance, regain it</div>
-<div class="trans-lyric">Bara Bara Balance, regain it</div>
 <div class="trans-lyric">Bara Bara Balance, regain it</div>
 </div>
 
@@ -240,15 +218,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [01:41.93]<ruby>もち<rt class="roma">mochi</rt></ruby><ruby>もち<rt class="roma">mochi</rt></ruby><ruby>もちろん<rt class="roma">mochiron</rt></ruby><ruby>もう<rt class="roma">mou</rt></ruby> <ruby>関係<rt class="furi">かんけい</rt><rt class="roma">kankei</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby>
 </div>
 <div class="trans-lyric">Mochi mochi of course already, regardless</div>
-<div class="trans-lyric">Mochi mochi of course already, regardless</div>
-<div class="trans-lyric">Mochi mochi of course already, regardless</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:44.81]<ruby>け<rt class="roma">ke</rt></ruby><ruby>いけい<rt class="roma">ikei</rt></ruby><ruby>経験<rt class="furi">けいけん</rt><rt class="roma">keiken</rt></ruby><ruby>値<rt class="furi">ち</rt><rt class="roma">chi</rt></ruby> <ruby>つみかさね<rt class="roma">tsumikasane</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">Kei kei experience points, stack them up</div>
 <div class="trans-lyric">Kei kei experience points, stack them up</div>
 </div>
 
@@ -274,7 +249,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 <div class="jp-lyric">
 [01:55.96]<ruby>あの<rt class="roma">ano</rt></ruby><ruby>子<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>別々<rt class="furi">べつべつ</rt><rt class="roma">betsubetsu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>幸<rt class="furi">しあわ</rt><rt class="roma">shiawa</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby>
 </div>
-<div class="trans-lyric">That kid and I are happy separately</div>
 <div class="trans-lyric">That kid and I are happy separately</div>
 </div>
 
@@ -398,16 +372,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [03:15.33]<ruby>うまく<rt class="roma">umaku</rt></ruby><ruby>やれ<rt class="roma">yare</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>瞬間<rt class="furi">しゅんかん</rt><rt class="roma">shunkan</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">There's no moment I did well</div>
-<div class="trans-lyric">There's no moment I did well</div>
-<div class="trans-lyric">There's no moment I did well</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [03:17.26]<ruby>うまく<rt class="roma">umaku</rt></ruby><ruby>やろ<rt class="roma">yaro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>思<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>やめる<rt class="roma">yameru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
 </div>
-<div class="trans-lyric">To stop trying to do well</div>
-<div class="trans-lyric">To stop trying to do well</div>
 <div class="trans-lyric">To stop trying to do well</div>
 </div>
 
@@ -416,16 +386,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [03:19.09]<ruby>生き方<rt class="furi">いきかた</rt><rt class="roma">ikikata</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>わかっちゃった<rt class="roma">wakatchatta</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="trans-lyric">Because I realized that's how to live</div>
-<div class="trans-lyric">Because I realized that's how to live</div>
-<div class="trans-lyric">Because I realized that's how to live</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [03:20.62]<ruby>きっと<rt class="roma">kitto</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>必要<rt class="furi">ひつよう</rt><rt class="roma">hitsuyou</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>なって<rt class="roma">natte</rt></ruby><ruby>しまった<rt class="roma">shimatta</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
-<div class="trans-lyric">Surely I no longer need you</div>
-<div class="trans-lyric">Surely I no longer need you</div>
 <div class="trans-lyric">Surely I no longer need you</div>
 </div>
 
@@ -434,16 +400,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [03:23.13]<ruby>お<rt class="roma">o</rt></ruby><ruby>別<rt class="furi">わか</rt><rt class="roma">waka</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby><ruby>きい<rt class="roma">kii</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">I never heard about saying goodbye</div>
-<div class="trans-lyric">I never heard about saying goodbye</div>
-<div class="trans-lyric">I never heard about saying goodbye</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [03:24.61]<ruby>ずっと<rt class="roma">zutto</rt></ruby>2<ruby>人<rt class="furi">にん</rt><rt class="roma">nin</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>だった<rt class="roma">datta</rt></ruby>
 </div>
-<div class="trans-lyric">It was always a world of just the two of us</div>
-<div class="trans-lyric">It was always a world of just the two of us</div>
 <div class="trans-lyric">It was always a world of just the two of us</div>
 </div>
 
@@ -578,8 +540,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 <div class="jp-lyric">
 [04:18.29]<ruby>幸<rt class="furi">しあわ</rt><rt class="roma">shiawa</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby>
 </div>
-<div class="trans-lyric">Happiness</div>
-<div class="trans-lyric">Happiness</div>
 <div class="trans-lyric">Happiness</div>
 </div>
 

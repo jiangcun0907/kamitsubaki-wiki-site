@@ -99,14 +99,12 @@ image: /images/albums/isekaijoucho/virtual-ties.jpg
 [00:50.12]<ruby>また<rt class="roma">mata</rt></ruby><ruby>新<rt class="furi">あたら</rt><rt class="roma">atara</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>景色<rt class="furi">けしき</rt><rt class="roma">keshiki</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>、<ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>続<rt class="furi">つづ</rt><rt class="roma">tsuzu</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="trans-lyric">Again, new scenery, the continuation of dreams</div>
-<div class="trans-lyric">Again, new scenery, the continuation of dreams</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:57.12]<ruby>一緒<rt class="furi">いっしょ</rt><rt class="roma">issho</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>つけ<rt class="roma">tsuke</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">I'll go find them together with you</div>
 <div class="trans-lyric">I'll go find them together with you</div>
 </div>
 
@@ -115,14 +113,12 @@ image: /images/albums/isekaijoucho/virtual-ties.jpg
 [01:02.75]<ruby>ひとり<rt class="roma">hitori</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>触<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>られ<rt class="roma">rare</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>場所<rt class="furi">ばしょ</rt><rt class="roma">basho</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">To a place that cannot be touched by one alone</div>
-<div class="trans-lyric">To a place that cannot be touched by one alone</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:10.50]<ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
-<div class="trans-lyric">I hope it can reach now</div>
 <div class="trans-lyric">I hope it can reach now</div>
 </div>
 
@@ -131,15 +127,12 @@ image: /images/albums/isekaijoucho/virtual-ties.jpg
 [01:15.66]<ruby>散<rt class="furi">ち</rt><rt class="roma">chi</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>始<rt class="furi">はじ</rt><rt class="roma">haji</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>桜<rt class="furi">さくら</rt><rt class="roma">sakura</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>潮<rt class="furi">しお</rt><rt class="roma">shio</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>香<rt class="furi">かお</rt><rt class="roma">kao</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby>
 </div>
 <div class="trans-lyric">The cherry blossoms beginning to scatter and the scent of the tide</div>
-<div class="trans-lyric">The cherry blossoms beginning to scatter and the scent of the tide</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:22.37]<ruby>また<rt class="roma">mata</rt></ruby>、<ruby>ここ<rt class="roma">koko</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
-<div class="trans-lyric">Again, from here</div>
-<div class="trans-lyric">Again, from here</div>
 <div class="trans-lyric">Again, from here</div>
 </div>
 

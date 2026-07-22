@@ -36,16 +36,12 @@ image: /images/songs/isekaijoucho/single-1813048582.jpg
 [00:02.03]<ruby>現実<rt class="furi">げんじつ</rt><rt class="roma">genjitsu</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>後悔<rt class="furi">こうかい</rt><rt class="roma">koukai</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="trans-lyric">Even regrets in reality</div>
-<div class="trans-lyric">Even regrets in reality</div>
-<div class="trans-lyric">Even regrets in reality</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:03.29]<ruby>全<rt class="furi">すべ</rt><rt class="roma">sube</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>無<rt class="furi">む</rt><rt class="roma">mu</rt></ruby><ruby>根拠<rt class="furi">こんきょ</rt><rt class="roma">konkyo</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>包<rt class="furi">つつ</rt><rt class="roma">tsutsu</rt></ruby><ruby>ま<rt class="roma">ma</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>くん<rt class="roma">kun</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
-<div class="trans-lyric">Everything gets wrapped in groundlessness</div>
-<div class="trans-lyric">Everything gets wrapped in groundlessness</div>
 <div class="trans-lyric">Everything gets wrapped in groundlessness</div>
 </div>
 
@@ -54,16 +50,12 @@ image: /images/songs/isekaijoucho/single-1813048582.jpg
 [00:05.24]<ruby>差別<rt class="furi">さべつ</rt><rt class="roma">sabetsu</rt></ruby><ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby><ruby>この<rt class="roma">kono</rt></ruby><ruby>空想<rt class="furi">くうそう</rt><rt class="roma">kuusou</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="trans-lyric">This discriminatory fantasy too</div>
-<div class="trans-lyric">This discriminatory fantasy too</div>
-<div class="trans-lyric">This discriminatory fantasy too</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:06.54]<ruby>眠<rt class="furi">ねむ</rt><rt class="roma">nemu</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
 </div>
-<div class="trans-lyric">Into the sleepless dream</div>
-<div class="trans-lyric">Into the sleepless dream</div>
 <div class="trans-lyric">Into the sleepless dream</div>
 </div>
 
@@ -72,16 +64,12 @@ image: /images/songs/isekaijoucho/single-1813048582.jpg
 [00:06.54]<ruby>進み出<rt class="furi">すすみだ</rt><rt class="roma">susumida</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby>
 </div>
 <div class="trans-lyric">I step forward</div>
-<div class="trans-lyric">I step forward</div>
-<div class="trans-lyric">I step forward</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:08.61]<ruby>いらっしゃい<rt class="roma">irasshai</rt></ruby><ruby>ませ<rt class="roma">mase</rt></ruby><ruby>会<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>出<rt class="furi">で</rt><rt class="roma">de</rt></ruby><ruby>あ<rt class="roma">a</rt></ruby><ruby>ストア<rt class="roma">sutoa</rt></ruby>
 </div>
-<div class="trans-lyric">Welcome to the encounter store</div>
-<div class="trans-lyric">Welcome to the encounter store</div>
 <div class="trans-lyric">Welcome to the encounter store</div>
 </div>
 
@@ -90,8 +78,6 @@ image: /images/songs/isekaijoucho/single-1813048582.jpg
 [00:10.05]<ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>求<rt class="furi">もと</rt><rt class="roma">moto</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>暖<rt class="furi">あたた</rt><rt class="roma">atata</rt></ruby><ruby>める<rt class="roma">meru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>どう<rt class="roma">dou</rt></ruby><ruby>です<rt class="roma">desu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
 </div>
 <div class="trans-lyric">How about seeking and warming someone?</div>
-<div class="trans-lyric">How about seeking and warming someone?</div>
-<div class="trans-lyric">How about seeking and warming someone?</div>
 </div>
 
 <div class="lyric-line">
@@ -99,18 +85,12 @@ image: /images/songs/isekaijoucho/single-1813048582.jpg
 [00:12.04]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>ここ<rt class="roma">koko</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>ただ<rt class="roma">tada</rt></ruby>
 </div>
 <div class="trans-lyric">Just from here, me</div>
-<div class="trans-lyric">Just from here, me</div>
-<div class="trans-lyric">Just from here, me</div>
-<div class="trans-lyric">Just from here, me</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:15.17]<ruby>連れ出<rt class="furi">つれだ</rt><rt class="roma">tsureda</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>トロイメライ<rt class="roma">toroimerai</rt></ruby>
 </div>
-<div class="trans-lyric">Take me out, Traumerei</div>
-<div class="trans-lyric">Take me out, Traumerei</div>
-<div class="trans-lyric">Take me out, Traumerei</div>
 <div class="trans-lyric">Take me out, Traumerei</div>
 </div>
 

@@ -201,7 +201,6 @@ image: /images/albums/vwp/proliferation.jpg
 [01:33.02]Revive
 </div>
 <div class="trans-lyric">Revive</div>
-<div class="trans-lyric">Revive</div>
 </div>
 
 <br />

@@ -39,17 +39,12 @@ image: /images/albums/kaf/maho.jpg
 [00:05.07]<ruby>メル<rt class="roma">meru</rt></ruby>
 </div>
 <div class="trans-lyric">Mel</div>
-<div class="trans-lyric">Mel</div>
-<div class="trans-lyric">Mel</div>
-<div class="trans-lyric">Mel</div>
-<div class="trans-lyric">Mel</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>そう<rt class="roma">sou</rt></ruby><ruby>やって<rt class="roma">yatte</rt></ruby><ruby>いつも<rt class="roma">itsumo</rt></ruby><ruby>自分<rt class="furi">じぶん</rt><rt class="roma">jibun</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>責<rt class="furi">せ</rt><rt class="roma">se</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ばかり<rt class="roma">bakari</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
-<div class="trans-lyric">You're always blaming yourself like that</div>
 <div class="trans-lyric">You're always blaming yourself like that</div>
 </div>
 
@@ -101,7 +96,6 @@ image: /images/albums/kaf/maho.jpg
 <div class="jp-lyric">
 <ruby>意味<rt class="furi">いみ</rt><rt class="roma">imi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ず<rt class="roma">zu</rt></ruby><ruby>雪<rt class="furi">ゆき</rt><rt class="roma">yuki</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
-<div class="trans-lyric">I watched the snow without knowing its meaning</div>
 <div class="trans-lyric">I watched the snow without knowing its meaning</div>
 </div>
 
@@ -373,7 +367,6 @@ image: /images/albums/kaf/maho.jpg
 <div class="jp-lyric">
 <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>正<rt class="furi">ただ</rt><rt class="roma">tada</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
 </div>
-<div class="trans-lyric">Are you right?</div>
 <div class="trans-lyric">Are you right?</div>
 </div>
 

@@ -80,8 +80,6 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [01:01.03]stay with me <ruby>真夜中<rt class="furi">まよなか</rt><rt class="roma">mayonaka</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ドア<rt class="roma">doa</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>たたき<rt class="roma">tataki</rt></ruby>
 </div>
 <div class="trans-lyric">stay with me, knocking on the midnight door</div>
-<div class="trans-lyric">stay with me, knocking on the midnight door</div>
-<div class="trans-lyric">stay with me, knocking on the midnight door</div>
 </div>
 
 <div class="lyric-line">
@@ -89,14 +87,12 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [01:08.15]<ruby>帰<rt class="furi">かえ</rt><rt class="roma">kae</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>泣<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>あの<rt class="roma">ano</rt></ruby><ruby>季節<rt class="furi">きせつ</rt><rt class="roma">kisetsu</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby> <ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby> <ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>前<rt class="furi">まえ</rt><rt class="roma">mae</rt></ruby>
 </div>
 <div class="trans-lyric">That season when I cried 'please don't leave' is now right in front of me</div>
-<div class="trans-lyric">That season when I cried 'please don't leave' is now right in front of me</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:18.52]stay with me <ruby>口<rt class="furi">くち</rt><rt class="roma">kuchi</rt></ruby><ruby>ぐせ<rt class="roma">guse</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>ながら<rt class="roma">nagara</rt></ruby>
 </div>
-<div class="trans-lyric">stay with me, while saying your catchphrase</div>
 <div class="trans-lyric">stay with me, while saying your catchphrase</div>
 </div>
 

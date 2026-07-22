@@ -67,7 +67,6 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 [00:57.17]<ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="cn-lyric">[00:57.17]纵使入梦</div>
-<div class="cn-lyric">[00:57.17]纵使入梦</div>
 </div>
 
 <br />

@@ -168,7 +168,6 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [02:16.97]<ruby>フシギ<rt class="roma">fushigi</rt></ruby> <ruby>ココロ<rt class="roma">kokoro</rt></ruby> <ruby>ココロ<rt class="roma">kokoro</rt></ruby> <ruby>フシギ<rt class="roma">fushigi</rt></ruby>
 </div>
 <div class="cn-lyric">[02:16.97]不可思议 心 心 不可思议</div>
-<div class="cn-lyric">[02:16.97]不可思议 心 心 不可思议</div>
 </div>
 
 <div class="lyric-line">
@@ -276,10 +275,6 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 <div class="jp-lyric">
 [03:27.26]<ruby>アリガトウ<rt class="roma">arigatou</rt></ruby>･･･
 </div>
-<div class="cn-lyric">[03:27.26]谢谢你...</div>
-<div class="cn-lyric">[03:27.26]谢谢你...</div>
-<div class="cn-lyric">[03:27.26]谢谢你...</div>
-<div class="cn-lyric">[03:27.26]谢谢你...</div>
 <div class="cn-lyric">[03:27.26]谢谢你...</div>
 </div>
 

@@ -82,7 +82,6 @@ image: /images/songs/koko/single-1667765116.jpg
 [01:16.17]<ruby>歪<rt class="furi">いが</rt><rt class="roma">iga</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>普遍<rt class="furi">ふへん</rt><rt class="roma">fuhen</rt></ruby><ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>飴<rt class="furi">あめ</rt><rt class="roma">ame</rt></ruby> <ruby>惰性<rt class="furi">だせい</rt><rt class="roma">dasei</rt></ruby><ruby>式<rt class="furi">しき</rt><rt class="roma">shiki</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>故<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>意義<rt class="furi">いぎ</rt><rt class="roma">igi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>成<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">In a world where distorted universal candy, inertia style cannot achieve even purpose.</div>
-<div class="trans-lyric">In a world where distorted universal candy, inertia style cannot achieve even purpose.</div>
 </div>
 
 <div class="lyric-line">

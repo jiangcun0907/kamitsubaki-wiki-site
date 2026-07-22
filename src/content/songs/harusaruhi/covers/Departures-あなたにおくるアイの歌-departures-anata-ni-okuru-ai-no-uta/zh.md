@@ -87,8 +87,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [00:52.21]<ruby>離<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="cn-lyric">[00:52.21]不要放手</div>
-<div class="cn-lyric">[00:52.21]不要放手</div>
-<div class="cn-lyric">[00:52.21]不要放手</div>
 </div>
 
 <div class="lyric-line">

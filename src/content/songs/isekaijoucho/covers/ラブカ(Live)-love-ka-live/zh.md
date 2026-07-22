@@ -36,7 +36,6 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [00:14.19]<ruby>暗<rt class="furi">くら</rt><rt class="roma">kura</rt></ruby><ruby>い<rt class="roma">i</rt></ruby> <ruby>暗<rt class="furi">くら</rt><rt class="roma">kura</rt></ruby><ruby>い<rt class="roma">i</rt></ruby> <ruby>深海<rt class="furi">しんかい</rt><rt class="roma">shinkai</rt></ruby> <ruby>ヴェール<rt class="roma">vyeeru</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>包<rt class="furi">つつ</rt><rt class="roma">tsutsu</rt></ruby><ruby>ま<rt class="roma">ma</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby> <ruby>ラ<rt class="roma">ra</rt></ruby> <ruby>ラ<rt class="roma">ra</rt></ruby> <ruby>ラ<rt class="roma">ra</rt></ruby> <ruby>ラ<rt class="roma">ra</rt></ruby> <ruby>ラ<rt class="roma">ra</rt></ruby> <ruby>ラブ<rt class="roma">rabu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>？
 </div>
 <div class="cn-lyric">[00:14.19]昏暗 昏暗 深海 被面纱包裹的是 啦 啦 啦 啦 啦 啦爱吗？</div>
-<div class="cn-lyric">昏暗 昏暗 深海 被面纱包裹的是 啦 啦 啦 啦 啦 啦爱吗？</div>
 </div>
 
 <div class="lyric-line">
@@ -44,7 +43,6 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [00:21.61]<ruby>奪<rt class="furi">うば</rt><rt class="roma">uba</rt></ruby><ruby>い<rt class="roma">i</rt></ruby> <ruby>奪<rt class="furi">うば</rt><rt class="roma">uba</rt></ruby><ruby>い<rt class="roma">i</rt></ruby> <ruby>叶<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>ぬ<rt class="roma">nu</rt></ruby><ruby>願<rt class="furi">ねが</rt><rt class="roma">nega</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>打ち上<rt class="furi">うちあ</rt><rt class="roma">uchia</rt></ruby><ruby>げ<rt class="roma">ge</rt></ruby><ruby>られ<rt class="roma">rare</rt></ruby> <ruby>さ<rt class="roma">sa</rt></ruby> <ruby>さ<rt class="roma">sa</rt></ruby> <ruby>さ<rt class="roma">sa</rt></ruby> <ruby>さっさと<rt class="roma">sassato</rt></ruby><ruby>去<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>？
 </div>
 <div class="cn-lyric">[00:21.61]夺取 夺取 无法实现的愿望被冲上岸 啦 啦 啦 快快离去吗？</div>
-<div class="cn-lyric">夺取 夺取 无法实现的愿望被冲上岸 啦 啦 啦 快快离去吗？</div>
 </div>
 
 <div class="lyric-line">
@@ -52,7 +50,6 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [00:28.63]<ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby> <ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby> <ruby>それでも<rt class="roma">soredemo</rt></ruby><ruby>光<rt class="furi">ひかり</rt><rt class="roma">hikari</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>潰<rt class="furi">つい</rt><rt class="roma">tsui</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>水面<rt class="furi">すいめん</rt><rt class="roma">suimen</rt></ruby> <ruby>その<rt class="roma">sono</rt></ruby><ruby>遥<rt class="furi">はる</rt><rt class="roma">haru</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby> <ruby>ラブカ<rt class="roma">rabuka</rt></ruby>
 </div>
 <div class="cn-lyric">[00:28.63]传递 传递 即便如此光仍溃散于水面 那遥远之处 拉布卡</div>
-<div class="cn-lyric">传递 传递 即便如此光仍溃散于水面 那遥远之处 拉布卡</div>
 </div>
 
 <div class="lyric-line">
@@ -60,7 +57,6 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [00:35.88]<ruby>クライ<rt class="roma">kurai</rt></ruby> <ruby>クライ<rt class="roma">kurai</rt></ruby> <ruby>未開<rt class="furi">みかい</rt><rt class="roma">mikai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>想<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>足<rt class="furi">た</rt><rt class="roma">ta</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ぬ<rt class="roma">nu</rt></ruby> <ruby>足<rt class="furi">た</rt><rt class="roma">ta</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ぬ<rt class="roma">nu</rt></ruby> <ruby>至<rt class="furi">いた</rt><rt class="roma">ita</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ぬ<rt class="roma">nu</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ラブ<rt class="roma">rabu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>？
 </div>
 <div class="cn-lyric">[00:35.88]黑暗 黑暗 未开发的情感不足 不足 不够的是爱吗？</div>
-<div class="cn-lyric">黑暗 黑暗 未开发的情感不足 不足 不够的是爱吗？</div>
 </div>
 
 <br />
@@ -70,14 +66,12 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [00:43.95]<ruby>ラブカ<rt class="roma">rabuka</rt></ruby> <ruby>ラララ<rt class="roma">rarara</rt></ruby> <ruby>ラブカ<rt class="roma">rabuka</rt></ruby>
 </div>
 <div class="cn-lyric">[00:43.95]拉布卡 啦啦啦 拉布卡</div>
-<div class="cn-lyric">[00:43.95]拉布卡 啦啦啦 拉布卡</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:47.52]<ruby>ラブ<rt class="roma">rabu</rt></ruby> <ruby>な<rt class="roma">na</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>？
 </div>
-<div class="cn-lyric">[00:47.52]是爱吗？</div>
 <div class="cn-lyric">[00:47.52]是爱吗？</div>
 </div>
 
@@ -88,15 +82,12 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [00:53.42]<ruby>甘<rt class="furi">あま</rt><rt class="roma">ama</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>ラビュー<rt class="roma">rabyuu</rt></ruby> <ruby>ラビュー<rt class="roma">rabyuu</rt></ruby> <ruby>ラビュー<rt class="roma">rabyuu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>？
 </div>
 <div class="cn-lyric">[00:53.42]甜美的拉比尤 拉比尤 拉比尤吗？</div>
-<div class="cn-lyric">甜美的拉比尤 拉比尤 拉比尤吗？</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:55.18]<ruby>それ<rt class="roma">sore</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>バグ<rt class="roma">bagu</rt></ruby> <ruby>バグ<rt class="roma">bagu</rt></ruby> <ruby>バグ<rt class="roma">bagu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>？
 </div>
-<div class="cn-lyric">[00:55.18]那是错误 错误 错误吗？</div>
-<div class="cn-lyric">[00:55.18]那是错误 错误 错误吗？</div>
 <div class="cn-lyric">[00:55.18]那是错误 错误 错误吗？</div>
 </div>
 
@@ -105,7 +96,6 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [00:57.29]<ruby>嘘<rt class="furi">うそ</rt><rt class="roma">uso</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>嘘<rt class="furi">うそ</rt><rt class="roma">uso</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>濁<rt class="furi">にご</rt><rt class="roma">nigo</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby><ruby>アイ<rt class="roma">ai</rt></ruby> <ruby>アイニージュ<rt class="roma">ainiiju</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>？
 </div>
 <div class="cn-lyric">[00:57.29]用谎言与谎言浑浊的爱 爱需要吗？</div>
-<div class="cn-lyric">用谎言与谎言浑浊的爱 爱需要吗？</div>
 </div>
 
 <div class="lyric-line">
@@ -113,7 +103,6 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [01:00.50]<ruby>腐<rt class="furi">くさ</rt><rt class="roma">kusa</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby> <ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby> <ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>？
 </div>
 <div class="cn-lyric">[01:00.50]腐朽的爱 爱 爱吗？</div>
-<div class="cn-lyric">腐朽的爱 爱 爱吗？</div>
 </div>
 
 <div class="lyric-line">
@@ -121,7 +110,6 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [01:02.23]<ruby>咀嚼<rt class="furi">そしゃく</rt><rt class="roma">soshaku</rt></ruby> <ruby>吐き出<rt class="furi">はきだ</rt><rt class="roma">hakida</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>泣<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>？
 </div>
 <div class="cn-lyric">[01:02.23]咀嚼 吐出 哭泣吗？</div>
-<div class="cn-lyric">咀嚼 吐出 哭泣吗？</div>
 </div>
 
 <div class="lyric-line">
@@ -129,7 +117,6 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [01:04.46]<ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>ぬ<rt class="roma">nu</rt></ruby><ruby>距離<rt class="furi">きょり</rt><rt class="roma">kyori</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>待<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>しょうが<rt class="roma">shouga</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="cn-lyric">[01:04.46]在无法传达的距离等待也是无可奈何</div>
-<div class="cn-lyric">在无法传达的距离等待也是无可奈何</div>
 </div>
 
 <div class="lyric-line">
@@ -137,7 +124,6 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [01:08.36]<ruby>白亜<rt class="furi">はくあ</rt><rt class="roma">hakua</rt></ruby><ruby>病<rt class="furi">びょう</rt><rt class="roma">byou</rt></ruby> <ruby>ラ<rt class="roma">ra</rt></ruby> <ruby>ラ<rt class="roma">ra</rt></ruby> <ruby>ラ<rt class="roma">ra</rt></ruby> <ruby>ラ<rt class="roma">ra</rt></ruby> <ruby>ラ<rt class="roma">ra</rt></ruby> <ruby>ラブカ<rt class="roma">rabuka</rt></ruby>
 </div>
 <div class="cn-lyric">[01:08.36]白垩病 啦 啦 啦 啦 啦 拉布卡</div>
-<div class="cn-lyric">白垩病 啦 啦 啦 啦 啦 拉布卡</div>
 </div>
 
 <br />
@@ -259,7 +245,6 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 <div class="jp-lyric">
 [02:31.11]<ruby>ラ<rt class="roma">ra</rt></ruby> <ruby>ラ<rt class="roma">ra</rt></ruby> <ruby>ラ<rt class="roma">ra</rt></ruby> <ruby>ラ<rt class="roma">ra</rt></ruby> <ruby>ラ<rt class="roma">ra</rt></ruby> <ruby>ラブカ<rt class="roma">rabuka</rt></ruby>
 </div>
-<div class="cn-lyric">[02:31.11]啦 啦 啦 啦 啦 拉布卡</div>
 <div class="cn-lyric">[02:31.11]啦 啦 啦 啦 啦 拉布卡</div>
 </div>
 

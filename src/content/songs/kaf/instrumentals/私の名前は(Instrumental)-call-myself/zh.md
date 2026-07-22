@@ -62,7 +62,6 @@ repeat after me
 <ruby>アポー<rt class="roma">apou</rt></ruby>、<ruby>バナナ<rt class="roma">banana</rt></ruby>
 </div>
 <div class="cn-lyric">阿波，香蕉</div>
-<div class="cn-lyric">阿波，香蕉</div>
 </div>
 
 <div class="lyric-line">
@@ -146,7 +145,6 @@ today's lunch Happo-sai
 <ruby>アポー<rt class="roma">apou</rt></ruby>
 </div>
 <div class="cn-lyric">阿波</div>
-<div class="cn-lyric">阿波</div>
 </div>
 
 <div class="lyric-line">
@@ -160,7 +158,6 @@ today's lunch Happo-sai
 <ruby>りんご<rt class="roma">ringo</rt></ruby>
 </div>
 <div class="cn-lyric">苹果</div>
-<div class="cn-lyric">苹果</div>
 </div>
 
 <div class="lyric-line">
@@ -173,7 +170,6 @@ today's lunch Happo-sai
 <div class="jp-lyric">
 <ruby>おいしい<rt class="roma">oishii</rt></ruby>
 </div>
-<div class="cn-lyric">好吃</div>
 <div class="cn-lyric">好吃</div>
 </div>
 
@@ -208,10 +204,6 @@ today's lunch Happo-sai
 <div class="jp-lyric">
 <ruby>英語<rt class="furi">えいご</rt><rt class="roma">eigo</rt></ruby><ruby>でき<rt class="roma">deki</rt></ruby><ruby>たら<rt class="roma">tara</rt></ruby>
 </div>
-<div class="cn-lyric">如果能说英语</div>
-<div class="cn-lyric">如果能说英语</div>
-<div class="cn-lyric">如果能说英语</div>
-<div class="cn-lyric">如果能说英语</div>
 <div class="cn-lyric">如果能说英语</div>
 </div>
 
@@ -476,7 +468,6 @@ we are banana
 <div class="jp-lyric">
 <ruby>あなた<rt class="roma">anata</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>英語<rt class="furi">えいご</rt><rt class="roma">eigo</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>教<rt class="furi">おし</rt><rt class="roma">oshi</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>ティーチャー<rt class="roma">teiichaa</rt></ruby>
 </div>
-<div class="cn-lyric">教你英语的老师</div>
 <div class="cn-lyric">教你英语的老师</div>
 </div>
 

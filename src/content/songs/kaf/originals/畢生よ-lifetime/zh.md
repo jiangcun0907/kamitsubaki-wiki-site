@@ -140,7 +140,6 @@ image: /images/albums/kaf/maho.jpg
 [00:58.72]<ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>信<rt class="furi">しん</rt><rt class="roma">shin</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>目指<rt class="furi">めざ</rt><rt class="roma">meza</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[00:58.72]相信什么、以什么为目标</div>
-<div class="cn-lyric">[00:58.72]相信什么、以什么为目标</div>
 </div>
 
 <div class="lyric-line">
@@ -168,8 +167,6 @@ image: /images/albums/kaf/maho.jpg
 <div class="jp-lyric">
 [01:09.46]<ruby>畢生<rt class="furi">ひっせい</rt><rt class="roma">hissei</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="cn-lyric">[01:09.46]毕生啊</div>
-<div class="cn-lyric">[01:09.46]毕生啊</div>
 <div class="cn-lyric">[01:09.46]毕生啊</div>
 </div>
 

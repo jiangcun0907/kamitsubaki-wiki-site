@@ -36,7 +36,6 @@ MiMi Cry appears on prayer2 or a related official release. Entries are version-s
 <ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>ついに<rt class="roma">tsuini</rt></ruby><ruby>姿<rt class="furi">すがた</rt><rt class="roma">sugata</rt></ruby><ruby>形<rt class="furi">がた</rt><rt class="roma">gata</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>変<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>しまう<rt class="roma">shimau</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
 <div class="trans-lyric">Even you in my dreams finally change your appearance and form, don't you?</div>
-<div class="trans-lyric">Even you in my dreams finally change your appearance and form, don't you?</div>
 </div>
 
 <div class="lyric-line">
@@ -79,14 +78,12 @@ MiMi Cry appears on prayer2 or a related official release. Entries are version-s
 <ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby><ruby>体<rt class="furi">からだ</rt><rt class="roma">karada</rt></ruby><ruby>中<rt class="furi">ちゅう</rt><rt class="roma">chuu</rt></ruby><ruby>熱<rt class="furi">あつ</rt><rt class="roma">atsu</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>せる<rt class="roma">seru</rt></ruby><ruby>目眩<rt class="furi">めまい</rt><rt class="roma">memai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">With dizziness that heats up my eyes and body</div>
-<div class="trans-lyric">With dizziness that heats up my eyes and body</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>だんだん<rt class="roma">dandan</rt></ruby><ruby>募<rt class="furi">つの</rt><rt class="roma">tsuno</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby><ruby>思<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>鋭利<rt class="furi">えいり</rt><rt class="roma">eiri</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby>
 </div>
-<div class="trans-lyric">The gradually intensifying feelings are sharp</div>
 <div class="trans-lyric">The gradually intensifying feelings are sharp</div>
 </div>
 
@@ -95,7 +92,6 @@ MiMi Cry appears on prayer2 or a related official release. Entries are version-s
 <ruby>教<rt class="furi">おし</rt><rt class="roma">oshi</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>あげる<rt class="roma">ageru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">I'll teach you</div>
-<div class="trans-lyric">I'll teach you</div>
 </div>
 
 <div class="lyric-line">
@@ -103,14 +99,12 @@ MiMi Cry appears on prayer2 or a related official release. Entries are version-s
 <ruby>散々<rt class="furi">さんざん</rt><rt class="roma">sanzan</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby><ruby>遣<rt class="furi">や</rt><rt class="roma">ya</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>瀬<rt class="furi">せ</rt><rt class="roma">se</rt></ruby><ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>矛盾<rt class="furi">むじゅん</rt><rt class="roma">mujun</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">It's a mess, right? With this irreconcilable contradiction</div>
-<div class="trans-lyric">It's a mess, right? With this irreconcilable contradiction</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>それでも<rt class="roma">soredemo</rt></ruby><ruby>前<rt class="furi">まえ</rt><rt class="roma">mae</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>向<rt class="furi">む</rt><rt class="roma">mu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>ちゃ<rt class="roma">cha</rt></ruby>
 </div>
-<div class="trans-lyric">Still, I have to look forward</div>
 <div class="trans-lyric">Still, I have to look forward</div>
 </div>
 

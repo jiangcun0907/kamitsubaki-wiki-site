@@ -33,9 +33,9 @@ image: /images/songs/harusaruhi/single-1889319192.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:49.21]Yeah, yeah
+Yeah, yeah
 </div>
-<div class="cn-lyric">[01:49.21]Yeah, yeah</div>
+<div class="cn-lyric">Yeah, yeah</div>
 </div>
 
 <div class="lyric-line">
@@ -63,21 +63,15 @@ Let's go
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:30.73]Time to make it bounce like woah
+Time to make it bounce like woah
 </div>
-<div class="cn-lyric">[01:30.73]Time to make it bounce like woah</div>
-<div class="cn-lyric">[01:30.73]Time to make it bounce like woah</div>
-<div class="cn-lyric">[01:30.73]Time to make it bounce like woah</div>
-<div class="cn-lyric">[01:30.73]Time to make it bounce like woah</div>
+<div class="cn-lyric">Time to make it bounce like woah</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 어지러운 떨림
 </div>
-<div class="cn-lyric">令人眩晕的颤抖</div>
-<div class="cn-lyric">令人眩晕的颤抖</div>
-<div class="cn-lyric">令人眩晕的颤抖</div>
 <div class="cn-lyric">令人眩晕的颤抖</div>
 </div>
 
@@ -86,18 +80,12 @@ Let's go
 처음 본 아름다움
 </div>
 <div class="cn-lyric">初次见到的美丽</div>
-<div class="cn-lyric">初次见到的美丽</div>
-<div class="cn-lyric">初次见到的美丽</div>
-<div class="cn-lyric">初次见到的美丽</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 거침없이 diving down, down, down
 </div>
-<div class="cn-lyric">毫不犹豫地 diving down, down, down</div>
-<div class="cn-lyric">毫不犹豫地 diving down, down, down</div>
-<div class="cn-lyric">毫不犹豫地 diving down, down, down</div>
 <div class="cn-lyric">毫不犹豫地 diving down, down, down</div>
 </div>
 
@@ -106,9 +94,6 @@ Let's go
 지금까지 느껴본 적 없는 신세계
 </div>
 <div class="cn-lyric">至今从未感受过的新世界</div>
-<div class="cn-lyric">至今从未感受过的新世界</div>
-<div class="cn-lyric">至今从未感受过的新世界</div>
-<div class="cn-lyric">至今从未感受过的新世界</div>
 </div>
 
 <div class="lyric-line">
@@ -116,17 +101,12 @@ Let's go
 몸을 맡겨 던져 움직여봐
 </div>
 <div class="cn-lyric">把身体交给它，抛出去，动起来吧</div>
-<div class="cn-lyric">把身体交给它，抛出去，动起来吧</div>
-<div class="cn-lyric">把身体交给它，抛出去，动起来吧</div>
-<div class="cn-lyric">把身体交给它，抛出去，动起来吧</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Make it pop, make it woop!
 </div>
-<div class="cn-lyric">Make it pop, make it woop!</div>
-<div class="cn-lyric">Make it pop, make it woop!</div>
 <div class="cn-lyric">Make it pop, make it woop!</div>
 </div>
 
@@ -162,9 +142,9 @@ Make it pop, make it woop!
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:16.91]Who be the one that be looking at me?
+Who be the one that be looking at me?
 </div>
-<div class="cn-lyric">[01:16.91]Who be the one that be looking at me?</div>
+<div class="cn-lyric">Who be the one that be looking at me?</div>
 </div>
 
 <div class="lyric-line">
@@ -220,16 +200,16 @@ I can't say no more
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:06.47]Feeling so, so hot
+Feeling so, so hot
 </div>
-<div class="cn-lyric">[00:06.47]Feeling so, so hot</div>
+<div class="cn-lyric">Feeling so, so hot</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:02.92]멀리 go, go, oh, oh
+멀리 go, go, oh, oh
 </div>
-<div class="cn-lyric">[00:02.92]远远地 go, go, oh, oh</div>
+<div class="cn-lyric">远远地 go, go, oh, oh</div>
 </div>
 
 <div class="lyric-line">
@@ -295,16 +275,12 @@ Make it pop, make it woop!
 날 이끄는 느낌 그 물결 따라
 </div>
 <div class="cn-lyric">跟随那引领我的感觉的波浪</div>
-<div class="cn-lyric">跟随那引领我的感觉的波浪</div>
-<div class="cn-lyric">跟随那引领我的感觉的波浪</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 위험해도 가야 해 더 빨리
 </div>
-<div class="cn-lyric">即使危险也要走得更快</div>
-<div class="cn-lyric">即使危险也要走得更快</div>
 <div class="cn-lyric">即使危险也要走得更快</div>
 </div>
 
@@ -313,16 +289,12 @@ Make it pop, make it woop!
 돌이킬 수 없어
 </div>
 <div class="cn-lyric">无法回头</div>
-<div class="cn-lyric">无法回头</div>
-<div class="cn-lyric">无法回头</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 I'm not back, I'm not back, back
 </div>
-<div class="cn-lyric">I'm not back, I'm not back, back</div>
-<div class="cn-lyric">I'm not back, I'm not back, back</div>
 <div class="cn-lyric">I'm not back, I'm not back, back</div>
 </div>
 
@@ -331,16 +303,12 @@ I'm not back, I'm not back, back
 걷잡을 수 없이
 </div>
 <div class="cn-lyric">无法控制地</div>
-<div class="cn-lyric">无法控制地</div>
-<div class="cn-lyric">无法控制地</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 커진 꿈 그 위로
 </div>
-<div class="cn-lyric">在变大的梦想之上</div>
-<div class="cn-lyric">在变大的梦想之上</div>
 <div class="cn-lyric">在变大的梦想之上</div>
 </div>
 
@@ -413,16 +381,16 @@ Three-six-five, burn it up
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:06.47]높이 so, so high
+높이 so, so high
 </div>
-<div class="cn-lyric">[00:06.47]高高地 so, so high</div>
+<div class="cn-lyric">高高地 so, so high</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:02.92]계속 go, go, oh, oh
+계속 go, go, oh, oh
 </div>
-<div class="cn-lyric">[00:02.92]继续 go, go, oh, oh</div>
+<div class="cn-lyric">继续 go, go, oh, oh</div>
 </div>
 
 <div class="lyric-line">
@@ -615,18 +583,18 @@ Time to make it bounce like woah
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:06.47]Woah
+Woah
 </div>
-<div class="cn-lyric">[00:06.47]Woah</div>
+<div class="cn-lyric">Woah</div>
 </div>
 
 <br />
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:30.73]Timе to make it bounce like woah
+Timе to make it bounce like woah
 </div>
-<div class="cn-lyric">[01:30.73]Time to make it bounce like woah</div>
+<div class="cn-lyric">Time to make it bounce like woah</div>
 </div>
 
 <div class="lyric-line">

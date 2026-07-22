@@ -78,7 +78,6 @@ image: /images/albums/vwp/awakening.jpg
 [00:33.43]<ruby>息<rt class="furi">いき</rt><rt class="roma">iki</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>でき<rt class="roma">deki</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>くらい<rt class="roma">kurai</rt></ruby>
 </div>
 <div class="trans-lyric">So much I can't even breathe</div>
-<div class="trans-lyric">So much I can't even breathe</div>
 </div>
 
 <div class="lyric-line">
@@ -108,7 +107,6 @@ image: /images/albums/vwp/awakening.jpg
 <div class="jp-lyric">
 [00:45.55]<ruby>分<rt class="furi">わ</rt><rt class="roma">wa</rt></ruby><ruby>かん<rt class="roma">kan</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby> <ruby>未開<rt class="furi">みかい</rt><rt class="roma">mikai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>飲み込<rt class="furi">のみこ</rt><rt class="roma">nomiko</rt></ruby><ruby>ま<rt class="roma">ma</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">I don't understand, swallowed in this uncharted world</div>
 <div class="trans-lyric">I don't understand, swallowed in this uncharted world</div>
 </div>
 

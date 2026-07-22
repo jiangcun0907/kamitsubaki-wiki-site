@@ -62,9 +62,9 @@ image: /images/songs/kaf/track-1688351642.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:27.04]<ruby>ああ<rt class="roma">aa</rt></ruby><ruby>やっぱり<rt class="roma">yappari</rt></ruby> <ruby>好<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>なあ<rt class="roma">naa</rt></ruby>
+<ruby>ああ<rt class="roma">aa</rt></ruby><ruby>やっぱり<rt class="roma">yappari</rt></ruby> <ruby>好<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>なあ<rt class="roma">naa</rt></ruby>
 </div>
-<div class="cn-lyric">[00:27.04]啊 果然还是喜欢你</div>
+<div class="cn-lyric">啊 果然还是喜欢你</div>
 </div>
 
 <br />
@@ -125,16 +125,15 @@ image: /images/songs/kaf/track-1688351642.jpg
 <ruby>だから<rt class="roma">dakara</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>怖<rt class="furi">こわ</rt><rt class="roma">kowa</rt></ruby><ruby>い<rt class="roma">i</rt></ruby>
 </div>
 <div class="cn-lyric">所以 我害怕你</div>
-<div class="cn-lyric">所以 我害怕你</div>
 </div>
 
 <br />
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:14.52]<ruby>ステレオ<rt class="roma">sutereo</rt></ruby><ruby>タイプ<rt class="roma">taipu</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
+<ruby>ステレオ<rt class="roma">sutereo</rt></ruby><ruby>タイプ<rt class="roma">taipu</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
-<div class="cn-lyric">[01:14.52]因为是刻板印象</div>
+<div class="cn-lyric">因为是刻板印象</div>
 </div>
 
 <div class="lyric-line">
@@ -168,9 +167,9 @@ image: /images/songs/kaf/track-1688351642.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:26.22]<ruby>神様<rt class="furi">かみさま</rt><rt class="roma">kamisama</rt></ruby> <ruby>この<rt class="roma">kono</rt></ruby><ruby>気持<rt class="furi">きも</rt><rt class="roma">kimo</rt></ruby><ruby>ち<rt class="roma">chi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
+<ruby>神様<rt class="furi">かみさま</rt><rt class="roma">kamisama</rt></ruby> <ruby>この<rt class="roma">kono</rt></ruby><ruby>気持<rt class="furi">きも</rt><rt class="roma">kimo</rt></ruby><ruby>ち<rt class="roma">chi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
-<div class="cn-lyric">[03:26.22]神明啊 对于这份情感</div>
+<div class="cn-lyric">神明啊 对于这份情感</div>
 </div>
 
 <div class="lyric-line">
@@ -215,7 +214,6 @@ image: /images/songs/kaf/track-1688351642.jpg
 「<ruby>好<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>」
 </div>
 <div class="cn-lyric">「喜欢你」</div>
-<div class="cn-lyric">「喜欢你」</div>
 </div>
 
 <div class="lyric-line">
@@ -233,11 +231,9 @@ image: /images/songs/kaf/track-1688351642.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:33.53]<ruby>キス<rt class="roma">kisu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>しよ<rt class="roma">shiyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
+<ruby>キス<rt class="roma">kisu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>しよ<rt class="roma">shiyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="cn-lyric">[03:33.53]接吻吧</div>
-<div class="cn-lyric">[03:33.53]接吻吧</div>
-<div class="cn-lyric">[03:33.53]接吻吧</div>
+<div class="cn-lyric">接吻吧</div>
 </div>
 
 <div class="lyric-line">
@@ -251,8 +247,6 @@ image: /images/songs/kaf/track-1688351642.jpg
 <div class="jp-lyric">
 <ruby>祝福<rt class="furi">しゅくふく</rt><rt class="roma">shukufuku</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>込<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="cn-lyric">献上祝福</div>
-<div class="cn-lyric">献上祝福</div>
 <div class="cn-lyric">献上祝福</div>
 </div>
 
@@ -283,7 +277,6 @@ image: /images/songs/kaf/track-1688351642.jpg
 <div class="jp-lyric">
 <ruby>朝日<rt class="furi">あさひ</rt><rt class="roma">asahi</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby> <ruby>登<rt class="furi">のぼ</rt><rt class="roma">nobo</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
-<div class="cn-lyric">朝阳啊 不要升起</div>
 <div class="cn-lyric">朝阳啊 不要升起</div>
 </div>
 
@@ -327,9 +320,9 @@ image: /images/songs/kaf/track-1688351642.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:04.90]<ruby>いつ<rt class="roma">itsu</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>つ<rt class="roma">tsu</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
+<ruby>いつ<rt class="roma">itsu</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>つ<rt class="roma">tsu</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
-<div class="cn-lyric">[03:04.90]永远 永远</div>
+<div class="cn-lyric">永远 永远</div>
 </div>
 
 <div class="lyric-line">
@@ -371,9 +364,9 @@ image: /images/songs/kaf/track-1688351642.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:26.22]<ruby>神様<rt class="furi">かみさま</rt><rt class="roma">kamisama</rt></ruby>
+<ruby>神様<rt class="furi">かみさま</rt><rt class="roma">kamisama</rt></ruby>
 </div>
-<div class="cn-lyric">[03:26.22]神明啊</div>
+<div class="cn-lyric">神明啊</div>
 </div>
 
 <div class="lyric-line">
@@ -733,16 +726,16 @@ image: /images/songs/kaf/track-1688351642.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[07:11.55]<ruby>じゃあ<rt class="roma">jaa</rt></ruby>
+<ruby>じゃあ<rt class="roma">jaa</rt></ruby>
 </div>
-<div class="cn-lyric">[07:11.55]那么</div>
+<div class="cn-lyric">那么</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[07:14.30]<ruby>また<rt class="roma">mata</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
+<ruby>また<rt class="roma">mata</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
-<div class="cn-lyric">[07:14.30]再见</div>
+<div class="cn-lyric">再见</div>
 </div>
 
 </div>

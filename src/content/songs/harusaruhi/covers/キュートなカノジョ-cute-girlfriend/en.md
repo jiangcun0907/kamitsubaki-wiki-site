@@ -73,14 +73,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [00:16.17]<ruby>笑<rt class="furi">わら</rt><rt class="roma">wara</rt></ruby><ruby>っちまう<rt class="roma">tchimau</rt></ruby><ruby>程<rt class="furi">ほど</rt><rt class="roma">hodo</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>キュート<rt class="roma">kyuuto</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>カノジョ<rt class="roma">kanojo</rt></ruby>
 </div>
 <div class="trans-lyric">A girlfriend so cute it makes me laugh</div>
-<div class="trans-lyric">A girlfriend so cute it makes me laugh</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:19.48]<ruby>常時<rt class="furi">じょうじ</rt><rt class="roma">jouji</rt></ruby><ruby>奔放<rt class="furi">ほんぽう</rt><rt class="roma">honpou</rt></ruby> <ruby>狂気<rt class="furi">きょうき</rt><rt class="roma">kyouki</rt></ruby> <ruby>短気<rt class="furi">たんき</rt><rt class="roma">tanki</rt></ruby>
 </div>
-<div class="trans-lyric">Always uninhibited, mad, short-tempered</div>
 <div class="trans-lyric">Always uninhibited, mad, short-tempered</div>
 </div>
 
@@ -89,7 +87,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [00:22.25]<ruby>怒鳴<rt class="furi">どな</rt><rt class="roma">dona</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>たって<rt class="roma">tatte</rt></ruby><ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>合<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>一撃<rt class="furi">いちげき</rt><rt class="roma">ichigeki</rt></ruby>
 </div>
 <div class="trans-lyric">Even if you shout, eye contact is a one-hit</div>
-<div class="trans-lyric">Even if you shout, eye contact is a one-hit</div>
 </div>
 
 <div class="lyric-line">
@@ -97,14 +94,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [00:25.48]<ruby>洗脳<rt class="furi">せんのう</rt><rt class="roma">sennou</rt></ruby><ruby>完了<rt class="furi">かんりょう</rt><rt class="roma">kanryou</rt></ruby> <ruby>女<rt class="furi">おんな</rt><rt class="roma">onna</rt></ruby><ruby>上手<rt class="furi">じょうず</rt><rt class="roma">jouzu</rt></ruby>
 </div>
 <div class="trans-lyric">Brainwashing complete, a master with women</div>
-<div class="trans-lyric">Brainwashing complete, a master with women</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:28.42]<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby> <ruby>強<rt class="furi">つよ</rt><rt class="roma">tsuyo</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby>
 </div>
-<div class="trans-lyric">I love you, I love you deeply</div>
 <div class="trans-lyric">I love you, I love you deeply</div>
 </div>
 
@@ -196,14 +191,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [00:58.28]<ruby>困<rt class="furi">こま</rt><rt class="roma">koma</rt></ruby><ruby>っちまう<rt class="roma">tchimau</rt></ruby><ruby>程<rt class="furi">ほど</rt><rt class="roma">hodo</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>キュート<rt class="roma">kyuuto</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>カノジョ<rt class="roma">kanojo</rt></ruby>
 </div>
 <div class="trans-lyric">A girlfriend so cute it gets me in trouble</div>
-<div class="trans-lyric">A girlfriend so cute it gets me in trouble</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:01.55]<ruby>容姿<rt class="furi">ようし</rt><rt class="roma">youshi</rt></ruby><ruby>端麗<rt class="furi">たんれい</rt><rt class="roma">tanrei</rt></ruby> <ruby>耽美<rt class="furi">たんび</rt><rt class="roma">tanbi</rt></ruby> <ruby>甘美<rt class="furi">かんび</rt><rt class="roma">kanbi</rt></ruby>
 </div>
-<div class="trans-lyric">Beautiful appearance, aesthetic, sweet</div>
 <div class="trans-lyric">Beautiful appearance, aesthetic, sweet</div>
 </div>
 
@@ -212,14 +205,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [01:04.33]<ruby>身勝手<rt class="furi">みがって</rt><rt class="roma">migatte</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby><ruby>泣<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>シック<rt class="roma">shikku</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>素振<rt class="furi">そぶ</rt><rt class="roma">sobu</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby>
 </div>
 <div class="trans-lyric">Even if selfish, a chic demeanor that cries</div>
-<div class="trans-lyric">Even if selfish, a chic demeanor that cries</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:07.53]<ruby>瞬時<rt class="furi">しゅんじ</rt><rt class="roma">shunji</rt></ruby><ruby>酩酊<rt class="furi">めいてい</rt><rt class="roma">meitei</rt></ruby> <ruby>女<rt class="furi">おんな</rt><rt class="roma">onna</rt></ruby><ruby>冥利<rt class="furi">みょうり</rt><rt class="roma">myouri</rt></ruby>
 </div>
-<div class="trans-lyric">Instant intoxication, a woman's blessing</div>
 <div class="trans-lyric">Instant intoxication, a woman's blessing</div>
 </div>
 

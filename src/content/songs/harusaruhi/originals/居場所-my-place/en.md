@@ -163,8 +163,6 @@ image: /images/songs/harusaruhi/single-1687474398.jpg
 [01:11.23]<ruby>未<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>独<rt class="furi">ひと</rt><rt class="roma">hito</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby> <ruby>だけど<rt class="roma">dakedo</rt></ruby><ruby>少<rt class="furi">すこ</rt><rt class="roma">suko</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="trans-lyric">[01:11.23]Still alone, but a little bit</div>
-<div class="trans-lyric">Still alone, but a little bit</div>
-<div class="trans-lyric">Still alone, but a little bit</div>
 </div>
 
 <div class="lyric-line">
@@ -172,7 +170,6 @@ image: /images/songs/harusaruhi/single-1687474398.jpg
 [01:15.63]<ruby>視線<rt class="furi">しせん</rt><rt class="roma">shisen</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>くれる<rt class="roma">kureru</rt></ruby><ruby>貴方<rt class="furi">あなた</rt><rt class="roma">anata</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="trans-lyric">[01:15.63]Because you're there, giving me your gaze</div>
-<div class="trans-lyric">Because you're there, giving me your gaze</div>
 </div>
 
 <div class="lyric-line">
@@ -180,8 +177,6 @@ image: /images/songs/harusaruhi/single-1687474398.jpg
 [01:19.68]<ruby>何処<rt class="furi">どこ</rt><rt class="roma">doko</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>繋<rt class="furi">つな</rt><rt class="roma">tsuna</rt></ruby><ruby>がってる<rt class="roma">gatteru</rt></ruby>
 </div>
 <div class="trans-lyric">[01:19.68]We're connected somewhere right now</div>
-<div class="trans-lyric">We're connected somewhere right now</div>
-<div class="trans-lyric">We're connected somewhere right now</div>
 </div>
 
 <div class="lyric-line">
@@ -189,8 +184,6 @@ image: /images/songs/harusaruhi/single-1687474398.jpg
 [01:21.65]<ruby>暖<rt class="furi">あたた</rt><rt class="roma">atata</rt></ruby><ruby>かく<rt class="roma">kaku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>ずっと<rt class="roma">zutto</rt></ruby><ruby>泣<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
 <div class="trans-lyric">[01:21.65]It's warm, and I haven't cried in a long time</div>
-<div class="trans-lyric">It's warm, and I haven't cried in a long time</div>
-<div class="trans-lyric">It's warm, and I haven't cried in a long time</div>
 </div>
 
 <div class="lyric-line">
@@ -198,8 +191,6 @@ image: /images/songs/harusaruhi/single-1687474398.jpg
 [01:24.39]<ruby>音<rt class="furi">おと</rt><rt class="roma">oto</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>あった<rt class="roma">atta</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="trans-lyric">[01:24.39]There was sound</div>
-<div class="trans-lyric">There was sound</div>
-<div class="trans-lyric">There was sound</div>
 </div>
 
 <br />
@@ -216,7 +207,6 @@ image: /images/songs/harusaruhi/single-1687474398.jpg
 [01:32.79]<ruby>優<rt class="furi">やさ</rt><rt class="roma">yasa</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>魂<rt class="furi">たましい</rt><rt class="roma">tamashii</rt></ruby><ruby>ずっと<rt class="roma">zutto</rt></ruby><ruby>ある<rt class="roma">aru</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="trans-lyric">[01:32.79]Because there's always a gentle soul</div>
-<div class="trans-lyric">Because there's always a gentle soul</div>
 </div>
 
 <div class="lyric-line">
@@ -224,8 +214,6 @@ image: /images/songs/harusaruhi/single-1687474398.jpg
 [01:37.07]<ruby>せめて<rt class="roma">semete</rt></ruby><ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>居<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>なる<rt class="roma">naru</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby>
 </div>
 <div class="trans-lyric">[01:37.07]At least until I'm gone</div>
-<div class="trans-lyric">At least until I'm gone</div>
-<div class="trans-lyric">At least until I'm gone</div>
 </div>
 
 <div class="lyric-line">
@@ -233,16 +221,12 @@ image: /images/songs/harusaruhi/single-1687474398.jpg
 [01:39.48]<ruby>絶対<rt class="furi">ぜったい</rt><rt class="roma">zettai</rt></ruby><ruby>バイバイ<rt class="roma">baibai</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> yeah
 </div>
 <div class="trans-lyric">Please never say goodbye, yeah</div>
-<div class="trans-lyric">Please never say goodbye, yeah</div>
-<div class="trans-lyric">Please never say goodbye, yeah</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:43.18]<ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>こ<rt class="roma">ko</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>、<ruby>前<rt class="furi">まえ</rt><rt class="roma">mae</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby> yeah-yeah-yeah
 </div>
-<div class="trans-lyric">Let's go, forward, yeah-yeah-yeah</div>
-<div class="trans-lyric">Let's go, forward, yeah-yeah-yeah</div>
 <div class="trans-lyric">Let's go, forward, yeah-yeah-yeah</div>
 </div>
 
@@ -367,7 +351,6 @@ image: /images/songs/harusaruhi/single-1687474398.jpg
 [02:54.11]<ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>くなる<rt class="roma">kunaru</rt></ruby><ruby>時<rt class="furi">とき</rt><rt class="roma">toki</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>これ<rt class="roma">kore</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>自慢<rt class="furi">じまん</rt><rt class="roma">jiman</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なる<rt class="roma">naru</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="trans-lyric">[02:54.11]When I disappear, this will be something to boast about</div>
-<div class="trans-lyric">When I disappear, this will be something to boast about</div>
 </div>
 
 <div class="lyric-line">

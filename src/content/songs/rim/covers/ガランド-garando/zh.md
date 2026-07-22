@@ -31,8 +31,6 @@ image: /images/albums/rim/chocolate-live.jpg
 [00:01.84](All my love, said it don't)
 </div>
 <div class="cn-lyric">[00:01.84](All my love, said it don't)</div>
-<div class="cn-lyric">[00:01.84](All my love, said it don't)</div>
-<div class="cn-lyric">[00:01.84](All my love, said it don't)</div>
 </div>
 
 <div class="lyric-line">
@@ -89,7 +87,6 @@ image: /images/albums/rim/chocolate-live.jpg
 [00:31.59]Ha-ha-ha-ha-ha-ha
 </div>
 <div class="cn-lyric">[00:31.59]Ha-ha-ha-ha-ha-ha</div>
-<div class="cn-lyric">[00:31.59]Ha-ha-ha-ha-ha-ha</div>
 </div>
 
 <br />
@@ -106,14 +103,12 @@ image: /images/albums/rim/chocolate-live.jpg
 [00:37.44]<ruby>洗剤<rt class="furi">せんざい</rt><rt class="roma">senzai</rt></ruby><ruby>食<rt class="furi">く</rt><rt class="roma">ku</rt></ruby><ruby>らって<rt class="roma">ratte</rt></ruby><ruby>睫毛<rt class="furi">まつげ</rt><rt class="roma">matsuge</rt></ruby><ruby>乾<rt class="furi">かわ</rt><rt class="roma">kawa</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby>？ No<ruby>で<rt class="roma">de</rt></ruby>no<ruby>で<rt class="roma">de</rt></ruby>no
 </div>
 <div class="cn-lyric">[00:37.44]吃了洗涤剂睫毛干？No and no and no</div>
-<div class="cn-lyric">[00:37.44]吃了洗涤剂睫毛干？No and no and no</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:41.97]Oh-oh-oh-oh
 </div>
-<div class="cn-lyric">[00:41.97]Oh-oh-oh-oh</div>
 <div class="cn-lyric">[00:41.97]Oh-oh-oh-oh</div>
 </div>
 
@@ -138,7 +133,6 @@ image: /images/albums/rim/chocolate-live.jpg
 [00:53.42]Lonely? <ruby>浪人<rt class="furi">ろうにん</rt><rt class="roma">rounin</rt></ruby>？ Morning? Sorry? <ruby>苦労人<rt class="furi">くろうにん</rt><rt class="roma">kurounin</rt></ruby>？ <ruby>病人<rt class="furi">びょうにん</rt><rt class="roma">byounin</rt></ruby>？ <ruby>考<rt class="furi">かんが</rt><rt class="roma">kanga</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="cn-lyric">[00:53.42]Lonely? 浪人？ Morning? Sorry? 苦劳人？ 病人？ 即使思考现在也</div>
-<div class="cn-lyric">[00:53.42]Lonely? 浪人？ Morning? Sorry? 苦劳人？ 病人？ 即使思考现在也</div>
 </div>
 
 <div class="lyric-line">
@@ -146,14 +140,12 @@ image: /images/albums/rim/chocolate-live.jpg
 [00:59.08]A-a-alalala-ta, tu-ru, la-a-a-a-alalala-ta
 </div>
 <div class="cn-lyric">[00:59.08]A-a-alalala-ta, tu-ru, la-a-a-a-alalala-ta</div>
-<div class="cn-lyric">[00:59.08]A-a-alalala-ta, tu-ru, la-a-a-a-alalala-ta</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:03.49]Oh <ruby>思い出<rt class="furi">おもいだ</rt><rt class="roma">omoida</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>魚<rt class="furi">さかな</rt><rt class="roma">sakana</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>眼<rt class="furi">め</rt><rt class="roma">me</rt></ruby> oh <ruby>それとなく<rt class="roma">soretonaku</rt></ruby><ruby>キルミー<rt class="roma">kirumii</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>！
 </div>
-<div class="cn-lyric">[01:03.49]Oh 想起来鱼的眼睛 oh 不经意地 kill me！</div>
 <div class="cn-lyric">[01:03.49]Oh 想起来鱼的眼睛 oh 不经意地 kill me！</div>
 </div>
 

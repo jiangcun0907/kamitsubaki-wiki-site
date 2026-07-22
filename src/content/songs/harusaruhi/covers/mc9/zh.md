@@ -50,24 +50,12 @@ Hank hanking al over the place :)
 Shi sha uh
 </div>
 <div class="cn-lyric">嘶沙呃</div>
-<div class="cn-lyric">嘶沙呃</div>
-<div class="cn-lyric">嘶沙呃</div>
-<div class="cn-lyric">嘶沙呃</div>
-<div class="cn-lyric">嘶沙呃</div>
-<div class="cn-lyric">嘶沙呃</div>
-<div class="cn-lyric">嘶沙呃</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 I ah ah ah
 </div>
-<div class="cn-lyric">啊哈哈</div>
-<div class="cn-lyric">啊哈哈</div>
-<div class="cn-lyric">啊哈哈</div>
-<div class="cn-lyric">啊哈哈</div>
-<div class="cn-lyric">啊哈哈</div>
-<div class="cn-lyric">啊哈哈</div>
 <div class="cn-lyric">啊哈哈</div>
 </div>
 

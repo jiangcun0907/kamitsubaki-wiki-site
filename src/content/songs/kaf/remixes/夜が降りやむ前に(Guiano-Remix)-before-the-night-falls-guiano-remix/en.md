@@ -39,7 +39,6 @@ image: /images/albums/kaf/yoru-ga-furiyamu-mae-ni.jpg
 [00:10.48]<ruby>止<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>まら<rt class="roma">mara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>闇<rt class="furi">やみ</rt><rt class="roma">yami</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">[00:10.48]In the ceaseless darkness</div>
-<div class="trans-lyric">In the ceaseless darkness</div>
 </div>
 
 <div class="lyric-line">
@@ -125,7 +124,6 @@ image: /images/albums/kaf/yoru-ga-furiyamu-mae-ni.jpg
 [00:55.85]<ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="trans-lyric">[00:55.85]I'll go deliver it</div>
-<div class="trans-lyric">I'll go deliver it</div>
 </div>
 
 <div class="lyric-line">
@@ -178,7 +176,6 @@ image: /images/albums/kaf/yoru-ga-furiyamu-mae-ni.jpg
 [01:19.86]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>輪郭<rt class="furi">りんかく</rt><rt class="roma">rinkaku</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="trans-lyric">[01:19.86]Your outline</div>
-<div class="trans-lyric">Your outline</div>
 </div>
 
 <div class="lyric-line">
@@ -308,7 +305,6 @@ image: /images/albums/kaf/yoru-ga-furiyamu-mae-ni.jpg
 [02:31.83]<ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>振<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>止<rt class="furi">や</rt><rt class="roma">ya</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>前<rt class="furi">まえ</rt><rt class="roma">mae</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">[02:31.83]Before the night stops raining</div>
-<div class="trans-lyric">Before the night stops raining</div>
 </div>
 
 <br />

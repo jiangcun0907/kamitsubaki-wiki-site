@@ -36,16 +36,12 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [00:08.10]<ruby>離れ離<rt class="furi">はなればな</rt><rt class="roma">hanarebana</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>街<rt class="furi">まち</rt><rt class="roma">machi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>繋<rt class="furi">つな</rt><rt class="roma">tsuna</rt></ruby><ruby>ぐ<rt class="roma">gu</rt></ruby><ruby>列車<rt class="furi">れっしゃ</rt><rt class="roma">ressha</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>行<rt class="furi">おこな</rt><rt class="roma">okona</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>しまった<rt class="roma">shimatta</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
 <div class="trans-lyric">The train connecting the separated towns has gone, hasn't it?</div>
-<div class="trans-lyric">The train connecting the separated towns has gone, hasn't it?</div>
-<div class="trans-lyric">The train connecting the separated towns has gone, hasn't it?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:14.83]<ruby>失<rt class="furi">しつ</rt><rt class="roma">shitsu</rt></ruby><ruby>くし<rt class="roma">kushi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby> <ruby>ポケット<rt class="roma">poketto</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>握<rt class="furi">にぎ</rt><rt class="roma">nigi</rt></ruby><ruby>りしめ<rt class="roma">rishime</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">If you don't know the lost words, grip them tight in your pocket</div>
-<div class="trans-lyric">If you don't know the lost words, grip them tight in your pocket</div>
 <div class="trans-lyric">If you don't know the lost words, grip them tight in your pocket</div>
 </div>
 
@@ -54,15 +50,12 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [00:21.36]<ruby>あがい<rt class="roma">agai</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>息<rt class="furi">いき</rt><rt class="roma">iki</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>捨<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>延<rt class="furi">の</rt><rt class="roma">no</rt></ruby><ruby>びる<rt class="roma">biru</rt></ruby><ruby>今日<rt class="furi">きょう</rt><rt class="roma">kyou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>眠<rt class="furi">ねむ</rt><rt class="roma">nemu</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>誤魔化<rt class="furi">ごまか</rt><rt class="roma">gomaka</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby>
 </div>
 <div class="trans-lyric">Throw away your gasping breath, and sleep through this dragging day to deceive yourself</div>
-<div class="trans-lyric">Throw away your gasping breath, and sleep through this dragging day to deceive yourself</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:27.96]<ruby>失<rt class="furi">しつ</rt><rt class="roma">shitsu</rt></ruby><ruby>くし<rt class="roma">kushi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby> <ruby>各駅<rt class="furi">かくえき</rt><rt class="roma">kakueki</rt></ruby><ruby>停車<rt class="furi">ていしゃ</rt><rt class="roma">teisha</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>乗り込<rt class="furi">のりこ</rt><rt class="roma">noriko</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
-<div class="trans-lyric">If you don't know the lost words, board the local train</div>
-<div class="trans-lyric">If you don't know the lost words, board the local train</div>
 <div class="trans-lyric">If you don't know the lost words, board the local train</div>
 </div>
 
@@ -114,7 +107,6 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 <div class="jp-lyric">
 [01:39.74]<ruby>あがい<rt class="roma">agai</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>捨<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>揺<rt class="furi">ゆ</rt><rt class="roma">yu</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby><ruby>今日<rt class="furi">きょう</rt><rt class="roma">kyou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>眠<rt class="furi">ねむ</rt><rt class="roma">nemu</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>誤魔化<rt class="furi">ごまか</rt><rt class="roma">gomaka</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby>
 </div>
-<div class="trans-lyric">Throw away your struggling dreams, and sleep through this swaying day to deceive yourself</div>
 <div class="trans-lyric">Throw away your struggling dreams, and sleep through this swaying day to deceive yourself</div>
 </div>
 

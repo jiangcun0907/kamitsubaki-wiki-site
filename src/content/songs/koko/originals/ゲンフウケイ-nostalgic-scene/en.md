@@ -92,7 +92,6 @@ image: /images/songs/koko/single-1711175741.jpg
 [01:09.34]<ruby>叫<rt class="furi">さけ</rt><rt class="roma">sake</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="trans-lyric">I, who screamed</div>
-<div class="trans-lyric">I, who screamed</div>
 </div>
 
 <div class="lyric-line">

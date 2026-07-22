@@ -90,14 +90,12 @@ image: /images/albums/kaf/guwa.jpg
 <ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>きる<rt class="roma">kiru</rt></ruby><ruby>意味<rt class="furi">いみ</rt><rt class="roma">imi</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby> <ruby>理由<rt class="furi">りゆう</rt><rt class="roma">riyuu</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby>
 </div>
 <div class="trans-lyric">The meaning of life, the reasons</div>
-<div class="trans-lyric">The meaning of life, the reasons</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>わから<rt class="roma">wakara</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>当たり前<rt class="furi">あたりまえ</rt><rt class="roma">atarimae</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">It's natural not to understand</div>
 <div class="trans-lyric">It's natural not to understand</div>
 </div>
 
@@ -106,15 +104,12 @@ image: /images/albums/kaf/guwa.jpg
 <ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>免<rt class="furi">めん</rt><rt class="roma">men</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>今日<rt class="furi">きょう</rt><rt class="roma">kyou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>きよ<rt class="roma">kiyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="trans-lyric">By the sky's grace, let's live today</div>
-<div class="trans-lyric">By the sky's grace, let's live today</div>
-<div class="trans-lyric">By the sky's grace, let's live today</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>免<rt class="furi">めん</rt><rt class="roma">men</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>今日<rt class="furi">きょう</rt><rt class="roma">kyou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>帰<rt class="furi">かえ</rt><rt class="roma">kae</rt></ruby><ruby>ろ<rt class="roma">ro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="trans-lyric">By the sky's grace, let's go home today</div>
 <div class="trans-lyric">By the sky's grace, let's go home today</div>
 </div>
 
@@ -123,15 +118,12 @@ image: /images/albums/kaf/guwa.jpg
 <ruby>ひび割<rt class="furi">ひびわ</rt><rt class="roma">hibiwa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby> <ruby>繋<rt class="furi">つな</rt><rt class="roma">tsuna</rt></ruby><ruby>ぎ<rt class="roma">gi</rt></ruby><ruby>止<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>める<rt class="roma">meru</rt></ruby>
 </div>
 <div class="trans-lyric">Holding together a cracked heart</div>
-<div class="trans-lyric">Holding together a cracked heart</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>免<rt class="furi">めん</rt><rt class="roma">men</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>許<rt class="furi">ゆる</rt><rt class="roma">yuru</rt></ruby><ruby>そ<rt class="roma">so</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="trans-lyric">By the sky's grace, let me forgive myself</div>
-<div class="trans-lyric">By the sky's grace, let me forgive myself</div>
 <div class="trans-lyric">By the sky's grace, let me forgive myself</div>
 </div>
 

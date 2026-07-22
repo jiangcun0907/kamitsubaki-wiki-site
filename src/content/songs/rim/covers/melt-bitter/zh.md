@@ -52,7 +52,6 @@ image: /images/albums/rim/chocolate-live.jpg
 [00:10.77]<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby> <ruby>愛<rt class="furi">いと</rt><rt class="roma">ito</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby>
 </div>
 <div class="cn-lyric">[00:10.77]说爱你 说爱你这种话</div>
-<div class="cn-lyric">[00:10.77]说爱你 说爱你这种话</div>
 </div>
 
 <div class="lyric-line">

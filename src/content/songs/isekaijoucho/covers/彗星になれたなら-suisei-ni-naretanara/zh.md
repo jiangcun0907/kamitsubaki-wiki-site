@@ -31,14 +31,12 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 [00:11.73]<ruby>日<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>沈<rt class="furi">しず</rt><rt class="roma">shizu</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>すぐ<rt class="roma">sugu</rt></ruby><ruby>あと<rt class="roma">ato</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>藍<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
 </div>
 <div class="cn-lyric">[00:11.73]日落之后那一片靛蓝</div>
-<div class="cn-lyric">[00:11.73]日落之后那一片靛蓝</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:17.94]<ruby>大好<rt class="furi">だいす</rt><rt class="roma">daisu</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
-<div class="cn-lyric">[00:17.94]我之所以如此喜欢</div>
 <div class="cn-lyric">[00:17.94]我之所以如此喜欢</div>
 </div>
 

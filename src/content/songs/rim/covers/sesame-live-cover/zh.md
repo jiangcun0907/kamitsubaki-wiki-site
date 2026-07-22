@@ -36,8 +36,6 @@ image: /images/albums/rim/chocolate-live-4.jpg
 Quel est le sésame de ton âme?
 </div>
 <div class="cn-lyric">你灵魂的钥匙是什么？</div>
-<div class="cn-lyric">你灵魂的钥匙是什么？</div>
-<div class="cn-lyric">你灵魂的钥匙是什么？</div>
 </div>
 
 <div class="lyric-line">
@@ -100,7 +98,6 @@ Quel est le sésame de ton âme?
 Le rêve qui t'enflamme
 </div>
 <div class="cn-lyric">点燃你的梦想</div>
-<div class="cn-lyric">点燃你的梦想</div>
 </div>
 
 <br />
@@ -124,15 +121,12 @@ Voyons si le lit a du ressort
 Pour toi
 </div>
 <div class="cn-lyric">为你</div>
-<div class="cn-lyric">为你</div>
-<div class="cn-lyric">为你</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Je f'rais n'importe quoi
 </div>
-<div class="cn-lyric">我愿做任何事</div>
 <div class="cn-lyric">我愿做任何事</div>
 </div>
 

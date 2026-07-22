@@ -295,7 +295,6 @@ image: /images/songs/rim/single-1840911230.jpg
 [02:06.18]<ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="trans-lyric">Because</div>
-<div class="trans-lyric">Because</div>
 </div>
 
 <div class="lyric-line">

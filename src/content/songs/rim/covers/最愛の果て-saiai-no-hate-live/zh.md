@@ -36,8 +36,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [00:11.01]<ruby>なに<rt class="roma">nani</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
 <div class="cn-lyric">[00:11.01]请什么都不要说</div>
-<div class="cn-lyric">[00:11.01]请什么都不要说</div>
-<div class="cn-lyric">[00:11.01]请什么都不要说</div>
 </div>
 
 <div class="lyric-line">
@@ -45,14 +43,12 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [00:15.87]<ruby>ちゃんと<rt class="roma">chanto</rt></ruby><ruby>わかって<rt class="roma">wakatte</rt></ruby><ruby>あげる<rt class="roma">ageru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">[00:15.87]我会好好理解你的</div>
-<div class="cn-lyric">[00:15.87]我会好好理解你的</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:20.60]<ruby>今夜<rt class="furi">こんや</rt><rt class="roma">kon'ya</rt></ruby><ruby>帰<rt class="furi">かえ</rt><rt class="roma">kae</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>くる<rt class="roma">kuru</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
 </div>
-<div class="cn-lyric">[00:20.60]如果今晚你会回来</div>
 <div class="cn-lyric">[00:20.60]如果今晚你会回来</div>
 </div>
 
@@ -97,7 +93,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 <div class="jp-lyric">
 [00:49.04]<ruby>もう<rt class="roma">mou</rt></ruby><ruby>大丈夫<rt class="furi">だいじょうぶ</rt><rt class="roma">daijoubu</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="cn-lyric">[00:49.04]已经没关系了</div>
 <div class="cn-lyric">[00:49.04]已经没关系了</div>
 </div>
 
@@ -205,7 +200,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 <div class="jp-lyric">
 [01:36.56]<ruby>笑<rt class="furi">わら</rt><rt class="roma">wara</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>許<rt class="furi">ゆる</rt><rt class="roma">yuru</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>あげる<rt class="roma">ageru</rt></ruby>
 </div>
-<div class="cn-lyric">[01:36.56]我会笑着原谅你</div>
 <div class="cn-lyric">[01:36.56]我会笑着原谅你</div>
 </div>
 

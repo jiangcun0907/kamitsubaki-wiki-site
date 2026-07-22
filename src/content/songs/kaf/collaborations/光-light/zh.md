@@ -150,9 +150,6 @@ image: /images/songs/kaf/track-1834063163.jpg
 [01:05.35]<ruby>これ<rt class="roma">kore</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>光<rt class="furi">ひかり</rt><rt class="roma">hikari</rt></ruby><ruby>です<rt class="roma">desu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>？
 </div>
 <div class="cn-lyric">[01:05.35]这是光吗？</div>
-<div class="cn-lyric">[01:05.35]这是光吗？</div>
-<div class="cn-lyric">[01:05.35]这是光吗？</div>
-<div class="cn-lyric">[01:05.35]这是光吗？</div>
 </div>
 
 <div class="lyric-line">
@@ -160,14 +157,12 @@ image: /images/songs/kaf/track-1834063163.jpg
 [01:08.94]<ruby>わたし<rt class="roma">watashi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>信<rt class="furi">しん</rt><rt class="roma">shin</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>です<rt class="roma">desu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>？
 </div>
 <div class="cn-lyric">[01:08.94]我可以相信吗？</div>
-<div class="cn-lyric">[01:08.94]我可以相信吗？</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:12.40]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>です<rt class="roma">desu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>？
 </div>
-<div class="cn-lyric">[01:12.40]可以为你歌唱吗？</div>
 <div class="cn-lyric">[01:12.40]可以为你歌唱吗？</div>
 </div>
 
@@ -182,16 +177,12 @@ image: /images/songs/kaf/track-1834063163.jpg
 [01:19.31]<ruby>この<rt class="roma">kono</rt></ruby><ruby>先<rt class="furi">さき</rt><rt class="roma">saki</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>広<rt class="furi">ひろ</rt><rt class="roma">hiro</rt></ruby><ruby>がる<rt class="roma">garu</rt></ruby><ruby>景色<rt class="furi">けしき</rt><rt class="roma">keshiki</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:19.31]将前方展开的景色</div>
-<div class="cn-lyric">[01:19.31]将前方展开的景色</div>
-<div class="cn-lyric">[01:19.31]将前方展开的景色</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:24.77]<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>ます<rt class="roma">masu</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
-<div class="cn-lyric">[01:24.77]但愿能爱</div>
-<div class="cn-lyric">[01:24.77]但愿能爱</div>
 <div class="cn-lyric">[01:24.77]但愿能爱</div>
 </div>
 
@@ -250,7 +241,6 @@ image: /images/songs/kaf/track-1834063163.jpg
 <div class="jp-lyric">
 [01:53.56]<ruby>間違<rt class="furi">まちが</rt><rt class="roma">machiga</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>として<rt class="roma">toshite</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
-<div class="cn-lyric">[01:53.56]即使那是错误</div>
 <div class="cn-lyric">[01:53.56]即使那是错误</div>
 </div>
 
@@ -335,7 +325,6 @@ image: /images/songs/kaf/track-1834063163.jpg
 <div class="jp-lyric">
 [02:35.62]<ruby>これ<rt class="roma">kore</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>光<rt class="furi">ひかり</rt><rt class="roma">hikari</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
-<div class="cn-lyric">[02:35.62]这就是光啊</div>
 <div class="cn-lyric">[02:35.62]这就是光啊</div>
 </div>
 

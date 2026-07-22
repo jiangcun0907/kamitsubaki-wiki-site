@@ -64,7 +64,6 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 [00:18.08]yeah
 </div>
 <div class="trans-lyric">yeah</div>
-<div class="trans-lyric">yeah</div>
 </div>
 
 <div class="lyric-line">
@@ -98,7 +97,6 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 <div class="jp-lyric">
 [00:27.98]Lucky Happy
 </div>
-<div class="trans-lyric">Lucky Happy</div>
 <div class="trans-lyric">Lucky Happy</div>
 </div>
 

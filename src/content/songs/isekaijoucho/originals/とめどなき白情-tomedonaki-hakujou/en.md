@@ -50,7 +50,6 @@ image: /images/albums/isekaijoucho/sousei.jpg
 [00:12.32]<ruby>ただ<rt class="roma">tada</rt></ruby><ruby>そこ<rt class="roma">soko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>ある<rt class="roma">aru</rt></ruby>
 </div>
 <div class="trans-lyric">It simply exists there</div>
-<div class="trans-lyric">It simply exists there</div>
 </div>
 
 <div class="lyric-line">
@@ -72,7 +71,6 @@ image: /images/albums/isekaijoucho/sousei.jpg
 <div class="jp-lyric">
 [00:23.32]<ruby>その<rt class="roma">sono</rt></ruby><ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>粒<rt class="furi">つぶ</rt><rt class="roma">tsubu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
-<div class="trans-lyric">That single grain</div>
 <div class="trans-lyric">That single grain</div>
 </div>
 
@@ -179,8 +177,6 @@ image: /images/albums/isekaijoucho/sousei.jpg
 [01:41.16]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>そうして<rt class="roma">soushite</rt></ruby>
 </div>
 <div class="trans-lyric">If you too, doing so</div>
-<div class="trans-lyric">If you too, doing so</div>
-<div class="trans-lyric">You too, doing so</div>
 </div>
 
 <div class="lyric-line">
@@ -188,7 +184,6 @@ image: /images/albums/isekaijoucho/sousei.jpg
 [01:43.96]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>視<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
 </div>
 <div class="trans-lyric">Saw me</div>
-<div class="trans-lyric">If you saw me</div>
 </div>
 
 <div class="lyric-line">
@@ -309,9 +304,6 @@ image: /images/albums/isekaijoucho/sousei.jpg
 <div class="jp-lyric">
 [03:22.16]<ruby>その<rt class="roma">sono</rt></ruby><ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>粒<rt class="furi">つぶ</rt><rt class="roma">tsubu</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
-<div class="trans-lyric">That single grain</div>
-<div class="trans-lyric">That single grain</div>
-<div class="trans-lyric">That single grain</div>
 <div class="trans-lyric">That single grain</div>
 </div>
 

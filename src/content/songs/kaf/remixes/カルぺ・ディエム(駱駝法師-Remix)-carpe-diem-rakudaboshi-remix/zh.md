@@ -94,15 +94,12 @@ image: /images/albums/kaf/guwa-gamma.jpg
 <ruby>未来<rt class="furi">みらい</rt><rt class="roma">mirai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>叫<rt class="furi">さけ</rt><rt class="roma">sake</rt></ruby><ruby>ぼ<rt class="roma">bo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="cn-lyric">呼喊未来吧</div>
-<div class="cn-lyric">呼喊未来吧</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>あなた<rt class="roma">anata</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>望<rt class="furi">のぞ</rt><rt class="roma">nozo</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>方<rt class="furi">ほう</rt><rt class="roma">hou</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
 </div>
-<div class="cn-lyric">向着你所期望的方向</div>
-<div class="cn-lyric">向着你所期望的方向</div>
 <div class="cn-lyric">向着你所期望的方向</div>
 </div>
 
@@ -111,14 +108,12 @@ image: /images/albums/kaf/guwa-gamma.jpg
 <ruby>舵<rt class="furi">かじ</rt><rt class="roma">kaji</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>船<rt class="furi">ふね</rt><rt class="roma">fune</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="cn-lyric">即便是没有舵的船</div>
-<div class="cn-lyric">即便是没有舵的船</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>風<rt class="furi">かぜ</rt><rt class="roma">kaze</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>負<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>ちゃ<rt class="roma">cha</rt></ruby><ruby>いけ<rt class="roma">ike</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
-<div class="cn-lyric">因为不能输给风</div>
 <div class="cn-lyric">因为不能输给风</div>
 </div>
 
@@ -127,16 +122,12 @@ image: /images/albums/kaf/guwa-gamma.jpg
 <ruby>飛び出<rt class="furi">とびだ</rt><rt class="roma">tobida</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>みよ<rt class="roma">miyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="cn-lyric">试着飞跃而出吧</div>
-<div class="cn-lyric">试着飞跃而出吧</div>
-<div class="cn-lyric">试着飞跃而出吧</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>怖<rt class="furi">こわ</rt><rt class="roma">kowa</rt></ruby><ruby>がら<rt class="roma">gara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>良<rt class="furi">よ</rt><rt class="roma">yo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="cn-lyric">不必害怕哦</div>
-<div class="cn-lyric">不必害怕哦</div>
 <div class="cn-lyric">不必害怕哦</div>
 </div>
 
@@ -145,8 +136,6 @@ image: /images/albums/kaf/guwa-gamma.jpg
 <ruby>昨日<rt class="furi">きのう</rt><rt class="roma">kinou</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>過<rt class="furi">あやま</rt><rt class="roma">ayama</rt></ruby><ruby>ち<rt class="roma">chi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="cn-lyric">昨日的过错</div>
-<div class="cn-lyric">昨日的过错</div>
-<div class="cn-lyric">昨日的过错</div>
 </div>
 
 <div class="lyric-line">
@@ -154,16 +143,12 @@ image: /images/albums/kaf/guwa-gamma.jpg
 <ruby>明日<rt class="furi">あした</rt><rt class="roma">ashita</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby><ruby>繋<rt class="furi">つな</rt><rt class="roma">tsuna</rt></ruby><ruby>がる<rt class="roma">garu</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="cn-lyric">会与明天相连</div>
-<div class="cn-lyric">会与明天相连</div>
-<div class="cn-lyric">会与明天相连</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>この<rt class="roma">kono</rt></ruby><ruby>日<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>掴<rt class="furi">つか</rt><rt class="roma">tsuka</rt></ruby><ruby>め<rt class="roma">me</rt></ruby>
 </div>
-<div class="cn-lyric">抓住这一天吧</div>
-<div class="cn-lyric">抓住这一天吧</div>
 <div class="cn-lyric">抓住这一天吧</div>
 </div>
 

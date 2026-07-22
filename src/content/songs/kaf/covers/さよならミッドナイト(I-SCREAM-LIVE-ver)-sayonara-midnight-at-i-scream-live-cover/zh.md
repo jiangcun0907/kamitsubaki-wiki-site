@@ -34,7 +34,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [00:00.79]<ruby>テーブル<rt class="roma">teeburu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>上<rt class="furi">うえ</rt><rt class="roma">ue</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby> <ruby>缶<rt class="furi">かん</rt><rt class="roma">kan</rt></ruby><ruby>ビール<rt class="roma">biiru</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>コンドーム<rt class="roma">kondoumu</rt></ruby>
 </div>
 <div class="cn-lyric">[00:00.79]桌面上 罐装啤酒和安全套</div>
-<div class="cn-lyric">[00:00.79]桌面上 罐装啤酒和安全套</div>
 </div>
 
 <div class="lyric-line">
@@ -55,7 +54,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 <div class="jp-lyric">
 [00:19.13]<ruby>もうすぐ<rt class="roma">mousugu</rt></ruby><ruby>最後<rt class="furi">さいご</rt><rt class="roma">saigo</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>明<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>ける<rt class="roma">keru</rt></ruby>
 </div>
-<div class="cn-lyric">[00:19.13]不久最后的夜将破晓</div>
 <div class="cn-lyric">[00:19.13]不久最后的夜将破晓</div>
 </div>
 

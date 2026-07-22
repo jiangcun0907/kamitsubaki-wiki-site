@@ -89,7 +89,6 @@ image: /images/songs/isekaijoucho/single-1687473809.jpg
 [00:47.43]<ruby>演<rt class="furi">えん</rt><rt class="roma">en</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>演<rt class="furi">えん</rt><rt class="roma">en</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[00:47.43]扮演着 我扮演着</div>
-<div class="cn-lyric">[00:47.43]扮演着 我扮演着</div>
 </div>
 
 <div class="lyric-line">
@@ -97,14 +96,12 @@ image: /images/songs/isekaijoucho/single-1687473809.jpg
 [00:49.85]<ruby>深<rt class="furi">ふか</rt><rt class="roma">fuka</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>臙脂<rt class="furi">えんじ</rt><rt class="roma">enji</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>糸<rt class="furi">いと</rt><rt class="roma">ito</rt></ruby> <ruby>唇<rt class="furi">くちびる</rt><rt class="roma">kuchibiru</rt></ruby> <ruby>絡<rt class="furi">から</rt><rt class="roma">kara</rt></ruby><ruby>まる<rt class="roma">maru</rt></ruby><ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby>
 </div>
 <div class="cn-lyric">[00:49.85]深红之线 唇间缠绕的话语</div>
-<div class="cn-lyric">[00:49.85]深红之线 唇间缠绕的话语</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:55.45]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>色<rt class="furi">いろ</rt><rt class="roma">iro</rt></ruby> <ruby>画<rt class="furi">が</rt><rt class="roma">ga</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby> <ruby>描<rt class="furi">えが</rt><rt class="roma">ega</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby>
 </div>
-<div class="cn-lyric">[00:55.45]描绘出只属于我的色彩与画卷</div>
 <div class="cn-lyric">[00:55.45]描绘出只属于我的色彩与画卷</div>
 </div>
 
@@ -122,14 +119,12 @@ image: /images/songs/isekaijoucho/single-1687473809.jpg
 [01:04.24]<ruby>この<rt class="roma">kono</rt></ruby><ruby>役名<rt class="furi">やくめい</rt><rt class="roma">yakumei</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>借り物<rt class="furi">かりもの</rt><rt class="roma">karimono</rt></ruby>
 </div>
 <div class="cn-lyric">[01:04.24]这个角色名是借来的</div>
-<div class="cn-lyric">[01:04.24]这个角色名是借来的</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:06.82]<ruby>いつか<rt class="roma">itsuka</rt></ruby><ruby>最期<rt class="furi">さいご</rt><rt class="roma">saigo</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>刻<rt class="furi">こく</rt><rt class="roma">koku</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>待<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
-<div class="cn-lyric">[01:06.82]等待着终焉之刻的到来</div>
 <div class="cn-lyric">[01:06.82]等待着终焉之刻的到来</div>
 </div>
 

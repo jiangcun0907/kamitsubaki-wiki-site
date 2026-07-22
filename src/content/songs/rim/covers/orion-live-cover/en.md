@@ -36,16 +36,12 @@ ORION (Live Cover) appears on CHOCOLATE LIVE4 or a related official release. Ent
 Orion, won't you give me your star sign
 </div>
 <div class="trans-lyric">Orion, won't you give me your star sign</div>
-<div class="trans-lyric">Orion, won't you give me your star sign</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Orion, get up on the sky-line
 </div>
-<div class="trans-lyric">Orion, get up on the sky-line</div>
-<div class="trans-lyric">Orion, get up on the sky-line</div>
-<div class="trans-lyric">Orion, get up on the sky-line</div>
 <div class="trans-lyric">Orion, get up on the sky-line</div>
 </div>
 
@@ -54,16 +50,12 @@ Orion, get up on the sky-line
 I'm high on my hill and I feel fine
 </div>
 <div class="trans-lyric">I'm high on my hill and I feel fine</div>
-<div class="trans-lyric">I'm high on my hill and I feel fine</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Orion, let's sip the heavens' heady wine
 </div>
-<div class="trans-lyric">Orion, let's sip the heavens' heady wine</div>
-<div class="trans-lyric">Orion, let's sip the heavens' heady wine</div>
-<div class="trans-lyric">Orion, let's sip the heavens' heady wine</div>
 <div class="trans-lyric">Orion, let's sip the heavens' heady wine</div>
 </div>
 
@@ -195,7 +187,6 @@ Prime years fly fading with each young heart's beat.
 Orion, won't you make me a star sign
 </div>
 <div class="trans-lyric">Orion, won't you make me a star sign</div>
-<div class="trans-lyric">Orion, won't you make me a star sign</div>
 </div>
 
 <div class="lyric-line">
@@ -208,7 +199,6 @@ Orion, get up on the sky-line
 <div class="jp-lyric">
 I'm high on your love and I feel fine
 </div>
-<div class="trans-lyric">I'm high on your love and I feel fine</div>
 <div class="trans-lyric">I'm high on your love and I feel fine</div>
 </div>
 

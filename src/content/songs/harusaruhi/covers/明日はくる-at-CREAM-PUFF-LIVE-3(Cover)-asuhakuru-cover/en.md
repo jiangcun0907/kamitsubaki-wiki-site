@@ -141,22 +141,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 <ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>乗<rt class="furi">の</rt><rt class="roma">no</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>銀河<rt class="furi">ぎんが</rt><rt class="roma">ginga</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
 </div>
 <div class="trans-lyric">Ride dreams to the galaxy</div>
-<div class="trans-lyric">Ride dreams to the galaxy</div>
-<div class="trans-lyric">Ride dreams to the galaxy</div>
-<div class="trans-lyric">Ride dreams to the galaxy</div>
-<div class="trans-lyric">Ride dreams to the galaxy</div>
-<div class="trans-lyric">Ride dreams to the galaxy</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>熱<rt class="furi">あつ</rt><rt class="roma">atsu</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>想<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>抱<rt class="furi">いだ</rt><rt class="roma">ida</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>飛翔<rt class="furi">ひしょう</rt><rt class="roma">hishou</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby>
 </div>
-<div class="trans-lyric">Embrace hot passion and soar</div>
-<div class="trans-lyric">Embrace hot passion and soar</div>
-<div class="trans-lyric">Embrace hot passion and soar</div>
-<div class="trans-lyric">Embrace hot passion and soar</div>
-<div class="trans-lyric">Embrace hot passion and soar</div>
 <div class="trans-lyric">Embrace hot passion and soar</div>
 </div>
 
@@ -165,24 +155,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 <ruby>未来<rt class="furi">みらい</rt><rt class="roma">mirai</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>輝<rt class="furi">かがや</rt><rt class="roma">kagaya</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
 </div>
 <div class="trans-lyric">To a world where future shines</div>
-<div class="trans-lyric">To a world where future shines</div>
-<div class="trans-lyric">To a world where future shines</div>
-<div class="trans-lyric">To a world where future shines</div>
-<div class="trans-lyric">To a world where future shines</div>
-<div class="trans-lyric">To a world where future shines</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>戦<rt class="furi">たたか</rt><rt class="roma">tataka</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ゲキ・ガンガー<rt class="roma">geki/gangaa</rt></ruby>3
 </div>
-<div class="trans-lyric">Fight! Geki・Ganngā 3</div>
-<div class="trans-lyric">Fight! Geki・Ganngā 3</div>
-<div class="trans-lyric">Fight! Geki・Ganngā 3</div>
-<div class="trans-lyric">Fight! Geki・Ganngā 3</div>
-<div class="trans-lyric">Fight! Geki・Ganngā 3</div>
-<div class="trans-lyric">Fight! Geki・Ganngā 3</div>
-<div class="trans-lyric">Fight! Geki・Ganngā 3</div>
 <div class="trans-lyric">Fight! Geki・Ganngā 3</div>
 </div>
 
@@ -299,7 +277,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 <ruby>奇跡<rt class="furi">きせき</rt><rt class="roma">kiseki</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>道<rt class="furi">みち</rt><rt class="roma">michi</rt></ruby><ruby>開<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby>
 </div>
 <div class="trans-lyric">Open the path of miracles</div>
-<div class="trans-lyric">Open the path of miracles</div>
 </div>
 
 <div class="lyric-line">
@@ -307,14 +284,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 <ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>果<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>たす<rt class="roma">tasu</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>飛翔<rt class="furi">ひしょう</rt><rt class="roma">hishou</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby>
 </div>
 <div class="trans-lyric">Soar until dreams are fulfilled</div>
-<div class="trans-lyric">Soar until dreams are fulfilled</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>蒼<rt class="furi">あお</rt><rt class="roma">ao</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>輝<rt class="furi">かがや</rt><rt class="roma">kagaya</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>取り戻<rt class="furi">とりもど</rt><rt class="roma">torimodo</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby>
 </div>
-<div class="trans-lyric">Reclaim the blue radiance</div>
 <div class="trans-lyric">Reclaim the blue radiance</div>
 </div>
 

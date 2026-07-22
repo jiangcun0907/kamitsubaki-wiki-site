@@ -129,7 +129,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [01:30.05]<ruby>遥<rt class="furi">はる</rt><rt class="roma">haru</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>月<rt class="furi">つき</rt><rt class="roma">tsuki</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>目指<rt class="furi">めざ</rt><rt class="roma">meza</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby> Ah <ruby>今日<rt class="furi">きょう</rt><rt class="roma">kyou</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="trans-lyric">[01:30.05]Aimed for the distant moon, Ah, today's sky is</div>
-<div class="trans-lyric">Aimed for the distant moon, Ah, today's sky is</div>
 </div>
 
 <div class="lyric-line">

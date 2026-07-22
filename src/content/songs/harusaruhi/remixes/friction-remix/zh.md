@@ -43,8 +43,6 @@ image: /images/songs/harusaruhi/single-1719580869.jpg
 [00:01.03]<ruby>焦燥<rt class="furi">しょうそう</rt><rt class="roma">shousou</rt></ruby> <ruby>なんで<rt class="roma">nande</rt></ruby>？
 </div>
 <div class="cn-lyric">[00:01.03]焦躁 为什么？</div>
-<div class="cn-lyric">[00:01.03]焦躁 为什么？</div>
-<div class="cn-lyric">[00:01.03]焦躁 为什么？</div>
 </div>
 
 <div class="lyric-line">
@@ -115,15 +113,12 @@ image: /images/songs/harusaruhi/single-1719580869.jpg
 [00:37.23]<ruby>偽証<rt class="furi">ぎしょう</rt><rt class="roma">gishou</rt></ruby> <ruby>正解<rt class="furi">せいかい</rt><rt class="roma">seikai</rt></ruby> <ruby>生涯<rt class="furi">しょうがい</rt><rt class="roma">shougai</rt></ruby> fiction？
 </div>
 <div class="cn-lyric">[00:37.23]伪证 正确答案 生涯 fiction？</div>
-<div class="cn-lyric">[00:37.23]伪证 正确答案 生涯 fiction？</div>
-<div class="cn-lyric">[00:37.23]伪证 正确答案 生涯 fiction？</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:39.79]<ruby>眠<rt class="furi">ねむ</rt><rt class="roma">nemu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby> <ruby>劣等<rt class="furi">れっとう</rt><rt class="roma">rettou</rt></ruby><ruby>さえ<rt class="roma">sae</rt></ruby>
 </div>
-<div class="cn-lyric">[00:39.79]无法入睡 连自卑都</div>
 <div class="cn-lyric">[00:39.79]无法入睡 连自卑都</div>
 </div>
 
@@ -132,16 +127,12 @@ image: /images/songs/harusaruhi/single-1719580869.jpg
 [00:42.28]<ruby>虚<rt class="furi">うつ</rt><rt class="roma">utsu</rt></ruby><ruby>ろ<rt class="roma">ro</rt></ruby><ruby>い<rt class="roma">i</rt></ruby> <ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby> <ruby>期待<rt class="furi">きたい</rt><rt class="roma">kitai</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby> 哀 <ruby>ほっとい<rt class="roma">hottoi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[00:42.28]空虚 爱 对期待 悲哀 别管我</div>
-<div class="cn-lyric">[00:42.28]空虚 爱 对期待 悲哀 别管我</div>
-<div class="cn-lyric">[00:42.28]空虚 爱 对期待 悲哀 别管我</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:45.32]<ruby>理想<rt class="furi">りそう</rt><rt class="roma">risou</rt></ruby><ruby>肥大<rt class="furi">ひだい</rt><rt class="roma">hidai</rt></ruby>
 </div>
-<div class="cn-lyric">[00:45.32]理想肥大</div>
-<div class="cn-lyric">[00:45.32]理想肥大</div>
 <div class="cn-lyric">[00:45.32]理想肥大</div>
 </div>
 
@@ -150,16 +141,12 @@ image: /images/songs/harusaruhi/single-1719580869.jpg
 [00:47.62]<ruby>模倣<rt class="furi">もほう</rt><rt class="roma">mohou</rt></ruby><ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby> <ruby>解<rt class="furi">かい</rt><rt class="roma">kai</rt></ruby> <ruby>障害<rt class="furi">しょうがい</rt><rt class="roma">shougai</rt></ruby> <ruby>メランコリー<rt class="roma">merankorii</rt></ruby>
 </div>
 <div class="cn-lyric">[00:47.62]模仿的 解答 障碍 忧郁</div>
-<div class="cn-lyric">[00:47.62]模仿的 解答 障碍 忧郁</div>
-<div class="cn-lyric">[00:47.62]模仿的 解答 障碍 忧郁</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:50.18]<ruby>エゴ<rt class="roma">ego</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby> <ruby>才<rt class="furi">さい</rt><rt class="roma">sai</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby> <ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> <ruby>プライド<rt class="roma">puraido</rt></ruby>
 </div>
-<div class="cn-lyric">[00:50.18]自我也好 才能也好 看不见的自尊</div>
-<div class="cn-lyric">[00:50.18]自我也好 才能也好 看不见的自尊</div>
 <div class="cn-lyric">[00:50.18]自我也好 才能也好 看不见的自尊</div>
 </div>
 
@@ -168,16 +155,12 @@ image: /images/songs/harusaruhi/single-1719580869.jpg
 [00:52.47]<ruby>やり<rt class="roma">yari</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>とか<rt class="roma">toka</rt></ruby> <ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="cn-lyric">[00:52.47]想做的事什么的 不知道</div>
-<div class="cn-lyric">[00:52.47]想做的事什么的 不知道</div>
-<div class="cn-lyric">[00:52.47]想做的事什么的 不知道</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:54.34]<ruby>ねえ<rt class="roma">nee</rt></ruby> <ruby>教<rt class="furi">おし</rt><rt class="roma">oshi</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="cn-lyric">[00:54.34]呐 告诉我</div>
-<div class="cn-lyric">[00:54.34]呐 告诉我</div>
 <div class="cn-lyric">[00:54.34]呐 告诉我</div>
 </div>
 
@@ -186,16 +169,12 @@ image: /images/songs/harusaruhi/single-1719580869.jpg
 [00:55.56]<ruby>窮屈<rt class="furi">きゅうくつ</rt><rt class="roma">kyuukutsu</rt></ruby><ruby>な<rt class="roma">na</rt></ruby> <ruby>今日<rt class="furi">きょう</rt><rt class="roma">kyou</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>もう<rt class="roma">mou</rt></ruby> <ruby>壊<rt class="furi">こわ</rt><rt class="roma">kowa</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[00:55.56]拘束的今天已经 破坏掉</div>
-<div class="cn-lyric">[00:55.56]拘束的今天已经 破坏掉</div>
-<div class="cn-lyric">[00:55.56]拘束的今天已经 破坏掉</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:58.32]<ruby>掛<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>違<rt class="furi">ちが</rt><rt class="roma">chiga</rt></ruby><ruby>う<rt class="roma">u</rt></ruby> friction
 </div>
-<div class="cn-lyric">[00:58.32]错位的 friction</div>
-<div class="cn-lyric">[00:58.32]错位的 friction</div>
 <div class="cn-lyric">[00:58.32]错位的 friction</div>
 </div>
 

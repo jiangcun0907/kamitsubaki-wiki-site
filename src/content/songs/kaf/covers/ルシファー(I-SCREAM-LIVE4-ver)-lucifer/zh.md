@@ -124,17 +124,12 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 [00:46.24]<ruby>ルシファー<rt class="roma">rushifuaa</rt></ruby>
 </div>
 <div class="cn-lyric">[00:46.24]路西法</div>
-<div class="cn-lyric">[00:46.24]路西法</div>
-<div class="cn-lyric">[00:46.24]路西法</div>
-<div class="cn-lyric">[00:46.24]路西法</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:47.59]<ruby>ル<rt class="roma">ru</rt></ruby> <ruby>ルシファー<rt class="roma">rushifuaa</rt></ruby>
 </div>
-<div class="cn-lyric">[00:47.59]路 路西法</div>
-<div class="cn-lyric">[00:47.59]路 路西法</div>
 <div class="cn-lyric">[00:47.59]路 路西法</div>
 </div>
 
@@ -159,7 +154,6 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 [00:56.10]<ruby>友<rt class="furi">とも</rt><rt class="roma">tomo</rt></ruby><ruby>だち<rt class="roma">dachi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="cn-lyric">[00:56.10]朋友的</div>
-<div class="cn-lyric">[00:56.10]朋友的</div>
 </div>
 
 <div class="lyric-line">
@@ -173,7 +167,6 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 <div class="jp-lyric">
 [01:00.99]<ruby>修羅場<rt class="furi">しゅらば</rt><rt class="roma">shuraba</rt></ruby><ruby>こそ<rt class="roma">koso</rt></ruby>
 </div>
-<div class="cn-lyric">[01:00.99]修罗场正是</div>
 <div class="cn-lyric">[01:00.99]修罗场正是</div>
 </div>
 
@@ -308,7 +301,6 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 <div class="jp-lyric">
 [01:55.90]<ruby>親<rt class="furi">おや</rt><rt class="roma">oya</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby>
 </div>
-<div class="cn-lyric">[01:55.90]关于父母</div>
 <div class="cn-lyric">[01:55.90]关于父母</div>
 </div>
 

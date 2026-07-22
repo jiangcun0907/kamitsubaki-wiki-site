@@ -166,7 +166,6 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [01:25.11]I am a glass of water
 </div>
 <div class="cn-lyric">[01:25.11]I am a glass of water</div>
-<div class="cn-lyric">[01:25.11]I am a glass of water</div>
 </div>
 
 <div class="lyric-line">
@@ -290,7 +289,6 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 <div class="jp-lyric">
 [02:39.43]<ruby>神話<rt class="furi">しんわ</rt><rt class="roma">shinwa</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>代<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>わり<rt class="roma">wari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
-<div class="cn-lyric">[02:39.43]代替神话</div>
 <div class="cn-lyric">[02:39.43]代替神话</div>
 </div>
 

@@ -139,7 +139,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [01:34.46]<ruby>大人<rt class="furi">おとな</rt><rt class="roma">otona</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>煙草<rt class="furi">たばこ</rt><rt class="roma">tabako</rt></ruby>
 </div>
 <div class="cn-lyric">[01:34.46]成年的你抽着烟</div>
-<div class="cn-lyric">成年的你抽着烟</div>
 </div>
 
 <div class="lyric-line">
@@ -147,7 +146,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [01:38.86]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>シャボン<rt class="roma">shabon</rt></ruby><ruby>玉<rt class="furi">だま</rt><rt class="roma">dama</rt></ruby>
 </div>
 <div class="cn-lyric">[01:38.86]我是肥皂泡</div>
-<div class="cn-lyric">我是肥皂泡</div>
 </div>
 
 <br />

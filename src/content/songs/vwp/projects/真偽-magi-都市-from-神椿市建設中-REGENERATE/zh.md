@@ -188,8 +188,6 @@ Wipe out all the enemies in sight
 There's no turning back this time
 </div>
 <div class="cn-lyric">这次再无退路</div>
-<div class="cn-lyric">这次再无退路</div>
-<div class="cn-lyric">这次再无退路</div>
 </div>
 
 <div class="lyric-line">
@@ -211,14 +209,12 @@ Will the laurel be placed on my head
 one day we shall cheer and dance
 </div>
 <div class="cn-lyric">终有一天我们将欢呼起舞</div>
-<div class="cn-lyric">终有一天我们将欢呼起舞</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 making joy forever last”
 </div>
-<div class="cn-lyric">让快乐永存”</div>
 <div class="cn-lyric">让快乐永存”</div>
 </div>
 
@@ -296,7 +292,6 @@ with the blessings and wish by my side
 <div class="jp-lyric">
 won't accept the fate that is set
 </div>
-<div class="cn-lyric">不接受被注定的命运</div>
 <div class="cn-lyric">不接受被注定的命运</div>
 </div>
 

@@ -38,16 +38,16 @@ There's a raging storm around us
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:36.55]Trying to tear us from the ground
+Trying to tear us from the ground
 </div>
-<div class="cn-lyric">[03:36.55]试图将我们连根拔起</div>
+<div class="cn-lyric">试图将我们连根拔起</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:06.97]We can ride this wave together
+We can ride this wave together
 </div>
-<div class="cn-lyric">[01:06.97]我们可以一起乘风破浪</div>
+<div class="cn-lyric">我们可以一起乘风破浪</div>
 </div>
 
 <div class="lyric-line">
@@ -61,20 +61,15 @@ Until the thunder makes no sound
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:03.32]We are the new world
+We are the new world
 </div>
-<div class="cn-lyric">[01:03.32]我们是新世界</div>
-<div class="cn-lyric">[01:03.32]我们是新世界</div>
-<div class="cn-lyric">[01:03.32]我们是新世界</div>
-<div class="cn-lyric">[01:03.32]我们是新世界</div>
-<div class="cn-lyric">[01:03.32]我们是新世界</div>
+<div class="cn-lyric">我们是新世界</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 We'll unite this world together
 </div>
-<div class="cn-lyric">我们将携手团结这世界</div>
 <div class="cn-lyric">我们将携手团结这世界</div>
 </div>
 
@@ -88,8 +83,6 @@ We are the new world
 <div class="jp-lyric">
 We'll put this fire out forever
 </div>
-<div class="cn-lyric">我们将永远扑灭这火焰</div>
-<div class="cn-lyric">我们将永远扑灭这火焰</div>
 <div class="cn-lyric">我们将永远扑灭这火焰</div>
 </div>
 

@@ -66,14 +66,12 @@ image: /images/songs/rim/single-1688347819.jpg
 [00:29.32]<ruby>あたし<rt class="roma">atashi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>身<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>流<rt class="furi">なが</rt><rt class="roma">naga</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby><ruby>血<rt class="furi">ち</rt><rt class="roma">chi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="trans-lyric">[00:29.32]The blood flowing through my body</div>
-<div class="trans-lyric">The blood flowing through my body</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:33.15]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>みたい<rt class="roma">mitai</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>綺麗<rt class="furi">きれい</rt><rt class="roma">kirei</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="trans-lyric">Isn't as beautiful as yours</div>
 <div class="trans-lyric">Isn't as beautiful as yours</div>
 </div>
 
@@ -82,7 +80,6 @@ image: /images/songs/rim/single-1688347819.jpg
 [00:35.93]<ruby>動<rt class="furi">うご</rt><rt class="roma">ugo</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> <ruby>動<rt class="furi">うご</rt><rt class="roma">ugo</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>です<rt class="roma">desu</rt></ruby>
 </div>
 <div class="trans-lyric">[00:35.93]I can't move, I just can't move</div>
-<div class="trans-lyric">I can't move, I just can't move</div>
 </div>
 
 <div class="lyric-line">
@@ -90,7 +87,6 @@ image: /images/songs/rim/single-1688347819.jpg
 [00:38.32]<ruby>笑<rt class="furi">わら</rt><rt class="roma">wara</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> <ruby>笑<rt class="furi">わら</rt><rt class="roma">wara</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>です<rt class="roma">desu</rt></ruby>
 </div>
 <div class="trans-lyric">[00:38.32]I can't laugh, I just can't laugh</div>
-<div class="trans-lyric">I can't laugh, I just can't laugh</div>
 </div>
 
 <div class="lyric-line">
@@ -98,7 +94,6 @@ image: /images/songs/rim/single-1688347819.jpg
 [00:41.37]<ruby>明日<rt class="furi">あした</rt><rt class="roma">ashita</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>晴<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="trans-lyric">[00:41.37]Tomorrow won't be clear either</div>
-<div class="trans-lyric">Tomorrow won't be clear either</div>
 </div>
 
 <br />
@@ -115,7 +110,6 @@ image: /images/songs/rim/single-1688347819.jpg
 [00:56.16]<ruby>つまらない<rt class="roma">tsumaranai</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>聞<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">Don't ask me trivial things</div>
-<div class="trans-lyric">Don't ask me trivial things</div>
 </div>
 
 <div class="lyric-line">
@@ -123,7 +117,6 @@ image: /images/songs/rim/single-1688347819.jpg
 [01:00.22]<ruby>この<rt class="roma">kono</rt></ruby><ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby> <ruby>脚<rt class="furi">あし</rt><rt class="roma">ashi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby> <ruby>視線<rt class="furi">しせん</rt><rt class="roma">shisen</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>落<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>とし<rt class="roma">toshi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">[01:00.22]Lower these hands, legs, and gaze</div>
-<div class="trans-lyric">Lower these hands, legs, and gaze</div>
 </div>
 
 <div class="lyric-line">
@@ -147,9 +140,6 @@ image: /images/songs/rim/single-1688347819.jpg
 [01:26.19]（<ruby>簡単<rt class="furi">かんたん</rt><rt class="roma">kantan</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>答<rt class="furi">こた</rt><rt class="roma">kota</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>捻り出<rt class="furi">ひねりだ</rt><rt class="roma">hinerida</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>？）
 </div>
 <div class="trans-lyric">[01:26.19](Squeeze out a simple answer?)</div>
-<div class="trans-lyric">(Squeeze out a simple answer?)</div>
-<div class="trans-lyric">(Squeeze out a simple answer?)</div>
-<div class="trans-lyric">(Squeeze out a simple answer?)</div>
 </div>
 
 <div class="lyric-line">
@@ -243,7 +233,6 @@ image: /images/songs/rim/single-1688347819.jpg
 <div class="jp-lyric">
 [02:48.31]<ruby>クライベイビー<rt class="roma">kuraibeibii</rt></ruby>
 </div>
-<div class="trans-lyric">Crybaby</div>
 <div class="trans-lyric">Crybaby</div>
 </div>
 

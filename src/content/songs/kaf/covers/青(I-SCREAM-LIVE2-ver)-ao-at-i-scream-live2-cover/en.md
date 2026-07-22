@@ -103,14 +103,12 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 <ruby>青<rt class="furi">あお</rt><rt class="roma">ao</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby> <ruby>青<rt class="furi">あお</rt><rt class="roma">ao</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby> <ruby>澄<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="trans-lyric">Blue, blue, clear</div>
-<div class="trans-lyric">Blue, blue, clear</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>あの<rt class="roma">ano</rt></ruby><ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
-<div class="trans-lyric">Like that sky</div>
 <div class="trans-lyric">Like that sky</div>
 </div>
 
@@ -119,14 +117,12 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 <ruby>広<rt class="furi">ひろ</rt><rt class="roma">hiro</rt></ruby><ruby>がって<rt class="roma">gatte</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby><ruby>自由<rt class="furi">じゆう</rt><rt class="roma">jiyuu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby> oh
 </div>
 <div class="trans-lyric">The spreading freedom, oh</div>
-<div class="trans-lyric">The spreading freedom, oh</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>いつか<rt class="roma">itsuka</rt></ruby> <ruby>会<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby> <ruby>きっと<rt class="roma">kitto</rt></ruby>
 </div>
-<div class="trans-lyric">Someday I'll go see you, surely</div>
 <div class="trans-lyric">Someday I'll go see you, surely</div>
 </div>
 
@@ -135,7 +131,6 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 <ruby>泣<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>たかった<rt class="roma">takatta</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">To the me who wanted to cry</div>
-<div class="trans-lyric">To the me who wanted to cry</div>
 </div>
 
 <div class="lyric-line">
@@ -143,14 +138,12 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 <ruby>大丈夫<rt class="furi">だいじょうぶ</rt><rt class="roma">daijoubu</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>、<ruby>って<rt class="roma">tte</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">I'll say, 'It's okay'</div>
-<div class="trans-lyric">I'll say, 'It's okay'</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>青<rt class="furi">あお</rt><rt class="roma">ao</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>渡<rt class="furi">わた</rt><rt class="roma">wata</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
-<div class="trans-lyric">Crossing the blue</div>
 <div class="trans-lyric">Crossing the blue</div>
 </div>
 

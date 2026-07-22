@@ -79,7 +79,6 @@ image: /images/albums/rim/chocolate-live.jpg
 [01:04.83]<ruby>過不足<rt class="furi">かふそく</rt><rt class="roma">kafusoku</rt></ruby><ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby> <ruby>不自由<rt class="furi">ふじゆう</rt><rt class="roma">fujiyuu</rt></ruby><ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby> <ruby>最近<rt class="furi">さいきん</rt><rt class="roma">saikin</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby> <ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">Living lately, neither lacking nor unfree</div>
-<div class="trans-lyric">Living lately, neither lacking nor unfree</div>
 </div>
 
 <div class="lyric-line">
@@ -103,7 +102,6 @@ image: /images/albums/rim/chocolate-live.jpg
 [01:13.78]<ruby>黒板<rt class="furi">こくばん</rt><rt class="roma">kokuban</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>この<rt class="roma">kono</rt></ruby><ruby>漢字<rt class="furi">かんじ</rt><rt class="roma">kanji</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>読<rt class="furi">よ</rt><rt class="roma">yo</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>ます<rt class="roma">masu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby> <ruby>あの<rt class="roma">ano</rt></ruby><ruby>子<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>心象<rt class="furi">しんしょう</rt><rt class="roma">shinshou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>読<rt class="furi">よ</rt><rt class="roma">yo</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>ます<rt class="roma">masu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
 </div>
 <div class="trans-lyric">Can you read this kanji on the blackboard? Can you read that child's heart?</div>
-<div class="trans-lyric">Can you read this kanji on the blackboard? Can you read that child's heart?</div>
 </div>
 
 <div class="lyric-line">
@@ -111,14 +109,12 @@ image: /images/albums/rim/chocolate-live.jpg
 [01:19.54]<ruby>その<rt class="roma">sono</rt></ruby><ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>黒<rt class="furi">くろ</rt><rt class="roma">kuro</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>染<rt class="furi">そ</rt><rt class="roma">so</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby> <ruby>おい<rt class="roma">oi</rt></ruby><ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby> <ruby>おい<rt class="roma">oi</rt></ruby><ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">Who stained that heart black? Hey, who was it? Hey, who was it?</div>
-<div class="trans-lyric">Who stained that heart black? Hey, who was it? Hey, who was it?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:25.44]<ruby>そろ<rt class="roma">soro</rt></ruby><ruby>ばん<rt class="roma">ban</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>この<rt class="roma">kono</rt></ruby><ruby>式<rt class="furi">しき</rt><rt class="roma">shiki</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>解<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>ます<rt class="roma">masu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby> <ruby>あの<rt class="roma">ano</rt></ruby><ruby>子<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>首<rt class="furi">くび</rt><rt class="roma">kubi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>輪<rt class="furi">わ</rt><rt class="roma">wa</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>解<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>ます<rt class="roma">masu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
 </div>
-<div class="trans-lyric">Can you solve this equation with an abacus? Can you untie the noose around that child's neck?</div>
 <div class="trans-lyric">Can you solve this equation with an abacus? Can you untie the noose around that child's neck?</div>
 </div>
 

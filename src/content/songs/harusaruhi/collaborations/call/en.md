@@ -67,7 +67,6 @@ CALL appears on CALL or a related official release. Entries are version-specific
 [00:27.83]<ruby>炭酸<rt class="furi">たんさん</rt><rt class="roma">tansan</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>弾け<rt class="furi">ひけ</rt><rt class="roma">hike</rt></ruby> <ruby>消え<rt class="furi">きえ</rt><rt class="roma">kie</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
 <div class="trans-lyric">[00:27.83]Like carbonation popping and fading away</div>
-<div class="trans-lyric">Like carbonation popping and fading away</div>
 </div>
 
 <div class="lyric-line">
@@ -75,7 +74,6 @@ CALL appears on CALL or a related official release. Entries are version-specific
 [00:31.15]<ruby>散々<rt class="furi">さんざん</rt><rt class="roma">sanzan</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>判断<rt class="furi">はんだん</rt><rt class="roma">handan</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>忘れ<rt class="furi">わすれ</rt><rt class="roma">wasure</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
 <div class="trans-lyric">[00:31.15]Like forgetting in the midst of disastrous decisions</div>
-<div class="trans-lyric">Like forgetting in the midst of disastrous decisions</div>
 </div>
 
 <div class="lyric-line">
@@ -83,7 +81,6 @@ CALL appears on CALL or a related official release. Entries are version-specific
 [00:34.94]<ruby>一瞬<rt class="furi">いっしゅん</rt><rt class="roma">isshun</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>変わる<rt class="furi">かわる</rt><rt class="roma">kawaru</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby>
 </div>
 <div class="trans-lyric">[00:34.94]A world that changes in an instant</div>
-<div class="trans-lyric">A world that changes in an instant</div>
 </div>
 
 <div class="lyric-line">
@@ -100,14 +97,12 @@ CALL appears on CALL or a related official release. Entries are version-specific
 [00:41.66]Call me <ruby>聞か<rt class="furi">きか</rt><rt class="roma">kika</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">Call me, let me hear it</div>
-<div class="trans-lyric">Call me, let me hear it</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:45.17]Call me <ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
-<div class="trans-lyric">Call me, to love</div>
 <div class="trans-lyric">Call me, to love</div>
 </div>
 
@@ -116,7 +111,6 @@ CALL appears on CALL or a related official release. Entries are version-specific
 [00:48.31]<ruby>お便り<rt class="furi">おたより</rt><rt class="roma">otayori</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>頼り<rt class="furi">たより</rt><rt class="roma">tayori</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">[00:48.31]Relying on your letters</div>
-<div class="trans-lyric">Relying on your letters</div>
 </div>
 
 <div class="lyric-line">
@@ -124,7 +118,6 @@ CALL appears on CALL or a related official release. Entries are version-specific
 [00:51.38]<ruby>すれ違い<rt class="furi">すれちがい</rt><rt class="roma">surechigai</rt></ruby><ruby>通信<rt class="furi">つうしん</rt><rt class="roma">tsuushin</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>きっと<rt class="roma">kitto</rt></ruby>
 </div>
 <div class="trans-lyric">[00:51.38]Even if it's just passing communication, surely...</div>
-<div class="trans-lyric">Even if it's just passing communication, surely...</div>
 </div>
 
 <br />
@@ -134,14 +127,12 @@ CALL appears on CALL or a related official release. Entries are version-specific
 [00:54.75]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>の<rt class="roma">no</rt></ruby> call <ruby>を<rt class="roma">wo</rt></ruby><ruby>届け<rt class="furi">とどけ</rt><rt class="roma">todoke</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">[00:54.75]Please deliver the call that is only yours</div>
-<div class="trans-lyric">Please deliver the call that is only yours</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:58.01]<ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby> love <ruby>に<rt class="roma">ni</rt></ruby><ruby>変わる<rt class="furi">かわる</rt><rt class="roma">kawaru</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby>
 </div>
-<div class="trans-lyric">Until words turn into love</div>
 <div class="trans-lyric">Until words turn into love</div>
 </div>
 
@@ -150,14 +141,12 @@ CALL appears on CALL or a related official release. Entries are version-specific
 [01:01.73]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>の<rt class="roma">no</rt></ruby> goal <ruby>を<rt class="roma">wo</rt></ruby><ruby>見つけ<rt class="furi">みつけ</rt><rt class="roma">mitsuke</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">Please find the goal that is only yours</div>
-<div class="trans-lyric">Please find the goal that is only yours</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:05.21]1<ruby>・<rt class="roma">/</rt></ruby>2<ruby>・<rt class="roma">/</rt></ruby>3 <ruby>の<rt class="roma">no</rt></ruby> step <ruby>で<rt class="roma">de</rt></ruby><ruby>決め<rt class="furi">きめ</rt><rt class="roma">kime</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">Decide with a 1, 2, 3 step</div>
 <div class="trans-lyric">Decide with a 1, 2, 3 step</div>
 </div>
 
@@ -166,14 +155,12 @@ CALL appears on CALL or a related official release. Entries are version-specific
 [01:08.98]<ruby>揺れ<rt class="furi">ゆれ</rt><rt class="roma">yure</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>揺らい<rt class="furi">ゆらい</rt><rt class="roma">yurai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>迷い<rt class="furi">まよい</rt><rt class="roma">mayoi</rt></ruby><ruby>迷わ<rt class="furi">まよわ</rt><rt class="roma">mayowa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby>
 </div>
 <div class="trans-lyric">[01:08.98]Swaying and wavering, losing my way and being led astray</div>
-<div class="trans-lyric">Swaying and wavering, losing my way and being led astray</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:12.40]<ruby>テンション<rt class="roma">tenshon</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>上げ下げ<rt class="furi">あげさげ</rt><rt class="roma">agesage</rt></ruby> <ruby>そんな<rt class="roma">sonna</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>じゃん<rt class="roma">jan</rt></ruby>
 </div>
-<div class="trans-lyric">The ups and downs of tension, isn't that fine?</div>
 <div class="trans-lyric">The ups and downs of tension, isn't that fine?</div>
 </div>
 
@@ -182,14 +169,12 @@ CALL appears on CALL or a related official release. Entries are version-specific
 [01:15.80]<ruby>春<rt class="furi">はる</rt><rt class="roma">haru</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>来<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>居る<rt class="furi">いる</rt><rt class="roma">iru</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby>
 </div>
 <div class="trans-lyric">[01:15.80]Spring has come, the world where you are</div>
-<div class="trans-lyric">Spring has come, the world where you are</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:19.39]<ruby>始め<rt class="furi">はじめ</rt><rt class="roma">hajime</rt></ruby><ruby>ましょ<rt class="roma">masho</rt></ruby><ruby>う<rt class="roma">u</rt></ruby> call me, call me
 </div>
-<div class="trans-lyric">Let's begin, call me, call me</div>
 <div class="trans-lyric">Let's begin, call me, call me</div>
 </div>
 

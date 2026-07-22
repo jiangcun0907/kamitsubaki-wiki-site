@@ -45,16 +45,12 @@ CULT appears on CREAM PUFF LIVE or a related official release. Entries are versi
 [00:30.83]Just a total brainwash like they're in a cult
 </div>
 <div class="trans-lyric">Just a total brainwash like they're in a cult</div>
-<div class="trans-lyric">Just a total brainwash like they're in a cult</div>
-<div class="trans-lyric">Just a total brainwash like they're in a cult</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:35.55]And I'm so scared of what will be the end result
 </div>
-<div class="trans-lyric">And I'm so scared of what will be the end result</div>
-<div class="trans-lyric">And I'm so scared of what will be the end result</div>
 <div class="trans-lyric">And I'm so scared of what will be the end result</div>
 </div>
 
@@ -88,7 +84,6 @@ CULT appears on CREAM PUFF LIVE or a related official release. Entries are versi
 <div class="jp-lyric">
 [01:09.03]Tell you you've got a chance then they kill all your dreams
 </div>
-<div class="trans-lyric">Tell you you've got a chance then they kill all your dreams</div>
 <div class="trans-lyric">Tell you you've got a chance then they kill all your dreams</div>
 </div>
 

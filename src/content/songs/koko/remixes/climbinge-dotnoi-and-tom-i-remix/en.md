@@ -85,14 +85,12 @@ ClimBinge(Dotnoi&Tom-i Remix) appears on ClimBinge the Remix or a related offici
 [00:37.77]Peak meter <ruby>振り切<rt class="furi">ふりき</rt><rt class="roma">furiki</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby>
 </div>
 <div class="trans-lyric">Even if the peak meter maxes out</div>
-<div class="trans-lyric">Even if the peak meter maxes out</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:41.54]Only holy time <ruby>始<rt class="furi">はじ</rt><rt class="roma">haji</rt></ruby><ruby>めよ<rt class="roma">meyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="trans-lyric">Only holy time, let's begin</div>
 <div class="trans-lyric">Only holy time, let's begin</div>
 </div>
 
@@ -101,7 +99,6 @@ ClimBinge(Dotnoi&Tom-i Remix) appears on ClimBinge the Remix or a related offici
 [00:45.22]Deep my voice <ruby>絡<rt class="furi">から</rt><rt class="roma">kara</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>飛<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>ばす<rt class="roma">basu</rt></ruby>
 </div>
 <div class="trans-lyric">Entangle my deep voice and send it flying</div>
-<div class="trans-lyric">Entangle my deep voice and send it flying</div>
 </div>
 
 <div class="lyric-line">
@@ -109,14 +106,12 @@ ClimBinge(Dotnoi&Tom-i Remix) appears on ClimBinge the Remix or a related offici
 [00:48.99]<ruby>箱<rt class="furi">はこ</rt><rt class="roma">hako</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby> <ruby>響<rt class="furi">ひび</rt><rt class="roma">hibi</rt></ruby><ruby>かせ<rt class="roma">kase</rt></ruby><ruby>合<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>お<rt class="roma">o</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="trans-lyric">Let's resonate inside the box</div>
-<div class="trans-lyric">Let's resonate inside the box</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:58.05]<ruby>吐き出<rt class="furi">はきだ</rt><rt class="roma">hakida</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>それ<rt class="roma">sore</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>良<rt class="furi">よ</rt><rt class="roma">yo</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>謳<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="trans-lyric">Proclaim that which was expelled as good</div>
 <div class="trans-lyric">Proclaim that which was expelled as good</div>
 </div>
 
@@ -254,15 +249,12 @@ ClimBinge(Dotnoi&Tom-i Remix) appears on ClimBinge the Remix or a related offici
 [02:30.73]Shake it shake it up
 </div>
 <div class="trans-lyric">Shake it shake it up</div>
-<div class="trans-lyric">Shake it shake it up</div>
-<div class="trans-lyric">Shake it shake it up</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [02:32.05]Singing making loving now
 </div>
-<div class="trans-lyric">Singing making loving now</div>
 <div class="trans-lyric">Singing making loving now</div>
 </div>
 

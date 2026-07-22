@@ -92,19 +92,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [00:44.77]<ruby>踊<rt class="furi">おど</rt><rt class="roma">odo</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">I don't know nights without dancing</div>
-<div class="trans-lyric">I don't know nights without dancing</div>
-<div class="trans-lyric">I don't know nights without dancing</div>
-<div class="trans-lyric">I don't know nights without dancing</div>
-<div class="trans-lyric">I don't know nights without dancing</div>
-<div class="trans-lyric">I don't know nights without dancing</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:47.52]<ruby>踊<rt class="furi">おど</rt><rt class="roma">odo</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>気に入<rt class="furi">きにい</rt><rt class="roma">kinii</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="trans-lyric">I don't like nights without dancing</div>
-<div class="trans-lyric">I don't like nights without dancing</div>
 <div class="trans-lyric">I don't like nights without dancing</div>
 </div>
 
@@ -119,18 +112,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [00:53.02]<ruby>踊<rt class="furi">おど</rt><rt class="roma">odo</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>気に入<rt class="furi">きにい</rt><rt class="roma">kinii</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">I don't like nights without dancing, you know</div>
-<div class="trans-lyric">I don't like nights without dancing, you know</div>
-<div class="trans-lyric">I don't like nights without dancing, you know</div>
-<div class="trans-lyric">I don't like nights without dancing, you know</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:57.41]<ruby>気に入<rt class="furi">きにい</rt><rt class="roma">kinii</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby><ruby>もう<rt class="roma">mou</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="trans-lyric">I no longer know nights I don't like</div>
-<div class="trans-lyric">I no longer know nights I don't like</div>
-<div class="trans-lyric">I no longer know nights I don't like</div>
 <div class="trans-lyric">I no longer know nights I don't like</div>
 </div>
 
@@ -139,8 +126,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [01:01.39]<ruby>踊<rt class="furi">おど</rt><rt class="roma">odo</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby>
 </div>
 <div class="trans-lyric">Nights with no night without dancing</div>
-<div class="trans-lyric">Nights with no night without dancing</div>
-<div class="trans-lyric">Nights with no night without dancing</div>
 </div>
 
 <div class="lyric-line">
@@ -148,8 +133,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [01:04.41]<ruby>とっても<rt class="roma">tottemo</rt></ruby><ruby>とっても<rt class="roma">tottemo</rt></ruby><ruby>退屈<rt class="furi">たいくつ</rt><rt class="roma">taikutsu</rt></ruby><ruby>です<rt class="roma">desu</rt></ruby>
 </div>
 <div class="trans-lyric">Is very, very boring</div>
-<div class="trans-lyric">Are very, very boring</div>
-<div class="trans-lyric">Are very, very boring</div>
 </div>
 
 <br />
@@ -331,7 +314,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 <div class="jp-lyric">
 [03:12.77]<ruby>踊<rt class="furi">おど</rt><rt class="roma">odo</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
-<div class="trans-lyric">I want to know nights I want to dance</div>
 <div class="trans-lyric">I want to know nights I want to dance</div>
 </div>
 

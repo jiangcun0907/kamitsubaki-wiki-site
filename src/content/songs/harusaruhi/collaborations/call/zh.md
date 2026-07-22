@@ -67,7 +67,6 @@ image: /images/songs/harusaruhi/single-1718892415.jpg
 [00:27.83]<ruby>炭酸<rt class="furi">たんさん</rt><rt class="roma">tansan</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>弾け<rt class="furi">ひけ</rt><rt class="roma">hike</rt></ruby> <ruby>消え<rt class="furi">きえ</rt><rt class="roma">kie</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
 <div class="cn-lyric">[00:27.83]宛如碳酸气泡般破裂消散</div>
-<div class="cn-lyric">宛如碳酸气泡般破裂消散</div>
 </div>
 
 <div class="lyric-line">
@@ -75,7 +74,6 @@ image: /images/songs/harusaruhi/single-1718892415.jpg
 [00:31.15]<ruby>散々<rt class="furi">さんざん</rt><rt class="roma">sanzan</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>判断<rt class="furi">はんだん</rt><rt class="roma">handan</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>忘れ<rt class="furi">わすれ</rt><rt class="roma">wasure</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
 <div class="cn-lyric">[00:31.15]宛如在糟糕的决断中逐渐遗忘</div>
-<div class="cn-lyric">宛如在糟糕的决断中逐渐遗忘</div>
 </div>
 
 <div class="lyric-line">
@@ -83,7 +81,6 @@ image: /images/songs/harusaruhi/single-1718892415.jpg
 [00:34.94]<ruby>一瞬<rt class="furi">いっしゅん</rt><rt class="roma">isshun</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>変わる<rt class="furi">かわる</rt><rt class="roma">kawaru</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby>
 </div>
 <div class="cn-lyric">[00:34.94]瞬间改变的世界</div>
-<div class="cn-lyric">瞬间改变的世界</div>
 </div>
 
 <div class="lyric-line">
@@ -100,14 +97,12 @@ image: /images/songs/harusaruhi/single-1718892415.jpg
 [00:41.66]Call me <ruby>聞か<rt class="furi">きか</rt><rt class="roma">kika</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">[00:41.66]Call me 让我倾听你的声音</div>
-<div class="cn-lyric">[00:41.66]Call me 让我倾听你的声音</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:45.17]Call me <ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
-<div class="cn-lyric">[00:45.17]Call me 奔向爱</div>
 <div class="cn-lyric">[00:45.17]Call me 奔向爱</div>
 </div>
 
@@ -116,7 +111,6 @@ image: /images/songs/harusaruhi/single-1718892415.jpg
 [00:48.31]<ruby>お便り<rt class="furi">おたより</rt><rt class="roma">otayori</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>頼り<rt class="furi">たより</rt><rt class="roma">tayori</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="cn-lyric">[00:48.31]依靠着你的来信</div>
-<div class="cn-lyric">依靠着你的来信</div>
 </div>
 
 <div class="lyric-line">
@@ -124,7 +118,6 @@ image: /images/songs/harusaruhi/single-1718892415.jpg
 [00:51.38]<ruby>すれ違い<rt class="furi">すれちがい</rt><rt class="roma">surechigai</rt></ruby><ruby>通信<rt class="furi">つうしん</rt><rt class="roma">tsuushin</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>きっと<rt class="roma">kitto</rt></ruby>
 </div>
 <div class="cn-lyric">[00:51.38]即使只是擦肩而过的通信，也一定…</div>
-<div class="cn-lyric">即使只是擦肩而过的通信，也一定…</div>
 </div>
 
 <br />
@@ -134,14 +127,12 @@ image: /images/songs/harusaruhi/single-1718892415.jpg
 [00:54.75]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>の<rt class="roma">no</rt></ruby> call <ruby>を<rt class="roma">wo</rt></ruby><ruby>届け<rt class="furi">とどけ</rt><rt class="roma">todoke</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">[00:54.75]请将只属于你的 call 传达给我</div>
-<div class="cn-lyric">请将只属于你的 call 传达给我</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:58.01]<ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby> love <ruby>に<rt class="roma">ni</rt></ruby><ruby>変わる<rt class="furi">かわる</rt><rt class="roma">kawaru</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby>
 </div>
-<div class="cn-lyric">[00:58.01]直到话语化作 love 为止</div>
 <div class="cn-lyric">[00:58.01]直到话语化作 love 为止</div>
 </div>
 
@@ -150,14 +141,12 @@ image: /images/songs/harusaruhi/single-1718892415.jpg
 [01:01.73]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>の<rt class="roma">no</rt></ruby> goal <ruby>を<rt class="roma">wo</rt></ruby><ruby>見つけ<rt class="furi">みつけ</rt><rt class="roma">mitsuke</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:01.73]请找到只属于你的 goal</div>
-<div class="cn-lyric">[01:01.73]请找到只属于你的 goal</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:05.21]1<ruby>・<rt class="roma">/</rt></ruby>2<ruby>・<rt class="roma">/</rt></ruby>3 <ruby>の<rt class="roma">no</rt></ruby> step <ruby>で<rt class="roma">de</rt></ruby><ruby>決め<rt class="furi">きめ</rt><rt class="roma">kime</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="cn-lyric">[01:05.21]用 1·2·3 的 step 来做决定</div>
 <div class="cn-lyric">[01:05.21]用 1·2·3 的 step 来做决定</div>
 </div>
 
@@ -166,14 +155,12 @@ image: /images/songs/harusaruhi/single-1718892415.jpg
 [01:08.98]<ruby>揺れ<rt class="furi">ゆれ</rt><rt class="roma">yure</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>揺らい<rt class="furi">ゆらい</rt><rt class="roma">yurai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>迷い<rt class="furi">まよい</rt><rt class="roma">mayoi</rt></ruby><ruby>迷わ<rt class="furi">まよわ</rt><rt class="roma">mayowa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby>
 </div>
 <div class="cn-lyric">[01:08.98]摇摆不定，摇曳生姿，迷惘着，被迷惑着</div>
-<div class="cn-lyric">摇摆不定，摇曳生姿，迷惘着，被迷惑着</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:12.40]<ruby>テンション<rt class="roma">tenshon</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>上げ下げ<rt class="furi">あげさげ</rt><rt class="roma">agesage</rt></ruby> <ruby>そんな<rt class="roma">sonna</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>じゃん<rt class="roma">jan</rt></ruby>
 </div>
-<div class="cn-lyric">[01:12.40]情绪的高低起伏，那样不也挺好吗</div>
 <div class="cn-lyric">[01:12.40]情绪的高低起伏，那样不也挺好吗</div>
 </div>
 
@@ -182,14 +169,12 @@ image: /images/songs/harusaruhi/single-1718892415.jpg
 [01:15.80]<ruby>春<rt class="furi">はる</rt><rt class="roma">haru</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>来<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>居る<rt class="furi">いる</rt><rt class="roma">iru</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby>
 </div>
 <div class="cn-lyric">[01:15.80]春天到来，这个有你在的世界</div>
-<div class="cn-lyric">春天到来，这个有你在的世界</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:19.39]<ruby>始め<rt class="furi">はじめ</rt><rt class="roma">hajime</rt></ruby><ruby>ましょ<rt class="roma">masho</rt></ruby><ruby>う<rt class="roma">u</rt></ruby> call me, call me
 </div>
-<div class="cn-lyric">[01:19.39]让我们开始吧 call me, call me</div>
 <div class="cn-lyric">[01:19.39]让我们开始吧 call me, call me</div>
 </div>
 

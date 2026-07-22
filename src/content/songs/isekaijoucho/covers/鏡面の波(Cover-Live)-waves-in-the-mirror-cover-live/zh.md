@@ -80,7 +80,6 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [00:50.55]<ruby>夕立<rt class="furi">ゆうだち</rt><rt class="roma">yuudachi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>名付<rt class="furi">なづ</rt><rt class="roma">nazu</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>られ<rt class="roma">rare</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="cn-lyric">[00:50.55]夕立が名付けられた</div>
-<div class="cn-lyric">[00:50.55]夕立が名付けられた</div>
 </div>
 
 <div class="lyric-line">
@@ -88,14 +87,12 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [00:57.95]<ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>剥<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>がし<rt class="roma">gashi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>時<rt class="furi">とき</rt><rt class="roma">toki</rt></ruby>
 </div>
 <div class="cn-lyric">[00:57.95]世界を剥がした時</div>
-<div class="cn-lyric">[00:57.95]世界を剥がした時</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:01.47]<ruby>それ<rt class="roma">sore</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>波<rt class="furi">なみ</rt><rt class="roma">nami</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
-<div class="cn-lyric">[01:01.47]それは波のように</div>
 <div class="cn-lyric">[01:01.47]それは波のように</div>
 </div>
 
@@ -186,7 +183,6 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 <div class="jp-lyric">
 [02:47.93]<ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>彷徨<rt class="furi">ほうこう</rt><rt class="roma">houkou</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby>
 </div>
-<div class="cn-lyric">[02:47.93]夜の中を彷徨っている</div>
 <div class="cn-lyric">[02:47.93]夜の中を彷徨っている</div>
 </div>
 

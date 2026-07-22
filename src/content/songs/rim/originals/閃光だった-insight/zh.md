@@ -106,7 +106,6 @@ image: /images/songs/rim/single-1822319908.jpg
 [01:15.08]<ruby>ためらった<rt class="roma">tameratta</rt></ruby><ruby>あの<rt class="roma">ano</rt></ruby><ruby>日<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>続<rt class="furi">つづ</rt><rt class="roma">tsuzu</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>計画<rt class="furi">けいかく</rt><rt class="roma">keikaku</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>立<rt class="furi">た</rt><rt class="roma">ta</rt></ruby><ruby>てよ<rt class="roma">teyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="cn-lyric">[01:15.08]来制定那日犹豫的后续计划吧</div>
-<div class="cn-lyric">[01:15.08]来制定那日犹豫的后续计划吧</div>
 </div>
 
 <div class="lyric-line">

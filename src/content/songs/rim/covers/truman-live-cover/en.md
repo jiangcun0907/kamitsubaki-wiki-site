@@ -82,16 +82,12 @@ Oh I
 I hope that feeling comes back
 </div>
 <div class="trans-lyric">I hope that feeling comes back</div>
-<div class="trans-lyric">I hope that feeling comes back</div>
-<div class="trans-lyric">I hope that feeling comes back</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Maybe we'll all wake up soon, who knows?
 </div>
-<div class="trans-lyric">Maybe we'll all wake up soon, who knows?</div>
-<div class="trans-lyric">Maybe we'll all wake up soon, who knows?</div>
 <div class="trans-lyric">Maybe we'll all wake up soon, who knows?</div>
 </div>
 
@@ -100,19 +96,12 @@ Maybe we'll all wake up soon, who knows?
 I live this day again and again
 </div>
 <div class="trans-lyric">I live this day again and again</div>
-<div class="trans-lyric">I live this day again and again</div>
-<div class="trans-lyric">I live this day again and again</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Hello if you're watching this, from home
 </div>
-<div class="trans-lyric">Hello if you're watching this, from home</div>
-<div class="trans-lyric">Hello if you're watching this, from home</div>
-<div class="trans-lyric">Hello if you're watching this, from home</div>
-<div class="trans-lyric">Hello if you're watching this, from home</div>
-<div class="trans-lyric">Hello if you're watching this, from home</div>
 <div class="trans-lyric">Hello if you're watching this, from home</div>
 </div>
 
@@ -122,8 +111,6 @@ Hello if you're watching this, from home
 <div class="jp-lyric">
 Yeah it hurts just a little
 </div>
-<div class="trans-lyric">Yeah it hurts just a little</div>
-<div class="trans-lyric">Yeah it hurts just a little</div>
 <div class="trans-lyric">Yeah it hurts just a little</div>
 </div>
 
@@ -238,7 +225,6 @@ Yeah it hurts just a little
 And I'll tell you why
 </div>
 <div class="trans-lyric">And I'll tell you why</div>
-<div class="trans-lyric">And I'll tell you why</div>
 </div>
 
 <div class="lyric-line">
@@ -252,7 +238,6 @@ Thought you were on my side
 <div class="jp-lyric">
 Thought we'd coincide
 </div>
-<div class="trans-lyric">Thought we'd coincide</div>
 <div class="trans-lyric">Thought we'd coincide</div>
 </div>
 

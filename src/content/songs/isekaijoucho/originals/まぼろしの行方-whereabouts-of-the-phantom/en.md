@@ -127,14 +127,12 @@ image: /images/songs/isekaijoucho/single-1860778140.jpg
 [00:53.42]<ruby>歪<rt class="furi">ゆが</rt><rt class="roma">yuga</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>だし<rt class="roma">dashi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>残像<rt class="furi">ざんぞう</rt><rt class="roma">zanzou</rt></ruby><ruby>祓<rt class="furi">はら</rt><rt class="roma">hara</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
 <div class="trans-lyric">Exorcising the distorted afterimage</div>
-<div class="trans-lyric">Exorcising the distorted afterimage</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:55.93]<ruby>狂<rt class="furi">くる</rt><rt class="roma">kuru</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>だし<rt class="roma">dashi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>運命<rt class="furi">うんめい</rt><rt class="roma">unmei</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>返<rt class="furi">かえ</rt><rt class="roma">kae</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">Return the fate that has gone mad</div>
 <div class="trans-lyric">Return the fate that has gone mad</div>
 </div>
 
@@ -143,14 +141,12 @@ image: /images/songs/isekaijoucho/single-1860778140.jpg
 [00:58.87]<ruby>嘘<rt class="furi">うそ</rt><rt class="roma">uso</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>真実<rt class="furi">しんじつ</rt><rt class="roma">shinjitsu</rt></ruby>(<ruby>ほんとう<rt class="roma">hontou</rt></ruby>)<ruby>も<rt class="roma">mo</rt></ruby><ruby>関係<rt class="furi">かんけい</rt><rt class="roma">kankei</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="trans-lyric">Lies and truth don't matter</div>
-<div class="trans-lyric">Lies and truth don't matter</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:03.96]<ruby>耳鳴<rt class="furi">みみな</rt><rt class="roma">mimina</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>眩暈<rt class="furi">めまい</rt><rt class="roma">memai</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>恐怖<rt class="furi">きょうふ</rt><rt class="roma">kyoufu</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
-<div class="trans-lyric">The ringing in my ears, the dizziness, the fear</div>
 <div class="trans-lyric">The ringing in my ears, the dizziness, the fear</div>
 </div>
 
@@ -159,14 +155,12 @@ image: /images/songs/isekaijoucho/single-1860778140.jpg
 [01:06.59]<ruby>全部<rt class="furi">ぜんぶ</rt><rt class="roma">zenbu</rt></ruby><ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>せい<rt class="roma">sei</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="trans-lyric">It's all someone else's fault</div>
-<div class="trans-lyric">It's all someone else's fault</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:09.48]<ruby>迷子<rt class="furi">まいご</rt><rt class="roma">maigo</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なって<rt class="roma">natte</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby> <ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>つけ<rt class="roma">tsuke</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>欲<rt class="furi">ほ</rt><rt class="roma">ho</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby>
 </div>
-<div class="trans-lyric">Even if I get lost, I want you to find me</div>
 <div class="trans-lyric">Even if I get lost, I want you to find me</div>
 </div>
 

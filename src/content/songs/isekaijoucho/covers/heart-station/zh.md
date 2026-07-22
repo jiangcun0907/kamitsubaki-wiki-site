@@ -84,8 +84,6 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 [01:08.89]<ruby>深夜<rt class="furi">しんや</rt><rt class="roma">shin'ya</rt></ruby><ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>時<rt class="furi">じ</rt><rt class="roma">ji</rt></ruby><ruby>の<rt class="roma">no</rt></ruby> heart station
 </div>
 <div class="cn-lyric">[01:08.89]深夜一点的 heart station</div>
-<div class="cn-lyric">[01:08.89]深夜一点的 heart station</div>
-<div class="cn-lyric">[01:08.89]深夜一点的 heart station</div>
 </div>
 
 <div class="lyric-line">
@@ -100,7 +98,6 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 [01:19.91]<ruby>秘密<rt class="furi">ひみつ</rt><rt class="roma">himitsu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ヘルツ<rt class="roma">herutsu</rt></ruby>
 </div>
 <div class="cn-lyric">[01:19.91]秘密的赫兹</div>
-<div class="cn-lyric">[01:19.91]秘密的赫兹</div>
 </div>
 
 <br />
@@ -110,14 +107,12 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 [01:22.81]<ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>電波<rt class="furi">でんぱ</rt><rt class="roma">denpa</rt></ruby> <ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ます<rt class="roma">masu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>？
 </div>
 <div class="cn-lyric">[01:22.81]心之电波 收到了吗？</div>
-<div class="cn-lyric">[01:22.81]心之电波 收到了吗？</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:27.30]<ruby>罪<rt class="furi">つみ</rt><rt class="roma">tsumi</rt></ruby><ruby>びとたちの<rt class="roma">bitotachino</rt></ruby> heart station
 </div>
-<div class="cn-lyric">[01:27.30]罪人们的 heart station</div>
 <div class="cn-lyric">[01:27.30]罪人们的 heart station</div>
 </div>
 

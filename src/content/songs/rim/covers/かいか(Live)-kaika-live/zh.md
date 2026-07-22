@@ -85,7 +85,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [01:02.62](Fly high beautiful sky, fly high beautiful sky)
 </div>
 <div class="cn-lyric">[01:02.62](Fly high beautiful sky, fly high beautiful sky)</div>
-<div class="cn-lyric">[01:02.62](Fly high beautiful sky, fly high beautiful sky)</div>
 </div>
 
 <div class="lyric-line">
@@ -101,14 +100,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [01:17.17]<ruby>何<rt class="furi">なん</rt><rt class="roma">nan</rt></ruby><ruby>度<rt class="furi">ど</rt><rt class="roma">do</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby> <ruby>待ち侘<rt class="furi">まちわ</rt><rt class="roma">machiwa</rt></ruby><ruby>びる<rt class="roma">biru</rt></ruby>
 </div>
 <div class="cn-lyric">[01:17.17]无数次 焦急等待</div>
-<div class="cn-lyric">[01:17.17]无数次 焦急等待</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:21.29]<ruby>溢<rt class="furi">あふ</rt><rt class="roma">afu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>出<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>前<rt class="furi">まえ</rt><rt class="roma">mae</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby> bloom for you
 </div>
-<div class="cn-lyric">[01:21.29]在满溢之前 bloom for you</div>
 <div class="cn-lyric">[01:21.29]在满溢之前 bloom for you</div>
 </div>
 
@@ -117,14 +114,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [01:24.88]<ruby>蘇<rt class="furi">よみがえ</rt><rt class="roma">yomigae</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby> <ruby>バイアス<rt class="roma">baiasu</rt></ruby> <ruby>ささやく<rt class="roma">sasayaku</rt></ruby><ruby>呪文<rt class="furi">じゅもん</rt><rt class="roma">jumon</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="cn-lyric">[01:24.88]苏醒的 偏见 低语的咒语是</div>
-<div class="cn-lyric">[01:24.88]苏醒的 偏见 低语的咒语是</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:31.52]To be like who？
 </div>
-<div class="cn-lyric">[01:31.52]To be like who？</div>
 <div class="cn-lyric">[01:31.52]To be like who？</div>
 </div>
 
@@ -135,17 +130,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [01:33.42]<ruby>生<rt class="furi">う</rt><rt class="roma">u</rt></ruby><ruby>まれる<rt class="roma">mareru</rt></ruby><ruby>前<rt class="furi">まえ</rt><rt class="roma">mae</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>きみ<rt class="roma">kimi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby>
 </div>
 <div class="cn-lyric">[01:33.42]在出生之前就已认识你</div>
-<div class="cn-lyric">[01:33.42]在出生之前就已认识你</div>
-<div class="cn-lyric">[01:33.42]在出生之前就已认识你</div>
-<div class="cn-lyric">[01:33.42]在出生之前就已认识你</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:41.19]<ruby>初<rt class="furi">はじ</rt><rt class="roma">haji</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>まして<rt class="roma">mashite</rt></ruby> <ruby>うまく<rt class="roma">umaku</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>お互<rt class="furi">おたが</rt><rt class="roma">otaga</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>さま<rt class="roma">sama</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だろ<rt class="roma">daro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
-<div class="cn-lyric">[01:41.19]初次见面 无法好好表达 大概是彼此彼此吧</div>
-<div class="cn-lyric">[01:41.19]初次见面 无法好好表达 大概是彼此彼此吧</div>
 <div class="cn-lyric">[01:41.19]初次见面 无法好好表达 大概是彼此彼此吧</div>
 </div>
 

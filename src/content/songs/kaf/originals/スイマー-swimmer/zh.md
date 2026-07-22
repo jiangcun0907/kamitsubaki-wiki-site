@@ -122,14 +122,12 @@ image: /images/albums/kaf/gsa.jpg
 <ruby>体<rt class="furi">からだ</rt><rt class="roma">karada</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>流<rt class="furi">なが</rt><rt class="roma">naga</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby>
 </div>
 <div class="cn-lyric">在体内流淌着</div>
-<div class="cn-lyric">在体内流淌着</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>真新<rt class="furi">まあたら</rt><rt class="roma">maatara</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>未来<rt class="furi">みらい</rt><rt class="roma">mirai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>涙<rt class="furi">なみだ</rt><rt class="roma">namida</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>隠<rt class="furi">かく</rt><rt class="roma">kaku</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>ぬ<rt class="roma">nu</rt></ruby><ruby>様<rt class="furi">よう</rt><rt class="roma">you</rt></ruby>
 </div>
-<div class="cn-lyric">为了不让崭新的未来被泪水隐藏</div>
 <div class="cn-lyric">为了不让崭新的未来被泪水隐藏</div>
 </div>
 

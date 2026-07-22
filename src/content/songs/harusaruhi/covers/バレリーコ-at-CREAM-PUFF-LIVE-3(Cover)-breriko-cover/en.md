@@ -36,14 +36,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 For DEAR
 </div>
 <div class="trans-lyric">For DEAR</div>
-<div class="trans-lyric">For DEAR</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 For REAL
 </div>
-<div class="trans-lyric">For REAL</div>
 <div class="trans-lyric">For REAL</div>
 </div>
 
@@ -115,14 +113,12 @@ For REAL
 <ruby>目指<rt class="furi">めざ</rt><rt class="roma">meza</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>場所<rt class="furi">ばしょ</rt><rt class="roma">basho</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>…<ruby>トップ<rt class="roma">toppu</rt></ruby><ruby>ギア<rt class="roma">gia</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">To the place we aim for... in top gear</div>
-<div class="trans-lyric">To the place we aim for... in top gear</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Like a Spinning Wheel<ruby>回<rt class="furi">まわ</rt><rt class="roma">mawa</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>出<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>運命<rt class="furi">うんめい</rt><rt class="roma">unmei</rt></ruby>For Real
 </div>
-<div class="trans-lyric">Like a Spinning Wheel, fate begins to turn, For Real</div>
 <div class="trans-lyric">Like a Spinning Wheel, fate begins to turn, For Real</div>
 </div>
 
@@ -131,21 +127,12 @@ Like a Spinning Wheel<ruby>回<rt class="furi">まわ</rt><rt class="roma">mawa<
 <ruby>アスファルト<rt class="roma">asufuaruto</rt></ruby><ruby>蹴<rt class="furi">け</rt><rt class="roma">ke</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>走<rt class="furi">はし</rt><rt class="roma">hashi</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby>
 </div>
 <div class="trans-lyric">Kick the asphalt and run</div>
-<div class="trans-lyric">Kick the asphalt and run</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 I'll be there
 </div>
-<div class="trans-lyric">I'll be there</div>
-<div class="trans-lyric">I'll be there</div>
-<div class="trans-lyric">I'll be there</div>
-<div class="trans-lyric">I'll be there</div>
-<div class="trans-lyric">I'll be there</div>
-<div class="trans-lyric">I'll be there</div>
-<div class="trans-lyric">I'll be there</div>
-<div class="trans-lyric">I'll be there</div>
 <div class="trans-lyric">I'll be there</div>
 </div>
 
@@ -187,14 +174,12 @@ So you are the one<ruby>それぞれ<rt class="roma">sorezore</rt></ruby><ruby>�
 <ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
 </div>
 <div class="trans-lyric">Who</div>
-<div class="trans-lyric">Who</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>一番<rt class="furi">いちばん</rt><rt class="roma">ichiban</rt></ruby>
 </div>
-<div class="trans-lyric">is the fastest</div>
 <div class="trans-lyric">is the fastest</div>
 </div>
 
@@ -203,14 +188,12 @@ So you are the one<ruby>それぞれ<rt class="roma">sorezore</rt></ruby><ruby>�
 <ruby>速<rt class="furi">はや</rt><rt class="roma">haya</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby>
 </div>
 <div class="trans-lyric">to</div>
-<div class="trans-lyric">to</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>たどり着<rt class="furi">たどりつ</rt><rt class="roma">tadoritsu</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>Drive
 </div>
-<div class="trans-lyric">reach? Drive</div>
 <div class="trans-lyric">reach? Drive</div>
 </div>
 
@@ -419,7 +402,6 @@ I'll be there
 <div class="jp-lyric">
 So you are the one
 </div>
-<div class="trans-lyric">So you are the one</div>
 <div class="trans-lyric">So you are the one</div>
 </div>
 

@@ -28,14 +28,12 @@ image: /images/albums/kaf/suite.jpg
 <ruby>もう<rt class="roma">mou</rt></ruby><ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby><ruby>気<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>です<rt class="roma">desu</rt></ruby>
 </div>
 <div class="trans-lyric">I don't feel like doing anything anymore.</div>
-<div class="trans-lyric">I don't feel like doing anything anymore.</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>ずっと<rt class="roma">zutto</rt></ruby><ruby>ベッド<rt class="roma">beddo</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>丸<rt class="furi">まる</rt><rt class="roma">maru</rt></ruby><ruby>まって<rt class="roma">matte</rt></ruby>
 </div>
-<div class="trans-lyric">Always curled up in bed,</div>
 <div class="trans-lyric">Always curled up in bed,</div>
 </div>
 
@@ -142,7 +140,6 @@ image: /images/albums/kaf/suite.jpg
 <ruby>意味<rt class="furi">いみ</rt><rt class="roma">imi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">It's meaningless,</div>
-<div class="trans-lyric">It's meaningless,</div>
 </div>
 
 <div class="lyric-line">
@@ -150,14 +147,12 @@ image: /images/albums/kaf/suite.jpg
 <ruby>くだらない<rt class="roma">kudaranai</rt></ruby>
 </div>
 <div class="trans-lyric">Trivial,</div>
-<div class="trans-lyric">Trivial,</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>でも<rt class="roma">demo</rt></ruby><ruby>本当<rt class="furi">ほんとう</rt><rt class="roma">hontou</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
-<div class="trans-lyric">But truly,</div>
 <div class="trans-lyric">But truly,</div>
 </div>
 
@@ -173,8 +168,6 @@ image: /images/albums/kaf/suite.jpg
 <ruby>あの<rt class="roma">ano</rt></ruby><ruby>人<rt class="furi">ひと</rt><rt class="roma">hito</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
 </div>
 <div class="trans-lyric">That person,</div>
-<div class="trans-lyric">That person,</div>
-<div class="trans-lyric">That person,</div>
 </div>
 
 <div class="lyric-line">
@@ -182,16 +175,12 @@ image: /images/albums/kaf/suite.jpg
 <ruby>笑<rt class="furi">わら</rt><rt class="roma">wara</rt></ruby><ruby>ってる<rt class="roma">tteru</rt></ruby>
 </div>
 <div class="trans-lyric">Is smiling,</div>
-<div class="trans-lyric">Is smiling,</div>
-<div class="trans-lyric">Is smiling,</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>まあ<rt class="roma">maa</rt></ruby><ruby>とりあえず<rt class="roma">toriaezu</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
-<div class="trans-lyric">Well, for now,</div>
-<div class="trans-lyric">Well, for now,</div>
 <div class="trans-lyric">Well, for now,</div>
 </div>
 
@@ -359,7 +348,6 @@ image: /images/albums/kaf/suite.jpg
 <div class="jp-lyric">
 <ruby>それ<rt class="roma">sore</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>や<rt class="roma">ya</rt></ruby>
 </div>
-<div class="trans-lyric">That's enough.</div>
 <div class="trans-lyric">That's enough.</div>
 </div>
 

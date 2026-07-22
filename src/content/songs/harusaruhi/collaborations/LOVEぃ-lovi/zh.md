@@ -121,15 +121,12 @@ image: /images/songs/harusaruhi/single-1858811042.jpg
 [00:49.22]<ruby>似合い<rt class="furi">にあい</rt><rt class="roma">niai</rt></ruby><ruby>そう<rt class="roma">sou</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>全部<rt class="furi">ぜんぶ</rt><rt class="roma">zenbu</rt></ruby>
 </div>
 <div class="cn-lyric">[00:49.22]所有看似合适的话语</div>
-<div class="cn-lyric">[00:49.22]所有看似合适的话语</div>
-<div class="cn-lyric">[00:49.22]所有看似合适的话语</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:53.13]<ruby>唇<rt class="furi">くちびる</rt><rt class="roma">kuchibiru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>先<rt class="furi">さき</rt><rt class="roma">saki</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby><ruby>　<rt class="furi">　</rt><rt class="roma"> </rt></ruby><ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
 </div>
-<div class="cn-lyric">[00:53.13]都到唇边 进入梦中</div>
 <div class="cn-lyric">[00:53.13]都到唇边 进入梦中</div>
 </div>
 
@@ -138,15 +135,12 @@ image: /images/songs/harusaruhi/single-1858811042.jpg
 [01:00.86]<ruby>物語<rt class="furi">ものがたり</rt><rt class="roma">monogatari</rt></ruby><ruby>は<rt class="roma">ha</rt></ruby><ruby>終わら<rt class="furi">おわら</rt><rt class="roma">owara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>　<rt class="furi">　</rt><rt class="roma"> </rt></ruby><ruby>終わらせ<rt class="furi">おわらせ</rt><rt class="roma">owarase</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="cn-lyric">[01:00.86]故事不会结束 我不会让它结束</div>
-<div class="cn-lyric">[01:00.86]故事不会结束 我不会让它结束</div>
-<div class="cn-lyric">[01:00.86]故事不会结束 我不会让它结束</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:04.09]<ruby>横並び<rt class="furi">よこならび</rt><rt class="roma">yokonarabi</rt></ruby><ruby>　<rt class="furi">　</rt><rt class="roma"> </rt></ruby><ruby>胸<rt class="furi">むね</rt><rt class="roma">mune</rt></ruby><ruby>鳴る<rt class="furi">なる</rt><rt class="roma">naru</rt></ruby><ruby>　<rt class="furi">　</rt><rt class="roma"> </rt></ruby><ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>足音<rt class="furi">あしおと</rt><rt class="roma">ashioto</rt></ruby>
 </div>
-<div class="cn-lyric">[01:04.09]并肩而行 心跳作响 爱的脚步声</div>
 <div class="cn-lyric">[01:04.09]并肩而行 心跳作响 爱的脚步声</div>
 </div>
 
@@ -155,16 +149,12 @@ image: /images/songs/harusaruhi/single-1858811042.jpg
 [01:07.65]<ruby>まるで<rt class="roma">marude</rt></ruby><ruby>ふたり<rt class="roma">futari</rt></ruby><ruby>　<rt class="furi">　</rt><rt class="roma"> </rt></ruby><ruby>異<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>空間<rt class="furi">くうかん</rt><rt class="roma">kuukan</rt></ruby>
 </div>
 <div class="cn-lyric">[01:07.65]仿佛两人 身处异世界空间</div>
-<div class="cn-lyric">[01:07.65]仿佛两人 身处异世界空间</div>
-<div class="cn-lyric">[01:07.65]仿佛两人 身处异世界空间</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:10.65]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>迎える<rt class="furi">むかえる</rt><rt class="roma">mukaeru</rt></ruby><ruby>暖か<rt class="furi">あたたか</rt><rt class="roma">atataka</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>春<rt class="furi">はる</rt><rt class="roma">haru</rt></ruby>
 </div>
-<div class="cn-lyric">[01:10.65]与你迎接温暖的春天</div>
-<div class="cn-lyric">[01:10.65]与你迎接温暖的春天</div>
 <div class="cn-lyric">[01:10.65]与你迎接温暖的春天</div>
 </div>
 
@@ -173,16 +163,12 @@ image: /images/songs/harusaruhi/single-1858811042.jpg
 [01:13.36]<ruby>ズッキュン<rt class="roma">zukkyun</rt></ruby><ruby>　<rt class="furi">　</rt><rt class="roma"> </rt></ruby><ruby>バッキュン<rt class="roma">bakkyun</rt></ruby>
 </div>
 <div class="cn-lyric">[01:13.36]心动怦怦 心跳怦怦</div>
-<div class="cn-lyric">[01:13.36]心动怦怦 心跳怦怦</div>
-<div class="cn-lyric">[01:13.36]心动怦怦 心跳怦怦</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:14.87]<ruby>ラブラブ<rt class="roma">raburabu</rt></ruby> LOVE<ruby>ぃよ<rt class="roma">iyo</rt></ruby>
 </div>
-<div class="cn-lyric">[01:14.87]相亲相爱 LOVE呀</div>
-<div class="cn-lyric">[01:14.87]相亲相爱 LOVE呀</div>
 <div class="cn-lyric">[01:14.87]相亲相爱 LOVE呀</div>
 </div>
 
@@ -239,7 +225,6 @@ image: /images/songs/harusaruhi/single-1858811042.jpg
 <div class="jp-lyric">
 [01:51.84]<ruby>不安<rt class="furi">ふあん</rt><rt class="roma">fuan</rt></ruby><ruby>そう<rt class="roma">sou</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>全部<rt class="furi">ぜんぶ</rt><rt class="roma">zenbu</rt></ruby>
 </div>
-<div class="cn-lyric">[01:51.84]所有看似不安的话语</div>
 <div class="cn-lyric">[01:51.84]所有看似不安的话语</div>
 </div>
 

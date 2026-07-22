@@ -104,7 +104,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 <ruby>死神<rt class="furi">しにがみ</rt><rt class="roma">shinigami</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>横<rt class="furi">よこ</rt><rt class="roma">yoko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>さっと<rt class="roma">satto</rt></ruby><ruby>避<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>つめ<rt class="roma">tsume</rt></ruby><ruby>あって<rt class="roma">atte</rt></ruby><ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby>
 </div>
 <div class="trans-lyric">Swiftly dodging death to the side, we gaze at each other, living</div>
-<div class="trans-lyric">Swiftly dodging death to the side, we gaze at each other, living</div>
 </div>
 
 <br />

@@ -66,7 +66,6 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [01:07.48]<ruby>カッコ<rt class="roma">kakko</rt></ruby><ruby>付<rt class="furi">つ</rt><rt class="roma">tsu</rt></ruby><ruby>ける<rt class="roma">keru</rt></ruby><ruby>しか<rt class="roma">shika</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>有り様<rt class="furi">ありさま</rt><rt class="roma">arisama</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">In a state where I could only put on a front</div>
-<div class="trans-lyric">In a state where I could only put on a front</div>
 </div>
 
 <div class="lyric-line">
@@ -81,14 +80,12 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [01:28.56]<ruby>現実<rt class="furi">げんじつ</rt><rt class="roma">genjitsu</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>狭間<rt class="furi">はざま</rt><rt class="roma">hazama</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>必死<rt class="furi">ひっし</rt><rt class="roma">hisshi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">Desperately, in the gap between reality and dreams</div>
-<div class="trans-lyric">Desperately, in the gap between reality and dreams</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:38.33]<ruby>立<rt class="furi">た</rt><rt class="roma">ta</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>いよ<rt class="roma">iyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
-<div class="trans-lyric">I tried to stand</div>
 <div class="trans-lyric">I tried to stand</div>
 </div>
 
@@ -136,7 +133,6 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [02:57.18]<ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>響<rt class="furi">ひび</rt><rt class="roma">hibi</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby> <ruby>必死<rt class="furi">ひっし</rt><rt class="roma">hisshi</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>もの<rt class="roma">mono</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">Show me something desperate that resonates in my heart</div>
-<div class="trans-lyric">Show me something desperate that resonates in my heart</div>
 </div>
 
 <div class="lyric-line">
@@ -144,14 +140,12 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [03:07.13]<ruby>本当<rt class="furi">ほんとう</rt><rt class="roma">hontou</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>音<rt class="furi">おと</rt><rt class="roma">oto</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>聴<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ほしい<rt class="roma">hoshii</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="trans-lyric">I want you to let me hear the true sound</div>
-<div class="trans-lyric">I want you to let me hear the true sound</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [03:16.86]<ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>と<rt class="roma">to</rt></ruby> <ruby>この<rt class="roma">kono</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>･･･
 </div>
-<div class="trans-lyric">Otherwise, this world...</div>
 <div class="trans-lyric">Otherwise, this world...</div>
 </div>
 

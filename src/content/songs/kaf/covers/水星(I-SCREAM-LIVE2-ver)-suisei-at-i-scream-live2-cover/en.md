@@ -147,8 +147,6 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [01:17.49]<ruby>めくるめく<rt class="roma">mekurumeku</rt></ruby><ruby>ミラー<rt class="roma">miraa</rt></ruby><ruby>ボール<rt class="roma">bouru</rt></ruby><ruby>乗<rt class="furi">の</rt><rt class="roma">no</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
 <div class="trans-lyric">Riding on a dazzling mirror ball</div>
-<div class="trans-lyric">Riding on a dazzling mirror ball</div>
-<div class="trans-lyric">Riding on a dazzling mirror ball</div>
 </div>
 
 <div class="lyric-line">
@@ -156,17 +154,12 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [01:21.62]<ruby>水星<rt class="furi">すいせい</rt><rt class="roma">suisei</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>旅<rt class="furi">たび</rt><rt class="roma">tabi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>出<rt class="furi">で</rt><rt class="roma">de</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
 </div>
 <div class="trans-lyric">Shall we take a trip to Mercury or somewhere?</div>
-<div class="trans-lyric">Shall we take a trip to Mercury or somewhere?</div>
-<div class="trans-lyric">Shall we take a trip to Mercury or somewhere?</div>
-<div class="trans-lyric">Shall we take a trip to Mercury or somewhere?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:26.86]<ruby>いつか<rt class="roma">itsuka</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>その<rt class="roma">sono</rt></ruby><ruby>先<rt class="furi">さき</rt><rt class="roma">saki</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ある<rt class="roma">aru</rt></ruby><ruby>という<rt class="roma">toiu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
-<div class="trans-lyric">What lies beyond what we saw back then?</div>
-<div class="trans-lyric">What lies beyond what we saw back then?</div>
 <div class="trans-lyric">What lies beyond what we saw back then?</div>
 </div>
 
@@ -177,8 +170,6 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [01:36.57]<ruby>きらきら<rt class="roma">kirakira</rt></ruby><ruby>光<rt class="furi">ひか</rt><rt class="roma">hika</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>星<rt class="furi">ほし</rt><rt class="roma">hoshi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>はざま<rt class="roma">hazama</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">In the gaps between the twinkling stars</div>
-<div class="trans-lyric">In the gaps between the twinkling stars</div>
-<div class="trans-lyric">In the gaps between the twinkling stars</div>
 </div>
 
 <div class="lyric-line">
@@ -186,16 +177,12 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [01:41.35]<ruby>ふたり<rt class="roma">futari</rt></ruby><ruby>おどりあかし<rt class="roma">odoriakashi</rt></ruby><ruby>たら<rt class="roma">tara</rt></ruby>
 </div>
 <div class="trans-lyric">If we dance together all night</div>
-<div class="trans-lyric">If we dance together all night</div>
-<div class="trans-lyric">If we dance together all night</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:46.16]<ruby>もっと<rt class="roma">motto</rt></ruby><ruby>輝<rt class="furi">かがや</rt><rt class="roma">kagaya</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>ところ<rt class="roma">tokoro</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>連<rt class="furi">つ</rt><rt class="roma">tsu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">I'll take you to a place that shines even brighter</div>
-<div class="trans-lyric">I'll take you to a place that shines even brighter</div>
 <div class="trans-lyric">I'll take you to a place that shines even brighter</div>
 </div>
 

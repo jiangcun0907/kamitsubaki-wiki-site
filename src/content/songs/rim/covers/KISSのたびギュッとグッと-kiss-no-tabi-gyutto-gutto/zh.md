@@ -31,17 +31,12 @@ image: /images/albums/rim/chocolate-live.jpg
 [00:00.23]KISS<ruby>の<rt class="roma">no</rt></ruby><ruby>たび<rt class="roma">tabi</rt></ruby><ruby>ギュッと<rt class="roma">gyutto</rt></ruby><ruby>ぐっと<rt class="roma">gutto</rt></ruby>
 </div>
 <div class="cn-lyric">[00:00.23]每次亲吻都紧紧相拥</div>
-<div class="cn-lyric">[00:00.23]每次亲吻都紧紧相拥</div>
-<div class="cn-lyric">[00:00.23]每次亲吻都紧紧相拥</div>
-<div class="cn-lyric">[00:00.23]每次亲吻都紧紧相拥</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:03.08]<ruby>幸<rt class="furi">しあわ</rt><rt class="roma">shiawa</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>よって<rt class="roma">yotte</rt></ruby><ruby>たかった<rt class="roma">takatta</rt></ruby>
 </div>
-<div class="cn-lyric">[00:03.08]幸福曾想聚拢而来</div>
-<div class="cn-lyric">[00:03.08]幸福曾想聚拢而来</div>
 <div class="cn-lyric">[00:03.08]幸福曾想聚拢而来</div>
 </div>
 
@@ -50,14 +45,12 @@ image: /images/albums/rim/chocolate-live.jpg
 [00:06.22]<ruby>気付<rt class="furi">きづ</rt><rt class="roma">kizu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>内<rt class="furi">うち</rt><rt class="roma">uchi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>光<rt class="furi">ひかり</rt><rt class="roma">hikari</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
 </div>
 <div class="cn-lyric">[00:06.22]不知不觉中的光芒</div>
-<div class="cn-lyric">[00:06.22]不知不觉中的光芒</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:08.73]<ruby>近<rt class="furi">ちか</rt><rt class="roma">chika</rt></ruby><ruby>づい<rt class="roma">zui</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>離<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>なる<rt class="roma">naru</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
-<div class="cn-lyric">[00:08.73]因靠近而不再分离</div>
 <div class="cn-lyric">[00:08.73]因靠近而不再分离</div>
 </div>
 

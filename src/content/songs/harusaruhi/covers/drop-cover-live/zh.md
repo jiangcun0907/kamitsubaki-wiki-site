@@ -36,16 +36,12 @@ image: /images/albums/harusaruhi/cream-puff-live-4.jpg
 [00:00.04]Ich hab noch immer keinen Job, Job, Job
 </div>
 <div class="cn-lyric">[00:00.04]我依然没有工作，工作，工作</div>
-<div class="cn-lyric">[00:00.04]我依然没有工作，工作，工作</div>
-<div class="cn-lyric">[00:00.04]我依然没有工作，工作，工作</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:02.41]Bin bankrott-krott-krott und saufe trotzdem
 </div>
-<div class="cn-lyric">[00:02.41]破产破产破产，但我依然狂饮</div>
-<div class="cn-lyric">[00:02.41]破产破产破产，但我依然狂饮</div>
 <div class="cn-lyric">[00:02.41]破产破产破产，但我依然狂饮</div>
 </div>
 
@@ -54,16 +50,12 @@ image: /images/albums/harusaruhi/cream-puff-live-4.jpg
 [00:05.17]Auf das ganze Lernen hab ich immer noch kein'n Bock, Bock, Bock
 </div>
 <div class="cn-lyric">[00:05.17]对于学习我仍然毫无兴趣，兴趣，兴趣</div>
-<div class="cn-lyric">[00:05.17]对于学习我仍然毫无兴趣，兴趣，兴趣</div>
-<div class="cn-lyric">[00:05.17]对于学习我仍然毫无兴趣，兴趣，兴趣</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:08.72]Kippe Shots und hab am nächsten Morgen Kopfweh
 </div>
-<div class="cn-lyric">[00:08.72]干掉 shots，第二天早上头疼</div>
-<div class="cn-lyric">[00:08.72]干掉 shots，第二天早上头疼</div>
 <div class="cn-lyric">[00:08.72]干掉 shots，第二天早上头疼</div>
 </div>
 
@@ -73,7 +65,6 @@ image: /images/albums/harusaruhi/cream-puff-live-4.jpg
 <div class="jp-lyric">
 [00:12.72]Und wenn sie nicht gestorben sind, feiern sie immer noch, noch, noch
 </div>
-<div class="cn-lyric">[00:12.72]如果他们没死，他们还在庆祝，还在，还在，还在</div>
 <div class="cn-lyric">[00:12.72]如果他们没死，他们还在庆祝，还在，还在，还在</div>
 </div>
 
@@ -88,7 +79,6 @@ image: /images/albums/harusaruhi/cream-puff-live-4.jpg
 <div class="jp-lyric">
 [00:19.76]Glaub mir, Babe, ich bleib so lange, bis das nicht mehr schockt, schockt, schockt
 </div>
-<div class="cn-lyric">[00:19.76]相信我，宝贝，我会待到这不再惊悚，惊悚，惊悚</div>
 <div class="cn-lyric">[00:19.76]相信我，宝贝，我会待到这不再惊悚，惊悚，惊悚</div>
 </div>
 

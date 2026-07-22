@@ -58,7 +58,6 @@ image: /images/songs/kaf/track-1688524557.jpg
 [00:27.89]<ruby>裏表<rt class="furi">うらおもて</rt><rt class="roma">uraomote</rt></ruby><ruby>みたい<rt class="roma">mitai</rt></ruby>
 </div>
 <div class="trans-lyric">Are like two sides of a coin</div>
-<div class="trans-lyric">Are like two sides of a coin</div>
 </div>
 
 <br />
@@ -105,7 +104,6 @@ image: /images/songs/kaf/track-1688524557.jpg
 [00:48.21]ChuChuChu... <ruby>何<rt class="furi">なん</rt><rt class="roma">nan</rt></ruby><ruby>度<rt class="furi">ど</rt><rt class="roma">do</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby>
 </div>
 <div class="trans-lyric">ChuChuChu... as many times as it takes</div>
-<div class="trans-lyric">ChuChuChu... as many times as it takes</div>
 </div>
 
 <div class="lyric-line">
@@ -120,8 +118,6 @@ image: /images/songs/kaf/track-1688524557.jpg
 [00:56.80]<ruby>ワンツーステップ<rt class="roma">wantsuusuteppu</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">With a one-two step</div>
-<div class="trans-lyric">With a one-two step</div>
-<div class="trans-lyric">With a one-two step</div>
 </div>
 
 <br />
@@ -131,14 +127,12 @@ image: /images/songs/kaf/track-1688524557.jpg
 [00:58.44]<ruby>境界<rt class="furi">きょうかい</rt><rt class="roma">kyoukai</rt></ruby><ruby>超<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ちゃって<rt class="roma">chatte</rt></ruby>
 </div>
 <div class="trans-lyric">Crossing the boundaries</div>
-<div class="trans-lyric">Crossing the boundaries</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:00.72]<ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>未来<rt class="furi">みらい</rt><rt class="roma">mirai</rt></ruby>
 </div>
-<div class="trans-lyric">A future no one knows</div>
 <div class="trans-lyric">A future no one knows</div>
 </div>
 
@@ -147,14 +141,12 @@ image: /images/songs/kaf/track-1688524557.jpg
 [01:05.37]<ruby>解像度<rt class="furi">かいぞうど</rt><rt class="roma">kaizoudo</rt></ruby><ruby>あげ<rt class="roma">age</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>描<rt class="furi">えが</rt><rt class="roma">ega</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">I'll draw it with higher resolution</div>
-<div class="trans-lyric">I'll draw it with higher resolution</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:10.51]<ruby>たまん<rt class="roma">taman</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
-<div class="trans-lyric">I can't help it</div>
 <div class="trans-lyric">I can't help it</div>
 </div>
 
@@ -165,16 +157,12 @@ image: /images/songs/kaf/track-1688524557.jpg
 [01:12.23]<ruby>際限<rt class="furi">さいげん</rt><rt class="roma">saigen</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> CAN-VERSE
 </div>
 <div class="trans-lyric">Endless CAN-VERSE</div>
-<div class="trans-lyric">Endless CAN-VERSE</div>
-<div class="trans-lyric">Endless CAN-VERSE</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:14.32]<ruby>刻<rt class="furi">きざ</rt><rt class="roma">kiza</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>物語<rt class="furi">ものがたり</rt><rt class="roma">monogatari</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
-<div class="trans-lyric">The story we carve</div>
-<div class="trans-lyric">The story we carve</div>
 <div class="trans-lyric">The story we carve</div>
 </div>
 
@@ -183,8 +171,6 @@ image: /images/songs/kaf/track-1688524557.jpg
 [01:18.43]<ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>つめ<rt class="roma">tsume</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">Keep watching</div>
-<div class="trans-lyric">Keep watching</div>
-<div class="trans-lyric">Keep watching</div>
 </div>
 
 <div class="lyric-line">
@@ -192,17 +178,12 @@ image: /images/songs/kaf/track-1688524557.jpg
 [01:20.02]<ruby>繋<rt class="furi">つな</rt><rt class="roma">tsuna</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">Keep connecting</div>
-<div class="trans-lyric">Keep connecting</div>
-<div class="trans-lyric">Keep connecting</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:21.84]<ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>ゆく<rt class="roma">yuku</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby>
 </div>
-<div class="trans-lyric">Until our hearts are satisfied</div>
-<div class="trans-lyric">Until our hearts are satisfied</div>
-<div class="trans-lyric">Until our hearts are satisfied</div>
 <div class="trans-lyric">Until our hearts are satisfied</div>
 </div>
 

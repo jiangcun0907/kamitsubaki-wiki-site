@@ -83,7 +83,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 <ruby>巡<rt class="furi">めぐ</rt><rt class="roma">megu</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>逢<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>う<rt class="roma">u</rt></ruby> <ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>記憶<rt class="furi">きおく</rt><rt class="roma">kioku</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby> <ruby>優<rt class="furi">やさ</rt><rt class="roma">yasa</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>変<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">将邂逅的爱的记忆 化为温柔</div>
-<div class="cn-lyric">将邂逅的爱的记忆 化为温柔</div>
 </div>
 
 <div class="lyric-line">

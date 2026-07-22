@@ -33,19 +33,15 @@ image: /images/albums/rim/chocolate-live-2.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:09.47]Do you feel the way I do
+Do you feel the way I do
 </div>
-<div class="cn-lyric">[00:09.47]你是否和我有同样的感受</div>
-<div class="cn-lyric">[00:09.47]你是否和我有同样的感受</div>
+<div class="cn-lyric">你是否和我有同样的感受</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Tell me now oh tell me now
 </div>
-<div class="cn-lyric">现在告诉我，哦，现在告诉我</div>
-<div class="cn-lyric">现在告诉我，哦，现在告诉我</div>
-<div class="cn-lyric">现在告诉我，哦，现在告诉我</div>
 <div class="cn-lyric">现在告诉我，哦，现在告诉我</div>
 </div>
 
@@ -54,38 +50,29 @@ Tell me now oh tell me now
 I need to know that it's true
 </div>
 <div class="cn-lyric">我需要知道这是真的</div>
-<div class="cn-lyric">我需要知道这是真的</div>
-<div class="cn-lyric">我需要知道这是真的</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:09.47]Oh do you feel the way I do
+Oh do you feel the way I do
 </div>
-<div class="cn-lyric">[00:09.47]哦，你是否和我有同样的感受</div>
-<div class="cn-lyric">[00:09.47]哦，你是否和我有同样的感受</div>
-<div class="cn-lyric">[00:09.47]哦，你是否和我有同样的感受</div>
+<div class="cn-lyric">哦，你是否和我有同样的感受</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:22.62]I need to know
+I need to know
 </div>
-<div class="cn-lyric">[00:22.62]我需要知道</div>
-<div class="cn-lyric">[00:22.62]我需要知道</div>
-<div class="cn-lyric">[00:22.62]我需要知道</div>
-<div class="cn-lyric">[00:22.62]我需要知道</div>
-<div class="cn-lyric">[00:22.62]我需要知道</div>
-<div class="cn-lyric">[00:22.62]我需要知道</div>
+<div class="cn-lyric">我需要知道</div>
 </div>
 
 <br />
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:09.47]Do you love me the way I love you
+Do you love me the way I love you
 </div>
-<div class="cn-lyric">[00:09.47]你是否像我爱你那样爱我</div>
+<div class="cn-lyric">你是否像我爱你那样爱我</div>
 </div>
 
 <div class="lyric-line">
@@ -102,9 +89,9 @@ I need to know that it's true
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:09.47]Oh fo you feel the way I do
+Oh fo you feel the way I do
 </div>
-<div class="cn-lyric">[00:09.47]哦，你是否和我有同样的感受</div>
+<div class="cn-lyric">哦，你是否和我有同样的感受</div>
 </div>
 
 <div class="lyric-line">
@@ -120,7 +107,6 @@ I need to know
 The world is a wonderful place
 </div>
 <div class="cn-lyric">世界是一个奇妙的地方</div>
-<div class="cn-lyric">世界是一个奇妙的地方</div>
 </div>
 
 <div class="lyric-line">
@@ -134,7 +120,6 @@ It spins around and spins around
 <div class="jp-lyric">
 The world has a magic about it
 </div>
-<div class="cn-lyric">世界充满魔力</div>
 <div class="cn-lyric">世界充满魔力</div>
 </div>
 
@@ -169,9 +154,9 @@ Tell me now oh tell me now
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:16.93]Is it all that it seems
+Is it all that it seems
 </div>
-<div class="cn-lyric">[00:16.93]一切是否如所见</div>
+<div class="cn-lyric">一切是否如所见</div>
 </div>
 
 <div class="lyric-line">
@@ -268,23 +253,23 @@ I need to know
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:03.79]Do you feel the same way
+Do you feel the same way
 </div>
-<div class="cn-lyric">[01:03.79]你是否也有同样的感受</div>
-</div>
-
-<div class="lyric-line">
-<div class="jp-lyric">
-[01:03.79]Do you feel the same way I do
-</div>
-<div class="cn-lyric">[01:03.79]你是否和我有同样的感受</div>
+<div class="cn-lyric">你是否也有同样的感受</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:03.79]Do you feel like I do
+Do you feel the same way I do
 </div>
-<div class="cn-lyric">[01:03.79]你是否像我一样感受</div>
+<div class="cn-lyric">你是否和我有同样的感受</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Do you feel like I do
+</div>
+<div class="cn-lyric">你是否像我一样感受</div>
 </div>
 
 <div class="lyric-line">

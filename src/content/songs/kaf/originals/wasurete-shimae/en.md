@@ -103,7 +103,6 @@ KAF's fourth original song, written, composed, and arranged by Iori Kanzaki.
 [00:46.13]notice notice
 </div>
 <div class="trans-lyric">notice notice</div>
-<div class="trans-lyric">notice notice</div>
 </div>
 
 <div class="lyric-line">
@@ -111,7 +110,6 @@ KAF's fourth original song, written, composed, and arranged by Iori Kanzaki.
 [00:48.44]<ruby>愛<rt class="furi">いと</rt><rt class="roma">ito</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>？<ruby>別<rt class="furi">わか</rt><rt class="roma">waka</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="trans-lyric">[00:48.44]Is parting dear?</div>
-<div class="trans-lyric">Is parting dear?</div>
 </div>
 
 <div class="lyric-line">
@@ -125,8 +123,6 @@ KAF's fourth original song, written, composed, and arranged by Iori Kanzaki.
 <div class="jp-lyric">
 [00:56.74]forget forget
 </div>
-<div class="trans-lyric">forget forget</div>
-<div class="trans-lyric">forget forget</div>
 <div class="trans-lyric">forget forget</div>
 </div>
 

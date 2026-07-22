@@ -146,9 +146,6 @@ image: /images/albums/kaf/guwa.jpg
 <ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>命<rt class="furi">いのち</rt><rt class="roma">inochi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>嫌<rt class="furi">きら</rt><rt class="roma">kira</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby>
 </div>
 <div class="trans-lyric">We are hated by life</div>
-<div class="trans-lyric">We are hated by life</div>
-<div class="trans-lyric">We are hated by life</div>
-<div class="trans-lyric">We are hated by life</div>
 </div>
 
 <div class="lyric-line">
@@ -197,8 +194,6 @@ image: /images/albums/kaf/guwa.jpg
 <ruby>命<rt class="furi">いのち</rt><rt class="roma">inochi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>嫌<rt class="furi">きら</rt><rt class="roma">kira</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby>
 </div>
 <div class="trans-lyric">Hated by life</div>
-<div class="trans-lyric">Are hated by life</div>
-<div class="trans-lyric">Are hated by life</div>
 </div>
 
 <div class="lyric-line">

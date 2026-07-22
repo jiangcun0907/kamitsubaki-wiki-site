@@ -64,7 +64,6 @@ The shadow of a shady tree
 Gonna go down to the river
 </div>
 <div class="trans-lyric">Gonna go down to the river</div>
-<div class="trans-lyric">Gonna go down to the river</div>
 </div>
 
 <div class="lyric-line">
@@ -72,14 +71,12 @@ Gonna go down to the river
 Gonna go down make it right
 </div>
 <div class="trans-lyric">Gonna go down make it right</div>
-<div class="trans-lyric">Gonna go down make it right</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 And send all my love to your maker
 </div>
-<div class="trans-lyric">And send all my love to your maker</div>
 <div class="trans-lyric">And send all my love to your maker</div>
 </div>
 
@@ -97,16 +94,12 @@ For making you right
 Are you ready for a new day, a new day
 </div>
 <div class="trans-lyric">Are you ready for a new day, a new day</div>
-<div class="trans-lyric">Are you ready for a new day, a new day</div>
-<div class="trans-lyric">Are you ready for a new day, a new day</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Blow me a kiss and send it straight to the sun
 </div>
-<div class="trans-lyric">Blow me a kiss and send it straight to the sun</div>
-<div class="trans-lyric">Blow me a kiss and send it straight to the sun</div>
 <div class="trans-lyric">Blow me a kiss and send it straight to the sun</div>
 </div>
 
@@ -115,16 +108,12 @@ Blow me a kiss and send it straight to the sun
 And if you want to take it my way, my way
 </div>
 <div class="trans-lyric">And if you want to take it my way, my way</div>
-<div class="trans-lyric">And if you want to take it my way, my way</div>
-<div class="trans-lyric">And if you want to take it my way, my way</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Then this could be our summer song
 </div>
-<div class="trans-lyric">Then this could be our summer song</div>
-<div class="trans-lyric">Then this could be our summer song</div>
 <div class="trans-lyric">Then this could be our summer song</div>
 </div>
 
@@ -146,7 +135,7 @@ Way that you say your on my side
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:45.87]And I want to know that
+And I want to know that
 </div>
 <div class="trans-lyric">And I want to know that</div>
 </div>
@@ -220,7 +209,7 @@ Let me make you understand
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:23.10]Just take me by the hand
+Just take me by the hand
 </div>
 <div class="trans-lyric">Just take me by the hand</div>
 </div>
@@ -248,7 +237,7 @@ If I could only make you see
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:23.10]Just what you mean to me
+Just what you mean to me
 </div>
 <div class="trans-lyric">Just what you mean to me</div>
 </div>

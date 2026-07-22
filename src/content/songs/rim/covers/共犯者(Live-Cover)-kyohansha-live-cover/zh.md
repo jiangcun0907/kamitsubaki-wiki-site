@@ -36,15 +36,12 @@ image: /images/albums/rim/chocolate-live-4.jpg
 <ruby>月<rt class="furi">つき</rt><rt class="roma">tsuki</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>果<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>逃げ切<rt class="furi">にげき</rt><rt class="roma">nigeki</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>やる<rt class="roma">yaru</rt></ruby>
 </div>
 <div class="cn-lyric">我要逃到月亮的尽头</div>
-<div class="cn-lyric">我要逃到月亮的尽头</div>
-<div class="cn-lyric">我要逃到月亮的尽头</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>細<rt class="furi">ほそ</rt><rt class="roma">hoso</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>導<rt class="furi">みちび</rt><rt class="roma">michibi</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="cn-lyric">牵引着你纤细的手</div>
 <div class="cn-lyric">牵引着你纤细的手</div>
 </div>
 
@@ -53,14 +50,12 @@ image: /images/albums/rim/chocolate-live-4.jpg
 <ruby>この<rt class="roma">kono</rt></ruby><ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>やがて<rt class="roma">yagate</rt></ruby><ruby>雨<rt class="furi">あめ</rt><rt class="roma">ame</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なる<rt class="roma">naru</rt></ruby>
 </div>
 <div class="cn-lyric">这片天空终将化作雨</div>
-<div class="cn-lyric">这片天空终将化作雨</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>全部<rt class="furi">ぜんぶ</rt><rt class="roma">zenbu</rt></ruby><ruby>流<rt class="furi">なが</rt><rt class="roma">naga</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="cn-lyric">全都冲走吧</div>
 <div class="cn-lyric">全都冲走吧</div>
 </div>
 
@@ -70,15 +65,6 @@ image: /images/albums/rim/chocolate-live-4.jpg
 <div class="jp-lyric">
 <ruby>ラララ<rt class="roma">rarara</rt></ruby> <ruby>ララララ<rt class="roma">rararara</rt></ruby>
 </div>
-<div class="cn-lyric">啦啦啦 啦啦啦啦</div>
-<div class="cn-lyric">啦啦啦 啦啦啦啦</div>
-<div class="cn-lyric">啦啦啦 啦啦啦啦</div>
-<div class="cn-lyric">啦啦啦 啦啦啦啦</div>
-<div class="cn-lyric">啦啦啦 啦啦啦啦</div>
-<div class="cn-lyric">啦啦啦 啦啦啦啦</div>
-<div class="cn-lyric">啦啦啦 啦啦啦啦</div>
-<div class="cn-lyric">啦啦啦 啦啦啦啦</div>
-<div class="cn-lyric">啦啦啦 啦啦啦啦</div>
 <div class="cn-lyric">啦啦啦 啦啦啦啦</div>
 </div>
 
@@ -98,7 +84,6 @@ image: /images/albums/rim/chocolate-live-4.jpg
 <div class="jp-lyric">
 <ruby>ラララ<rt class="roma">rarara</rt></ruby>
 </div>
-<div class="cn-lyric">啦啦啦</div>
 <div class="cn-lyric">啦啦啦</div>
 </div>
 

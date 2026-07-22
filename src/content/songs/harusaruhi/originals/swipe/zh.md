@@ -96,11 +96,6 @@ image: /images/songs/harusaruhi/single-1785776179.jpg
 [00:54.62]<ruby>はい<rt class="roma">hai</rt></ruby><ruby>はい<rt class="roma">hai</rt></ruby><ruby>はい<rt class="roma">hai</rt></ruby>
 </div>
 <div class="cn-lyric">[00:54.62]是是是</div>
-<div class="cn-lyric">[00:54.62]是是是</div>
-<div class="cn-lyric">[00:54.62]是是是</div>
-<div class="cn-lyric">[00:54.62]是是是</div>
-<div class="cn-lyric">[00:54.62]是是是</div>
-<div class="cn-lyric">[00:54.62]是是是</div>
 </div>
 
 <div class="lyric-line">
@@ -141,7 +136,6 @@ image: /images/songs/harusaruhi/single-1785776179.jpg
 [01:04.06]<ruby>バイバイバイバイバイ<rt class="roma">baibaibaibaibai</rt></ruby>
 </div>
 <div class="cn-lyric">[01:04.06]拜拜拜拜拜</div>
-<div class="cn-lyric">拜拜拜拜拜</div>
 </div>
 
 <br />
@@ -151,7 +145,6 @@ image: /images/songs/harusaruhi/single-1785776179.jpg
 [01:07.39]<ruby>ああ<rt class="roma">aa</rt></ruby><ruby>くだらない<rt class="roma">kudaranai</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby> <ruby>まだ<rt class="roma">mada</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>?
 </div>
 <div class="cn-lyric">[01:07.39]啊真无聊 还在说吗？</div>
-<div class="cn-lyric">啊真无聊 还在说吗？</div>
 </div>
 
 <div class="lyric-line">
@@ -159,7 +152,6 @@ image: /images/songs/harusaruhi/single-1785776179.jpg
 [01:12.23]<ruby>スワイプ<rt class="roma">suwaipu</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="cn-lyric">[01:12.23]滑屏吧</div>
-<div class="cn-lyric">滑屏吧</div>
 </div>
 
 <div class="lyric-line">
@@ -167,7 +159,6 @@ image: /images/songs/harusaruhi/single-1785776179.jpg
 [01:13.73]<ruby>さあ<rt class="roma">saa</rt></ruby><ruby>息苦<rt class="furi">いきぐる</rt><rt class="roma">ikiguru</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>この<rt class="roma">kono</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>ぶった斬<rt class="furi">ぶったぎ</rt><rt class="roma">buttagi</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="cn-lyric">[01:13.73]来吧 将这窒息的世界斩断</div>
-<div class="cn-lyric">来吧 将这窒息的世界斩断</div>
 </div>
 
 <br />
@@ -176,7 +167,6 @@ image: /images/songs/harusaruhi/single-1785776179.jpg
 <div class="jp-lyric">
 [01:20.54]Na-Na-Na-
 </div>
-<div class="cn-lyric">[01:20.54]Na-Na-Na-</div>
 <div class="cn-lyric">[01:20.54]Na-Na-Na-</div>
 </div>
 

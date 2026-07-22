@@ -97,7 +97,6 @@ image: /images/albums/rim/new-romancer.jpg
 [00:29.52]<ruby>なんか<rt class="roma">nanka</rt></ruby><ruby>全然<rt class="furi">ぜんぜん</rt><rt class="roma">zenzen</rt></ruby><ruby>ピン<rt class="roma">pin</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>こ<rt class="roma">ko</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">Somehow I don't get it at all</div>
-<div class="trans-lyric">Somehow I don't get it at all</div>
 </div>
 
 <div class="lyric-line">

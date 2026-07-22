@@ -96,7 +96,6 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 [00:41.09]You know, I sing because of you
 </div>
 <div class="trans-lyric">You know, I sing because of you</div>
-<div class="trans-lyric">You know, I sing because of you</div>
 </div>
 
 <div class="lyric-line">

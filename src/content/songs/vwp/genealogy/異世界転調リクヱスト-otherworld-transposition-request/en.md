@@ -97,7 +97,6 @@ image: /images/albums/vwp/witch-plus.jpg
 [00:30.66]Q&amp;A <ruby>理由<rt class="furi">りゆう</rt><rt class="roma">riyuu</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby>
 </div>
 <div class="trans-lyric">Q&A, reasons and such</div>
-<div class="trans-lyric">Q&A, reasons and such</div>
 </div>
 
 <div class="lyric-line">
@@ -105,14 +104,12 @@ image: /images/albums/vwp/witch-plus.jpg
 [00:33.58]U&amp;Me <ruby>ない<rt class="roma">nai</rt></ruby><ruby>かも<rt class="roma">kamo</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
 <div class="trans-lyric">U&Me, maybe there aren't</div>
-<div class="trans-lyric">U&Me, maybe there aren't</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:36.64]<ruby>仮想<rt class="furi">かそう</rt><rt class="roma">kasou</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby><ruby>リアル<rt class="roma">riaru</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby>
 </div>
-<div class="trans-lyric">Whether virtual or real</div>
 <div class="trans-lyric">Whether virtual or real</div>
 </div>
 
@@ -128,7 +125,6 @@ image: /images/albums/vwp/witch-plus.jpg
 [00:39.84]<ruby>次元<rt class="furi">じげん</rt><rt class="roma">jigen</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>超<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">Beyond dimensions</div>
-<div class="trans-lyric">Beyond dimensions</div>
 </div>
 
 <div class="lyric-line">
@@ -143,14 +139,12 @@ image: /images/albums/vwp/witch-plus.jpg
 [00:41.95]<ruby>ダンジョン<rt class="roma">danjon</rt></ruby><ruby>風味<rt class="furi">ふうみ</rt><rt class="roma">fuumi</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> Non Stop！
 </div>
 <div class="trans-lyric">Dungeon-flavored Non Stop!</div>
-<div class="trans-lyric">Dungeon-flavored Non Stop!</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:45.39]<ruby>死<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ぬ<rt class="roma">nu</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>ゅんしたい<rt class="roma">yunshitai</rt></ruby> Don't Stop！
 </div>
-<div class="trans-lyric">Want to feel that thrill till I die, Don't Stop!</div>
 <div class="trans-lyric">Want to feel that thrill till I die, Don't Stop!</div>
 </div>
 
@@ -159,14 +153,12 @@ image: /images/albums/vwp/witch-plus.jpg
 [00:48.61]<ruby>ピース<rt class="roma">piisu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>ミューズ<rt class="roma">myuuzu</rt></ruby><ruby>な<rt class="roma">na</rt></ruby> Can't Stop！
 </div>
 <div class="trans-lyric">Peaceful and muse-like, Can't Stop!</div>
-<div class="trans-lyric">Peaceful and muse-like, Can't Stop!</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:51.49]<ruby>自己<rt class="furi">じこ</rt><rt class="roma">jiko</rt></ruby><ruby>満<rt class="furi">まん</rt><rt class="roma">man</rt></ruby><ruby>勝<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>ち<rt class="roma">chi</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby>
 </div>
-<div class="trans-lyric">It's a self-satisfied win, isn't it?</div>
 <div class="trans-lyric">It's a self-satisfied win, isn't it?</div>
 </div>
 
@@ -175,15 +167,12 @@ image: /images/albums/vwp/witch-plus.jpg
 [00:51.49]Ah Ah Ah
 </div>
 <div class="trans-lyric">Ah Ah Ah</div>
-<div class="trans-lyric">Ah Ah Ah</div>
-<div class="trans-lyric">Ah Ah Ah</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:54.74]<ruby>ヒーロー<rt class="roma">hiirou</rt></ruby><ruby>気取<rt class="furi">けど</rt><rt class="roma">kedo</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>な<rt class="roma">na</rt></ruby> Non Stop！
 </div>
-<div class="trans-lyric">Playing hero Non Stop!</div>
 <div class="trans-lyric">Playing hero Non Stop!</div>
 </div>
 
@@ -192,14 +181,12 @@ image: /images/albums/vwp/witch-plus.jpg
 [00:57.44]<ruby>意外<rt class="furi">いがい</rt><rt class="roma">igai</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>ハマる<rt class="roma">hamaru</rt></ruby><ruby>かも<rt class="roma">kamo</rt></ruby> Don't Stop！
 </div>
 <div class="trans-lyric">Surprisingly addictive, Don't Stop!</div>
-<div class="trans-lyric">Surprisingly addictive, Don't Stop!</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:00.50]<ruby>余所見<rt class="furi">よそみ</rt><rt class="roma">yosomi</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> Can't Stop！
 </div>
-<div class="trans-lyric">Don't look away, Can't Stop!</div>
 <div class="trans-lyric">Don't look away, Can't Stop!</div>
 </div>
 
@@ -208,17 +195,12 @@ image: /images/albums/vwp/witch-plus.jpg
 [01:03.50]<ruby>ご<rt class="roma">go</rt></ruby><ruby>機嫌<rt class="furi">きげん</rt><rt class="roma">kigen</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby> Now <ruby>し<rt class="roma">shi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
 <div class="trans-lyric">I want to be in a good mood now</div>
-<div class="trans-lyric">I want to be in a good mood now</div>
-<div class="trans-lyric">I want to be in a good mood now</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:03.50]Chu Chu Chu Ah
 </div>
-<div class="trans-lyric">Chu Chu Chu Ah</div>
-<div class="trans-lyric">Chu Chu Chu Ah</div>
-<div class="trans-lyric">Chu Chu Chu Ah</div>
 <div class="trans-lyric">Chu Chu Chu Ah</div>
 </div>
 
@@ -508,7 +490,6 @@ image: /images/albums/vwp/witch-plus.jpg
 <div class="jp-lyric">
 [02:59.62](Don't Stop Musical)
 </div>
-<div class="trans-lyric">(Don't Stop Musical)</div>
 <div class="trans-lyric">(Don't Stop Musical)</div>
 </div>
 

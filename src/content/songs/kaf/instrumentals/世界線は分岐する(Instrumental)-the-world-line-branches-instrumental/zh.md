@@ -108,7 +108,6 @@ Can't let go
 Butterflies dance in the sky
 </div>
 <div class="cn-lyric">蝴蝶在天空中飞舞</div>
-<div class="cn-lyric">蝴蝶在天空中飞舞</div>
 </div>
 
 <div class="lyric-line">
@@ -123,18 +122,12 @@ Butterflies dance in the sky
 Play back But I won't replay the scheme
 </div>
 <div class="cn-lyric">回放 但我不会重演那计划</div>
-<div class="cn-lyric">回放 但我不会重演那计划</div>
-<div class="cn-lyric">回放 但我不会重演那计划</div>
-<div class="cn-lyric">回放 但我不会重演那计划</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Play back Never be the same as dreamed
 </div>
-<div class="cn-lyric">回放 再也不和梦中的一样</div>
-<div class="cn-lyric">回放 再也不和梦中的一样</div>
-<div class="cn-lyric">回放 再也不和梦中的一样</div>
 <div class="cn-lyric">回放 再也不和梦中的一样</div>
 </div>
 
@@ -143,14 +136,12 @@ Play back Never be the same as dreamed
 Play back <ruby>虚構<rt class="furi">きょこう</rt><rt class="roma">kyokou</rt></ruby> Matrix
 </div>
 <div class="cn-lyric">回放 虚构的矩阵</div>
-<div class="cn-lyric">回放 虚构的矩阵</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>潜在<rt class="furi">せんざい</rt><rt class="roma">senzai</rt></ruby><ruby>意識<rt class="furi">いしき</rt><rt class="roma">ishiki</rt></ruby> <ruby>リライト<rt class="roma">riraito</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="cn-lyric">潜意识 重写</div>
 <div class="cn-lyric">潜意识 重写</div>
 </div>
 
@@ -159,7 +150,6 @@ Play back <ruby>虚構<rt class="furi">きょこう</rt><rt class="roma">kyokou<
 <ruby>深層<rt class="furi">しんそう</rt><rt class="roma">shinsou</rt></ruby><ruby>シャドウ<rt class="roma">shadou</rt></ruby> <ruby>キャンセル<rt class="roma">kyanseru</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">深层阴影 取消</div>
-<div class="cn-lyric">深层阴影 取消</div>
 </div>
 
 <div class="lyric-line">
@@ -167,15 +157,12 @@ Play back <ruby>虚構<rt class="furi">きょこう</rt><rt class="roma">kyokou<
 Play back <ruby>ここ<rt class="roma">koko</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>先<rt class="furi">さき</rt><rt class="roma">saki</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="cn-lyric">回放 从这里开始往后</div>
-<div class="cn-lyric">回放 从这里开始往后</div>
-<div class="cn-lyric">回放 从这里开始往后</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Close to the edge
 </div>
-<div class="cn-lyric">接近边缘</div>
 <div class="cn-lyric">接近边缘</div>
 </div>
 

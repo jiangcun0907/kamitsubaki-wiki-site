@@ -232,8 +232,6 @@ image: /images/albums/kaf/shinai.jpg
 [02:22.87]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> <ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="trans-lyric">It's not me, because it's me</div>
-<div class="trans-lyric">It's not me, because it's me</div>
-<div class="trans-lyric">It's not me, because it's me</div>
 </div>
 
 <div class="lyric-line">
@@ -317,7 +315,6 @@ image: /images/albums/kaf/shinai.jpg
 <div class="jp-lyric">
 [03:55.87]<ruby>感情<rt class="furi">かんじょう</rt><rt class="roma">kanjou</rt></ruby><ruby>全部<rt class="furi">ぜんぶ</rt><rt class="roma">zenbu</rt></ruby><ruby>殺<rt class="furi">ころ</rt><rt class="roma">koro</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">Kill all my emotions</div>
 <div class="trans-lyric">Kill all my emotions</div>
 </div>
 

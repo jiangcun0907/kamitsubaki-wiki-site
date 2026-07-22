@@ -36,7 +36,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [00:01.73]<ruby>ねえ<rt class="roma">nee</rt></ruby> <ruby>ねえ<rt class="roma">nee</rt></ruby> <ruby>話<rt class="furi">はなし</rt><rt class="roma">hanashi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">[00:01.73]呐 呐 跟我说说话吧</div>
-<div class="cn-lyric">[00:01.73]呐 呐 跟我说说话吧</div>
 </div>
 
 <div class="lyric-line">
@@ -44,14 +43,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [00:04.66]<ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby> <ruby>触<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>まま<rt class="roma">mama</rt></ruby>
 </div>
 <div class="cn-lyric">[00:04.66]在梦中 依旧触碰着</div>
-<div class="cn-lyric">[00:04.66]在梦中 依旧触碰着</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:07.36]make me want to cry
 </div>
-<div class="cn-lyric">[00:07.36]让我想哭</div>
 <div class="cn-lyric">[00:07.36]让我想哭</div>
 </div>
 
@@ -182,7 +179,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 <div class="jp-lyric">
 [01:19.64]<ruby>二<rt class="furi">に</rt><rt class="roma">ni</rt></ruby><ruby>人<rt class="furi">にん</rt><rt class="roma">nin</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>spece<ruby>で<rt class="roma">de</rt></ruby>
 </div>
-<div class="cn-lyric">[01:19.64]在只属于两人的空间里</div>
 <div class="cn-lyric">[01:19.64]在只属于两人的空间里</div>
 </div>
 

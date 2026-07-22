@@ -37,7 +37,6 @@ image: /images/songs/kaf/track-1721090584.jpg
 [00:06.36]I’m missing you
 </div>
 <div class="trans-lyric">I’m missing you</div>
-<div class="trans-lyric">I’m missing you</div>
 </div>
 
 <div class="lyric-line">
@@ -183,7 +182,6 @@ I’m missing you
 <div class="jp-lyric">
 [02:48.29]Baby I love you
 </div>
-<div class="trans-lyric">Baby I love you</div>
 <div class="trans-lyric">Baby I love you</div>
 </div>
 

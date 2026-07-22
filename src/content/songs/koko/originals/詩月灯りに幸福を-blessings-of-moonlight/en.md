@@ -134,7 +134,6 @@ image: /images/songs/koko/single-1846506764.jpg
 [01:08.21]<ruby>満<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>ち<rt class="roma">chi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>欠<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby>
 </div>
 <div class="trans-lyric">Waxing and waning</div>
-<div class="trans-lyric">Waxing and waning</div>
 </div>
 
 <div class="lyric-line">
@@ -177,14 +176,12 @@ image: /images/songs/koko/single-1846506764.jpg
 [01:39.28]<ruby>人生<rt class="furi">じんせい</rt><rt class="roma">jinsei</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>乾杯<rt class="furi">かんぱい</rt><rt class="roma">kanpai</rt></ruby> <ruby>一興<rt class="furi">いっきょう</rt><rt class="roma">ikkyou</rt></ruby>
 </div>
 <div class="trans-lyric">Cheers to life, a bit of fun</div>
-<div class="trans-lyric">Cheers to life, a bit of fun</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:40.84]<ruby>満員<rt class="furi">まんいん</rt><rt class="roma">man'in</rt></ruby><ruby>御礼<rt class="furi">おれい</rt><rt class="roma">orei</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
-<div class="trans-lyric">It's not a full house, is it?</div>
 <div class="trans-lyric">It's not a full house, is it?</div>
 </div>
 

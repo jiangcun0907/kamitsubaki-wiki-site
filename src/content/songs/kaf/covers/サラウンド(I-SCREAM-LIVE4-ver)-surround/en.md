@@ -105,7 +105,6 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 <ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>日々<rt class="furi">ひび</rt><rt class="roma">hibi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>どんな<rt class="roma">donna</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>意味<rt class="furi">いみ</rt><rt class="roma">imi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>どんな<rt class="roma">donna</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">What are days of love like? What is the meaning of love?</div>
-<div class="trans-lyric">What are days of love like? What is the meaning of love?</div>
 </div>
 
 <div class="lyric-line">

@@ -87,14 +87,12 @@ image: /images/albums/rim/new-romancer.jpg
 <ruby>鬼<rt class="furi">おに</rt><rt class="roma">oni</rt></ruby><ruby>さん<rt class="roma">san</rt></ruby><ruby>こちら<rt class="roma">kochira</rt></ruby> <ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>鳴<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>方<rt class="furi">ほう</rt><rt class="roma">hou</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
 </div>
 <div class="cn-lyric">鬼先生这边 拍手的方向</div>
-<div class="cn-lyric">鬼先生这边 拍手的方向</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>聞<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby> <ruby>昔<rt class="furi">むかし</rt><rt class="roma">mukashi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>話<rt class="furi">はなし</rt><rt class="roma">hanashi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
-<div class="cn-lyric">让我听听 过去的故事</div>
 <div class="cn-lyric">让我听听 过去的故事</div>
 </div>
 
@@ -103,14 +101,12 @@ image: /images/albums/rim/new-romancer.jpg
 <ruby>等価<rt class="furi">とうか</rt><rt class="roma">touka</rt></ruby><ruby>交換<rt class="furi">こうかん</rt><rt class="roma">koukan</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>！
 </div>
 <div class="cn-lyric">等价交换呢！</div>
-<div class="cn-lyric">等价交换呢！</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:44.66]<ruby>なん<rt class="roma">nan</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>あげる<rt class="roma">ageru</rt></ruby>
 </div>
-<div class="cn-lyric">[00:44.66]什么都可以为你做</div>
 <div class="cn-lyric">[00:44.66]什么都可以为你做</div>
 </div>
 
@@ -135,14 +131,12 @@ image: /images/albums/rim/new-romancer.jpg
 「<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby>」
 </div>
 <div class="cn-lyric">「只要是你」</div>
-<div class="cn-lyric">「只要是你」</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 「<ruby>ふとした<rt class="roma">futoshita</rt></ruby><ruby>隙<rt class="furi">ひま</rt><rt class="roma">hima</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>」
 </div>
-<div class="cn-lyric">「不经意间」</div>
 <div class="cn-lyric">「不经意间」</div>
 </div>
 
@@ -151,14 +145,12 @@ image: /images/albums/rim/new-romancer.jpg
 「<ruby>ふわり<rt class="roma">fuwari</rt></ruby><ruby>香<rt class="furi">かお</rt><rt class="roma">kao</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby>」
 </div>
 <div class="cn-lyric">「轻轻飘香」</div>
-<div class="cn-lyric">「轻轻飘香」</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 「<ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>せい<rt class="roma">sei</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>」
 </div>
-<div class="cn-lyric">「是夜晚的缘故吧」</div>
 <div class="cn-lyric">「是夜晚的缘故吧」</div>
 </div>
 
@@ -167,14 +159,12 @@ image: /images/albums/rim/new-romancer.jpg
 「<ruby>気分<rt class="furi">きぶん</rt><rt class="roma">kibun</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby>」
 </div>
 <div class="cn-lyric">「心情很好」</div>
-<div class="cn-lyric">「心情很好」</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 「<ruby>近<rt class="furi">ちか</rt><rt class="roma">chika</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>来<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>」
 </div>
-<div class="cn-lyric">「靠近一点嘛」</div>
 <div class="cn-lyric">「靠近一点嘛」</div>
 </div>
 

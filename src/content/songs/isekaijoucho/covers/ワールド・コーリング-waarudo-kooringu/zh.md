@@ -109,7 +109,6 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 [01:17.875]「Hello.Hello.<ruby>こっち<rt class="roma">kotchi</rt></ruby><ruby>向<rt class="furi">む</rt><rt class="roma">mu</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>?」
 </div>
 <div class="cn-lyric">[01:17.875]「Hello.Hello.看向这边？」</div>
-<div class="cn-lyric">「Hello.Hello.看向这边？」</div>
 </div>
 
 <div class="lyric-line">

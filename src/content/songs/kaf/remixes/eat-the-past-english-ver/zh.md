@@ -207,14 +207,12 @@ image: /images/songs/kaf/track-1817085907.jpg
 [01:28.56]Rising up, and to the stars they sail
 </div>
 <div class="cn-lyric">[01:28.56]升起，驶向星辰</div>
-<div class="cn-lyric">[01:28.56]升起，驶向星辰</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:31.14]Eating up the memory of the past
 </div>
-<div class="cn-lyric">[01:31.14]吞噬对过去的记忆</div>
 <div class="cn-lyric">[01:31.14]吞噬对过去的记忆</div>
 </div>
 

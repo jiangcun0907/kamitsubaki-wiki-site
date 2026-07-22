@@ -83,8 +83,6 @@ image: /images/albums/vwp/witch-plus.jpg
 [00:57.45]<ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>滅<rt class="furi">ほろ</rt><rt class="roma">horo</rt></ruby><ruby>ぼす<rt class="roma">bosu</rt></ruby><ruby>愚<rt class="furi">おろ</rt><rt class="roma">oro</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ぼく<rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby>
 </div>
 <div class="trans-lyric">Though we are fools who destroy the world</div>
-<div class="trans-lyric">Though we are fools who destroy the world</div>
-<div class="trans-lyric">Though we are fools who destroy the world</div>
 </div>
 
 <div class="lyric-line">
@@ -92,14 +90,12 @@ image: /images/albums/vwp/witch-plus.jpg
 [01:02.77]<ruby>終<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>わり<rt class="roma">wari</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>日<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>あらい<rt class="roma">arai</rt></ruby><ruby>ざらい<rt class="roma">zarai</rt></ruby><ruby>触<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>溶<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>けあって<rt class="roma">keatte</rt></ruby>
 </div>
 <div class="trans-lyric">Until the final day, touch all, melt together</div>
-<div class="trans-lyric">Until the final day, touch all, melt together</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:08.31]<ruby>だれ<rt class="roma">dare</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>夜明<rt class="furi">よあ</rt><rt class="roma">yoa</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>奏<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>あお<rt class="roma">ao</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="trans-lyric">Let's play in a dawn no one knows</div>
 <div class="trans-lyric">Let's play in a dawn no one knows</div>
 </div>
 

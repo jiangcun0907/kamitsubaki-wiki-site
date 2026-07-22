@@ -36,16 +36,12 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [00:08.10]<ruby>離れ離<rt class="furi">はなればな</rt><rt class="roma">hanarebana</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>街<rt class="furi">まち</rt><rt class="roma">machi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>繋<rt class="furi">つな</rt><rt class="roma">tsuna</rt></ruby><ruby>ぐ<rt class="roma">gu</rt></ruby><ruby>列車<rt class="furi">れっしゃ</rt><rt class="roma">ressha</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>行<rt class="furi">おこな</rt><rt class="roma">okona</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>しまった<rt class="roma">shimatta</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
 <div class="cn-lyric">[00:08.10]连接着散落城市的列车已经驶离了呢</div>
-<div class="cn-lyric">[00:08.10]连接着散落城市的列车已经驶离了呢</div>
-<div class="cn-lyric">[00:08.10]连接着散落城市的列车已经驶离了呢</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:14.83]<ruby>失<rt class="furi">しつ</rt><rt class="roma">shitsu</rt></ruby><ruby>くし<rt class="roma">kushi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby> <ruby>ポケット<rt class="roma">poketto</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>握<rt class="furi">にぎ</rt><rt class="roma">nigi</rt></ruby><ruby>りしめ<rt class="roma">rishime</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="cn-lyric">[00:14.83]若不知遗失的话语 就紧握在口袋里</div>
-<div class="cn-lyric">[00:14.83]若不知遗失的话语 就紧握在口袋里</div>
 <div class="cn-lyric">[00:14.83]若不知遗失的话语 就紧握在口袋里</div>
 </div>
 
@@ -54,15 +50,12 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [00:21.36]<ruby>あがい<rt class="roma">agai</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>息<rt class="furi">いき</rt><rt class="roma">iki</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>捨<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>延<rt class="furi">の</rt><rt class="roma">no</rt></ruby><ruby>びる<rt class="roma">biru</rt></ruby><ruby>今日<rt class="furi">きょう</rt><rt class="roma">kyou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>眠<rt class="furi">ねむ</rt><rt class="roma">nemu</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>誤魔化<rt class="furi">ごまか</rt><rt class="roma">gomaka</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby>
 </div>
 <div class="cn-lyric">[00:21.36]丢弃挣扎的呼吸 将延伸的今天用睡眠蒙混</div>
-<div class="cn-lyric">[00:21.36]丢弃挣扎的呼吸 将延伸的今天用睡眠蒙混</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:27.96]<ruby>失<rt class="furi">しつ</rt><rt class="roma">shitsu</rt></ruby><ruby>くし<rt class="roma">kushi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby> <ruby>各駅<rt class="furi">かくえき</rt><rt class="roma">kakueki</rt></ruby><ruby>停車<rt class="furi">ていしゃ</rt><rt class="roma">teisha</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>乗り込<rt class="furi">のりこ</rt><rt class="roma">noriko</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
-<div class="cn-lyric">[00:27.96]若不知遗失的话语 就乘上每站停靠的列车</div>
-<div class="cn-lyric">[00:27.96]若不知遗失的话语 就乘上每站停靠的列车</div>
 <div class="cn-lyric">[00:27.96]若不知遗失的话语 就乘上每站停靠的列车</div>
 </div>
 
@@ -114,7 +107,6 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 <div class="jp-lyric">
 [01:39.74]<ruby>あがい<rt class="roma">agai</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>捨<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>揺<rt class="furi">ゆ</rt><rt class="roma">yu</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby><ruby>今日<rt class="furi">きょう</rt><rt class="roma">kyou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>眠<rt class="furi">ねむ</rt><rt class="roma">nemu</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>誤魔化<rt class="furi">ごまか</rt><rt class="roma">gomaka</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby>
 </div>
-<div class="cn-lyric">[01:39.74]丢弃挣扎的梦想 将摇晃的今天用睡眠蒙混</div>
 <div class="cn-lyric">[01:39.74]丢弃挣扎的梦想 将摇晃的今天用睡眠蒙混</div>
 </div>
 

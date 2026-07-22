@@ -64,7 +64,6 @@ image: /images/albums/harusaruhi/rule-the-world.jpg
 [00:29.54]And still, playing like I'm unaware
 </div>
 <div class="cn-lyric">[00:29.54]依然，假裝毫不知情</div>
-<div class="cn-lyric">[00:29.54]依然，假裝毫不知情地繼續</div>
 </div>
 
 <div class="lyric-line">
@@ -128,8 +127,6 @@ image: /images/albums/harusaruhi/rule-the-world.jpg
 [01:21.55]Echoes of rain
 </div>
 <div class="cn-lyric">[01:21.55]雨的迴響</div>
-<div class="cn-lyric">[01:21.55]雨的迴響</div>
-<div class="cn-lyric">[01:21.55]雨的迴響</div>
 </div>
 
 <div class="lyric-line">
@@ -150,7 +147,6 @@ image: /images/albums/harusaruhi/rule-the-world.jpg
 <div class="jp-lyric">
 [01:27.54]<ruby>ここ<rt class="roma">koko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>と<rt class="roma">to</rt></ruby>
 </div>
-<div class="cn-lyric">[01:27.54]說著『在這裡』</div>
 <div class="cn-lyric">[01:27.54]說著『在這裡』</div>
 </div>
 

@@ -52,7 +52,6 @@ image: /images/albums/koko/arare-live.jpg
 [00:53.19]<ruby>情<rt class="furi">なさ</rt><rt class="roma">nasa</rt></ruby><ruby>けない<rt class="roma">kenai</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby><ruby>抱<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>きしめ<rt class="roma">kishime</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby> <ruby>側<rt class="furi">がわ</rt><rt class="roma">gawa</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby> <ruby>側<rt class="furi">がわ</rt><rt class="roma">gawa</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">It's pathetic, but hold me close, stay by my side, stay by my side</div>
-<div class="trans-lyric">It's pathetic, but hold me close, stay by my side, stay by my side</div>
 </div>
 
 <div class="lyric-line">
@@ -66,7 +65,6 @@ image: /images/albums/koko/arare-live.jpg
 <div class="jp-lyric">
 [01:00.22]<ruby>側<rt class="furi">がわ</rt><rt class="roma">gawa</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby> <ruby>側<rt class="furi">がわ</rt><rt class="roma">gawa</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">Stay by my side, stay by my side</div>
 <div class="trans-lyric">Stay by my side, stay by my side</div>
 </div>
 
@@ -88,7 +86,6 @@ image: /images/albums/koko/arare-live.jpg
 <div class="jp-lyric">
 [02:03.41]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>脈<rt class="furi">みゃく</rt><rt class="roma">myaku</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>踊<rt class="furi">おど</rt><rt class="roma">odo</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>たかった<rt class="roma">takatta</rt></ruby> <ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby> <ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>でき<rt class="roma">deki</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="trans-lyric">I wanted to dance to your pulse, but now, now I can't</div>
 <div class="trans-lyric">I wanted to dance to your pulse, but now, now I can't</div>
 </div>
 

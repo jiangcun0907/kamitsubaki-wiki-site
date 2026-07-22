@@ -87,7 +87,6 @@ Surprised to find you feel at home
 Come on, come on and find a smile
 </div>
 <div class="trans-lyric">Come on, come on and find a smile</div>
-<div class="trans-lyric">Come on, come on and find a smile</div>
 </div>
 
 <br />
@@ -96,8 +95,6 @@ Come on, come on and find a smile
 <div class="jp-lyric">
 Confusion!
 </div>
-<div class="trans-lyric">Confusion!</div>
-<div class="trans-lyric">Confusion!</div>
 <div class="trans-lyric">Confusion!</div>
 </div>
 
@@ -149,7 +146,6 @@ You crush a man
 <div class="jp-lyric">
 You run it up
 </div>
-<div class="trans-lyric">You run it up</div>
 <div class="trans-lyric">You run it up</div>
 </div>
 
@@ -259,7 +255,6 @@ You are my favourite
 <div class="jp-lyric">
 Girl, I gotta tell ya...
 </div>
-<div class="trans-lyric">Girl, I gotta tell ya...</div>
 <div class="trans-lyric">Girl, I gotta tell ya...</div>
 </div>
 

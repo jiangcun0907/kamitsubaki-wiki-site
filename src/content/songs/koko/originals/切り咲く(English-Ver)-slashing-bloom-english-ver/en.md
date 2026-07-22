@@ -106,7 +106,6 @@ image: /images/songs/koko/single-1857604518.jpg
 [00:51.12]<ruby>涙<rt class="furi">なみだ</rt><rt class="roma">namida</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>裂<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>命<rt class="furi">いのち</rt><rt class="roma">inochi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>咲<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">Tearing through tears, life blooms</div>
-<div class="trans-lyric">Tearing through tears, life blooms</div>
 </div>
 
 <div class="lyric-line">
@@ -121,7 +120,6 @@ image: /images/songs/koko/single-1857604518.jpg
 [01:00.80]<ruby>途切<rt class="furi">とぎ</rt><rt class="roma">togi</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>鼓動<rt class="furi">こどう</rt><rt class="roma">kodou</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>繋<rt class="furi">つな</rt><rt class="roma">tsuna</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>結<rt class="furi">むす</rt><rt class="roma">musu</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">Connect and bind the interrupted heartbeat</div>
-<div class="trans-lyric">Connect and bind the interrupted heartbeat</div>
 </div>
 
 <div class="lyric-line">
@@ -135,7 +133,6 @@ image: /images/songs/koko/single-1857604518.jpg
 <div class="jp-lyric">
 [01:10.66]<ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>感情<rt class="furi">かんじょう</rt><rt class="roma">kanjou</rt></ruby> <ruby>癒<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>症状<rt class="furi">しょうじょう</rt><rt class="roma">shoujou</rt></ruby>
 </div>
-<div class="trans-lyric">Unknown emotions, incurable symptoms</div>
 <div class="trans-lyric">Unknown emotions, incurable symptoms</div>
 </div>
 

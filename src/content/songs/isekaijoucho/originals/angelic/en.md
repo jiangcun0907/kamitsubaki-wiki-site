@@ -57,7 +57,6 @@ ANGELIC appears on 色彩 or a related official release. Entries are version-spe
 [00:51.03]<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby> <ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="trans-lyric">Love, love</div>
-<div class="trans-lyric">Love, love</div>
 </div>
 
 <div class="lyric-line">
@@ -177,9 +176,6 @@ ANGELIC appears on 色彩 or a related official release. Entries are version-spe
 <div class="jp-lyric">
 [03:00.68]La la la
 </div>
-<div class="trans-lyric">La la la</div>
-<div class="trans-lyric">La la la</div>
-<div class="trans-lyric">La la la</div>
 <div class="trans-lyric">La la la</div>
 </div>
 

@@ -97,14 +97,12 @@ image: /images/songs/harusaruhi/single-1684406479.jpg
 [00:51.82]<ruby>ありふれ<rt class="roma">arifure</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>喜<rt class="furi">よろこ</rt><rt class="roma">yoroko</rt></ruby><ruby>び<rt class="roma">bi</rt></ruby><ruby>や<rt class="roma">ya</rt></ruby><ruby>希望<rt class="furi">きぼう</rt><rt class="roma">kibou</rt></ruby>
 </div>
 <div class="cn-lyric">[00:51.82]平凡的喜悦与希望</div>
-<div class="cn-lyric">[00:51.82]平凡的喜悦与希望</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:55.24]<ruby>忘<rt class="furi">わす</rt><rt class="roma">wasu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>昔<rt class="furi">むかし</rt><rt class="roma">mukashi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>絶望<rt class="furi">ぜつぼう</rt><rt class="roma">zetsubou</rt></ruby>
 </div>
-<div class="cn-lyric">[00:55.24]忘却了的昔日绝望</div>
 <div class="cn-lyric">[00:55.24]忘却了的昔日绝望</div>
 </div>
 
@@ -129,14 +127,12 @@ image: /images/songs/harusaruhi/single-1684406479.jpg
 [01:04.39]<ruby>嫌々<rt class="furi">いやいや</rt><rt class="roma">iyaiya</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>苦<rt class="furi">くる</rt><rt class="roma">kuru</rt></ruby><ruby>しめ<rt class="roma">shime</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="cn-lyric">[01:04.39]不情愿地折磨着</div>
-<div class="cn-lyric">[01:04.39]不情愿地折磨着</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:07.68]<ruby>蝕<rt class="furi">むしば</rt><rt class="roma">mushiba</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>後悔<rt class="furi">こうかい</rt><rt class="roma">koukai</rt></ruby> <ruby>追<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>脳<rt class="furi">のう</rt><rt class="roma">nou</rt></ruby><ruby>内<rt class="furi">ない</rt><rt class="roma">nai</rt></ruby>
 </div>
-<div class="cn-lyric">[01:07.68]侵蚀的后悔 无法追赶的脑内</div>
 <div class="cn-lyric">[01:07.68]侵蚀的后悔 无法追赶的脑内</div>
 </div>
 
@@ -145,14 +141,12 @@ image: /images/songs/harusaruhi/single-1684406479.jpg
 [01:10.73]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>叫<rt class="furi">さけ</rt><rt class="roma">sake</rt></ruby><ruby>び<rt class="roma">bi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
 </div>
 <div class="cn-lyric">[01:10.73]我的呐喊</div>
-<div class="cn-lyric">[01:10.73]我的呐喊</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:13.82]<ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>風<rt class="furi">ふう</rt><rt class="roma">fuu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>切り裂<rt class="furi">きりさ</rt><rt class="roma">kirisa</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>刃<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なって<rt class="roma">natte</rt></ruby>
 </div>
-<div class="cn-lyric">[01:13.82]化作划破夜风的刀刃</div>
 <div class="cn-lyric">[01:13.82]化作划破夜风的刀刃</div>
 </div>
 
@@ -163,7 +157,6 @@ image: /images/songs/harusaruhi/single-1684406479.jpg
 [01:17.58]<ruby>降<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>りしきる<rt class="roma">rishikiru</rt></ruby><ruby>哀<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>しみ<rt class="roma">shimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
 </div>
 <div class="cn-lyric">[01:17.58]纷纷落下的悲伤</div>
-<div class="cn-lyric">[01:17.58]纷纷落下的悲伤</div>
 </div>
 
 <div class="lyric-line">
@@ -171,14 +164,12 @@ image: /images/songs/harusaruhi/single-1684406479.jpg
 [01:20.68]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>濡<rt class="furi">ぬ</rt><rt class="roma">nu</rt></ruby><ruby>らし<rt class="roma">rashi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>染<rt class="furi">そ</rt><rt class="roma">so</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[01:20.68]将我淋湿 将我浸染</div>
-<div class="cn-lyric">[01:20.68]将我淋湿 将我浸染</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:23.70]<ruby>それでも<rt class="roma">soredemo</rt></ruby><ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>きる<rt class="roma">kiru</rt></ruby><ruby>意味<rt class="furi">いみ</rt><rt class="roma">imi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>肯定<rt class="furi">こうてい</rt><rt class="roma">koutei</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby>
 </div>
-<div class="cn-lyric">[01:23.70]即便如此 肯定活着的意义</div>
 <div class="cn-lyric">[01:23.70]即便如此 肯定活着的意义</div>
 </div>
 
@@ -336,7 +327,6 @@ image: /images/songs/harusaruhi/single-1684406479.jpg
 <div class="jp-lyric">
 [02:35.73]<ruby>進<rt class="furi">すす</rt><rt class="roma">susu</rt></ruby><ruby>め<rt class="roma">me</rt></ruby> <ruby>進<rt class="furi">すす</rt><rt class="roma">susu</rt></ruby><ruby>め<rt class="roma">me</rt></ruby> <ruby>進<rt class="furi">すす</rt><rt class="roma">susu</rt></ruby><ruby>め<rt class="roma">me</rt></ruby> <ruby>進<rt class="furi">すす</rt><rt class="roma">susu</rt></ruby><ruby>め<rt class="roma">me</rt></ruby>
 </div>
-<div class="cn-lyric">[02:35.73]前进 前进 前进 前进</div>
 <div class="cn-lyric">[02:35.73]前进 前进 前进 前进</div>
 </div>
 

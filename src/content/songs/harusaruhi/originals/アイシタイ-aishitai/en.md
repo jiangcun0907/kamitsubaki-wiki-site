@@ -54,7 +54,7 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:18.74]I’m feeling lonely
+I’m feeling lonely
 </div>
 <div class="trans-lyric">I’m feeling lonely</div>
 </div>
@@ -96,9 +96,8 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:31.61]yeah
+yeah
 </div>
-<div class="trans-lyric">yeah</div>
 <div class="trans-lyric">yeah</div>
 </div>
 
@@ -139,21 +138,21 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:43.77]Whatever you want
+Whatever you want
 </div>
 <div class="trans-lyric">Whatever you want</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:53.54]<ruby>思<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>う<rt class="roma">u</rt></ruby> <ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>最高<rt class="furi">さいこう</rt><rt class="roma">saikou</rt></ruby>！yeah
+<ruby>思<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>う<rt class="roma">u</rt></ruby> <ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>最高<rt class="furi">さいこう</rt><rt class="roma">saikou</rt></ruby>！yeah
 </div>
 <div class="trans-lyric">Even if I don't mean it, say it: I'm the best! yeah</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:47.87]Lucky lucky lucky
+Lucky lucky lucky
 </div>
 <div class="trans-lyric">Lucky lucky lucky</div>
 </div>

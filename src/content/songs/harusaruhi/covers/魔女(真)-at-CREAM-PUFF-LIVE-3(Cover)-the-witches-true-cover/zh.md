@@ -120,15 +120,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [00:57.52]<ruby>答<rt class="furi">こた</rt><rt class="roma">kota</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[00:57.52]回答我</div>
-<div class="cn-lyric">[00:57.52]回答我</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:58.77]<ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
-<div class="cn-lyric">[00:58.77]歌唱吧</div>
-<div class="cn-lyric">[00:58.77]歌唱吧</div>
 <div class="cn-lyric">[00:58.77]歌唱吧</div>
 </div>
 
@@ -144,14 +141,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [01:02.13]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>産声<rt class="furi">うぶごえ</rt><rt class="roma">ubugoe</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:02.13]你的初啼</div>
-<div class="cn-lyric">[01:02.13]你的初啼</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:04.84]<ruby>頭<rt class="furi">あたま</rt><rt class="roma">atama</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>悪<rt class="furi">わる</rt><rt class="roma">waru</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>号<rt class="furi">ごう</rt><rt class="roma">gou</rt></ruby>哭<ruby>を<rt class="roma">wo</rt></ruby>
 </div>
-<div class="cn-lyric">[01:04.84]愚钝的号哭</div>
 <div class="cn-lyric">[01:04.84]愚钝的号哭</div>
 </div>
 

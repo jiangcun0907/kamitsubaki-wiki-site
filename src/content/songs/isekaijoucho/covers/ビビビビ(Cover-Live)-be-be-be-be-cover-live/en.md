@@ -36,7 +36,6 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [00:01.79]<ruby>ギャアギャアギャアギャア<rt class="roma">gyaagyaagyaagyaa</rt></ruby>
 </div>
 <div class="trans-lyric">Gyah gyah gyah gyah</div>
-<div class="trans-lyric">Gyah gyah gyah gyah</div>
 </div>
 
 <div class="lyric-line">
@@ -49,7 +48,6 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 <div class="jp-lyric">
 [00:04.11]<ruby>ビビビビ<rt class="roma">bibibibi</rt></ruby>
 </div>
-<div class="trans-lyric">Bzz bzz bzz bzz</div>
 <div class="trans-lyric">Bzz bzz bzz bzz</div>
 </div>
 
@@ -205,14 +203,12 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [01:02.48]<ruby>息<rt class="furi">いき</rt><rt class="roma">iki</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>でき<rt class="roma">deki</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>くらい<rt class="roma">kurai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>衝撃<rt class="furi">しょうげき</rt><rt class="roma">shougeki</rt></ruby>
 </div>
 <div class="trans-lyric">An impact that takes my breath away</div>
-<div class="trans-lyric">An impact that takes my breath away</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:13.44]<ruby>それ<rt class="roma">sore</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>常識<rt class="furi">じょうしき</rt><rt class="roma">joushiki</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>割<rt class="furi">わ</rt><rt class="roma">wa</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
-<div class="trans-lyric">It shattered common sense</div>
 <div class="trans-lyric">It shattered common sense</div>
 </div>
 
@@ -221,14 +217,12 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [01:15.39]<ruby>裂<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>エイリアン<rt class="roma">eirian</rt></ruby>
 </div>
 <div class="trans-lyric">An alien that tore through</div>
-<div class="trans-lyric">An alien that tore through</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:16.59]<ruby>身体<rt class="furi">しんたい</rt><rt class="roma">shintai</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>刺<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>さる<rt class="roma">saru</rt></ruby><ruby>異物<rt class="furi">いぶつ</rt><rt class="roma">ibutsu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>破片<rt class="furi">はへん</rt><rt class="roma">hahen</rt></ruby>
 </div>
-<div class="trans-lyric">Shards of foreign matter piercing my body</div>
 <div class="trans-lyric">Shards of foreign matter piercing my body</div>
 </div>
 
@@ -237,14 +231,12 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [01:19.03]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>日常<rt class="furi">にちじょう</rt><rt class="roma">nichijou</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>グロテスク<rt class="roma">gurotesuku</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>かき回<rt class="furi">かきまわ</rt><rt class="roma">kakimawa</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby>
 </div>
 <div class="trans-lyric">Grotesquely churning our daily life</div>
-<div class="trans-lyric">Grotesquely churning our daily life</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:22.71]<ruby>ルール<rt class="roma">ruuru</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>乗っ取<rt class="furi">のっと</rt><rt class="roma">notto</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby>！
 </div>
-<div class="trans-lyric">Hijacked the rules!</div>
 <div class="trans-lyric">Hijacked the rules!</div>
 </div>
 
@@ -253,14 +245,12 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [01:24.44]<ruby>予測<rt class="furi">よそく</rt><rt class="roma">yosoku</rt></ruby><ruby>でき<rt class="roma">deki</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>次元<rt class="furi">じげん</rt><rt class="roma">jigen</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>超越<rt class="furi">ちょうえつ</rt><rt class="roma">chouetsu</rt></ruby>
 </div>
 <div class="trans-lyric">An unpredictable dimensional transcendence</div>
-<div class="trans-lyric">An unpredictable dimensional transcendence</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:32.97]<ruby>それ<rt class="roma">sore</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>形式<rt class="furi">けいしき</rt><rt class="roma">keishiki</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>食<rt class="furi">く</rt><rt class="roma">ku</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>吐<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>β
 </div>
-<div class="trans-lyric">It devoured form and spat out beta</div>
 <div class="trans-lyric">It devoured form and spat out beta</div>
 </div>
 
@@ -269,7 +259,6 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [01:36.06]<ruby>頭<rt class="furi">あたま</rt><rt class="roma">atama</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>宿<rt class="furi">やど</rt><rt class="roma">yado</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>歪<rt class="furi">いびつ</rt><rt class="roma">ibitsu</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>種<rt class="furi">たね</rt><rt class="roma">tane</rt></ruby>
 </div>
 <div class="trans-lyric">A twisted seed dwelling in the mind</div>
-<div class="trans-lyric">A twisted seed dwelling in the mind</div>
 </div>
 
 <div class="lyric-line">
@@ -277,14 +266,12 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [01:38.50]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>平穏<rt class="furi">へいおん</rt><rt class="roma">heion</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>スプラッタ<rt class="roma">supuratta</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>かき乱<rt class="furi">かきみだ</rt><rt class="roma">kakimida</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby>
 </div>
 <div class="trans-lyric">Splatter-ously disturbing our peace</div>
-<div class="trans-lyric">Splatter-ously disturbing our peace</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:42.21]<ruby>思考<rt class="furi">しこう</rt><rt class="roma">shikou</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>超<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby>！
 </div>
-<div class="trans-lyric">Went beyond thought!</div>
 <div class="trans-lyric">Went beyond thought!</div>
 </div>
 

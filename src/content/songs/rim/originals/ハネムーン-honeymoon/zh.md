@@ -92,8 +92,6 @@ image: /images/songs/rim/single-1746439230.jpg
 <ruby>世の中<rt class="furi">よのなか</rt><rt class="roma">yononaka</rt></ruby><ruby>推敲<rt class="furi">すいこう</rt><rt class="roma">suikou</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>嘘<rt class="furi">うそ</rt><rt class="roma">uso</rt></ruby><ruby>ばっか<rt class="roma">bakka</rt></ruby>
 </div>
 <div class="cn-lyric">这世上尽是经过推敲的谎言</div>
-<div class="cn-lyric">这世上尽是经过推敲的谎言</div>
-<div class="cn-lyric">这世上尽是经过推敲的谎言</div>
 </div>
 
 <div class="lyric-line">
@@ -101,19 +99,12 @@ image: /images/songs/rim/single-1746439230.jpg
 <ruby>人<rt class="furi">ひと</rt><rt class="roma">hito</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>やし<rt class="roma">yashi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby>
 </div>
 <div class="cn-lyric">根本不可能了解别人吧</div>
-<div class="cn-lyric">根本不可能了解别人吧</div>
-<div class="cn-lyric">根本不可能了解别人吧</div>
-<div class="cn-lyric">根本不可能了解别人吧</div>
-<div class="cn-lyric">根本不可能了解别人吧</div>
-<div class="cn-lyric">根本不可能了解别人吧</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>奥<rt class="furi">おく</rt><rt class="roma">oku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>自分<rt class="furi">じぶん</rt><rt class="roma">jibun</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ず<rt class="roma">zu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
-<div class="cn-lyric">连自己内心深处都不了解</div>
-<div class="cn-lyric">连自己内心深处都不了解</div>
 <div class="cn-lyric">连自己内心深处都不了解</div>
 </div>
 

@@ -74,9 +74,6 @@ image: /images/albums/rim/singularity-live.jpg
 [00:32.19]<ruby>錯覚<rt class="furi">さっかく</rt><rt class="roma">sakkaku</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
 </div>
 <div class="trans-lyric">Is it an illusion?</div>
-<div class="trans-lyric">Is it an illusion?</div>
-<div class="trans-lyric">Is it an illusion?</div>
-<div class="trans-lyric">Is it an illusion?</div>
 </div>
 
 <div class="lyric-line">
@@ -107,7 +104,6 @@ image: /images/albums/rim/singularity-live.jpg
 [00:45.05]<ruby>きみ<rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>せい<rt class="roma">sei</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">It's your fault</div>
-<div class="trans-lyric">It's your fault</div>
 </div>
 
 <div class="lyric-line">
@@ -120,7 +116,6 @@ image: /images/albums/rim/singularity-live.jpg
 <div class="jp-lyric">
 [00:53.74]<ruby>性格<rt class="furi">せいかく</rt><rt class="roma">seikaku</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
 </div>
-<div class="trans-lyric">Is it my personality?</div>
 <div class="trans-lyric">Is it my personality?</div>
 </div>
 
@@ -252,7 +247,6 @@ image: /images/albums/rim/singularity-live.jpg
 [02:13.41]<ruby>特別<rt class="furi">とくべつ</rt><rt class="roma">tokubetsu</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>もん<rt class="roma">mon</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
 <div class="trans-lyric">Is special, right?</div>
-<div class="trans-lyric">I'm special, right?</div>
 </div>
 
 <br />
@@ -261,7 +255,6 @@ image: /images/albums/rim/singularity-live.jpg
 <div class="jp-lyric">
 [02:22.66]<ruby>完全<rt class="furi">かんぜん</rt><rt class="roma">kanzen</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
-<div class="trans-lyric">The perfect sky</div>
 <div class="trans-lyric">The perfect sky</div>
 </div>
 

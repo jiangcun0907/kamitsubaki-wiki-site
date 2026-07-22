@@ -85,15 +85,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 <ruby>大<rt class="furi">おお</rt><rt class="roma">oo</rt></ruby><ruby>きな<rt class="roma">kina</rt></ruby><ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>ピリカピリララ<rt class="roma">pirikapirirara</rt></ruby>
 </div>
 <div class="trans-lyric">With a loud voice, Pirika Pirirara</div>
-<div class="trans-lyric">With a loud voice, Pirika Pirirara</div>
-<div class="trans-lyric">With a loud voice, Pirika Pirirara</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>はしゃい<rt class="roma">hashai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>騒<rt class="furi">さわ</rt><rt class="roma">sawa</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>っちゃ<rt class="roma">tcha</rt></ruby><ruby>え<rt class="roma">e</rt></ruby>
 </div>
-<div class="trans-lyric">Frolic, make noise, and sing out</div>
 <div class="trans-lyric">Frolic, make noise, and sing out</div>
 </div>
 
@@ -102,15 +99,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 <ruby>パパ<rt class="roma">papa</rt></ruby>、<ruby>ママ<rt class="roma">mama</rt></ruby>、<ruby>せんせ<rt class="roma">sense</rt></ruby>、<ruby>ガミガミ<rt class="roma">gamigami</rt></ruby><ruby>おじさん<rt class="roma">ojisan</rt></ruby>
 </div>
 <div class="trans-lyric">Dad, Mom, teacher, grumpy old man</div>
-<div class="trans-lyric">Dad, Mom, teacher, grumpy old man</div>
-<div class="trans-lyric">Dad, Mom, teacher, grumpy old man</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 「<ruby>うるさ<rt class="roma">urusa</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>い<rt class="roma">i</rt></ruby>」<ruby>なんて<rt class="roma">nante</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby> <ruby>火山<rt class="furi">かざん</rt><rt class="roma">kazan</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>大<rt class="furi">だい</rt><rt class="roma">dai</rt></ruby><ruby>噴火<rt class="furi">ふんか</rt><rt class="roma">funka</rt></ruby>
 </div>
-<div class="trans-lyric">Saying 'Too loud!' — a volcano erupts</div>
 <div class="trans-lyric">Saying 'Too loud!' — a volcano erupts</div>
 </div>
 
@@ -119,15 +113,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 <ruby>お<rt class="roma">o</rt></ruby><ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>ひびけ<rt class="roma">hibike</rt></ruby> <ruby>ピリカピリララ<rt class="roma">pirikapirirara</rt></ruby>
 </div>
 <div class="trans-lyric">Resound in the sky, Pirika Pirirara</div>
-<div class="trans-lyric">Resound in the sky, Pirika Pirirara</div>
-<div class="trans-lyric">Resound in the sky, Pirika Pirirara</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>とん<rt class="roma">ton</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>走<rt class="furi">はし</rt><rt class="roma">hashi</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>まわっちゃ<rt class="roma">mawatcha</rt></ruby><ruby>え<rt class="roma">e</rt></ruby>
 </div>
-<div class="trans-lyric">Fly, run, and spin around</div>
 <div class="trans-lyric">Fly, run, and spin around</div>
 </div>
 
@@ -136,14 +127,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 <ruby>テスト<rt class="roma">tesuto</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>３<ruby>点<rt class="furi">てん</rt><rt class="roma">ten</rt></ruby>、<ruby>笑顔<rt class="furi">えがお</rt><rt class="roma">egao</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>満点<rt class="furi">まんてん</rt><rt class="roma">manten</rt></ruby>
 </div>
 <div class="trans-lyric">Three points on a test, but smiles are perfect</div>
-<div class="trans-lyric">Three points on a test, but smiles are perfect</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>ドキドキ<rt class="roma">dokidoki</rt></ruby><ruby>ワクワク<rt class="roma">wakuwaku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>年中<rt class="furi">ねんじゅう</rt><rt class="roma">nenjuu</rt></ruby><ruby>無休<rt class="furi">むきゅう</rt><rt class="roma">mukyuu</rt></ruby>
 </div>
-<div class="trans-lyric">Heart-pounding excitement is open all year round</div>
 <div class="trans-lyric">Heart-pounding excitement is open all year round</div>
 </div>
 

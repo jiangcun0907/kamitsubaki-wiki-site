@@ -117,8 +117,6 @@ image: /images/songs/kaf/hana-to-kaitou.jpg
 [00:54.00]<ruby>負<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>られ<rt class="roma">rare</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>あいつ<rt class="roma">aitsu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="trans-lyric">For that guy I can't lose to</div>
-<div class="trans-lyric">For that guy I can't lose to</div>
-<div class="trans-lyric">For that guy I can't lose to</div>
 </div>
 
 <div class="lyric-line">
@@ -126,14 +124,12 @@ image: /images/songs/kaf/hana-to-kaitou.jpg
 [00:57.00]<ruby>蠢<rt class="furi">うごめ</rt><rt class="roma">ugome</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>情熱<rt class="furi">じょうねつ</rt><rt class="roma">jounetsu</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="trans-lyric">[00:57.00]The wriggling passion tells me</div>
-<div class="trans-lyric">The wriggling passion tells me</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:00.50]<ruby>どうして<rt class="roma">doushite</rt></ruby><ruby>ここ<rt class="roma">koko</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だろ<rt class="roma">daro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>？
 </div>
-<div class="trans-lyric">Why is this place good, I wonder?</div>
 <div class="trans-lyric">Why is this place good, I wonder?</div>
 </div>
 
@@ -142,8 +138,6 @@ image: /images/songs/kaf/hana-to-kaitou.jpg
 [01:03.00]<ruby>アブノーマル<rt class="roma">abunoumaru</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>日常<rt class="furi">にちじょう</rt><rt class="roma">nichijou</rt></ruby>
 </div>
 <div class="trans-lyric">[01:03.00]Abnormal everyday life</div>
-<div class="trans-lyric">Abnormal everyday life</div>
-<div class="trans-lyric">Abnormal everyday life</div>
 </div>
 
 <br />

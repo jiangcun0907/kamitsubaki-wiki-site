@@ -62,7 +62,6 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 <ruby>まぜ<rt class="roma">maze</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>けんけん<rt class="roma">kenken</rt></ruby><ruby>ぱ<rt class="roma">pa</rt></ruby> <ruby>転<rt class="furi">ころ</rt><rt class="roma">koro</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby> <ruby>いっせ<rt class="roma">isse</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="cn-lyric">混合 跳房子 摔倒了 预备齐</div>
-<div class="cn-lyric">混合 跳房子 摔倒了 预备齐</div>
 </div>
 
 <div class="lyric-line">
@@ -70,18 +69,12 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 <ruby>はな<rt class="roma">hana</rt></ruby><ruby>いち<rt class="roma">ichi</rt></ruby><ruby>もん<rt class="roma">mon</rt></ruby><ruby>め<rt class="roma">me</rt></ruby> <ruby>だ<rt class="roma">da</rt></ruby><ruby>あれ<rt class="roma">are</rt></ruby>？ <ruby>鬼<rt class="furi">おに</rt><rt class="roma">oni</rt></ruby><ruby>さん<rt class="roma">san</rt></ruby><ruby>こちら<rt class="roma">kochira</rt></ruby>
 </div>
 <div class="cn-lyric">花一匁 是谁？ 鬼先生这边</div>
-<div class="cn-lyric">花一匁 是谁？ 鬼先生这边</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>小<rt class="furi">ちい</rt><rt class="roma">chii</rt></ruby><ruby>さな<rt class="roma">sana</rt></ruby><ruby>ピカソ<rt class="roma">pikaso</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>住<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だろ<rt class="roma">daro</rt></ruby>？
 </div>
-<div class="cn-lyric">你的心中住着一个小小的毕加索吧？</div>
-<div class="cn-lyric">你的心中住着一个小小的毕加索吧？</div>
-<div class="cn-lyric">你的心中住着一个小小的毕加索吧？</div>
-<div class="cn-lyric">你的心中住着一个小小的毕加索吧？</div>
-<div class="cn-lyric">你的心中住着一个小小的毕加索吧？</div>
 <div class="cn-lyric">你的心中住着一个小小的毕加索吧？</div>
 </div>
 
@@ -156,7 +149,6 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 <ruby>時間<rt class="furi">じかん</rt><rt class="roma">jikan</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>泳<rt class="furi">およ</rt><rt class="roma">oyo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>上手<rt class="furi">じょうず</rt><rt class="roma">jouzu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>進<rt class="furi">すす</rt><rt class="roma">susu</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">在时间里游泳 灵巧地前进着</div>
-<div class="cn-lyric">在时间里游泳 灵巧地前进着</div>
 </div>
 
 <div class="lyric-line">
@@ -169,7 +161,6 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 <div class="jp-lyric">
 <ruby>ズル<rt class="roma">zuru</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>怖<rt class="furi">こわ</rt><rt class="roma">kowa</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>夜道<rt class="furi">よみち</rt><rt class="roma">yomichi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>笑<rt class="furi">わら</rt><rt class="roma">wara</rt></ruby><ruby>いとばし<rt class="roma">itobashi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="cn-lyric">连狡猾可怕的小路也一笑而过</div>
 <div class="cn-lyric">连狡猾可怕的小路也一笑而过</div>
 </div>
 

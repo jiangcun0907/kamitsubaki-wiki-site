@@ -94,14 +94,12 @@ image: /images/albums/vwp/proliferation.jpg
 [00:45.61]<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>失<rt class="furi">うしな</rt><rt class="roma">ushina</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="trans-lyric">The world that lost love</div>
-<div class="trans-lyric">The world that lost love</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:48.37]<ruby>何処<rt class="furi">どこ</rt><rt class="roma">doko</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>しまった<rt class="roma">shimatta</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>だろ<rt class="roma">daro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>？
 </div>
-<div class="trans-lyric">Where did it disappear to?</div>
 <div class="trans-lyric">Where did it disappear to?</div>
 </div>
 
@@ -119,7 +117,6 @@ image: /images/albums/vwp/proliferation.jpg
 [00:56.49]<ruby>拡<rt class="furi">ひろ</rt><rt class="roma">hiro</rt></ruby><ruby>がって<rt class="roma">gatte</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>感覚<rt class="furi">かんかく</rt><rt class="roma">kankaku</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">To the spreading sensation</div>
-<div class="trans-lyric">To the spreading sensation</div>
 </div>
 
 <div class="lyric-line">
@@ -134,7 +131,6 @@ image: /images/albums/vwp/proliferation.jpg
 [01:02.82]<ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>捨<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>しまった<rt class="roma">shimatta</rt></ruby><ruby>ボク<rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="trans-lyric">I, who discarded something</div>
-<div class="trans-lyric">I, who discarded something</div>
 </div>
 
 <div class="lyric-line">
@@ -142,14 +138,12 @@ image: /images/albums/vwp/proliferation.jpg
 [01:05.43]<ruby>密<rt class="furi">ひそ</rt><rt class="roma">hiso</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>笑<rt class="furi">わら</rt><rt class="roma">wara</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>魔女<rt class="furi">まじょ</rt><rt class="roma">majo</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">Like a witch laughing secretly</div>
-<div class="trans-lyric">Like a witch laughing secretly</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:08.38]<ruby>ただ<rt class="roma">tada</rt></ruby><ruby>そこ<rt class="roma">soko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
-<div class="trans-lyric">I was just there</div>
 <div class="trans-lyric">I was just there</div>
 </div>
 

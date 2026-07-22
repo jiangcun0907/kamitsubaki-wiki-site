@@ -36,7 +36,6 @@ image: /images/albums/rim/chocolate-live-4.jpg
 [00:14.71]<ruby>眠<rt class="furi">ねむ</rt><rt class="roma">nemu</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>浅<rt class="furi">あさ</rt><rt class="roma">asa</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>朝<rt class="furi">あさ</rt><rt class="roma">asa</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>回路<rt class="furi">かいろ</rt><rt class="roma">kairo</rt></ruby> <ruby>埃<rt class="furi">ほこり</rt><rt class="roma">hokori</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>まみれ<rt class="roma">mamire</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby><ruby>カイト<rt class="roma">kaito</rt></ruby>
 </div>
 <div class="trans-lyric">Light sleep morning circuits, a kite covered in dust</div>
-<div class="trans-lyric">Light sleep morning circuits, a kite covered in dust</div>
 </div>
 
 <div class="lyric-line">
@@ -44,14 +43,12 @@ image: /images/albums/rim/chocolate-live-4.jpg
 [00:22.08]<ruby>フワフワ<rt class="roma">fuwafuwa</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>音<rt class="furi">おと</rt><rt class="roma">oto</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>眠<rt class="furi">ねむ</rt><rt class="roma">nemu</rt></ruby><ruby>ってる<rt class="roma">tteru</rt></ruby> <ruby>そこはかとなく<rt class="roma">sokohakatonaku</rt></ruby><ruby>日々<rt class="furi">ひび</rt><rt class="roma">hibi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>続<rt class="furi">つづ</rt><rt class="roma">tsuzu</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby>
 </div>
 <div class="trans-lyric">Floating sounds are sleeping, vaguely the days go on</div>
-<div class="trans-lyric">Floating sounds are sleeping, vaguely the days go on</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:32.57]<ruby>左利<rt class="furi">ひだりき</rt><rt class="roma">hidariki</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>犬<rt class="furi">いぬ</rt><rt class="roma">inu</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>まさに<rt class="roma">masani</rt></ruby> <ruby>片足<rt class="furi">かたあし</rt><rt class="roma">kataashi</rt></ruby><ruby>引<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>きずり<rt class="roma">kizuri</rt></ruby><ruby>笑<rt class="furi">わら</rt><rt class="roma">wara</rt></ruby><ruby>ってる<rt class="roma">tteru</rt></ruby>
 </div>
-<div class="trans-lyric">A left-handed dog is indeed laughing while dragging one leg</div>
 <div class="trans-lyric">A left-handed dog is indeed laughing while dragging one leg</div>
 </div>
 
@@ -74,15 +71,12 @@ image: /images/albums/rim/chocolate-live-4.jpg
 [00:56.40]<ruby>赤<rt class="furi">あか</rt><rt class="roma">aka</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>煉瓦<rt class="furi">れんが</rt><rt class="roma">renga</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>そっと<rt class="roma">sotto</rt></ruby><ruby>積み上<rt class="furi">つみあ</rt><rt class="roma">tsumia</rt></ruby><ruby>げ<rt class="roma">ge</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">Gently stacking red bricks</div>
-<div class="trans-lyric">Gently stacking red bricks</div>
-<div class="trans-lyric">Gently stacking red bricks</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:00.02]<ruby>遠<rt class="furi">とお</rt><rt class="roma">too</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>日<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>魔法<rt class="furi">まほう</rt><rt class="roma">mahou</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>かけ<rt class="roma">kake</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>みる<rt class="roma">miru</rt></ruby>
 </div>
-<div class="trans-lyric">Trying to cast the magic of a distant day</div>
 <div class="trans-lyric">Trying to cast the magic of a distant day</div>
 </div>
 
@@ -91,15 +85,12 @@ image: /images/albums/rim/chocolate-live-4.jpg
 [01:03.39]<ruby>丸<rt class="furi">まる</rt><rt class="roma">maru</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>地球<rt class="furi">ちきゅう</rt><rt class="roma">chikyuu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>裏側<rt class="furi">うらがわ</rt><rt class="roma">uragawa</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby> <ruby>これ<rt class="roma">kore</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>ける<rt class="roma">keru</rt></ruby>
 </div>
 <div class="trans-lyric">If it's the other side of the round Earth, I can go with this</div>
-<div class="trans-lyric">If it's the other side of the round Earth, I can go with this</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:10.76]<ruby>そして<rt class="roma">soshite</rt></ruby><ruby>少年<rt class="furi">しょうねん</rt><rt class="roma">shounen</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>握<rt class="furi">にぎ</rt><rt class="roma">nigi</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
-<div class="trans-lyric">And then the boy, a handful of</div>
-<div class="trans-lyric">And then the boy, a handful of</div>
 <div class="trans-lyric">And then the boy, a handful of</div>
 </div>
 
@@ -108,15 +99,12 @@ image: /images/albums/rim/chocolate-live-4.jpg
 [01:14.22]<ruby>オレンジ<rt class="roma">orenji</rt></ruby><ruby>色<rt class="furi">しょく</rt><rt class="roma">shoku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>砂<rt class="furi">すな</rt><rt class="roma">suna</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>蒔<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="trans-lyric">Scattered orange sand</div>
-<div class="trans-lyric">Scattered orange sand</div>
-<div class="trans-lyric">Scattered orange sand</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:17.53]<ruby>黄金<rt class="furi">おうごん</rt><rt class="roma">ougon</rt></ruby><ruby>色<rt class="furi">しょく</rt><rt class="roma">shoku</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>輝<rt class="furi">かがや</rt><rt class="roma">kagaya</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>音<rt class="furi">おと</rt><rt class="roma">oto</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby> <ruby>いつか<rt class="roma">itsuka</rt></ruby><ruby>奏<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>でよ<rt class="roma">deyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="trans-lyric">Someday I'll play a sound that shines golden</div>
 <div class="trans-lyric">Someday I'll play a sound that shines golden</div>
 </div>
 

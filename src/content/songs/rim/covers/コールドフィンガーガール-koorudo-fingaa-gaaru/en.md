@@ -59,14 +59,12 @@ image: /images/albums/rim/chocolate-live.jpg
 [00:29.84]<ruby>ショッキング<rt class="roma">shokkingu</rt></ruby><ruby>な<rt class="roma">na</rt></ruby> <ruby>ブラッディピクチュアー<rt class="roma">buraddeipikuchuaa</rt></ruby>
 </div>
 <div class="trans-lyric">A shocking bloody picture</div>
-<div class="trans-lyric">A shocking bloody picture</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:34.96]<ruby>吐き気<rt class="furi">はきけ</rt><rt class="roma">hakike</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby> <ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>くる<rt class="roma">kuru</rt></ruby>
 </div>
-<div class="trans-lyric">I start to feel sick</div>
 <div class="trans-lyric">I start to feel sick</div>
 </div>
 
@@ -75,16 +73,12 @@ image: /images/albums/rim/chocolate-live.jpg
 [00:39.96]<ruby>あ<rt class="roma">a</rt></ruby><ruby>たま<rt class="roma">tama</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby> <ruby>かかえ<rt class="roma">kakae</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>地下鉄<rt class="furi">ちかてつ</rt><rt class="roma">chikatetsu</rt></ruby> <ruby>乗り込<rt class="furi">のりこ</rt><rt class="roma">noriko</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby>
 </div>
 <div class="trans-lyric">Holding my head, I board the subway</div>
-<div class="trans-lyric">Holding my head, I board the subway</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:50.14]<ruby>コールドフィンガーガール<rt class="roma">kourudofyingaagaaru</rt></ruby> <ruby>コールドフィンガーガール<rt class="roma">kourudofyingaagaaru</rt></ruby>
 </div>
-<div class="trans-lyric">Cold Finger Girl, Cold Finger Girl</div>
-<div class="trans-lyric">Cold Finger Girl, Cold Finger Girl</div>
-<div class="trans-lyric">Cold Finger Girl, Cold Finger Girl</div>
 <div class="trans-lyric">Cold Finger Girl, Cold Finger Girl</div>
 </div>
 
@@ -121,14 +115,12 @@ image: /images/albums/rim/chocolate-live.jpg
 [01:25.73]<ruby>正<rt class="furi">ただ</rt><rt class="roma">tada</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>生き方<rt class="furi">いきかた</rt><rt class="roma">ikikata</rt></ruby> <ruby>正<rt class="furi">ただ</rt><rt class="roma">tada</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>死<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>方<rt class="furi">かた</rt><rt class="roma">kata</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
 <div class="trans-lyric">The right way to live, the right way to die</div>
-<div class="trans-lyric">The right way to live, the right way to die</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:35.98]<ruby>いったい<rt class="roma">ittai</rt></ruby><ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby> <ruby>いったい<rt class="roma">ittai</rt></ruby><ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>教<rt class="furi">おし</rt><rt class="roma">oshi</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>くれる<rt class="roma">kureru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
-<div class="trans-lyric">Who on earth knows? What on earth can teach me?</div>
 <div class="trans-lyric">Who on earth knows? What on earth can teach me?</div>
 </div>
 

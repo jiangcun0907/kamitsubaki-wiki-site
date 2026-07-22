@@ -113,7 +113,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [00:47.292]<ruby>満<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>たさ<rt class="roma">tasa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>、<ruby>満<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>たさ<rt class="roma">tasa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="cn-lyric">[00:47.292]不满足 不满足</div>
-<div class="cn-lyric">不满足 不满足</div>
 </div>
 
 <div class="lyric-line">
@@ -121,7 +120,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [00:51.264]<ruby>満<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>たさ<rt class="roma">tasa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>、<ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>、<ruby>フィーリング<rt class="roma">fyiiringu</rt></ruby>、
 </div>
 <div class="cn-lyric">[00:51.264]不满足的是感觉</div>
-<div class="cn-lyric">不满足的是感觉</div>
 </div>
 
 <div class="lyric-line">
@@ -129,7 +127,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [00:55.210]<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>、<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
 <div class="cn-lyric">[00:55.210]想要被爱 想要被爱</div>
-<div class="cn-lyric">想要被爱 想要被爱</div>
 </div>
 
 <div class="lyric-line">

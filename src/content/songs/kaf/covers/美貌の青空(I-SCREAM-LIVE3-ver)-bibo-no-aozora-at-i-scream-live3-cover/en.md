@@ -50,7 +50,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [00:54.41]<ruby>狂<rt class="furi">くる</rt><rt class="roma">kuru</rt></ruby><ruby>おしい<rt class="roma">oshii</rt></ruby><ruby>夏<rt class="furi">なつ</rt><rt class="roma">natsu</rt></ruby><ruby>だった<rt class="roma">datta</rt></ruby>
 </div>
 <div class="trans-lyric">It was a maddening summer</div>
-<div class="trans-lyric">It was a maddening summer</div>
 </div>
 
 <div class="lyric-line">

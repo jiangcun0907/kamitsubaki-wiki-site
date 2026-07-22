@@ -62,7 +62,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [00:33.02]<ruby>この<rt class="roma">kono</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>いつ<rt class="roma">itsu</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>明<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="trans-lyric">Because this night never ends</div>
-<div class="trans-lyric">Because this night never ends</div>
 </div>
 
 <div class="lyric-line">

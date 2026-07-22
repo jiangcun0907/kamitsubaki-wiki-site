@@ -89,14 +89,12 @@ image: /images/songs/kaf/track-1753878885.jpg
 [00:40.16]<ruby>不都合<rt class="furi">ふつごう</rt><rt class="roma">futsugou</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>不気味<rt class="furi">ぶきみ</rt><rt class="roma">bukimi</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">Inconvenient and eerie</div>
-<div class="trans-lyric">Inconvenient and eerie</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:42.09]<ruby>ふしだら<rt class="roma">fushidara</rt></ruby><ruby>な<rt class="roma">na</rt></ruby> <ruby>集合<rt class="furi">しゅうごう</rt><rt class="roma">shuugou</rt></ruby><ruby>体<rt class="furi">たい</rt><rt class="roma">tai</rt></ruby> <ruby>嫌嫌<rt class="furi">いやいや</rt><rt class="roma">iyaiya</rt></ruby><ruby>嫌嫌<rt class="furi">いやいや</rt><rt class="roma">iyaiya</rt></ruby> <ruby>嫌嫌<rt class="furi">いやいや</rt><rt class="roma">iyaiya</rt></ruby><ruby>嫌<rt class="furi">いや</rt><rt class="roma">iya</rt></ruby><ruby>嫌嫌<rt class="furi">いやいや</rt><rt class="roma">iyaiya</rt></ruby>
 </div>
-<div class="trans-lyric">A licentious collective, hate hate hate hate, hate hate hate hate hate</div>
 <div class="trans-lyric">A licentious collective, hate hate hate hate, hate hate hate hate hate</div>
 </div>
 
@@ -105,14 +103,12 @@ image: /images/songs/kaf/track-1753878885.jpg
 [00:46.53]<ruby>こっち<rt class="roma">kotchi</rt></ruby><ruby>来<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>とか<rt class="roma">toka</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
 <div class="trans-lyric">Saying 'Don't come here, don't look'</div>
-<div class="trans-lyric">Saying 'Don't come here, don't look'</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:49.27]<ruby>こっから<rt class="roma">kokkara</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>イイ<rt class="roma">ii</rt></ruby><ruby>ところ<rt class="roma">tokoro</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
-<div class="trans-lyric">Because from here is the good part</div>
 <div class="trans-lyric">Because from here is the good part</div>
 </div>
 
@@ -123,14 +119,12 @@ image: /images/songs/kaf/track-1753878885.jpg
 [00:53.06]<ruby>欲張<rt class="furi">よくば</rt><rt class="roma">yokuba</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>拗<rt class="furi">こじ</rt><rt class="roma">koji</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>ひねくれ<rt class="roma">hinekure</rt></ruby>
 </div>
 <div class="trans-lyric">Greedy, twisted, perverse</div>
-<div class="trans-lyric">Greedy, twisted, perverse</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:55.65]<ruby>でも<rt class="roma">demo</rt></ruby> <ruby>ホーミータイッ<rt class="roma">houmiitai</rt></ruby>！<ruby>嫌嫌<rt class="furi">いやいや</rt><rt class="roma">iyaiya</rt></ruby><ruby>嫌嫌<rt class="furi">いやいや</rt><rt class="roma">iyaiya</rt></ruby> <ruby>嫌嫌<rt class="furi">いやいや</rt><rt class="roma">iyaiya</rt></ruby><ruby>嫌<rt class="furi">いや</rt><rt class="roma">iya</rt></ruby><ruby>嫌嫌<rt class="furi">いやいや</rt><rt class="roma">iyaiya</rt></ruby>
 </div>
-<div class="trans-lyric">But Homy tie! Hate hate hate hate, hate hate hate hate hate</div>
 <div class="trans-lyric">But Homy tie! Hate hate hate hate, hate hate hate hate hate</div>
 </div>
 
@@ -139,7 +133,6 @@ image: /images/songs/kaf/track-1753878885.jpg
 [00:59.43]<ruby>きっちり<rt class="roma">kitchiri</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby> <ruby>とても<rt class="roma">totemo</rt></ruby><ruby>無理<rt class="furi">むり</rt><rt class="roma">muri</rt></ruby><ruby>ゲー<rt class="roma">gee</rt></ruby>
 </div>
 <div class="trans-lyric">Doing things neatly is totally impossible game</div>
-<div class="trans-lyric">Doing things neatly is totally impossible game</div>
 </div>
 
 <div class="lyric-line">
@@ -147,15 +140,12 @@ image: /images/songs/kaf/track-1753878885.jpg
 [01:02.15]<ruby>正解<rt class="furi">せいかい</rt><rt class="roma">seikai</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>つまり<rt class="roma">tsumari</rt></ruby><ruby>一体<rt class="furi">いったい</rt><rt class="roma">ittai</rt></ruby><ruby>感<rt class="furi">かん</rt><rt class="roma">kan</rt></ruby><ruby>です<rt class="roma">desu</rt></ruby>
 </div>
 <div class="trans-lyric">The correct answer is, in short, a sense of unity</div>
-<div class="trans-lyric">The correct answer is, in short, a sense of unity</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:08.94]<ruby>はい<rt class="roma">hai</rt></ruby>！
 </div>
-<div class="trans-lyric">Yes!</div>
-<div class="trans-lyric">Yes!</div>
 <div class="trans-lyric">Yes!</div>
 </div>
 
@@ -268,10 +258,6 @@ image: /images/songs/kaf/track-1753878885.jpg
 <div class="jp-lyric">
 [02:01.03]<ruby>ゲシュタルト<rt class="roma">geshutaruto</rt></ruby><ruby>ゲシュタルト<rt class="roma">geshutaruto</rt></ruby>
 </div>
-<div class="trans-lyric">Gestalt gestalt</div>
-<div class="trans-lyric">Gestalt gestalt</div>
-<div class="trans-lyric">Gestalt gestalt</div>
-<div class="trans-lyric">Gestalt gestalt</div>
 <div class="trans-lyric">Gestalt gestalt</div>
 </div>
 

@@ -31,7 +31,6 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 [00:01.70]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="trans-lyric">You say</div>
-<div class="trans-lyric">You say</div>
 </div>
 
 <div class="lyric-line">
@@ -53,14 +52,12 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 [00:13.06]<ruby>そう<rt class="roma">sou</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="trans-lyric">You say so</div>
-<div class="trans-lyric">You say so</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:16.97]<ruby>放<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>おい<rt class="roma">oi</rt></ruby><ruby>たら<rt class="roma">tara</rt></ruby>
 </div>
-<div class="trans-lyric">If I leave you alone</div>
 <div class="trans-lyric">If I leave you alone</div>
 </div>
 
@@ -75,7 +72,6 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 <div class="jp-lyric">
 [00:24.58]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>活<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>かす<rt class="roma">kasu</rt></ruby><ruby>ため<rt class="roma">tame</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
-<div class="trans-lyric">Only to keep you alive</div>
 <div class="trans-lyric">Only to keep you alive</div>
 </div>
 
@@ -105,14 +101,12 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 [00:36.19]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>心臓<rt class="furi">しんぞう</rt><rt class="roma">shinzou</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>戻<rt class="furi">もど</rt><rt class="roma">modo</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="trans-lyric">To return it to your heart</div>
-<div class="trans-lyric">To return it to your heart</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:40.95]<ruby>星<rt class="furi">ほし</rt><rt class="roma">hoshi</rt></ruby><ruby>々<rt class="furi">々</rt><rt class="roma">々</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>間<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>器用<rt class="furi">きよう</rt><rt class="roma">kiyou</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>縫<rt class="furi">ぬ</rt><rt class="roma">nu</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
-<div class="trans-lyric">Deftly weaving between the stars</div>
 <div class="trans-lyric">Deftly weaving between the stars</div>
 </div>
 

@@ -34,7 +34,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [00:01.18]<ruby>勘違<rt class="furi">かんちが</rt><rt class="roma">kanchiga</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ちゃったって<rt class="roma">chattatte</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">[00:01.18]被误会了也没关系</div>
-<div class="cn-lyric">[00:01.18]被误会了也没关系</div>
 </div>
 
 <div class="lyric-line">
@@ -42,17 +41,12 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [00:04.99]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby>
 </div>
 <div class="cn-lyric">[00:04.99]如果是和你</div>
-<div class="cn-lyric">[00:04.99]如果是和你</div>
-<div class="cn-lyric">[00:04.99]如果是和你</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:07.00]<ruby>思<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>ったって<rt class="roma">ttatte</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
-<div class="cn-lyric">[00:07.00]虽然这么想但不会说</div>
-<div class="cn-lyric">[00:07.00]虽然这么想但不会说</div>
-<div class="cn-lyric">[00:07.00]虽然这么想但不会说</div>
 <div class="cn-lyric">[00:07.00]虽然这么想但不会说</div>
 </div>
 

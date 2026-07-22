@@ -64,7 +64,6 @@ bliss appears on prayer or a related official release. Entries are version-speci
 [00:39.94]If you have wings, please come back to me
 </div>
 <div class="trans-lyric">If you have wings, please come back to me</div>
-<div class="trans-lyric">If you have wings, please come back to me</div>
 </div>
 
 <div class="lyric-line">
@@ -102,7 +101,6 @@ bliss appears on prayer or a related official release. Entries are version-speci
 [01:00.69]Atonement aria echoes in the cathedral
 </div>
 <div class="trans-lyric">Atonement aria echoes in the cathedral</div>
-<div class="trans-lyric">Atonement aria echoes in the cathedral</div>
 </div>
 
 <div class="lyric-line">
@@ -110,15 +108,12 @@ bliss appears on prayer or a related official release. Entries are version-speci
 [01:09.72]The crescent moon turned off the light
 </div>
 <div class="trans-lyric">The crescent moon turned off the light</div>
-<div class="trans-lyric">The crescent moon turned off the light</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:14.34]Just looking at the lunar eclipse
 </div>
-<div class="trans-lyric">Just looking at the lunar eclipse</div>
-<div class="trans-lyric">Just looking at the lunar eclipse</div>
 <div class="trans-lyric">Just looking at the lunar eclipse</div>
 </div>
 
@@ -185,7 +180,6 @@ bliss appears on prayer or a related official release. Entries are version-speci
 <div class="jp-lyric">
 [02:18.12]To me, this world looks cruel and beautiful
 </div>
-<div class="trans-lyric">To me, this world looks cruel and beautiful</div>
 <div class="trans-lyric">To me, this world looks cruel and beautiful</div>
 </div>
 

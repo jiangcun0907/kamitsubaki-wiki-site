@@ -80,10 +80,6 @@ image: /images/songs/kaf/track-1779199800.jpg
 [00:22.63]<ruby>いっせ<rt class="roma">isse</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>ので<rt class="roma">node</rt></ruby><ruby>いって<rt class="roma">itte</rt></ruby><ruby>みよ<rt class="roma">miyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="trans-lyric">Let's go on the count of three</div>
-<div class="trans-lyric">Let's go on the count of three</div>
-<div class="trans-lyric">Let's go on the count of three</div>
-<div class="trans-lyric">Let's go on the count of three</div>
-<div class="trans-lyric">Let's go on the count of three</div>
 </div>
 
 <div class="lyric-line">
@@ -96,7 +92,6 @@ image: /images/songs/kaf/track-1779199800.jpg
 <div class="jp-lyric">
 [00:30.67]<ruby>いって<rt class="roma">itte</rt></ruby><ruby>みよ<rt class="roma">miyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="trans-lyric">Let's go</div>
 <div class="trans-lyric">Let's go</div>
 </div>
 
@@ -150,7 +145,6 @@ image: /images/songs/kaf/track-1779199800.jpg
 <div class="jp-lyric">
 [00:55.29]<ruby>いっせ<rt class="roma">isse</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>ので<rt class="roma">node</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>みよ<rt class="roma">miyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="trans-lyric">Let's say it on the count of three</div>
 <div class="trans-lyric">Let's say it on the count of three</div>
 </div>
 

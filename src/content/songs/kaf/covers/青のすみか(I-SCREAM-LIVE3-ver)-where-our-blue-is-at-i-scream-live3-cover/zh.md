@@ -90,7 +90,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [00:53.59]<ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>青<rt class="furi">あお</rt><rt class="roma">ao</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>棲<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby>
 </div>
 <div class="cn-lyric">[00:53.59]如今依然栖息着那片蓝</div>
-<div class="cn-lyric">如今依然栖息着那片蓝</div>
 </div>
 
 <div class="lyric-line">
@@ -98,7 +97,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [00:56.51]<ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>青<rt class="furi">あお</rt><rt class="roma">ao</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>澄<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby>
 </div>
 <div class="cn-lyric">[00:56.51]如今依然澄澈的那片蓝</div>
-<div class="cn-lyric">如今依然澄澈的那片蓝</div>
 </div>
 
 <div class="lyric-line">
@@ -106,7 +104,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [00:59.77]<ruby>どんな<rt class="roma">donna</rt></ruby><ruby>祈<rt class="furi">いの</rt><rt class="roma">ino</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="cn-lyric">[00:59.77]无论怎样的祈祷与话语</div>
-<div class="cn-lyric">无论怎样的祈祷与话语</div>
 </div>
 
 <div class="lyric-line">
@@ -114,7 +111,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [01:02.81]<ruby>近<rt class="furi">ちか</rt><rt class="roma">chika</rt></ruby><ruby>づける<rt class="roma">zukeru</rt></ruby><ruby>のに<rt class="roma">noni</rt></ruby> <ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>なかった<rt class="roma">nakatta</rt></ruby>
 </div>
 <div class="cn-lyric">[01:02.81]明明能靠近 却无法传达</div>
-<div class="cn-lyric">明明能靠近 却无法传达</div>
 </div>
 
 <br />
@@ -124,7 +120,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [01:06.21]<ruby>まるで<rt class="roma">marude</rt></ruby> <ruby>静<rt class="furi">しず</rt><rt class="roma">shizu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>恋<rt class="furi">こい</rt><rt class="roma">koi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
 <div class="cn-lyric">[01:06.21]仿佛一场静谧的恋爱</div>
-<div class="cn-lyric">仿佛一场静谧的恋爱</div>
 </div>
 
 <div class="lyric-line">
@@ -132,7 +127,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [01:09.08]<ruby>頬<rt class="furi">ほお</rt><rt class="roma">hoo</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>伝<rt class="furi">つた</rt><rt class="roma">tsuta</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby><ruby>夏<rt class="furi">なつ</rt><rt class="roma">natsu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>色<rt class="furi">いろ</rt><rt class="roma">iro</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>なか<rt class="roma">naka</rt></ruby>
 </div>
 <div class="cn-lyric">[01:09.08]在如同夏日划过脸颊的色彩中</div>
-<div class="cn-lyric">在如同夏日划过脸颊的色彩中</div>
 </div>
 
 <div class="lyric-line">
@@ -140,7 +134,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [01:13.13]<ruby>きみ<rt class="roma">kimi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>呪<rt class="furi">のろ</rt><rt class="roma">noro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ずっと<rt class="roma">zutto</rt></ruby><ruby>喉<rt class="furi">のど</rt><rt class="roma">nodo</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>奥<rt class="furi">おく</rt><rt class="roma">oku</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>つかえ<rt class="roma">tsukae</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby>
 </div>
 <div class="cn-lyric">[01:13.13]诅咒你的话语始终卡在喉咙深处</div>
-<div class="cn-lyric">诅咒你的话语始终卡在喉咙深处</div>
 </div>
 
 <div class="lyric-line">
@@ -148,7 +141,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [01:18.77]「<ruby>また<rt class="roma">mata</rt></ruby><ruby>会<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>」<ruby>って<rt class="roma">tte</rt></ruby> <ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby>
 </div>
 <div class="cn-lyric">[01:18.77]「还能再见面吧」那不成声的声音</div>
-<div class="cn-lyric">「还能再见面吧」那不成声的声音</div>
 </div>
 
 <br />
@@ -194,8 +186,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 <div class="jp-lyric">
 (La-la-la-la, la-la-la-la)
 </div>
-<div class="cn-lyric">(La-la-la-la, la-la-la-la)</div>
-<div class="cn-lyric">(La-la-la-la, la-la-la-la)</div>
 <div class="cn-lyric">(La-la-la-la, la-la-la-la)</div>
 </div>
 

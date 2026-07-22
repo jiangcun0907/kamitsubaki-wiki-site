@@ -110,7 +110,6 @@ image: /images/albums/rim/new-romancer.jpg
 [01:05.05]<ruby>幼<rt class="furi">おさな</rt><rt class="roma">osana</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ゆえ<rt class="roma">yue</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>罪<rt class="furi">つみ</rt><rt class="roma">tsumi</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>、<ruby>それでも<rt class="roma">soredemo</rt></ruby>、<ruby>いい<rt class="roma">ii</rt></ruby>
 </div>
 <div class="cn-lyric">[01:05.05]即便是因年少而犯下的罪，即便如此，也好</div>
-<div class="cn-lyric">即便是因年少而犯下的罪，即便如此，也好</div>
 </div>
 
 <div class="lyric-line">

@@ -122,14 +122,12 @@ image: /images/albums/kaf/guwa-gamma.jpg
 [00:57.67]<ruby>ユーフォリア<rt class="roma">yuufuoria</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>麻酔<rt class="furi">ますい</rt><rt class="roma">masui</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="cn-lyric">[00:57.67]以欣快的麻醉</div>
-<div class="cn-lyric">[00:57.67]以欣快的麻醉</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:02.81]<ruby>苦<rt class="furi">くる</rt><rt class="roma">kuru</rt></ruby><ruby>しみ<rt class="roma">shimi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>殺<rt class="furi">ころ</rt><rt class="roma">koro</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>せい<rt class="roma">sei</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="cn-lyric">[01:02.81]是因为扼杀了痛苦</div>
 <div class="cn-lyric">[01:02.81]是因为扼杀了痛苦</div>
 </div>
 
@@ -138,14 +136,12 @@ image: /images/albums/kaf/guwa-gamma.jpg
 [01:05.94]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="cn-lyric">[01:05.94]我爱上了你</div>
-<div class="cn-lyric">[01:05.94]我爱上了你</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:08.22]<ruby>ねえ<rt class="roma">nee</rt></ruby><ruby>ここ<rt class="roma">koko</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>撃ち抜<rt class="furi">うちぬ</rt><rt class="roma">uchinu</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="cn-lyric">[01:08.22]呐 就在这里射穿吧</div>
 <div class="cn-lyric">[01:08.22]呐 就在这里射穿吧</div>
 </div>
 
@@ -154,14 +150,12 @@ image: /images/albums/kaf/guwa-gamma.jpg
 [01:13.42]<ruby>運命<rt class="furi">うんめい</rt><rt class="roma">unmei</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>抗<rt class="furi">あらが</rt><rt class="roma">araga</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>ほど<rt class="roma">hodo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:13.42]能够反抗命运那般</div>
-<div class="cn-lyric">[01:13.42]能够反抗命运那般</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:15.97]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>強<rt class="furi">つよ</rt><rt class="roma">tsuyo</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>なかった<rt class="roma">nakatta</rt></ruby>
 </div>
-<div class="cn-lyric">[01:15.97]我并没有那么强大</div>
 <div class="cn-lyric">[01:15.97]我并没有那么强大</div>
 </div>
 

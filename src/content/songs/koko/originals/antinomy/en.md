@@ -92,14 +92,12 @@ Cries when it hurts
 Discard the meanings and find your will
 </div>
 <div class="trans-lyric">Discard the meanings and find your will</div>
-<div class="trans-lyric">Discard the meanings and find your will</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Survive, survive and catch your breath
 </div>
-<div class="trans-lyric">Survive, survive and catch your breath</div>
 <div class="trans-lyric">Survive, survive and catch your breath</div>
 </div>
 
@@ -136,8 +134,6 @@ To anyone who tramples on your feelings
 A mechanical device's tears
 </div>
 <div class="trans-lyric">A mechanical device's tears</div>
-<div class="trans-lyric">A mechanical device's tears</div>
-<div class="trans-lyric">A mechanical device's tears</div>
 </div>
 
 <div class="lyric-line">
@@ -145,21 +141,12 @@ A mechanical device's tears
 Who does this trembling heart belong to?
 </div>
 <div class="trans-lyric">Who does this trembling heart belong to?</div>
-<div class="trans-lyric">Who does this trembling heart belong to?</div>
-<div class="trans-lyric">Who does this trembling heart belong to?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 The broken night
 </div>
-<div class="trans-lyric">The broken night</div>
-<div class="trans-lyric">The broken night</div>
-<div class="trans-lyric">The broken night</div>
-<div class="trans-lyric">The broken night</div>
-<div class="trans-lyric">The broken night</div>
-<div class="trans-lyric">The broken night</div>
-<div class="trans-lyric">The broken night</div>
 <div class="trans-lyric">The broken night</div>
 </div>
 
@@ -267,7 +254,6 @@ Antinomy, antinomy. It's a bug in my heart
 <div class="jp-lyric">
 Like a human
 </div>
-<div class="trans-lyric">Like a human</div>
 <div class="trans-lyric">Like a human</div>
 </div>
 

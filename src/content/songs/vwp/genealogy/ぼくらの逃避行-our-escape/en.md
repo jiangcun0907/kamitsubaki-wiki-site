@@ -41,8 +41,6 @@ image: /images/albums/vwp/witch-plus-2.jpg
 [00:02.13]<ruby>ダダダ<rt class="roma">dadada</rt></ruby>
 </div>
 <div class="trans-lyric">Da da da</div>
-<div class="trans-lyric">Da da da</div>
-<div class="trans-lyric">Da da da</div>
 </div>
 
 <div class="lyric-line">
@@ -92,8 +90,6 @@ image: /images/albums/vwp/witch-plus-2.jpg
 [00:48.71]＆<ruby>グッバイ<rt class="roma">gubbai</rt></ruby>
 </div>
 <div class="trans-lyric">& Goodbye</div>
-<div class="trans-lyric">& Goodbye</div>
-<div class="trans-lyric">& Goodbye</div>
 </div>
 
 <div class="lyric-line">
@@ -121,8 +117,6 @@ image: /images/albums/vwp/witch-plus-2.jpg
 <div class="jp-lyric">
 [01:07.30]<ruby>我儘<rt class="furi">わがまま</rt><rt class="roma">wagamama</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>くらい<rt class="roma">kurai</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby> <ruby>多分<rt class="furi">たぶん</rt><rt class="roma">tabun</rt></ruby><ruby>ほんと<rt class="roma">honto</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ちょうど<rt class="roma">choudo</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby>
 </div>
-<div class="trans-lyric">Being selfish is probably just right, actually</div>
-<div class="trans-lyric">Being selfish is probably just right, actually</div>
 <div class="trans-lyric">Being selfish is probably just right, actually</div>
 </div>
 

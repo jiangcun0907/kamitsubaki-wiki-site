@@ -66,7 +66,6 @@ image: /images/songs/isekaijoucho/single-1692480468.jpg
 [00:43.26]Lindo Lindo <ruby>憐<rt class="furi">あわ</rt><rt class="roma">awa</rt></ruby><ruby>れみ<rt class="roma">remi</rt></ruby><ruby>憂<rt class="furi">うれ</rt><rt class="roma">ure</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="cn-lyric">[00:43.26]Lindo Lindo 怜悯忧伤</div>
-<div class="cn-lyric">[00:43.26]Lindo Lindo 怜悯忧伤</div>
 </div>
 
 <div class="lyric-line">

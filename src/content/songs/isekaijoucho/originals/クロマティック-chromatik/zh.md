@@ -36,7 +36,6 @@ image: /images/songs/isekaijoucho/single-1856150336.jpg
 [00:01.559]<ruby>海<rt class="furi">うみ</rt><rt class="roma">umi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>色<rt class="furi">いろ</rt><rt class="roma">iro</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>朱<rt class="furi">しゅ</rt><rt class="roma">shu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>加<rt class="furi">くわ</rt><rt class="roma">kuwa</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ましょ<rt class="roma">masho</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="cn-lyric">[00:01.559]为海之色添上一抹朱红</div>
-<div class="cn-lyric">为海之色添上一抹朱红</div>
 </div>
 
 <div class="lyric-line">
@@ -44,7 +43,6 @@ image: /images/songs/isekaijoucho/single-1856150336.jpg
 [00:05.426]<ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>マゼンタ<rt class="roma">mazenta</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="cn-lyric">[00:05.426]也为天空染上品红</div>
-<div class="cn-lyric">也为天空染上品红</div>
 </div>
 
 <div class="lyric-line">
@@ -52,7 +50,6 @@ image: /images/songs/isekaijoucho/single-1856150336.jpg
 [00:09.660]<ruby>幸<rt class="furi">しあわ</rt><rt class="roma">shiawa</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
 <div class="cn-lyric">[00:09.660]所谓幸福之事</div>
-<div class="cn-lyric">所谓幸福之事</div>
 </div>
 
 <div class="lyric-line">
@@ -60,7 +57,6 @@ image: /images/songs/isekaijoucho/single-1856150336.jpg
 [00:11.626]<ruby>甘<rt class="furi">あま</rt><rt class="roma">ama</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>おしまい<rt class="roma">oshimai</rt></ruby>、<ruby>だけ<rt class="roma">dake</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby>
 </div>
 <div class="cn-lyric">[00:11.626]若只是甜蜜到头</div>
-<div class="cn-lyric">若只是甜蜜到头</div>
 </div>
 
 <div class="lyric-line">
@@ -68,7 +64,6 @@ image: /images/songs/isekaijoucho/single-1856150336.jpg
 [00:14.010]<ruby>味気<rt class="furi">あじけ</rt><rt class="roma">ajike</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>？
 </div>
 <div class="cn-lyric">[00:14.010]岂不索然无味？</div>
-<div class="cn-lyric">岂不索然无味？</div>
 </div>
 
 <div class="lyric-line">
@@ -76,7 +71,6 @@ image: /images/songs/isekaijoucho/single-1856150336.jpg
 [00:17.626]<ruby>笑<rt class="furi">わら</rt><rt class="roma">wara</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>それでも<rt class="roma">soredemo</rt></ruby><ruby>自分<rt class="furi">じぶん</rt><rt class="roma">jibun</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>誤魔化<rt class="furi">ごまか</rt><rt class="roma">gomaka</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>切<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>なかった<rt class="roma">nakatta</rt></ruby><ruby>感情<rt class="furi">かんじょう</rt><rt class="roma">kanjou</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="cn-lyric">[00:17.626]那些笑着却仍无法完全欺骗自己的情感</div>
-<div class="cn-lyric">那些笑着却仍无法完全欺骗自己的情感</div>
 </div>
 
 <div class="lyric-line">
@@ -84,7 +78,6 @@ image: /images/songs/isekaijoucho/single-1856150336.jpg
 [00:21.811]<ruby>塗<rt class="furi">ぬ</rt><rt class="roma">nu</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>重<rt class="furi">かさ</rt><rt class="roma">kasa</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[00:21.811]层层涂抹</div>
-<div class="cn-lyric">层层涂抹</div>
 </div>
 
 <div class="lyric-line">
@@ -92,7 +85,6 @@ image: /images/songs/isekaijoucho/single-1856150336.jpg
 [00:24.543]<ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="cn-lyric">[00:24.543]世界</div>
-<div class="cn-lyric">世界</div>
 </div>
 
 <div class="lyric-line">
@@ -100,7 +92,6 @@ image: /images/songs/isekaijoucho/single-1856150336.jpg
 [00:26.610]<ruby>幾重<rt class="furi">いくえ</rt><rt class="roma">ikue</rt></ruby><ruby>にも<rt class="roma">nimo</rt></ruby>
 </div>
 <div class="cn-lyric">[00:26.610]层层叠叠</div>
-<div class="cn-lyric">层层叠叠</div>
 </div>
 
 <div class="lyric-line">
@@ -108,8 +99,6 @@ image: /images/songs/isekaijoucho/single-1856150336.jpg
 [00:28.511]<ruby>千変万化<rt class="furi">せんぺんばんか</rt><rt class="roma">senpenbanka</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>光<rt class="furi">ひかり</rt><rt class="roma">hikari</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>躍<rt class="furi">おど</rt><rt class="roma">odo</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby>
 </div>
 <div class="cn-lyric">[00:28.511]千变万化中光芒跃动</div>
-<div class="cn-lyric">千变万化中光芒跃动</div>
-<div class="cn-lyric">千变万化中光芒跃动</div>
 </div>
 
 <div class="lyric-line">
@@ -117,12 +106,6 @@ image: /images/songs/isekaijoucho/single-1856150336.jpg
 [00:32.516]<ruby>クロマティック<rt class="roma">kuromateikku</rt></ruby>
 </div>
 <div class="cn-lyric">[00:32.516]绚彩斑斓</div>
-<div class="cn-lyric">绚彩斑斓</div>
-<div class="cn-lyric">绚彩斑斓</div>
-<div class="cn-lyric">绚彩斑斓</div>
-<div class="cn-lyric">绚彩斑斓</div>
-<div class="cn-lyric">绚彩斑斓</div>
-<div class="cn-lyric">绚彩斑斓</div>
 </div>
 
 <div class="lyric-line">
@@ -130,7 +113,6 @@ image: /images/songs/isekaijoucho/single-1856150336.jpg
 [00:33.903]<ruby>景色<rt class="furi">けしき</rt><rt class="roma">keshiki</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>遷<ruby>ろ<rt class="roma">ro</rt></ruby><ruby>い<rt class="roma">i</rt></ruby>
 </div>
 <div class="cn-lyric">[00:33.903]景色的变迁</div>
-<div class="cn-lyric">景色的变迁</div>
 </div>
 
 <div class="lyric-line">
@@ -138,7 +120,6 @@ image: /images/songs/isekaijoucho/single-1856150336.jpg
 [00:36.151]<ruby>髪<rt class="furi">かみ</rt><rt class="roma">kami</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>なでる<rt class="roma">naderu</rt></ruby><ruby>風<rt class="furi">かぜ</rt><rt class="roma">kaze</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>運<rt class="furi">はこ</rt><rt class="roma">hako</rt></ruby><ruby>ぶ<rt class="roma">bu</rt></ruby><ruby>土<rt class="furi">ど</rt><rt class="roma">do</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>匂<rt class="furi">にお</rt><rt class="roma">nio</rt></ruby><ruby>い<rt class="roma">i</rt></ruby>
 </div>
 <div class="cn-lyric">[00:36.151]轻抚发丝的微风带来泥土气息</div>
-<div class="cn-lyric">轻抚发丝的微风带来泥土气息</div>
 </div>
 
 <div class="lyric-line">
@@ -146,7 +127,6 @@ image: /images/songs/isekaijoucho/single-1856150336.jpg
 [00:42.051]<ruby>雨<rt class="furi">あめ</rt><rt class="roma">ame</rt></ruby><ruby>模様<rt class="furi">もよう</rt><rt class="roma">moyou</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby><ruby>大切<rt class="furi">たいせつ</rt><rt class="roma">taisetsu</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>うるおい<rt class="roma">uruoi</rt></ruby>
 </div>
 <div class="cn-lyric">[00:42.051]即使如雨般的心情也是珍贵的润泽</div>
-<div class="cn-lyric">即使如雨般的心情也是珍贵的润泽</div>
 </div>
 
 <div class="lyric-line">
@@ -160,7 +140,6 @@ image: /images/songs/isekaijoucho/single-1856150336.jpg
 [00:49.650]<ruby>奏<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ゆく<rt class="roma">yuku</rt></ruby>
 </div>
 <div class="cn-lyric">[00:49.650]奏响开来</div>
-<div class="cn-lyric">奏响开来</div>
 </div>
 
 <div class="lyric-line">
@@ -168,7 +147,6 @@ image: /images/songs/isekaijoucho/single-1856150336.jpg
 [00:51.935]<ruby>ふたつ<rt class="roma">futatsu</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>一瞬<rt class="furi">いっしゅん</rt><rt class="roma">isshun</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>奇跡<rt class="furi">きせき</rt><rt class="roma">kiseki</rt></ruby>
 </div>
 <div class="cn-lyric">[00:51.935]独一无二的瞬间是奇迹</div>
-<div class="cn-lyric">独一无二的瞬间是奇迹</div>
 </div>
 
 <div class="lyric-line">
@@ -176,7 +154,6 @@ image: /images/songs/isekaijoucho/single-1856150336.jpg
 [00:55.835]<ruby>繋<rt class="furi">つな</rt><rt class="roma">tsuna</rt></ruby><ruby>がってる<rt class="roma">gatteru</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>、<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="cn-lyric">[00:55.835]彼此相连，无论你我</div>
-<div class="cn-lyric">彼此相连，无论你我</div>
 </div>
 
 <div class="lyric-line">
@@ -184,7 +161,6 @@ image: /images/songs/isekaijoucho/single-1856150336.jpg
 [00:59.784]<ruby>一緒<rt class="furi">いっしょ</rt><rt class="roma">issho</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>描<rt class="furi">えが</rt><rt class="roma">ega</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>未来<rt class="furi">みらい</rt><rt class="roma">mirai</rt></ruby><ruby>図<rt class="furi">ず</rt><rt class="roma">zu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>！
 </div>
 <div class="cn-lyric">[00:59.784]共同描绘的未来蓝图！</div>
-<div class="cn-lyric">共同描绘的未来蓝图！</div>
 </div>
 
 <div class="lyric-line">

@@ -38,10 +38,6 @@ image: /images/albums/kaf/kyoso.jpg
 <ruby>あなた<rt class="roma">anata</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>あいし<rt class="roma">aishi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby> <ruby>いま<rt class="roma">ima</rt></ruby><ruby>すぐ<rt class="roma">sugu</rt></ruby><ruby>あい<rt class="roma">ai</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
 <div class="trans-lyric">I love you, I want to see you right now</div>
-<div class="trans-lyric">I love you, I want to see you right now</div>
-<div class="trans-lyric">I love you, I want to see you right now</div>
-<div class="trans-lyric">I love you, I want to see you right now</div>
-<div class="trans-lyric">I love you, I want to see you right now</div>
 </div>
 
 <div class="lyric-line">
@@ -69,7 +65,6 @@ Face Washing Brush My teeth
 <div class="jp-lyric">
 Ｉwant more more sleep
 </div>
-<div class="trans-lyric">I want more more sleep</div>
 <div class="trans-lyric">I want more more sleep</div>
 </div>
 

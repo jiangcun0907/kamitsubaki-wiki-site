@@ -76,7 +76,6 @@ image: /images/albums/kaf/kansoku.jpg
 [00:44.36]<ruby>やる<rt class="roma">yaru</rt></ruby><ruby>しか<rt class="roma">shika</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">We have no choice but to do it</div>
-<div class="trans-lyric">We have no choice but to do it</div>
 </div>
 
 <br />
@@ -85,7 +84,6 @@ image: /images/albums/kaf/kansoku.jpg
 <div class="jp-lyric">
 [00:46.63]<ruby>もしも<rt class="roma">moshimo</rt></ruby>
 </div>
-<div class="trans-lyric">If</div>
 <div class="trans-lyric">If</div>
 </div>
 
@@ -121,7 +119,6 @@ image: /images/albums/kaf/kansoku.jpg
 <div class="jp-lyric">
 <ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">We are here</div>
 <div class="trans-lyric">We are here</div>
 </div>
 

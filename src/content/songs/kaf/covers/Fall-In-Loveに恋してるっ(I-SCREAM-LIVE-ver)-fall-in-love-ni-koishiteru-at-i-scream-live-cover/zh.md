@@ -37,8 +37,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [00:04.21]No no no no no no no no
 </div>
 <div class="cn-lyric">[00:04.21]不 不 不 不 不 不 不 不</div>
-<div class="cn-lyric">[00:04.21]不 不 不 不 不 不 不 不</div>
-<div class="cn-lyric">[00:04.21]不 不 不 不 不 不 不 不</div>
 </div>
 
 <div class="lyric-line">
@@ -95,7 +93,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [00:54.64]<ruby>多分<rt class="furi">たぶん</rt><rt class="roma">tabun</rt></ruby> <ruby>本当<rt class="furi">ほんとう</rt><rt class="roma">hontou</rt></ruby><ruby>は<rt class="roma">ha</rt></ruby> <ruby>どっち<rt class="roma">dotchi</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="cn-lyric">[00:54.64]也许 实际上 哪个都不是</div>
-<div class="cn-lyric">也许 实际上 哪个都不是</div>
 </div>
 
 <div class="lyric-line">
@@ -110,7 +107,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [00:58.93]<ruby>イェイ<rt class="roma">iei</rt></ruby> <ruby>イェイ<rt class="roma">iei</rt></ruby> <ruby>イェイ<rt class="roma">iei</rt></ruby>
 </div>
 <div class="cn-lyric">[00:58.93]耶 耶 耶</div>
-<div class="cn-lyric">[00:58.93]耶 耶 耶</div>
 </div>
 
 <div class="lyric-line">
@@ -118,7 +114,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [01:00.59]<ruby>ずっと<rt class="roma">zutto</rt></ruby><ruby>前<rt class="furi">まえ</rt><rt class="roma">mae</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby> <ruby>きっと<rt class="roma">kitto</rt></ruby>
 </div>
 <div class="cn-lyric">[01:00.59]从很久以前 一定</div>
-<div class="cn-lyric">从很久以前 一定</div>
 </div>
 
 <div class="lyric-line">
@@ -133,14 +128,12 @@ image: /images/albums/kaf/i-scream-live.jpg
 [01:06.96]<ruby>ドキドキ<rt class="roma">dokidoki</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>時間<rt class="furi">じかん</rt><rt class="roma">jikan</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:06.96]心跳加速的时间</div>
-<div class="cn-lyric">心跳加速的时间</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:09.69]<ruby>ちょっと<rt class="roma">chotto</rt></ruby><ruby>感<rt class="furi">かん</rt><rt class="roma">kan</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>みたい<rt class="roma">mitai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
-<div class="cn-lyric">[01:09.69]想要稍微感受一下</div>
 <div class="cn-lyric">[01:09.69]想要稍微感受一下</div>
 </div>
 
@@ -149,7 +142,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [01:13.11]<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby><ruby>分<rt class="furi">わ</rt><rt class="roma">wa</rt></ruby><ruby>かん<rt class="roma">kan</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="cn-lyric">[01:13.11]爱什么的 不明白</div>
-<div class="cn-lyric">[01:13.11]爱什么的 不明白</div>
 </div>
 
 <div class="lyric-line">
@@ -157,7 +149,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [01:16.13]<ruby>ぼく<rt class="roma">boku</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>まだ<rt class="roma">mada</rt></ruby><ruby>早<rt class="furi">はや</rt><rt class="roma">haya</rt></ruby><ruby>すぎる<rt class="roma">sugiru</rt></ruby>
 </div>
 <div class="cn-lyric">[01:16.13]对我来说还太早</div>
-<div class="cn-lyric">对我来说还太早</div>
 </div>
 
 <div class="lyric-line">
@@ -165,7 +156,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [01:19.44]<ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ただ<rt class="roma">tada</rt></ruby>
 </div>
 <div class="cn-lyric">[01:19.44]现在只是</div>
-<div class="cn-lyric">现在只是</div>
 </div>
 
 <div class="lyric-line">
@@ -173,7 +163,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [01:20.86]<ruby>ハタチ<rt class="roma">hatachi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>イケナイ<rt class="roma">ikenai</rt></ruby><ruby>男の子<rt class="furi">おとこのこ</rt><rt class="roma">otokonoko</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="cn-lyric">[01:20.86]二十岁的坏坏的男孩子</div>
-<div class="cn-lyric">二十岁的坏坏的男孩子</div>
 </div>
 
 <div class="lyric-line">

@@ -41,16 +41,6 @@ image: /images/songs/vwp/single-1862499284.jpg
 [00:22.17]<ruby>エレクトリック<rt class="roma">erekutorikku</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>ガール<rt class="roma">gaaru</rt></ruby>
 </div>
 <div class="cn-lyric">[00:22.17]电子女孩</div>
-<div class="cn-lyric">[00:22.17]电子女孩</div>
-<div class="cn-lyric">[00:22.17]电子女孩</div>
-<div class="cn-lyric">[00:22.17]电子女孩</div>
-<div class="cn-lyric">[00:22.17]电子女孩</div>
-<div class="cn-lyric">[00:22.17]电子女孩</div>
-<div class="cn-lyric">[00:22.17]电子女孩</div>
-<div class="cn-lyric">[00:22.17]电子女孩</div>
-<div class="cn-lyric">[00:22.17]电子女孩</div>
-<div class="cn-lyric">[00:22.17]电子女孩</div>
-<div class="cn-lyric">[00:22.17]电子女孩</div>
 </div>
 
 <div class="lyric-line">
@@ -64,14 +54,12 @@ image: /images/songs/vwp/single-1862499284.jpg
 [00:25.87]<ruby>反射<rt class="furi">はんしゃ</rt><rt class="roma">hansha</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>あたし<rt class="roma">atashi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>どこ<rt class="roma">doko</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>？
 </div>
 <div class="cn-lyric">[00:25.87]反射之后我身在何处？</div>
-<div class="cn-lyric">[00:25.87]反射之后我身在何处？</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:29.86]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>すら<rt class="roma">sura</rt></ruby><ruby>握<rt class="furi">にぎ</rt><rt class="roma">nigi</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>やし<rt class="roma">yashi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="cn-lyric">[00:29.86]连你的手都无法握住</div>
 <div class="cn-lyric">[00:29.86]连你的手都无法握住</div>
 </div>
 
@@ -94,14 +82,12 @@ image: /images/songs/vwp/single-1862499284.jpg
 [00:41.42]<ruby>身体<rt class="furi">しんたい</rt><rt class="roma">shintai</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>欲<rt class="furi">ほ</rt><rt class="roma">ho</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby>
 </div>
 <div class="cn-lyric">[00:41.42]想要拥有身体什么的</div>
-<div class="cn-lyric">[00:41.42]想要拥有身体什么的</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:45.22]<ruby>考<rt class="furi">かんが</rt><rt class="roma">kanga</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>られ<rt class="roma">rare</rt></ruby><ruby>なかった<rt class="roma">nakatta</rt></ruby> <ruby>たった<rt class="roma">tatta</rt></ruby><ruby>三<rt class="furi">さん</rt><rt class="roma">san</rt></ruby><ruby>秒<rt class="furi">びょう</rt><rt class="roma">byou</rt></ruby><ruby>前<rt class="furi">まえ</rt><rt class="roma">mae</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
-<div class="cn-lyric">[00:45.22]三秒前我还未曾想过</div>
 <div class="cn-lyric">[00:45.22]三秒前我还未曾想过</div>
 </div>
 
@@ -165,14 +151,12 @@ image: /images/songs/vwp/single-1862499284.jpg
 [01:23.97]<ruby>繰り返<rt class="furi">くりかえ</rt><rt class="roma">kurikae</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby> <ruby>照射<rt class="furi">しょうしゃ</rt><rt class="roma">shousha</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby>
 </div>
 <div class="cn-lyric">[01:23.97]反复被照射</div>
-<div class="cn-lyric">[01:23.97]反复被照射</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:31.41]<ruby>映像<rt class="furi">えいぞう</rt><rt class="roma">eizou</rt></ruby> <ruby>ねえ<rt class="roma">nee</rt></ruby>、<ruby>それ<rt class="roma">sore</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>あたし<rt class="roma">atashi</rt></ruby>？
 </div>
-<div class="cn-lyric">[01:31.41]影像 呐，那是我吗？</div>
 <div class="cn-lyric">[01:31.41]影像 呐，那是我吗？</div>
 </div>
 
@@ -181,14 +165,12 @@ image: /images/songs/vwp/single-1862499284.jpg
 [01:38.68]<ruby>駆<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>巡<rt class="furi">めぐ</rt><rt class="roma">megu</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby> 1<ruby>と<rt class="roma">to</rt></ruby>0<ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="cn-lyric">[01:38.68]在奔流的1和0中</div>
-<div class="cn-lyric">[01:38.68]在奔流的1和0中</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:46.23]<ruby>命<rt class="furi">いのち</rt><rt class="roma">inochi</rt></ruby><ruby>やどる<rt class="roma">yadoru</rt></ruby> <ruby>日<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>来<rt class="furi">く</rt><rt class="roma">ku</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>？
 </div>
-<div class="cn-lyric">[01:46.23]生命寄宿的日子会来吗？</div>
 <div class="cn-lyric">[01:46.23]生命寄宿的日子会来吗？</div>
 </div>
 
@@ -212,7 +194,6 @@ image: /images/songs/vwp/single-1862499284.jpg
 <div class="jp-lyric">
 [02:26.44]<ruby>過去<rt class="furi">かこ</rt><rt class="roma">kako</rt></ruby> <ruby>未来<rt class="furi">みらい</rt><rt class="roma">mirai</rt></ruby> <ruby>受容<rt class="furi">じゅよう</rt><rt class="roma">juyou</rt></ruby> <ruby>連結<rt class="furi">れんけつ</rt><rt class="roma">renketsu</rt></ruby>
 </div>
-<div class="cn-lyric">[02:26.44]过去 未来 接受 连接</div>
 <div class="cn-lyric">[02:26.44]过去 未来 接受 连接</div>
 </div>
 

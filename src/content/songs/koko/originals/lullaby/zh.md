@@ -36,16 +36,12 @@ image: /images/albums/koko/prayer-2.jpg
 <ruby>ララバイラーラバイ<rt class="roma">rarabairaarabai</rt></ruby>
 </div>
 <div class="cn-lyric">摇篮曲 摇篮曲</div>
-<div class="cn-lyric">摇篮曲 摇篮曲</div>
-<div class="cn-lyric">摇篮曲 摇篮曲</div>
-<div class="cn-lyric">摇篮曲 摇篮曲</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>お<rt class="roma">o</rt></ruby><ruby>休<rt class="furi">やす</rt><rt class="roma">yasu</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>ラーラバイ<rt class="roma">raarabai</rt></ruby>
 </div>
-<div class="cn-lyric">晚安 摇篮曲</div>
 <div class="cn-lyric">晚安 摇篮曲</div>
 </div>
 
@@ -66,12 +62,6 @@ image: /images/albums/koko/prayer-2.jpg
 <div class="jp-lyric">
 (Get on it)
 </div>
-<div class="cn-lyric">(Get on it)</div>
-<div class="cn-lyric">(Get on it)</div>
-<div class="cn-lyric">(Get on it)</div>
-<div class="cn-lyric">(Get on it)</div>
-<div class="cn-lyric">(Get on it)</div>
-<div class="cn-lyric">(Get on it)</div>
 <div class="cn-lyric">(Get on it)</div>
 </div>
 
@@ -97,8 +87,6 @@ image: /images/albums/koko/prayer-2.jpg
 <div class="jp-lyric">
 (yeah!)
 </div>
-<div class="cn-lyric">(yeah!)</div>
-<div class="cn-lyric">(yeah!)</div>
 <div class="cn-lyric">(yeah!)</div>
 </div>
 

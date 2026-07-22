@@ -102,8 +102,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [01:15.66]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>どう<rt class="roma">dou</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ちゃった<rt class="roma">chatta</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だろ<rt class="roma">daro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="trans-lyric">What's happened to me?</div>
-<div class="trans-lyric">What's happened to me?</div>
-<div class="trans-lyric">What's happened to me?</div>
 </div>
 
 <br />

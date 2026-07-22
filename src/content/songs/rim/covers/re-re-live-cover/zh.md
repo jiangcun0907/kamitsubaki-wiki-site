@@ -36,16 +36,12 @@ image: /images/albums/rim/chocolate-live-4.jpg
 Har re re re re, ama sede dev re, dev re
 </div>
 <div class="cn-lyric">哈瑞瑞瑞瑞，我坐在神旁，神旁</div>
-<div class="cn-lyric">哈瑞瑞瑞瑞，我坐在神旁，神旁</div>
-<div class="cn-lyric">哈瑞瑞瑞瑞，我坐在神旁，神旁</div>
-<div class="cn-lyric">哈瑞瑞瑞瑞，我坐在神旁，神旁</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Yeman chada baner pakhee maner anande re.
 </div>
-<div class="cn-lyric">就像林中鸟儿心中的喜悦。</div>
 <div class="cn-lyric">就像林中鸟儿心中的喜悦。</div>
 </div>
 
@@ -61,7 +57,6 @@ Har re re re re, ama sede dev re, dev re
 <div class="jp-lyric">
 Ghanoshraabondhaara jemon bnaadhonhaara
 </div>
-<div class="cn-lyric">如乌云密布的束缚之绳</div>
 <div class="cn-lyric">如乌云密布的束缚之绳</div>
 </div>
 
@@ -85,7 +80,6 @@ Baadal -batus yeman dakat akash lute fere.
 Har re re re re, ama rakhbe dhare ke re
 </div>
 <div class="cn-lyric">哈瑞瑞瑞瑞，谁会抓住我？</div>
-<div class="cn-lyric">哈瑞瑞瑞瑞，谁会抓住我？</div>
 </div>
 
 <div class="lyric-line">
@@ -107,7 +101,6 @@ Har re re re re, ama rakhbe dhare ke re
 <div class="jp-lyric">
 Bajro jemon bege gorje jhorer meghe
 </div>
-<div class="cn-lyric">如雷霆在暴风云中疾驰轰鸣</div>
 <div class="cn-lyric">如雷霆在暴风云中疾驰轰鸣</div>
 </div>
 

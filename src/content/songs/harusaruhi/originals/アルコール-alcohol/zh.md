@@ -50,7 +50,6 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 [00:04.31]yeah, yeah, yeah
 </div>
 <div class="cn-lyric">[00:04.31]yeah, yeah, yeah</div>
-<div class="cn-lyric">[00:04.31]yeah, yeah, yeah</div>
 </div>
 
 <div class="lyric-line">
@@ -106,8 +105,6 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 [00:21.68]Drunk Drunk Drunk Drunk
 </div>
 <div class="cn-lyric">[00:21.68]Drunk Drunk Drunk Drunk</div>
-<div class="cn-lyric">[00:21.68]Drunk Drunk Drunk Drunk</div>
-<div class="cn-lyric">[00:21.68]Drunk Drunk Drunk Drunk</div>
 </div>
 
 <div class="lyric-line">
@@ -148,7 +145,6 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 <div class="jp-lyric">
 [00:31.79]yeah
 </div>
-<div class="cn-lyric">[00:31.79]yeah</div>
 <div class="cn-lyric">[00:31.79]yeah</div>
 </div>
 

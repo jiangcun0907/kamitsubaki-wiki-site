@@ -134,7 +134,6 @@ image: /images/albums/kaf/shinai.jpg
 [01:25.08]<ruby>無垢<rt class="furi">むく</rt><rt class="roma">muku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>輝<rt class="furi">かがや</rt><rt class="roma">kagaya</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby>
 </div>
 <div class="trans-lyric">The radiance of innocence,</div>
-<div class="trans-lyric">The radiance of innocence,</div>
 </div>
 
 <div class="lyric-line">

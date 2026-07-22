@@ -52,14 +52,12 @@ image: /images/albums/rim/chocolate-live.jpg
 <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>、<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>、<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>、<ruby>飽<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby>
 </div>
 <div class="trans-lyric">You too, you too, you too, are bored, right?</div>
-<div class="trans-lyric">You too, you too, you too, are bored, right?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>きみ<rt class="roma">kimi</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>苦<rt class="furi">くる</rt><rt class="roma">kuru</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>とか<rt class="roma">toka</rt></ruby><ruby>思<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>欲<rt class="furi">ほ</rt><rt class="roma">ho</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby>
 </div>
-<div class="trans-lyric">I don't want you to think that only you are suffering</div>
 <div class="trans-lyric">I don't want you to think that only you are suffering</div>
 </div>
 
@@ -68,14 +66,12 @@ image: /images/albums/rim/chocolate-live.jpg
 <ruby>離<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby> <ruby>話<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">I won't let go, I won't speak</div>
-<div class="trans-lyric">I won't let go, I won't speak</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>もう<rt class="roma">mou</rt></ruby> <ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby>
 </div>
-<div class="trans-lyric">Already, about you and all that,</div>
 <div class="trans-lyric">Already, about you and all that,</div>
 </div>
 
@@ -84,14 +80,12 @@ image: /images/albums/rim/chocolate-live.jpg
 <ruby>許<rt class="furi">ゆる</rt><rt class="roma">yuru</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>？
 </div>
 <div class="trans-lyric">Can't forgive?</div>
-<div class="trans-lyric">Can't forgive?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 「<ruby>許<rt class="furi">ゆる</rt><rt class="roma">yuru</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>」<ruby>って<rt class="roma">tte</rt></ruby>
 </div>
-<div class="trans-lyric">Saying "I can't forgive"</div>
 <div class="trans-lyric">Saying "I can't forgive"</div>
 </div>
 

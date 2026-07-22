@@ -112,7 +112,6 @@ image: /images/albums/koko/arare-live.jpg
 [00:55.63]<ruby>さあ<rt class="roma">saa</rt></ruby><ruby>何処<rt class="furi">どこ</rt><rt class="roma">doko</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>こ<rt class="roma">ko</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
 </div>
 <div class="cn-lyric">[00:55.63]来吧 无论去哪里都行吧</div>
-<div class="cn-lyric">[00:55.63]来吧 无论去哪里都行吧</div>
 </div>
 
 <div class="lyric-line">

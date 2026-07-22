@@ -78,14 +78,12 @@ image: /images/songs/rim/single-1689357731.jpg
 [00:43.35]<ruby>チクタクボーイ<rt class="roma">chikutakuboui</rt></ruby> <ruby>静<rt class="furi">しず</rt><rt class="roma">shizu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="cn-lyric">[00:43.35]滴答男孩 静谧之夜</div>
-<div class="cn-lyric">[00:43.35]滴答男孩 静谧之夜</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:46.07]<ruby>チクタクボーイ<rt class="roma">chikutakuboui</rt></ruby> <ruby>乗っ取<rt class="furi">のっと</rt><rt class="roma">notto</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
-<div class="cn-lyric">[00:46.07]滴答男孩 夺走深夜</div>
 <div class="cn-lyric">[00:46.07]滴答男孩 夺走深夜</div>
 </div>
 
@@ -94,14 +92,12 @@ image: /images/songs/rim/single-1689357731.jpg
 [00:48.75]<ruby>天変地異<rt class="furi">てんぺんちい</rt><rt class="roma">tenpenchii</rt></ruby><ruby>と<rt class="roma">to</rt></ruby> <ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>終<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>わり<rt class="roma">wari</rt></ruby>
 </div>
 <div class="cn-lyric">[00:48.75]天灾地变 世界末日</div>
-<div class="cn-lyric">[00:48.75]天灾地变 世界末日</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:51.47]<ruby>止<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>める<rt class="roma">meru</rt></ruby><ruby>スイッチ<rt class="roma">suitchi</rt></ruby> <ruby>ピンポン<rt class="roma">pinpon</rt></ruby><ruby>ダッシュ<rt class="roma">dasshu</rt></ruby>
 </div>
-<div class="cn-lyric">[00:51.47]停止开关 按门铃逃</div>
 <div class="cn-lyric">[00:51.47]停止开关 按门铃逃</div>
 </div>
 

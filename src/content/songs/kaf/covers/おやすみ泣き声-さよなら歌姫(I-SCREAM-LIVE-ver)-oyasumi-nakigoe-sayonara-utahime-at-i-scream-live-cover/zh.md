@@ -69,16 +69,12 @@ image: /images/albums/kaf/i-scream-live.jpg
 <ruby>歌声<rt class="furi">うたごえ</rt><rt class="roma">utagoe</rt></ruby> <ruby>歌声<rt class="furi">うたごえ</rt><rt class="roma">utagoe</rt></ruby> <ruby>でも<rt class="roma">demo</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>泣<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
 <div class="cn-lyric">歌声 歌声 可是你在哭泣呢</div>
-<div class="cn-lyric">歌声 歌声 可是你在哭泣呢</div>
-<div class="cn-lyric">歌声 歌声 可是你在哭泣呢</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>泣き声<rt class="furi">なきごえ</rt><rt class="roma">nakigoe</rt></ruby> <ruby>泣き声<rt class="furi">なきごえ</rt><rt class="roma">nakigoe</rt></ruby> <ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>気<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>づけ<rt class="roma">zuke</rt></ruby><ruby>なかった<rt class="roma">nakatta</rt></ruby>
 </div>
-<div class="cn-lyric">哭声 哭声 我未能察觉</div>
-<div class="cn-lyric">哭声 哭声 我未能察觉</div>
 <div class="cn-lyric">哭声 哭声 我未能察觉</div>
 </div>
 

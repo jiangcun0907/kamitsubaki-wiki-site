@@ -51,7 +51,7 @@ It's not like I don't have good reason
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:52.05]To put you out season after season
+To put you out season after season
 </div>
 </div>
 
@@ -63,7 +63,7 @@ And now oh-oh you know
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:52.05]Whoa those years are gone
+Whoa those years are gone
 </div>
 </div>
 
@@ -129,7 +129,7 @@ Didn't I see what was lost or just who was paying your cost?
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:17.30]So let's lay this on the line
+So let's lay this on the line
 </div>
 </div>
 

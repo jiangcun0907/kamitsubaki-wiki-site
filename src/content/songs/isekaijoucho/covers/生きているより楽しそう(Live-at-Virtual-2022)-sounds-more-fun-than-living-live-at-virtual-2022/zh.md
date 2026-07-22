@@ -37,7 +37,6 @@ image: /images/albums/rim/singularity-live.jpg
 <ruby>きっと<rt class="roma">kitto</rt></ruby><ruby>想像<rt class="furi">そうぞう</rt><rt class="roma">souzou</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby><ruby>より<rt class="roma">yori</rt></ruby>
 </div>
 <div class="cn-lyric">一定比想象中更加</div>
-<div class="cn-lyric">一定比想象中更加</div>
 </div>
 
 <div class="lyric-line">
@@ -115,16 +114,12 @@ Oh~<ruby>ほら<rt class="roma">hora</rt></ruby><ruby>ずっと<rt class="roma">
 <ruby>ガールズトーク<rt class="roma">gaaruzutouku</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>楽<rt class="furi">たの</rt><rt class="roma">tano</rt></ruby><ruby>しむ<rt class="roma">shimu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="cn-lyric">享受女生之间的谈话</div>
-<div class="cn-lyric">享受女生之间的谈话</div>
-<div class="cn-lyric">享受女生之间的谈话</div>
-<div class="cn-lyric">享受女生之间的谈话</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>彼<rt class="furi">かれ</rt><rt class="roma">kare</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>話<rt class="furi">はなし</rt><rt class="roma">hanashi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>笑<rt class="furi">わら</rt><rt class="roma">wara</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>くれる<rt class="roma">kureru</rt></ruby>
 </div>
-<div class="cn-lyric">连不能对男友说的话你也会笑着听</div>
 <div class="cn-lyric">连不能对男友说的话你也会笑着听</div>
 </div>
 
@@ -133,7 +128,6 @@ Oh~<ruby>ほら<rt class="roma">hora</rt></ruby><ruby>ずっと<rt class="roma">
 <ruby>あなた<rt class="roma">anata</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>本当<rt class="furi">ほんとう</rt><rt class="roma">hontou</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>大好<rt class="furi">だいす</rt><rt class="roma">daisu</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby>
 </div>
 <div class="cn-lyric">我真的好喜欢你</div>
-<div class="cn-lyric">我真的好喜欢你</div>
 </div>
 
 <div class="lyric-line">
@@ -141,16 +135,12 @@ Oh~<ruby>ほら<rt class="roma">hora</rt></ruby><ruby>ずっと<rt class="roma">
 <ruby>いつも<rt class="roma">itsumo</rt></ruby><ruby>ありがとう<rt class="roma">arigatou</rt></ruby>
 </div>
 <div class="cn-lyric">一直都谢谢你</div>
-<div class="cn-lyric">一直都谢谢你</div>
-<div class="cn-lyric">一直都谢谢你</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Thank you for every thing my dearest friend
 </div>
-<div class="cn-lyric">Thank you for every thing my dearest friend</div>
-<div class="cn-lyric">Thank you for every thing my dearest friend</div>
 <div class="cn-lyric">Thank you for every thing my dearest friend</div>
 </div>
 

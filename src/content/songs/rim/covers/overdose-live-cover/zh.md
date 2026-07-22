@@ -86,16 +86,16 @@ I can feel you now like a virus in my veins
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:33.85]I want you more and more
+I want you more and more
 </div>
-<div class="cn-lyric">[01:33.85]我越来越渴望你</div>
+<div class="cn-lyric">我越来越渴望你</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:29.43]Jesus you're my overdose
+Jesus you're my overdose
 </div>
-<div class="cn-lyric">[00:29.43]耶稣啊，你是我的过剂量</div>
+<div class="cn-lyric">耶稣啊，你是我的过剂量</div>
 </div>
 
 <br />

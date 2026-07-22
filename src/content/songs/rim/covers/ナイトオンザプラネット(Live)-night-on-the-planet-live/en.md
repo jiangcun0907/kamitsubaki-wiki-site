@@ -36,16 +36,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:23.06]<ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>しがみつい<rt class="roma">shigamitsui</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>朝<rt class="furi">あさ</rt><rt class="roma">asa</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>溶<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>かし<rt class="roma">kashi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">Clinging to the night, melting in the morning</div>
-<div class="trans-lyric">Clinging to the night, melting in the morning</div>
-<div class="trans-lyric">Clinging to the night, melting in the morning</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:27.75]<ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>引<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>きずって<rt class="roma">kizutte</rt></ruby> <ruby>それ<rt class="roma">sore</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>忘<rt class="furi">わす</rt><rt class="roma">wasu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">Dragging something along, forgetting that too</div>
-<div class="trans-lyric">Dragging something along, forgetting that too</div>
 <div class="trans-lyric">Dragging something along, forgetting that too</div>
 </div>
 
@@ -54,15 +50,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:33.39]<ruby>だけど<rt class="roma">dakedo</rt></ruby><ruby>まだ<rt class="roma">mada</rt></ruby><ruby>苦<rt class="furi">にが</rt><rt class="roma">niga</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>すごく<rt class="roma">sugoku</rt></ruby><ruby>苦<rt class="furi">にが</rt><rt class="roma">niga</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">But still bitter, so bitter</div>
-<div class="trans-lyric">But still bitter, so bitter</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:38.62]<ruby>結局<rt class="furi">けっきょく</rt><rt class="roma">kekkyoku</rt></ruby><ruby>こう<rt class="roma">kou</rt></ruby><ruby>やって<rt class="roma">yatte</rt></ruby><ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>待<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>ってる<rt class="roma">tteru</rt></ruby>
 </div>
-<div class="trans-lyric">In the end, waiting for something like this</div>
-<div class="trans-lyric">In the end, waiting for something like this</div>
 <div class="trans-lyric">In the end, waiting for something like this</div>
 </div>
 
@@ -73,7 +66,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:55.76]<ruby>ナイトオンザプラネット<rt class="roma">naitoonzapuranetto</rt></ruby><ruby>額縁<rt class="furi">がくぶち</rt><rt class="roma">gakubuchi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>いれ<rt class="roma">ire</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>ポスター<rt class="roma">posutaa</rt></ruby>
 </div>
 <div class="trans-lyric">Night on Earth, a poster framed</div>
-<div class="trans-lyric">Night on Earth, a poster framed</div>
 </div>
 
 <div class="lyric-line">
@@ -81,14 +73,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:58.47]<ruby>窓<rt class="furi">まど</rt><rt class="roma">mado</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>そば<rt class="roma">soba</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>花<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>となり<rt class="roma">tonari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>飾<rt class="furi">かざ</rt><rt class="roma">kaza</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="trans-lyric">Displayed next to the flower by the window</div>
-<div class="trans-lyric">Displayed next to the flower by the window</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:01.05]<ruby>吹き替<rt class="furi">ふきか</rt><rt class="roma">fukika</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>より<rt class="roma">yori</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>字幕<rt class="furi">じまく</rt><rt class="roma">jimaku</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>二<rt class="furi">に</rt><rt class="roma">ni</rt></ruby><ruby>人<rt class="furi">にん</rt><rt class="roma">nin</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>観<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>あの<rt class="roma">ano</rt></ruby><ruby>映画<rt class="furi">えいが</rt><rt class="roma">eiga</rt></ruby>
 </div>
-<div class="trans-lyric">That movie we watched together with subtitles, not dubbing</div>
 <div class="trans-lyric">That movie we watched together with subtitles, not dubbing</div>
 </div>
 

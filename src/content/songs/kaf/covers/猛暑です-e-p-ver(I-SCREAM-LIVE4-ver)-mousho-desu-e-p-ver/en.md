@@ -128,7 +128,6 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 [01:33.28]30<ruby>度<rt class="furi">ど</rt><rt class="roma">do</rt></ruby><ruby>超<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>たら<rt class="roma">tara</rt></ruby><ruby>もう<rt class="roma">mou</rt></ruby><ruby>猛暑<rt class="furi">もうしょ</rt><rt class="roma">mousho</rt></ruby><ruby>です<rt class="roma">desu</rt></ruby> <ruby>猛暑<rt class="furi">もうしょ</rt><rt class="roma">mousho</rt></ruby><ruby>です<rt class="roma">desu</rt></ruby>
 </div>
 <div class="trans-lyric">[01:33.28]If it exceeds 30 degrees, it's already extreme heat, extreme heat.</div>
-<div class="trans-lyric">If it exceeds 30 degrees, it's already extreme heat, extreme heat.</div>
 </div>
 
 <div class="lyric-line">
@@ -136,7 +135,6 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 [01:40.99]<ruby>ハッピーエンド<rt class="roma">happiiendo</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ドラマ<rt class="roma">dorama</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby> <ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby>
 </div>
 <div class="trans-lyric">[01:40.99]Happy endings are only in dramas, only in.</div>
-<div class="trans-lyric">Happy endings are only in dramas, only in.</div>
 </div>
 
 <div class="lyric-line">

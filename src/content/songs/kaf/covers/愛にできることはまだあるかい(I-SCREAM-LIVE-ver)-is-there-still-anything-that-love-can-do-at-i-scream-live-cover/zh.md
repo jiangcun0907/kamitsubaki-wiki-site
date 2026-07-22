@@ -37,10 +37,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [00:02.01]<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>できる<rt class="roma">dekiru</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>まだ<rt class="roma">mada</rt></ruby><ruby>ある<rt class="roma">aru</rt></ruby><ruby>かい<rt class="roma">kai</rt></ruby>
 </div>
 <div class="cn-lyric">[00:02.01]爱还能做些什么呢</div>
-<div class="cn-lyric">[00:02.01]爱还能做些什么呢</div>
-<div class="cn-lyric">[00:02.01]爱还能做些什么呢</div>
-<div class="cn-lyric">[00:02.01]爱还能做些什么呢</div>
-<div class="cn-lyric">[00:02.01]爱还能做些什么呢</div>
 </div>
 
 <br />
@@ -144,9 +140,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 <ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>できる<rt class="roma">dekiru</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>まだ<rt class="roma">mada</rt></ruby><ruby>ある<rt class="roma">aru</rt></ruby><ruby>かい<rt class="roma">kai</rt></ruby>
 </div>
 <div class="cn-lyric">我还能做些什么呢</div>
-<div class="cn-lyric">我还能做些什么呢</div>
-<div class="cn-lyric">我还能做些什么呢</div>
-<div class="cn-lyric">我还能做些什么呢</div>
 </div>
 
 <br />
@@ -156,14 +149,12 @@ image: /images/albums/kaf/i-scream-live.jpg
 <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>くれ<rt class="roma">kure</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>勇気<rt class="furi">ゆうき</rt><rt class="roma">yuuki</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="cn-lyric">因为是你给我的勇气</div>
-<div class="cn-lyric">因为是你给我的勇气</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ため<rt class="roma">tame</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>使<rt class="furi">つか</rt><rt class="roma">tsuka</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
-<div class="cn-lyric">想要为你而使用</div>
 <div class="cn-lyric">想要为你而使用</div>
 </div>
 
@@ -178,7 +169,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 <div class="jp-lyric">
 <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>なきゃ<rt class="roma">nakya</rt></ruby><ruby>意味<rt class="furi">いみ</rt><rt class="roma">imi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
-<div class="cn-lyric">如果不是你就没有意义</div>
 <div class="cn-lyric">如果不是你就没有意义</div>
 </div>
 

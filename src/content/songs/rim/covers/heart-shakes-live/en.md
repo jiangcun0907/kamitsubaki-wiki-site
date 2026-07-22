@@ -36,7 +36,6 @@ Heart Shakes (Live) appears on CHOCOLATE LIVE3 or a related official release. En
 [00:14.05]Oh oh oh
 </div>
 <div class="trans-lyric">Oh oh oh</div>
-<div class="trans-lyric">Oh oh oh</div>
 </div>
 
 <div class="lyric-line">
@@ -154,7 +153,6 @@ Oh oh oh
 [00:58.42]Ain't nothing is better <ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>いら<rt class="roma">ira</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">Ain't nothing is better, I don't need anything</div>
-<div class="trans-lyric">Ain't nothing is better, I don't need anything</div>
 </div>
 
 <br />
@@ -163,7 +161,6 @@ Oh oh oh
 <div class="jp-lyric">
 [00:58.42]OH
 </div>
-<div class="trans-lyric">OH</div>
 <div class="trans-lyric">OH</div>
 </div>
 
@@ -174,9 +171,6 @@ Oh oh oh
 [01:02.48]I'm so into you
 </div>
 <div class="trans-lyric">I'm so into you</div>
-<div class="trans-lyric">I'm so into you</div>
-<div class="trans-lyric">I'm so into you</div>
-<div class="trans-lyric">I'm so into you</div>
 </div>
 
 <div class="lyric-line">
@@ -184,22 +178,12 @@ Oh oh oh
 [01:04.52]Huhuhuhu
 </div>
 <div class="trans-lyric">Huhuhuhu</div>
-<div class="trans-lyric">Huhuhuhu</div>
-<div class="trans-lyric">Huhuhuhu</div>
-<div class="trans-lyric">Huhuhuhu</div>
-<div class="trans-lyric">Huhuhuhu</div>
-<div class="trans-lyric">Huhuhuhu</div>
-<div class="trans-lyric">Huhuhuhu</div>
-<div class="trans-lyric">Huhuhuhu</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:06.42]<ruby>ハート<rt class="roma">haato</rt></ruby><ruby>揺<rt class="furi">ゆ</rt><rt class="roma">yu</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby>
 </div>
-<div class="trans-lyric">My heart wavers</div>
-<div class="trans-lyric">My heart wavers</div>
-<div class="trans-lyric">My heart wavers</div>
 <div class="trans-lyric">My heart wavers</div>
 </div>
 
@@ -214,14 +198,12 @@ Huhuhuhu
 [01:10.59]<ruby>隣<rt class="furi">となり</rt><rt class="roma">tonari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たら<rt class="roma">tara</rt></ruby><ruby>幸<rt class="furi">しあわ</rt><rt class="roma">shiawa</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby>
 </div>
 <div class="trans-lyric">I'm happy when I'm next to you</div>
-<div class="trans-lyric">I'm happy when I'm next to you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:14.41]<ruby>だけど<rt class="roma">dakedo</rt></ruby><ruby>いつ<rt class="roma">itsu</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby>、<ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>、<ruby>くれ<rt class="roma">kure</rt></ruby>、<ruby>る<rt class="roma">ru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>？
 </div>
-<div class="trans-lyric">But how long will you stay with me?</div>
 <div class="trans-lyric">But how long will you stay with me?</div>
 </div>
 
@@ -256,14 +238,12 @@ Huhuhuhu
 [01:26.12]<ruby>傷<rt class="furi">きず</rt><rt class="roma">kizu</rt></ruby><ruby>つく<rt class="roma">tsuku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>怖<rt class="furi">こわ</rt><rt class="roma">kowa</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby>
 </div>
 <div class="trans-lyric">I'm just scared of getting hurt</div>
-<div class="trans-lyric">I'm just scared of getting hurt</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:30.12]<ruby>だから<rt class="roma">dakara</rt></ruby><ruby>遠<rt class="furi">とお</rt><rt class="roma">too</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>待<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>ってる<rt class="roma">tteru</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby>
 </div>
-<div class="trans-lyric">So I'm waiting from a distance</div>
 <div class="trans-lyric">So I'm waiting from a distance</div>
 </div>
 

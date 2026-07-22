@@ -36,7 +36,6 @@ image: /images/albums/rim/imagine.jpg
 [00:09.26]<ruby>くだらない<rt class="roma">kudaranai</rt></ruby><ruby>想像<rt class="furi">そうぞう</rt><rt class="roma">souzou</rt></ruby><ruby>ばっか<rt class="roma">bakka</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby> <ruby>毎日<rt class="furi">まいにち</rt><rt class="roma">mainichi</rt></ruby>
 </div>
 <div class="trans-lyric">[00:09.26]Just useless fantasies, every day</div>
-<div class="trans-lyric">Just useless fantasies, every day</div>
 </div>
 
 <div class="lyric-line">
@@ -44,7 +43,6 @@ image: /images/albums/rim/imagine.jpg
 [00:14.29]<ruby>俺<rt class="furi">おれ</rt><rt class="roma">ore</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>人<rt class="furi">ひと</rt><rt class="roma">hito</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>馬鹿<rt class="furi">ばか</rt><rt class="roma">baka</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby><ruby>指<rt class="furi">ゆび</rt><rt class="roma">yubi</rt></ruby><ruby>さす<rt class="roma">sasu</rt></ruby>
 </div>
 <div class="trans-lyric">[00:14.29]People point at me, calling me a fool</div>
-<div class="trans-lyric">People point at me, calling me a fool</div>
 </div>
 
 <div class="lyric-line">
@@ -52,7 +50,6 @@ image: /images/albums/rim/imagine.jpg
 [00:19.08]<ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>より<rt class="roma">yori</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>求<rt class="furi">もと</rt><rt class="roma">moto</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby>
 </div>
 <div class="trans-lyric">[00:19.08]I want to chase my dreams more than anyone</div>
-<div class="trans-lyric">I want to chase my dreams more than anyone</div>
 </div>
 
 <div class="lyric-line">
@@ -60,7 +57,6 @@ image: /images/albums/rim/imagine.jpg
 [00:23.80]<ruby>少<rt class="furi">すこ</rt><rt class="roma">suko</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>傷<rt class="furi">きず</rt><rt class="roma">kizu</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>つく<rt class="roma">tsuku</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby><ruby>大丈夫<rt class="furi">だいじょうぶ</rt><rt class="roma">daijoubu</rt></ruby>
 </div>
 <div class="trans-lyric">[00:23.80]A little hurt, but it's alright</div>
-<div class="trans-lyric">A little hurt, but it's alright</div>
 </div>
 
 <div class="lyric-line">
@@ -77,7 +73,6 @@ image: /images/albums/rim/imagine.jpg
 [00:38.26]<ruby>どう<rt class="roma">dou</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby> <ruby>ベイベー<rt class="roma">beibee</rt></ruby> <ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ば<rt class="roma">ba</rt></ruby>
 </div>
 <div class="trans-lyric">It doesn't matter, baby, when I sing</div>
-<div class="trans-lyric">It doesn't matter, baby, when I sing</div>
 </div>
 
 <div class="lyric-line">
@@ -85,7 +80,6 @@ image: /images/albums/rim/imagine.jpg
 [00:42.84]<ruby>死<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>思<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>日<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>また<rt class="roma">mata</rt></ruby> <ruby>花<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なる<rt class="roma">naru</rt></ruby>
 </div>
 <div class="trans-lyric">[00:42.84]Even the days I want to die become flowers</div>
-<div class="trans-lyric">Even the days I want to die become flowers</div>
 </div>
 
 <div class="lyric-line">
@@ -200,14 +194,12 @@ image: /images/albums/rim/imagine.jpg
 [02:38.94](La-la-la-la-la-la-la-la-la)
 </div>
 <div class="trans-lyric">(La-la-la-la-la-la-la-la-la)</div>
-<div class="trans-lyric">(La-la-la-la-la-la-la-la-la)</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [02:43.85](La-la-la-la-la-la-la-la-la-la-la-la-la-la)
 </div>
-<div class="trans-lyric">(La-la-la-la-la-la-la-la-la-la-la-la-la-la)</div>
 <div class="trans-lyric">(La-la-la-la-la-la-la-la-la-la-la-la-la-la)</div>
 </div>
 

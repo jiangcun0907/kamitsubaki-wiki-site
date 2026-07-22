@@ -104,7 +104,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [01:52.96]<ruby>想<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>増<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>ばかり<rt class="roma">bakari</rt></ruby>
 </div>
 <div class="trans-lyric">My feelings only grow</div>
-<div class="trans-lyric">My feelings only grow</div>
 </div>
 
 <br />

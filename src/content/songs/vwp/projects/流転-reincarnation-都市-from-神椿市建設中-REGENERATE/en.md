@@ -90,8 +90,6 @@ The fate we have Love don't always shine through '
 Cause I don't wanna lose What we had last time,
 </div>
 <div class="trans-lyric">Cause I don't wanna lose What we had last time,</div>
-<div class="trans-lyric">Cause I don't wanna lose What we had last time,</div>
-<div class="trans-lyric">Cause I don't wanna lose What we had last time,</div>
 </div>
 
 <div class="lyric-line">
@@ -99,14 +97,12 @@ Cause I don't wanna lose What we had last time,
 Your leaving this life ain't fair You don't get something for
 </div>
 <div class="trans-lyric">Your leaving this life ain't fair You don't get something for</div>
-<div class="trans-lyric">Your leaving this life ain't fair You don't get something for</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Nothing, turn now Gotta try a little harder It could be sweet
 </div>
-<div class="trans-lyric">Nothing, turn now Gotta try a little harder It could be sweet</div>
 <div class="trans-lyric">Nothing, turn now Gotta try a little harder It could be sweet</div>
 </div>
 

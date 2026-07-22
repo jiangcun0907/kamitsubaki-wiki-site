@@ -103,9 +103,6 @@ I want you to know me
 Just act like you know me
 </div>
 <div class="cn-lyric">就装作你懂我</div>
-<div class="cn-lyric">就装作你懂我</div>
-<div class="cn-lyric">就装作你懂我</div>
-<div class="cn-lyric">就装作你懂我</div>
 </div>
 
 <br />
@@ -115,14 +112,12 @@ Just act like you know me
 Don't act a fool
 </div>
 <div class="cn-lyric">别装傻</div>
-<div class="cn-lyric">别装傻</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Let me feel and touch you to
 </div>
-<div class="cn-lyric">让我也感受触摸你</div>
 <div class="cn-lyric">让我也感受触摸你</div>
 </div>
 
@@ -137,7 +132,6 @@ Quit being modest
 <div class="jp-lyric">
 When I know you want it
 </div>
-<div class="cn-lyric">当我知道你想要</div>
 <div class="cn-lyric">当我知道你想要</div>
 </div>
 
@@ -155,23 +149,12 @@ When I know you want it
 [01:21.38]Silhouette silhouette
 </div>
 <div class="cn-lyric">[01:21.38]剪影 剪影</div>
-<div class="cn-lyric">[01:21.38]剪影 剪影</div>
-<div class="cn-lyric">[01:21.38]剪影 剪影</div>
-<div class="cn-lyric">[01:21.38]剪影 剪影</div>
-<div class="cn-lyric">[01:21.38]剪影 剪影</div>
-<div class="cn-lyric">[01:21.38]剪影 剪影</div>
-<div class="cn-lyric">[01:21.38]剪影 剪影</div>
-<div class="cn-lyric">[01:21.38]剪影 剪影</div>
-<div class="cn-lyric">[01:21.38]剪影 剪影</div>
-<div class="cn-lyric">[01:21.38]剪影 剪影</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Better get used to me knowing it
 </div>
-<div class="cn-lyric">最好习惯我知道</div>
-<div class="cn-lyric">最好习惯我知道</div>
 <div class="cn-lyric">最好习惯我知道</div>
 </div>
 
@@ -180,15 +163,12 @@ Better get used to me knowing it
 Treat me like your little cigarette
 </div>
 <div class="cn-lyric">待我如你的小香烟</div>
-<div class="cn-lyric">待我如你的小香烟</div>
-<div class="cn-lyric">待我如你的小香烟</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Addicted to the taste of it
 </div>
-<div class="cn-lyric">沉迷于它的味道</div>
 <div class="cn-lyric">沉迷于它的味道</div>
 </div>
 
@@ -205,14 +185,12 @@ Silhouette silhouette
 Playin in my head in my head
 </div>
 <div class="cn-lyric">在我脑海萦绕 脑海萦绕</div>
-<div class="cn-lyric">在我脑海萦绕 脑海萦绕</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Place me where you want me
 </div>
-<div class="cn-lyric">把我放在你想要的地方</div>
 <div class="cn-lyric">把我放在你想要的地方</div>
 </div>
 
@@ -433,7 +411,6 @@ Silhouette silhouette
 <div class="jp-lyric">
 Better get addicted to the taste of it
 </div>
-<div class="cn-lyric">最好沉迷于它的味道</div>
 <div class="cn-lyric">最好沉迷于它的味道</div>
 </div>
 

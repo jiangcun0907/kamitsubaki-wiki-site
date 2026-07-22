@@ -202,7 +202,6 @@ image: /images/albums/harusaruhi/shingan.jpg
 [01:06.97]<ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>来<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>みな<rt class="roma">mina</rt></ruby><ruby>この<rt class="roma">kono</rt></ruby><ruby>縄張<rt class="furi">なわば</rt><rt class="roma">nawaba</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby>
 </div>
 <div class="cn-lyric">[01:06.97]谁都可以来 这片领地</div>
-<div class="cn-lyric">谁都可以来 这片领地</div>
 </div>
 
 <div class="lyric-line">
@@ -210,7 +209,6 @@ image: /images/albums/harusaruhi/shingan.jpg
 [01:08.65]<ruby>一瞬<rt class="furi">いっしゅん</rt><rt class="roma">isshun</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>くなる<rt class="roma">kunaru</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby> <ruby>蟠<rt class="furi">わだかま</rt><rt class="roma">wadakama</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby>
 </div>
 <div class="cn-lyric">[01:08.65]一瞬间便会消失 心结</div>
-<div class="cn-lyric">一瞬间便会消失 心结</div>
 </div>
 
 <br />

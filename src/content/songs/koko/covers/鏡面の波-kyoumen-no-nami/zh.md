@@ -81,7 +81,6 @@ image: /images/albums/koko/arare-live.jpg
 [00:43.91]<ruby>夕立<rt class="furi">ゆうだ</rt><rt class="roma">yuuda</rt></ruby><ruby>ち<rt class="roma">chi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
 </div>
 <div class="cn-lyric">[00:43.91]骤雨</div>
-<div class="cn-lyric">[00:43.91]骤雨</div>
 </div>
 
 <div class="lyric-line">
@@ -89,14 +88,12 @@ image: /images/albums/koko/arare-live.jpg
 [00:52.74]<ruby>名付<rt class="furi">なづ</rt><rt class="roma">nazu</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>られ<rt class="roma">rare</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>剥<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>がし<rt class="roma">gashi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>とき<rt class="roma">toki</rt></ruby>
 </div>
 <div class="cn-lyric">[00:52.74]当它剥去被命名的世界之时</div>
-<div class="cn-lyric">[00:52.74]当它剥去被命名的世界之时</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:54.89]<ruby>それ<rt class="roma">sore</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>波<rt class="furi">なみ</rt><rt class="roma">nami</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>様<rt class="furi">よう</rt><rt class="roma">you</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
-<div class="cn-lyric">[00:54.89]它如同波浪一般</div>
 <div class="cn-lyric">[00:54.89]它如同波浪一般</div>
 </div>
 
@@ -125,8 +122,6 @@ image: /images/albums/koko/arare-live.jpg
 <div class="jp-lyric">
 [01:24.18]<ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>彷徨<rt class="furi">ほうこう</rt><rt class="roma">houkou</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby>
 </div>
-<div class="cn-lyric">[01:24.18]在黑夜中彷徨</div>
-<div class="cn-lyric">[01:24.18]在黑夜中彷徨</div>
 <div class="cn-lyric">[01:24.18]在黑夜中彷徨</div>
 </div>
 

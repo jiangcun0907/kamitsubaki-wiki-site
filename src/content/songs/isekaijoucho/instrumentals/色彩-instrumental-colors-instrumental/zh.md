@@ -148,14 +148,12 @@ FateRPG「Fate/Grand Order」<ruby>主題歌<rt class="furi">しゅだいか</rt
 <ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>視<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby><ruby>未来<rt class="furi">みらい</rt><rt class="roma">mirai</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ひとつ<rt class="roma">hitotsu</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby>
 </div>
 <div class="cn-lyric">我所看到的未来只有一个</div>
-<div class="cn-lyric">我所看到的未来只有一个</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>永遠<rt class="furi">えいえん</rt><rt class="roma">eien</rt></ruby><ruby>など<rt class="roma">nado</rt></ruby><ruby>少<rt class="furi">すこ</rt><rt class="roma">suko</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>欲<rt class="furi">ほ</rt><rt class="roma">ho</rt></ruby><ruby>しく<rt class="roma">shiku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="cn-lyric">我一点也不渴望永恒</div>
 <div class="cn-lyric">我一点也不渴望永恒</div>
 </div>
 
@@ -164,14 +162,12 @@ FateRPG「Fate/Grand Order」<ruby>主題歌<rt class="furi">しゅだいか</rt
 <ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>秒<rt class="furi">びょう</rt><rt class="roma">byou</rt></ruby> <ruby>一瞬<rt class="furi">いっしゅん</rt><rt class="roma">isshun</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>おしい<rt class="roma">oshii</rt></ruby>
 </div>
 <div class="cn-lyric">每一秒、每一瞬都如此珍贵</div>
-<div class="cn-lyric">每一秒、每一瞬都如此珍贵</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>あなた<rt class="roma">anata</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby>
 </div>
-<div class="cn-lyric">在你存在的世界里，我也活着</div>
 <div class="cn-lyric">在你存在的世界里，我也活着</div>
 </div>
 

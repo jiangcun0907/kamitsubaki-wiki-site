@@ -186,14 +186,12 @@ image: /images/albums/harusaruhi/shingan.jpg
 [01:09.15]<ruby>いや<rt class="roma">iya</rt></ruby><ruby>まだ<rt class="roma">mada</rt></ruby><ruby>始<rt class="furi">はじ</rt><rt class="roma">haji</rt></ruby><ruby>まっちゃ<rt class="roma">matcha</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">No, it hasn't even started yet</div>
-<div class="trans-lyric">No, it hasn't even started yet</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:11.00]<ruby>ここ<rt class="roma">koko</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>沈<rt class="furi">しず</rt><rt class="roma">shizu</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>な<rt class="roma">na</rt></ruby> <ruby>まだ<rt class="roma">mada</rt></ruby><ruby>小<rt class="furi">ちい</rt><rt class="roma">chii</rt></ruby><ruby>さい<rt class="roma">sai</rt></ruby>
 </div>
-<div class="trans-lyric">Don't sink here, still small</div>
 <div class="trans-lyric">Don't sink here, still small</div>
 </div>
 
@@ -202,14 +200,12 @@ image: /images/albums/harusaruhi/shingan.jpg
 [01:12.72]<ruby>無限<rt class="furi">むげん</rt><rt class="roma">mugen</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>情熱<rt class="furi">じょうねつ</rt><rt class="roma">jounetsu</rt></ruby> <ruby>吐<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
 <div class="trans-lyric">I want to spew out infinite passion</div>
-<div class="trans-lyric">I want to spew out infinite passion</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:14.42]<ruby>辿<rt class="furi">たど</rt><rt class="roma">tado</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>着<rt class="furi">つ</rt><rt class="roma">tsu</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby> <ruby>何<rt class="furi">なん</rt><rt class="roma">nan</rt></ruby><ruby>千<rt class="furi">せん</rt><rt class="roma">sen</rt></ruby><ruby>回<rt class="furi">かい</rt><rt class="roma">kai</rt></ruby>？
 </div>
-<div class="trans-lyric">How many thousands of times until I arrive?</div>
 <div class="trans-lyric">How many thousands of times until I arrive?</div>
 </div>
 
@@ -220,16 +216,12 @@ image: /images/albums/harusaruhi/shingan.jpg
 [01:16.85]<ruby>世界中<rt class="furi">せかいじゅう</rt><rt class="roma">sekaijuu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>振り撒<rt class="furi">ふりま</rt><rt class="roma">furima</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby>「<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby>」
 </div>
 <div class="trans-lyric">Scattering "love" across the world</div>
-<div class="trans-lyric">Scattering "love" across the world</div>
-<div class="trans-lyric">Scattering "love" across the world</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:18.82]<ruby>あり<rt class="roma">ari</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>「<ruby>正解<rt class="furi">せいかい</rt><rt class="roma">seikai</rt></ruby>」
 </div>
-<div class="trans-lyric">There is no "correct answer"</div>
-<div class="trans-lyric">There is no "correct answer"</div>
 <div class="trans-lyric">There is no "correct answer"</div>
 </div>
 
@@ -238,16 +230,12 @@ image: /images/albums/harusaruhi/shingan.jpg
 [01:20.47]<ruby>取<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>っ<rt class="roma"></rt></ruby><ruby>払<rt class="furi">はら</rt><rt class="roma">hara</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>警戒<rt class="furi">けいかい</rt><rt class="roma">keikai</rt></ruby>
 </div>
 <div class="trans-lyric">Throw off your caution</div>
-<div class="trans-lyric">Throw off your caution</div>
-<div class="trans-lyric">Throw off your caution</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:22.10]<ruby>上昇<rt class="furi">じょうしょう</rt><rt class="roma">joushou</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby> Stay high!
 </div>
-<div class="trans-lyric">Rising up, stay high!</div>
-<div class="trans-lyric">Rising up, stay high!</div>
 <div class="trans-lyric">Rising up, stay high!</div>
 </div>
 

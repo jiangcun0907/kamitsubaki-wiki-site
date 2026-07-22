@@ -99,14 +99,12 @@ image: /images/songs/isekaijoucho/single-1757777821.jpg
 [00:47.73]<ruby>突き進<rt class="furi">つきすす</rt><rt class="roma">tsukisusu</rt></ruby><ruby>め<rt class="roma">me</rt></ruby>
 </div>
 <div class="trans-lyric">Charge forward</div>
-<div class="trans-lyric">Charge forward</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:50.35]<ruby>正<rt class="furi">せい</rt><rt class="roma">sei</rt></ruby>羲 <ruby>全部<rt class="furi">ぜんぶ</rt><rt class="roma">zenbu</rt></ruby><ruby>身<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>纏<rt class="furi">まと</rt><rt class="roma">mato</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby> <ruby>この<rt class="roma">kono</rt></ruby><ruby>命<rt class="furi">いのち</rt><rt class="roma">inochi</rt></ruby><ruby>守<rt class="furi">まも</rt><rt class="roma">mamo</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>為<rt class="furi">ため</rt><rt class="roma">tame</rt></ruby>
 </div>
-<div class="trans-lyric">Wrapping all righteousness around me, to protect this life</div>
 <div class="trans-lyric">Wrapping all righteousness around me, to protect this life</div>
 </div>
 
@@ -115,14 +113,12 @@ image: /images/songs/isekaijoucho/single-1757777821.jpg
 [00:52.51]<ruby>似<rt class="furi">に</rt><rt class="roma">ni</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>られ<rt class="roma">rare</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>FAKE<ruby>だって<rt class="roma">datte</rt></ruby>? <ruby>いや<rt class="roma">iya</rt></ruby><ruby>無<rt class="furi">む</rt><rt class="roma">mu</rt></ruby><ruby>関係<rt class="furi">かんけい</rt><rt class="roma">kankei</rt></ruby>
 </div>
 <div class="trans-lyric">A FAKE that was imitated? No, irrelevant</div>
-<div class="trans-lyric">A FAKE that was imitated? No, irrelevant</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:55.21]<ruby>この<rt class="roma">kono</rt></ruby><ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>冷<rt class="furi">つめ</rt><rt class="roma">tsume</rt></ruby><ruby>たく<rt class="roma">taku</rt></ruby><ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">This heart is not cold, you know</div>
 <div class="trans-lyric">This heart is not cold, you know</div>
 </div>
 
@@ -131,14 +127,12 @@ image: /images/songs/isekaijoucho/single-1757777821.jpg
 [00:57.59]<ruby>穿<rt class="furi">うが</rt><rt class="roma">uga</rt></ruby><ruby>つ<rt class="roma">tsu</rt></ruby><ruby>定義<rt class="furi">ていぎ</rt><rt class="roma">teigi</rt></ruby> <ruby>全部<rt class="furi">ぜんぶ</rt><rt class="roma">zenbu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>覆<rt class="furi">くつがえ</rt><rt class="roma">kutsugae</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby>
 </div>
 <div class="trans-lyric">Piercing definitions, overturn them all</div>
-<div class="trans-lyric">Piercing definitions, overturn them all</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:00.07]<ruby>未来<rt class="furi">みらい</rt><rt class="roma">mirai</rt></ruby><ruby>開花<rt class="furi">かいか</rt><rt class="roma">kaika</rt></ruby> <ruby>装填<rt class="furi">そうてん</rt><rt class="roma">souten</rt></ruby> <ruby>戦場<rt class="furi">せんじょう</rt><rt class="roma">senjou</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>駆け抜<rt class="furi">かけぬ</rt><rt class="roma">kakenu</rt></ruby><ruby>ける<rt class="roma">keru</rt></ruby>
 </div>
-<div class="trans-lyric">Future blossom, load, race through the battlefield</div>
 <div class="trans-lyric">Future blossom, load, race through the battlefield</div>
 </div>
 
@@ -182,14 +176,12 @@ image: /images/songs/isekaijoucho/single-1757777821.jpg
 [01:23.94]<ruby>起点<rt class="furi">きてん</rt><rt class="roma">kiten</rt></ruby>
 </div>
 <div class="trans-lyric">Starting point</div>
-<div class="trans-lyric">Starting point</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:23.94]360°
 </div>
-<div class="trans-lyric">360°</div>
 <div class="trans-lyric">360°</div>
 </div>
 
@@ -198,14 +190,12 @@ image: /images/songs/isekaijoucho/single-1757777821.jpg
 [01:23.94]<ruby>視界<rt class="furi">しかい</rt><rt class="roma">shikai</rt></ruby><ruby>良好<rt class="furi">りょうこう</rt><rt class="roma">ryoukou</rt></ruby>
 </div>
 <div class="trans-lyric">Visibility good</div>
-<div class="trans-lyric">Visibility good</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:26.71]麈<ruby>一<rt class="furi">ひと</rt><rt class="roma">hito</rt></ruby><ruby>つ<rt class="roma">tsu</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>逃<rt class="furi">のが</rt><rt class="roma">noga</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
-<div class="trans-lyric">Don't let a single speck of dust escape</div>
 <div class="trans-lyric">Don't let a single speck of dust escape</div>
 </div>
 
@@ -214,7 +204,6 @@ image: /images/songs/isekaijoucho/single-1757777821.jpg
 [01:29.20]<ruby>狙<rt class="furi">ねら</rt><rt class="roma">nera</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>定<rt class="furi">さだ</rt><rt class="roma">sada</rt></ruby><ruby>め<rt class="roma">me</rt></ruby>
 </div>
 <div class="trans-lyric">Aim and fix</div>
-<div class="trans-lyric">Aim and fix</div>
 </div>
 
 <div class="lyric-line">
@@ -222,14 +211,12 @@ image: /images/songs/isekaijoucho/single-1757777821.jpg
 [01:29.20]<ruby>撃<rt class="furi">う</rt><rt class="roma">u</rt></ruby><ruby>つ<rt class="roma">tsu</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>ENEMY
 </div>
 <div class="trans-lyric">Fire at the ENEMY</div>
-<div class="trans-lyric">Fire at the ENEMY</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:31.56]<ruby>一瞬<rt class="furi">いっしゅん</rt><rt class="roma">isshun</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>迷<rt class="furi">まよ</rt><rt class="roma">mayo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby><ruby>許<rt class="furi">ゆる</rt><rt class="roma">yuru</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="trans-lyric">A moment's hesitation is not allowed</div>
 <div class="trans-lyric">A moment's hesitation is not allowed</div>
 </div>
 

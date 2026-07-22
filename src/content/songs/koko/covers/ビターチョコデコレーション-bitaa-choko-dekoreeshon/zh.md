@@ -107,13 +107,6 @@ image: /images/albums/koko/arare-live.jpg
 [00:45.11]<ruby>ビターチョコデコレーション<rt class="roma">bitaachokodekoreeshon</rt></ruby>
 </div>
 <div class="cn-lyric">[00:45.11]苦巧克力装饰</div>
-<div class="cn-lyric">[00:45.11]苦巧克力装饰</div>
-<div class="cn-lyric">[00:45.11]苦巧克力装饰</div>
-<div class="cn-lyric">[00:45.11]苦巧克力装饰</div>
-<div class="cn-lyric">[00:45.11]苦巧克力装饰</div>
-<div class="cn-lyric">[00:45.11]苦巧克力装饰</div>
-<div class="cn-lyric">[00:45.11]苦巧克力装饰</div>
-<div class="cn-lyric">[00:45.11]苦巧克力装饰</div>
 </div>
 
 <div class="lyric-line">

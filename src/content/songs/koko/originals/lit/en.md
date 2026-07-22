@@ -64,7 +64,6 @@ LIT appears on prayer or a related official release. Entries are version-specifi
 [00:52.88]<ruby>期待<rt class="furi">きたい</rt><rt class="roma">kitai</rt></ruby> <ruby>肥大<rt class="furi">ひだい</rt><rt class="roma">hidai</rt></ruby> <ruby>思<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>まま<rt class="roma">mama</rt></ruby> <ruby>オモチャ<rt class="roma">omocha</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>揺<rt class="furi">ゆ</rt><rt class="roma">yu</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby>
 </div>
 <div class="trans-lyric">[00:52.88]Expectation, hypertrophy, swaying like a toy as I please</div>
-<div class="trans-lyric">Expectation, hypertrophy, swaying like a toy as I please</div>
 </div>
 
 <div class="lyric-line">
@@ -72,7 +71,6 @@ LIT appears on prayer or a related official release. Entries are version-specifi
 [00:57.49]<ruby>受賞<rt class="furi">じゅしょう</rt><rt class="roma">jushou</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>優秀<rt class="furi">ゆうしゅう</rt><rt class="roma">yuushuu</rt></ruby><ruby>賞<rt class="furi">しょう</rt><rt class="roma">shou</rt></ruby> <ruby>でも<rt class="roma">demo</rt></ruby><ruby>この<rt class="roma">kono</rt></ruby><ruby>出来事<rt class="furi">できごと</rt><rt class="roma">dekigoto</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>実<rt class="furi">じつ</rt><rt class="roma">jitsu</rt></ruby><ruby>は<rt class="roma">ha</rt></ruby><ruby>ウソ<rt class="roma">uso</rt></ruby>
 </div>
 <div class="trans-lyric">[00:57.49]Won the excellent prize, but this event is actually a lie</div>
-<div class="trans-lyric">Won the excellent prize, but this event is actually a lie</div>
 </div>
 
 <br />

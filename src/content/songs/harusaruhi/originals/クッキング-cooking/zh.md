@@ -36,7 +36,6 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 [00:12.72]<ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>作<rt class="furi">つく</rt><rt class="roma">tsuku</rt></ruby><ruby>ろ<rt class="roma">ro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>?
 </div>
 <div class="cn-lyric">[00:12.72]做什么好呢？</div>
-<div class="cn-lyric">做什么好呢？</div>
 </div>
 
 <div class="lyric-line">

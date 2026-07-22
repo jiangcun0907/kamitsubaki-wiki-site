@@ -31,8 +31,6 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 Ere mela mela mela mela mela mela
 </div>
 <div class="cn-lyric">埃雷 梅拉 梅拉 梅拉 梅拉 梅拉 梅拉</div>
-<div class="cn-lyric">埃雷 梅拉 梅拉 梅拉 梅拉 梅拉 梅拉</div>
-<div class="cn-lyric">埃雷 梅拉 梅拉 梅拉 梅拉 梅拉 梅拉</div>
 </div>
 
 <div class="lyric-line">

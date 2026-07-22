@@ -36,16 +36,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:01.02]<ruby>大嫌<rt class="furi">だいきら</rt><rt class="roma">daikira</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>大<rt class="furi">だい</rt><rt class="roma">dai</rt></ruby><ruby>迷惑<rt class="furi">めいわく</rt><rt class="roma">meiwaku</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>存在<rt class="furi">そんざい</rt><rt class="roma">sonzai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>？
 </div>
 <div class="trans-lyric">You're a hated, troublesome existence, aren't you?</div>
-<div class="trans-lyric">You're a hated, troublesome existence, aren't you?</div>
-<div class="trans-lyric">You're a hated, troublesome existence, aren't you?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:07.17]<ruby>まあ<rt class="roma">maa</rt></ruby> <ruby>いい<rt class="roma">ii</rt></ruby><ruby>や<rt class="roma">ya</rt></ruby>
 </div>
-<div class="trans-lyric">Well, never mind</div>
-<div class="trans-lyric">Well, never mind</div>
 <div class="trans-lyric">Well, never mind</div>
 </div>
 
@@ -54,16 +50,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:08.67]<ruby>いや<rt class="roma">iya</rt></ruby><ruby>いやいや<rt class="roma">iyaiya</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>過<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>ごす<rt class="roma">gosu</rt></ruby><ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby>
 </div>
 <div class="trans-lyric">Spending now saying no, no, no</div>
-<div class="trans-lyric">Spending now saying no, no, no</div>
-<div class="trans-lyric">Spending now saying no, no, no</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:14.85]<ruby>大好<rt class="furi">だいす</rt><rt class="roma">daisu</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby> <ruby>アン<rt class="roma">an</rt></ruby><ruby>パイ<rt class="roma">pai</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby><ruby>存在<rt class="furi">そんざい</rt><rt class="roma">sonzai</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby>
 </div>
-<div class="trans-lyric">There's no such thing as a safe 'I love you,' right?</div>
-<div class="trans-lyric">There's no such thing as a safe 'I love you,' right?</div>
 <div class="trans-lyric">There's no such thing as a safe 'I love you,' right?</div>
 </div>
 
@@ -72,8 +64,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:20.87]<ruby>まあ<rt class="roma">maa</rt></ruby> <ruby>いい<rt class="roma">ii</rt></ruby><ruby>や<rt class="roma">ya</rt></ruby> <ruby>まあ<rt class="roma">maa</rt></ruby> <ruby>いい<rt class="roma">ii</rt></ruby><ruby>や<rt class="roma">ya</rt></ruby>
 </div>
 <div class="trans-lyric">Well, never mind, well, never mind</div>
-<div class="trans-lyric">Well, never mind, well, never mind</div>
-<div class="trans-lyric">Well, never mind, well, never mind</div>
 </div>
 
 <div class="lyric-line">
@@ -81,15 +71,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:24.22]<ruby>まあ<rt class="roma">maa</rt></ruby> <ruby>いっか<rt class="roma">ikka</rt></ruby>
 </div>
 <div class="trans-lyric">Well, it's fine</div>
-<div class="trans-lyric">Well, it's fine</div>
-<div class="trans-lyric">Well, it's fine</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:27.66]<ruby>は<rt class="roma">wa</rt></ruby>？
 </div>
-<div class="trans-lyric">Huh?</div>
 <div class="trans-lyric">Huh?</div>
 </div>
 
@@ -113,7 +100,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 <div class="jp-lyric">
 [00:51.26]<ruby>なんか<rt class="roma">nanka</rt></ruby><ruby>嫌<rt class="furi">いや</rt><rt class="roma">iya</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
-<div class="trans-lyric">I don't like it somehow</div>
 <div class="trans-lyric">I don't like it somehow</div>
 </div>
 
@@ -144,14 +130,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [01:09.39]<ruby>叶<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>せい<rt class="roma">sei</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">It came true, but because of me</div>
-<div class="trans-lyric">It came true, but because of me</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:12.85]<ruby>余<rt class="furi">あま</rt><rt class="roma">ama</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>もん<rt class="roma">mon</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby>
 </div>
-<div class="trans-lyric">It was left over, but it's mine, they say</div>
 <div class="trans-lyric">It was left over, but it's mine, they say</div>
 </div>
 
@@ -342,7 +326,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 <div class="jp-lyric">
 [03:28.41]<ruby>どう<rt class="roma">dou</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="trans-lyric">How about it?</div>
 <div class="trans-lyric">How about it?</div>
 </div>
 

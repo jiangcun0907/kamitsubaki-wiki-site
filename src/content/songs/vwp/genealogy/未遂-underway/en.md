@@ -188,7 +188,6 @@ image: /images/albums/vwp/awakening.jpg
 [01:10.57]<ruby>未遂<rt class="furi">みすい</rt><rt class="roma">misui</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">It's not an attempt.</div>
-<div class="trans-lyric">It's not an attempt.</div>
 </div>
 
 <div class="lyric-line">
@@ -210,18 +209,12 @@ image: /images/albums/vwp/awakening.jpg
 [01:16.72]<ruby>あたし<rt class="roma">atashi</rt></ruby><ruby>たち<rt class="roma">tachi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>盗<rt class="furi">ぬす</rt><rt class="roma">nusu</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">There's nothing we can't steal.</div>
-<div class="trans-lyric">There's nothing we can't steal.</div>
-<div class="trans-lyric">There's nothing we can't steal.</div>
-<div class="trans-lyric">There's nothing we can't steal.</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:18.68]<ruby>もの<rt class="roma">mono</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby><ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">Nothing at all.</div>
-<div class="trans-lyric">Nothing at all.</div>
-<div class="trans-lyric">Nothing at all.</div>
 <div class="trans-lyric">Nothing at all.</div>
 </div>
 
@@ -230,18 +223,12 @@ image: /images/albums/vwp/awakening.jpg
 [01:20.74]<ruby>画面<rt class="furi">がめん</rt><rt class="roma">gamen</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>前<rt class="furi">まえ</rt><rt class="roma">mae</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="trans-lyric">In front of the screen.</div>
-<div class="trans-lyric">In front of the screen.</div>
-<div class="trans-lyric">In front of the screen.</div>
-<div class="trans-lyric">In front of the screen.</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:20.74]<ruby>お前<rt class="furi">おまえ</rt><rt class="roma">omae</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>そう<rt class="roma">sou</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">You too, you know.</div>
-<div class="trans-lyric">You too, you know.</div>
-<div class="trans-lyric">You too, you know.</div>
 <div class="trans-lyric">You too, you know.</div>
 </div>
 
@@ -250,14 +237,12 @@ image: /images/albums/vwp/awakening.jpg
 [01:24.21]<ruby>フル<rt class="roma">furu</rt></ruby><ruby>スロットル<rt class="roma">surottoru</rt></ruby>
 </div>
 <div class="trans-lyric">Full throttle.</div>
-<div class="trans-lyric">Full throttle.</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:24.21]<ruby>冗談<rt class="furi">じょうだん</rt><rt class="roma">joudan</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>、<ruby>泥<rt class="furi">どろ</rt><rt class="roma">doro</rt></ruby><ruby>団子<rt class="furi">だんご</rt><rt class="roma">dango</rt></ruby>
 </div>
-<div class="trans-lyric">Just kidding, mud dumplings.</div>
 <div class="trans-lyric">Just kidding, mud dumplings.</div>
 </div>
 
@@ -266,7 +251,6 @@ image: /images/albums/vwp/awakening.jpg
 [01:26.48]<ruby>みたい<rt class="roma">mitai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>もん<rt class="roma">mon</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby>
 </div>
 <div class="trans-lyric">Something like that, right?</div>
-<div class="trans-lyric">Something like that, right?</div>
 </div>
 
 <div class="lyric-line">
@@ -274,14 +258,12 @@ image: /images/albums/vwp/awakening.jpg
 [01:28.98]<ruby>フィクション<rt class="roma">fyikushon</rt></ruby> <ruby>ノンフィクション<rt class="roma">nonfyikushon</rt></ruby>
 </div>
 <div class="trans-lyric">Fiction, nonfiction.</div>
-<div class="trans-lyric">Fiction, nonfiction.</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:30.46]<ruby>あくび<rt class="roma">akubi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>出<rt class="furi">で</rt><rt class="roma">de</rt></ruby><ruby>ちゃい<rt class="roma">chai</rt></ruby><ruby>そう<rt class="roma">sou</rt></ruby>
 </div>
-<div class="trans-lyric">I feel like yawning.</div>
 <div class="trans-lyric">I feel like yawning.</div>
 </div>
 

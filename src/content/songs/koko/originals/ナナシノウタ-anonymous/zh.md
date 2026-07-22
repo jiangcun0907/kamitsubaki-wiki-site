@@ -85,16 +85,12 @@ image: /images/albums/koko/prayer-2.jpg
 [01:02.76]<ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>ストーリー<rt class="roma">sutourii</rt></ruby>
 </div>
 <div class="cn-lyric">[01:02.76]看不见的故事</div>
-<div class="cn-lyric">[01:02.76]看不见的故事</div>
-<div class="cn-lyric">[01:02.76]看不见的故事</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:04.49]<ruby>癒<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>ロンリー<rt class="roma">ronrii</rt></ruby>
 </div>
-<div class="cn-lyric">[01:04.49]无法治愈的孤独</div>
-<div class="cn-lyric">[01:04.49]无法治愈的孤独</div>
 <div class="cn-lyric">[01:04.49]无法治愈的孤独</div>
 </div>
 
@@ -103,15 +99,12 @@ image: /images/albums/koko/prayer-2.jpg
 [01:06.06]<ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>句読点<rt class="furi">くとうてん</rt><rt class="roma">kutouten</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>残<rt class="furi">のこ</rt><rt class="roma">noko</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby>
 </div>
 <div class="cn-lyric">[01:06.06]只留下无言的标点</div>
-<div class="cn-lyric">[01:06.06]只留下无言的标点</div>
-<div class="cn-lyric">[01:06.06]只留下无言的标点</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:10.04]<ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>日<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
-<div class="cn-lyric">[01:10.04]在想要消失的日子里</div>
 <div class="cn-lyric">[01:10.04]在想要消失的日子里</div>
 </div>
 
@@ -120,14 +113,12 @@ image: /images/albums/koko/prayer-2.jpg
 [01:10.04]<ruby>会<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="cn-lyric">[01:10.04]给想见的你</div>
-<div class="cn-lyric">[01:10.04]给想见的你</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:14.21]0<ruby>から<rt class="roma">kara</rt></ruby>1<ruby>に<rt class="roma">ni</rt></ruby><ruby>上<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>げ<rt class="roma">ge</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="cn-lyric">[01:14.21]从0提升到1吧</div>
 <div class="cn-lyric">[01:14.21]从0提升到1吧</div>
 </div>
 
@@ -136,14 +127,12 @@ image: /images/albums/koko/prayer-2.jpg
 [01:20.24]<ruby>創り出<rt class="furi">つくりだ</rt><rt class="roma">tsukurida</rt></ruby><ruby>す<rt class="roma">su</rt></ruby> <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="cn-lyric">[01:20.24]在你创造的世界里</div>
-<div class="cn-lyric">[01:20.24]在你创造的世界里</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:27.50]<ruby>結び付<rt class="furi">むすびつ</rt><rt class="roma">musubitsu</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby> <ruby>こんな<rt class="roma">konna</rt></ruby><ruby>夢物語<rt class="furi">ゆめものがたり</rt><rt class="roma">yumemonogatari</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>かも<rt class="roma">kamo</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
-<div class="cn-lyric">[01:27.50]相连着 这样的梦故事也许也不错</div>
 <div class="cn-lyric">[01:27.50]相连着 这样的梦故事也许也不错</div>
 </div>
 

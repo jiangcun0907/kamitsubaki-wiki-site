@@ -127,7 +127,6 @@ image: /images/songs/kaf/track-1760084307.jpg
 [00:36.990]<ruby>この世<rt class="furi">このよ</rt><rt class="roma">konoyo</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby> <ruby>ああ<rt class="roma">aa</rt></ruby><ruby>クレイジー<rt class="roma">kureijii</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby>
 </div>
 <div class="cn-lyric">[00:36.990]这个世界 啊啊 就是疯狂</div>
-<div class="cn-lyric">这个世界 啊啊 就是疯狂</div>
 </div>
 
 <div class="lyric-line">
@@ -135,7 +134,6 @@ image: /images/songs/kaf/track-1760084307.jpg
 [00:39.850]Ready？1 2 3
 </div>
 <div class="cn-lyric">[00:39.850]Ready？1 2 3</div>
-<div class="cn-lyric">Ready？1 2 3</div>
 </div>
 
 <div class="lyric-line">
@@ -143,7 +141,6 @@ image: /images/songs/kaf/track-1760084307.jpg
 [00:41.600]<ruby>皆<rt class="furi">みな</rt><rt class="roma">mina</rt></ruby><ruby>味<rt class="furi">あじ</rt><rt class="roma">aji</rt></ruby><ruby>わって<rt class="roma">watte</rt></ruby><ruby>騒<rt class="furi">さわ</rt><rt class="roma">sawa</rt></ruby><ruby>げよ<rt class="roma">geyo</rt></ruby><ruby>ディスコ<rt class="roma">deisuko</rt></ruby>
 </div>
 <div class="cn-lyric">[00:41.600]大家尽情品味 喧闹吧迪斯科</div>
-<div class="cn-lyric">大家尽情品味 喧闹吧迪斯科</div>
 </div>
 
 <div class="lyric-line">
@@ -151,7 +148,6 @@ image: /images/songs/kaf/track-1760084307.jpg
 [00:45.960]<ruby>さあ<rt class="roma">saa</rt></ruby><ruby>クラップ<rt class="roma">kurappu</rt></ruby><ruby>刻<rt class="furi">きざ</rt><rt class="roma">kiza</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>大胆<rt class="furi">だいたん</rt><rt class="roma">daitan</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="cn-lyric">[00:45.960]来吧 大胆地拍手打拍子</div>
-<div class="cn-lyric">来吧 大胆地拍手打拍子</div>
 </div>
 
 <div class="lyric-line">
@@ -159,7 +155,6 @@ image: /images/songs/kaf/track-1760084307.jpg
 [00:49.130]<ruby>他<rt class="furi">た</rt><rt class="roma">ta</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>主役<rt class="furi">しゅやく</rt><rt class="roma">shuyaku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>？
 </div>
 <div class="cn-lyric">[00:49.130]毫无疑问主角就是你吧？</div>
-<div class="cn-lyric">毫无疑问主角就是你吧？</div>
 </div>
 
 <div class="lyric-line">
@@ -167,11 +162,6 @@ image: /images/songs/kaf/track-1760084307.jpg
 [00:53.470]<ruby>チューイン・ミュージック<rt class="roma">chuuin/myuujikku</rt></ruby>
 </div>
 <div class="cn-lyric">[00:53.470]咀嚼音乐</div>
-<div class="cn-lyric">咀嚼音乐</div>
-<div class="cn-lyric">咀嚼音乐</div>
-<div class="cn-lyric">咀嚼音乐</div>
-<div class="cn-lyric">咀嚼音乐</div>
-<div class="cn-lyric">咀嚼音乐</div>
 </div>
 
 <div class="lyric-line">
@@ -179,8 +169,6 @@ image: /images/songs/kaf/track-1760084307.jpg
 [00:55.240]<ruby>ただ<rt class="roma">tada</rt></ruby><ruby>夢中<rt class="furi">むちゅう</rt><rt class="roma">muchuu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>ダンス<rt class="roma">dansu</rt></ruby>
 </div>
 <div class="cn-lyric">[00:55.240]只是忘情地舞蹈</div>
-<div class="cn-lyric">只是忘情地舞蹈</div>
-<div class="cn-lyric">只是忘情地舞蹈</div>
 </div>
 
 <div class="lyric-line">
@@ -188,7 +176,6 @@ image: /images/songs/kaf/track-1760084307.jpg
 [00:56.940]<ruby>どんどん<rt class="roma">dondon</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>鼓動<rt class="furi">こどう</rt><rt class="roma">kodou</rt></ruby><ruby>高鳴<rt class="furi">たかな</rt><rt class="roma">takana</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
 <div class="cn-lyric">[00:56.940]心跳越来越激烈</div>
-<div class="cn-lyric">心跳越来越激烈</div>
 </div>
 
 <div class="lyric-line">
@@ -196,7 +183,6 @@ image: /images/songs/kaf/track-1760084307.jpg
 [00:58.300]<ruby>どうか<rt class="roma">douka</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ちゃって<rt class="roma">chatte</rt></ruby>
 </div>
 <div class="cn-lyric">[00:58.300]变得不对劲</div>
-<div class="cn-lyric">变得不对劲</div>
 </div>
 
 <div class="lyric-line">
@@ -204,7 +190,6 @@ image: /images/songs/kaf/track-1760084307.jpg
 [00:59.130]<ruby>へんてこりん<rt class="roma">hentekorin</rt></ruby><ruby>ぱらりん<rt class="roma">pararin</rt></ruby>
 </div>
 <div class="cn-lyric">[00:59.130]奇奇怪怪啪啦嘣</div>
-<div class="cn-lyric">奇奇怪怪啪啦嘣</div>
 </div>
 
 <div class="lyric-line">
@@ -218,8 +203,6 @@ image: /images/songs/kaf/track-1760084307.jpg
 [01:02.600]<ruby>今<rt class="furi">こん</rt><rt class="roma">kon</rt></ruby><ruby>宇宙<rt class="furi">うちゅう</rt><rt class="roma">uchuu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>ダイヴ<rt class="roma">daivu</rt></ruby>
 </div>
 <div class="cn-lyric">[01:02.600]现在向宇宙潜水</div>
-<div class="cn-lyric">现在向宇宙潜水</div>
-<div class="cn-lyric">现在向宇宙潜水</div>
 </div>
 
 <div class="lyric-line">
@@ -227,8 +210,6 @@ image: /images/songs/kaf/track-1760084307.jpg
 [01:04.190]<ruby>もう<rt class="roma">mou</rt></ruby><ruby>全部<rt class="furi">ぜんぶ</rt><rt class="roma">zenbu</rt></ruby><ruby>忘<rt class="furi">わす</rt><rt class="roma">wasu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>踊<rt class="furi">おど</rt><rt class="roma">odo</rt></ruby><ruby>ろ<rt class="roma">ro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>ぜ<rt class="roma">ze</rt></ruby>
 </div>
 <div class="cn-lyric">[01:04.190]已经全部忘记 来跳舞吧</div>
-<div class="cn-lyric">已经全部忘记 来跳舞吧</div>
-<div class="cn-lyric">已经全部忘记 来跳舞吧</div>
 </div>
 
 <div class="lyric-line">
@@ -236,9 +217,6 @@ image: /images/songs/kaf/track-1760084307.jpg
 [01:06.340]<ruby>秘密<rt class="furi">ひみつ</rt><rt class="roma">himitsu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ディスコ<rt class="roma">deisuko</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="cn-lyric">[01:06.340]在秘密的迪斯科里</div>
-<div class="cn-lyric">在秘密的迪斯科里</div>
-<div class="cn-lyric">在秘密的迪斯科里</div>
-<div class="cn-lyric">在秘密的迪斯科里</div>
 </div>
 
 <div class="lyric-line">

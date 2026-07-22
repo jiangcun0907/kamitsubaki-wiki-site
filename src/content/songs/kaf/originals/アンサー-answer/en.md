@@ -92,7 +92,6 @@ image: /images/songs/kaf/hana-to-kaitou.jpg
 [00:57.00]<ruby>正解<rt class="furi">せいかい</rt><rt class="roma">seikai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>旅<rt class="furi">たび</rt><rt class="roma">tabi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>しよ<rt class="roma">shiyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="trans-lyric">[00:57.00]Let's take a journey with no right answer</div>
-<div class="trans-lyric">Let's take a journey with no right answer</div>
 </div>
 
 <div class="lyric-line">
@@ -137,7 +136,6 @@ image: /images/songs/kaf/hana-to-kaitou.jpg
 [01:33.50]<ruby>確信<rt class="furi">かくしん</rt><rt class="roma">kakushin</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ある<rt class="roma">aru</rt></ruby><ruby>その<rt class="roma">sono</rt></ruby><ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>叫<rt class="furi">さけ</rt><rt class="roma">sake</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>でる<rt class="roma">deru</rt></ruby>
 </div>
 <div class="trans-lyric">[01:33.50]That heart full of conviction is crying out</div>
-<div class="trans-lyric">That heart full of conviction is crying out</div>
 </div>
 
 <div class="lyric-line">
@@ -145,7 +143,6 @@ image: /images/songs/kaf/hana-to-kaitou.jpg
 [01:41.00]<ruby>ここ<rt class="roma">koko</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>もう<rt class="roma">mou</rt></ruby><ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>人<rt class="furi">にん</rt><rt class="roma">nin</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">[01:41.00]Here, you're no longer alone</div>
-<div class="trans-lyric">Here, you're no longer alone</div>
 </div>
 
 <br />

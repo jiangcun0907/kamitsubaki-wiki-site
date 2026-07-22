@@ -50,7 +50,6 @@ image: /images/albums/isekaijoucho/sousei.jpg
 [00:12.32]<ruby>ただ<rt class="roma">tada</rt></ruby><ruby>そこ<rt class="roma">soko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>ある<rt class="roma">aru</rt></ruby>
 </div>
 <div class="cn-lyric">[00:12.32]只是存在于那里</div>
-<div class="cn-lyric">[00:12.32]只是存在于那里</div>
 </div>
 
 <div class="lyric-line">
@@ -72,7 +71,6 @@ image: /images/albums/isekaijoucho/sousei.jpg
 <div class="jp-lyric">
 [00:23.32]<ruby>その<rt class="roma">sono</rt></ruby><ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>粒<rt class="furi">つぶ</rt><rt class="roma">tsubu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
-<div class="cn-lyric">[00:23.32]那一粒</div>
 <div class="cn-lyric">[00:23.32]那一粒</div>
 </div>
 
@@ -179,15 +177,12 @@ image: /images/albums/isekaijoucho/sousei.jpg
 [01:41.16]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>そうして<rt class="roma">soushite</rt></ruby>
 </div>
 <div class="cn-lyric">[01:41.16]你也同样</div>
-<div class="cn-lyric">[01:41.16]你也同样</div>
-<div class="cn-lyric">[01:41.16]你也同样</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:43.96]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>視<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
 </div>
-<div class="cn-lyric">[01:43.96]若你注视了我</div>
 <div class="cn-lyric">[01:43.96]若你注视了我</div>
 </div>
 
@@ -309,9 +304,6 @@ image: /images/albums/isekaijoucho/sousei.jpg
 <div class="jp-lyric">
 [03:22.16]<ruby>その<rt class="roma">sono</rt></ruby><ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>粒<rt class="furi">つぶ</rt><rt class="roma">tsubu</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
-<div class="cn-lyric">[03:22.16]那一粒</div>
-<div class="cn-lyric">[03:22.16]那一粒</div>
-<div class="cn-lyric">[03:22.16]那一粒</div>
 <div class="cn-lyric">[03:22.16]那一粒</div>
 </div>
 

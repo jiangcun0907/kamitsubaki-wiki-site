@@ -71,7 +71,6 @@ image: /images/albums/kaf/kyoso-gamma.jpg
 [00:29.30]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby><ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="trans-lyric">I am me, but I'm not me</div>
-<div class="trans-lyric">I am me, but I'm not me</div>
 </div>
 
 <div class="lyric-line">
@@ -79,14 +78,12 @@ image: /images/albums/kaf/kyoso-gamma.jpg
 [00:32.84]<ruby>それでも<rt class="roma">soredemo</rt></ruby><ruby>もう<rt class="roma">mou</rt></ruby><ruby>離<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>やし<rt class="roma">yashi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="trans-lyric">But still, I won't leave you</div>
-<div class="trans-lyric">But still, I won't leave you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:36.34]<ruby>咲き誇<rt class="furi">さきほこ</rt><rt class="roma">sakihoko</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>名<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>花<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>ハロー<rt class="roma">harou</rt></ruby>
 </div>
-<div class="trans-lyric">Hello to the nameless flowers in full bloom</div>
 <div class="trans-lyric">Hello to the nameless flowers in full bloom</div>
 </div>
 

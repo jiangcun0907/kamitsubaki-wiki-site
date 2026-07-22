@@ -85,14 +85,12 @@ image: /images/albums/isekaijoucho/virtual-ties.jpg
 [01:03.66]<ruby>色<rt class="furi">いろ</rt><rt class="roma">iro</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>落<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>とし<rt class="roma">toshi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>鮮<rt class="furi">あざ</rt><rt class="roma">aza</rt></ruby><ruby>やか<rt class="roma">yaka</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なって<rt class="roma">natte</rt></ruby>
 </div>
 <div class="trans-lyric">Even faded dreams become vivid</div>
-<div class="trans-lyric">Even faded dreams become vivid</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:09.18]<ruby>ただ<rt class="roma">tada</rt></ruby><ruby>キミ<rt class="roma">kimi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ほしい<rt class="roma">hoshii</rt></ruby>
 </div>
-<div class="trans-lyric">I just want it to reach only you</div>
 <div class="trans-lyric">I just want it to reach only you</div>
 </div>
 
@@ -101,14 +99,12 @@ image: /images/albums/isekaijoucho/virtual-ties.jpg
 [01:15.00]<ruby>交<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>わし<rt class="roma">washi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>指切<rt class="furi">ゆびき</rt><rt class="roma">yubiki</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby> <ruby>大切<rt class="furi">たいせつ</rt><rt class="roma">taisetsu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">I treasure the pinky promise we made</div>
-<div class="trans-lyric">I treasure the pinky promise we made</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:20.47]<ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>ここ<rt class="roma">koko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>立<rt class="furi">た</rt><rt class="roma">ta</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
-<div class="trans-lyric">Standing here now, singing a song</div>
 <div class="trans-lyric">Standing here now, singing a song</div>
 </div>
 
@@ -117,7 +113,6 @@ image: /images/albums/isekaijoucho/virtual-ties.jpg
 [01:23.98]<ruby>キミ<rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ため<rt class="roma">tame</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>踊<rt class="furi">おど</rt><rt class="roma">odo</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">I'm dancing for you</div>
-<div class="trans-lyric">I'm dancing for you</div>
 </div>
 
 <div class="lyric-line">
@@ -125,14 +120,12 @@ image: /images/albums/isekaijoucho/virtual-ties.jpg
 [01:26.83]<ruby>いつも<rt class="roma">itsumo</rt></ruby><ruby>ココ<rt class="roma">koko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ほしい<rt class="roma">hoshii</rt></ruby>
 </div>
 <div class="trans-lyric">I want you to always be here</div>
-<div class="trans-lyric">I want you to always be here</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:29.32]<ruby>いつも<rt class="roma">itsumo</rt></ruby><ruby>その<rt class="roma">sono</rt></ruby><ruby>ココロ<rt class="roma">kokoro</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>させ<rt class="roma">sase</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">Always let me stay in that heart</div>
 <div class="trans-lyric">Always let me stay in that heart</div>
 </div>
 

@@ -99,14 +99,12 @@ image: /images/albums/harusaruhi/cream-puff-live-4.jpg
 [01:00.68]<ruby>弱<rt class="furi">よわ</rt><rt class="roma">yowa</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>罪<rt class="furi">つみ</rt><rt class="roma">tsumi</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>答<rt class="furi">こた</rt><rt class="roma">kota</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">If weakness is a sin, then answer me</div>
-<div class="trans-lyric">If weakness is a sin, then answer me</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:05.75]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>犠牲<rt class="furi">ぎせい</rt><rt class="roma">gisei</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby>?
 </div>
-<div class="trans-lyric">Who am I allowed to sacrifice to live?</div>
 <div class="trans-lyric">Who am I allowed to sacrifice to live?</div>
 </div>
 
@@ -178,14 +176,12 @@ image: /images/albums/harusaruhi/cream-puff-live-4.jpg
 [02:05.36]<ruby>遠<rt class="furi">とお</rt><rt class="roma">too</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>聞<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>こえる<rt class="roma">koeru</rt></ruby><ruby>罵声<rt class="furi">ばせい</rt><rt class="roma">basei</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>絶叫<rt class="furi">ぜっきょう</rt><rt class="roma">zekkyou</rt></ruby>
 </div>
 <div class="trans-lyric">In the distance, I hear curses and screams</div>
-<div class="trans-lyric">In the distance, I hear curses and screams</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [02:10.81]<ruby>正義<rt class="furi">せいぎ</rt><rt class="roma">seigi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>問<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>いかける<rt class="roma">ikakeru</rt></ruby>
 </div>
-<div class="trans-lyric">Questioning justice</div>
 <div class="trans-lyric">Questioning justice</div>
 </div>
 

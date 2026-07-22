@@ -139,7 +139,6 @@ image: /images/albums/vwp/fate.jpg
 <ruby>全<rt class="furi">ぜん</rt><rt class="roma">zen</rt></ruby><ruby>都<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>是<rt class="furi">ぜ</rt><rt class="roma">ze</rt></ruby>假<ruby>想<rt class="furi">そう</rt><rt class="roma">sou</rt></ruby>
 </div>
 <div class="trans-lyric">It's all illusions</div>
-<div class="trans-lyric">It's all illusions</div>
 </div>
 
 <div class="lyric-line">

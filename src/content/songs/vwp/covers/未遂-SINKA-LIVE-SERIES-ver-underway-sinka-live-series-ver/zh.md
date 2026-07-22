@@ -195,7 +195,6 @@ image: /images/songs/vwp/single-1818293103.jpg
 [01:13.82]<ruby>未遂<rt class="furi">みすい</rt><rt class="roma">misui</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:13.82]可不是未遂哦</div>
-<div class="cn-lyric">[01:13.82]可不是未遂哦</div>
 </div>
 
 <div class="lyric-line">
@@ -210,18 +209,12 @@ image: /images/songs/vwp/single-1818293103.jpg
 [01:19.81]<ruby>あたし<rt class="roma">atashi</rt></ruby><ruby>たち<rt class="roma">tachi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>盗<rt class="furi">ぬす</rt><rt class="roma">nusu</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="cn-lyric">[01:19.81]我们偷不到</div>
-<div class="cn-lyric">[01:19.81]我们偷不到</div>
-<div class="cn-lyric">[01:19.81]我们偷不到</div>
-<div class="cn-lyric">[01:19.81]我们偷不到</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:21.85]<ruby>もの<rt class="roma">mono</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby><ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="cn-lyric">[01:21.85]的东西不存在</div>
-<div class="cn-lyric">[01:21.85]的东西不存在</div>
-<div class="cn-lyric">[01:21.85]的东西不存在</div>
 <div class="cn-lyric">[01:21.85]的东西不存在</div>
 </div>
 
@@ -230,16 +223,12 @@ image: /images/songs/vwp/single-1818293103.jpg
 [01:24.00]<ruby>画面<rt class="furi">がめん</rt><rt class="roma">gamen</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>前<rt class="furi">まえ</rt><rt class="roma">mae</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>お前<rt class="furi">おまえ</rt><rt class="roma">omae</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>そう<rt class="roma">sou</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:24.00]屏幕前的你也是一样</div>
-<div class="cn-lyric">[01:24.00]屏幕前的你也是一样</div>
-<div class="cn-lyric">[01:24.00]屏幕前的你也是一样</div>
-<div class="cn-lyric">[01:24.00]屏幕前的你也是一样</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:27.50]<ruby>フル<rt class="roma">furu</rt></ruby><ruby>スロットル<rt class="roma">surottoru</rt></ruby>
 </div>
-<div class="cn-lyric">[01:27.50]全速前进</div>
 <div class="cn-lyric">[01:27.50]全速前进</div>
 </div>
 
@@ -248,14 +237,12 @@ image: /images/songs/vwp/single-1818293103.jpg
 [01:28.37]<ruby>冗談<rt class="furi">じょうだん</rt><rt class="roma">joudan</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby> <ruby>泥<rt class="furi">どろ</rt><rt class="roma">doro</rt></ruby><ruby>団子<rt class="furi">だんご</rt><rt class="roma">dango</rt></ruby>
 </div>
 <div class="cn-lyric">[01:28.37]开玩笑啦 泥团子</div>
-<div class="cn-lyric">[01:28.37]开玩笑啦 泥团子</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:29.75]<ruby>みたい<rt class="roma">mitai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>もん<rt class="roma">mon</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby>
 </div>
-<div class="cn-lyric">[01:29.75]差不多吧</div>
 <div class="cn-lyric">[01:29.75]差不多吧</div>
 </div>
 
@@ -264,14 +251,12 @@ image: /images/songs/vwp/single-1818293103.jpg
 [01:32.21]<ruby>フィクション<rt class="roma">fyikushon</rt></ruby> <ruby>ノンフィクション<rt class="roma">nonfyikushon</rt></ruby>
 </div>
 <div class="cn-lyric">[01:32.21]虚构 非虚构</div>
-<div class="cn-lyric">[01:32.21]虚构 非虚构</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:33.75]<ruby>あくび<rt class="roma">akubi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>出<rt class="furi">で</rt><rt class="roma">de</rt></ruby><ruby>ちゃい<rt class="roma">chai</rt></ruby><ruby>そう<rt class="roma">sou</rt></ruby>
 </div>
-<div class="cn-lyric">[01:33.75]快要打哈欠了</div>
 <div class="cn-lyric">[01:33.75]快要打哈欠了</div>
 </div>
 

@@ -37,15 +37,6 @@ image: /images/albums/kaf/love-and-flower.jpg
 [00:02.11]<ruby>ラブラブラブ<rt class="roma">raburaburabu</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby> <ruby>嗚呼<rt class="furi">ああ</rt><rt class="roma">aa</rt></ruby>
 </div>
 <div class="trans-lyric">Love, love, love, ah</div>
-<div class="trans-lyric">Love, love, love, ah</div>
-<div class="trans-lyric">Love, love, love, ah</div>
-<div class="trans-lyric">Love, love, love, ah</div>
-<div class="trans-lyric">Love, love, love, ah</div>
-<div class="trans-lyric">Love, love, love, ah</div>
-<div class="trans-lyric">Love, love, love, ah</div>
-<div class="trans-lyric">Love, love, love, ah</div>
-<div class="trans-lyric">Love, love, love, ah</div>
-<div class="trans-lyric">Love, love, love, ah</div>
 </div>
 
 <div class="lyric-line">
@@ -136,7 +127,6 @@ image: /images/albums/kaf/love-and-flower.jpg
 [01:12.55]<ruby>まだ<rt class="roma">mada</rt></ruby><ruby>離<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>幻<rt class="furi">まぼろし</rt><rt class="roma">maboroshi</rt></ruby>
 </div>
 <div class="trans-lyric">[01:12.55]Don't let go yet, illusion</div>
-<div class="trans-lyric">Don't let go yet, illusion</div>
 </div>
 
 <div class="lyric-line">
@@ -144,7 +134,6 @@ image: /images/albums/kaf/love-and-flower.jpg
 [01:16.78]<ruby>繰り返<rt class="furi">くりかえ</rt><rt class="roma">kurikae</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>逃避行<rt class="furi">とうひこう</rt><rt class="roma">touhikou</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>ぬ<rt class="roma">nu</rt></ruby>
 </div>
 <div class="trans-lyric">[01:16.78]Not a repeated escape</div>
-<div class="trans-lyric">Not a repeated escape</div>
 </div>
 
 <div class="lyric-line">
@@ -152,7 +141,6 @@ image: /images/albums/kaf/love-and-flower.jpg
 [01:20.09]<ruby>夜間<rt class="furi">やかん</rt><rt class="roma">yakan</rt></ruby><ruby>飛行<rt class="furi">ひこう</rt><rt class="roma">hikou</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>たち<rt class="roma">tachi</rt></ruby>
 </div>
 <div class="trans-lyric">[01:20.09]On a night flight, we</div>
-<div class="trans-lyric">On a night flight, we</div>
 </div>
 
 <div class="lyric-line">
@@ -160,10 +148,6 @@ image: /images/albums/kaf/love-and-flower.jpg
 [01:23.75]<ruby>共鳴<rt class="furi">きょうめい</rt><rt class="roma">kyoumei</rt></ruby><ruby>中心<rt class="furi">ちゅうしん</rt><rt class="roma">chuushin</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>線<rt class="furi">せん</rt><rt class="roma">sen</rt></ruby>
 </div>
 <div class="trans-lyric">[01:23.75]Resonance center world line</div>
-<div class="trans-lyric">Resonance center world line</div>
-<div class="trans-lyric">Resonance center world line</div>
-<div class="trans-lyric">Resonance center world line</div>
-<div class="trans-lyric">Resonance center world line</div>
 </div>
 
 <div class="lyric-line">
@@ -171,7 +155,6 @@ image: /images/albums/kaf/love-and-flower.jpg
 [01:27.14]<ruby>眩<rt class="furi">まぶ</rt><rt class="roma">mabu</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>方<rt class="furi">ほう</rt><rt class="roma">hou</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby><ruby>走<rt class="furi">はし</rt><rt class="roma">hashi</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby>
 </div>
 <div class="trans-lyric">[01:27.14]I run toward the dazzling light</div>
-<div class="trans-lyric">I run toward the dazzling light</div>
 </div>
 
 <div class="lyric-line">
@@ -179,7 +162,6 @@ image: /images/albums/kaf/love-and-flower.jpg
 [01:30.74]<ruby>悲<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">[01:30.74]I won't say it's sad</div>
-<div class="trans-lyric">I won't say it's sad</div>
 </div>
 
 <div class="lyric-line">
@@ -187,7 +169,6 @@ image: /images/albums/kaf/love-and-flower.jpg
 [01:33.54]<ruby>だから<rt class="roma">dakara</rt></ruby><ruby>離<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>幻<rt class="furi">まぼろし</rt><rt class="roma">maboroshi</rt></ruby>
 </div>
 <div class="trans-lyric">[01:33.54]So don't let go, illusion</div>
-<div class="trans-lyric">So don't let go, illusion</div>
 </div>
 
 <div class="lyric-line">

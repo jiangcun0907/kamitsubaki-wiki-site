@@ -37,10 +37,6 @@ image: /images/albums/rim/singularity-live.jpg
 <ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>越<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">跨越黑夜</div>
-<div class="cn-lyric">跨越黑夜</div>
-<div class="cn-lyric">跨越黑夜</div>
-<div class="cn-lyric">跨越黑夜</div>
-<div class="cn-lyric">跨越黑夜</div>
 </div>
 
 <div class="lyric-line">
@@ -48,20 +44,12 @@ image: /images/albums/rim/singularity-live.jpg
 <ruby>闇<rt class="furi">やみ</rt><rt class="roma">yami</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>抜<rt class="furi">ぬ</rt><rt class="roma">nu</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">冲破黑暗</div>
-<div class="cn-lyric">冲破黑暗</div>
-<div class="cn-lyric">冲破黑暗</div>
-<div class="cn-lyric">冲破黑暗</div>
-<div class="cn-lyric">冲破黑暗</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>迎<rt class="furi">むか</rt><rt class="roma">muka</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>ゆこ<rt class="roma">yuko</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="cn-lyric">去迎接吧</div>
-<div class="cn-lyric">去迎接吧</div>
-<div class="cn-lyric">去迎接吧</div>
-<div class="cn-lyric">去迎接吧</div>
 <div class="cn-lyric">去迎接吧</div>
 </div>
 
@@ -90,8 +78,6 @@ image: /images/albums/rim/singularity-live.jpg
 <div class="jp-lyric">
 ♪
 </div>
-<div class="cn-lyric">♪</div>
-<div class="cn-lyric">♪</div>
 <div class="cn-lyric">♪</div>
 </div>
 
@@ -216,14 +202,12 @@ image: /images/albums/rim/singularity-live.jpg
 <ruby>傷<rt class="furi">きず</rt><rt class="roma">kizu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>海<rt class="furi">うみ</rt><rt class="roma">umi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby> <ruby>悩<rt class="furi">なや</rt><rt class="roma">naya</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>森<rt class="furi">もり</rt><rt class="roma">mori</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="cn-lyric">伤痕之海 烦恼之森</div>
-<div class="cn-lyric">伤痕之海 烦恼之森</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>厭<rt class="furi">いと</rt><rt class="roma">ito</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="cn-lyric">不厌烦</div>
 <div class="cn-lyric">不厌烦</div>
 </div>
 
@@ -256,7 +240,6 @@ image: /images/albums/rim/singularity-live.jpg
 <div class="jp-lyric">
 <ruby>光<rt class="furi">ひか</rt><rt class="roma">hika</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>朝<rt class="furi">あさ</rt><rt class="roma">asa</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby> <ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>背<rt class="furi">そむ</rt><rt class="roma">somu</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>ず<rt class="roma">zu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
-<div class="cn-lyric">对闪亮的早晨 不躲避目光</div>
 <div class="cn-lyric">对闪亮的早晨 不躲避目光</div>
 </div>
 

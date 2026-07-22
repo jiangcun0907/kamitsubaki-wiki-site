@@ -98,8 +98,6 @@ image: /images/albums/kaf/maho-gamma.jpg
 [00:55.93]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>どこ<rt class="roma">doko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>ける<rt class="roma">keru</rt></ruby>
 </div>
 <div class="trans-lyric">[00:55.93]We can go anywhere.</div>
-<div class="trans-lyric">We can go anywhere.</div>
-<div class="trans-lyric">We can go anywhere.</div>
 </div>
 
 <div class="lyric-line">
@@ -107,8 +105,6 @@ image: /images/albums/kaf/maho-gamma.jpg
 [01:02.60]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>どこ<rt class="roma">doko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby><ruby>飛<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>べる<rt class="roma">beru</rt></ruby>
 </div>
 <div class="trans-lyric">[01:02.60]We can fly anywhere.</div>
-<div class="trans-lyric">We can fly anywhere.</div>
-<div class="trans-lyric">We can fly anywhere.</div>
 </div>
 
 <div class="lyric-line">
@@ -123,7 +119,6 @@ image: /images/albums/kaf/maho-gamma.jpg
 [01:17.69]<ruby>景色<rt class="furi">けしき</rt><rt class="roma">keshiki</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>抱<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>きしめ<rt class="roma">kishime</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">[01:17.69]Embrace the scenery.</div>
-<div class="trans-lyric">Embrace the scenery.</div>
 </div>
 
 <div class="lyric-line">
@@ -131,7 +126,6 @@ image: /images/albums/kaf/maho-gamma.jpg
 [01:24.47]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>自由<rt class="furi">じゆう</rt><rt class="roma">jiyuu</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="trans-lyric">[01:24.47]I am free.</div>
-<div class="trans-lyric">I am free.</div>
 </div>
 
 <br />

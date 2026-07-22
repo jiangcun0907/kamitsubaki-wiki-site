@@ -78,7 +78,6 @@ image: /images/albums/vwp/awakening.jpg
 [00:36.94]<ruby>だって<rt class="roma">datte</rt></ruby> <ruby>だって<rt class="roma">datte</rt></ruby>
 </div>
 <div class="trans-lyric">Because, because</div>
-<div class="trans-lyric">Because, because</div>
 </div>
 
 <div class="lyric-line">

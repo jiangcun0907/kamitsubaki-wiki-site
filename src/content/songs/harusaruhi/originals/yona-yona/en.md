@@ -133,14 +133,12 @@ Ayy, yo <ruby>メンタル<rt class="roma">mentaru</rt></ruby><ruby>栄養<rt cl
 <ruby>一生<rt class="furi">いっしょう</rt><rt class="roma">isshou</rt></ruby> <ruby>戦戦兢兢<rt class="furi">せんせんきょうきょう</rt><rt class="roma">sensenkyoukyou</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>憂<rt class="furi">うれ</rt><rt class="roma">ure</rt></ruby><ruby>い<rt class="roma">i</rt></ruby>
 </div>
 <div class="trans-lyric">A lifetime of trembling with anxiety</div>
-<div class="trans-lyric">A lifetime of trembling with anxiety</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>なんて<rt class="roma">nante</rt></ruby><ruby>御免<rt class="furi">ごめん</rt><rt class="roma">gomen</rt></ruby><ruby>です<rt class="roma">desu</rt></ruby> <ruby>堂々<rt class="furi">どうどう</rt><rt class="roma">doudou</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
-<div class="trans-lyric">No thanks, because I want to live proudly</div>
 <div class="trans-lyric">No thanks, because I want to live proudly</div>
 </div>
 
@@ -149,7 +147,6 @@ Ayy, yo <ruby>メンタル<rt class="roma">mentaru</rt></ruby><ruby>栄養<rt cl
 <ruby>グッバイ<rt class="roma">gubbai</rt></ruby> <ruby>遠<rt class="furi">とお</rt><rt class="roma">too</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>遠<rt class="furi">とお</rt><rt class="roma">too</rt></ruby><ruby>い<rt class="roma">i</rt></ruby> <ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>敬礼<rt class="furi">けいれい</rt><rt class="roma">keirei</rt></ruby>
 </div>
 <div class="trans-lyric">Goodbye, salute to the distant, distant sky</div>
-<div class="trans-lyric">Goodbye, salute to the distant, distant sky</div>
 </div>
 
 <div class="lyric-line">
@@ -157,14 +154,12 @@ Ayy, yo <ruby>メンタル<rt class="roma">mentaru</rt></ruby><ruby>栄養<rt cl
 <ruby>典型<rt class="furi">てんけい</rt><rt class="roma">tenkei</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>グレー<rt class="roma">guree</rt></ruby><ruby>グレー<rt class="roma">guree</rt></ruby>
 </div>
 <div class="trans-lyric">The typical is gray gray</div>
-<div class="trans-lyric">The typical is gray gray</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>既存<rt class="furi">きそん</rt><rt class="roma">kison</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>依存<rt class="furi">いぞん</rt><rt class="roma">izon</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>視点<rt class="furi">してん</rt><rt class="roma">shiten</rt></ruby><ruby>変<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>そっか<rt class="roma">sokka</rt></ruby>
 </div>
-<div class="trans-lyric">Don't rely on the existing, change perspective, oh I see</div>
 <div class="trans-lyric">Don't rely on the existing, change perspective, oh I see</div>
 </div>
 
@@ -175,14 +170,12 @@ Ayy, yo <ruby>メンタル<rt class="roma">mentaru</rt></ruby><ruby>栄養<rt cl
 <ruby>剛<rt class="furi">つよし</rt><rt class="roma">tsuyoshi</rt></ruby><ruby>情<rt class="furi">じょう</rt><rt class="roma">jou</rt></ruby><ruby>後遺症<rt class="furi">こういしょう</rt><rt class="roma">kouishou</rt></ruby> <ruby>表情<rt class="furi">ひょうじょう</rt><rt class="roma">hyoujou</rt></ruby><ruby>微妙<rt class="furi">びみょう</rt><rt class="roma">bimyou</rt></ruby> <ruby>上層<rt class="furi">じょうそう</rt><rt class="roma">jousou</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>突<rt class="furi">つ</rt><rt class="roma">tsu</rt></ruby><ruby>っ<rt class="roma"></rt></ruby><ruby>立<rt class="furi">た</rt><rt class="roma">ta</rt></ruby><ruby>ってる<rt class="roma">tteru</rt></ruby>
 </div>
 <div class="trans-lyric">Stubborn aftermath, subtle expression, standing at the top</div>
-<div class="trans-lyric">Stubborn aftermath, subtle expression, standing at the top</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>表彰状<rt class="furi">ひょうしょうじょう</rt><rt class="roma">hyoushoujou</rt></ruby> <ruby>諸行無常<rt class="furi">しょぎょうむじょう</rt><rt class="roma">shogyoumujou</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby> <ruby>間際<rt class="furi">まぎわ</rt><rt class="roma">magiwa</rt></ruby><ruby>キラキラ<rt class="roma">kirakira</rt></ruby>
 </div>
-<div class="trans-lyric">Certificate of merit, all things are impermanent, right? On the brink, sparkling</div>
 <div class="trans-lyric">Certificate of merit, all things are impermanent, right? On the brink, sparkling</div>
 </div>
 
@@ -191,14 +184,12 @@ Ayy, yo <ruby>メンタル<rt class="roma">mentaru</rt></ruby><ruby>栄養<rt cl
 <ruby>挑戦<rt class="furi">ちょうせん</rt><rt class="roma">chousen</rt></ruby><ruby>しよ<rt class="roma">shiyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby> <ruby>序章<rt class="furi">じょしょう</rt><rt class="roma">joshou</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>妙<rt class="furi">みょう</rt><rt class="roma">myou</rt></ruby> <ruby>史上<rt class="furi">しじょう</rt><rt class="roma">shijou</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>異常<rt class="furi">いじょう</rt><rt class="roma">ijou</rt></ruby><ruby>ベイベー<rt class="roma">beibee</rt></ruby>
 </div>
 <div class="trans-lyric">Let's challenge, strange in the prologue, unprecedented anomaly baby</div>
-<div class="trans-lyric">Let's challenge, strange in the prologue, unprecedented anomaly baby</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>当然<rt class="furi">とうぜん</rt><rt class="roma">touzen</rt></ruby><ruby>ぼっち<rt class="roma">botchi</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>を<rt class="roma">wo</rt></ruby><ruby>ポッツ<rt class="roma">pottsu</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>口<rt class="furi">くち</rt><rt class="roma">kuchi</rt></ruby><ruby>ずさむ<rt class="roma">zusamu</rt></ruby> la-la-la
 </div>
-<div class="trans-lyric">Naturally alone, humming 'la-la-la' in pots</div>
 <div class="trans-lyric">Naturally alone, humming 'la-la-la' in pots</div>
 </div>
 
@@ -238,7 +229,6 @@ Ayy, yo <ruby>メンタル<rt class="roma">mentaru</rt></ruby><ruby>栄養<rt cl
 <div class="jp-lyric">
 <ruby>いやいや<rt class="roma">iyaiya</rt></ruby><ruby>全然<rt class="furi">ぜんぜん</rt><rt class="roma">zenzen</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>グダグダ<rt class="roma">gudaguda</rt></ruby> <ruby>まだ<rt class="roma">mada</rt></ruby><ruby>ギリ<rt class="roma">giri</rt></ruby><ruby>健全<rt class="furi">けんぜん</rt><rt class="roma">kenzen</rt></ruby> ya-ya-ya-ya
 </div>
-<div class="trans-lyric">No no, completely messy, still barely sane ya-ya-ya-ya</div>
 <div class="trans-lyric">No no, completely messy, still barely sane ya-ya-ya-ya</div>
 </div>
 

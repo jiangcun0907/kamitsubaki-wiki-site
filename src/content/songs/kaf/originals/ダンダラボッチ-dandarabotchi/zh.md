@@ -76,10 +76,6 @@ image: /images/albums/kaf/guwa.jpg
 [00:37.96]<ruby>ダンダラ<rt class="roma">dandara</rt></ruby> <ruby>ダ<rt class="roma">da</rt></ruby> <ruby>ダ<rt class="roma">da</rt></ruby> <ruby>ダンダラ<rt class="roma">dandara</rt></ruby>
 </div>
 <div class="cn-lyric">[00:37.96]当当啦 当 当 当当啦</div>
-<div class="cn-lyric">[00:37.96]当当啦 当 当 当当啦</div>
-<div class="cn-lyric">[00:37.96]当当啦 当 当 当当啦</div>
-<div class="cn-lyric">[00:37.96]当当啦 当 当 当当啦</div>
-<div class="cn-lyric">[00:37.96]当当啦 当 当 当当啦</div>
 </div>
 
 <div class="lyric-line">
@@ -92,7 +88,6 @@ image: /images/albums/kaf/guwa.jpg
 <div class="jp-lyric">
 [00:43.99]<ruby>ダンダラボッチ<rt class="roma">dandarabotchi</rt></ruby><ruby>転<rt class="furi">ころ</rt><rt class="roma">koro</rt></ruby><ruby>ぶ<rt class="roma">bu</rt></ruby> <ruby>どっち<rt class="roma">dotchi</rt></ruby>
 </div>
-<div class="cn-lyric">[00:43.99]当当啦童子摔倒 哪边</div>
 <div class="cn-lyric">[00:43.99]当当啦童子摔倒 哪边</div>
 </div>
 
@@ -114,7 +109,6 @@ image: /images/albums/kaf/guwa.jpg
 <div class="jp-lyric">
 [00:53.81]<ruby>なん<rt class="roma">nan</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>ぼっち<rt class="roma">botchi</rt></ruby><ruby>望<rt class="furi">のぞ</rt><rt class="roma">nozo</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby> Dodge
 </div>
-<div class="cn-lyric">[00:53.81]或者干脆渴望独自一人 Dodge</div>
 <div class="cn-lyric">[00:53.81]或者干脆渴望独自一人 Dodge</div>
 </div>
 

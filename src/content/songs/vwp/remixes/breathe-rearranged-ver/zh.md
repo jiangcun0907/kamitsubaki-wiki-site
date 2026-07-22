@@ -209,9 +209,9 @@ Every second counts and I can't afford to blink
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:35.40]Oh
+Oh
 </div>
-<div class="cn-lyric">[00:35.40]哦</div>
+<div class="cn-lyric">哦</div>
 </div>
 
 <br />
@@ -248,9 +248,9 @@ Just focus, calm down
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:12.89](Breathe)
+(Breathe)
 </div>
-<div class="cn-lyric">[00:12.89](呼吸)</div>
+<div class="cn-lyric">(呼吸)</div>
 </div>
 
 <br />

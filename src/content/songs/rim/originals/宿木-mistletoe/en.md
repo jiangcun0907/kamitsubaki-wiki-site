@@ -110,7 +110,6 @@ image: /images/albums/rim/new-romancer.jpg
 [01:05.05]<ruby>幼<rt class="furi">おさな</rt><rt class="roma">osana</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ゆえ<rt class="roma">yue</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>罪<rt class="furi">つみ</rt><rt class="roma">tsumi</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>、<ruby>それでも<rt class="roma">soredemo</rt></ruby>、<ruby>いい<rt class="roma">ii</rt></ruby>
 </div>
 <div class="trans-lyric">[01:05.05]Even if it's a sin born of youth, even so, it's fine</div>
-<div class="trans-lyric">Even if it's a sin born of youth, even so, it's fine</div>
 </div>
 
 <div class="lyric-line">

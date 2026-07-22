@@ -78,7 +78,6 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [00:38.75]<ruby>それなら<rt class="roma">sorenara</rt></ruby> <ruby>それなら<rt class="roma">sorenara</rt></ruby><ruby>どうして<rt class="roma">doushite</rt></ruby>
 </div>
 <div class="cn-lyric">[00:38.75]既然如此 既然如此為什麼</div>
-<div class="cn-lyric">[00:38.75]既然如此 既然如此為什麼</div>
 </div>
 
 <div class="lyric-line">
@@ -184,7 +183,6 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [02:35.08]Shooting a shower, scary invisible shadow
 </div>
 <div class="cn-lyric">[02:35.08]Shooting a shower, scary invisible shadow</div>
-<div class="cn-lyric">[02:35.08]Shooting a shower, scary invisible shadow</div>
 </div>
 
 <div class="lyric-line">
@@ -192,14 +190,12 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [02:43.66]<ruby>天使<rt class="furi">てんし</rt><rt class="roma">tenshi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>寂<rt class="furi">さび</rt><rt class="roma">sabi</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>そう<rt class="roma">sou</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
 <div class="cn-lyric">[02:43.66]天使看起來好寂寞呢</div>
-<div class="cn-lyric">[02:43.66]天使看起來好寂寞呢</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [02:48.13]Smile over kind in my story
 </div>
-<div class="cn-lyric">[02:48.13]Smile over kind in my story</div>
 <div class="cn-lyric">[02:48.13]Smile over kind in my story</div>
 </div>
 

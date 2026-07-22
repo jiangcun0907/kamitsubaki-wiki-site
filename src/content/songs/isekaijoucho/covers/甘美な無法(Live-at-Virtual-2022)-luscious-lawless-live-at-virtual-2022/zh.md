@@ -51,7 +51,6 @@ image: /images/albums/rim/singularity-live.jpg
 [00:22.00]<ruby>面<rt class="furi">めん</rt><rt class="roma">men</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>上<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>げ<rt class="roma">ge</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>、<ruby>両<rt class="furi">りょう</rt><rt class="roma">ryou</rt></ruby><ruby>眼<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>開<rt class="furi">ひら</rt><rt class="roma">hira</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[00:22.00]抬起脸，睁开双眼</div>
-<div class="cn-lyric">[00:22.00]抬起脸，睁开双眼</div>
 </div>
 
 <div class="lyric-line">
@@ -82,16 +81,12 @@ image: /images/albums/rim/singularity-live.jpg
 [00:36.59]<ruby>春<rt class="furi">はる</rt><rt class="roma">haru</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby><ruby>手向<rt class="furi">たむ</rt><rt class="roma">tamu</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby> <ruby>対<rt class="furi">たい</rt><rt class="roma">tai</rt></ruby><ruby>無<rt class="furi">む</rt><rt class="roma">mu</rt></ruby><ruby>象<rt class="furi">ぞう</rt><rt class="roma">zou</rt></ruby><ruby>ストーリー<rt class="roma">sutourii</rt></ruby><ruby>ライター<rt class="roma">raitaa</rt></ruby>
 </div>
 <div class="cn-lyric">[00:36.59]献给春天的无对象故事写手</div>
-<div class="cn-lyric">[00:36.59]献给春天的无对象故事写手</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:41.48]<ruby>厭<rt class="furi">いと</rt><rt class="roma">ito</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="cn-lyric">[00:41.48]别嫌弃啊</div>
-<div class="cn-lyric">[00:41.48]别嫌弃啊</div>
-<div class="cn-lyric">[00:41.48]别嫌弃啊</div>
 <div class="cn-lyric">[00:41.48]别嫌弃啊</div>
 </div>
 
@@ -152,7 +147,6 @@ image: /images/albums/rim/singularity-live.jpg
 [01:19.21]<ruby>そう<rt class="roma">sou</rt></ruby><ruby>勘違<rt class="furi">かんちが</rt><rt class="roma">kanchiga</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby>
 </div>
 <div class="cn-lyric">[01:19.21]就想这样误解啊</div>
-<div class="cn-lyric">[01:19.21]就想这样误解啊</div>
 </div>
 
 <div class="lyric-line">
@@ -160,14 +154,12 @@ image: /images/albums/rim/singularity-live.jpg
 [01:21.46]<ruby>痛<rt class="furi">いた</rt><rt class="roma">ita</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>のに<rt class="roma">noni</rt></ruby><ruby>と<rt class="roma">to</rt></ruby>
 </div>
 <div class="cn-lyric">[01:21.46]明明很痛</div>
-<div class="cn-lyric">[01:21.46]明明很痛</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:23.39]<ruby>単身<rt class="furi">たんしん</rt><rt class="roma">tanshin</rt></ruby><ruby>装備<rt class="furi">そうび</rt><rt class="roma">soubi</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>足<rt class="furi">た</rt><rt class="roma">ta</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="cn-lyric">[01:23.39]独自装备还不够</div>
 <div class="cn-lyric">[01:23.39]独自装备还不够</div>
 </div>
 
@@ -178,14 +170,12 @@ image: /images/albums/rim/singularity-live.jpg
 [01:26.87]<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>非常勤<rt class="furi">ひじょうきん</rt><rt class="roma">hijoukin</rt></ruby>
 </div>
 <div class="cn-lyric">[01:26.87]爱是兼职</div>
-<div class="cn-lyric">[01:26.87]爱是兼职</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:28.49]<ruby>それ<rt class="roma">sore</rt></ruby><ruby>すら<rt class="roma">sura</rt></ruby><ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>おしい<rt class="roma">oshii</rt></ruby>
 </div>
-<div class="cn-lyric">[01:28.49]连那都令人怜爱</div>
 <div class="cn-lyric">[01:28.49]连那都令人怜爱</div>
 </div>
 
@@ -194,7 +184,6 @@ image: /images/albums/rim/singularity-live.jpg
 [01:30.34]<ruby>今更<rt class="furi">いまさら</rt><rt class="roma">imasara</rt></ruby><ruby>迎<rt class="furi">むか</rt><rt class="roma">muka</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
 <div class="cn-lyric">[01:30.34]现在就去接你哦</div>
-<div class="cn-lyric">[01:30.34]现在就去接你哦</div>
 </div>
 
 <div class="lyric-line">
@@ -202,14 +191,12 @@ image: /images/albums/rim/singularity-live.jpg
 [01:34.10]<ruby>後悔<rt class="furi">こうかい</rt><rt class="roma">koukai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>疑問<rt class="furi">ぎもん</rt><rt class="roma">gimon</rt></ruby><ruby>視<rt class="furi">し</rt><rt class="roma">shi</rt></ruby>
 </div>
 <div class="cn-lyric">[01:34.10]质疑后悔</div>
-<div class="cn-lyric">[01:34.10]质疑后悔</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:35.72]<ruby>胡乱<rt class="furi">うろん</rt><rt class="roma">uron</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>試供<rt class="furi">しきょう</rt><rt class="roma">shikyou</rt></ruby><ruby>品<rt class="furi">ひん</rt><rt class="roma">hin</rt></ruby>
 </div>
-<div class="cn-lyric">[01:35.72]可疑的试用装</div>
 <div class="cn-lyric">[01:35.72]可疑的试用装</div>
 </div>
 

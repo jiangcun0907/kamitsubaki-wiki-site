@@ -100,14 +100,12 @@ image: /images/albums/rim/singularity-live.jpg
 [01:05.97]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>もし<rt class="roma">moshi</rt></ruby><ruby>望<rt class="furi">のぞ</rt><rt class="roma">nozo</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>ば<rt class="roma">ba</rt></ruby>
 </div>
 <div class="cn-lyric">[01:05.97]如果你有所期望</div>
-<div class="cn-lyric">[01:05.97]如果你有所期望</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:09.06]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>もし<rt class="roma">moshi</rt></ruby><ruby>願<rt class="furi">ねが</rt><rt class="roma">nega</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ば<rt class="roma">ba</rt></ruby>
 </div>
-<div class="cn-lyric">[01:09.06]如果你有所祈愿</div>
 <div class="cn-lyric">[01:09.06]如果你有所祈愿</div>
 </div>
 
@@ -116,19 +114,12 @@ image: /images/albums/rim/singularity-live.jpg
 [01:12.22]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>決<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>まってる<rt class="roma">matteru</rt></ruby>
 </div>
 <div class="cn-lyric">[01:12.22]我的心意已定</div>
-<div class="cn-lyric">[01:12.22]我的心意已定</div>
-<div class="cn-lyric">[01:12.22]我的心意已定</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:15.80]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>助<rt class="furi">たす</rt><rt class="roma">tasu</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="cn-lyric">[01:15.80]我会去帮助你</div>
-<div class="cn-lyric">[01:15.80]我会去帮助你</div>
-<div class="cn-lyric">[01:15.80]我也会去帮助你</div>
-<div class="cn-lyric">[01:15.80]我会去帮助你</div>
-<div class="cn-lyric">[01:15.80]我会去帮助你</div>
 <div class="cn-lyric">[01:15.80]我会去帮助你</div>
 </div>
 
@@ -137,7 +128,6 @@ image: /images/albums/rim/singularity-live.jpg
 [01:18.58]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>もし<rt class="roma">moshi</rt></ruby><ruby>望<rt class="furi">のぞ</rt><rt class="roma">nozo</rt></ruby><ruby>ま<rt class="roma">ma</rt></ruby><ruby>ず<rt class="roma">zu</rt></ruby>
 </div>
 <div class="cn-lyric">[01:18.58]如果你不期望</div>
-<div class="cn-lyric">[01:18.58]如果你不期望</div>
 </div>
 
 <div class="lyric-line">
@@ -145,14 +135,12 @@ image: /images/albums/rim/singularity-live.jpg
 [01:21.67]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>もし<rt class="roma">moshi</rt></ruby><ruby>願<rt class="furi">ねが</rt><rt class="roma">nega</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>ず<rt class="roma">zu</rt></ruby>
 </div>
 <div class="cn-lyric">[01:21.67]如果你不祈愿</div>
-<div class="cn-lyric">[01:21.67]如果你不祈愿</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:24.84]<ruby>でも<rt class="roma">demo</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>もう<rt class="roma">mou</rt></ruby><ruby>決<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby>
 </div>
-<div class="cn-lyric">[01:24.84]但我早已下定决心</div>
 <div class="cn-lyric">[01:24.84]但我早已下定决心</div>
 </div>
 

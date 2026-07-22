@@ -66,7 +66,6 @@ image: /images/songs/isekaijoucho/single-1687474422.jpg
 [00:21.28]<ruby>ぱぱぱ<rt class="roma">papapa</rt></ruby>
 </div>
 <div class="trans-lyric">[00:21.28]pa pa pa</div>
-<div class="trans-lyric">pa pa pa</div>
 </div>
 
 <div class="lyric-line">
@@ -135,7 +134,6 @@ image: /images/songs/isekaijoucho/single-1687474422.jpg
 [00:55.13]<ruby>ひらり<rt class="roma">hirari</rt></ruby>、<ruby>ありふれ<rt class="roma">arifure</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>純情<rt class="furi">じゅんじょう</rt><rt class="roma">junjou</rt></ruby>
 </div>
 <div class="trans-lyric">[00:55.13]Fluttering, commonplace, innocent</div>
-<div class="trans-lyric">Fluttering, commonplace, innocent</div>
 </div>
 
 <div class="lyric-line">
@@ -143,7 +141,6 @@ image: /images/songs/isekaijoucho/single-1687474422.jpg
 [00:58.47]屹<ruby>度<rt class="furi">ど</rt><rt class="roma">do</rt></ruby> <ruby>晴<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>れやか<rt class="roma">reyaka</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">[00:58.47]Surely, cheerfully</div>
-<div class="trans-lyric">Surely, cheerfully</div>
 </div>
 
 <div class="lyric-line">
@@ -160,7 +157,6 @@ image: /images/songs/isekaijoucho/single-1687474422.jpg
 [01:08.56]<ruby>光<rt class="furi">ひかり</rt><rt class="roma">hikari</rt></ruby> <ruby>浴<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>び<rt class="roma">bi</rt></ruby><ruby>ながら<rt class="roma">nagara</rt></ruby><ruby>煌<rt class="furi">きら</rt><rt class="roma">kira</rt></ruby><ruby>めけ<rt class="roma">meke</rt></ruby>
 </div>
 <div class="trans-lyric">[01:08.56]Shine while bathing in light</div>
-<div class="trans-lyric">Shine while bathing in light</div>
 </div>
 
 <div class="lyric-line">
@@ -168,7 +164,6 @@ image: /images/songs/isekaijoucho/single-1687474422.jpg
 [01:11.81]<ruby>いつか<rt class="roma">itsuka</rt></ruby><ruby>雨上<rt class="furi">あめあ</rt><rt class="roma">amea</rt></ruby><ruby>がり<rt class="roma">gari</rt></ruby>
 </div>
 <div class="trans-lyric">[01:11.81]Someday after the rain</div>
-<div class="trans-lyric">Someday after the rain</div>
 </div>
 
 <div class="lyric-line">
@@ -176,7 +171,6 @@ image: /images/songs/isekaijoucho/single-1687474422.jpg
 [01:16.84]<ruby>末代<rt class="furi">まつだい</rt><rt class="roma">matsudai</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby>
 </div>
 <div class="trans-lyric">[01:16.84]Until the end of time</div>
-<div class="trans-lyric">Until the end of time</div>
 </div>
 
 <div class="lyric-line">
@@ -184,7 +178,6 @@ image: /images/songs/isekaijoucho/single-1687474422.jpg
 [01:18.82]<ruby>呪<rt class="furi">まじな</rt><rt class="roma">majina</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>かけ<rt class="roma">kake</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>祭<rt class="furi">まつ</rt><rt class="roma">matsu</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>騒<rt class="furi">さわ</rt><rt class="roma">sawa</rt></ruby><ruby>ぎ<rt class="roma">gi</rt></ruby>
 </div>
 <div class="trans-lyric">[01:18.82]Casting a curse, festival frenzy</div>
-<div class="trans-lyric">Casting a curse, festival frenzy</div>
 </div>
 
 <br />

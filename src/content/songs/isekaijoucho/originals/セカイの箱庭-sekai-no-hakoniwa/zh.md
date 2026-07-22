@@ -112,7 +112,6 @@ image: /images/songs/isekaijoucho/single-1757778011.jpg
 [01:01.60]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>この<rt class="roma">kono</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>希望<rt class="furi">きぼう</rt><rt class="roma">kibou</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>きれ<rt class="roma">kire</rt></ruby><ruby>ば<rt class="roma">ba</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby>
 </div>
 <div class="cn-lyric">[01:01.60]在这只属于我的世界里 该以何为希望活下去</div>
-<div class="cn-lyric">[01:01.60]在这只属于我的世界里 该以何为希望活下去</div>
 </div>
 
 <div class="lyric-line">
@@ -120,14 +119,12 @@ image: /images/songs/isekaijoucho/single-1757778011.jpg
 [01:08.99]<ruby>穢<rt class="furi">けが</rt><rt class="roma">kega</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>など<rt class="roma">nado</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> <ruby>綺麗<rt class="furi">きれい</rt><rt class="roma">kirei</rt></ruby><ruby>過<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>ぎ<rt class="roma">gi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby>
 </div>
 <div class="cn-lyric">[01:08.99]毫无污秽 过于美丽的世界</div>
-<div class="cn-lyric">[01:08.99]毫无污秽 过于美丽的世界</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:13.54]<ruby>箱庭<rt class="furi">はこにわ</rt><rt class="roma">hakoniwa</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
-<div class="cn-lyric">[01:13.54]在盆景园中</div>
 <div class="cn-lyric">[01:13.54]在盆景园中</div>
 </div>
 

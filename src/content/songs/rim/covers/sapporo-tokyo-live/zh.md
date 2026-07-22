@@ -115,7 +115,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:48.86](Tu-ru-ru, tu-ru-ru, tu-ru-ru) yeah
 </div>
 <div class="cn-lyric">[00:48.86](Tu-ru-ru, tu-ru-ru, tu-ru-ru) yeah</div>
-<div class="cn-lyric">[00:48.86](Tu-ru-ru, tu-ru-ru, tu-ru-ru) yeah</div>
 </div>
 
 <br />
@@ -124,7 +123,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 <div class="jp-lyric">
 [00:53.34]<ruby>さあ<rt class="roma">saa</rt></ruby>、<ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>こ<rt class="roma">ko</rt></ruby><ruby>う<rt class="roma">u</rt></ruby> <ruby>帰<rt class="furi">かえ</rt><rt class="roma">kae</rt></ruby><ruby>ろ<rt class="roma">ro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="cn-lyric">[00:53.34]来吧，出发吧 回去吧</div>
 <div class="cn-lyric">[00:53.34]来吧，出发吧 回去吧</div>
 </div>
 
@@ -140,14 +138,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:58.97]One, two, three <ruby>で<rt class="roma">de</rt></ruby> flying up
 </div>
 <div class="cn-lyric">[00:58.97]One, two, three 飞起来</div>
-<div class="cn-lyric">[00:58.97]One, two, three 飞起来</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:01.51]<ruby>チケット<rt class="roma">chiketto</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>高<rt class="furi">たか</rt><rt class="roma">taka</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>や<rt class="roma">ya</rt></ruby>
 </div>
-<div class="cn-lyric">[01:01.51]票价真高啊</div>
 <div class="cn-lyric">[01:01.51]票价真高啊</div>
 </div>
 
@@ -163,14 +159,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [01:10.24]A, B, C <ruby>で<rt class="roma">de</rt></ruby> coming back
 </div>
 <div class="cn-lyric">[01:10.24]A, B, C 回来</div>
-<div class="cn-lyric">[01:10.24]A, B, C 回来</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:12.84]<ruby>ありがとう<rt class="roma">arigatou</rt></ruby> <ruby>ただいま<rt class="roma">tadaima</rt></ruby>
 </div>
-<div class="cn-lyric">[01:12.84]谢谢 我回来了</div>
 <div class="cn-lyric">[01:12.84]谢谢 我回来了</div>
 </div>
 
@@ -179,18 +173,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [01:15.81](Tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-tu)
 </div>
 <div class="cn-lyric">[01:15.81](Tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-tu)</div>
-<div class="cn-lyric">[01:15.81](Tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-tu)</div>
-<div class="cn-lyric">[01:15.81](Tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-tu)</div>
-<div class="cn-lyric">[01:15.81](Tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-tu)</div>
-<div class="cn-lyric">[01:15.81](Tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-tu)</div>
-<div class="cn-lyric">[01:15.81](Tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-tu)</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:19.75]Sapporo Tokyo
 </div>
-<div class="cn-lyric">[01:19.75]Sapporo Tokyo</div>
 <div class="cn-lyric">[01:19.75]Sapporo Tokyo</div>
 </div>
 

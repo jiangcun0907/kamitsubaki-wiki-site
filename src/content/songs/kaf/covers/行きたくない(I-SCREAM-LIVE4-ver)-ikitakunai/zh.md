@@ -64,7 +64,6 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 [00:51.53]<ruby>パソコン<rt class="roma">pasokon</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>画面<rt class="furi">がめん</rt><rt class="roma">gamen</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>頭痛<rt class="furi">ずつう</rt><rt class="roma">zutsuu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>便<rt class="furi">たよ</rt><rt class="roma">tayo</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby>
 </div>
 <div class="cn-lyric">[00:51.53]从电脑屏幕传来头痛的消息</div>
-<div class="cn-lyric">[00:51.53]从电脑屏幕传来头痛的消息</div>
 </div>
 
 <div class="lyric-line">
@@ -81,9 +80,6 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 [01:07.21]<ruby>学校<rt class="furi">がっこう</rt><rt class="roma">gakkou</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>たく<rt class="roma">taku</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:07.21]不想去学校啊</div>
-<div class="cn-lyric">[01:07.21]不想去学校啊</div>
-<div class="cn-lyric">[01:07.21]不想去学校啊</div>
-<div class="cn-lyric">[01:07.21]不想去学校啊</div>
 </div>
 
 <div class="lyric-line">
@@ -98,16 +94,12 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 [01:22.00]<ruby>だから<rt class="roma">dakara</rt></ruby> <ruby>これ<rt class="roma">kore</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ズル<rt class="roma">zuru</rt></ruby><ruby>休<rt class="furi">やす</rt><rt class="roma">yasu</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
 <div class="cn-lyric">[01:22.00]所以 这不算装病请假吧</div>
-<div class="cn-lyric">[01:22.00]所以 这不算装病请假吧</div>
-<div class="cn-lyric">[01:22.00]所以 这不算装病请假吧</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:30.05]<ruby>ズル<rt class="roma">zuru</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>休<rt class="furi">やす</rt><rt class="roma">yasu</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby>
 </div>
-<div class="cn-lyric">[01:30.05]这不是偷懒的休假</div>
-<div class="cn-lyric">[01:30.05]这不是偷懒的休假</div>
 <div class="cn-lyric">[01:30.05]这不是偷懒的休假</div>
 </div>
 

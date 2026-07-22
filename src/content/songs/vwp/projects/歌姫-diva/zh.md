@@ -97,7 +97,6 @@ image: /images/albums/vwp/songstress.jpg
 [00:52.612]<ruby>二<rt class="furi">に</rt><rt class="roma">ni</rt></ruby><ruby>人<rt class="furi">にん</rt><rt class="roma">nin</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
 <div class="cn-lyric">[00:52.612]想要两个人一起生活</div>
-<div class="cn-lyric">想要两个人一起生活</div>
 </div>
 
 <div class="lyric-line">
@@ -105,7 +104,6 @@ image: /images/albums/vwp/songstress.jpg
 [00:56.156]<ruby>どんな<rt class="roma">donna</rt></ruby><ruby>ふう<rt class="roma">fuu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>笑<rt class="furi">わら</rt><rt class="roma">wara</rt></ruby><ruby>ったり<rt class="roma">ttari</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>... <ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>せる<rt class="roma">seru</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>？
 </div>
 <div class="cn-lyric">[00:56.156]会怎样笑着呢... 能够去爱吗？</div>
-<div class="cn-lyric">会怎样笑着呢... 能够去爱吗？</div>
 </div>
 
 <div class="lyric-line">
@@ -113,7 +111,6 @@ image: /images/albums/vwp/songstress.jpg
 [01:00.601]<ruby>あこがれ<rt class="roma">akogare</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>先<rt class="furi">さき</rt><rt class="roma">saki</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
 </div>
 <div class="cn-lyric">[01:00.601]向着憧憬的前方</div>
-<div class="cn-lyric">向着憧憬的前方</div>
 </div>
 
 <div class="lyric-line">
@@ -121,7 +118,6 @@ image: /images/albums/vwp/songstress.jpg
 [01:03.455]<ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>すぐ<rt class="roma">sugu</rt></ruby><ruby>きみ<rt class="roma">kimi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>連<rt class="furi">つ</rt><rt class="roma">tsu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ゆく<rt class="roma">yuku</rt></ruby>！
 </div>
 <div class="cn-lyric">[01:03.455]现在就带你去！</div>
-<div class="cn-lyric">现在就带你去！</div>
 </div>
 
 <div class="lyric-line">

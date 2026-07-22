@@ -36,7 +36,6 @@ rose (Cover Live) appears on CANDY LIVE 3 (Cover Live) or a related official rel
 హ హ హ హ హ హ హ హ
 </div>
 <div class="trans-lyric">Ha ha ha ha ha ha ha ha</div>
-<div class="trans-lyric">Ha ha ha ha ha ha ha ha</div>
 </div>
 
 <div class="lyric-line">
@@ -57,18 +56,12 @@ rose (Cover Live) appears on CANDY LIVE 3 (Cover Live) or a related official rel
 rose rose rose rose రోజాపువ్వా
 </div>
 <div class="trans-lyric">rose rose rose rose rose flower</div>
-<div class="trans-lyric">rose rose rose rose rose flower</div>
-<div class="trans-lyric">rose rose rose rose rose flower</div>
-<div class="trans-lyric">rose rose rose rose rose flower</div>
-<div class="trans-lyric">rose rose rose rose rose flower</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 రోజాపువ్వా
 </div>
-<div class="trans-lyric">rose flower</div>
-<div class="trans-lyric">rose flower</div>
 <div class="trans-lyric">rose flower</div>
 </div>
 
@@ -77,8 +70,6 @@ rose rose rose rose రోజాపువ్వా
 పువ్వా పువ్వా
 </div>
 <div class="trans-lyric">flower flower</div>
-<div class="trans-lyric">flower flower</div>
-<div class="trans-lyric">flower flower</div>
 </div>
 
 <div class="lyric-line">
@@ -86,19 +77,12 @@ rose rose rose rose రోజాపువ్వా
 రోజు రోజు రోజు రోజు పూస్తూ ఉన్న
 </div>
 <div class="trans-lyric">Day day day day blooming</div>
-<div class="trans-lyric">Day day day day blooming</div>
-<div class="trans-lyric">Day day day day blooming</div>
-<div class="trans-lyric">Day day day day blooming</div>
-<div class="trans-lyric">Day day day day blooming</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 పువ్వే నువ్వా
 </div>
-<div class="trans-lyric">Are you a flower?</div>
-<div class="trans-lyric">Are you a flower?</div>
-<div class="trans-lyric">Are you a flower?</div>
 <div class="trans-lyric">Are you a flower?</div>
 </div>
 
@@ -109,9 +93,6 @@ rose rose rose rose రోజాపువ్వా
 నవ్వే నువ్వా
 </div>
 <div class="trans-lyric">Are you laughing?</div>
-<div class="trans-lyric">Are you laughing?</div>
-<div class="trans-lyric">Are you laughing?</div>
-<div class="trans-lyric">Are you laughing?</div>
 </div>
 
 <div class="lyric-line">
@@ -119,14 +100,12 @@ rose rose rose rose రోజాపువ్వా
 రేకు విచ్చుకున్న సోకుబంధి పువ్వే నువ్వా
 </div>
 <div class="trans-lyric">Are you the flower with petals spread open?</div>
-<div class="trans-lyric">Are you the flower with petals spread open?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 ముద్దు పెట్టకుండా ఘల్లు మంన మువ్వె నువ్వా
 </div>
-<div class="trans-lyric">Are you the anklet that jingles without a kiss?</div>
 <div class="trans-lyric">Are you the anklet that jingles without a kiss?</div>
 </div>
 
@@ -155,9 +134,6 @@ rose rose rose rose రోజాపువ్వా
 <div class="jp-lyric">
 పువ్వా
 </div>
-<div class="trans-lyric">flower</div>
-<div class="trans-lyric">flower</div>
-<div class="trans-lyric">flower</div>
 <div class="trans-lyric">flower</div>
 </div>
 
@@ -195,16 +171,12 @@ rose rose rose rose రోజాపువ్వా
 గులాబి గుః
 </div>
 <div class="trans-lyric">rose hoo</div>
-<div class="trans-lyric">rose hoo</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 గుః గుః
 </div>
-<div class="trans-lyric">hoo hoo</div>
-<div class="trans-lyric">hoo hoo</div>
-<div class="trans-lyric">hoo hoo</div>
 <div class="trans-lyric">hoo hoo</div>
 </div>
 
@@ -336,9 +308,6 @@ rose rose rose rose రోజాపువ్వా
 గులాబి
 </div>
 <div class="trans-lyric">rose</div>
-<div class="trans-lyric">rose</div>
-<div class="trans-lyric">rose</div>
-<div class="trans-lyric">rose</div>
 </div>
 
 <div class="lyric-line">
@@ -369,7 +338,6 @@ rose rose rose rose రోజాపువ్వా
 <div class="jp-lyric">
 గుః
 </div>
-<div class="trans-lyric">hoo</div>
 <div class="trans-lyric">hoo</div>
 </div>
 
@@ -472,7 +440,6 @@ rose rose rose rose రోజాపువ్వా
 <div class="jp-lyric">
 రోజాపువ్వా పువ్వా పువ్వా
 </div>
-<div class="trans-lyric">rose flower flower flower</div>
 <div class="trans-lyric">rose flower flower flower</div>
 </div>
 

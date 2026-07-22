@@ -38,7 +38,6 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 <ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby>
 </div>
 <div class="trans-lyric">Only you can see them</div>
-<div class="trans-lyric">Only you can see them</div>
 </div>
 
 <div class="lyric-line">

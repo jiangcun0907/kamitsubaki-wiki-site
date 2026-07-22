@@ -71,16 +71,12 @@ Hey <ruby>この世<rt class="furi">このよ</rt><rt class="roma">konoyo</rt></
 <ruby>それ<rt class="roma">sore</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby> True True True True Tu-True
 </div>
 <div class="trans-lyric">It's True True True True Tu-True</div>
-<div class="trans-lyric">It's True True True True Tu-True</div>
-<div class="trans-lyric">It's True True True True Tu-True</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Turtu True True True True Tu-True
 </div>
-<div class="trans-lyric">Turtu True True True True Tu-True</div>
-<div class="trans-lyric">Turtu True True True True Tu-True</div>
 <div class="trans-lyric">Turtu True True True True Tu-True</div>
 </div>
 
@@ -134,7 +130,6 @@ Turtu True True True True Tu-True
 <ruby>想<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>言語<rt class="furi">げんご</rt><rt class="roma">gengo</rt></ruby><ruby>化<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>しよ<rt class="roma">shiyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>ぜ<rt class="roma">ze</rt></ruby>
 </div>
 <div class="trans-lyric">Let's verbalize our feelings</div>
-<div class="trans-lyric">Let's verbalize our feelings</div>
 </div>
 
 <div class="lyric-line">
@@ -148,14 +143,12 @@ Turtu True True True True Tu-True
 <ruby>想像<rt class="furi">そうぞう</rt><rt class="roma">souzou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>果<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>てしなく<rt class="roma">teshinaku</rt></ruby><ruby>自由<rt class="furi">じゆう</rt><rt class="roma">jiyuu</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby> OK
 </div>
 <div class="trans-lyric">Imagination is endlessly free, OK</div>
-<div class="trans-lyric">Imagination is endlessly free, OK</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 True True True True Tu-True
 </div>
-<div class="trans-lyric">True True True True Tu-True</div>
 <div class="trans-lyric">True True True True Tu-True</div>
 </div>
 
@@ -164,14 +157,12 @@ True True True True Tu-True
 <ruby>それ<rt class="roma">sore</rt></ruby><ruby>じゃあ<rt class="roma">jaa</rt></ruby> <ruby>お<rt class="roma">o</rt></ruby><ruby>後<rt class="furi">ご</rt><rt class="roma">go</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>よろしい<rt class="roma">yoroshii</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">Well then, that's all for now</div>
-<div class="trans-lyric">Well then, that's all for now</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Turtu True True True
 </div>
-<div class="trans-lyric">Turtu True True True</div>
 <div class="trans-lyric">Turtu True True True</div>
 </div>
 
@@ -182,14 +173,12 @@ Turtu True True True
 Oh <ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>形<rt class="furi">かたち</rt><rt class="roma">katachi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>もの<rt class="roma">mono</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>あり<rt class="roma">ari</rt></ruby>
 </div>
 <div class="trans-lyric">Oh, there are things invisible and formless</div>
-<div class="trans-lyric">Oh, there are things invisible and formless</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>でも<rt class="roma">demo</rt></ruby><ruby>それ<rt class="roma">sore</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>それぞれ<rt class="roma">sorezore</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>名前<rt class="furi">なまえ</rt><rt class="roma">namae</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ある<rt class="roma">aru</rt></ruby>
 </div>
-<div class="trans-lyric">But each of them has its own name</div>
 <div class="trans-lyric">But each of them has its own name</div>
 </div>
 
@@ -198,8 +187,6 @@ Oh <ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>に<rt
 L-O-V-E <ruby>例<rt class="furi">たと</rt><rt class="roma">tato</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby>
 </div>
 <div class="trans-lyric">L-O-V-E, for example, love</div>
-<div class="trans-lyric">L-O-V-E, for example, love</div>
-<div class="trans-lyric">L-O-V-E, for example, love</div>
 </div>
 
 <div class="lyric-line">
@@ -207,14 +194,12 @@ L-O-V-E <ruby>例<rt class="furi">たと</rt><rt class="roma">tato</rt></ruby><r
 <ruby>今日<rt class="furi">きょう</rt><rt class="roma">kyou</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>そんな<rt class="roma">sonna</rt></ruby><ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>探<rt class="furi">さが</rt><rt class="roma">saga</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby>
 </div>
 <div class="trans-lyric">Today too we're searching for such words</div>
-<div class="trans-lyric">Today too we're searching for such words</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>形<rt class="furi">かたち</rt><rt class="roma">katachi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>もの<rt class="roma">mono</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>ふっと<rt class="roma">futto</rt></ruby>
 </div>
-<div class="trans-lyric">Suddenly, for those invisible, formless things</div>
 <div class="trans-lyric">Suddenly, for those invisible, formless things</div>
 </div>
 
@@ -232,14 +217,12 @@ L-O-V-E <ruby>例<rt class="furi">たと</rt><rt class="roma">tato</rt></ruby><r
 <ruby>あ<rt class="roma">a</rt></ruby>～ (<ruby>あ<rt class="roma">a</rt></ruby>～) <ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>語<rt class="furi">かた</rt><rt class="roma">kata</rt></ruby><ruby>ろ<rt class="roma">ro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby> <ruby>それ<rt class="roma">sore</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
 </div>
 <div class="trans-lyric">Ah~ (Ah~) Let's talk about love, that's it</div>
-<div class="trans-lyric">Ah~ (Ah~) Let's talk about love, that's it</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>い<rt class="roma">i</rt></ruby>～ (<ruby>い<rt class="roma">i</rt></ruby>～) <ruby>鼻歌<rt class="furi">はなうた</rt><rt class="roma">hanauta</rt></ruby><ruby>交<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>じり<rt class="roma">jiri</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
-<div class="trans-lyric">I~ (I~) Humming a tune</div>
 <div class="trans-lyric">I~ (I~) Humming a tune</div>
 </div>
 
@@ -248,14 +231,12 @@ L-O-V-E <ruby>例<rt class="furi">たと</rt><rt class="roma">tato</rt></ruby><r
 <ruby>う<rt class="roma">u</rt></ruby>～ (<ruby>う<rt class="roma">u</rt></ruby>～) <ruby>勇気<rt class="furi">ゆうき</rt><rt class="roma">yuuki</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby>
 </div>
 <div class="trans-lyric">U~ (U~) Words of courage</div>
-<div class="trans-lyric">U~ (U~) Words of courage</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>えいえい<rt class="roma">eiei</rt></ruby> <ruby>お<rt class="roma">o</rt></ruby>～
 </div>
-<div class="trans-lyric">Ei ei oh~</div>
 <div class="trans-lyric">Ei ei oh~</div>
 </div>
 

@@ -78,7 +78,6 @@ image: /images/albums/koko/prayer.jpg
 [00:41.96]<ruby>勝ち取<rt class="furi">かちと</rt><rt class="roma">kachito</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby> <ruby>足掻<rt class="furi">あが</rt><rt class="roma">aga</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
 </div>
 <div class="trans-lyric">[00:41.96]Win, if you learned by struggling</div>
-<div class="trans-lyric">Win, if you learned by struggling</div>
 </div>
 
 <div class="lyric-line">
@@ -93,8 +92,6 @@ image: /images/albums/koko/prayer.jpg
 [00:47.44]<ruby>超<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">[00:47.44]Beyond</div>
-<div class="trans-lyric">Beyond</div>
-<div class="trans-lyric">Beyond</div>
 </div>
 
 <div class="lyric-line">
@@ -130,7 +127,6 @@ image: /images/albums/koko/prayer.jpg
 [01:15.48]<ruby>決<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>られ<rt class="roma">rare</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>回答<rt class="furi">かいとう</rt><rt class="roma">kaitou</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby> <ruby>脆弱<rt class="furi">ぜいじゃく</rt><rt class="roma">zeijaku</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>面影<rt class="furi">おもかげ</rt><rt class="roma">omokage</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="trans-lyric">[01:15.48]Both predetermined answers and fragile resemblances</div>
-<div class="trans-lyric">Both the predetermined answers and fragile resemblances</div>
 </div>
 
 <div class="lyric-line">
@@ -138,7 +134,6 @@ image: /images/albums/koko/prayer.jpg
 [01:19.96]<ruby>遠<rt class="furi">とお</rt><rt class="roma">too</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby> (HA×4)
 </div>
 <div class="trans-lyric">[01:19.96]Far away (HA×4)</div>
-<div class="trans-lyric">Far away (HA×4)</div>
 </div>
 
 <div class="lyric-line">

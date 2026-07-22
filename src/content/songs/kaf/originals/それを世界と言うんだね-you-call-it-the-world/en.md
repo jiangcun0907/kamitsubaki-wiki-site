@@ -36,8 +36,6 @@ image: /images/albums/kaf/kyoso.jpg
 [00:00.77]<ruby>もしも<rt class="roma">moshimo</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>主人公<rt class="furi">しゅじんこう</rt><rt class="roma">shujinkou</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
 </div>
 <div class="trans-lyric">If I were the protagonist</div>
-<div class="trans-lyric">If I were the protagonist</div>
-<div class="trans-lyric">If I were the protagonist</div>
 </div>
 
 <div class="lyric-line">
@@ -65,7 +63,6 @@ image: /images/albums/kaf/kyoso.jpg
 <div class="jp-lyric">
 [00:15.55]<ruby>もしも<rt class="roma">moshimo</rt></ruby><ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>主人公<rt class="furi">しゅじんこう</rt><rt class="roma">shujinkou</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
 </div>
-<div class="trans-lyric">If I were the protagonist</div>
 <div class="trans-lyric">If I were the protagonist</div>
 </div>
 
@@ -151,14 +148,12 @@ image: /images/albums/kaf/kyoso.jpg
 [01:06.26]<ruby>ようやく<rt class="roma">youyaku</rt></ruby><ruby>気<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>づい<rt class="roma">zui</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="trans-lyric">I finally realized</div>
-<div class="trans-lyric">I finally realized</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:09.53]<ruby>それ<rt class="roma">sore</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
-<div class="trans-lyric">That is what you call a world</div>
 <div class="trans-lyric">That is what you call a world</div>
 </div>
 

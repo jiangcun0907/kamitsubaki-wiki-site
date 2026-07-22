@@ -64,7 +64,6 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [00:34.48]<ruby>はじき出<rt class="furi">はじきだ</rt><rt class="roma">hajikida</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>答<rt class="furi">こた</rt><rt class="roma">kota</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>全<rt class="furi">すべ</rt><rt class="roma">sube</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
 </div>
 <div class="cn-lyric">[00:34.48]所得到的全部答案</div>
-<div class="cn-lyric">[00:34.48]所得到的全部答案</div>
 </div>
 
 <div class="lyric-line">
@@ -93,7 +92,6 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [00:45.28]<ruby>いつか<rt class="roma">itsuka</rt></ruby><ruby>君<rt class="furi">くん</rt><rt class="roma">kun</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>捧<rt class="furi">ささ</rt><rt class="roma">sasa</rt></ruby><ruby>げ<rt class="roma">ge</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby>
 </div>
 <div class="cn-lyric">[00:45.28]曾经献给你的那首歌</div>
-<div class="cn-lyric">[00:45.28]曾经献给你的那首歌</div>
 </div>
 
 <div class="lyric-line">
@@ -108,14 +106,12 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [00:56.50]<ruby>風<rt class="furi">かぜ</rt><rt class="roma">kaze</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>吹<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>とん<rt class="roma">ton</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>ゆけ<rt class="roma">yuke</rt></ruby>
 </div>
 <div class="cn-lyric">[00:56.50]随风飘散而去吧</div>
-<div class="cn-lyric">[00:56.50]随风飘散而去吧</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:01.86]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>出会<rt class="furi">であ</rt><rt class="roma">dea</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>あの<rt class="roma">ano</rt></ruby><ruby>夏<rt class="furi">なつ</rt><rt class="roma">natsu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>日<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby>
 </div>
-<div class="cn-lyric">[01:01.86]直到我们相遇的那个夏日</div>
 <div class="cn-lyric">[01:01.86]直到我们相遇的那个夏日</div>
 </div>
 

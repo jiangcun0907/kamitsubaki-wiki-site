@@ -36,18 +36,12 @@ Revy appears on prayer2 or a related official release. Entries are version-speci
 Slash slash till the mothafuccin wig split
 </div>
 <div class="trans-lyric">Slash slash till the mothafuccin wig split</div>
-<div class="trans-lyric">Slash slash till the mothafuccin wig split</div>
-<div class="trans-lyric">Slash slash till the mothafuccin wig split</div>
-<div class="trans-lyric">Slash slash till the mothafuccin wig split</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Head gone by the time i finna dip dip
 </div>
-<div class="trans-lyric">Head gone by the time i finna dip dip</div>
-<div class="trans-lyric">Head gone by the time i finna dip dip</div>
-<div class="trans-lyric">Head gone by the time i finna dip dip</div>
 <div class="trans-lyric">Head gone by the time i finna dip dip</div>
 </div>
 
@@ -56,18 +50,12 @@ Head gone by the time i finna dip dip
 Say bye bye when the devil make his round trip
 </div>
 <div class="trans-lyric">Say bye bye when the devil make his round trip</div>
-<div class="trans-lyric">Say bye bye when the devil make his round trip</div>
-<div class="trans-lyric">Say bye bye when the devil make his round trip</div>
-<div class="trans-lyric">Say bye bye when the devil make his round trip</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Say goodnight cause im bout to hit the last swing
 </div>
-<div class="trans-lyric">Say goodnight cause im bout to hit the last swing</div>
-<div class="trans-lyric">Say goodnight cause im bout to hit the last swing</div>
-<div class="trans-lyric">Say goodnight cause im bout to hit the last swing</div>
 <div class="trans-lyric">Say goodnight cause im bout to hit the last swing</div>
 </div>
 

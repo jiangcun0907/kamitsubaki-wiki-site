@@ -99,7 +99,6 @@ image: /images/songs/koko/single-1809943180.jpg
 [00:39.22]<ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>導<rt class="furi">みちび</rt><rt class="roma">michibi</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>ほう<rt class="roma">hou</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
 </div>
 <div class="cn-lyric">[00:39.22]朝着内心指引的方向</div>
-<div class="cn-lyric">朝着内心指引的方向</div>
 </div>
 
 <div class="lyric-line">
@@ -107,7 +106,6 @@ image: /images/songs/koko/single-1809943180.jpg
 [00:42.14]<ruby>自分<rt class="furi">じぶん</rt><rt class="roma">jibun</rt></ruby><ruby>自身<rt class="furi">じしん</rt><rt class="roma">jishin</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>追い越<rt class="furi">おいこ</rt><rt class="roma">oiko</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>たく<rt class="roma">taku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[00:42.14]想要超越自己</div>
-<div class="cn-lyric">想要超越自己</div>
 </div>
 
 <div class="lyric-line">
@@ -115,7 +113,6 @@ image: /images/songs/koko/single-1809943180.jpg
 [00:45.22]<ruby>胸<rt class="furi">むね</rt><rt class="roma">mune</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>張<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ほしく<rt class="roma">hoshiku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[00:45.22]想要能挺起胸膛的事</div>
-<div class="cn-lyric">想要能挺起胸膛的事</div>
 </div>
 
 <div class="lyric-line">
@@ -123,7 +120,6 @@ image: /images/songs/koko/single-1809943180.jpg
 [00:48.35]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>褒<rt class="furi">ほ</rt><rt class="roma">ho</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ほしく<rt class="roma">hoshiku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[00:48.35]想要你夸赞我</div>
-<div class="cn-lyric">想要你夸赞我</div>
 </div>
 
 <div class="lyric-line">
@@ -131,14 +127,12 @@ image: /images/songs/koko/single-1809943180.jpg
 [00:51.72]<ruby>未<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>完成<rt class="furi">かんせい</rt><rt class="roma">kansei</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>甘酸<rt class="furi">あまず</rt><rt class="roma">amazu</rt></ruby><ruby>っぱい<rt class="roma">ppai</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
 <div class="cn-lyric">[00:51.72]尚未完成 带着酸甜的感觉</div>
-<div class="cn-lyric">尚未完成 带着酸甜的感觉</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:57.82]<ruby>この<rt class="roma">kono</rt></ruby><ruby>オレンジ<rt class="roma">orenji</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>まだ<rt class="roma">mada</rt></ruby><ruby>いたい<rt class="roma">itai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
-<div class="cn-lyric">[00:57.82]还想停留在这样的橙色之中</div>
 <div class="cn-lyric">[00:57.82]还想停留在这样的橙色之中</div>
 </div>
 

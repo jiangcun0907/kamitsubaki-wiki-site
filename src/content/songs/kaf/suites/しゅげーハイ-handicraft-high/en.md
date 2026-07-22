@@ -38,8 +38,6 @@ image: /images/songs/kaf/track-1694251446.jpg
 [00:02.82]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>箱庭<rt class="furi">はこにわ</rt><rt class="roma">hakoniwa</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>紡<rt class="furi">つむ</rt><rt class="roma">tsumu</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>組<rt class="furi">く</rt><rt class="roma">ku</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="trans-lyric">[00:02.82]Spun and assembled in my own miniature garden,</div>
-<div class="trans-lyric">Spun and assembled in my own miniature garden,</div>
-<div class="trans-lyric">Spun and assembled in my own miniature garden,</div>
 </div>
 
 <div class="lyric-line">
@@ -47,8 +45,6 @@ image: /images/songs/kaf/track-1694251446.jpg
 [00:07.07]<ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>人<rt class="furi">にん</rt><rt class="roma">nin</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>時間<rt class="furi">じかん</rt><rt class="roma">jikan</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>増<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby>
 </div>
 <div class="trans-lyric">[00:07.07]The time I spend alone keeps increasing.</div>
-<div class="trans-lyric">The time I spend alone keeps increasing.</div>
-<div class="trans-lyric">The time I spend alone keeps increasing.</div>
 </div>
 
 <div class="lyric-line">
@@ -56,8 +52,6 @@ image: /images/songs/kaf/track-1694251446.jpg
 [00:10.15]<ruby>無限<rt class="furi">むげん</rt><rt class="roma">mugen</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>広<rt class="furi">ひろ</rt><rt class="roma">hiro</rt></ruby><ruby>がって<rt class="roma">gatte</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby><ruby>宇宙<rt class="furi">うちゅう</rt><rt class="roma">uchuu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="trans-lyric">[00:10.15]The universe expanding infinitely,</div>
-<div class="trans-lyric">The universe expanding infinitely,</div>
-<div class="trans-lyric">The universe expanding infinitely,</div>
 </div>
 
 <div class="lyric-line">
@@ -65,8 +59,6 @@ image: /images/songs/kaf/track-1694251446.jpg
 [00:13.42]<ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>のひら<rt class="roma">nohira</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>生<rt class="furi">う</rt><rt class="roma">u</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="trans-lyric">[00:13.42]I birth it in the palm of my hand.</div>
-<div class="trans-lyric">I birth it in the palm of my hand.</div>
-<div class="trans-lyric">I birth it in the palm of my hand.</div>
 </div>
 
 <div class="lyric-line">
@@ -179,7 +171,6 @@ image: /images/songs/kaf/track-1694251446.jpg
 [00:40.72]<ruby>こう<rt class="roma">kou</rt></ruby><ruby>なりゃ<rt class="roma">narya</rt></ruby><ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>ぜ<rt class="roma">ze</rt></ruby>
 </div>
 <div class="trans-lyric">[00:40.72]If it's come to this, I want to deliver it—</div>
-<div class="trans-lyric">If it's come to this, I want to deliver it—</div>
 </div>
 
 <div class="lyric-line">
@@ -187,7 +178,6 @@ image: /images/songs/kaf/track-1694251446.jpg
 [00:42.10]<ruby>この<rt class="roma">kono</rt></ruby><ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ぬくもり<rt class="roma">nukumori</rt></ruby><ruby>超新星<rt class="furi">ちょうしんせい</rt><rt class="roma">choushinsei</rt></ruby>
 </div>
 <div class="trans-lyric">[00:42.10]This warmth in my hand, a supernova.</div>
-<div class="trans-lyric">This warmth in my hand, a supernova.</div>
 </div>
 
 <div class="lyric-line">
@@ -226,8 +216,6 @@ image: /images/songs/kaf/track-1694251446.jpg
 [01:00.74]<ruby>頭<rt class="furi">あたま</rt><rt class="roma">atama</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>冷<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>やせ<rt class="roma">yase</rt></ruby><ruby>熱帯夜<rt class="furi">ねったいや</rt><rt class="roma">nettaiya</rt></ruby>
 </div>
 <div class="trans-lyric">[01:00.74]Cool your head in the tropical night.</div>
-<div class="trans-lyric">Cool your head in the tropical night.</div>
-<div class="trans-lyric">Cool your head in the tropical night.</div>
 </div>
 
 <div class="lyric-line">
@@ -235,8 +223,6 @@ image: /images/songs/kaf/track-1694251446.jpg
 [01:04.07]<ruby>指先<rt class="furi">ゆびさき</rt><rt class="roma">yubisaki</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>産<rt class="furi">う</rt><rt class="roma">u</rt></ruby><ruby>まれる<rt class="roma">mareru</rt></ruby><ruby>夜空<rt class="furi">よぞら</rt><rt class="roma">yozora</rt></ruby>
 </div>
 <div class="trans-lyric">[01:04.07]The night sky born from my fingertips,</div>
-<div class="trans-lyric">The night sky born from my fingertips,</div>
-<div class="trans-lyric">The night sky born from my fingertips,</div>
 </div>
 
 <div class="lyric-line">
@@ -244,8 +230,6 @@ image: /images/songs/kaf/track-1694251446.jpg
 [01:07.55]<ruby>絡<rt class="furi">から</rt><rt class="roma">kara</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>糸<rt class="furi">いと</rt><rt class="roma">ito</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ほどけ<rt class="roma">hodoke</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>や<rt class="roma">ya</rt></ruby>
 </div>
 <div class="trans-lyric">[01:07.55]The tangled threads won't come undone.</div>
-<div class="trans-lyric">The tangled threads won't come undone.</div>
-<div class="trans-lyric">The tangled threads won't come undone.</div>
 </div>
 
 <div class="lyric-line">
@@ -253,9 +237,6 @@ image: /images/songs/kaf/track-1694251446.jpg
 [01:10.78]<ruby>手芸<rt class="furi">しゅげい</rt><rt class="roma">shugei</rt></ruby><ruby>ハイ<rt class="roma">hai</rt></ruby> <ruby>すげ<rt class="roma">suge</rt></ruby><ruby>ぇ<rt class="roma">e</rt></ruby><ruby>ハイ<rt class="roma">hai</rt></ruby>
 </div>
 <div class="trans-lyric">[01:10.78]Handicraft high, so high,</div>
-<div class="trans-lyric">Handicraft high, so high,</div>
-<div class="trans-lyric">Handicraft high, so high,</div>
-<div class="trans-lyric">Handicraft high, so high,</div>
 </div>
 
 <div class="lyric-line">
@@ -263,7 +244,6 @@ image: /images/songs/kaf/track-1694251446.jpg
 [01:13.60]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby> <ruby>手芸<rt class="furi">しゅげい</rt><rt class="roma">shugei</rt></ruby><ruby>ハイ<rt class="roma">hai</rt></ruby> <ruby>絶対<rt class="furi">ぜったい</rt><rt class="roma">zettai</rt></ruby><ruby>そう<rt class="roma">sou</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="trans-lyric">[01:13.60]I'm handicraft high, absolutely so.</div>
-<div class="trans-lyric">I'm handicraft high, absolutely so.</div>
 </div>
 
 <div class="lyric-line">
@@ -277,7 +257,6 @@ image: /images/songs/kaf/track-1694251446.jpg
 [01:20.23]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby> <ruby>手芸<rt class="furi">しゅげい</rt><rt class="roma">shugei</rt></ruby><ruby>ハイ<rt class="roma">hai</rt></ruby> <ruby>絶対<rt class="furi">ぜったい</rt><rt class="roma">zettai</rt></ruby><ruby>そう<rt class="roma">sou</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
 <div class="trans-lyric">[01:20.23]I'm handicraft high, absolutely so, right?</div>
-<div class="trans-lyric">I'm handicraft high, absolutely so, right?</div>
 </div>
 
 <div class="lyric-line">

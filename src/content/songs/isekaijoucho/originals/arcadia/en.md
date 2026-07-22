@@ -119,7 +119,6 @@ ARCADIA appears on 創生 or a related official release. Entries are version-spe
 [01:47.80]<ruby>わたし<rt class="roma">watashi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ここ<rt class="roma">koko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">I am here, you know</div>
-<div class="trans-lyric">I am here, you know</div>
 </div>
 
 <div class="lyric-line">

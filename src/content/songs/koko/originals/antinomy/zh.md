@@ -92,14 +92,12 @@ Cries when it hurts
 Discard the meanings and find your will
 </div>
 <div class="cn-lyric">舍弃意义，找到你的意志</div>
-<div class="cn-lyric">舍弃意义，找到你的意志</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Survive, survive and catch your breath
 </div>
-<div class="cn-lyric">活下去，活下去，喘口气</div>
 <div class="cn-lyric">活下去，活下去，喘口气</div>
 </div>
 
@@ -136,8 +134,6 @@ To anyone who tramples on your feelings
 A mechanical device's tears
 </div>
 <div class="cn-lyric">机械装置的眼泪</div>
-<div class="cn-lyric">机械装置的眼泪</div>
-<div class="cn-lyric">机械装置的眼泪</div>
 </div>
 
 <div class="lyric-line">
@@ -145,21 +141,12 @@ A mechanical device's tears
 Who does this trembling heart belong to?
 </div>
 <div class="cn-lyric">这颗颤抖的心属于谁？</div>
-<div class="cn-lyric">这颗颤抖的心属于谁？</div>
-<div class="cn-lyric">这颗颤抖的心属于谁？</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 The broken night
 </div>
-<div class="cn-lyric">破碎的夜晚</div>
-<div class="cn-lyric">破碎的夜晚</div>
-<div class="cn-lyric">破碎的夜晚</div>
-<div class="cn-lyric">破碎的夜晚</div>
-<div class="cn-lyric">破碎的夜晚</div>
-<div class="cn-lyric">破碎的夜晚</div>
-<div class="cn-lyric">破碎的夜晚</div>
 <div class="cn-lyric">破碎的夜晚</div>
 </div>
 
@@ -267,7 +254,6 @@ Antinomy, antinomy. It's a bug in my heart
 <div class="jp-lyric">
 Like a human
 </div>
-<div class="cn-lyric">像人类一样</div>
 <div class="cn-lyric">像人类一样</div>
 </div>
 

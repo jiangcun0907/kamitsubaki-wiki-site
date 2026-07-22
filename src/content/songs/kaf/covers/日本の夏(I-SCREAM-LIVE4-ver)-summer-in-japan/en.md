@@ -124,7 +124,6 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 <ruby>夏<rt class="furi">なつ</rt><rt class="roma">natsu</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>夏<rt class="furi">なつ</rt><rt class="roma">natsu</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby> <ruby>日本<rt class="furi">にっぽん</rt><rt class="roma">nippon</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>夏<rt class="furi">なつ</rt><rt class="roma">natsu</rt></ruby>
 </div>
 <div class="trans-lyric">Summer, summer, Japan's summer</div>
-<div class="trans-lyric">Summer, summer, Japan's summer</div>
 </div>
 
 <div class="lyric-line">

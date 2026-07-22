@@ -36,14 +36,12 @@ image: /images/albums/isekaijoucho/sousei.jpg
 [00:13.69]<ruby>仇<rt class="furi">きゅう</rt><rt class="roma">kyuu</rt></ruby><ruby>花<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>奥<rt class="furi">おく</rt><rt class="roma">oku</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="cn-lyric">[00:13.69]仇花在内心深处</div>
-<div class="cn-lyric">[00:13.69]仇花在内心深处</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:16.33]<ruby>気付<rt class="furi">きづ</rt><rt class="roma">kizu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>終<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
-<div class="cn-lyric">[00:16.33]不被察觉地终结</div>
 <div class="cn-lyric">[00:16.33]不被察觉地终结</div>
 </div>
 
@@ -82,7 +80,6 @@ image: /images/albums/isekaijoucho/sousei.jpg
 [00:38.01]<ruby>この<rt class="roma">kono</rt></ruby><ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>迸<rt class="furi">ほとばし</rt><rt class="roma">hotobashi</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby>
 </div>
 <div class="cn-lyric">[00:38.01]这声音迸发而出</div>
-<div class="cn-lyric">[00:38.01]这声音迸发而出</div>
 </div>
 
 <br />
@@ -91,7 +88,6 @@ image: /images/albums/isekaijoucho/sousei.jpg
 <div class="jp-lyric">
 [00:42.12]<ruby>ああ<rt class="roma">aa</rt></ruby><ruby>呼吸<rt class="furi">こきゅう</rt><rt class="roma">kokyuu</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>でき<rt class="roma">deki</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>まま<rt class="roma">mama</rt></ruby><ruby>抱<rt class="furi">かか</rt><rt class="roma">kaka</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>痛<rt class="furi">いた</rt><rt class="roma">ita</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby>
 </div>
-<div class="cn-lyric">[00:42.12]啊啊 无法呼吸般怀抱的痛楚</div>
 <div class="cn-lyric">[00:42.12]啊啊 无法呼吸般怀抱的痛楚</div>
 </div>
 
@@ -113,7 +109,6 @@ image: /images/albums/isekaijoucho/sousei.jpg
 <div class="jp-lyric">
 [01:03.19]<ruby>鮮<rt class="furi">あざ</rt><rt class="roma">aza</rt></ruby><ruby>やか<rt class="roma">yaka</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>モノクロ<rt class="roma">monokuro</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>染<rt class="furi">そ</rt><rt class="roma">so</rt></ruby><ruby>まって<rt class="roma">matte</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby>
 </div>
-<div class="cn-lyric">[01:03.19]逐渐染上鲜艳的黑白</div>
 <div class="cn-lyric">[01:03.19]逐渐染上鲜艳的黑白</div>
 </div>
 

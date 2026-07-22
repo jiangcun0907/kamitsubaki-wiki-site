@@ -41,14 +41,12 @@ image: /images/albums/kaf/i-scream-live.jpg
 [00:18.71]<ruby>遠<rt class="furi">とお</rt><rt class="roma">too</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby> iPhone <ruby>の<rt class="roma">no</rt></ruby><ruby>あかり<rt class="roma">akari</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="trans-lyric">It's not far, the light of the iPhone</div>
-<div class="trans-lyric">It's not far, the light of the iPhone</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:23.78]<ruby>残<rt class="furi">のこ</rt><rt class="roma">noko</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> one-room fantasy
 </div>
-<div class="trans-lyric">Leave behind a one-room fantasy</div>
 <div class="trans-lyric">Leave behind a one-room fantasy</div>
 </div>
 
@@ -132,7 +130,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 <div class="jp-lyric">
 [01:20.84]Straw <ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>噛<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> bus stop <ruby>から<rt class="roma">kara</rt></ruby><ruby>睨<rt class="furi">にら</rt><rt class="roma">nira</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
-<div class="trans-lyric">Biting a straw, glaring from the bus stop</div>
 <div class="trans-lyric">Biting a straw, glaring from the bus stop</div>
 </div>
 

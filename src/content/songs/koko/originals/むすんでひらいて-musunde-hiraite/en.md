@@ -36,16 +36,12 @@ image: /images/songs/koko/single-1791868643.jpg
 [00:00.88]Yasashisa mo tsuyosa mo itami mo zenbu
 </div>
 <div class="trans-lyric">All the kindness, strength, and pain</div>
-<div class="trans-lyric">All the kindness, strength, and pain</div>
-<div class="trans-lyric">All the kindness, strength, and pain</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:06.36]Itsu demo moratte bakari da tta n da
 </div>
-<div class="trans-lyric">I was always on the receiving end</div>
-<div class="trans-lyric">I was always on the receiving end</div>
 <div class="trans-lyric">I was always on the receiving end</div>
 </div>
 
@@ -54,8 +50,6 @@ image: /images/songs/koko/single-1791868643.jpg
 [00:11.71]Musunde hiraite musubi naoshite
 </div>
 <div class="trans-lyric">Tying, opening, retying</div>
-<div class="trans-lyric">Tying, opening, retying</div>
-<div class="trans-lyric">Tying, opening, retying</div>
 </div>
 
 <div class="lyric-line">
@@ -63,16 +57,12 @@ image: /images/songs/koko/single-1791868643.jpg
 [00:16.83]Kurikaeshite iku tsugi wa boku ga
 </div>
 <div class="trans-lyric">Repeating, next it's my turn</div>
-<div class="trans-lyric">Repeating, next it's my turn</div>
-<div class="trans-lyric">Repeating over and over, next it's my turn</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:20.26]ōkiku iki wo suikonde
 </div>
-<div class="trans-lyric">Taking a deep breath</div>
-<div class="trans-lyric">Taking a deep breath</div>
 <div class="trans-lyric">Taking a deep breath</div>
 </div>
 
@@ -81,16 +71,12 @@ image: /images/songs/koko/single-1791868643.jpg
 [00:22.77]Todoketai tsutaetai
 </div>
 <div class="trans-lyric">I want to reach you, I want to tell you</div>
-<div class="trans-lyric">I want to reach you, I want to tell you</div>
-<div class="trans-lyric">I want to reach you, I want to tell you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:25.47]«Arigatō» wo kimi ni
 </div>
-<div class="trans-lyric">‘Thank you’ to you</div>
-<div class="trans-lyric">‘Thank you’ to you</div>
 <div class="trans-lyric">‘Thank you’ to you</div>
 </div>
 
@@ -308,7 +294,6 @@ image: /images/songs/koko/single-1791868643.jpg
 <div class="jp-lyric">
 [02:38.36]Annafūni kimi mitai ni
 </div>
-<div class="trans-lyric">Like that, like you</div>
 <div class="trans-lyric">Like that, like you</div>
 </div>
 

@@ -89,14 +89,12 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [00:32.22]<ruby>成層圏<rt class="furi">せいそうけん</rt><rt class="roma">seisouken</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>着<rt class="furi">つ</rt><rt class="roma">tsu</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>しまえ<rt class="roma">shimae</rt></ruby><ruby>ば<rt class="roma">ba</rt></ruby>
 </div>
 <div class="cn-lyric">[00:32.22]一旦到达平流层</div>
-<div class="cn-lyric">[00:32.22]一旦到达平流层</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:37.81]<ruby>どう<rt class="roma">dou</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>捨<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>られる<rt class="roma">rareru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>？
 </div>
-<div class="cn-lyric">[00:37.81]就会被当作无所谓而丢弃吗？</div>
 <div class="cn-lyric">[00:37.81]就会被当作无所谓而丢弃吗？</div>
 </div>
 
@@ -105,14 +103,12 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [00:43.92]<ruby>境界<rt class="furi">きょうかい</rt><rt class="roma">kyoukai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>嘆<rt class="furi">なげ</rt><rt class="roma">nage</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>アリア<rt class="roma">aria</rt></ruby>
 </div>
 <div class="cn-lyric">[00:43.92]在边界叹息的咏叹调</div>
-<div class="cn-lyric">[00:43.92]在边界叹息的咏叹调</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:48.19]<ruby>だって<rt class="roma">datte</rt></ruby><ruby>朝日<rt class="furi">あさひ</rt><rt class="roma">asahi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>微<rt class="furi">び</rt><rt class="roma">bi</rt></ruby><ruby>笑<rt class="furi">わら</rt><rt class="roma">wara</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="cn-lyric">[00:48.19]因为朝阳在微笑呢</div>
 <div class="cn-lyric">[00:48.19]因为朝阳在微笑呢</div>
 </div>
 
@@ -123,14 +119,12 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [00:54.76]<ruby>幽<rt class="furi">かそけ</rt><rt class="roma">kasoke</rt></ruby><ruby>体<rt class="furi">たい</rt><rt class="roma">tai</rt></ruby><ruby>離脱<rt class="furi">りだつ</rt><rt class="roma">ridatsu</rt></ruby><ruby>あるいは<rt class="roma">aruiha</rt></ruby>
 </div>
 <div class="cn-lyric">[00:54.76]灵魂出窍或是</div>
-<div class="cn-lyric">[00:54.76]灵魂出窍或是</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:57.82]<ruby>前世<rt class="furi">ぜんせい</rt><rt class="roma">zensei</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>バックアップ<rt class="roma">bakkuappu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
-<div class="cn-lyric">[00:57.82]如同前世的备份一般</div>
 <div class="cn-lyric">[00:57.82]如同前世的备份一般</div>
 </div>
 
@@ -139,14 +133,12 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [01:01.33]<ruby>回遊<rt class="furi">かいゆう</rt><rt class="roma">kaiyuu</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby><ruby>傍観<rt class="furi">ぼうかん</rt><rt class="roma">boukan</rt></ruby><ruby>者<rt class="furi">しゃ</rt><rt class="roma">sha</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>選<rt class="furi">えら</rt><rt class="roma">era</rt></ruby><ruby>ぶ<rt class="roma">bu</rt></ruby><ruby>末路<rt class="furi">まつろ</rt><rt class="roma">matsuro</rt></ruby>
 </div>
 <div class="cn-lyric">[01:01.33]巡游的旁观者所选择的终局</div>
-<div class="cn-lyric">[01:01.33]巡游的旁观者所选择的终局</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:05.86]<ruby>ふっと<rt class="roma">futto</rt></ruby><ruby>吹<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>シャボン<rt class="roma">shabon</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
 </div>
-<div class="cn-lyric">[01:05.86]轻轻吹出的肥皂泡</div>
 <div class="cn-lyric">[01:05.86]轻轻吹出的肥皂泡</div>
 </div>
 
@@ -155,14 +147,12 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [01:08.81]<ruby>人知<rt class="furi">ひとし</rt><rt class="roma">hitoshi</rt></ruby><ruby>れず<rt class="roma">rezu</rt></ruby><ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby>
 </div>
 <div class="cn-lyric">[01:08.81]悄然消失不见</div>
-<div class="cn-lyric">[01:08.81]悄然消失不见</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:12.41]<ruby>それ<rt class="roma">sore</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>無難<rt class="furi">ぶなん</rt><rt class="roma">bunan</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>素朴<rt class="furi">そぼく</rt><rt class="roma">soboku</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby>
 </div>
-<div class="cn-lyric">[01:12.41]那样平淡质朴就很好</div>
 <div class="cn-lyric">[01:12.41]那样平淡质朴就很好</div>
 </div>
 

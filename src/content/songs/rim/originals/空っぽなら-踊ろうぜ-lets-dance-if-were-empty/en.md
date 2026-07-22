@@ -66,7 +66,6 @@ image: /images/albums/rim/imagine.jpg
 [01:10.81]<ruby>明日<rt class="furi">あした</rt><rt class="roma">ashita</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>どう<rt class="roma">dou</rt></ruby><ruby>しよ<rt class="roma">shiyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby> <ruby>空<rt class="furi">から</rt><rt class="roma">kara</rt></ruby><ruby>っぽ<rt class="roma">ppo</rt></ruby><ruby>バレ<rt class="roma">bare</rt></ruby><ruby>たら<rt class="roma">tara</rt></ruby><ruby>どう<rt class="roma">dou</rt></ruby><ruby>しよ<rt class="roma">shiyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="trans-lyric">[01:10.81]What will I do from tomorrow? What if they find out I'm empty?</div>
-<div class="trans-lyric">What will I do from tomorrow? What if they find out I'm empty?</div>
 </div>
 
 <div class="lyric-line">
@@ -97,8 +96,6 @@ image: /images/albums/rim/imagine.jpg
 [01:27.84]<ruby>踊<rt class="furi">おど</rt><rt class="roma">odo</rt></ruby><ruby>ろ<rt class="roma">ro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>ぜ<rt class="roma">ze</rt></ruby> <ruby>死<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ぬ<rt class="roma">nu</rt></ruby><ruby>前<rt class="furi">まえ</rt><rt class="roma">mae</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">[01:27.84]Let's dance, before we die.</div>
-<div class="trans-lyric">Let's dance, before we die.</div>
-<div class="trans-lyric">Let's dance, before we die.</div>
 </div>
 
 <div class="lyric-line">
@@ -106,9 +103,6 @@ image: /images/albums/rim/imagine.jpg
 [01:31.05]<ruby>馬鹿<rt class="furi">ばか</rt><rt class="roma">baka</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なれ<rt class="roma">nare</rt></ruby> <ruby>今日<rt class="furi">きょう</rt><rt class="roma">kyou</rt></ruby><ruby>くらい<rt class="roma">kurai</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="trans-lyric">[01:31.05]Be a fool, at least for today.</div>
-<div class="trans-lyric">Be a fool, at least for today.</div>
-<div class="trans-lyric">Be a fool, at least for today.</div>
-<div class="trans-lyric">Be a fool, at least for today.</div>
 </div>
 
 <div class="lyric-line">
@@ -123,9 +117,6 @@ image: /images/albums/rim/imagine.jpg
 [01:36.17]<ruby>空<rt class="furi">から</rt><rt class="roma">kara</rt></ruby><ruby>っぽ<rt class="roma">ppo</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby><ruby>結構<rt class="furi">けっこう</rt><rt class="roma">kekkou</rt></ruby>
 </div>
 <div class="trans-lyric">[01:36.17]Even empty is just fine.</div>
-<div class="trans-lyric">Even empty is just fine.</div>
-<div class="trans-lyric">Even empty is just fine.</div>
-<div class="trans-lyric">Even empty is just fine.</div>
 </div>
 
 <div class="lyric-line">
@@ -133,7 +124,6 @@ image: /images/albums/rim/imagine.jpg
 [01:39.34]<ruby>軽<rt class="furi">かる</rt><rt class="roma">karu</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>方<rt class="furi">ほう</rt><rt class="roma">hou</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>高<rt class="furi">たか</rt><rt class="roma">taka</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>舞<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby>
 </div>
 <div class="trans-lyric">[01:39.34]The lighter one can dance higher.</div>
-<div class="trans-lyric">The lighter one can dance higher.</div>
 </div>
 
 <div class="lyric-line">
@@ -141,7 +131,6 @@ image: /images/albums/rim/imagine.jpg
 [01:41.37]<ruby>お前<rt class="furi">おまえ</rt><rt class="roma">omae</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>自由<rt class="furi">じゆう</rt><rt class="roma">jiyuu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>舞<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby>
 </div>
 <div class="trans-lyric">[01:41.37]You can dance freely.</div>
-<div class="trans-lyric">You can dance freely.</div>
 </div>
 
 <br />
@@ -151,8 +140,6 @@ image: /images/albums/rim/imagine.jpg
 [01:44.57]<ruby>踊<rt class="furi">おど</rt><rt class="roma">odo</rt></ruby><ruby>ろ<rt class="roma">ro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>ぜ<rt class="roma">ze</rt></ruby> <ruby>俯<rt class="furi">うつむ</rt><rt class="roma">utsumu</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>前<rt class="furi">まえ</rt><rt class="roma">mae</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">[01:44.57]Let's dance, before we look down.</div>
-<div class="trans-lyric">Let's dance, before we look down.</div>
-<div class="trans-lyric">Let's dance, before we look down.</div>
 </div>
 
 <div class="lyric-line">
@@ -186,7 +173,6 @@ image: /images/albums/rim/imagine.jpg
 [01:58.26]<ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>くれ<rt class="roma">kure</rt></ruby> <ruby>お前<rt class="furi">おまえ</rt><rt class="roma">omae</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>もっと<rt class="roma">motto</rt></ruby>
 </div>
 <div class="trans-lyric">[01:58.26]Show me, more of you.</div>
-<div class="trans-lyric">Show me, more of you.</div>
 </div>
 
 <div class="lyric-line">

@@ -36,7 +36,6 @@ SAYONARA MAYBE (Cover Live) appears on CREAM PUFF LIVE 4 (Cover Live) or a relat
 [00:25.75]<ruby>あたし<rt class="roma">atashi</rt></ruby><ruby>なに<rt class="roma">nani</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>足<rt class="furi">た</rt><rt class="roma">ta</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>みたい<rt class="roma">mitai</rt></ruby>
 </div>
 <div class="trans-lyric">It seems I am missing something</div>
-<div class="trans-lyric">It seems I am missing something</div>
 </div>
 
 <div class="lyric-line">
@@ -72,8 +71,6 @@ SAYONARA MAYBE (Cover Live) appears on CREAM PUFF LIVE 4 (Cover Live) or a relat
 [00:54.69]<ruby>さよなら<rt class="roma">sayonara</rt></ruby>
 </div>
 <div class="trans-lyric">Goodbye</div>
-<div class="trans-lyric">Goodbye</div>
-<div class="trans-lyric">Goodbye</div>
 </div>
 
 <div class="lyric-line">
@@ -81,15 +78,12 @@ SAYONARA MAYBE (Cover Live) appears on CREAM PUFF LIVE 4 (Cover Live) or a relat
 [00:56.15]<ruby>メイビー<rt class="roma">meibii</rt></ruby><ruby>会<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>なる<rt class="roma">naru</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby>
 </div>
 <div class="trans-lyric">Maybe we won't see each other again</div>
-<div class="trans-lyric">Maybe we won't see each other again</div>
-<div class="trans-lyric">Maybe we won't see each other again</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:01.01]<ruby>あたし<rt class="roma">atashi</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> <ruby>なん<rt class="roma">nan</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>日々<rt class="furi">ひび</rt><rt class="roma">hibi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>愛<rt class="furi">いと</rt><rt class="roma">ito</rt></ruby><ruby>しかった<rt class="roma">shikatta</rt></ruby>
 </div>
-<div class="trans-lyric">I loved those ordinary, ordinary days</div>
 <div class="trans-lyric">I loved those ordinary, ordinary days</div>
 </div>
 
@@ -105,14 +99,12 @@ SAYONARA MAYBE (Cover Live) appears on CREAM PUFF LIVE 4 (Cover Live) or a relat
 [01:12.94]<ruby>なんて<rt class="roma">nante</rt></ruby><ruby>イメージ<rt class="roma">imeeji</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>イメージ<rt class="roma">imeeji</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>しまえ<rt class="roma">shimae</rt></ruby><ruby>ば<rt class="roma">ba</rt></ruby><ruby>泣<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>しまう<rt class="roma">shimau</rt></ruby>
 </div>
 <div class="trans-lyric">Just imagining it, if I imagine it, I'll cry</div>
-<div class="trans-lyric">Just imagining it, if I imagine it, I'll cry</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:19.82]<ruby>揺<rt class="furi">ゆ</rt><rt class="roma">yu</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby> <ruby>揺<rt class="furi">ゆ</rt><rt class="roma">yu</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby> <ruby>揺<rt class="furi">ゆ</rt><rt class="roma">yu</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby> <ruby>揺<rt class="furi">ゆ</rt><rt class="roma">yu</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby> <ruby>揺<rt class="furi">ゆ</rt><rt class="roma">yu</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby><ruby>街<rt class="furi">まち</rt><rt class="roma">machi</rt></ruby><ruby>並<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>同化<rt class="furi">どうか</rt><rt class="roma">douka</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">Assimilating with the swaying, swaying, swaying, swaying, swaying cityscape</div>
 <div class="trans-lyric">Assimilating with the swaying, swaying, swaying, swaying, swaying cityscape</div>
 </div>
 
@@ -180,7 +172,6 @@ SAYONARA MAYBE (Cover Live) appears on CREAM PUFF LIVE 4 (Cover Live) or a relat
 [02:19.68]Ah <ruby>メイビー<rt class="roma">meibii</rt></ruby><ruby>いつか<rt class="roma">itsuka</rt></ruby><ruby>出会<rt class="furi">であ</rt><rt class="roma">dea</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>たら<rt class="roma">tara</rt></ruby>
 </div>
 <div class="trans-lyric">Ah, maybe if we meet someday</div>
-<div class="trans-lyric">Ah, maybe if we meet someday</div>
 </div>
 
 <div class="lyric-line">
@@ -195,14 +186,12 @@ SAYONARA MAYBE (Cover Live) appears on CREAM PUFF LIVE 4 (Cover Live) or a relat
 [02:40.51]<ruby>何<rt class="furi">なん</rt><rt class="roma">nan</rt></ruby><ruby>度<rt class="furi">ど</rt><rt class="roma">do</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>何<rt class="furi">なん</rt><rt class="roma">nan</rt></ruby><ruby>度<rt class="furi">ど</rt><rt class="roma">do</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>ひかり<rt class="roma">hikari</rt></ruby><ruby>放<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby> (<ruby>何<rt class="furi">なん</rt><rt class="roma">nan</rt></ruby><ruby>度<rt class="furi">ど</rt><rt class="roma">do</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>何<rt class="furi">なん</rt><rt class="roma">nan</rt></ruby><ruby>度<rt class="furi">ど</rt><rt class="roma">do</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>ひかり<rt class="roma">hikari</rt></ruby><ruby>放<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>)
 </div>
 <div class="trans-lyric">Releasing light again and again (Releasing light again and again)</div>
-<div class="trans-lyric">Releasing light again and again (Releasing light again and again)</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [02:46.40]<ruby>何<rt class="furi">なん</rt><rt class="roma">nan</rt></ruby><ruby>度<rt class="furi">ど</rt><rt class="roma">do</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>何<rt class="furi">なん</rt><rt class="roma">nan</rt></ruby><ruby>度<rt class="furi">ど</rt><rt class="roma">do</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby> (<ruby>何<rt class="furi">なん</rt><rt class="roma">nan</rt></ruby><ruby>度<rt class="furi">ど</rt><rt class="roma">do</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>何<rt class="furi">なん</rt><rt class="roma">nan</rt></ruby><ruby>度<rt class="furi">ど</rt><rt class="roma">do</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>)
 </div>
-<div class="trans-lyric">Disappearing again and again (Disappearing again and again)</div>
 <div class="trans-lyric">Disappearing again and again (Disappearing again and again)</div>
 </div>
 

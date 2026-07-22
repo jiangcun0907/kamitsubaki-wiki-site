@@ -36,8 +36,6 @@ image: /images/songs/harusaruhi/single-1692480353.jpg
 [00:00.95]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>返<rt class="furi">かえ</rt><rt class="roma">kae</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>返<rt class="furi">かえ</rt><rt class="roma">kae</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>返<rt class="furi">かえ</rt><rt class="roma">kae</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">[00:00.95]Give me back, give me back, give me back you</div>
-<div class="trans-lyric">Give me back, give me back, give me back you</div>
-<div class="trans-lyric">Give me back, give me back, give me back you</div>
 </div>
 
 <div class="lyric-line">
@@ -45,8 +43,6 @@ image: /images/songs/harusaruhi/single-1692480353.jpg
 [00:03.04]<ruby>この<rt class="roma">kono</rt></ruby><ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>ちぎれ<rt class="roma">chigire</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>絶対<rt class="furi">ぜったい</rt><rt class="roma">zettai</rt></ruby><ruby>離<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">[00:03.04]Even if this hand is torn off, I'll never let go</div>
-<div class="trans-lyric">Even if this hand is torn off, I'll never let go</div>
-<div class="trans-lyric">Even if this hand is torn off, I'll never let go</div>
 </div>
 
 <div class="lyric-line">
@@ -54,8 +50,6 @@ image: /images/songs/harusaruhi/single-1692480353.jpg
 [00:06.49]<ruby>大丈夫<rt class="furi">だいじょうぶ</rt><rt class="roma">daijoubu</rt></ruby> <ruby>下見<rt class="furi">したみ</rt><rt class="roma">shitami</rt></ruby><ruby>ず<rt class="roma">zu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">[00:06.49]It's okay, don't look down, just look at me</div>
-<div class="trans-lyric">It's okay, don't look down, just look at me</div>
-<div class="trans-lyric">It's okay, don't look down, just look at me</div>
 </div>
 
 <div class="lyric-line">
@@ -63,8 +57,6 @@ image: /images/songs/harusaruhi/single-1692480353.jpg
 [00:10.94]<ruby>初<rt class="furi">はじ</rt><rt class="roma">haji</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>まして<rt class="roma">mashite</rt></ruby> <ruby>ほら<rt class="roma">hora</rt></ruby><ruby>笑<rt class="furi">わら</rt><rt class="roma">wara</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
 <div class="trans-lyric">[00:10.94]Nice to meet you, come on, smile</div>
-<div class="trans-lyric">Nice to meet you, come on, smile</div>
-<div class="trans-lyric">Nice to meet you, come on, smile</div>
 </div>
 
 <div class="lyric-line">
@@ -72,8 +64,6 @@ image: /images/songs/harusaruhi/single-1692480353.jpg
 [00:13.51]<ruby>涙<rt class="furi">なみだ</rt><rt class="roma">namida</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>後<rt class="furi">のち</rt><rt class="roma">nochi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>必<rt class="furi">かなら</rt><rt class="roma">kanara</rt></ruby><ruby>ず<rt class="roma">zu</rt></ruby><ruby>晴<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="trans-lyric">[00:13.51]Because after tears, it will surely clear up</div>
-<div class="trans-lyric">Because after tears, it will surely clear up</div>
-<div class="trans-lyric">Because after tears, it will surely clear up</div>
 </div>
 
 <div class="lyric-line">
@@ -81,7 +71,6 @@ image: /images/songs/harusaruhi/single-1692480353.jpg
 [00:17.10]<ruby>そば<rt class="roma">soba</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby> <ruby>台風<rt class="furi">たいふう</rt><rt class="roma">taifuu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>子<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby>
 </div>
 <div class="trans-lyric">[00:17.10]I'm by your side, child of the typhoon</div>
-<div class="trans-lyric">I'm by your side, child of the typhoon</div>
 </div>
 
 <div class="lyric-line">
@@ -89,7 +78,6 @@ image: /images/songs/harusaruhi/single-1692480353.jpg
 [00:26.15]<ruby>台風<rt class="furi">たいふう</rt><rt class="roma">taifuu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>子<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby>
 </div>
 <div class="trans-lyric">[00:26.15]Child of the typhoon</div>
-<div class="trans-lyric">Child of the typhoon</div>
 </div>
 
 <br />
@@ -190,7 +178,6 @@ image: /images/songs/harusaruhi/single-1692480353.jpg
 [01:06.94]<ruby>どうか<rt class="roma">douka</rt></ruby><ruby>コンクリート<rt class="roma">konkuriito</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>あり<rt class="roma">ari</rt></ruby><ruby>ませ<rt class="roma">mase</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">[01:06.94]Please let them not be concrete</div>
-<div class="trans-lyric">Please let them not be concrete</div>
 </div>
 
 <div class="lyric-line">
@@ -213,7 +200,6 @@ image: /images/songs/harusaruhi/single-1692480353.jpg
 [01:15.65]<ruby>その<rt class="roma">sono</rt></ruby><ruby>雫<rt class="furi">しずく</rt><rt class="roma">shizuku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>宝石<rt class="furi">ほうせき</rt><rt class="roma">houseki</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby>
 </div>
 <div class="trans-lyric">[01:15.65]That droplet is like a jewel</div>
-<div class="trans-lyric">That droplet is like a jewel</div>
 </div>
 
 <div class="lyric-line">
@@ -221,7 +207,6 @@ image: /images/songs/harusaruhi/single-1692480353.jpg
 [01:20.10]<ruby>愚者<rt class="furi">ぐしゃ</rt><rt class="roma">gusha</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>奪<rt class="furi">うば</rt><rt class="roma">uba</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">[01:20.10]Don't let the fool take it</div>
-<div class="trans-lyric">Don't let the fool take it</div>
 </div>
 
 <br />

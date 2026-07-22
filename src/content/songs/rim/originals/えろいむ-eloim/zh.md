@@ -71,14 +71,12 @@ image: /images/songs/rim/single-1700404196.jpg
 [00:22.39]<ruby>曖昧<rt class="furi">あいまい</rt><rt class="roma">aimai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>おまじない<rt class="roma">omajinai</rt></ruby>
 </div>
 <div class="cn-lyric">[00:22.39]暧昧的咒语</div>
-<div class="cn-lyric">[00:22.39]暧昧的咒语</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:24.57]<ruby>どう<rt class="roma">dou</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
 </div>
-<div class="cn-lyric">[00:24.57]请</div>
 <div class="cn-lyric">[00:24.57]请</div>
 </div>
 
@@ -149,7 +147,6 @@ image: /images/songs/rim/single-1700404196.jpg
 <div class="jp-lyric">
 [01:13.12]<ruby>きみ<rt class="roma">kimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>天使<rt class="furi">てんし</rt><rt class="roma">tenshi</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
 </div>
-<div class="cn-lyric">[01:13.12]若你是天使</div>
 <div class="cn-lyric">[01:13.12]若你是天使</div>
 </div>
 

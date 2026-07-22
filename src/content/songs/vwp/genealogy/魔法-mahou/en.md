@@ -87,8 +87,6 @@ image: /images/albums/vwp/proliferation.jpg
 <ruby>この<rt class="roma">kono</rt></ruby><ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
 </div>
 <div class="trans-lyric">If this voice reaches you</div>
-<div class="trans-lyric">If this voice reaches you</div>
-<div class="trans-lyric">If this voice reaches you</div>
 </div>
 
 <div class="lyric-line">
@@ -96,14 +94,12 @@ image: /images/albums/vwp/proliferation.jpg
 <ruby>答<rt class="furi">こた</rt><rt class="roma">kota</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>など<rt class="roma">nado</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>それでも<rt class="roma">soredemo</rt></ruby><ruby>居<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
 <div class="trans-lyric">There are no answers, but still I want to stay</div>
-<div class="trans-lyric">There are no answers, but still I want to stay</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>物語<rt class="furi">ものがたり</rt><rt class="roma">monogatari</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>終<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>わら<rt class="roma">wara</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>たく<rt class="roma">taku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby>
 </div>
-<div class="trans-lyric">I don't want to end the story</div>
 <div class="trans-lyric">I don't want to end the story</div>
 </div>
 
@@ -114,7 +110,6 @@ image: /images/albums/vwp/proliferation.jpg
 <ruby>この<rt class="roma">kono</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>越<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ゆけ<rt class="roma">yuke</rt></ruby>
 </div>
 <div class="trans-lyric">Go beyond this night</div>
-<div class="trans-lyric">Go beyond this night</div>
 </div>
 
 <div class="lyric-line">
@@ -122,14 +117,12 @@ image: /images/albums/vwp/proliferation.jpg
 <ruby>あなた<rt class="roma">anata</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>いら<rt class="roma">ira</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby>
 </div>
 <div class="trans-lyric">With you, words are unnecessary</div>
-<div class="trans-lyric">With you, words are unnecessary</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>だから<rt class="roma">dakara</rt></ruby> <ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>温<rt class="furi">ぬく</rt><rt class="roma">nuku</rt></ruby><ruby>もり<rt class="roma">mori</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>確<rt class="furi">たし</rt><rt class="roma">tashi</rt></ruby><ruby>かめ<rt class="roma">kame</rt></ruby><ruby>あい<rt class="roma">ai</rt></ruby><ruby>たく<rt class="roma">taku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">So now, I want to confirm each other's warmth</div>
 <div class="trans-lyric">So now, I want to confirm each other's warmth</div>
 </div>
 
@@ -140,7 +133,6 @@ image: /images/albums/vwp/proliferation.jpg
 <ruby>どうか<rt class="roma">douka</rt></ruby><ruby>覚<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>させ<rt class="roma">sase</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">Please let me have a dream that doesn't wake</div>
-<div class="trans-lyric">Please let me have a dream that doesn't wake</div>
 </div>
 
 <div class="lyric-line">
@@ -148,14 +140,12 @@ image: /images/albums/vwp/proliferation.jpg
 <ruby>その<rt class="roma">sono</rt></ruby><ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>等<rt class="furi">とう</rt><rt class="roma">tou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby> <ruby>離<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ず<rt class="roma">zu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">We won't let go of that hand</div>
-<div class="trans-lyric">We won't let go of that hand</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>そっと<rt class="roma">sotto</rt></ruby><ruby>願<rt class="furi">ねが</rt><rt class="roma">nega</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="trans-lyric">Gently wish</div>
 <div class="trans-lyric">Gently wish</div>
 </div>
 

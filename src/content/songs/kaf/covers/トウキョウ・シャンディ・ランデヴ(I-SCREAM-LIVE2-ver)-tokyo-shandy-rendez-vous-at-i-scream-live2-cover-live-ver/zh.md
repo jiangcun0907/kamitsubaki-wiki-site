@@ -119,17 +119,12 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [00:55.82]<ruby>冗談<rt class="furi">じょうだん</rt><rt class="roma">joudan</rt></ruby><ruby>じゃあ<rt class="roma">jaa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby>
 </div>
 <div class="cn-lyric">[00:55.82]可不是开玩笑的</div>
-<div class="cn-lyric">[00:55.82]可不是开玩笑的</div>
-<div class="cn-lyric">[00:55.82]可不是开玩笑的</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:57.94]<ruby>トウキョウ・シャンディ・ランデヴ<rt class="roma">toukyou/shandei/randevu</rt></ruby>
 </div>
-<div class="cn-lyric">[00:57.94]东京·香迪·约会</div>
-<div class="cn-lyric">[00:57.94]东京·香迪·约会</div>
-<div class="cn-lyric">[00:57.94]东京·香迪·约会</div>
 <div class="cn-lyric">[00:57.94]东京·香迪·约会</div>
 </div>
 
@@ -138,9 +133,6 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [00:59.70]<ruby>その<rt class="roma">sono</rt></ruby><ruby>時<rt class="furi">とき</rt><rt class="roma">toki</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>来<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>如何<rt class="furi">いか</rt><rt class="roma">ika</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>ぜ<rt class="roma">ze</rt></ruby>
 </div>
 <div class="cn-lyric">[00:59.70]即使时机来临也无可奈何</div>
-<div class="cn-lyric">[00:59.70]即使时机来临也无可奈何</div>
-<div class="cn-lyric">[00:59.70]即使时机来临也无可奈何</div>
-<div class="cn-lyric">[00:59.70]即使时机来临也无可奈何</div>
 </div>
 
 <div class="lyric-line">
@@ -148,15 +140,12 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [01:03.78]<ruby>曖昧<rt class="furi">あいまい</rt><rt class="roma">aimai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>本当<rt class="furi">ほんとう</rt><rt class="roma">hontou</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby><ruby>メランコリ<rt class="roma">merankori</rt></ruby><ruby>化<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby>
 </div>
 <div class="cn-lyric">[01:03.78]暧昧的真相只会化为忧郁</div>
-<div class="cn-lyric">[01:03.78]暧昧的真相只会化为忧郁</div>
-<div class="cn-lyric">[01:03.78]暧昧的真相只会化为忧郁</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:07.87]<ruby>あたし<rt class="roma">atashi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>あ<rt class="roma">a</rt></ruby>掻<ruby>攫<rt class="furi">さら</rt><rt class="roma">sara</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>今<rt class="furi">こん</rt><rt class="roma">kon</rt></ruby><ruby>テイクオンミー<rt class="roma">teikuonmii</rt></ruby>
 </div>
-<div class="cn-lyric">[01:07.87]来吧 将我夺走 现在Take on me</div>
 <div class="cn-lyric">[01:07.87]来吧 将我夺走 现在Take on me</div>
 </div>
 

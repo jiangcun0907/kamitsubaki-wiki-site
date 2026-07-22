@@ -218,18 +218,12 @@ OH NO <ruby>加<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>班
 梦<ruby>想<rt class="furi">そう</rt><rt class="roma">sou</rt></ruby>应该<ruby>去<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby>怎么<ruby>追<rt class="furi">つい</rt><rt class="roma">tsui</rt></ruby>
 </div>
 <div class="trans-lyric">How should one chase a dream?</div>
-<div class="trans-lyric">How should one chase a dream?</div>
-<div class="trans-lyric">How should one chase a dream?</div>
-<div class="trans-lyric">How should one chase a dream?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>理想<rt class="furi">りそう</rt><rt class="roma">risou</rt></ruby><ruby>到底<rt class="furi">とうてい</rt><rt class="roma">toutei</rt></ruby><ruby>是<rt class="furi">ぜ</rt><rt class="roma">ze</rt></ruby>为<ruby>了<rt class="furi">りょう</rt><rt class="roma">ryou</rt></ruby>谁
 </div>
-<div class="trans-lyric">Who is the ideal really for?</div>
-<div class="trans-lyric">Who is the ideal really for?</div>
-<div class="trans-lyric">Who is the ideal really for?</div>
 <div class="trans-lyric">Who is the ideal really for?</div>
 </div>
 
@@ -238,18 +232,12 @@ OH NO <ruby>加<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>班
 <ruby>一切<rt class="furi">いっさい</rt><rt class="roma">issai</rt></ruby>如<ruby>果<rt class="furi">はて</rt><rt class="roma">hate</rt></ruby><ruby>能<rt class="furi">のう</rt><rt class="roma">nou</rt></ruby><ruby>看<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>淡<rt class="furi">あわ</rt><rt class="roma">awa</rt></ruby><ruby>点<rt class="furi">てん</rt><rt class="roma">ten</rt></ruby>
 </div>
 <div class="trans-lyric">If you can take everything lightly</div>
-<div class="trans-lyric">If you can take everything lightly</div>
-<div class="trans-lyric">If you can take everything lightly</div>
-<div class="trans-lyric">If you can take everything lightly</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>快<rt class="furi">かい</rt><rt class="roma">kai</rt></ruby>乐也许就<ruby>多<rt class="furi">た</rt><rt class="roma">ta</rt></ruby><ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>点<rt class="furi">てん</rt><rt class="roma">ten</rt></ruby>
 </div>
-<div class="trans-lyric">Happiness might be a bit more</div>
-<div class="trans-lyric">Happiness might be a bit more</div>
-<div class="trans-lyric">Happiness might be a bit more</div>
 <div class="trans-lyric">Happiness might be a bit more</div>
 </div>
 

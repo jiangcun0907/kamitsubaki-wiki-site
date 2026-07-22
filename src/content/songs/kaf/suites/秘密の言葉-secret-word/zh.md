@@ -37,9 +37,6 @@ image: /images/songs/kaf/track-1678454359.jpg
 [00:01.34]<ruby>秘密<rt class="furi">ひみつ</rt><rt class="roma">himitsu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="cn-lyric">[00:01.34]用秘密的话语</div>
-<div class="cn-lyric">用秘密的话语</div>
-<div class="cn-lyric">用秘密的话语</div>
-<div class="cn-lyric">用秘密的话语</div>
 </div>
 
 <div class="lyric-line">
@@ -47,9 +44,6 @@ image: /images/songs/kaf/track-1678454359.jpg
 [00:04.88]<ruby>もう<rt class="roma">mou</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>変<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>わり<rt class="roma">wari</rt></ruby><ruby>そう<rt class="roma">sou</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>気<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby>
 </div>
 <div class="cn-lyric">[00:04.88]感觉世界就要改变</div>
-<div class="cn-lyric">感觉世界就要改变</div>
-<div class="cn-lyric">感觉世界就要改变</div>
-<div class="cn-lyric">感觉世界就要改变</div>
 </div>
 
 <div class="lyric-line">
@@ -57,7 +51,6 @@ image: /images/songs/kaf/track-1678454359.jpg
 [00:12.85]<ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="cn-lyric">[00:12.85]不能对任何人说</div>
-<div class="cn-lyric">不能对任何人说</div>
 </div>
 
 <div class="lyric-line">
@@ -153,14 +146,12 @@ image: /images/songs/kaf/track-1678454359.jpg
 [01:19.75]<ruby>動き出<rt class="furi">うごきだ</rt><rt class="roma">ugokida</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>ば<rt class="roma">ba</rt></ruby><ruby>ほら<rt class="roma">hora</rt></ruby>
 </div>
 <div class="cn-lyric">[01:19.75]一旦开始行动 你看</div>
-<div class="cn-lyric">一旦开始行动 你看</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:22.06]<ruby>もう<rt class="roma">mou</rt></ruby><ruby>止<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>まら<rt class="roma">mara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> <ruby>止<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>られ<rt class="roma">rare</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="cn-lyric">[01:22.06]已经停不下来 无法停止</div>
 <div class="cn-lyric">[01:22.06]已经停不下来 无法停止</div>
 </div>
 

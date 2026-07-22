@@ -94,14 +94,12 @@ image: /images/songs/vwp/single-1687478548.jpg
 [00:36.13]<ruby>崩<rt class="furi">くず</rt><rt class="roma">kuzu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby><ruby>真実<rt class="furi">しんじつ</rt><rt class="roma">shinjitsu</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>つ<rt class="roma">tsu</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby>
 </div>
 <div class="cn-lyric">[00:36.13]崩塌的真相无论何时</div>
-<div class="cn-lyric">[00:36.13]崩塌的真相无论何时</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:41.28]<ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>変<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>わる<rt class="roma">waru</rt></ruby>
 </div>
-<div class="cn-lyric">[00:41.28]都会变成想看到的样子</div>
 <div class="cn-lyric">[00:41.28]都会变成想看到的样子</div>
 </div>
 
@@ -155,7 +153,6 @@ image: /images/songs/vwp/single-1687478548.jpg
 <div class="jp-lyric">
 [01:17.26]<ruby>物語<rt class="furi">ものがたり</rt><rt class="roma">monogatari</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>聞<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>せよ<rt class="roma">seyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="cn-lyric">[01:17.26]来听故事吧</div>
 <div class="cn-lyric">[01:17.26]来听故事吧</div>
 </div>
 

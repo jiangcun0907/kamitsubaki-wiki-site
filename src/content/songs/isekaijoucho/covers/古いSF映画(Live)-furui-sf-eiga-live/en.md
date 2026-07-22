@@ -124,16 +124,12 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [01:53.89]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>信<rt class="furi">しん</rt><rt class="roma">shin</rt></ruby><ruby>じる<rt class="roma">jiru</rt></ruby><ruby>真実<rt class="furi">しんじつ</rt><rt class="roma">shinjitsu</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby> <ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>創作<rt class="furi">そうさく</rt><rt class="roma">sousaku</rt></ruby><ruby>かも<rt class="roma">kamo</rt></ruby><ruby>しれ<rt class="roma">shire</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">The truth we believe may be someone's creation</div>
-<div class="trans-lyric">The truth we believe may be someone's creation</div>
-<div class="trans-lyric">The truth we believe may be someone's creation</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:59.35]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby><ruby>この<rt class="roma">kono</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby> <ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>悪意<rt class="furi">あくい</rt><rt class="roma">akui</rt></ruby><ruby>かも<rt class="roma">kamo</rt></ruby><ruby>しれ<rt class="roma">shire</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="trans-lyric">This world we see may be someone's malice</div>
-<div class="trans-lyric">This world we see may be someone's malice</div>
 <div class="trans-lyric">This world we see may be someone's malice</div>
 </div>
 
@@ -144,17 +140,12 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [02:04.71]<ruby>人<rt class="furi">ひと</rt><rt class="roma">hito</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>人<rt class="furi">ひと</rt><rt class="roma">hito</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>ある<rt class="roma">aru</rt></ruby><ruby>理由<rt class="furi">りゆう</rt><rt class="roma">riyuu</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby> <ruby>人<rt class="furi">ひと</rt><rt class="roma">hito</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>しか<rt class="roma">shika</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
 </div>
 <div class="trans-lyric">If the reason for a person being human exists only within a person</div>
-<div class="trans-lyric">If the reason for a person being human exists only within a person</div>
-<div class="trans-lyric">If the reason for a person being human exists only within a person</div>
-<div class="trans-lyric">If the reason for a person being human exists only within a person</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [02:10.25]<ruby>明け渡<rt class="furi">あけわた</rt><rt class="roma">akewata</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>いけ<rt class="roma">ike</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>場所<rt class="furi">ばしょ</rt><rt class="roma">basho</rt></ruby> <ruby>それ<rt class="roma">sore</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>呼<rt class="furi">よ</rt><rt class="roma">yo</rt></ruby><ruby>ぶ<rt class="roma">bu</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby>
 </div>
-<div class="trans-lyric">A place that must not be surrendered; that's what you call a heart, right?</div>
-<div class="trans-lyric">A place that must not be surrendered; that's what you call a heart, right?</div>
 <div class="trans-lyric">A place that must not be surrendered; that's what you call a heart, right?</div>
 </div>
 

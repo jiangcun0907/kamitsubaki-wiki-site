@@ -36,12 +36,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:12.25]<ruby>お気に入<rt class="furi">おきにい</rt><rt class="roma">okinii</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>つけ<rt class="roma">tsuke</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby> COCO No.5
 </div>
 <div class="cn-lyric">[00:12.25]喷着我最爱的可可小姐5号</div>
-<div class="cn-lyric">喷着我最爱的可可小姐5号</div>
-<div class="cn-lyric">喷着我最爱的可可小姐5号</div>
-<div class="cn-lyric">喷着我最爱的可可小姐5号</div>
-<div class="cn-lyric">喷着我最爱的可可小姐5号</div>
-<div class="cn-lyric">喷着我最爱的可可小姐5号</div>
-<div class="cn-lyric">喷着我最爱的可可小姐5号</div>
 </div>
 
 <div class="lyric-line">
@@ -49,12 +43,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:15.81]<ruby>鏡<rt class="furi">かがみ</rt><rt class="roma">kagami</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>鏡<rt class="furi">かがみ</rt><rt class="roma">kagami</rt></ruby> <ruby>ねぇ<rt class="roma">nee</rt></ruby><ruby>どこ<rt class="roma">doko</rt></ruby>？Tell me why?
 </div>
 <div class="cn-lyric">[00:15.81]魔镜魔镜 告诉我 你在哪里？Tell me why?</div>
-<div class="cn-lyric">魔镜魔镜 告诉我 你在哪里？Tell me why?</div>
-<div class="cn-lyric">魔镜魔镜 告诉我 你在哪里？Tell me why?</div>
-<div class="cn-lyric">魔镜魔镜 告诉我 你在哪里？Tell me why?</div>
-<div class="cn-lyric">魔镜魔镜 告诉我 你在哪里？Tell me why?</div>
-<div class="cn-lyric">魔镜魔镜 告诉我 你在哪里？Tell me why?</div>
-<div class="cn-lyric">魔镜魔镜 告诉我 你在哪里？Tell me why?</div>
 </div>
 
 <div class="lyric-line">
@@ -62,12 +50,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:19.13]<ruby>お金<rt class="furi">おかね</rt><rt class="roma">okane</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>買<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>もの<rt class="roma">mono</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>足<rt class="furi">た</rt><rt class="roma">ta</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="cn-lyric">[00:19.13]用钱能买到的东西还不够</div>
-<div class="cn-lyric">用钱能买到的东西还不够</div>
-<div class="cn-lyric">用钱能买到的东西还不够</div>
-<div class="cn-lyric">用钱能买到的东西还不够</div>
-<div class="cn-lyric">用钱能买到的东西还不够</div>
-<div class="cn-lyric">用钱能买到的东西还不够</div>
-<div class="cn-lyric">用钱能买到的东西还不够</div>
 </div>
 
 <div class="lyric-line">
@@ -75,12 +57,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:22.40]<ruby>星<rt class="furi">ほし</rt><rt class="roma">hoshi</rt></ruby><ruby>より<rt class="roma">yori</rt></ruby><ruby>輝<rt class="furi">かがや</rt><rt class="roma">kagaya</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>もの<rt class="roma">mono</rt></ruby><ruby>ください<rt class="roma">kudasai</rt></ruby>
 </div>
 <div class="cn-lyric">[00:22.40]请给我比星辰更闪耀的东西</div>
-<div class="cn-lyric">请给我比星辰更闪耀的东西</div>
-<div class="cn-lyric">请给我比星辰更闪耀的东西</div>
-<div class="cn-lyric">请给我比星辰更闪耀的东西</div>
-<div class="cn-lyric">请给我比星辰更闪耀的东西</div>
-<div class="cn-lyric">请给我比星辰更闪耀的东西</div>
-<div class="cn-lyric">请给我比星辰更闪耀的东西</div>
 </div>
 
 <br />

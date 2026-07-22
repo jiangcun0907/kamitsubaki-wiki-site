@@ -113,15 +113,12 @@ image: /images/albums/kaf/shinai.jpg
 [00:50.43]<ruby>無敵<rt class="furi">むてき</rt><rt class="roma">muteki</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>シーク<rt class="roma">shiiku</rt></ruby><ruby>レット<rt class="roma">retto</rt></ruby>
 </div>
 <div class="trans-lyric">An invincible secret.</div>
-<div class="trans-lyric">An invincible secret.</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:51.96]<ruby>こんがらがった<rt class="roma">kongaragatta</rt></ruby><ruby>まま<rt class="roma">mama</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>いこ<rt class="roma">iko</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>ぜ<rt class="roma">ze</rt></ruby>
 </div>
-<div class="trans-lyric">Let's stay tangled up as we are.</div>
-<div class="trans-lyric">Let's stay tangled up as we are.</div>
 <div class="trans-lyric">Let's stay tangled up as we are.</div>
 </div>
 
@@ -130,15 +127,12 @@ image: /images/albums/kaf/shinai.jpg
 [00:54.89]<ruby>思い込<rt class="furi">おもいこ</rt><rt class="roma">omoiko</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>さえ<rt class="roma">sae</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>才能<rt class="furi">さいのう</rt><rt class="roma">sainou</rt></ruby>
 </div>
 <div class="trans-lyric">Even stubbornness is a talent.</div>
-<div class="trans-lyric">Even stubbornness is a talent.</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:57.40]<ruby>理解<rt class="furi">りかい</rt><rt class="roma">rikai</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>もらえ<rt class="roma">morae</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
 </div>
-<div class="trans-lyric">If you can't understand,</div>
-<div class="trans-lyric">If you can't understand,</div>
 <div class="trans-lyric">If you can't understand,</div>
 </div>
 
@@ -147,19 +141,12 @@ image: /images/albums/kaf/shinai.jpg
 [00:59.56]<ruby>ひたすら<rt class="roma">hitasura</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>挑<rt class="furi">いど</rt><rt class="roma">ido</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>ゆく<rt class="roma">yuku</rt></ruby><ruby>物語<rt class="furi">ものがたり</rt><rt class="roma">monogatari</rt></ruby>
 </div>
 <div class="trans-lyric">Then a story of relentlessly challenging,</div>
-<div class="trans-lyric">Then a story of relentlessly challenging,</div>
-<div class="trans-lyric">Then a story of relentlessly challenging,</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:02.46]<ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>せつけ<rt class="roma">setsuke</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>こ<rt class="roma">ko</rt></ruby>！
 </div>
-<div class="trans-lyric">Show them!</div>
-<div class="trans-lyric">Show them!</div>
-<div class="trans-lyric">Show them!</div>
-<div class="trans-lyric">Show them!</div>
-<div class="trans-lyric">Show them!</div>
 <div class="trans-lyric">Show them!</div>
 </div>
 
@@ -168,18 +155,12 @@ image: /images/albums/kaf/shinai.jpg
 [01:02.46]<ruby>ラララ<rt class="roma">rarara</rt></ruby>…
 </div>
 <div class="trans-lyric">La la la...</div>
-<div class="trans-lyric">La la la...</div>
-<div class="trans-lyric">La la la...</div>
-<div class="trans-lyric">La la la...</div>
-<div class="trans-lyric">La la la...</div>
-<div class="trans-lyric">La la la...</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:06.02]<ruby>こんな<rt class="roma">konna</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby><ruby>叫<rt class="furi">さけ</rt><rt class="roma">sake</rt></ruby><ruby>ぶ<rt class="roma">bu</rt></ruby>
 </div>
-<div class="trans-lyric">Even someone like us shouts.</div>
 <div class="trans-lyric">Even someone like us shouts.</div>
 </div>
 
@@ -200,15 +181,12 @@ image: /images/albums/kaf/shinai.jpg
 [01:11.67]<ruby>でんぐり返<rt class="furi">でんぐりがえ</rt><rt class="roma">dengurigae</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby> <ruby>でんぐり返<rt class="furi">でんぐりがえ</rt><rt class="roma">dengurigae</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby>
 </div>
 <div class="trans-lyric">Somersault, somersault,</div>
-<div class="trans-lyric">Somersault, somersault,</div>
-<div class="trans-lyric">Somersault, somersault,</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:13.09]<ruby>ライライライ<rt class="roma">rairairai</rt></ruby>
 </div>
-<div class="trans-lyric">Rai rai rai.</div>
 <div class="trans-lyric">Rai rai rai.</div>
 </div>
 

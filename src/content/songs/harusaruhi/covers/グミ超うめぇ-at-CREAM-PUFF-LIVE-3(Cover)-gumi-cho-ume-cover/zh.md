@@ -36,13 +36,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [00:13.01]<ruby>グミ<rt class="roma">gumi</rt></ruby><ruby>超<rt class="furi">ちょう</rt><rt class="roma">chou</rt></ruby><ruby>うめ<rt class="roma">ume</rt></ruby><ruby>ぇ<rt class="roma">e</rt></ruby>
 </div>
 <div class="cn-lyric">[00:13.01]软糖超级好吃</div>
-<div class="cn-lyric">[00:13.01]软糖超级好吃</div>
-<div class="cn-lyric">[00:13.01]软糖超级好吃</div>
-<div class="cn-lyric">[00:13.01]软糖超级好吃</div>
-<div class="cn-lyric">[00:13.01]软糖超级好吃</div>
-<div class="cn-lyric">[00:13.01]软糖超级好吃</div>
-<div class="cn-lyric">[00:13.01]软糖超级好吃</div>
-<div class="cn-lyric">[00:13.01]软糖超级好吃</div>
 </div>
 
 <div class="lyric-line">
@@ -50,26 +43,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [00:14.25]<ruby>グミ<rt class="roma">gumi</rt></ruby> <ruby>グミ<rt class="roma">gumi</rt></ruby>
 </div>
 <div class="cn-lyric">[00:14.25]软糖 软糖</div>
-<div class="cn-lyric">[00:14.25]软糖 软糖</div>
-<div class="cn-lyric">[00:14.25]软糖 软糖</div>
-<div class="cn-lyric">[00:14.25]软糖 软糖</div>
-<div class="cn-lyric">[00:14.25]软糖 软糖</div>
-<div class="cn-lyric">[00:14.25]软糖 软糖</div>
-<div class="cn-lyric">[00:14.25]软糖 软糖</div>
-<div class="cn-lyric">[00:14.25]软糖 软糖</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:14.25]<ruby>マジ<rt class="roma">maji</rt></ruby><ruby>超<rt class="furi">ちょう</rt><rt class="roma">chou</rt></ruby><ruby>うめ<rt class="roma">ume</rt></ruby><ruby>ぇ<rt class="roma">e</rt></ruby>
 </div>
-<div class="cn-lyric">[00:14.25]真的超级好吃</div>
-<div class="cn-lyric">[00:14.25]真的超级好吃</div>
-<div class="cn-lyric">[00:14.25]真的超级好吃</div>
-<div class="cn-lyric">[00:14.25]真的超级好吃</div>
-<div class="cn-lyric">[00:14.25]真的超级好吃</div>
-<div class="cn-lyric">[00:14.25]真的超级好吃</div>
-<div class="cn-lyric">[00:14.25]真的超级好吃</div>
 <div class="cn-lyric">[00:14.25]真的超级好吃</div>
 </div>
 
@@ -132,14 +111,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [00:26.46]This is my favorite<ruby>な<rt class="roma">na</rt></ruby><ruby>アイドル<rt class="roma">aidoru</rt></ruby>
 </div>
 <div class="cn-lyric">[00:26.46]This is my favorite 的偶像</div>
-<div class="cn-lyric">[00:26.46]This is my favorite 的偶像</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:29.68]Colorful<ruby>に<rt class="roma">ni</rt></ruby><ruby>染<rt class="furi">そ</rt><rt class="roma">so</rt></ruby><ruby>まって<rt class="roma">matte</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>最高<rt class="furi">さいこう</rt><rt class="roma">saikou</rt></ruby>
 </div>
-<div class="cn-lyric">[00:29.68]染上色彩 太棒了</div>
 <div class="cn-lyric">[00:29.68]染上色彩 太棒了</div>
 </div>
 
@@ -148,16 +125,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [00:32.85]Pocket<ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>****in’<ruby>相棒<rt class="furi">あいぼう</rt><rt class="roma">aibou</rt></ruby>
 </div>
 <div class="cn-lyric">[00:32.85]口袋里的****in’伙伴</div>
-<div class="cn-lyric">[00:32.85]口袋里的****in’伙伴</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:35.40]<ruby>グミ<rt class="roma">gumi</rt></ruby>
 </div>
-<div class="cn-lyric">[00:35.40]软糖</div>
-<div class="cn-lyric">[00:35.40]软糖</div>
-<div class="cn-lyric">[00:35.40]软糖</div>
 <div class="cn-lyric">[00:35.40]软糖</div>
 </div>
 
@@ -166,14 +139,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 ****in’
 </div>
 <div class="cn-lyric">****in’</div>
-<div class="cn-lyric">****in’</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:35.40]<ruby>超<rt class="furi">ちょう</rt><rt class="roma">chou</rt></ruby><ruby>うめ<rt class="roma">ume</rt></ruby><ruby>ぇ<rt class="roma">e</rt></ruby>
 </div>
-<div class="cn-lyric">[00:35.40]超级好吃</div>
 <div class="cn-lyric">[00:35.40]超级好吃</div>
 </div>
 

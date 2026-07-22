@@ -81,11 +81,6 @@ And you're taking the bridge again
 When all you want to do is swim
 </div>
 <div class="trans-lyric">When all you want to do is swim</div>
-<div class="trans-lyric">When all you want to do is swim</div>
-<div class="trans-lyric">When all you want to do is swim</div>
-<div class="trans-lyric">When all you want to do is swim</div>
-<div class="trans-lyric">When all you want to do is swim</div>
-<div class="trans-lyric">When all you want to do is swim</div>
 </div>
 
 <div class="lyric-line">
@@ -93,17 +88,12 @@ When all you want to do is swim
 You're taking the bridge again
 </div>
 <div class="trans-lyric">You're taking the bridge again</div>
-<div class="trans-lyric">You're taking the bridge again</div>
-<div class="trans-lyric">You're taking the bridge again</div>
-<div class="trans-lyric">You're taking the bridge again</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Taking the bridge again
 </div>
-<div class="trans-lyric">Taking the bridge again</div>
-<div class="trans-lyric">Taking the bridge again</div>
 <div class="trans-lyric">Taking the bridge again</div>
 </div>
 

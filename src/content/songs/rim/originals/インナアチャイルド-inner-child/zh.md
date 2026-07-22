@@ -117,7 +117,6 @@ image: /images/songs/rim/single-1646369845.jpg
 [00:51.96]<ruby>きみ<rt class="roma">kimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>とおく<rt class="roma">tooku</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="cn-lyric">[00:51.96]你变得遥远是因为</div>
-<div class="cn-lyric">[00:51.96]你变得遥远是因为</div>
 </div>
 
 <div class="lyric-line">
@@ -125,14 +124,12 @@ image: /images/songs/rim/single-1646369845.jpg
 [00:56.11]<ruby>きみ<rt class="roma">kimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>ず<rt class="roma">zu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="cn-lyric">[00:56.11]你受伤是因为</div>
-<div class="cn-lyric">[00:56.11]你受伤是因为</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:00.66]<ruby>きみ<rt class="roma">kimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>よわく<rt class="roma">yowaku</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
-<div class="cn-lyric">[01:00.66]你变弱是因为</div>
 <div class="cn-lyric">[01:00.66]你变弱是因为</div>
 </div>
 
@@ -157,7 +154,6 @@ image: /images/songs/rim/single-1646369845.jpg
 [01:13.85]<ruby>この<rt class="roma">kono</rt></ruby><ruby>日々<rt class="furi">ひび</rt><rt class="roma">hibi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>裸<rt class="furi">はだか</rt><rt class="roma">hadaka</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なれ<rt class="roma">nare</rt></ruby>
 </div>
 <div class="cn-lyric">[01:13.85]也让这每一天和心都赤裸</div>
-<div class="cn-lyric">让这些日子和心都赤裸吧</div>
 </div>
 
 <div class="lyric-line">

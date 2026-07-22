@@ -66,8 +66,6 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 隨<ruby>堂<rt class="furi">どう</rt><rt class="roma">dou</rt></ruby><ruby>測<rt class="furi">はか</rt><rt class="roma">haka</rt></ruby>驗 <ruby>有<rt class="furi">ゆう</rt><rt class="roma">yuu</rt></ruby>沒<ruby>有<rt class="furi">ゆう</rt><rt class="roma">yuu</rt></ruby>發<ruby>現<rt class="furi">げん</rt><rt class="roma">gen</rt></ruby>
 </div>
 <div class="cn-lyric">随堂测验 有没有发现</div>
-<div class="cn-lyric">随堂测验 有没有发现</div>
-<div class="cn-lyric">随堂测验 有没有发现</div>
 </div>
 
 <div class="lyric-line">
@@ -75,16 +73,12 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 <ruby>愛情<rt class="furi">あいじょう</rt><rt class="roma">aijou</rt></ruby><ruby>與<rt class="furi">あたえ</rt><rt class="roma">atae</rt></ruby><ruby>了解<rt class="furi">りょうかい</rt><rt class="roma">ryoukai</rt></ruby> <ruby>不<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>一定<rt class="furi">いってい</rt><rt class="roma">ittei</rt></ruby>關<ruby>連<rt class="furi">れん</rt><rt class="roma">ren</rt></ruby>
 </div>
 <div class="cn-lyric">爱情与了解 不一定关连</div>
-<div class="cn-lyric">爱情与了解 不一定关连</div>
-<div class="cn-lyric">爱情与了解 不一定关连</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 隨<ruby>堂<rt class="furi">どう</rt><rt class="roma">dou</rt></ruby><ruby>測<rt class="furi">はか</rt><rt class="roma">haka</rt></ruby>驗 <ruby>有<rt class="furi">ゆう</rt><rt class="roma">yuu</rt></ruby>沒<ruby>有<rt class="furi">ゆう</rt><rt class="roma">yuu</rt></ruby><ruby>共通<rt class="furi">きょうつう</rt><rt class="roma">kyoutsuu</rt></ruby>點
 </div>
-<div class="cn-lyric">随堂测验 有没有共通点</div>
-<div class="cn-lyric">随堂测验 有没有共通点</div>
 <div class="cn-lyric">随堂测验 有没有共通点</div>
 </div>
 
@@ -99,10 +93,6 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 <div class="jp-lyric">
 你<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>上<rt class="furi">じょう</rt><rt class="roma">jou</rt></ruby><ruby>了<rt class="furi">りょう</rt><rt class="roma">ryou</rt></ruby><ruby>我<rt class="furi">わが</rt><rt class="roma">waga</rt></ruby> 哪<ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>面<rt class="furi">めん</rt><rt class="roma">men</rt></ruby>
 </div>
-<div class="cn-lyric">你爱上了我 哪一面</div>
-<div class="cn-lyric">你爱上了我 哪一面</div>
-<div class="cn-lyric">你爱上了我 哪一面</div>
-<div class="cn-lyric">你爱上了我 哪一面</div>
 <div class="cn-lyric">你爱上了我 哪一面</div>
 </div>
 

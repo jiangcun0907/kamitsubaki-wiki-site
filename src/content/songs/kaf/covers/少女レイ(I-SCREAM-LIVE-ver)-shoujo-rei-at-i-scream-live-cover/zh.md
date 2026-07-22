@@ -53,7 +53,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [00:28.09]<ruby>そう<rt class="roma">sou</rt></ruby> <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>友達<rt class="furi">ともだち</rt><rt class="roma">tomodachi</rt></ruby> <ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>掴<rt class="furi">つか</rt><rt class="roma">tsuka</rt></ruby><ruby>めよ<rt class="roma">meyo</rt></ruby>
 </div>
 <div class="cn-lyric">[00:28.09]是啊 你是朋友 握住我的手吧</div>
-<div class="cn-lyric">[00:28.09]是啊 你是朋友 握住我的手吧</div>
 </div>
 
 <div class="lyric-line">
@@ -77,14 +76,12 @@ image: /images/albums/kaf/i-scream-live.jpg
 [00:47.88]<ruby>繰り返<rt class="furi">くりかえ</rt><rt class="roma">kurikae</rt></ruby><ruby>す<rt class="roma">su</rt></ruby>
 </div>
 <div class="cn-lyric">[00:47.88]不断重复</div>
-<div class="cn-lyric">[00:47.88]不断重复</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:48.94]<ruby>フラッシュ<rt class="roma">furasshu</rt></ruby><ruby>バック<rt class="roma">bakku</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>蝉<rt class="furi">せみ</rt><rt class="roma">semi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>二度<rt class="furi">にど</rt><rt class="roma">nido</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>帰<rt class="furi">かえ</rt><rt class="roma">kae</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ぬ<rt class="roma">nu</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby>
 </div>
-<div class="cn-lyric">[00:48.94]闪回·蝉鸣·永不复返的你</div>
 <div class="cn-lyric">[00:48.94]闪回·蝉鸣·永不复返的你</div>
 </div>
 
@@ -93,7 +90,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [00:55.32]<ruby>永遠<rt class="furi">えいえん</rt><rt class="roma">eien</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>千<rt class="furi">せん</rt><rt class="roma">sen</rt></ruby><ruby>切<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby> <ruby>お<rt class="roma">o</rt></ruby><ruby>揃<rt class="furi">そろ</rt><rt class="roma">soro</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>キーホルダー<rt class="roma">kiihorudaa</rt></ruby>
 </div>
 <div class="cn-lyric">[00:55.32]永远碎裂的 同款钥匙扣</div>
-<div class="cn-lyric">[00:55.32]永远碎裂的 同款钥匙扣</div>
 </div>
 
 <div class="lyric-line">
@@ -101,14 +97,12 @@ image: /images/albums/kaf/i-scream-live.jpg
 [01:01.77]<ruby>夏<rt class="furi">なつ</rt><rt class="roma">natsu</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>消<rt class="furi">け</rt><rt class="roma">ke</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>去<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby> <ruby>白<rt class="furi">しろ</rt><rt class="roma">shiro</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>肌<rt class="furi">はだ</rt><rt class="roma">hada</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>少女<rt class="furi">しょうじょ</rt><rt class="roma">shoujo</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="cn-lyric">[01:01.77]被夏天抹去的 白皙肌肤的少女</div>
-<div class="cn-lyric">[01:01.77]被夏天抹去的 白皙肌肤的少女</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:07.92]<ruby>哀<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>程<rt class="furi">ほど</rt><rt class="roma">hodo</rt></ruby> <ruby>とり<rt class="roma">tori</rt></ruby><ruby>憑<rt class="furi">つ</rt><rt class="roma">tsu</rt></ruby><ruby>かれ<rt class="roma">kare</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>仕舞<rt class="furi">しま</rt><rt class="roma">shima</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
-<div class="cn-lyric">[01:07.92]悲伤到想被深深附身</div>
 <div class="cn-lyric">[01:07.92]悲伤到想被深深附身</div>
 </div>
 

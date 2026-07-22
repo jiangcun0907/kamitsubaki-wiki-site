@@ -92,15 +92,12 @@ image: /images/albums/kaf/shinai.jpg
 [00:49.69]<ruby>記憶<rt class="furi">きおく</rt><rt class="roma">kioku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>行方<rt class="furi">ゆくえ</rt><rt class="roma">yukue</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>手繰<rt class="furi">たぐ</rt><rt class="roma">tagu</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>寄<rt class="furi">よ</rt><rt class="roma">yo</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="cn-lyric">[00:49.69]摸索着记忆的去向</div>
-<div class="cn-lyric">[00:49.69]摸索着记忆的去向</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:52.79]<ruby>待<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="cn-lyric">[00:52.79]等等我啊</div>
-<div class="cn-lyric">[00:52.79]等等我啊</div>
 <div class="cn-lyric">[00:52.79]等等我啊</div>
 </div>
 
@@ -116,7 +113,6 @@ image: /images/albums/kaf/shinai.jpg
 [00:56.98]<ruby>わたし<rt class="roma">watashi</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby><ruby>ため<rt class="roma">tame</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>メモリー<rt class="roma">memorii</rt></ruby>
 </div>
 <div class="cn-lyric">[00:56.98]为了让我是‘我’的记忆</div>
-<div class="cn-lyric">[00:56.98]为了让我是‘我’的记忆</div>
 </div>
 
 <div class="lyric-line">
@@ -124,14 +120,12 @@ image: /images/albums/kaf/shinai.jpg
 [01:00.74]<ruby>正<rt class="furi">ただ</rt><rt class="roma">tada</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>もの<rt class="roma">mono</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:00.74]所谓正确的东西</div>
-<div class="cn-lyric">[01:00.74]所谓正确的东西</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:02.47]<ruby>着込<rt class="furi">きこ</rt><rt class="roma">kiko</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>寂<rt class="furi">さび</rt><rt class="roma">sabi</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
 </div>
-<div class="cn-lyric">[01:02.47]即使紧裹着，还是寂寞不是吗</div>
 <div class="cn-lyric">[01:02.47]即使紧裹着，还是寂寞不是吗</div>
 </div>
 
@@ -146,7 +140,6 @@ image: /images/albums/kaf/shinai.jpg
 <div class="jp-lyric">
 [01:10.04]<ruby>あぁ<rt class="roma">aa</rt></ruby><ruby>それ<rt class="roma">sore</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>気<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>づい<rt class="roma">zui</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>しまった<rt class="roma">shimatta</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
-<div class="cn-lyric">[01:10.04]啊，我已然察觉到了啊</div>
 <div class="cn-lyric">[01:10.04]啊，我已然察觉到了啊</div>
 </div>
 

@@ -90,14 +90,12 @@ refrain:
 <ruby>びしょ濡<rt class="furi">びしょぬ</rt><rt class="roma">bishonu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby> <ruby>さよなら<rt class="roma">sayonara</rt></ruby> <ruby>さよなら<rt class="roma">sayonara</rt></ruby>
 </div>
 <div class="trans-lyric">Soaked through, but goodbye, goodbye</div>
-<div class="trans-lyric">Soaked through, but goodbye, goodbye</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>気<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
-<div class="trans-lyric">Don't mind it</div>
 <div class="trans-lyric">Don't mind it</div>
 </div>
 

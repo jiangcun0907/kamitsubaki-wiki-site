@@ -40,9 +40,6 @@ image: /images/songs/kaf/track-1842997817.jpg
 [00:00.64]Run of the mill ah ah
 </div>
 <div class="trans-lyric">Run of the mill ah ah</div>
-<div class="trans-lyric">Run of the mill ah ah</div>
-<div class="trans-lyric">Run of the mill ah ah</div>
-<div class="trans-lyric">Run of the mill ah ah</div>
 </div>
 
 <div class="lyric-line">
@@ -50,16 +47,12 @@ image: /images/songs/kaf/track-1842997817.jpg
 [00:05.14]But I love those things
 </div>
 <div class="trans-lyric">But I love those things</div>
-<div class="trans-lyric">But I love those things</div>
-<div class="trans-lyric">But I love those things</div>
-<div class="trans-lyric">But I love those things</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:07.61]Forever
 </div>
-<div class="trans-lyric">Forever</div>
 <div class="trans-lyric">Forever</div>
 </div>
 
@@ -87,7 +80,6 @@ image: /images/songs/kaf/track-1842997817.jpg
 [00:23.11]<ruby>でも<rt class="roma">demo</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby> <ruby>だけど<rt class="roma">dakedo</rt></ruby> <ruby>わから<rt class="roma">wakara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">But then, still, I don't understand</div>
-<div class="trans-lyric">But then, still, I don't understand</div>
 </div>
 
 <div class="lyric-line">
@@ -101,7 +93,6 @@ image: /images/songs/kaf/track-1842997817.jpg
 <div class="jp-lyric">
 [00:31.68]<ruby>わから<rt class="roma">wakara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>です<rt class="roma">desu</rt></ruby>
 </div>
-<div class="trans-lyric">I still don't know</div>
 <div class="trans-lyric">I still don't know</div>
 </div>
 
@@ -158,7 +149,6 @@ image: /images/songs/kaf/track-1842997817.jpg
 <div class="jp-lyric">
 [01:20.48]<ruby>いつ<rt class="roma">itsu</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>ずっと<rt class="roma">zutto</rt></ruby><ruby>ありふれ<rt class="roma">arifure</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
-<div class="trans-lyric">I want to be ordinary with you forever and always</div>
 <div class="trans-lyric">I want to be ordinary with you forever and always</div>
 </div>
 

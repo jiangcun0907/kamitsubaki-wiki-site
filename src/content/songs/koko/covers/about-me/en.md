@@ -31,14 +31,12 @@ About me appears on ARARE LIVE or a related official release. Entries are versio
 I have a story to tell
 </div>
 <div class="trans-lyric">I have a story to tell</div>
-<div class="trans-lyric">I have a story to tell</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Do you hear me tonight
 </div>
-<div class="trans-lyric">Do you hear me tonight</div>
 <div class="trans-lyric">Do you hear me tonight</div>
 </div>
 
@@ -47,7 +45,6 @@ Do you hear me tonight
 It's things about me
 </div>
 <div class="trans-lyric">It's things about me</div>
-<div class="trans-lyric">It's things about me</div>
 </div>
 
 <div class="lyric-line">
@@ -55,14 +52,12 @@ It's things about me
 I'll be waiting in bedroom
 </div>
 <div class="trans-lyric">I'll be waiting in bedroom</div>
-<div class="trans-lyric">I'll be waiting in bedroom</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 But anyway you can't come
 </div>
-<div class="trans-lyric">But anyway you can't come</div>
 <div class="trans-lyric">But anyway you can't come</div>
 </div>
 
@@ -120,14 +115,12 @@ I couldn't careless
 It's wonderful for me that world
 </div>
 <div class="trans-lyric">It's wonderful for me that world</div>
-<div class="trans-lyric">It's wonderful for me that world</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 is moving now
 </div>
-<div class="trans-lyric">is moving now</div>
 <div class="trans-lyric">is moving now</div>
 </div>
 
@@ -136,14 +129,12 @@ is moving now
 Some lights turn around and
 </div>
 <div class="trans-lyric">Some lights turn around and</div>
-<div class="trans-lyric">Some lights turn around and</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 around
 </div>
-<div class="trans-lyric">around</div>
 <div class="trans-lyric">around</div>
 </div>
 
@@ -152,14 +143,12 @@ around
 I lost my head again
 </div>
 <div class="trans-lyric">I lost my head again</div>
-<div class="trans-lyric">I lost my head again</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 And just want to throw
 </div>
-<div class="trans-lyric">And just want to throw</div>
 <div class="trans-lyric">And just want to throw</div>
 </div>
 
@@ -168,14 +157,12 @@ And just want to throw
 everything away
 </div>
 <div class="trans-lyric">everything away</div>
-<div class="trans-lyric">everything away</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 It's not that easy
 </div>
-<div class="trans-lyric">It's not that easy</div>
 <div class="trans-lyric">It's not that easy</div>
 </div>
 
@@ -184,16 +171,12 @@ It's not that easy
 Maybe I'm afraid I'm not as
 </div>
 <div class="trans-lyric">Maybe I'm afraid I'm not as</div>
-<div class="trans-lyric">Maybe I'm afraid I'm not as</div>
-<div class="trans-lyric">Maybe I'm afraid I'm not as</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 tender guy as you think
 </div>
-<div class="trans-lyric">tender guy as you think</div>
-<div class="trans-lyric">tender guy as you think</div>
 <div class="trans-lyric">tender guy as you think</div>
 </div>
 
@@ -202,14 +185,12 @@ tender guy as you think
 Looking your eyes, and I say
 </div>
 <div class="trans-lyric">Looking your eyes, and I say</div>
-<div class="trans-lyric">Looking your eyes, and I say</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 &quot;love you&quot; with fake smile
 </div>
-<div class="trans-lyric">&quot;love you&quot; with fake smile</div>
 <div class="trans-lyric">&quot;love you&quot; with fake smile</div>
 </div>
 
@@ -218,16 +199,12 @@ Looking your eyes, and I say
 I don't know what to do
 </div>
 <div class="trans-lyric">I don't know what to do</div>
-<div class="trans-lyric">I don't know what to do</div>
-<div class="trans-lyric">I don't know what to do</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Please tell me what should I do
 </div>
-<div class="trans-lyric">Please tell me what should I do</div>
-<div class="trans-lyric">Please tell me what should I do</div>
 <div class="trans-lyric">Please tell me what should I do</div>
 </div>
 
@@ -236,7 +213,6 @@ Please tell me what should I do
 Just feel so sad inside, but I
 </div>
 <div class="trans-lyric">Just feel so sad inside, but I</div>
-<div class="trans-lyric">Just feel so sad inside, but I</div>
 </div>
 
 <div class="lyric-line">
@@ -244,14 +220,12 @@ Just feel so sad inside, but I
 kiss you
 </div>
 <div class="trans-lyric">kiss you</div>
-<div class="trans-lyric">kiss you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Kiss you...
 </div>
-<div class="trans-lyric">Kiss you...</div>
 <div class="trans-lyric">Kiss you...</div>
 </div>
 

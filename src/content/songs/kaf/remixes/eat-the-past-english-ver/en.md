@@ -207,14 +207,12 @@ image: /images/songs/kaf/track-1817085907.jpg
 [01:28.56]Rising up, and to the stars they sail
 </div>
 <div class="trans-lyric">Rising up, and to the stars they sail</div>
-<div class="trans-lyric">Rising up, and to the stars they sail</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:31.14]Eating up the memory of the past
 </div>
-<div class="trans-lyric">Eating up the memory of the past</div>
 <div class="trans-lyric">Eating up the memory of the past</div>
 </div>
 

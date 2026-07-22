@@ -41,16 +41,12 @@ image: /images/albums/vwp/inversion.jpg
 <ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>ほう<rt class="roma">hou</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
 </div>
 <div class="trans-lyric">If it's better to know nothing</div>
-<div class="trans-lyric">If it's better to know nothing</div>
-<div class="trans-lyric">If it's better to know nothing</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>教<rt class="furi">おし</rt><rt class="roma">oshi</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>くれ<rt class="roma">kure</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby>
 </div>
-<div class="trans-lyric">Then you don't need to tell me anything</div>
-<div class="trans-lyric">Then you don't need to tell me anything</div>
 <div class="trans-lyric">Then you don't need to tell me anything</div>
 </div>
 
@@ -59,14 +55,12 @@ image: /images/albums/vwp/inversion.jpg
 <ruby>虚言<rt class="furi">きょげん</rt><rt class="roma">kyogen</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>真相<rt class="furi">しんそう</rt><rt class="roma">shinsou</rt></ruby> <ruby>夢遊病<rt class="furi">むゆうびょう</rt><rt class="roma">muyuubyou</rt></ruby>
 </div>
 <div class="trans-lyric">The truth of lies, sleepwalking</div>
-<div class="trans-lyric">The truth of lies, sleepwalking</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>無邪気<rt class="furi">むじゃき</rt><rt class="roma">mujaki</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>あの<rt class="roma">ano</rt></ruby><ruby>子<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>長袖<rt class="furi">ながそで</rt><rt class="roma">nagasode</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>裏側<rt class="furi">うらがわ</rt><rt class="roma">uragawa</rt></ruby>
 </div>
-<div class="trans-lyric">The underside of that innocent child's long sleeves</div>
 <div class="trans-lyric">The underside of that innocent child's long sleeves</div>
 </div>
 
@@ -241,7 +235,6 @@ image: /images/albums/vwp/inversion.jpg
 <ruby>答<rt class="furi">こた</rt><rt class="roma">kota</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>だった<rt class="roma">datta</rt></ruby> <ruby>答<rt class="furi">こた</rt><rt class="roma">kota</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>だった<rt class="roma">datta</rt></ruby>
 </div>
 <div class="trans-lyric">Was the answer, was the answer</div>
-<div class="trans-lyric">Was the answer, was the answer</div>
 </div>
 
 <div class="lyric-line">
@@ -255,7 +248,6 @@ image: /images/albums/vwp/inversion.jpg
 <div class="jp-lyric">
 <ruby>微<rt class="furi">び</rt><rt class="roma">bi</rt></ruby><ruby>睡<rt class="furi">ねむ</rt><rt class="roma">nemu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>奥深<rt class="furi">おくふか</rt><rt class="roma">okufuka</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>堕<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>ち<rt class="roma">chi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby>
 </div>
-<div class="trans-lyric">Falling deep into slumber</div>
 <div class="trans-lyric">Falling deep into slumber</div>
 </div>
 

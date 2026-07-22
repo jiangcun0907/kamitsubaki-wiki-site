@@ -127,14 +127,12 @@ image: /images/albums/kaf/kyoso.jpg
 [01:18.39]<ruby>我<rt class="furi">わ</rt><rt class="roma">wa</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>儘<ruby>でも<rt class="roma">demo</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>だろ<rt class="roma">daro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>？
 </div>
 <div class="trans-lyric">It's okay to be selfish, right?</div>
-<div class="trans-lyric">It's okay to be selfish, right?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:20.72]<ruby>エゴ<rt class="roma">ego</rt></ruby><ruby>ばっかり<rt class="roma">bakkari</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>だろ<rt class="roma">daro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>？
 </div>
-<div class="trans-lyric">It's fine to be all ego, right?</div>
 <div class="trans-lyric">It's fine to be all ego, right?</div>
 </div>
 

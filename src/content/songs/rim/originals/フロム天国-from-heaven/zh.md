@@ -148,7 +148,6 @@ image: /images/albums/rim/new-romancer-2.jpg
 [01:16.76]<ruby>素敵<rt class="furi">すてき</rt><rt class="roma">suteki</rt></ruby><ruby>すぎる<rt class="roma">sugiru</rt></ruby><ruby>ディナー<rt class="roma">deinaa</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>もう<rt class="roma">mou</rt></ruby><ruby>終<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>わり<rt class="roma">wari</rt></ruby>
 </div>
 <div class="cn-lyric">[01:16.76]太过美妙的晚餐已经结束</div>
-<div class="cn-lyric">[01:16.76]太过美妙的晚餐已经结束</div>
 </div>
 
 <div class="lyric-line">

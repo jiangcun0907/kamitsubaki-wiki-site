@@ -173,7 +173,6 @@ And softly you say goodbye
 [00:38.92]Come again
 </div>
 <div class="trans-lyric">Come again</div>
-<div class="trans-lyric">Come again</div>
 </div>
 
 <div class="lyric-line">

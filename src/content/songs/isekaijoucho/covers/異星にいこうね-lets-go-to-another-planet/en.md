@@ -37,7 +37,6 @@ image: /images/albums/rim/singularity-live.jpg
 [00:00.96]<ruby>キャトルミューティレーション<rt class="roma">kyatorumyuuteireeshon</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>恋<rt class="furi">こい</rt><rt class="roma">koi</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="trans-lyric">Fell in love like cattle mutilation</div>
-<div class="trans-lyric">Fell in love like cattle mutilation</div>
 </div>
 
 <div class="lyric-line">
@@ -58,7 +57,6 @@ image: /images/albums/rim/singularity-live.jpg
 <div class="jp-lyric">
 [00:08.41]<ruby>奏<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>でる<rt class="roma">deru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>音<rt class="furi">おと</rt><rt class="roma">oto</rt></ruby>
 </div>
-<div class="trans-lyric">Play an unfamiliar sound</div>
 <div class="trans-lyric">Play an unfamiliar sound</div>
 </div>
 
@@ -135,9 +133,6 @@ image: /images/albums/rim/singularity-live.jpg
 <div class="jp-lyric">
 [00:36.62]UFO<ruby>に<rt class="roma">ni</rt></ruby><ruby>のって<rt class="roma">notte</rt></ruby><ruby>異<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>星<rt class="furi">ほし</rt><rt class="roma">hoshi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>いこ<rt class="roma">iko</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby> <ruby>いこ<rt class="roma">iko</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
-<div class="trans-lyric">Riding a UFO, let's go to an alien planet, let's go</div>
-<div class="trans-lyric">Riding a UFO, let's go to an alien planet, let's go</div>
-<div class="trans-lyric">Riding a UFO, let's go to an alien planet, let's go</div>
 <div class="trans-lyric">Riding a UFO, let's go to an alien planet, let's go</div>
 </div>
 

@@ -57,14 +57,12 @@ image: /images/albums/kaf/shinai.jpg
 几<ruby>百<rt class="furi">ひゃく</rt><rt class="roma">hyaku</rt></ruby><ruby>天来<rt class="furi">てんらい</rt><rt class="roma">tenrai</rt></ruby><ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby>热<ruby>烈<rt class="furi">れつ</rt><rt class="roma">retsu</rt></ruby> <ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby>个<ruby>寒流<rt class="furi">かんりゅう</rt><rt class="roma">kanryuu</rt></ruby>就<ruby>瓦解<rt class="furi">がかい</rt><rt class="roma">gakai</rt></ruby>
 </div>
 <div class="cn-lyric">几百天来的热烈 一个寒流就瓦解</div>
-<div class="cn-lyric">几百天来的热烈 一个寒流就瓦解</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>再<rt class="furi">さい</rt><rt class="roma">sai</rt></ruby><ruby>厚<rt class="furi">あつし</rt><rt class="roma">atsushi</rt></ruby><ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby>爱<ruby>只<rt class="furi">ただ</rt><rt class="roma">tada</rt></ruby><ruby>是<rt class="furi">ぜ</rt><rt class="roma">ze</rt></ruby><ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby>叠纸<ruby>片<rt class="furi">へん</rt><rt class="roma">hen</rt></ruby>
 </div>
-<div class="cn-lyric">再厚的爱只是一叠纸片</div>
 <div class="cn-lyric">再厚的爱只是一叠纸片</div>
 </div>
 
@@ -87,16 +85,12 @@ image: /images/albums/kaf/shinai.jpg
 你<ruby>在<rt class="furi">ざい</rt><rt class="roma">zai</rt></ruby><ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>机<rt class="furi">つくえ</rt><rt class="roma">tsukue</rt></ruby> 你<ruby>在<rt class="furi">ざい</rt><rt class="roma">zai</rt></ruby>笔电 无<ruby>法<rt class="furi">ほう</rt><rt class="roma">hou</rt></ruby>隔绝
 </div>
 <div class="cn-lyric">你在手机 你在笔电 无法隔绝</div>
-<div class="cn-lyric">你在手机 你在笔电 无法隔绝</div>
-<div class="cn-lyric">你在手机 你在笔电 无法隔绝</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 你<ruby>在<rt class="furi">ざい</rt><rt class="roma">zai</rt></ruby><ruby>深夜<rt class="furi">しんや</rt><rt class="roma">shin'ya</rt></ruby> <ruby>像<rt class="furi">ぞう</rt><rt class="roma">zou</rt></ruby>黑咖啡
 </div>
-<div class="cn-lyric">你在深夜 像黑咖啡</div>
-<div class="cn-lyric">你在深夜 像黑咖啡</div>
 <div class="cn-lyric">你在深夜 像黑咖啡</div>
 </div>
 
@@ -105,15 +99,12 @@ image: /images/albums/kaf/shinai.jpg
 你<ruby>在<rt class="furi">ざい</rt><rt class="roma">zai</rt></ruby><ruby>我<rt class="furi">わが</rt><rt class="roma">waga</rt></ruby><ruby>心<rt class="furi">しん</rt><rt class="roma">shin</rt></ruby><ruby>里<rt class="furi">さと</rt><rt class="roma">sato</rt></ruby><ruby>面<rt class="furi">めん</rt><rt class="roma">men</rt></ruby> 陪<ruby>我<rt class="furi">わが</rt><rt class="roma">waga</rt></ruby><ruby>失<rt class="furi">しつ</rt><rt class="roma">shitsu</rt></ruby><ruby>眠<rt class="furi">ねむ</rt><rt class="roma">nemu</rt></ruby>
 </div>
 <div class="cn-lyric">你在我心里面 陪我失眠</div>
-<div class="cn-lyric">你在我心里面 陪我失眠</div>
-<div class="cn-lyric">你在我心里面 陪我失眠</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>可<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>是<rt class="furi">ぜ</rt><rt class="roma">ze</rt></ruby>却<ruby>不在<rt class="furi">ふざい</rt><rt class="roma">fuzai</rt></ruby> <ruby>我<rt class="furi">わが</rt><rt class="roma">waga</rt></ruby><ruby>身<rt class="furi">み</rt><rt class="roma">mi</rt></ruby>边
 </div>
-<div class="cn-lyric">可是却不在 我身边</div>
 <div class="cn-lyric">可是却不在 我身边</div>
 </div>
 
@@ -154,7 +145,6 @@ image: /images/albums/kaf/shinai.jpg
 <div class="jp-lyric">
 你<ruby>在房<rt class="furi">ありふさ</rt><rt class="roma">arifusa</rt></ruby>间 <ruby>像<rt class="furi">ぞう</rt><rt class="roma">zou</rt></ruby><ruby>幻灯<rt class="furi">げんとう</rt><rt class="roma">gentou</rt></ruby><ruby>片<rt class="furi">へん</rt><rt class="roma">hen</rt></ruby> 你<ruby>在<rt class="furi">ざい</rt><rt class="roma">zai</rt></ruby><ruby>我<rt class="furi">わが</rt><rt class="roma">waga</rt></ruby><ruby>眼<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>里<rt class="furi">さと</rt><rt class="roma">sato</rt></ruby><ruby>蔓延<rt class="furi">まんえん</rt><rt class="roma">man'en</rt></ruby>
 </div>
-<div class="cn-lyric">你在房间 像幻灯片 你在我眼里蔓延</div>
 <div class="cn-lyric">你在房间 像幻灯片 你在我眼里蔓延</div>
 </div>
 

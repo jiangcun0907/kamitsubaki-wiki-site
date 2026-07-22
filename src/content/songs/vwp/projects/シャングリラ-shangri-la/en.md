@@ -87,38 +87,12 @@ image: /images/albums/vwp/virtual-city-record.jpg
 Trance to Trance
 </div>
 <div class="trans-lyric">Trance to Trance</div>
-<div class="trans-lyric">Trance to Trance</div>
-<div class="trans-lyric">Trance to Trance</div>
-<div class="trans-lyric">Trance to Trance</div>
-<div class="trans-lyric">Trance to Trance</div>
-<div class="trans-lyric">Trance to Trance</div>
-<div class="trans-lyric">Trance to Trance</div>
-<div class="trans-lyric">Trance to Trance</div>
-<div class="trans-lyric">Trance to Trance</div>
-<div class="trans-lyric">Trance to Trance</div>
-<div class="trans-lyric">Trance to Trance</div>
-<div class="trans-lyric">Trance to Trance</div>
-<div class="trans-lyric">Trance to Trance</div>
-<div class="trans-lyric">Trance to Trance</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 My Shangri-la
 </div>
-<div class="trans-lyric">My Shangri-la</div>
-<div class="trans-lyric">My Shangri-la</div>
-<div class="trans-lyric">My Shangri-la</div>
-<div class="trans-lyric">My Shangri-la</div>
-<div class="trans-lyric">My Shangri-la</div>
-<div class="trans-lyric">My Shangri-la</div>
-<div class="trans-lyric">My Shangri-la</div>
-<div class="trans-lyric">My Shangri-la</div>
-<div class="trans-lyric">My Shangri-la</div>
-<div class="trans-lyric">My Shangri-la</div>
-<div class="trans-lyric">My Shangri-la</div>
-<div class="trans-lyric">My Shangri-la</div>
-<div class="trans-lyric">My Shangri-la</div>
 <div class="trans-lyric">My Shangri-la</div>
 </div>
 
@@ -138,7 +112,6 @@ My Shangri-la
 <div class="jp-lyric">
 <ruby>排他<rt class="furi">はいた</rt><rt class="roma">haita</rt></ruby><ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby><ruby>緩衝<rt class="furi">かんしょう</rt><rt class="roma">kanshou</rt></ruby><ruby>帯<rt class="furi">たい</rt><rt class="roma">tai</rt></ruby>
 </div>
-<div class="trans-lyric">Exclusive buffer zone</div>
 <div class="trans-lyric">Exclusive buffer zone</div>
 </div>
 
@@ -170,7 +143,6 @@ My Shangri-la
 <div class="jp-lyric">
 <ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
-<div class="trans-lyric">I want to love you</div>
 <div class="trans-lyric">I want to love you</div>
 </div>
 

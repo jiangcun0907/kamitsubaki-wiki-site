@@ -34,14 +34,12 @@ image: /images/songs/kaf/track-1783267960.jpg
 [00:01.00]<ruby>代替<rt class="furi">だいたい</rt><rt class="roma">daitai</rt></ruby><ruby>代替<rt class="furi">だいたい</rt><rt class="roma">daitai</rt></ruby><ruby>代替<rt class="furi">だいたい</rt><rt class="roma">daitai</rt></ruby><ruby>嬉々<rt class="furi">きき</rt><rt class="roma">kiki</rt></ruby>
 </div>
 <div class="cn-lyric">[00:01.00]替代替代替代欢喜</div>
-<div class="cn-lyric">[00:01.00]替代替代替代欢喜</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:03.00]<ruby>だいたい<rt class="roma">daitai</rt></ruby><ruby>だいたい<rt class="roma">daitai</rt></ruby><ruby>だいたい<rt class="roma">daitai</rt></ruby><ruby>危機<rt class="furi">きき</rt><rt class="roma">kiki</rt></ruby>
 </div>
-<div class="cn-lyric">[00:03.00]大概大概大概危机</div>
 <div class="cn-lyric">[00:03.00]大概大概大概危机</div>
 </div>
 
@@ -84,14 +82,12 @@ image: /images/songs/kaf/track-1783267960.jpg
 [00:57.30]<ruby>ちょい<rt class="roma">choi</rt></ruby><ruby>マシ<rt class="roma">mashi</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>最悪<rt class="furi">さいあく</rt><rt class="roma">saiaku</rt></ruby> <ruby>どこ<rt class="roma">doko</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby><ruby>駆け抜<rt class="furi">かけぬ</rt><rt class="roma">kakenu</rt></ruby><ruby>けよ<rt class="roma">keyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="cn-lyric">[00:57.30]稍有改善的最糟状况 要奔向何方</div>
-<div class="cn-lyric">[00:57.30]稍有改善的最糟状况 要奔向何方</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:06.70]“<ruby>あの<rt class="roma">ano</rt></ruby><ruby>日<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby>”<ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> “<ruby>いつか<rt class="roma">itsuka</rt></ruby>”<ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="cn-lyric">[01:06.70]不是那一天 也不是某一天</div>
 <div class="cn-lyric">[01:06.70]不是那一天 也不是某一天</div>
 </div>
 
@@ -100,7 +96,6 @@ image: /images/songs/kaf/track-1783267960.jpg
 [01:13.00]<ruby>歴史<rt class="furi">れきし</rt><rt class="roma">rekishi</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>“<ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby>”<ruby>に<rt class="roma">ni</rt></ruby><ruby>未練<rt class="furi">みれん</rt><rt class="roma">miren</rt></ruby><ruby>なんか<rt class="roma">nanka</rt></ruby> <ruby>ない<rt class="roma">nai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
 <div class="cn-lyric">[01:13.00]对既非历史亦非梦想的'现在' 并无留恋 对吧</div>
-<div class="cn-lyric">[01:13.00]对既非历史亦非梦想的'现在' 并无留恋 对吧</div>
 </div>
 
 <div class="lyric-line">
@@ -108,14 +103,12 @@ image: /images/songs/kaf/track-1783267960.jpg
 [01:18.30]<ruby>ちょい<rt class="roma">choi</rt></ruby><ruby>痛<rt class="furi">いた</rt><rt class="roma">ita</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>かも<rt class="roma">kamo</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby> <ruby>傷<rt class="furi">きず</rt><rt class="roma">kizu</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>デカ<rt class="roma">deka</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:18.30]虽然可能有点痛 伤口也很大</div>
-<div class="cn-lyric">[01:18.30]虽然可能有点痛 伤口也很大</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:28.00]<ruby>貼<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>意味<rt class="furi">いみ</rt><rt class="roma">imi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> <ruby>絆創膏<rt class="furi">ばんそうこう</rt><rt class="roma">bansoukou</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>キャラ<rt class="roma">kyara</rt></ruby>
 </div>
-<div class="cn-lyric">[01:28.00]贴了也没意义 创可贴的角色</div>
 <div class="cn-lyric">[01:28.00]贴了也没意义 创可贴的角色</div>
 </div>
 

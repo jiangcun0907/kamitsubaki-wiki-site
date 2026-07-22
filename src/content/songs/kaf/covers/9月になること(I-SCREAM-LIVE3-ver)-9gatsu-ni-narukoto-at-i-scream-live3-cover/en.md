@@ -105,7 +105,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [01:24.56]<ruby>過ぎ去<rt class="furi">すぎさ</rt><rt class="roma">sugisa</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby><ruby>夏<rt class="furi">なつ</rt><rt class="roma">natsu</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>作り出<rt class="furi">つくりだ</rt><rt class="roma">tsukurida</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby> <ruby>あの<rt class="roma">ano</rt></ruby><ruby>透き通<rt class="furi">すきとお</rt><rt class="roma">sukitoo</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>思い出<rt class="furi">おもいだ</rt><rt class="roma">omoida</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="trans-lyric">I recalled that translucent you created by the summer that has passed</div>
-<div class="trans-lyric">I recalled that translucent you created by the summer that has passed</div>
 </div>
 
 <div class="lyric-line">
@@ -120,15 +119,12 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [01:34.45]<ruby>過ぎ去<rt class="furi">すぎさ</rt><rt class="roma">sugisa</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby><ruby>夏<rt class="furi">なつ</rt><rt class="roma">natsu</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>作り出<rt class="furi">つくりだ</rt><rt class="roma">tsukurida</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby> <ruby>ぶっきらぼう<rt class="roma">bukkirabou</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>少<rt class="furi">すこ</rt><rt class="roma">suko</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>恥<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="trans-lyric">I felt a little ashamed of the brusque night created by the summer that has passed</div>
-<div class="trans-lyric">I felt a little ashamed of the brusque night created by the summer that has passed</div>
-<div class="trans-lyric">I felt a little ashamed of the brusque night created by the summer that has passed</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:39.26]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>想<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby>、<ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby>、<ruby>恋<rt class="furi">こい</rt><rt class="roma">koi</rt></ruby>、<ruby>遠<rt class="furi">とお</rt><rt class="roma">too</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>距離<rt class="furi">きょり</rt><rt class="roma">kyori</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>重<rt class="furi">かさ</rt><rt class="roma">kasa</rt></ruby><ruby>なって<rt class="roma">natte</rt></ruby><ruby>重<rt class="furi">かさ</rt><rt class="roma">kasa</rt></ruby><ruby>なって<rt class="roma">natte</rt></ruby>
 </div>
-<div class="trans-lyric">Feelings for you, your voice, love, distant distances pile up and pile up</div>
 <div class="trans-lyric">Feelings for you, your voice, love, distant distances pile up and pile up</div>
 </div>
 

@@ -69,14 +69,12 @@ I love the way you feel turn me on more
 <ruby>繋<rt class="furi">つな</rt><rt class="roma">tsuna</rt></ruby><ruby>ぎ<rt class="roma">gi</rt></ruby><ruby>合<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby> <ruby>交差<rt class="furi">こうさ</rt><rt class="roma">kousa</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby><ruby>目<rt class="furi">もく</rt><rt class="roma">moku</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby> <ruby>信<rt class="furi">しん</rt><rt class="roma">shin</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>この<rt class="roma">kono</rt></ruby><ruby>気持<rt class="furi">きも</rt><rt class="roma">kimo</rt></ruby><ruby>ち<rt class="roma">chi</rt></ruby>
 </div>
 <div class="cn-lyric">紧握的手与手 交汇的目光与目光 这份心情能相信吗</div>
-<div class="cn-lyric">紧握的手与手 交汇的目光与目光 这份心情能相信吗</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>捕<rt class="furi">つか</rt><rt class="roma">tsuka</rt></ruby><ruby>まえ<rt class="roma">mae</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby> <ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>離<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>素敵<rt class="furi">すてき</rt><rt class="roma">suteki</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>これから<rt class="roma">korekara</rt></ruby><ruby>始<rt class="furi">はじ</rt><rt class="roma">haji</rt></ruby><ruby>まる<rt class="roma">maru</rt></ruby>
 </div>
-<div class="cn-lyric">抓住我哦 不要移开视线 美好的夜晚从此刻开始</div>
 <div class="cn-lyric">抓住我哦 不要移开视线 美好的夜晚从此刻开始</div>
 </div>
 

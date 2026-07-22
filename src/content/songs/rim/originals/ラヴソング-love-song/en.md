@@ -50,12 +50,11 @@ image: /images/albums/rim/new-romancer.jpg
 <ruby>愛情<rt class="furi">あいじょう</rt><rt class="roma">aijou</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>矛先<rt class="furi">ほこさき</rt><rt class="roma">hokosaki</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>違<rt class="furi">ちが</rt><rt class="roma">chiga</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="trans-lyric">I misdirected the point of love</div>
-<div class="trans-lyric">I misdirected the point of love</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:32.60]<ruby>かわいそう<rt class="roma">kawaisou</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>わたし<rt class="roma">watashi</rt></ruby><ruby>さよなら<rt class="roma">sayonara</rt></ruby>
+<ruby>かわいそう<rt class="roma">kawaisou</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>わたし<rt class="roma">watashi</rt></ruby><ruby>さよなら<rt class="roma">sayonara</rt></ruby>
 </div>
 <div class="trans-lyric">Goodbye, pitiful me</div>
 </div>
@@ -67,7 +66,6 @@ image: /images/albums/rim/new-romancer.jpg
 <ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>われ<rt class="roma">ware</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">No one can touch</div>
-<div class="trans-lyric">No one can touch</div>
 </div>
 
 <div class="lyric-line">
@@ -75,14 +73,12 @@ image: /images/albums/rim/new-romancer.jpg
 <ruby>上手<rt class="furi">うま</rt><rt class="roma">uma</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>笑<rt class="furi">わら</rt><rt class="roma">wara</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">I can't laugh well</div>
-<div class="trans-lyric">I can't laugh well</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>きみ<rt class="roma">kimi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>癒<rt class="furi">いや</rt><rt class="roma">iya</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
-<div class="trans-lyric">You cannot heal me</div>
 <div class="trans-lyric">You cannot heal me</div>
 </div>
 
@@ -93,14 +89,12 @@ image: /images/albums/rim/new-romancer.jpg
 <ruby>きみ<rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>膣<rt class="furi">ちつ</rt><rt class="roma">chitsu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>落<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>とさ<rt class="roma">tosa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby>
 </div>
 <div class="trans-lyric">I am being dropped into your vagina</div>
-<div class="trans-lyric">I am being dropped into your vagina</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>あいつ<rt class="roma">aitsu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>命<rt class="furi">いのち</rt><rt class="roma">inochi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby> <ruby>どうか<rt class="roma">douka</rt></ruby><ruby>報<rt class="furi">むく</rt><rt class="roma">muku</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
-<div class="trans-lyric">I hope his life won't be rewarded</div>
 <div class="trans-lyric">I hope his life won't be rewarded</div>
 </div>
 
@@ -109,7 +103,6 @@ image: /images/albums/rim/new-romancer.jpg
 <ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>思<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>ったり<rt class="roma">ttari</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby>
 </div>
 <div class="trans-lyric">I think things like that</div>
-<div class="trans-lyric">I think things like that</div>
 </div>
 
 <div class="lyric-line">
@@ -117,14 +110,12 @@ image: /images/albums/rim/new-romancer.jpg
 <ruby>呪<rt class="furi">のろ</rt><rt class="roma">noro</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>しまう<rt class="roma">shimau</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="trans-lyric">Even now, I end up cursing</div>
-<div class="trans-lyric">Even now, I end up cursing</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:23.62]<ruby>だから<rt class="roma">dakara</rt></ruby><ruby>どうか<rt class="roma">douka</rt></ruby>、<ruby>どう<rt class="roma">dou</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
+<ruby>だから<rt class="roma">dakara</rt></ruby><ruby>どうか<rt class="roma">douka</rt></ruby>、<ruby>どう<rt class="roma">dou</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
 </div>
-<div class="trans-lyric">So please, please</div>
 <div class="trans-lyric">So please, please</div>
 </div>
 
@@ -132,7 +123,6 @@ image: /images/albums/rim/new-romancer.jpg
 <div class="jp-lyric">
 <ruby>忘<rt class="furi">わす</rt><rt class="roma">wasu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ゆけ<rt class="roma">yuke</rt></ruby>
 </div>
-<div class="trans-lyric">Forget and move on</div>
 <div class="trans-lyric">Forget and move on</div>
 </div>
 
@@ -169,10 +159,8 @@ image: /images/albums/rim/new-romancer.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:04.39](But I don't think so)
+(But I don't think so)
 </div>
-<div class="trans-lyric">(But I don't think so)</div>
-<div class="trans-lyric">(But I don't think so)</div>
 <div class="trans-lyric">(But I don't think so)</div>
 </div>
 
@@ -190,7 +178,7 @@ image: /images/albums/rim/new-romancer.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:21.36](But I don't)
+(But I don't)
 </div>
 <div class="trans-lyric">(But I don't)</div>
 </div>
@@ -199,7 +187,7 @@ image: /images/albums/rim/new-romancer.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:15.49]But I don't think so
+But I don't think so
 </div>
 <div class="trans-lyric">But I don't think so</div>
 </div>

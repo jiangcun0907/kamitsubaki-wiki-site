@@ -50,7 +50,6 @@ image: /images/songs/harusaruhi/single-1771810723.jpg
 [00:21.21]<ruby>違<rt class="furi">ちが</rt><rt class="roma">chiga</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>どこ<rt class="roma">doko</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>目覚<rt class="furi">めざ</rt><rt class="roma">meza</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>待<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>つ<rt class="roma">tsu</rt></ruby><ruby>自分<rt class="furi">じぶん</rt><rt class="roma">jibun</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>いたん<rt class="roma">itan</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="cn-lyric">[00:21.21]在另一处地方，有个等待苏醒的自己</div>
-<div class="cn-lyric">在另一处地方，有个等待苏醒的自己</div>
 </div>
 
 <div class="lyric-line">
@@ -64,8 +63,6 @@ image: /images/songs/harusaruhi/single-1771810723.jpg
 <div class="jp-lyric">
 [00:34.35]Rise and be fearless
 </div>
-<div class="cn-lyric">[00:34.35]Rise and be fearless</div>
-<div class="cn-lyric">[00:34.35]Rise and be fearless</div>
 <div class="cn-lyric">[00:34.35]Rise and be fearless</div>
 </div>
 
@@ -149,7 +146,6 @@ image: /images/songs/harusaruhi/single-1771810723.jpg
 [01:25.51]<ruby>ひび割<rt class="furi">ひびわ</rt><rt class="roma">hibiwa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>突き抜<rt class="furi">つきぬ</rt><rt class="roma">tsukinu</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby>
 </div>
 <div class="cn-lyric">[01:25.51]穿透布满裂痕的天空</div>
-<div class="cn-lyric">穿透布满裂痕的天空</div>
 </div>
 
 <div class="lyric-line">
@@ -157,14 +153,12 @@ image: /images/songs/harusaruhi/single-1771810723.jpg
 [01:30.73]<ruby>違<rt class="furi">ちが</rt><rt class="roma">chiga</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>次元<rt class="furi">じげん</rt><rt class="roma">jigen</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>入<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby><ruby>全<rt class="furi">すべ</rt><rt class="roma">sube</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>楽園<rt class="furi">らくえん</rt><rt class="roma">rakuen</rt></ruby>
 </div>
 <div class="cn-lyric">[01:30.73]在另一维度获得的所有乐园</div>
-<div class="cn-lyric">在另一维度获得的所有乐园</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:36.42]Raise your emotion
 </div>
-<div class="cn-lyric">[01:36.42]Raise your emotion</div>
 <div class="cn-lyric">[01:36.42]Raise your emotion</div>
 </div>
 
@@ -173,7 +167,6 @@ image: /images/songs/harusaruhi/single-1771810723.jpg
 [01:39.02]<ruby>狂<rt class="furi">くる</rt><rt class="roma">kuru</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:39.02]即使在疯狂的世界</div>
-<div class="cn-lyric">即使在疯狂的世界</div>
 </div>
 
 <div class="lyric-line">
@@ -181,14 +174,12 @@ image: /images/songs/harusaruhi/single-1771810723.jpg
 [01:42.79]Take them all. Grab them all
 </div>
 <div class="cn-lyric">[01:42.79]Take them all. Grab them all</div>
-<div class="cn-lyric">[01:42.79]Take them all. Grab them all</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:46.20]<ruby>新<rt class="furi">あたら</rt><rt class="roma">atara</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby>landscape <ruby>離<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="cn-lyric">[01:46.20]新的风景 绝不放手</div>
 <div class="cn-lyric">[01:46.20]新的风景 绝不放手</div>
 </div>
 
@@ -199,25 +190,12 @@ image: /images/songs/harusaruhi/single-1771810723.jpg
 [01:50.16]Awaken in another world with light
 </div>
 <div class="cn-lyric">[01:50.16]Awaken in another world with light</div>
-<div class="cn-lyric">[01:50.16]Awaken in another world with light</div>
-<div class="cn-lyric">[01:50.16]Awaken in another world with light</div>
-<div class="cn-lyric">[01:50.16]Awaken in another world with light</div>
-<div class="cn-lyric">[01:50.16]Awaken in another world with light</div>
-<div class="cn-lyric">[01:50.16]Awaken in another world with light</div>
-<div class="cn-lyric">[01:50.16]Awaken in another world with light</div>
-<div class="cn-lyric">[01:50.16]Awaken in another world with light</div>
-<div class="cn-lyric">[01:50.16]Awaken in another world with light</div>
-<div class="cn-lyric">[01:50.16]Awaken in another world with light</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:53.66]Take them all. What I noticed is mine
 </div>
-<div class="cn-lyric">[01:53.66]Take them all. What I noticed is mine</div>
-<div class="cn-lyric">[01:53.66]Take them all. What I noticed is mine</div>
-<div class="cn-lyric">[01:53.66]Take them all. What I noticed is mine</div>
-<div class="cn-lyric">[01:53.66]Take them all. What I noticed is mine</div>
 <div class="cn-lyric">[01:53.66]Take them all. What I noticed is mine</div>
 </div>
 
@@ -231,10 +209,6 @@ image: /images/songs/harusaruhi/single-1771810723.jpg
 <div class="jp-lyric">
 [02:00.56]Grab them all. Make it up and realize
 </div>
-<div class="cn-lyric">[02:00.56]Grab them all. Make it up and realize</div>
-<div class="cn-lyric">[02:00.56]Grab them all. Make it up and realize</div>
-<div class="cn-lyric">[02:00.56]Grab them all. Make it up and realize</div>
-<div class="cn-lyric">[02:00.56]Grab them all. Make it up and realize</div>
 <div class="cn-lyric">[02:00.56]Grab them all. Make it up and realize</div>
 </div>
 

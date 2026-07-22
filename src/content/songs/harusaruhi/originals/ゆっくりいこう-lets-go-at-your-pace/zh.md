@@ -92,14 +92,12 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 [00:21.57]Don’t worry
 </div>
 <div class="cn-lyric">[00:21.57]Don't worry</div>
-<div class="cn-lyric">[00:21.57]Don't worry</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:22.74]You’ll be happy
 </div>
-<div class="cn-lyric">[00:22.74]You'll be happy</div>
 <div class="cn-lyric">[00:22.74]You'll be happy</div>
 </div>
 

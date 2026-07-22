@@ -107,8 +107,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [00:52.13]<ruby>ビーム<rt class="roma">biimu</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>撃<rt class="furi">う</rt><rt class="roma">u</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>たら<rt class="roma">tara</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>のに<rt class="roma">noni</rt></ruby>
 </div>
 <div class="cn-lyric">[00:52.13]要是能发射光束就好了</div>
-<div class="cn-lyric">[00:52.13]要是能发射光束就好了</div>
-<div class="cn-lyric">[00:52.13]要是能发射光束就好了</div>
 </div>
 
 <div class="lyric-line">
@@ -116,7 +114,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [01:02.41]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>邪魔<rt class="furi">じゃま</rt><rt class="roma">jama</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>たら<rt class="roma">tara</rt></ruby>
 </div>
 <div class="cn-lyric">[01:02.41]如果你妨碍我</div>
-<div class="cn-lyric">如果你妨碍我</div>
 </div>
 
 <div class="lyric-line">
@@ -124,7 +121,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [01:09.42]<ruby>全部<rt class="furi">ぜんぶ</rt><rt class="roma">zenbu</rt></ruby><ruby>焼き払<rt class="furi">やきはら</rt><rt class="roma">yakihara</rt></ruby><ruby>っちゃう<rt class="roma">tchau</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>焼き払<rt class="furi">やきはら</rt><rt class="roma">yakihara</rt></ruby><ruby>っちゃう<rt class="roma">tchau</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:09.42]就把一切都烧光 烧光</div>
-<div class="cn-lyric">就把一切都烧光 烧光</div>
 </div>
 
 <div class="lyric-line">

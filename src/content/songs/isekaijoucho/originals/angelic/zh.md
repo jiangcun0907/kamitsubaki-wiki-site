@@ -57,7 +57,6 @@ image: /images/albums/isekaijoucho/shikisai.jpg
 [00:51.03]<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby> <ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="cn-lyric">[00:51.03]爱啊 爱啊</div>
-<div class="cn-lyric">[00:51.03]爱啊 爱啊</div>
 </div>
 
 <div class="lyric-line">
@@ -177,9 +176,6 @@ image: /images/albums/isekaijoucho/shikisai.jpg
 <div class="jp-lyric">
 [03:00.68]La la la
 </div>
-<div class="cn-lyric">[03:00.68]La la la</div>
-<div class="cn-lyric">[03:00.68]La la la</div>
-<div class="cn-lyric">[03:00.68]La la la</div>
 <div class="cn-lyric">[03:00.68]La la la</div>
 </div>
 

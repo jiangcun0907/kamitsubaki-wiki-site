@@ -154,8 +154,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [01:26.13]<ruby>曖昧<rt class="furi">あいまい</rt><rt class="roma">aimai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>単純<rt class="furi">たんじゅん</rt><rt class="roma">tanjun</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:26.13]暧昧的事物 单纯的事物</div>
-<div class="cn-lyric">[01:26.13]暧昧的事物 单纯的事物</div>
-<div class="cn-lyric">[01:26.13]暧昧的事物 单纯的事物</div>
 </div>
 
 <div class="lyric-line">
@@ -206,7 +204,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [01:55.19]<ruby>花<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>咲<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>かせ<rt class="roma">kase</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby>
 </div>
 <div class="cn-lyric">[01:55.19]花朵正在绽放</div>
-<div class="cn-lyric">[01:55.19]让花朵绽放</div>
 </div>
 
 <br />

@@ -156,8 +156,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [01:13.07]<ruby>頭<rt class="furi">あたま</rt><rt class="roma">atama</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>爪先<rt class="furi">つまさき</rt><rt class="roma">tsumasaki</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby> CHOA
 </div>
 <div class="cn-lyric">[01:13.07]从头到脚 CHOA</div>
-<div class="cn-lyric">从头到脚 CHOA</div>
-<div class="cn-lyric">从头到脚 CHOA</div>
 </div>
 
 <div class="lyric-line">
@@ -165,7 +163,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [01:15.23]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>思い出<rt class="furi">おもいだ</rt><rt class="roma">omoida</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>度<rt class="furi">たび</rt><rt class="roma">tabi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>もっと<rt class="roma">motto</rt></ruby> CHOA
 </div>
 <div class="cn-lyric">[01:15.23]每次想起你就更 CHOA</div>
-<div class="cn-lyric">每次想起你就更 CHOA</div>
 </div>
 
 <div class="lyric-line">
@@ -173,7 +170,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [01:17.92]<ruby>帰り道<rt class="furi">かえりみち</rt><rt class="roma">kaerimichi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>急<rt class="furi">きゅう</rt><rt class="roma">kyuu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="cn-lyric">[01:17.92]回家路上 我突然</div>
-<div class="cn-lyric">回家路上 我突然</div>
 </div>
 
 <div class="lyric-line">
@@ -181,7 +177,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [01:21.31]<ruby>黙<rt class="furi">だま</rt><rt class="roma">dama</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>フリ<rt class="roma">furi</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
 <div class="cn-lyric">[01:21.31]即使沉默也请你假装不知道</div>
-<div class="cn-lyric">即使沉默也请你假装不知道</div>
 </div>
 
 <div class="lyric-line">
@@ -189,7 +184,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [01:23.40]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>怒<rt class="furi">おこ</rt><rt class="roma">oko</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby><ruby>顔<rt class="furi">かお</rt><rt class="roma">kao</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby> CHOA
 </div>
 <div class="cn-lyric">[01:23.40]你生气的样子也 CHOA</div>
-<div class="cn-lyric">你生气的样子也 CHOA</div>
 </div>
 
 <div class="lyric-line">
@@ -197,8 +191,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [01:25.64]<ruby>他<rt class="furi">た</rt><rt class="roma">ta</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>より<rt class="roma">yori</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ノム<rt class="roma">nomu</rt></ruby> CHOA
 </div>
 <div class="cn-lyric">[01:25.64]比任何事物都更 你 CHOA</div>
-<div class="cn-lyric">比任何事物都更 你 CHOA</div>
-<div class="cn-lyric">比任何事物都更 你 CHOA</div>
 </div>
 
 <div class="lyric-line">
@@ -206,8 +198,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [01:28.22]<ruby>照れ臭<rt class="furi">てれくさ</rt><rt class="roma">terekusa</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:28.22]因为害羞说不出口</div>
-<div class="cn-lyric">因为害羞说不出口</div>
-<div class="cn-lyric">因为害羞说不出口</div>
 </div>
 
 <div class="lyric-line">
@@ -215,7 +205,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [01:30.97]<ruby>他<rt class="furi">た</rt><rt class="roma">ta</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>揺<rt class="furi">ゆ</rt><rt class="roma">yu</rt></ruby><ruby>らぐ<rt class="roma">ragu</rt></ruby><ruby>前<rt class="furi">まえ</rt><rt class="roma">mae</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="cn-lyric">[01:30.97]在别人动摇你之前</div>
-<div class="cn-lyric">在别人动摇你之前</div>
 </div>
 
 <div class="lyric-line">
@@ -499,8 +488,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [03:26.28](CHOA CHOA CHOA)
 </div>
 <div class="cn-lyric">[03:26.28](CHOA CHOA CHOA)</div>
-<div class="cn-lyric">(CHOA CHOA CHOA)</div>
-<div class="cn-lyric">(CHOA CHOA CHOA)</div>
 </div>
 
 <div class="lyric-line">

@@ -156,7 +156,6 @@ from Y to Y(Live) appears on CANDY LIVE 2 or a related official release. Entries
 [01:56.13]<ruby>数え切<rt class="furi">かぞえき</rt><rt class="roma">kazoeki</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>ほど<rt class="roma">hodo</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>罪<rt class="furi">つみ</rt><rt class="roma">tsumi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>重<rt class="furi">かさ</rt><rt class="roma">kasa</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="trans-lyric">I've piled up countless sins</div>
-<div class="trans-lyric">I've piled up countless sins</div>
 </div>
 
 <div class="lyric-line">
@@ -164,14 +163,12 @@ from Y to Y(Live) appears on CANDY LIVE 2 or a related official release. Entries
 [02:05.73]<ruby>その<rt class="roma">sono</rt></ruby><ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>触<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby>
 </div>
 <div class="trans-lyric">Touching that hand of yours</div>
-<div class="trans-lyric">Touching that hand of yours</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [02:08.97]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>隣<rt class="furi">となり</rt><rt class="roma">tonari</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>そっと<rt class="roma">sotto</rt></ruby><ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>きよ<rt class="roma">kiyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby>
 </div>
-<div class="trans-lyric">Trying to live quietly by your side</div>
 <div class="trans-lyric">Trying to live quietly by your side</div>
 </div>
 

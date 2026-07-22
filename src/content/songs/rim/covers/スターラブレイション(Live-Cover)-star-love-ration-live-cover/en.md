@@ -36,18 +36,12 @@ image: /images/albums/rim/chocolate-live-4.jpg
 [00:10.16]<ruby>オウベイベイベイ<rt class="roma">oubeibeibei</rt></ruby> <ruby>今日<rt class="furi">きょう</rt><rt class="roma">kyou</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>明日<rt class="furi">あした</rt><rt class="roma">ashita</rt></ruby>(<ruby>あす<rt class="roma">asu</rt></ruby>)<ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="trans-lyric">Oh baby baby baby, today and tomorrow too</div>
-<div class="trans-lyric">Oh baby baby baby, today and tomorrow too</div>
-<div class="trans-lyric">Oh baby baby baby, today and tomorrow too</div>
-<div class="trans-lyric">Oh baby baby baby, today and tomorrow too</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:13.81]<ruby>踏み出<rt class="furi">ふみだ</rt><rt class="roma">fumida</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ラスト<rt class="roma">rasuto</rt></ruby><ruby>シンデレラ<rt class="roma">shinderera</rt></ruby>
 </div>
-<div class="trans-lyric">Step forward, last Cinderella</div>
-<div class="trans-lyric">Step forward, last Cinderella</div>
-<div class="trans-lyric">Step forward, last Cinderella</div>
 <div class="trans-lyric">Step forward, last Cinderella</div>
 </div>
 
@@ -69,9 +63,6 @@ image: /images/albums/rim/chocolate-live-4.jpg
 <div class="jp-lyric">
 [00:25.48]<ruby>スターラブレイション<rt class="roma">sutaarabureishon</rt></ruby>
 </div>
-<div class="trans-lyric">Star love relation</div>
-<div class="trans-lyric">Star love relation</div>
-<div class="trans-lyric">Star love relation</div>
 <div class="trans-lyric">Star love relation</div>
 </div>
 
@@ -155,7 +146,6 @@ image: /images/albums/rim/chocolate-live-4.jpg
 [01:30.46]<ruby>泣き笑<rt class="furi">なきわら</rt><rt class="roma">nakiwara</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>ながら<rt class="roma">nagara</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby> <ruby>最高<rt class="furi">さいこう</rt><rt class="roma">saikou</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>美<rt class="furi">うつく</rt><rt class="roma">utsuku</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="trans-lyric">The sky I see while laughing and crying is the most beautiful</div>
-<div class="trans-lyric">The sky I see while laughing and crying is the most beautiful</div>
 </div>
 
 <div class="lyric-line">
@@ -163,14 +153,12 @@ image: /images/albums/rim/chocolate-live-4.jpg
 [01:36.93]<ruby>オウベイベイベイ<rt class="roma">oubeibeibei</rt></ruby> <ruby>胸<rt class="furi">むね</rt><rt class="roma">mune</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby><ruby>の<rt class="roma">no</rt></ruby> <ruby>想<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>高<rt class="furi">たか</rt><rt class="roma">taka</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>舞い上<rt class="furi">まいあ</rt><rt class="roma">maia</rt></ruby><ruby>がれ<rt class="roma">gare</rt></ruby>
 </div>
 <div class="trans-lyric">Oh baby baby baby, feelings inside my chest, soar high</div>
-<div class="trans-lyric">Oh baby baby baby, feelings inside my chest, soar high</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:43.74]<ruby>不器用<rt class="furi">ぶきよう</rt><rt class="roma">bukiyou</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>掲<rt class="furi">かか</rt><rt class="roma">kaka</rt></ruby><ruby>げ<rt class="roma">ge</rt></ruby><ruby>ながら<rt class="roma">nagara</rt></ruby> <ruby>ずっと<rt class="roma">zutto</rt></ruby><ruby>駆け抜<rt class="furi">かけぬ</rt><rt class="roma">kakenu</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>強<rt class="furi">つよ</rt><rt class="roma">tsuyo</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>強<rt class="furi">つよ</rt><rt class="roma">tsuyo</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby>
 </div>
-<div class="trans-lyric">While holding up clumsy love, running through strongly, strongly</div>
 <div class="trans-lyric">While holding up clumsy love, running through strongly, strongly</div>
 </div>
 

@@ -101,7 +101,7 @@ Stay in love with the one you're with
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:55.42]Don't dwell on what you've lost
+Don't dwell on what you've lost
 </div>
 </div>
 
@@ -113,7 +113,7 @@ May your guiding angel watch and care
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:07.25]Stay close to you
+Stay close to you
 </div>
 </div>
 
@@ -125,7 +125,7 @@ Always believe in what you are
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:07.25]And the things that you can do
+And the things that you can do
 </div>
 </div>
 
@@ -171,7 +171,7 @@ I got some money and a motorbike
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:11.86]If you love me it's fine
+If you love me it's fine
 </div>
 </div>
 

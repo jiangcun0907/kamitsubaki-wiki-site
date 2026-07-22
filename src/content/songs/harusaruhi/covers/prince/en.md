@@ -150,14 +150,12 @@ Prince appears on CREAM PUFF LIVE 2 or a related official release. Entries are v
 [00:39.93]Anyone will do yeah
 </div>
 <div class="trans-lyric">Anyone will do yeah</div>
-<div class="trans-lyric">Anyone will do yeah</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:42.42]<ruby>あしらって<rt class="roma">ashiratte</rt></ruby>stay
 </div>
-<div class="trans-lyric">Brush me off and stay</div>
 <div class="trans-lyric">Brush me off and stay</div>
 </div>
 
@@ -180,7 +178,6 @@ Prince appears on CREAM PUFF LIVE 2 or a related official release. Entries are v
 [00:48.40]<ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>達<rt class="furi">たち</rt><rt class="roma">tachi</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>きっと<rt class="roma">kitto</rt></ruby>
 </div>
 <div class="trans-lyric">[00:48.40]With words, surely</div>
-<div class="trans-lyric">With words, surely</div>
 </div>
 
 <div class="lyric-line">
@@ -188,7 +185,6 @@ Prince appears on CREAM PUFF LIVE 2 or a related official release. Entries are v
 [00:50.61]<ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>みたい<rt class="roma">mitai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ところ<rt class="roma">tokoro</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>こ<rt class="roma">ko</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="trans-lyric">[00:50.61]Let's go to a dreamlike place</div>
-<div class="trans-lyric">Let's go to a dreamlike place</div>
 </div>
 
 <div class="lyric-line">
@@ -196,7 +192,6 @@ Prince appears on CREAM PUFF LIVE 2 or a related official release. Entries are v
 [00:53.12]<ruby>果<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>旅<rt class="furi">たび</rt><rt class="roma">tabi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>続<rt class="furi">つづ</rt><rt class="roma">tsuzu</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby>
 </div>
 <div class="trans-lyric">[00:53.12]The endless journey continues</div>
-<div class="trans-lyric">The endless journey continues</div>
 </div>
 
 <div class="lyric-line">
@@ -213,11 +208,6 @@ Prince appears on CREAM PUFF LIVE 2 or a related official release. Entries are v
 [00:58.09]Oh ma baby I'll be your prince
 </div>
 <div class="trans-lyric">Oh ma baby I'll be your prince</div>
-<div class="trans-lyric">Oh ma baby I'll be your prince</div>
-<div class="trans-lyric">Oh ma baby I'll be your prince</div>
-<div class="trans-lyric">Oh ma baby I'll be your prince</div>
-<div class="trans-lyric">Oh ma baby I'll be your prince</div>
-<div class="trans-lyric">Oh ma baby I'll be your prince</div>
 </div>
 
 <div class="lyric-line">
@@ -225,11 +215,6 @@ Prince appears on CREAM PUFF LIVE 2 or a related official release. Entries are v
 [01:00.58]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>とこ<rt class="roma">toko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>いき<rt class="roma">iki</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
 <div class="trans-lyric">[01:00.58]I want to go where you don't know</div>
-<div class="trans-lyric">I want to go where you don't know</div>
-<div class="trans-lyric">I want to go where you don't know</div>
-<div class="trans-lyric">I want to go where you don't know</div>
-<div class="trans-lyric">I want to go where you don't know</div>
-<div class="trans-lyric">I want to go where you don't know</div>
 </div>
 
 <div class="lyric-line">
@@ -244,8 +229,6 @@ Prince appears on CREAM PUFF LIVE 2 or a related official release. Entries are v
 [01:05.25]<ruby>どこ<rt class="roma">doko</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>遠<rt class="furi">とお</rt><rt class="roma">too</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>？
 </div>
 <div class="trans-lyric">[01:05.25]Will you go somewhere far?</div>
-<div class="trans-lyric">Will you go somewhere far?</div>
-<div class="trans-lyric">Will you go somewhere far?</div>
 </div>
 
 <div class="lyric-line">
@@ -265,10 +248,6 @@ Prince appears on CREAM PUFF LIVE 2 or a related official release. Entries are v
 [01:12.44]Oh ma baby <ruby>満<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>たさ<rt class="roma">tasa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>と<rt class="roma">to</rt></ruby>
 </div>
 <div class="trans-lyric">Oh ma baby, if I'm not fulfilled</div>
-<div class="trans-lyric">Oh ma baby, if I'm not fulfilled</div>
-<div class="trans-lyric">Oh ma baby, if I'm not fulfilled</div>
-<div class="trans-lyric">Oh ma baby, if I'm not fulfilled</div>
-<div class="trans-lyric">Oh ma baby, if I'm not fulfilled</div>
 </div>
 
 <div class="lyric-line">
@@ -276,8 +255,6 @@ Prince appears on CREAM PUFF LIVE 2 or a related official release. Entries are v
 [01:14.96]<ruby>どこ<rt class="roma">doko</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="trans-lyric">[01:14.96]You're going somewhere</div>
-<div class="trans-lyric">You're going somewhere</div>
-<div class="trans-lyric">You're going somewhere</div>
 </div>
 
 <br />
@@ -520,8 +497,6 @@ Prince appears on CREAM PUFF LIVE 2 or a related official release. Entries are v
 [02:48.45]Can't you feel how much I love you？
 </div>
 <div class="trans-lyric">Can't you feel how much I love you?</div>
-<div class="trans-lyric">Can't you feel how much I love you?</div>
-<div class="trans-lyric">Can't you feel how much I love you?</div>
 </div>
 
 <div class="lyric-line">
@@ -529,15 +504,12 @@ Prince appears on CREAM PUFF LIVE 2 or a related official release. Entries are v
 [02:50.64]Someday I will make you love me
 </div>
 <div class="trans-lyric">Someday I will make you love me</div>
-<div class="trans-lyric">Someday I will make you love me</div>
-<div class="trans-lyric">Someday I will make you love me</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [02:53.14]With my voice！
 </div>
-<div class="trans-lyric">With my voice!</div>
 <div class="trans-lyric">With my voice!</div>
 </div>
 

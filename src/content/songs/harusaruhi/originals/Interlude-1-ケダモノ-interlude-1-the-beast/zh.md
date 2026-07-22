@@ -36,13 +36,6 @@ image: /images/albums/harusaruhi/shinju.jpg
 [00:09.649]<ruby>ケダモノ<rt class="roma">kedamono</rt></ruby>
 </div>
 <div class="cn-lyric">[00:09.649]野兽</div>
-<div class="cn-lyric">野兽</div>
-<div class="cn-lyric">野兽</div>
-<div class="cn-lyric">野兽</div>
-<div class="cn-lyric">野兽</div>
-<div class="cn-lyric">野兽</div>
-<div class="cn-lyric">野兽</div>
-<div class="cn-lyric">野兽</div>
 </div>
 
 <div class="lyric-line">
@@ -56,7 +49,6 @@ image: /images/albums/harusaruhi/shinju.jpg
 [00:14.169]<ruby>この<rt class="roma">kono</rt></ruby><ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="cn-lyric">[00:14.169]这颗心的</div>
-<div class="cn-lyric">这颗心的</div>
 </div>
 
 <div class="lyric-line">

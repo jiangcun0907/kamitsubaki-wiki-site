@@ -36,16 +36,12 @@ Lullaby appears on prayer2 or a related official release. Entries are version-sp
 <ruby>ララバイラーラバイ<rt class="roma">rarabairaarabai</rt></ruby>
 </div>
 <div class="trans-lyric">Lullaby, lullaby</div>
-<div class="trans-lyric">Lullaby, lullaby</div>
-<div class="trans-lyric">Lullaby, lullaby</div>
-<div class="trans-lyric">Lullaby, lullaby</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>お<rt class="roma">o</rt></ruby><ruby>休<rt class="furi">やす</rt><rt class="roma">yasu</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>ラーラバイ<rt class="roma">raarabai</rt></ruby>
 </div>
-<div class="trans-lyric">Good night, lullaby</div>
 <div class="trans-lyric">Good night, lullaby</div>
 </div>
 
@@ -66,12 +62,6 @@ Lullaby appears on prayer2 or a related official release. Entries are version-sp
 <div class="jp-lyric">
 (Get on it)
 </div>
-<div class="trans-lyric">(Get on it)</div>
-<div class="trans-lyric">(Get on it)</div>
-<div class="trans-lyric">(Get on it)</div>
-<div class="trans-lyric">(Get on it)</div>
-<div class="trans-lyric">(Get on it)</div>
-<div class="trans-lyric">(Get on it)</div>
 <div class="trans-lyric">(Get on it)</div>
 </div>
 
@@ -97,8 +87,6 @@ Lullaby appears on prayer2 or a related official release. Entries are version-sp
 <div class="jp-lyric">
 (yeah!)
 </div>
-<div class="trans-lyric">(yeah!)</div>
-<div class="trans-lyric">(yeah!)</div>
 <div class="trans-lyric">(yeah!)</div>
 </div>
 

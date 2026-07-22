@@ -87,7 +87,6 @@ The very first original song of KAF.
 [00:59.71]<ruby>絡<rt class="furi">から</rt><rt class="roma">kara</rt></ruby><ruby>まる<rt class="roma">maru</rt></ruby><ruby>意図<rt class="furi">いと</rt><rt class="roma">ito</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>濡<rt class="furi">ぬ</rt><rt class="roma">nu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>解<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">[00:59.71]The entangled intentions get wet and won't come undone</div>
-<div class="trans-lyric">The entangled intentions get wet and won't come undone</div>
 </div>
 
 <div class="lyric-line">
@@ -95,7 +94,6 @@ The very first original song of KAF.
 [01:04.56]<ruby>どこ<rt class="roma">doko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>逃<rt class="furi">に</rt><rt class="roma">ni</rt></ruby><ruby>げ<rt class="roma">ge</rt></ruby><ruby>られ<rt class="roma">rare</rt></ruby><ruby>やし<rt class="roma">yashi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">[01:04.56]I can't escape anywhere</div>
-<div class="trans-lyric">I can't escape anywhere</div>
 </div>
 
 <div class="lyric-line">

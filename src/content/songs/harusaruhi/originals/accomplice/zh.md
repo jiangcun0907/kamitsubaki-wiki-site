@@ -64,7 +64,6 @@ image: /images/songs/harusaruhi/single-1895909161.jpg
 [01:02.63]I am on your tail
 </div>
 <div class="cn-lyric">[01:02.63]我紧跟在你身后</div>
-<div class="cn-lyric">[01:02.63]我紧跟在你身后</div>
 </div>
 
 <div class="lyric-line">

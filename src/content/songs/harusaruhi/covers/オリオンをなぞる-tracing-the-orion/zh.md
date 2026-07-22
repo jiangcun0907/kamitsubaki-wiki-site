@@ -64,7 +64,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [00:32.51]Perfecty, Euphoria！
 </div>
 <div class="cn-lyric">[00:32.51]完美，欣快！</div>
-<div class="cn-lyric">[00:32.51]完美，欣快！</div>
 </div>
 
 <div class="lyric-line">
@@ -86,8 +85,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [01:04.19]<ruby>新<rt class="furi">しん</rt><rt class="roma">shin</rt></ruby><ruby>未来<rt class="furi">みらい</rt><rt class="roma">mirai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>願<rt class="furi">ねが</rt><rt class="roma">nega</rt></ruby><ruby>う<rt class="roma">u</rt></ruby> <ruby>空前絶後<rt class="furi">くうぜんぜつご</rt><rt class="roma">kuuzenzetsugo</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="cn-lyric">[01:04.19]祈愿新未来 空前绝后的</div>
-<div class="cn-lyric">[01:04.19]祈愿新未来 空前绝后的</div>
-<div class="cn-lyric">[01:04.19]祈愿新未来 空前绝后的</div>
 </div>
 
 <div class="lyric-line">
@@ -95,14 +92,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [01:08.55]<ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>もし<rt class="roma">moshi</rt></ruby>、<ruby>もし<rt class="roma">moshi</rt></ruby><ruby>紡<rt class="furi">つむ</rt><rt class="roma">tsumu</rt></ruby><ruby>げ<rt class="roma">ge</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby> <ruby>時間<rt class="furi">じかん</rt><rt class="roma">jikan</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>止<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>まる<rt class="roma">maru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:08.55]如果话语能够编织 时间就会停止</div>
-<div class="cn-lyric">[01:08.55]如果话语能够编织 时间就会停止</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:16.06]「<ruby>ココデオワルハズガナイノニ<rt class="roma">kokodeowaruhazuganainoni</rt></ruby>」
 </div>
-<div class="cn-lyric">[01:16.06]「明明不应该在此结束」</div>
 <div class="cn-lyric">[01:16.06]「明明不应该在此结束」</div>
 </div>
 

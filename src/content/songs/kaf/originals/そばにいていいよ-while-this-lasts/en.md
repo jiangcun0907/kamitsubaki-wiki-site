@@ -43,7 +43,6 @@ image: /images/albums/kaf/shinai.jpg
 [00:29.61]<ruby>いか<rt class="roma">ika</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">You don't have to go</div>
-<div class="trans-lyric">You don't have to go</div>
 </div>
 
 <div class="lyric-line">
@@ -134,14 +133,12 @@ image: /images/albums/kaf/shinai.jpg
 [01:10.53]<ruby>ら<rt class="roma">ra</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby>
 </div>
 <div class="trans-lyric">lalalalalala</div>
-<div class="trans-lyric">lalalalalala</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:32.19]<ruby>こんなにも<rt class="roma">konnanimo</rt></ruby><ruby>美<rt class="furi">うつく</rt><rt class="roma">utsuku</rt></ruby><ruby>しく<rt class="roma">shiku</rt></ruby>
 </div>
-<div class="trans-lyric">So beautiful</div>
 <div class="trans-lyric">So beautiful</div>
 </div>
 
@@ -150,14 +147,12 @@ image: /images/albums/kaf/shinai.jpg
 [01:35.06]<ruby>こんなにも<rt class="roma">konnanimo</rt></ruby><ruby>哀<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>しく<rt class="roma">shiku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">So sorrowful</div>
-<div class="trans-lyric">So sorrowful</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:38.60]<ruby>涙<rt class="furi">なみだ</rt><rt class="roma">namida</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>行き場<rt class="furi">いきば</rt><rt class="roma">ikiba</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>もう<rt class="roma">mou</rt></ruby><ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">There's nowhere for tears to go anymore</div>
 <div class="trans-lyric">There's nowhere for tears to go anymore</div>
 </div>
 
@@ -166,7 +161,6 @@ image: /images/albums/kaf/shinai.jpg
 [01:43.56]<ruby>こんなにも<rt class="roma">konnanimo</rt></ruby><ruby>騒<rt class="furi">さわ</rt><rt class="roma">sawa</rt></ruby><ruby>がしく<rt class="roma">gashiku</rt></ruby>
 </div>
 <div class="trans-lyric">So clamorous</div>
-<div class="trans-lyric">So clamorous</div>
 </div>
 
 <div class="lyric-line">
@@ -174,14 +168,12 @@ image: /images/albums/kaf/shinai.jpg
 [01:46.45]<ruby>こんなにも<rt class="roma">konnanimo</rt></ruby><ruby>愛<rt class="furi">いと</rt><rt class="roma">ito</rt></ruby><ruby>しく<rt class="roma">shiku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">So beloved</div>
-<div class="trans-lyric">So beloved</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:49.96]<ruby>それでも<rt class="roma">soredemo</rt></ruby><ruby>いつか<rt class="roma">itsuka</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>止<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>まる<rt class="roma">maru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="trans-lyric">And yet, someday it will stop, won't it?</div>
 <div class="trans-lyric">And yet, someday it will stop, won't it?</div>
 </div>
 

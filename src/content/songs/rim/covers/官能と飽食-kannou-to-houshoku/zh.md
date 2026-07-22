@@ -52,14 +52,12 @@ image: /images/albums/rim/chocolate-live.jpg
 <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>、<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>、<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>、<ruby>飽<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby>
 </div>
 <div class="cn-lyric">你也是 你也是 你也是 厌倦了吧</div>
-<div class="cn-lyric">你也是 你也是 你也是 厌倦了吧</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>きみ<rt class="roma">kimi</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>苦<rt class="furi">くる</rt><rt class="roma">kuru</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>とか<rt class="roma">toka</rt></ruby><ruby>思<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>欲<rt class="furi">ほ</rt><rt class="roma">ho</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby>
 </div>
-<div class="cn-lyric">不希望你认为只有你痛苦</div>
 <div class="cn-lyric">不希望你认为只有你痛苦</div>
 </div>
 
@@ -68,14 +66,12 @@ image: /images/albums/rim/chocolate-live.jpg
 <ruby>離<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby> <ruby>話<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">不会放开 不会诉说</div>
-<div class="cn-lyric">不会放开 不会诉说</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>もう<rt class="roma">mou</rt></ruby> <ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby>
 </div>
-<div class="cn-lyric">已经 关于你的事情啊</div>
 <div class="cn-lyric">已经 关于你的事情啊</div>
 </div>
 
@@ -84,14 +80,12 @@ image: /images/albums/rim/chocolate-live.jpg
 <ruby>許<rt class="furi">ゆる</rt><rt class="roma">yuru</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>？
 </div>
 <div class="cn-lyric">无法原谅吗？</div>
-<div class="cn-lyric">无法原谅吗？</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 「<ruby>許<rt class="furi">ゆる</rt><rt class="roma">yuru</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>」<ruby>って<rt class="roma">tte</rt></ruby>
 </div>
-<div class="cn-lyric">「无法原谅啊」这样说着</div>
 <div class="cn-lyric">「无法原谅啊」这样说着</div>
 </div>
 

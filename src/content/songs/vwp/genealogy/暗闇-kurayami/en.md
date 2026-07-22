@@ -101,14 +101,12 @@ image: /images/albums/vwp/proliferation.jpg
 [00:58.20]<ruby>もう<rt class="roma">mou</rt></ruby><ruby>いいよって<rt class="roma">iiyotte</rt></ruby><ruby>怒<rt class="furi">いか</rt><rt class="roma">ika</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>湧<rt class="furi">わ</rt><rt class="roma">wa</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">Anger wells up, screaming 'enough already'</div>
-<div class="trans-lyric">Anger wells up, screaming 'enough already'</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:00.90]<ruby>孤独<rt class="furi">こどく</rt><rt class="roma">kodoku</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>刃<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>変<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>わって<rt class="roma">watte</rt></ruby>
 </div>
-<div class="trans-lyric">Loneliness turns into a blade</div>
 <div class="trans-lyric">Loneliness turns into a blade</div>
 </div>
 
@@ -133,14 +131,12 @@ image: /images/albums/vwp/proliferation.jpg
 [01:08.86]<ruby>闇夜<rt class="furi">やみよ</rt><rt class="roma">yamiyo</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>染<rt class="furi">そ</rt><rt class="roma">so</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>られ<rt class="roma">rare</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">Drenched in the dark night, live</div>
-<div class="trans-lyric">Drenched in the dark night, live</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:11.62]<ruby>背後<rt class="furi">はいご</rt><rt class="roma">haigo</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>気<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>つけ<rt class="roma">tsuke</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>怯<rt class="furi">おび</rt><rt class="roma">obi</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">Frightened, watching your back</div>
 <div class="trans-lyric">Frightened, watching your back</div>
 </div>
 
@@ -149,14 +145,12 @@ image: /images/albums/vwp/proliferation.jpg
 [01:14.56]<ruby>明暗<rt class="furi">めいあん</rt><rt class="roma">meian</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>境<rt class="furi">さかい</rt><rt class="roma">sakai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>潜<rt class="furi">もぐ</rt><rt class="roma">mogu</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
 <div class="trans-lyric">Diving into the boundary of light and dark</div>
-<div class="trans-lyric">Diving into the boundary of light and dark</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:17.55]<ruby>信<rt class="furi">しん</rt><rt class="roma">shin</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>光<rt class="furi">ひかり</rt><rt class="roma">hikari</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>隠し持<rt class="furi">かくしも</rt><rt class="roma">kakushimo</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
-<div class="trans-lyric">Holding hidden the light I want to believe</div>
 <div class="trans-lyric">Holding hidden the light I want to believe</div>
 </div>
 
@@ -165,8 +159,6 @@ image: /images/albums/vwp/proliferation.jpg
 [01:20.78]<ruby>気<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なる<rt class="roma">naru</rt></ruby><ruby>最後<rt class="furi">さいご</rt><rt class="roma">saigo</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="trans-lyric">The ending that concerns me</div>
-<div class="trans-lyric">The ending that concerns me</div>
-<div class="trans-lyric">The ending that concerns me</div>
 </div>
 
 <div class="lyric-line">
@@ -174,16 +166,12 @@ image: /images/albums/vwp/proliferation.jpg
 [01:22.47]<ruby>バッドエンド<rt class="roma">baddoendo</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>ハッピーエンド<rt class="roma">happiiendo</rt></ruby>
 </div>
 <div class="trans-lyric">From a bad ending to a happy ending</div>
-<div class="trans-lyric">From a bad ending to a happy ending</div>
-<div class="trans-lyric">From a bad ending to a happy ending</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:28.06]<ruby>未来<rt class="furi">みらい</rt><rt class="roma">mirai</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
 </div>
-<div class="trans-lyric">To the future</div>
-<div class="trans-lyric">To the future</div>
 <div class="trans-lyric">To the future</div>
 </div>
 

@@ -99,7 +99,6 @@ image: /images/songs/rim/single-1875862093.jpg
 [01:07.12]<ruby>足<rt class="furi">た</rt><rt class="roma">ta</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="cn-lyric">[01:07.12]不足</div>
-<div class="cn-lyric">[01:07.12]不足</div>
 </div>
 
 <div class="lyric-line">
@@ -120,14 +119,12 @@ image: /images/songs/rim/single-1875862093.jpg
 [01:14.52]<ruby>あぁ<rt class="roma">aa</rt></ruby>
 </div>
 <div class="cn-lyric">[01:14.52]啊</div>
-<div class="cn-lyric">[01:14.52]啊</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:15.39]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ことば<rt class="roma">kotoba</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>信者<rt class="furi">しんじゃ</rt><rt class="roma">shinja</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なって<rt class="roma">natte</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby>
 </div>
-<div class="cn-lyric">[01:15.39]逐渐成为你话语的信徒</div>
 <div class="cn-lyric">[01:15.39]逐渐成为你话语的信徒</div>
 </div>
 
@@ -136,14 +133,12 @@ image: /images/songs/rim/single-1875862093.jpg
 [01:21.34]<ruby>いきどおり<rt class="roma">ikidoori</rt></ruby> <ruby>よろこび<rt class="roma">yorokobi</rt></ruby> <ruby>かなしみ<rt class="roma">kanashimi</rt></ruby>
 </div>
 <div class="cn-lyric">[01:21.34]愤怒 喜悦 悲伤</div>
-<div class="cn-lyric">[01:21.34]愤怒 喜悦 悲伤</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:24.92]<ruby>どれ<rt class="roma">dore</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby> <ruby>あなた<rt class="roma">anata</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なれる<rt class="roma">nareru</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>！
 </div>
-<div class="cn-lyric">[01:24.92]哪个都行 只要能成为你的话！</div>
 <div class="cn-lyric">[01:24.92]哪个都行 只要能成为你的话！</div>
 </div>
 
@@ -152,14 +147,12 @@ image: /images/songs/rim/single-1875862093.jpg
 [01:29.88]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>宇宙<rt class="furi">うちゅう</rt><rt class="roma">uchuu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>信者<rt class="furi">しんじゃ</rt><rt class="roma">shinja</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なって<rt class="roma">natte</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby>
 </div>
 <div class="cn-lyric">[01:29.88]逐渐成为你宇宙的信徒</div>
-<div class="cn-lyric">[01:29.88]逐渐成为你宇宙的信徒</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:35.76]<ruby>教<rt class="furi">おし</rt><rt class="roma">oshi</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="cn-lyric">[01:35.76]告诉我</div>
 <div class="cn-lyric">[01:35.76]告诉我</div>
 </div>
 
@@ -168,14 +161,12 @@ image: /images/songs/rim/single-1875862093.jpg
 [01:37.34]<ruby>次<rt class="furi">つぎ</rt><rt class="roma">tsugi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>時代<rt class="furi">じだい</rt><rt class="roma">jidai</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby><ruby>跳<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>ぶ<rt class="roma">bu</rt></ruby><ruby>術<rt class="furi">じゅつ</rt><rt class="roma">jutsu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:37.34]跳向下一时代的方法</div>
-<div class="cn-lyric">[01:37.34]跳向下一时代的方法</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:37.34]<ruby>聞<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="cn-lyric">[01:37.34]让我听听</div>
 <div class="cn-lyric">[01:37.34]让我听听</div>
 </div>
 

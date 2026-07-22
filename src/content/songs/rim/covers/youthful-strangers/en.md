@@ -80,29 +80,12 @@ Bum biddly biddly biddly biddly biddly biddly bum
 I say
 </div>
 <div class="trans-lyric">I say</div>
-<div class="trans-lyric">I say</div>
-<div class="trans-lyric">I say</div>
-<div class="trans-lyric">I say</div>
-<div class="trans-lyric">I say</div>
-<div class="trans-lyric">I say</div>
-<div class="trans-lyric">I say</div>
-<div class="trans-lyric">I say</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Pass the dutchie 'pon the left hand side
 </div>
-<div class="trans-lyric">Pass the dutchie 'pon the left hand side</div>
-<div class="trans-lyric">Pass the dutchie 'pon the left hand side</div>
-<div class="trans-lyric">Pass the dutchie 'pon the left hand side</div>
-<div class="trans-lyric">Pass the dutchie 'pon the left hand side</div>
-<div class="trans-lyric">Pass the dutchie 'pon the left hand side</div>
-<div class="trans-lyric">Pass the dutchie 'pon the left hand side</div>
-<div class="trans-lyric">Pass the dutchie 'pon the left hand side</div>
-<div class="trans-lyric">Pass the dutchie 'pon the left hand side</div>
-<div class="trans-lyric">Pass the dutchie 'pon the left hand side</div>
-<div class="trans-lyric">Pass the dutchie 'pon the left hand side</div>
 <div class="trans-lyric">Pass the dutchie 'pon the left hand side</div>
 </div>
 
@@ -117,25 +100,12 @@ Pass the dutchie 'pon the left hand side
 It a go done
 </div>
 <div class="trans-lyric">It a go done</div>
-<div class="trans-lyric">It a go done</div>
-<div class="trans-lyric">It a go done</div>
-<div class="trans-lyric">It a go done</div>
-<div class="trans-lyric">It a go done</div>
-<div class="trans-lyric">It a go done</div>
-<div class="trans-lyric">It a go done</div>
-<div class="trans-lyric">It a go done</div>
-<div class="trans-lyric">It a go done</div>
-<div class="trans-lyric">It a go done</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Give me the music make me jump and prance
 </div>
-<div class="trans-lyric">Give me the music make me jump and prance</div>
-<div class="trans-lyric">Give me the music make me jump and prance</div>
-<div class="trans-lyric">Give me the music make me jump and prance</div>
-<div class="trans-lyric">Give me the music make me jump and prance</div>
 <div class="trans-lyric">Give me the music make me jump and prance</div>
 </div>
 
@@ -150,10 +120,6 @@ It a go done
 Give me the music make me rock in and the dance
 </div>
 <div class="trans-lyric">Give me the music make me rock in and the dance</div>
-<div class="trans-lyric">Give me the music make me rock in and the dance</div>
-<div class="trans-lyric">Give me the music make me rock in and the dance</div>
-<div class="trans-lyric">Give me the music make me rock in and the dance</div>
-<div class="trans-lyric">Give me the music make me rock in and the dance</div>
 </div>
 
 <div class="lyric-line">
@@ -167,13 +133,6 @@ It was a cool and lovely breezy afternoon
 <div class="jp-lyric">
 How does it feel when you got no food
 </div>
-<div class="trans-lyric">How does it feel when you got no food</div>
-<div class="trans-lyric">How does it feel when you got no food</div>
-<div class="trans-lyric">How does it feel when you got no food</div>
-<div class="trans-lyric">How does it feel when you got no food</div>
-<div class="trans-lyric">How does it feel when you got no food</div>
-<div class="trans-lyric">How does it feel when you got no food</div>
-<div class="trans-lyric">How does it feel when you got no food</div>
 <div class="trans-lyric">How does it feel when you got no food</div>
 </div>
 
@@ -399,7 +358,6 @@ Give me the music make me rock in and the dance
 Me say listen to the bass
 </div>
 <div class="trans-lyric">Me say listen to the bass</div>
-<div class="trans-lyric">Me say listen to the bass</div>
 </div>
 
 <div class="lyric-line">
@@ -407,14 +365,12 @@ Me say listen to the bass
 Give me little music
 </div>
 <div class="trans-lyric">Give me little music</div>
-<div class="trans-lyric">Give me little music</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Make me wind up me waist
 </div>
-<div class="trans-lyric">Make me wind up me waist</div>
 <div class="trans-lyric">Make me wind up me waist</div>
 </div>
 
@@ -503,14 +459,12 @@ You play it on the radio
 A so me say
 </div>
 <div class="trans-lyric">A so me say</div>
-<div class="trans-lyric">A so me say</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 We a go hear it on the stereo
 </div>
-<div class="trans-lyric">We a go hear it on the stereo</div>
 <div class="trans-lyric">We a go hear it on the stereo</div>
 </div>
 
@@ -594,10 +548,6 @@ Give me the music make me rock in and the dance
 On the left hand side
 </div>
 <div class="trans-lyric">On the left hand side</div>
-<div class="trans-lyric">On the left hand side</div>
-<div class="trans-lyric">On the left hand side</div>
-<div class="trans-lyric">On the left hand side</div>
-<div class="trans-lyric">On the left hand side</div>
 </div>
 
 <div class="lyric-line">
@@ -641,14 +591,12 @@ On the left hand side
 Well me say East say West
 </div>
 <div class="trans-lyric">Well me say East say West</div>
-<div class="trans-lyric">Well me say East say West</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Say North and South
 </div>
-<div class="trans-lyric">Say North and South</div>
 <div class="trans-lyric">Say North and South</div>
 </div>
 

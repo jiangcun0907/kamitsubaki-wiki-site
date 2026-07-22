@@ -37,7 +37,6 @@ image: /images/albums/kaf/guwa.jpg
 [00:44.96]<ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>終<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>わり<rt class="roma">wari</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
 <div class="trans-lyric">[00:44.96]Like the end of the world</div>
-<div class="trans-lyric">Like the end of the world</div>
 </div>
 
 <div class="lyric-line">
@@ -45,7 +44,6 @@ image: /images/albums/kaf/guwa.jpg
 [00:50.79]<ruby>これ<rt class="roma">kore</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>お<rt class="roma">o</rt></ruby><ruby>別<rt class="furi">わか</rt><rt class="roma">waka</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
 <div class="trans-lyric">[00:50.79]Like this is goodbye</div>
-<div class="trans-lyric">Like this is goodbye</div>
 </div>
 
 <div class="lyric-line">
@@ -143,7 +141,6 @@ image: /images/albums/kaf/guwa.jpg
 <div class="jp-lyric">
 <ruby>激<rt class="furi">げき</rt><rt class="roma">geki</rt></ruby><ruby>鉄<rt class="furi">てつ</rt><rt class="roma">tetsu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>起<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>こせ<rt class="roma">kose</rt></ruby>
 </div>
-<div class="trans-lyric">Awaken the fierce iron</div>
 <div class="trans-lyric">Awaken the fierce iron</div>
 </div>
 

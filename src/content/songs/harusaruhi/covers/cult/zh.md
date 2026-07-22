@@ -45,16 +45,12 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 [00:30.83]Just a total brainwash like they're in a cult
 </div>
 <div class="cn-lyric">[00:30.83]完全就是洗脑，像被邪教控制</div>
-<div class="cn-lyric">[00:30.83]完全就是洗脑，像被邪教控制</div>
-<div class="cn-lyric">[00:30.83]完全就是洗脑，像被邪教控制</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:35.55]And I'm so scared of what will be the end result
 </div>
-<div class="cn-lyric">[00:35.55]我如此害怕最终的结局会是什么</div>
-<div class="cn-lyric">[00:35.55]我如此害怕最终的结局会是什么</div>
 <div class="cn-lyric">[00:35.55]我如此害怕最终的结局会是什么</div>
 </div>
 
@@ -88,7 +84,6 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 <div class="jp-lyric">
 [01:09.03]Tell you you've got a chance then they kill all your dreams
 </div>
-<div class="cn-lyric">[01:09.03]告诉你有一丝机会，然后他们扼杀你所有梦想</div>
 <div class="cn-lyric">[01:09.03]告诉你有一丝机会，然后他们扼杀你所有梦想</div>
 </div>
 

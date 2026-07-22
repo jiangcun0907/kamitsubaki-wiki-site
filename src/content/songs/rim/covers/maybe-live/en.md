@@ -96,16 +96,12 @@ Maybe (Live) appears on CHOCOLATE LIVE3 or a related official release. Entries a
 [00:35.69]Oh baby <ruby>ありのまま<rt class="roma">arinomama</rt></ruby>
 </div>
 <div class="trans-lyric">[00:35.69]Oh baby, just as you are</div>
-<div class="trans-lyric">Oh baby, just as you are</div>
-<div class="trans-lyric">Oh baby, just as you are</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:41.55]Maybe <ruby>簡単<rt class="furi">かんたん</rt><rt class="roma">kantan</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="trans-lyric">Maybe it's not easy</div>
-<div class="trans-lyric">Maybe it's not easy</div>
 <div class="trans-lyric">Maybe it's not easy</div>
 </div>
 
@@ -114,8 +110,6 @@ Maybe (Live) appears on CHOCOLATE LIVE3 or a related official release. Entries a
 [00:42.07]Take it easy
 </div>
 <div class="trans-lyric">[00:42.07]Take it easy</div>
-<div class="trans-lyric">Take it easy</div>
-<div class="trans-lyric">Take it easy</div>
 </div>
 
 <div class="lyric-line">
@@ -123,8 +117,6 @@ Maybe (Live) appears on CHOCOLATE LIVE3 or a related official release. Entries a
 [00:43.43]You think too much
 </div>
 <div class="trans-lyric">[00:43.43]You think too much</div>
-<div class="trans-lyric">You think too much</div>
-<div class="trans-lyric">You think too much</div>
 </div>
 
 <div class="lyric-line">
@@ -132,8 +124,6 @@ Maybe (Live) appears on CHOCOLATE LIVE3 or a related official release. Entries a
 [00:45.40]That's no good
 </div>
 <div class="trans-lyric">[00:45.40]That's no good</div>
-<div class="trans-lyric">That's no good</div>
-<div class="trans-lyric">That's no good</div>
 </div>
 
 <div class="lyric-line">
@@ -141,8 +131,6 @@ Maybe (Live) appears on CHOCOLATE LIVE3 or a related official release. Entries a
 [00:47.63]<ruby>だから<rt class="roma">dakara</rt></ruby> Baby
 </div>
 <div class="trans-lyric">[00:47.63]So baby</div>
-<div class="trans-lyric">So baby</div>
-<div class="trans-lyric">So baby</div>
 </div>
 
 <div class="lyric-line">
@@ -150,8 +138,6 @@ Maybe (Live) appears on CHOCOLATE LIVE3 or a related official release. Entries a
 [00:49.32]<ruby>誤魔化<rt class="furi">ごまか</rt><rt class="roma">gomaka</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>自分<rt class="furi">じぶん</rt><rt class="roma">jibun</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
 </div>
 <div class="trans-lyric">[00:49.32]To the self that doesn't deceive</div>
-<div class="trans-lyric">To the self that doesn't deceive</div>
-<div class="trans-lyric">To the self that doesn't deceive</div>
 </div>
 
 <div class="lyric-line">
@@ -159,8 +145,6 @@ Maybe (Live) appears on CHOCOLATE LIVE3 or a related official release. Entries a
 [00:52.29]<ruby>少<rt class="furi">すこ</rt><rt class="roma">suko</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ずつ<rt class="roma">zutsu</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="trans-lyric">[00:52.29]Little by little is fine</div>
-<div class="trans-lyric">Little by little is fine</div>
-<div class="trans-lyric">Little by little is fine</div>
 </div>
 
 <div class="lyric-line">
@@ -168,10 +152,6 @@ Maybe (Live) appears on CHOCOLATE LIVE3 or a related official release. Entries a
 [00:56.59]You better change your mind
 </div>
 <div class="trans-lyric">[00:56.59]You better change your mind</div>
-<div class="trans-lyric">You better change your mind</div>
-<div class="trans-lyric">You better change your mind</div>
-<div class="trans-lyric">You better change your mind</div>
-<div class="trans-lyric">You better change your mind</div>
 </div>
 
 <br />

@@ -48,22 +48,9 @@ In Sahara Desert says it all
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:08.85]It's a miracle
+It's a miracle
 </div>
-<div class="cn-lyric">[02:08.85]这是个奇迹</div>
-<div class="cn-lyric">[02:08.85]这是个奇迹</div>
-<div class="cn-lyric">[02:08.85]这是个奇迹</div>
-<div class="cn-lyric">[02:08.85]这是个奇迹</div>
-<div class="cn-lyric">[02:08.85]这是个奇迹</div>
-<div class="cn-lyric">[02:08.85]这是个奇迹</div>
-<div class="cn-lyric">[02:08.85]这是个奇迹</div>
-<div class="cn-lyric">[02:08.85]这是个奇迹</div>
-<div class="cn-lyric">[02:08.85]这是个奇迹</div>
-<div class="cn-lyric">[02:08.85]这是个奇迹</div>
-<div class="cn-lyric">[02:08.85]这是个奇迹</div>
-<div class="cn-lyric">[02:08.85]这是个奇迹</div>
-<div class="cn-lyric">[02:08.85]这是个奇迹</div>
-<div class="cn-lyric">[02:08.85]这是个奇迹</div>
+<div class="cn-lyric">这是个奇迹</div>
 </div>
 
 <div class="lyric-line">
@@ -84,7 +71,6 @@ The Golden Gate and the Taj Mahal
 <div class="jp-lyric">
 That's a miracle
 </div>
-<div class="cn-lyric">那是个奇迹</div>
 <div class="cn-lyric">那是个奇迹</div>
 </div>
 
@@ -115,14 +101,12 @@ It's a miracle
 We're having a miracle on earth
 </div>
 <div class="cn-lyric">我们正拥有世上的奇迹</div>
-<div class="cn-lyric">我们正拥有世上的奇迹</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Mother nature does it all for us
 </div>
-<div class="cn-lyric">大自然为我们做了一切</div>
 <div class="cn-lyric">大自然为我们做了一切</div>
 </div>
 
@@ -135,9 +119,9 @@ The wonders of this world go on
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:08.85]The hanging Gardens of Babylon
+The hanging Gardens of Babylon
 </div>
-<div class="cn-lyric">[02:08.85]巴比伦空中花园</div>
+<div class="cn-lyric">巴比伦空中花园</div>
 </div>
 
 <div class="lyric-line">
@@ -182,9 +166,9 @@ It's a miracle
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:42.00]The one thing we're all waiting for
+The one thing we're all waiting for
 </div>
-<div class="cn-lyric">[00:42.00]我们都在等待的一件事</div>
+<div class="cn-lyric">我们都在等待的一件事</div>
 </div>
 
 <div class="lyric-line">
@@ -196,10 +180,9 @@ Is peace on earth, an end to war
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:08.85]It's a miracle we need, the miracle
+It's a miracle we need, the miracle
 </div>
-<div class="cn-lyric">[02:08.85]那是我们需要的奇迹，那个奇迹</div>
-<div class="cn-lyric">[02:08.85]那是我们需要的奇迹，那个奇迹</div>
+<div class="cn-lyric">那是我们需要的奇迹，那个奇迹</div>
 </div>
 
 <div class="lyric-line">
@@ -227,9 +210,9 @@ Could tell a story that would be a miracle
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:55.53]If every child on every street
+If every child on every street
 </div>
-<div class="cn-lyric">[00:55.53]如果每条街上的每个孩子</div>
+<div class="cn-lyric">如果每条街上的每个孩子</div>
 </div>
 
 <div class="lyric-line">
@@ -362,9 +345,9 @@ It's a miracle
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:42.00]The one thing (the one thing)
+The one thing (the one thing)
 </div>
-<div class="cn-lyric">[00:42.00]那件事（那件事）</div>
+<div class="cn-lyric">那件事（那件事）</div>
 </div>
 
 <div class="lyric-line">
@@ -415,18 +398,12 @@ Peace on earth and end to war today
 That time will come one day you'll see
 </div>
 <div class="cn-lyric">那一天终会到来，你会看到</div>
-<div class="cn-lyric">那一天终会到来，你会看到</div>
-<div class="cn-lyric">那一天终会到来，你会看到</div>
-<div class="cn-lyric">那一天终会到来，你会看到</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 When we can all be friends
 </div>
-<div class="cn-lyric">当我们都能成为朋友</div>
-<div class="cn-lyric">当我们都能成为朋友</div>
-<div class="cn-lyric">当我们都能成为朋友</div>
 <div class="cn-lyric">当我们都能成为朋友</div>
 </div>
 

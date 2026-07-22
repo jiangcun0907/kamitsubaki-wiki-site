@@ -198,16 +198,12 @@ image: /images/albums/kaf/i-scream-live.jpg
 [03:52.13]I'm just playing games I know that's plastic love
 </div>
 <div class="trans-lyric">I'm just playing games I know that's plastic love</div>
-<div class="trans-lyric">I'm just playing games I know that's plastic love</div>
-<div class="trans-lyric">I'm just playing games I know that's plastic love</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [04:01.31]Dance to the plastic beat Another morning comes
 </div>
-<div class="trans-lyric">Dance to the plastic beat Another morning comes</div>
-<div class="trans-lyric">Dance to the plastic beat Another morning comes</div>
 <div class="trans-lyric">Dance to the plastic beat Another morning comes</div>
 </div>
 

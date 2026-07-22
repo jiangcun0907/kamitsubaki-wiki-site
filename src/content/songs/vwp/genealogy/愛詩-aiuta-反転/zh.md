@@ -41,16 +41,6 @@ image: /images/albums/vwp/inversion.jpg
 <ruby>ただ<rt class="roma">tada</rt></ruby><ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby>
 </div>
 <div class="cn-lyric">只是爱着你</div>
-<div class="cn-lyric">只是爱着你</div>
-<div class="cn-lyric">只是爱着你</div>
-<div class="cn-lyric">只是爱着你</div>
-<div class="cn-lyric">只是爱着你</div>
-<div class="cn-lyric">只是爱着你</div>
-<div class="cn-lyric">只是爱着你</div>
-<div class="cn-lyric">只是爱着你</div>
-<div class="cn-lyric">只是爱着你</div>
-<div class="cn-lyric">只是爱着你</div>
-<div class="cn-lyric">只是爱着你</div>
 </div>
 
 <div class="lyric-line">
@@ -64,20 +54,12 @@ image: /images/albums/vwp/inversion.jpg
 <ruby>何<rt class="furi">なん</rt><rt class="roma">nan</rt></ruby><ruby>度<rt class="furi">ど</rt><rt class="roma">do</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">无论多少次我都会说</div>
-<div class="cn-lyric">无论多少次我都会说</div>
-<div class="cn-lyric">无论多少次我都会说</div>
-<div class="cn-lyric">无论多少次我都会说</div>
-<div class="cn-lyric">无论多少次我都会说</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby>
 </div>
-<div class="cn-lyric">爱着你</div>
-<div class="cn-lyric">爱着你</div>
-<div class="cn-lyric">爱着你</div>
-<div class="cn-lyric">爱着你</div>
 <div class="cn-lyric">爱着你</div>
 </div>
 
@@ -186,15 +168,12 @@ image: /images/albums/vwp/inversion.jpg
 <ruby>ここ<rt class="roma">koko</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>新<rt class="furi">あたら</rt><rt class="roma">atara</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>軌跡<rt class="furi">きせき</rt><rt class="roma">kiseki</rt></ruby><ruby>描<rt class="furi">えが</rt><rt class="roma">ega</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">从此描绘新的轨迹</div>
-<div class="cn-lyric">从此描绘新的轨迹</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby>
 </div>
-<div class="cn-lyric">我爱着你</div>
-<div class="cn-lyric">我爱着你</div>
 <div class="cn-lyric">我爱着你</div>
 </div>
 
@@ -203,26 +182,12 @@ image: /images/albums/vwp/inversion.jpg
 There are good times and bad times
 </div>
 <div class="cn-lyric">There are good times and bad times</div>
-<div class="cn-lyric">There are good times and bad times</div>
-<div class="cn-lyric">There are good times and bad times</div>
-<div class="cn-lyric">There are good times and bad times</div>
-<div class="cn-lyric">There are good times and bad times</div>
-<div class="cn-lyric">There are good times and bad times</div>
-<div class="cn-lyric">There are good times and bad times</div>
-<div class="cn-lyric">There are good times and bad times</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Let's walk through life together
 </div>
-<div class="cn-lyric">Let's walk through life together</div>
-<div class="cn-lyric">Let's walk through life together</div>
-<div class="cn-lyric">Let's walk through life together</div>
-<div class="cn-lyric">Let's walk through life together</div>
-<div class="cn-lyric">Let's walk through life together</div>
-<div class="cn-lyric">Let's walk through life together</div>
-<div class="cn-lyric">Let's walk through life together</div>
 <div class="cn-lyric">Let's walk through life together</div>
 </div>
 
@@ -308,7 +273,6 @@ Let's walk through life together
 <div class="jp-lyric">
 <ruby>運命<rt class="furi">うんめい</rt><rt class="roma">unmei</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>とか<rt class="roma">toka</rt></ruby><ruby>わから<rt class="roma">wakara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby>
 </div>
-<div class="cn-lyric">虽不知是否是命运</div>
 <div class="cn-lyric">虽不知是否是命运</div>
 </div>
 

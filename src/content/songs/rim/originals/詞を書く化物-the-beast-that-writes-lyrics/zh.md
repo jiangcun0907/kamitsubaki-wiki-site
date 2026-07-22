@@ -66,7 +66,6 @@ image: /images/albums/rim/imagine.jpg
 [00:37.95]<ruby>どうか<rt class="roma">douka</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby> <ruby>どうか<rt class="roma">douka</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby>
 </div>
 <div class="cn-lyric">[00:37.95]不对劲 不对劲</div>
-<div class="cn-lyric">[00:37.95]不对劲 不对劲</div>
 </div>
 
 <div class="lyric-line">
@@ -89,7 +88,6 @@ image: /images/albums/rim/imagine.jpg
 [00:55.09]<ruby>詞<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>書<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>ため<rt class="roma">tame</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby> <ruby>悪魔<rt class="furi">あくま</rt><rt class="roma">akuma</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>内<rt class="furi">うち</rt><rt class="roma">uchi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>飼<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby>
 </div>
 <div class="cn-lyric">[00:55.09]为了写词 将恶魔养在体内</div>
-<div class="cn-lyric">为了写词 将恶魔养在体内</div>
 </div>
 
 <div class="lyric-line">

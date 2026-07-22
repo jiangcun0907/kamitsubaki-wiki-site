@@ -104,14 +104,12 @@ Just can't seem to find home
 Watch the day
 </div>
 <div class="trans-lyric">Watch the day</div>
-<div class="trans-lyric">Watch the day</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Kiss the night
 </div>
-<div class="trans-lyric">Kiss the night</div>
 <div class="trans-lyric">Kiss the night</div>
 </div>
 
@@ -134,7 +132,6 @@ Feel the ache
 Behind my eyes
 </div>
 <div class="trans-lyric">Behind my eyes</div>
-<div class="trans-lyric">Behind my eyes</div>
 </div>
 
 <div class="lyric-line">
@@ -149,15 +146,12 @@ Now the world changed forever and we can't hide
 Can not escape everything that's just erased
 </div>
 <div class="trans-lyric">Can not escape everything that's just erased</div>
-<div class="trans-lyric">Can not escape everything that's just erased</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Chase the day
 </div>
-<div class="trans-lyric">Chase the day</div>
-<div class="trans-lyric">Chase the day</div>
 <div class="trans-lyric">Chase the day</div>
 </div>
 
@@ -166,7 +160,6 @@ Chase the day
 Go save the night
 </div>
 <div class="trans-lyric">Go save the night</div>
-<div class="trans-lyric">Go save the night</div>
 </div>
 
 <div class="lyric-line">
@@ -174,15 +167,12 @@ Go save the night
 Still I'll be here forever right by your side
 </div>
 <div class="trans-lyric">Still I'll be here forever right by your side</div>
-<div class="trans-lyric">Still I'll be here forever right by your side</div>
-<div class="trans-lyric">Still I'll be here forever right by your side</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 I'll be right by your side
 </div>
-<div class="trans-lyric">I'll be right by your side</div>
 <div class="trans-lyric">I'll be right by your side</div>
 </div>
 

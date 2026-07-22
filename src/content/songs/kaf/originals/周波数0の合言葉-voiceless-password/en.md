@@ -123,14 +123,12 @@ image: /images/songs/kaf/track-1872604651.jpg
 [01:44.94]<ruby>揺<rt class="furi">ゆ</rt><rt class="roma">yu</rt></ruby><ruby>らぐ<rt class="roma">ragu</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="trans-lyric">Words that never waver</div>
-<div class="trans-lyric">Words that never waver</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:50.96]<ruby>彷徨<rt class="furi">ほうこう</rt><rt class="roma">houkou</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
-<div class="trans-lyric">Words that never wander</div>
 <div class="trans-lyric">Words that never wander</div>
 </div>
 
@@ -139,14 +137,12 @@ image: /images/songs/kaf/track-1872604651.jpg
 [01:56.47]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>くれ<rt class="roma">kure</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="trans-lyric">You delivered them to me</div>
-<div class="trans-lyric">You delivered them to me</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [02:00.37]<ruby>そんな<rt class="roma">sonna</rt></ruby><ruby>せい<rt class="roma">sei</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
-<div class="trans-lyric">Because of that</div>
 <div class="trans-lyric">Because of that</div>
 </div>
 

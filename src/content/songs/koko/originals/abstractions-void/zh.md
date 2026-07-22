@@ -78,18 +78,12 @@ image: /images/songs/koko/single-1678056895.jpg
 [00:46.79]Why am I here?
 </div>
 <div class="cn-lyric">[00:46.79]我为何在此？</div>
-<div class="cn-lyric">[00:46.79]我为何在此？</div>
-<div class="cn-lyric">[00:46.79]我为何在此？</div>
-<div class="cn-lyric">[00:46.79]我为何在此？</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:48.93]Why did I keep quiet?
 </div>
-<div class="cn-lyric">[00:48.93]我为何保持沉默？</div>
-<div class="cn-lyric">[00:48.93]我为何保持沉默？</div>
-<div class="cn-lyric">[00:48.93]我为何保持沉默？</div>
 <div class="cn-lyric">[00:48.93]我为何保持沉默？</div>
 </div>
 
@@ -98,18 +92,12 @@ image: /images/songs/koko/single-1678056895.jpg
 [00:50.91]What is my point?
 </div>
 <div class="cn-lyric">[00:50.91]我的意义何在？</div>
-<div class="cn-lyric">[00:50.91]我的意义何在？</div>
-<div class="cn-lyric">[00:50.91]我的意义何在？</div>
-<div class="cn-lyric">[00:50.91]我的意义何在？</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:52.87]Where is my word?
 </div>
-<div class="cn-lyric">[00:52.87]我的言语何在？</div>
-<div class="cn-lyric">[00:52.87]我的言语何在？</div>
-<div class="cn-lyric">[00:52.87]我的言语何在？</div>
 <div class="cn-lyric">[00:52.87]我的言语何在？</div>
 </div>
 
@@ -142,16 +130,12 @@ image: /images/songs/koko/single-1678056895.jpg
 [01:10.04]This is what it is abstractions void
 </div>
 <div class="cn-lyric">[01:10.04]这就是抽象的空无</div>
-<div class="cn-lyric">[01:10.04]这就是抽象的空无</div>
-<div class="cn-lyric">[01:10.04]这就是抽象的空无</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:13.56]Blankness is what I am.
 </div>
-<div class="cn-lyric">[01:13.56]空白即是我。</div>
-<div class="cn-lyric">[01:13.56]空白即是我。</div>
 <div class="cn-lyric">[01:13.56]空白即是我。</div>
 </div>
 
@@ -160,16 +144,12 @@ image: /images/songs/koko/single-1678056895.jpg
 [01:15.30]There is no actual situation.
 </div>
 <div class="cn-lyric">[01:15.30]没有实际情境。</div>
-<div class="cn-lyric">[01:15.30]没有实际情境。</div>
-<div class="cn-lyric">[01:15.30]没有实际情境。</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:18.23]Not even the definition can catch me
 </div>
-<div class="cn-lyric">[01:18.23]连定义也无法捕捉我</div>
-<div class="cn-lyric">[01:18.23]连定义也无法捕捉我</div>
 <div class="cn-lyric">[01:18.23]连定义也无法捕捉我</div>
 </div>
 
@@ -178,8 +158,6 @@ image: /images/songs/koko/single-1678056895.jpg
 [01:21.25]Regression is the engraving
 </div>
 <div class="cn-lyric">[01:21.25]回归即是镌刻</div>
-<div class="cn-lyric">[01:21.25]回归即是镌刻</div>
-<div class="cn-lyric">[01:21.25]回归即是镌刻</div>
 </div>
 
 <div class="lyric-line">
@@ -187,15 +165,12 @@ image: /images/songs/koko/single-1678056895.jpg
 [01:23.31]There is all reason being negated by the inevitable phenomenon
 </div>
 <div class="cn-lyric">[01:23.31]所有理由都被必然现象否定</div>
-<div class="cn-lyric">[01:23.31]所有理由都被必然现象否定</div>
-<div class="cn-lyric">[01:23.31]所有理由都被必然现象否定</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:43.37]Now, I give away again
 </div>
-<div class="cn-lyric">[01:43.37]此刻，我再次放弃</div>
 <div class="cn-lyric">[01:43.37]此刻，我再次放弃</div>
 </div>
 

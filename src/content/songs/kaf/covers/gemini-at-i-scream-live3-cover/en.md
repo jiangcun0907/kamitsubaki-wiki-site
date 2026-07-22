@@ -90,14 +90,12 @@ Getting shook up but I won't shake
 'Cause I won't let you break my heart
 </div>
 <div class="trans-lyric">'Cause I won't let you break my heart</div>
-<div class="trans-lyric">'Cause I won't let you break my heart</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Won't let us drift apart
 </div>
-<div class="trans-lyric">Won't let us drift apart</div>
 <div class="trans-lyric">Won't let us drift apart</div>
 </div>
 
@@ -106,14 +104,12 @@ Won't let us drift apart
 No, I know that you got a second face, oh no
 </div>
 <div class="trans-lyric">No, I know that you got a second face, oh no</div>
-<div class="trans-lyric">No, I know that you got a second face, oh no</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [03:29.25]No, I won't let you kill my high
 </div>
-<div class="trans-lyric">No, I won't let you kill my high</div>
 <div class="trans-lyric">No, I won't let you kill my high</div>
 </div>
 
@@ -122,16 +118,12 @@ No, I know that you got a second face, oh no
 You're such a Gemini, cigarettes and apple pie
 </div>
 <div class="trans-lyric">You're such a Gemini, cigarettes and apple pie</div>
-<div class="trans-lyric">You're such a Gemini, cigarettes and apple pie</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Ah, yeah, yeah, yeah
 </div>
-<div class="trans-lyric">Ah, yeah, yeah, yeah</div>
-<div class="trans-lyric">Ah, yeah, yeah, yeah</div>
-<div class="trans-lyric">Ah, yeah, yeah, yeah</div>
 <div class="trans-lyric">Ah, yeah, yeah, yeah</div>
 </div>
 
@@ -140,14 +132,12 @@ Ah, yeah, yeah, yeah
 Come on girl, you make me hot
 </div>
 <div class="trans-lyric">Come on girl, you make me hot</div>
-<div class="trans-lyric">Come on girl, you make me hot</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [03:29.25]I don't want it to stop
 </div>
-<div class="trans-lyric">I don't want it to stop</div>
 <div class="trans-lyric">I don't want it to stop</div>
 </div>
 
@@ -163,7 +153,6 @@ Come on, make me cravе it, girl, I know you know
 How to build me up to break me down
 </div>
 <div class="trans-lyric">How to build me up to break me down</div>
-<div class="trans-lyric">How to build me up to break me down</div>
 </div>
 
 <div class="lyric-line">
@@ -177,7 +166,6 @@ You know thе run around
 <div class="jp-lyric">
 Pour me up until I drown like
 </div>
-<div class="trans-lyric">Pour me up until I drown like</div>
 <div class="trans-lyric">Pour me up until I drown like</div>
 </div>
 

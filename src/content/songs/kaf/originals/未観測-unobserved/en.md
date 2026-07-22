@@ -113,8 +113,6 @@ image: /images/albums/kaf/kyoso.jpg
 [01:04.52]<ruby>いつか<rt class="roma">itsuka</rt></ruby><ruby>泥<rt class="furi">どろ</rt><rt class="roma">doro</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なる<rt class="roma">naru</rt></ruby>
 </div>
 <div class="trans-lyric">Someday we'll become mud</div>
-<div class="trans-lyric">Someday will become mud</div>
-<div class="trans-lyric">Someday we'll become mud</div>
 </div>
 
 <div class="lyric-line">
@@ -122,14 +120,12 @@ image: /images/albums/kaf/kyoso.jpg
 [01:07.05]<ruby>そして<rt class="roma">soshite</rt></ruby><ruby>未<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>観測<rt class="furi">かんそく</rt><rt class="roma">kansoku</rt></ruby><ruby>だった<rt class="roma">datta</rt></ruby><ruby>花<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>咲<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby>
 </div>
 <div class="trans-lyric">And then unobserved flowers will bloom</div>
-<div class="trans-lyric">And then unobserved flowers will bloom</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:10.76]<ruby>その<rt class="roma">sono</rt></ruby><ruby>時<rt class="furi">とき</rt><rt class="roma">toki</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>どうせ<rt class="roma">douse</rt></ruby><ruby>全部<rt class="furi">ぜんぶ</rt><rt class="roma">zenbu</rt></ruby>
 </div>
-<div class="trans-lyric">At that time, after all, everything</div>
 <div class="trans-lyric">At that time, after all, everything</div>
 </div>
 
@@ -144,7 +140,6 @@ image: /images/albums/kaf/kyoso.jpg
 <div class="jp-lyric">
 [01:17.25]<ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>泥臭<rt class="furi">どろくさ</rt><rt class="roma">dorokusa</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>不可解<rt class="furi">ふかかい</rt><rt class="roma">fukakai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>意味<rt class="furi">いみ</rt><rt class="roma">imi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>お<rt class="roma">o</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">For now, let's sing of earthy, incomprehensible meanings</div>
 <div class="trans-lyric">For now, let's sing of earthy, incomprehensible meanings</div>
 </div>
 

@@ -92,7 +92,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 <ruby>時代<rt class="furi">じだい</rt><rt class="roma">jidai</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>流<rt class="furi">ながれ</rt><rt class="roma">nagare</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>深雪<rt class="furi">みゆき</rt><rt class="roma">miyuki</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>密<rt class="furi">みつ</rt><rt class="roma">mitsu</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>比翼<rt class="furi">ひよく</rt><rt class="roma">hiyoku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>芽<rt class="furi">め</rt><rt class="roma">me</rt></ruby>
 </div>
 <div class="trans-lyric">The deep snow of the times conceals the sprout of paired wings</div>
-<div class="trans-lyric">The deep snow of the times conceals the sprout of paired wings</div>
 </div>
 
 <div class="lyric-line">

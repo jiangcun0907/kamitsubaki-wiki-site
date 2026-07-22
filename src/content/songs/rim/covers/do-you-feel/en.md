@@ -33,9 +33,8 @@ Do you feel appears on CHOCOLATE LIVE2 or a related official release. Entries ar
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:09.47]Do you feel the way I do
+Do you feel the way I do
 </div>
-<div class="trans-lyric">Do you feel the way I do</div>
 <div class="trans-lyric">Do you feel the way I do</div>
 </div>
 
@@ -44,9 +43,6 @@ Do you feel appears on CHOCOLATE LIVE2 or a related official release. Entries ar
 Tell me now oh tell me now
 </div>
 <div class="trans-lyric">Tell me now oh tell me now</div>
-<div class="trans-lyric">Tell me now oh tell me now</div>
-<div class="trans-lyric">Tell me now oh tell me now</div>
-<div class="trans-lyric">Tell me now oh tell me now</div>
 </div>
 
 <div class="lyric-line">
@@ -54,28 +50,19 @@ Tell me now oh tell me now
 I need to know that it's true
 </div>
 <div class="trans-lyric">I need to know that it's true</div>
-<div class="trans-lyric">I need to know that it's true</div>
-<div class="trans-lyric">I need to know that it's true</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:09.47]Oh do you feel the way I do
+Oh do you feel the way I do
 </div>
-<div class="trans-lyric">Oh do you feel the way I do</div>
-<div class="trans-lyric">Oh do you feel the way I do</div>
 <div class="trans-lyric">Oh do you feel the way I do</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:22.62]I need to know
+I need to know
 </div>
-<div class="trans-lyric">I need to know</div>
-<div class="trans-lyric">I need to know</div>
-<div class="trans-lyric">I need to know</div>
-<div class="trans-lyric">I need to know</div>
-<div class="trans-lyric">I need to know</div>
 <div class="trans-lyric">I need to know</div>
 </div>
 
@@ -83,7 +70,7 @@ I need to know that it's true
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:09.47]Do you love me the way I love you
+Do you love me the way I love you
 </div>
 <div class="trans-lyric">Do you love me the way I love you</div>
 </div>
@@ -102,7 +89,7 @@ I need to know that it's true
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:09.47]Oh fo you feel the way I do
+Oh fo you feel the way I do
 </div>
 <div class="trans-lyric">Oh fo you feel the way I do</div>
 </div>
@@ -120,7 +107,6 @@ I need to know
 The world is a wonderful place
 </div>
 <div class="trans-lyric">The world is a wonderful place</div>
-<div class="trans-lyric">The world is a wonderful place</div>
 </div>
 
 <div class="lyric-line">
@@ -134,7 +120,6 @@ It spins around and spins around
 <div class="jp-lyric">
 The world has a magic about it
 </div>
-<div class="trans-lyric">The world has a magic about it</div>
 <div class="trans-lyric">The world has a magic about it</div>
 </div>
 
@@ -169,7 +154,7 @@ Tell me now oh tell me now
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:16.93]Is it all that it seems
+Is it all that it seems
 </div>
 <div class="trans-lyric">Is it all that it seems</div>
 </div>
@@ -268,21 +253,21 @@ I need to know
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:03.79]Do you feel the same way
+Do you feel the same way
 </div>
 <div class="trans-lyric">Do you feel the same way</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:03.79]Do you feel the same way I do
+Do you feel the same way I do
 </div>
 <div class="trans-lyric">Do you feel the same way I do</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:03.79]Do you feel like I do
+Do you feel like I do
 </div>
 <div class="trans-lyric">Do you feel like I do</div>
 </div>

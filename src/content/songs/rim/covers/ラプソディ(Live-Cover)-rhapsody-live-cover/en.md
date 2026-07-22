@@ -92,7 +92,6 @@ image: /images/albums/rim/chocolate-live-4.jpg
 [00:44.95]Bad mind <ruby>は<rt class="roma">wa</rt></ruby> <ruby>おさらば<rt class="roma">osaraba</rt></ruby>
 </div>
 <div class="trans-lyric">Say goodbye to the bad mind</div>
-<div class="trans-lyric">Say goodbye to the bad mind</div>
 </div>
 
 <div class="lyric-line">
@@ -107,8 +106,6 @@ image: /images/albums/rim/chocolate-live-4.jpg
 [00:52.64]<ruby>踊<rt class="furi">おど</rt><rt class="roma">odo</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>鼻歌<rt class="furi">はなうた</rt><rt class="roma">hanauta</rt></ruby> <ruby>奏<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>でる<rt class="roma">deru</rt></ruby>
 </div>
 <div class="trans-lyric">Humming a dancing tune, I play</div>
-<div class="trans-lyric">Humming a dancing tune, I play</div>
-<div class="trans-lyric">Humming a dancing tune, I play</div>
 </div>
 
 <div class="lyric-line">
@@ -116,16 +113,12 @@ image: /images/albums/rim/chocolate-live-4.jpg
 [00:55.65]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>の<rt class="roma">no</rt></ruby> <ruby>ラプソディ<rt class="roma">rapusodei</rt></ruby>
 </div>
 <div class="trans-lyric">My own rhapsody</div>
-<div class="trans-lyric">My own rhapsody</div>
-<div class="trans-lyric">My own rhapsody</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:58.47]<ruby>胸<rt class="furi">むね</rt><rt class="roma">mune</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>内<rt class="furi">うち</rt><rt class="roma">uchi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>かけ<rt class="roma">kake</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>鍵<rt class="furi">かぎ</rt><rt class="roma">kagi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
-<div class="trans-lyric">The key I placed in my heart</div>
-<div class="trans-lyric">The key I placed in my heart</div>
 <div class="trans-lyric">The key I placed in my heart</div>
 </div>
 
@@ -140,8 +133,6 @@ image: /images/albums/rim/chocolate-live-4.jpg
 <div class="jp-lyric">
 [01:08.26]<ruby>行く先<rt class="furi">ゆくさき</rt><rt class="roma">yukusaki</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>一<rt class="furi">ひと</rt><rt class="roma">hito</rt></ruby><ruby>つ<rt class="roma">tsu</rt></ruby> <ruby>きらり<rt class="roma">kirari</rt></ruby><ruby>光<rt class="furi">ひか</rt><rt class="roma">hika</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>明日<rt class="furi">あした</rt><rt class="roma">ashita</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
 </div>
-<div class="trans-lyric">The destination is one, towards a sparkling tomorrow</div>
-<div class="trans-lyric">The destination is one, towards a sparkling tomorrow</div>
 <div class="trans-lyric">The destination is one, towards a sparkling tomorrow</div>
 </div>
 

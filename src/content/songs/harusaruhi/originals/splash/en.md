@@ -33,7 +33,7 @@ Splash. (feat. 春猿火) appears on Splash. or a related official release. Entr
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:49.21]Yeah, yeah
+Yeah, yeah
 </div>
 <div class="trans-lyric">Yeah, yeah</div>
 </div>
@@ -63,11 +63,8 @@ Let's go
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:30.73]Time to make it bounce like woah
+Time to make it bounce like woah
 </div>
-<div class="trans-lyric">Time to make it bounce like woah</div>
-<div class="trans-lyric">Time to make it bounce like woah</div>
-<div class="trans-lyric">Time to make it bounce like woah</div>
 <div class="trans-lyric">Time to make it bounce like woah</div>
 </div>
 
@@ -76,18 +73,12 @@ Let's go
 어지러운 떨림
 </div>
 <div class="trans-lyric">Dizzying tremor</div>
-<div class="trans-lyric">Dizzying tremor</div>
-<div class="trans-lyric">Dizzying tremor</div>
-<div class="trans-lyric">Dizzying tremor</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 처음 본 아름다움
 </div>
-<div class="trans-lyric">First-seen beauty</div>
-<div class="trans-lyric">First-seen beauty</div>
-<div class="trans-lyric">First-seen beauty</div>
 <div class="trans-lyric">First-seen beauty</div>
 </div>
 
@@ -96,18 +87,12 @@ Let's go
 거침없이 diving down, down, down
 </div>
 <div class="trans-lyric">Without hesitation diving down, down, down</div>
-<div class="trans-lyric">Without hesitation diving down, down, down</div>
-<div class="trans-lyric">Without hesitation diving down, down, down</div>
-<div class="trans-lyric">Without hesitation diving down, down, down</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 지금까지 느껴본 적 없는 신세계
 </div>
-<div class="trans-lyric">A new world never felt before</div>
-<div class="trans-lyric">A new world never felt before</div>
-<div class="trans-lyric">A new world never felt before</div>
 <div class="trans-lyric">A new world never felt before</div>
 </div>
 
@@ -116,17 +101,12 @@ Let's go
 몸을 맡겨 던져 움직여봐
 </div>
 <div class="trans-lyric">Trust your body, throw yourself, and move</div>
-<div class="trans-lyric">Trust your body, throw yourself, and move</div>
-<div class="trans-lyric">Trust your body, throw yourself, and move</div>
-<div class="trans-lyric">Trust your body, throw yourself, and move</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Make it pop, make it woop!
 </div>
-<div class="trans-lyric">Make it pop, make it woop!</div>
-<div class="trans-lyric">Make it pop, make it woop!</div>
 <div class="trans-lyric">Make it pop, make it woop!</div>
 </div>
 
@@ -162,7 +142,7 @@ Make it pop, make it woop!
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:16.91]Who be the one that be looking at me?
+Who be the one that be looking at me?
 </div>
 <div class="trans-lyric">Who be the one that be looking at me?</div>
 </div>
@@ -220,14 +200,14 @@ I can't say no more
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:06.47]Feeling so, so hot
+Feeling so, so hot
 </div>
 <div class="trans-lyric">Feeling so, so hot</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:02.92]멀리 go, go, oh, oh
+멀리 go, go, oh, oh
 </div>
 <div class="trans-lyric">Far away go, go, oh, oh</div>
 </div>
@@ -295,16 +275,12 @@ Make it pop, make it woop!
 날 이끄는 느낌 그 물결 따라
 </div>
 <div class="trans-lyric">Following the feeling that guides me, that wave</div>
-<div class="trans-lyric">Following the feeling that guides me, that wave</div>
-<div class="trans-lyric">Following the feeling that guides me, that wave</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 위험해도 가야 해 더 빨리
 </div>
-<div class="trans-lyric">Even if dangerous, I must go faster</div>
-<div class="trans-lyric">Even if dangerous, I must go faster</div>
 <div class="trans-lyric">Even if dangerous, I must go faster</div>
 </div>
 
@@ -313,16 +289,12 @@ Make it pop, make it woop!
 돌이킬 수 없어
 </div>
 <div class="trans-lyric">Can't turn back</div>
-<div class="trans-lyric">Can't turn back</div>
-<div class="trans-lyric">Can't turn back</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 I'm not back, I'm not back, back
 </div>
-<div class="trans-lyric">I'm not back, I'm not back, back</div>
-<div class="trans-lyric">I'm not back, I'm not back, back</div>
 <div class="trans-lyric">I'm not back, I'm not back, back</div>
 </div>
 
@@ -331,16 +303,12 @@ I'm not back, I'm not back, back
 걷잡을 수 없이
 </div>
 <div class="trans-lyric">Uncontrollably</div>
-<div class="trans-lyric">Uncontrollably</div>
-<div class="trans-lyric">Uncontrollably</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 커진 꿈 그 위로
 </div>
-<div class="trans-lyric">Above the ever-growing dream</div>
-<div class="trans-lyric">Above the ever-growing dream</div>
 <div class="trans-lyric">Above the ever-growing dream</div>
 </div>
 
@@ -413,14 +381,14 @@ Three-six-five, burn it up
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:06.47]높이 so, so high
+높이 so, so high
 </div>
 <div class="trans-lyric">High so, so high</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:02.92]계속 go, go, oh, oh
+계속 go, go, oh, oh
 </div>
 <div class="trans-lyric">Keep going go, go, oh, oh</div>
 </div>
@@ -615,7 +583,7 @@ Time to make it bounce like woah
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:06.47]Woah
+Woah
 </div>
 <div class="trans-lyric">Woah</div>
 </div>
@@ -624,7 +592,7 @@ Time to make it bounce like woah
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:30.73]Timе to make it bounce like woah
+Timе to make it bounce like woah
 </div>
 <div class="trans-lyric">Time to make it bounce like woah</div>
 </div>

@@ -96,14 +96,12 @@ image: /images/albums/harusaruhi/glitch-stage.jpg
 <ruby>左手<rt class="furi">ひだりて</rt><rt class="roma">hidarite</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>伝<rt class="furi">つた</rt><rt class="roma">tsuta</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>色<rt class="furi">いろ</rt><rt class="roma">iro</rt></ruby>
 </div>
 <div class="trans-lyric">The color running down my left hand</div>
-<div class="trans-lyric">The color running down my left hand</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>その<rt class="roma">sono</rt></ruby><ruby>双<rt class="furi">そう</rt><rt class="roma">sou</rt></ruby><ruby>耳<rt class="furi">みみ</rt><rt class="roma">mimi</rt></ruby>（<ruby>そう<rt class="roma">sou</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby>）<ruby>を<rt class="roma">wo</rt></ruby><ruby>揺<rt class="furi">ゆ</rt><rt class="roma">yu</rt></ruby><ruby>らす<rt class="roma">rasu</rt></ruby><ruby>音<rt class="furi">おと</rt><rt class="roma">oto</rt></ruby>
 </div>
-<div class="trans-lyric">The sound that sways those ears</div>
 <div class="trans-lyric">The sound that sways those ears</div>
 </div>
 
@@ -112,14 +110,12 @@ image: /images/albums/harusaruhi/glitch-stage.jpg
 <ruby>逆立<rt class="furi">さかだ</rt><rt class="roma">sakada</rt></ruby><ruby>ち<rt class="roma">chi</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>埋<rt class="furi">う</rt><rt class="roma">u</rt></ruby><ruby>める<rt class="roma">meru</rt></ruby><ruby>白<rt class="furi">しろ</rt><rt class="roma">shiro</rt></ruby>（<ruby>はく<rt class="roma">haku</rt></ruby>）
 </div>
 <div class="trans-lyric">The white that fills when turned upside down</div>
-<div class="trans-lyric">The white that fills when turned upside down</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>サラサラ<rt class="roma">sarasara</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>落<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>ちる<rt class="roma">chiru</rt></ruby><ruby>過去<rt class="furi">かこ</rt><rt class="roma">kako</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>未来<rt class="furi">みらい</rt><rt class="roma">mirai</rt></ruby>
 </div>
-<div class="trans-lyric">The past that falls softly becomes the future</div>
 <div class="trans-lyric">The past that falls softly becomes the future</div>
 </div>
 
@@ -129,7 +125,6 @@ image: /images/albums/harusaruhi/glitch-stage.jpg
 <div class="jp-lyric">
 <ruby>降り注<rt class="furi">ふりそそ</rt><rt class="roma">furisoso</rt></ruby><ruby>ぐ<rt class="roma">gu</rt></ruby><ruby>今日<rt class="furi">きょう</rt><rt class="roma">kyou</rt></ruby> <ruby>降り積<rt class="furi">ふりつ</rt><rt class="roma">furitsu</rt></ruby><ruby>もる<rt class="roma">moru</rt></ruby><ruby>昨日<rt class="furi">きのう</rt><rt class="roma">kinou</rt></ruby>
 </div>
-<div class="trans-lyric">The pouring today, the accumulating yesterday</div>
 <div class="trans-lyric">The pouring today, the accumulating yesterday</div>
 </div>
 
@@ -147,14 +142,12 @@ image: /images/albums/harusaruhi/glitch-stage.jpg
 <ruby>思い返<rt class="furi">おもいかえ</rt><rt class="roma">omoikae</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>の<rt class="roma">no</rt></ruby> <ruby>繰り返<rt class="furi">くりかえ</rt><rt class="roma">kurikae</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="trans-lyric">Recalling, repeating</div>
-<div class="trans-lyric">Recalling, repeating</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>ひたすら<rt class="roma">hitasura</rt></ruby><ruby>時<rt class="furi">とき</rt><rt class="roma">toki</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>計<rt class="furi">はか</rt><rt class="roma">haka</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>鼓動<rt class="furi">こどう</rt><rt class="roma">kodou</rt></ruby>
 </div>
-<div class="trans-lyric">The heartbeat that purely measures time</div>
 <div class="trans-lyric">The heartbeat that purely measures time</div>
 </div>
 

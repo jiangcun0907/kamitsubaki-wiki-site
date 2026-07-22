@@ -38,14 +38,12 @@ image: /images/albums/kaf/kansoku.jpg
 <ruby>金色<rt class="furi">きんいろ</rt><rt class="roma">kin'iro</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>夕暮<rt class="furi">ゆうぐ</rt><rt class="roma">yuugu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby> <ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>ただ<rt class="roma">tada</rt></ruby><ruby>歩<rt class="furi">ある</rt><rt class="roma">aru</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby>
 </div>
 <div class="trans-lyric">In the golden twilight, I just walk through the present</div>
-<div class="trans-lyric">In the golden twilight, I just walk through the present</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>ちっぽけ<rt class="roma">chippoke</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>確信<rt class="furi">かくしん</rt><rt class="roma">kakushin</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby> <ruby>ぎゅっと<rt class="roma">gyutto</rt></ruby><ruby>握<rt class="furi">にぎ</rt><rt class="roma">nigi</rt></ruby><ruby>りしめ<rt class="roma">rishime</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">Clutching tightly a tiny conviction</div>
 <div class="trans-lyric">Clutching tightly a tiny conviction</div>
 </div>
 

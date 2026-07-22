@@ -48,21 +48,8 @@ In Sahara Desert says it all
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:08.85]It's a miracle
+It's a miracle
 </div>
-<div class="trans-lyric">It's a miracle</div>
-<div class="trans-lyric">It's a miracle</div>
-<div class="trans-lyric">It's a miracle</div>
-<div class="trans-lyric">It's a miracle</div>
-<div class="trans-lyric">It's a miracle</div>
-<div class="trans-lyric">It's a miracle</div>
-<div class="trans-lyric">It's a miracle</div>
-<div class="trans-lyric">It's a miracle</div>
-<div class="trans-lyric">It's a miracle</div>
-<div class="trans-lyric">It's a miracle</div>
-<div class="trans-lyric">It's a miracle</div>
-<div class="trans-lyric">It's a miracle</div>
-<div class="trans-lyric">It's a miracle</div>
 <div class="trans-lyric">It's a miracle</div>
 </div>
 
@@ -84,7 +71,6 @@ The Golden Gate and the Taj Mahal
 <div class="jp-lyric">
 That's a miracle
 </div>
-<div class="trans-lyric">That's a miracle</div>
 <div class="trans-lyric">That's a miracle</div>
 </div>
 
@@ -115,14 +101,12 @@ It's a miracle
 We're having a miracle on earth
 </div>
 <div class="trans-lyric">We're having a miracle on earth</div>
-<div class="trans-lyric">We're having a miracle on earth</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Mother nature does it all for us
 </div>
-<div class="trans-lyric">Mother nature does it all for us</div>
 <div class="trans-lyric">Mother nature does it all for us</div>
 </div>
 
@@ -135,7 +119,7 @@ The wonders of this world go on
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:08.85]The hanging Gardens of Babylon
+The hanging Gardens of Babylon
 </div>
 <div class="trans-lyric">The hanging Gardens of Babylon</div>
 </div>
@@ -182,7 +166,7 @@ It's a miracle
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:42.00]The one thing we're all waiting for
+The one thing we're all waiting for
 </div>
 <div class="trans-lyric">The one thing we're all waiting for</div>
 </div>
@@ -196,9 +180,8 @@ Is peace on earth, an end to war
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:08.85]It's a miracle we need, the miracle
+It's a miracle we need, the miracle
 </div>
-<div class="trans-lyric">It's a miracle we need, the miracle</div>
 <div class="trans-lyric">It's a miracle we need, the miracle</div>
 </div>
 
@@ -227,7 +210,7 @@ Could tell a story that would be a miracle
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:55.53]If every child on every street
+If every child on every street
 </div>
 <div class="trans-lyric">If every child on every street</div>
 </div>
@@ -362,7 +345,7 @@ It's a miracle
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:42.00]The one thing (the one thing)
+The one thing (the one thing)
 </div>
 <div class="trans-lyric">The one thing (the one thing)</div>
 </div>
@@ -415,18 +398,12 @@ Peace on earth and end to war today
 That time will come one day you'll see
 </div>
 <div class="trans-lyric">That time will come one day you'll see</div>
-<div class="trans-lyric">That time will come one day you'll see</div>
-<div class="trans-lyric">That time will come one day you'll see</div>
-<div class="trans-lyric">That time will come one day you'll see</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 When we can all be friends
 </div>
-<div class="trans-lyric">When we can all be friends</div>
-<div class="trans-lyric">When we can all be friends</div>
-<div class="trans-lyric">When we can all be friends</div>
 <div class="trans-lyric">When we can all be friends</div>
 </div>
 

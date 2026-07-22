@@ -78,18 +78,12 @@ Abstractions Void appears on Abstractions Void or a related official release. En
 [00:46.79]Why am I here?
 </div>
 <div class="trans-lyric">Why am I here?</div>
-<div class="trans-lyric">Why am I here?</div>
-<div class="trans-lyric">Why am I here?</div>
-<div class="trans-lyric">Why am I here?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:48.93]Why did I keep quiet?
 </div>
-<div class="trans-lyric">Why did I keep quiet?</div>
-<div class="trans-lyric">Why did I keep quiet?</div>
-<div class="trans-lyric">Why did I keep quiet?</div>
 <div class="trans-lyric">Why did I keep quiet?</div>
 </div>
 
@@ -98,18 +92,12 @@ Abstractions Void appears on Abstractions Void or a related official release. En
 [00:50.91]What is my point?
 </div>
 <div class="trans-lyric">What is my point?</div>
-<div class="trans-lyric">What is my point?</div>
-<div class="trans-lyric">What is my point?</div>
-<div class="trans-lyric">What is my point?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:52.87]Where is my word?
 </div>
-<div class="trans-lyric">Where is my word?</div>
-<div class="trans-lyric">Where is my word?</div>
-<div class="trans-lyric">Where is my word?</div>
 <div class="trans-lyric">Where is my word?</div>
 </div>
 
@@ -142,16 +130,12 @@ Abstractions Void appears on Abstractions Void or a related official release. En
 [01:10.04]This is what it is abstractions void
 </div>
 <div class="trans-lyric">This is what it is abstractions void</div>
-<div class="trans-lyric">This is what it is abstractions void</div>
-<div class="trans-lyric">This is what it is abstractions void</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:13.56]Blankness is what I am.
 </div>
-<div class="trans-lyric">Blankness is what I am.</div>
-<div class="trans-lyric">Blankness is what I am.</div>
 <div class="trans-lyric">Blankness is what I am.</div>
 </div>
 
@@ -160,16 +144,12 @@ Abstractions Void appears on Abstractions Void or a related official release. En
 [01:15.30]There is no actual situation.
 </div>
 <div class="trans-lyric">There is no actual situation.</div>
-<div class="trans-lyric">There is no actual situation.</div>
-<div class="trans-lyric">There is no actual situation.</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:18.23]Not even the definition can catch me
 </div>
-<div class="trans-lyric">Not even the definition can catch me</div>
-<div class="trans-lyric">Not even the definition can catch me</div>
 <div class="trans-lyric">Not even the definition can catch me</div>
 </div>
 
@@ -178,8 +158,6 @@ Abstractions Void appears on Abstractions Void or a related official release. En
 [01:21.25]Regression is the engraving
 </div>
 <div class="trans-lyric">Regression is the engraving</div>
-<div class="trans-lyric">Regression is the engraving</div>
-<div class="trans-lyric">Regression is the engraving</div>
 </div>
 
 <div class="lyric-line">
@@ -187,15 +165,12 @@ Abstractions Void appears on Abstractions Void or a related official release. En
 [01:23.31]There is all reason being negated by the inevitable phenomenon
 </div>
 <div class="trans-lyric">There is all reason being negated by the inevitable phenomenon</div>
-<div class="trans-lyric">There is all reason being negated by the inevitable phenomenon</div>
-<div class="trans-lyric">There is all reason being negated by the inevitable phenomenon</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:43.37]Now, I give away again
 </div>
-<div class="trans-lyric">Now, I give away again</div>
 <div class="trans-lyric">Now, I give away again</div>
 </div>
 

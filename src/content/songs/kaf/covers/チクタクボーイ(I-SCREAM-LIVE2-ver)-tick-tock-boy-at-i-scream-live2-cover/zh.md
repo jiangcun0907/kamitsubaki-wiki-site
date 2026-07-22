@@ -79,7 +79,6 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [00:33.82]<ruby>チクタクボーイ<rt class="roma">chikutakuboui</rt></ruby> <ruby>静<rt class="furi">しず</rt><rt class="roma">shizu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="cn-lyric">[00:33.82]滴答男孩 将这宁静的夜晚</div>
-<div class="cn-lyric">滴答男孩 将这宁静的夜晚</div>
 </div>
 
 <div class="lyric-line">
@@ -87,7 +86,6 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [00:36.54]<ruby>チクタクボーイ<rt class="roma">chikutakuboui</rt></ruby> <ruby>乗っ取<rt class="furi">のっと</rt><rt class="roma">notto</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
 <div class="cn-lyric">[00:36.54]滴答男孩 占领吧</div>
-<div class="cn-lyric">滴答男孩 占领吧</div>
 </div>
 
 <div class="lyric-line">
@@ -95,14 +93,12 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [00:39.25]<ruby>天変地異<rt class="furi">てんぺんちい</rt><rt class="roma">tenpenchii</rt></ruby><ruby>と<rt class="roma">to</rt></ruby> <ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>終<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>わり<rt class="roma">wari</rt></ruby>
 </div>
 <div class="cn-lyric">[00:39.25]天崩地裂 与世界末日</div>
-<div class="cn-lyric">天崩地裂 与世界末日</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:41.96]<ruby>止<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>める<rt class="roma">meru</rt></ruby><ruby>スイッチ<rt class="roma">suitchi</rt></ruby> <ruby>ピンポン<rt class="roma">pinpon</rt></ruby><ruby>ダッシュ<rt class="roma">dasshu</rt></ruby>
 </div>
-<div class="cn-lyric">[00:41.96]停止的开关 按响门铃就跑</div>
 <div class="cn-lyric">[00:41.96]停止的开关 按响门铃就跑</div>
 </div>
 

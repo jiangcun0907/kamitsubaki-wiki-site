@@ -36,8 +36,6 @@ Sesame (Live Cover) appears on CHOCOLATE LIVE4 or a related official release. En
 Quel est le sésame de ton âme?
 </div>
 <div class="trans-lyric">What is the sesame of your soul?</div>
-<div class="trans-lyric">What is the sesame of your soul?</div>
-<div class="trans-lyric">What is the sesame of your soul?</div>
 </div>
 
 <div class="lyric-line">
@@ -100,7 +98,6 @@ Quel est le sésame de ton âme?
 Le rêve qui t'enflamme
 </div>
 <div class="trans-lyric">The dream that ignites you</div>
-<div class="trans-lyric">The dream that ignites you</div>
 </div>
 
 <br />
@@ -124,15 +121,12 @@ Voyons si le lit a du ressort
 Pour toi
 </div>
 <div class="trans-lyric">For you</div>
-<div class="trans-lyric">For you</div>
-<div class="trans-lyric">For you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Je f'rais n'importe quoi
 </div>
-<div class="trans-lyric">I'd do anything</div>
 <div class="trans-lyric">I'd do anything</div>
 </div>
 

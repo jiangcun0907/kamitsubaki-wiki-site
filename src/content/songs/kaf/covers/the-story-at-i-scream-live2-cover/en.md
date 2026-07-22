@@ -92,16 +92,12 @@ Out laughing at idiocy
 I need a gingerbread man, the one I'll feed
 </div>
 <div class="trans-lyric">I need a gingerbread man, the one I'll feed</div>
-<div class="trans-lyric">I need a gingerbread man, the one I'll feed</div>
-<div class="trans-lyric">I need a gingerbread man, the one I'll feed</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 The gingerbread man, the one I'll eat
 </div>
-<div class="trans-lyric">The gingerbread man, the one I'll eat</div>
-<div class="trans-lyric">The gingerbread man, the one I'll eat</div>
 <div class="trans-lyric">The gingerbread man, the one I'll eat</div>
 </div>
 
@@ -110,8 +106,6 @@ The gingerbread man, the one I'll eat
 One who's always crazy
 </div>
 <div class="trans-lyric">One who's always crazy</div>
-<div class="trans-lyric">One who's always crazy</div>
-<div class="trans-lyric">One who's always crazy</div>
 </div>
 
 <div class="lyric-line">
@@ -119,16 +113,12 @@ One who's always crazy
 Never calls me baby
 </div>
 <div class="trans-lyric">Never calls me baby</div>
-<div class="trans-lyric">Never calls me baby</div>
-<div class="trans-lyric">Never calls me baby</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:30.70]That's the one that I want
+That's the one that I want
 </div>
-<div class="trans-lyric">That's the one that I want</div>
-<div class="trans-lyric">That's the one that I want</div>
 <div class="trans-lyric">That's the one that I want</div>
 </div>
 
@@ -136,8 +126,6 @@ Never calls me baby
 <div class="jp-lyric">
 All you boys are not him, him
 </div>
-<div class="trans-lyric">All you boys are not him, him</div>
-<div class="trans-lyric">All you boys are not him, him</div>
 <div class="trans-lyric">All you boys are not him, him</div>
 </div>
 
@@ -152,7 +140,7 @@ Can't you see?
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:23.07]I only want the ones who never see me
+I only want the ones who never see me
 </div>
 <div class="trans-lyric">I only want the ones who never see me</div>
 </div>
@@ -180,7 +168,7 @@ It bleeds jelly
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:48.01]Cause you don't want someone to eat your cookie
+Cause you don't want someone to eat your cookie
 </div>
 <div class="trans-lyric">Cause you don't want someone to eat your cookie</div>
 </div>

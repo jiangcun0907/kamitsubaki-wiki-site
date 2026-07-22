@@ -36,18 +36,12 @@ image: /images/albums/koko/prayer-2.jpg
 Slash slash till the mothafuccin wig split
 </div>
 <div class="cn-lyric">砍砍砍直到那该死的假发裂开</div>
-<div class="cn-lyric">砍砍砍直到那该死的假发裂开</div>
-<div class="cn-lyric">砍砍砍直到那该死的假发裂开</div>
-<div class="cn-lyric">砍砍砍直到那该死的假发裂开</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Head gone by the time i finna dip dip
 </div>
-<div class="cn-lyric">当我准备溜走时头已经没了</div>
-<div class="cn-lyric">当我准备溜走时头已经没了</div>
-<div class="cn-lyric">当我准备溜走时头已经没了</div>
 <div class="cn-lyric">当我准备溜走时头已经没了</div>
 </div>
 
@@ -56,18 +50,12 @@ Head gone by the time i finna dip dip
 Say bye bye when the devil make his round trip
 </div>
 <div class="cn-lyric">当魔鬼来回一趟时就说拜拜</div>
-<div class="cn-lyric">当魔鬼来回一趟时就说拜拜</div>
-<div class="cn-lyric">当魔鬼来回一趟时就说拜拜</div>
-<div class="cn-lyric">当魔鬼来回一趟时就说拜拜</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Say goodnight cause im bout to hit the last swing
 </div>
-<div class="cn-lyric">说晚安因为我要挥出最后一击</div>
-<div class="cn-lyric">说晚安因为我要挥出最后一击</div>
-<div class="cn-lyric">说晚安因为我要挥出最后一击</div>
 <div class="cn-lyric">说晚安因为我要挥出最后一击</div>
 </div>
 

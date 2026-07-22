@@ -66,9 +66,6 @@ Tempest (feat. 幸祜) appears on Tempest or a related official release. Entries
 [00:42.55]Give it some thought before you fall
 </div>
 <div class="trans-lyric">Give it some thought before you fall</div>
-<div class="trans-lyric">Give it some thought before you fall</div>
-<div class="trans-lyric">Give it some thought before you fall</div>
-<div class="trans-lyric">Give it some thought before you fall</div>
 </div>
 
 <div class="lyric-line">
@@ -114,14 +111,12 @@ Tempest (feat. 幸祜) appears on Tempest or a related official release. Entries
 [01:16.73]I won't turn away
 </div>
 <div class="trans-lyric">I won't turn away</div>
-<div class="trans-lyric">I won't turn away</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:21.80]As you sail away from the shore
 </div>
-<div class="trans-lyric">As you sail away from the shore</div>
 <div class="trans-lyric">As you sail away from the shore</div>
 </div>
 
@@ -130,14 +125,12 @@ Tempest (feat. 幸祜) appears on Tempest or a related official release. Entries
 [01:26.72]I'm a castaway
 </div>
 <div class="trans-lyric">I'm a castaway</div>
-<div class="trans-lyric">I'm a castaway</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:31.43]But I was dead and buried long before
 </div>
-<div class="trans-lyric">But I was dead and buried long before</div>
 <div class="trans-lyric">But I was dead and buried long before</div>
 </div>
 

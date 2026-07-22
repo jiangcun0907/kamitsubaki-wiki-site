@@ -141,14 +141,12 @@ image: /images/albums/rim/singularity-live.jpg
 <ruby>運命<rt class="furi">うんめい</rt><rt class="roma">unmei</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>取り戻<rt class="furi">とりもど</rt><rt class="roma">torimodo</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>々<rt class="furi">々</rt><rt class="roma">々</rt></ruby>！
 </div>
 <div class="cn-lyric">夺回命运 就在此刻！</div>
-<div class="cn-lyric">夺回命运 就在此刻！</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>壁<rt class="furi">かべ</rt><rt class="roma">kabe</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>取り払<rt class="furi">とりはら</rt><rt class="roma">torihara</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby> <ruby>ディメンション<rt class="roma">deimenshon</rt></ruby>
 </div>
-<div class="cn-lyric">拆除墙壁 维度</div>
 <div class="cn-lyric">拆除墙壁 维度</div>
 </div>
 
@@ -178,14 +176,12 @@ image: /images/albums/rim/singularity-live.jpg
 <ruby>喰<rt class="furi">く</rt><rt class="roma">ku</rt></ruby><ruby>らい<rt class="roma">rai</rt></ruby><ruby>尽<rt class="furi">つ</rt><rt class="roma">tsu</rt></ruby><ruby>くせ<rt class="roma">kuse</rt></ruby> <ruby>絶対<rt class="furi">ぜったい</rt><rt class="roma">zettai</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>離<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="cn-lyric">吞噬殆尽 绝不放开</div>
-<div class="cn-lyric">吞噬殆尽 绝不放开</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 「<ruby>もう<rt class="roma">mou</rt></ruby><ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>いら<rt class="roma">ira</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>」
 </div>
-<div class="cn-lyric">“已经什么都不需要了”</div>
 <div class="cn-lyric">“已经什么都不需要了”</div>
 </div>
 

@@ -85,8 +85,6 @@ image: /images/albums/kaf/kyoso-gamma.jpg
 [00:31.42]<ruby>海<rt class="furi">うみ</rt><rt class="roma">umi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なって<rt class="roma">natte</rt></ruby><ruby>しまった<rt class="roma">shimatta</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby>
 </div>
 <div class="trans-lyric">I became the sea</div>
-<div class="trans-lyric">Became the sea</div>
-<div class="trans-lyric">I became the sea</div>
 </div>
 
 <div class="lyric-line">

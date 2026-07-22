@@ -191,7 +191,6 @@ image: /images/songs/isekaijoucho/single-1678038938.jpg
 [01:33.62]Revive
 </div>
 <div class="trans-lyric">Revive</div>
-<div class="trans-lyric">Revive</div>
 </div>
 
 <div class="lyric-line">

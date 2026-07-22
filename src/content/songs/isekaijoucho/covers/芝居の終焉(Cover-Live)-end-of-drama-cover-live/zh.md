@@ -78,14 +78,12 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [00:29.93]<ruby>笑<rt class="furi">わら</rt><rt class="roma">wara</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>泣<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="cn-lyric">[00:29.93]无论笑着还是哭着</div>
-<div class="cn-lyric">[00:29.93]无论笑着还是哭着</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:33.38]<ruby>借り物<rt class="furi">かりもの</rt><rt class="roma">karimono</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>エモ<rt class="roma">emo</rt></ruby> <ruby>全部<rt class="furi">ぜんぶ</rt><rt class="roma">zenbu</rt></ruby><ruby>偽物<rt class="furi">にせもの</rt><rt class="roma">nisemono</rt></ruby><ruby>じゃん<rt class="roma">jan</rt></ruby>
 </div>
-<div class="cn-lyric">[00:33.38]借来的情感 全都是虚假的吧</div>
 <div class="cn-lyric">[00:33.38]借来的情感 全都是虚假的吧</div>
 </div>
 
@@ -94,7 +92,6 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [00:37.26]<ruby>叫<rt class="furi">さけ</rt><rt class="roma">sake</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>嘘<rt class="furi">うそ</rt><rt class="roma">uso</rt></ruby><ruby>臭<rt class="furi">くさ</rt><rt class="roma">kusa</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="cn-lyric">[00:37.26]即使呐喊也显得虚假</div>
-<div class="cn-lyric">[00:37.26]即使呐喊也显得虚假</div>
 </div>
 
 <div class="lyric-line">
@@ -102,14 +99,12 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [00:40.70]<ruby>リハーサル<rt class="roma">rihaasaru</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>思<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>ってる<rt class="roma">tteru</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="cn-lyric">[00:40.70]因为以为只是排练</div>
-<div class="cn-lyric">[00:40.70]因为以为只是排练</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:44.25]<ruby>バレ<rt class="roma">bare</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>の<rt class="roma">no</rt></ruby> <ruby>もう<rt class="roma">mou</rt></ruby><ruby>本番<rt class="furi">ほんばん</rt><rt class="roma">honban</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="cn-lyric">[00:44.25]已经暴露了 已经是正式演出了</div>
 <div class="cn-lyric">[00:44.25]已经暴露了 已经是正式演出了</div>
 </div>
 
@@ -124,7 +119,6 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 <div class="jp-lyric">
 [00:51.67]<ruby>白<rt class="furi">しら</rt><rt class="roma">shira</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>切<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>ってる<rt class="roma">tteru</rt></ruby><ruby>舞台<rt class="furi">ぶたい</rt><rt class="roma">butai</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>立<rt class="furi">た</rt><rt class="roma">ta</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="cn-lyric">[00:51.67]站在冷场的舞台上</div>
 <div class="cn-lyric">[00:51.67]站在冷场的舞台上</div>
 </div>
 

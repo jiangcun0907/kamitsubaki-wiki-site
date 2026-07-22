@@ -181,7 +181,6 @@ image: /images/albums/vwp/witch-plus.jpg
 [01:39.74]<ruby>笑<rt class="furi">え</rt><rt class="roma">e</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby> <ruby>笑<rt class="furi">え</rt><rt class="roma">e</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby> <ruby>笑<rt class="furi">わら</rt><rt class="roma">wara</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
 <div class="trans-lyric">I want to smile, I want to smile, I want to keep smiling</div>
-<div class="trans-lyric">I want to smile, I want to smile, I want to keep smiling</div>
 </div>
 
 <div class="lyric-line">
@@ -194,7 +193,6 @@ image: /images/albums/vwp/witch-plus.jpg
 <div class="jp-lyric">
 [02:17.62]<ruby>笑<rt class="furi">わら</rt><rt class="roma">wara</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
-<div class="trans-lyric">I want to keep smiling</div>
 <div class="trans-lyric">I want to keep smiling</div>
 </div>
 

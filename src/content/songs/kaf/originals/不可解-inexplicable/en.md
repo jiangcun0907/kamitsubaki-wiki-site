@@ -39,7 +39,6 @@ image: /images/albums/kaf/kansoku.jpg
 [00:14.30]<ruby>お金<rt class="furi">おかね</rt><rt class="roma">okane</rt></ruby><ruby>とか<rt class="roma">toka</rt></ruby>、<ruby>ビジネス<rt class="roma">bijinesu</rt></ruby><ruby>とか<rt class="roma">toka</rt></ruby>、<ruby>効率<rt class="furi">こうりつ</rt><rt class="roma">kouritsu</rt></ruby><ruby>とか<rt class="roma">toka</rt></ruby>
 </div>
 <div class="trans-lyric">[00:14.30]Money, business, efficiency, and such</div>
-<div class="trans-lyric">Money, business, efficiency, and such</div>
 </div>
 
 <div class="lyric-line">
@@ -128,7 +127,6 @@ image: /images/albums/kaf/kansoku.jpg
 [01:00.29]<ruby>名前<rt class="furi">なまえ</rt><rt class="roma">namae</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>花<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
 <div class="trans-lyric">[01:00.29]Like a nameless flower</div>
-<div class="trans-lyric">Like a nameless flower</div>
 </div>
 
 <div class="lyric-line">
@@ -136,14 +134,12 @@ image: /images/albums/kaf/kansoku.jpg
 [01:03.29]<ruby>悠<rt class="furi">ゆう</rt><rt class="roma">yuu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>咲き乱<rt class="furi">さきみだ</rt><rt class="roma">sakimida</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby><ruby>この<rt class="roma">kono</rt></ruby><ruby>号<rt class="furi">ごう</rt><rt class="roma">gou</rt></ruby>哭<ruby>が<rt class="roma">ga</rt></ruby>
 </div>
 <div class="trans-lyric">[01:03.29]This lament blooming leisurely in profusion</div>
-<div class="trans-lyric">This lament blooming leisurely in profusion</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:06.29]<ruby>やり<rt class="roma">yari</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>すら<rt class="roma">sura</rt></ruby><ruby>でき<rt class="roma">deki</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">Unable to even do what I want</div>
 <div class="trans-lyric">Unable to even do what I want</div>
 </div>
 
@@ -152,7 +148,6 @@ image: /images/albums/kaf/kansoku.jpg
 [01:08.29]<ruby>身動<rt class="furi">みうご</rt><rt class="roma">miugo</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>すら<rt class="roma">sura</rt></ruby><ruby>取<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>、<ruby>さびれ<rt class="roma">sabire</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>心臓<rt class="furi">しんぞう</rt><rt class="roma">shinzou</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>咲<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="trans-lyric">[01:08.29]Bloomed in a withered heart that cannot even move</div>
-<div class="trans-lyric">Bloomed in a withered heart that cannot even move</div>
 </div>
 
 <div class="lyric-line">
@@ -167,7 +162,6 @@ image: /images/albums/kaf/kansoku.jpg
 [01:15.29]<ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>表<rt class="furi">あらわ</rt><rt class="roma">arawa</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">[01:15.29]Cannot be expressed in words</div>
-<div class="trans-lyric">Cannot be expressed in words</div>
 </div>
 
 <div class="lyric-line">

@@ -96,16 +96,12 @@ image: /images/songs/koko/single-1687478650.jpg
 <ruby>夜光<rt class="furi">やこう</rt><rt class="roma">yakou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>翳<rt class="furi">かざ</rt><rt class="roma">kaza</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby><ruby>非対称<rt class="furi">ひたいしょう</rt><rt class="roma">hitaishou</rt></ruby>
 </div>
 <div class="cn-lyric">夜光遮蔽着的不对称</div>
-<div class="cn-lyric">夜光遮蔽着的不对称</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:02.64](just be recall your memory ha)
 </div>
-<div class="cn-lyric">[01:02.64](just be recall your memory ha)</div>
-<div class="cn-lyric">[01:02.64](just be recall your memory ha)</div>
-<div class="cn-lyric">[01:02.64](just be recall your memory ha)</div>
 <div class="cn-lyric">[01:02.64](just be recall your memory ha)</div>
 </div>
 
@@ -114,16 +110,12 @@ image: /images/songs/koko/single-1687478650.jpg
 <ruby>救世<rt class="furi">きゅうせい</rt><rt class="roma">kyuusei</rt></ruby><ruby>幻想<rt class="furi">げんそう</rt><rt class="roma">gensou</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="cn-lyric">从救世幻想中</div>
-<div class="cn-lyric">从救世幻想中</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:08.76](I can hear the voice calling you back)
 </div>
-<div class="cn-lyric">[01:08.76](I can hear the voice calling you back)</div>
-<div class="cn-lyric">[01:08.76](I can hear the voice calling you back)</div>
-<div class="cn-lyric">[01:08.76](I can hear the voice calling you back)</div>
 <div class="cn-lyric">[01:08.76](I can hear the voice calling you back)</div>
 </div>
 
@@ -139,16 +131,12 @@ image: /images/songs/koko/single-1687478650.jpg
 [01:13.07](just be recall your promise words)
 </div>
 <div class="cn-lyric">[01:13.07](just be recall your promise words)</div>
-<div class="cn-lyric">[01:13.07](just be recall your promise words)</div>
-<div class="cn-lyric">[01:13.07](just be recall your promise words)</div>
-<div class="cn-lyric">[01:13.07](just be recall your promise words)</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>街<rt class="furi">まち</rt><rt class="roma">machi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>慟哭<rt class="furi">どうこく</rt><rt class="roma">doukoku</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
-<div class="cn-lyric">从街道的恸哭中</div>
 <div class="cn-lyric">从街道的恸哭中</div>
 </div>
 

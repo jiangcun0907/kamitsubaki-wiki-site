@@ -66,7 +66,6 @@ Was it real or just fantasy?
 Your phantom sits with me
 </div>
 <div class="trans-lyric">Your phantom sits with me</div>
-<div class="trans-lyric">Your phantom sits with me</div>
 </div>
 
 <div class="lyric-line">
@@ -74,14 +73,12 @@ Your phantom sits with me
 When I'm all alone
 </div>
 <div class="trans-lyric">When I'm all alone</div>
-<div class="trans-lyric">When I'm all alone</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 I love you still
 </div>
-<div class="trans-lyric">I love you still</div>
 <div class="trans-lyric">I love you still</div>
 </div>
 

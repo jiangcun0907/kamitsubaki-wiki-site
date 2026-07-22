@@ -96,7 +96,6 @@ image: /images/albums/koko/prayer.jpg
 [00:48.03]<ruby>わから<rt class="roma">wakara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> <ruby>この<rt class="roma">kono</rt></ruby><ruby>先<rt class="furi">さき</rt><rt class="roma">saki</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="cn-lyric">[00:48.03]不知道 未来也是</div>
-<div class="cn-lyric">不知道 未来也是</div>
 </div>
 
 <div class="lyric-line">
@@ -127,9 +126,6 @@ image: /images/albums/koko/prayer.jpg
 [01:04.22]<ruby>ここ<rt class="roma">koko</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>始<rt class="furi">はじ</rt><rt class="roma">haji</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>ましょ<rt class="roma">masho</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="cn-lyric">[01:04.22]从这里开始吧</div>
-<div class="cn-lyric">从这里开始吧</div>
-<div class="cn-lyric">从这里开始吧</div>
-<div class="cn-lyric">从这里开始吧</div>
 </div>
 
 <div class="lyric-line">
@@ -137,7 +133,6 @@ image: /images/albums/koko/prayer.jpg
 [01:06.03]<ruby>霧<rt class="furi">きり</rt><rt class="roma">kiri</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>抜け出<rt class="furi">ぬけだ</rt><rt class="roma">nukeda</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>やっと<rt class="roma">yatto</rt></ruby>
 </div>
 <div class="cn-lyric">[01:06.03]终于挣脱迷雾</div>
-<div class="cn-lyric">终于挣脱迷雾</div>
 </div>
 
 <div class="lyric-line">
@@ -145,7 +140,6 @@ image: /images/albums/koko/prayer.jpg
 [01:08.18]<ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>入<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>思想<rt class="furi">しそう</rt><rt class="roma">shisou</rt></ruby><ruby>概念<rt class="furi">がいねん</rt><rt class="roma">gainen</rt></ruby>
 </div>
 <div class="cn-lyric">[01:08.18]得到的思想概念</div>
-<div class="cn-lyric">得到的思想概念</div>
 </div>
 
 <div class="lyric-line">
@@ -160,8 +154,6 @@ image: /images/albums/koko/prayer.jpg
 [01:12.35]<ruby>忘<rt class="furi">わす</rt><rt class="roma">wasu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>閉<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>ざさ<rt class="roma">zasa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="cn-lyric">[01:12.35]不要忘记 不要封闭</div>
-<div class="cn-lyric">不要忘记 不要封闭</div>
-<div class="cn-lyric">不要忘记 不要封闭</div>
 </div>
 
 <div class="lyric-line">
@@ -169,7 +161,6 @@ image: /images/albums/koko/prayer.jpg
 [01:15.79]<ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>拠り所<rt class="furi">よりどころ</rt><rt class="roma">yoridokoro</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>此処<rt class="furi">ここ</rt><rt class="roma">koko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>ある<rt class="roma">aru</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="cn-lyric">[01:15.79]因为心灵的归宿就在这里</div>
-<div class="cn-lyric">因为心灵的归宿就在这里</div>
 </div>
 
 <div class="lyric-line">
@@ -177,8 +168,6 @@ image: /images/albums/koko/prayer.jpg
 [01:20.13]<ruby>平行<rt class="furi">へいこう</rt><rt class="roma">heikou</rt></ruby><ruby>線<rt class="furi">せん</rt><rt class="roma">sen</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>笑<rt class="furi">わら</rt><rt class="roma">wara</rt></ruby><ruby>う<rt class="roma">u</rt></ruby> <ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[01:20.13]看着我 在平行线上微笑</div>
-<div class="cn-lyric">看着我 在平行线上微笑</div>
-<div class="cn-lyric">看着我 在平行线上微笑</div>
 </div>
 
 <div class="lyric-line">
@@ -186,8 +175,6 @@ image: /images/albums/koko/prayer.jpg
 [01:26.37]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>つけ<rt class="roma">tsuke</rt></ruby>
 </div>
 <div class="cn-lyric">[01:26.37]找到你</div>
-<div class="cn-lyric">找到你</div>
-<div class="cn-lyric">找到你</div>
 </div>
 
 <div class="lyric-line">
@@ -195,8 +182,6 @@ image: /images/albums/koko/prayer.jpg
 [01:28.46]<ruby>交<rt class="furi">まじ</rt><rt class="roma">maji</rt></ruby><ruby>わった<rt class="roma">watta</rt></ruby><ruby>光<rt class="furi">ひかり</rt><rt class="roma">hikari</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>音<rt class="furi">おと</rt><rt class="roma">oto</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>乗<rt class="furi">の</rt><rt class="roma">no</rt></ruby><ruby>せる<rt class="roma">seru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:28.46]将交汇的光芒载入声音</div>
-<div class="cn-lyric">将交汇的光芒载入声音</div>
-<div class="cn-lyric">将交汇的光芒载入声音</div>
 </div>
 
 <div class="lyric-line">
@@ -204,7 +189,6 @@ image: /images/albums/koko/prayer.jpg
 [01:32.25]<ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>風<rt class="furi">ふう</rt><rt class="roma">fuu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>触<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>あの<rt class="roma">ano</rt></ruby><ruby>日<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>メモリー<rt class="roma">memorii</rt></ruby>
 </div>
 <div class="cn-lyric">[01:32.25]触碰到夜风的 那天的记忆</div>
-<div class="cn-lyric">触碰到夜风的 那天的记忆</div>
 </div>
 
 <br />

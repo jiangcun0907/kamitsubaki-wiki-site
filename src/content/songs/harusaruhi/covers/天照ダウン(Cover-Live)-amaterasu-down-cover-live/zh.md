@@ -113,9 +113,6 @@ image: /images/albums/harusaruhi/cream-puff-live-4.jpg
 [00:52.43]Down Down Down
 </div>
 <div class="cn-lyric">[00:52.43]Down Down Down</div>
-<div class="cn-lyric">[00:52.43]Down Down Down</div>
-<div class="cn-lyric">[00:52.43]Down Down Down</div>
-<div class="cn-lyric">[00:52.43]Down Down Down</div>
 </div>
 
 <div class="lyric-line">
@@ -332,7 +329,6 @@ image: /images/albums/harusaruhi/cream-puff-live-4.jpg
 [02:35.10]lalala~
 </div>
 <div class="cn-lyric">[02:35.10]lalala~</div>
-<div class="cn-lyric">lalala~</div>
 </div>
 
 <div class="lyric-line">

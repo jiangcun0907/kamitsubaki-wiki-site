@@ -93,14 +93,12 @@ image: /images/albums/rim/singularity-live.jpg
 [00:44.07]<ruby>トゥルルル<rt class="roma">tourururu</rt></ruby> <ruby>トゥルリラ<rt class="roma">toururira</rt></ruby>
 </div>
 <div class="cn-lyric">[00:44.07]噜噜噜 噜哩啦</div>
-<div class="cn-lyric">[00:44.07]噜噜噜 噜哩啦</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:47.56]Boyish <ruby>もっと<rt class="roma">motto</rt></ruby> <ruby>もっと<rt class="roma">motto</rt></ruby><ruby>華麗<rt class="furi">かれい</rt><rt class="roma">karei</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>とんがって<rt class="roma">tongatte</rt></ruby>
 </div>
-<div class="cn-lyric">[00:47.56]Boyish 更加 更加华丽地尖锐</div>
 <div class="cn-lyric">[00:47.56]Boyish 更加 更加华丽地尖锐</div>
 </div>
 
@@ -109,14 +107,12 @@ image: /images/albums/rim/singularity-live.jpg
 [00:52.86]Boyish <ruby>きっと<rt class="roma">kitto</rt></ruby><ruby>全部<rt class="furi">ぜんぶ</rt><rt class="roma">zenbu</rt></ruby><ruby>全部<rt class="furi">ぜんぶ</rt><rt class="roma">zenbu</rt></ruby><ruby>塗<rt class="furi">ぬ</rt><rt class="roma">nu</rt></ruby><ruby>りつぶす<rt class="roma">ritsubusu</rt></ruby>
 </div>
 <div class="cn-lyric">[00:52.86]Boyish 一定全部全部涂抹掉</div>
-<div class="cn-lyric">[00:52.86]Boyish 一定全部全部涂抹掉</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:59.90]“<ruby>少年<rt class="furi">しょうねん</rt><rt class="roma">shounen</rt></ruby><ruby>漫画<rt class="furi">まんが</rt><rt class="roma">manga</rt></ruby>”<ruby>に<rt class="roma">ni</rt></ruby><ruby>なり<rt class="roma">nari</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby> <ruby>叶<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
 </div>
-<div class="cn-lyric">[00:59.90]想要成为“少年漫画” 如果能够实现</div>
 <div class="cn-lyric">[00:59.90]想要成为“少年漫画” 如果能够实现</div>
 </div>
 
@@ -125,14 +121,12 @@ image: /images/albums/rim/singularity-live.jpg
 [01:05.58]<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>とか<rt class="roma">toka</rt></ruby><ruby>恋<rt class="furi">こい</rt><rt class="roma">koi</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>泥<rt class="furi">どろ</rt><rt class="roma">doro</rt></ruby><ruby>だらけ<rt class="roma">darake</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ボク<rt class="roma">boku</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="cn-lyric">[01:05.58]对于不是爱或恋 满身泥泞的我</div>
-<div class="cn-lyric">[01:05.58]对于不是爱或恋 满身泥泞的我</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:10.55]<ruby>もう<rt class="roma">mou</rt></ruby><ruby>かっこいい<rt class="roma">kakkoii</rt></ruby><ruby>主人公<rt class="furi">しゅじんこう</rt><rt class="roma">shujinkou</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>構<rt class="furi">かま</rt><rt class="roma">kama</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="cn-lyric">[01:10.55]即使不再是帅气的主人公也无所谓</div>
 <div class="cn-lyric">[01:10.55]即使不再是帅气的主人公也无所谓</div>
 </div>
 
@@ -148,16 +142,12 @@ image: /images/albums/rim/singularity-live.jpg
 [01:21.96]Want to be a boyish
 </div>
 <div class="cn-lyric">[01:21.96]Want to be a boyish</div>
-<div class="cn-lyric">[01:21.96]Want to be a boyish</div>
-<div class="cn-lyric">[01:21.96]Want to be a boyish</div>
-<div class="cn-lyric">[01:21.96]Want to be a boyish</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:24.30]Can't be a boyish yet
 </div>
-<div class="cn-lyric">[01:24.30]Can't be a boyish yet</div>
 <div class="cn-lyric">[01:24.30]Can't be a boyish yet</div>
 </div>
 
@@ -171,7 +161,6 @@ image: /images/albums/rim/singularity-live.jpg
 <div class="jp-lyric">
 [01:29.28]<ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby> <ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>すぐ<rt class="roma">sugu</rt></ruby>
 </div>
-<div class="cn-lyric">[01:29.28]现在 立刻</div>
 <div class="cn-lyric">[01:29.28]现在 立刻</div>
 </div>
 

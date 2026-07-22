@@ -94,14 +94,12 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [01:13.55]<ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>眠<rt class="furi">ねむ</rt><rt class="roma">nemu</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="cn-lyric">[01:13.55]因为现在我要睡了</div>
-<div class="cn-lyric">[01:13.55]因为现在我要睡了</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:19.17]<ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>天使<rt class="furi">てんし</rt><rt class="roma">tenshi</rt></ruby>
 </div>
-<div class="cn-lyric">[01:19.17]此刻我便是夜之天使</div>
 <div class="cn-lyric">[01:19.17]此刻我便是夜之天使</div>
 </div>
 
@@ -110,14 +108,12 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [01:24.42]<ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>名前<rt class="furi">なまえ</rt><rt class="roma">namae</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:24.42]此刻便能将你的名字</div>
-<div class="cn-lyric">[01:24.42]此刻便能将你的名字</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:30.51]<ruby>思い出<rt class="furi">おもいだ</rt><rt class="roma">omoida</rt></ruby><ruby>せる<rt class="roma">seru</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
-<div class="cn-lyric">[01:30.51]因为能够想起</div>
 <div class="cn-lyric">[01:30.51]因为能够想起</div>
 </div>
 

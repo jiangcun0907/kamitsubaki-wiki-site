@@ -37,8 +37,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [00:04.21]No no no no no no no no
 </div>
 <div class="trans-lyric">No no no no no no no no</div>
-<div class="trans-lyric">No no no no no no no no</div>
-<div class="trans-lyric">No no no no no no no no</div>
 </div>
 
 <div class="lyric-line">
@@ -95,7 +93,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [00:54.64]<ruby>多分<rt class="furi">たぶん</rt><rt class="roma">tabun</rt></ruby> <ruby>本当<rt class="furi">ほんとう</rt><rt class="roma">hontou</rt></ruby><ruby>は<rt class="roma">ha</rt></ruby> <ruby>どっち<rt class="roma">dotchi</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">[00:54.64]Probably, in truth, I feel neither</div>
-<div class="trans-lyric">Probably, in truth, I feel neither</div>
 </div>
 
 <div class="lyric-line">
@@ -110,7 +107,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [00:58.93]<ruby>イェイ<rt class="roma">iei</rt></ruby> <ruby>イェイ<rt class="roma">iei</rt></ruby> <ruby>イェイ<rt class="roma">iei</rt></ruby>
 </div>
 <div class="trans-lyric">Yay, yay, yay</div>
-<div class="trans-lyric">Yay, yay, yay</div>
 </div>
 
 <div class="lyric-line">
@@ -118,7 +114,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [01:00.59]<ruby>ずっと<rt class="roma">zutto</rt></ruby><ruby>前<rt class="furi">まえ</rt><rt class="roma">mae</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby> <ruby>きっと<rt class="roma">kitto</rt></ruby>
 </div>
 <div class="trans-lyric">[01:00.59]From long ago, surely</div>
-<div class="trans-lyric">From long ago, surely</div>
 </div>
 
 <div class="lyric-line">
@@ -133,14 +128,12 @@ image: /images/albums/kaf/i-scream-live.jpg
 [01:06.96]<ruby>ドキドキ<rt class="roma">dokidoki</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>時間<rt class="furi">じかん</rt><rt class="roma">jikan</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="trans-lyric">[01:06.96]That heart-pounding time</div>
-<div class="trans-lyric">That heart-pounding time</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:09.69]<ruby>ちょっと<rt class="roma">chotto</rt></ruby><ruby>感<rt class="furi">かん</rt><rt class="roma">kan</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>みたい<rt class="roma">mitai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
-<div class="trans-lyric">I just want to feel it a little</div>
 <div class="trans-lyric">I just want to feel it a little</div>
 </div>
 
@@ -149,7 +142,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [01:13.11]<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby><ruby>分<rt class="furi">わ</rt><rt class="roma">wa</rt></ruby><ruby>かん<rt class="roma">kan</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">I don't understand love</div>
-<div class="trans-lyric">I don't understand love</div>
 </div>
 
 <div class="lyric-line">
@@ -157,7 +149,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [01:16.13]<ruby>ぼく<rt class="roma">boku</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>まだ<rt class="roma">mada</rt></ruby><ruby>早<rt class="furi">はや</rt><rt class="roma">haya</rt></ruby><ruby>すぎる<rt class="roma">sugiru</rt></ruby>
 </div>
 <div class="trans-lyric">[01:16.13]It's still too soon for me</div>
-<div class="trans-lyric">It's still too soon for me</div>
 </div>
 
 <div class="lyric-line">
@@ -165,7 +156,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [01:19.44]<ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ただ<rt class="roma">tada</rt></ruby>
 </div>
 <div class="trans-lyric">[01:19.44]Right now, I'm just</div>
-<div class="trans-lyric">Right now, I'm just</div>
 </div>
 
 <div class="lyric-line">
@@ -173,7 +163,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [01:20.86]<ruby>ハタチ<rt class="roma">hatachi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>イケナイ<rt class="roma">ikenai</rt></ruby><ruby>男の子<rt class="furi">おとこのこ</rt><rt class="roma">otokonoko</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="trans-lyric">[01:20.86]A twenty-year-old naughty boy</div>
-<div class="trans-lyric">A twenty-year-old naughty boy</div>
 </div>
 
 <div class="lyric-line">

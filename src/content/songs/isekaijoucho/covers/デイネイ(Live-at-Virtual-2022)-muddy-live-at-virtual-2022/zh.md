@@ -149,7 +149,6 @@ image: /images/albums/rim/singularity-live.jpg
 [00:52.76]<ruby>あー<rt class="roma">aa</rt></ruby>！
 </div>
 <div class="cn-lyric">[00:52.76]啊ー！</div>
-<div class="cn-lyric">[00:52.76]啊ー！</div>
 </div>
 
 <div class="lyric-line">
@@ -240,7 +239,6 @@ image: /images/albums/rim/singularity-live.jpg
 <div class="jp-lyric">
 [01:45.62]<ruby>あの<rt class="roma">ano</rt></ruby><ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
-<div class="cn-lyric">[01:45.62]那片天空</div>
 <div class="cn-lyric">[01:45.62]那片天空</div>
 </div>
 

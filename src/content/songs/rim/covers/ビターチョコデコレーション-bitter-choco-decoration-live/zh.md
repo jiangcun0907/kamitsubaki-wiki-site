@@ -112,13 +112,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [00:44.38]<ruby>ビターチョコデコレーション<rt class="roma">bitaachokodekoreeshon</rt></ruby>
 </div>
 <div class="cn-lyric">[00:44.38]苦巧克力装饰</div>
-<div class="cn-lyric">[00:44.38]苦巧克力装饰</div>
-<div class="cn-lyric">[00:44.38]苦巧克力装饰</div>
-<div class="cn-lyric">[00:44.38]苦巧克力装饰</div>
-<div class="cn-lyric">[00:44.38]苦巧克力装饰</div>
-<div class="cn-lyric">[00:44.38]苦巧克力装饰</div>
-<div class="cn-lyric">[00:44.38]苦巧克力装饰</div>
-<div class="cn-lyric">[00:44.38]苦巧克力装饰</div>
 </div>
 
 <div class="lyric-line">

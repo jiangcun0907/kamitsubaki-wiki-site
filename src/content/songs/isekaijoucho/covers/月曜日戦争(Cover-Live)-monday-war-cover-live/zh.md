@@ -71,7 +71,6 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 [00:39.42]<ruby>ああ<rt class="roma">aa</rt></ruby> <ruby>憧<rt class="furi">あこが</rt><rt class="roma">akoga</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>貴方<rt class="furi">あなた</rt><rt class="roma">anata</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby> <ruby>どう<rt class="roma">dou</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
 </div>
 <div class="cn-lyric">[00:39.42]啊 若是所憧憬的您 会怎么做呢</div>
-<div class="cn-lyric">[00:39.42]啊 若是所憧憬的您 会怎么做呢</div>
 </div>
 
 <div class="lyric-line">
@@ -85,7 +84,6 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 <div class="jp-lyric">
 [00:50.57]<ruby>わたし<rt class="roma">watashi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby> <ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>っけ<rt class="roma">kke</rt></ruby>
 </div>
-<div class="cn-lyric">[00:50.57]我 是谁来着</div>
 <div class="cn-lyric">[00:50.57]我 是谁来着</div>
 </div>
 

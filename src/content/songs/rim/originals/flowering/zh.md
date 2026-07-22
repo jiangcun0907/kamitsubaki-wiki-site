@@ -101,7 +101,6 @@ image: /images/songs/rim/single-1687464468.jpg
 [00:45.31]<ruby>こんなに<rt class="roma">konnani</rt></ruby><ruby>楽<rt class="furi">らく</rt><rt class="roma">raku</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
 <div class="cn-lyric">[00:45.31]没有比这更轻松的事了</div>
-<div class="cn-lyric">[00:45.31]没有比这更轻松的事了</div>
 </div>
 
 <br />
@@ -125,8 +124,6 @@ image: /images/songs/rim/single-1687464468.jpg
 [00:53.50]<ruby>花<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>曇<rt class="furi">くも</rt><rt class="roma">kumo</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>季節<rt class="furi">きせつ</rt><rt class="roma">kisetsu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>また<rt class="roma">mata</rt></ruby><ruby>あたし<rt class="roma">atashi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="cn-lyric">[00:53.50]在花云密布的季节里我再次</div>
-<div class="cn-lyric">[00:53.50]在花云密布的季节里我再次</div>
-<div class="cn-lyric">[00:53.50]在花云密布的季节里我再次</div>
 </div>
 
 <div class="lyric-line">
@@ -134,14 +131,12 @@ image: /images/songs/rim/single-1687464468.jpg
 [00:57.29]<ruby>間違<rt class="furi">まちが</rt><rt class="roma">machiga</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby> <ruby>彷徨<rt class="furi">ほうこう</rt><rt class="roma">houkou</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby> <ruby>大人<rt class="furi">おとな</rt><rt class="roma">otona</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なって<rt class="roma">natte</rt></ruby><ruby>ゆく<rt class="roma">yuku</rt></ruby>
 </div>
 <div class="cn-lyric">[00:57.29]犯错 彷徨 逐渐长大成人</div>
-<div class="cn-lyric">[00:57.29]犯错 彷徨 逐渐长大成人</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:02.06]<ruby>優<rt class="furi">やさ</rt><rt class="roma">yasa</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>られ<rt class="roma">rare</rt></ruby><ruby>ぬ<rt class="roma">nu</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
-<div class="cn-lyric">[01:02.06]在这个仅凭温柔无法生存的世界里</div>
 <div class="cn-lyric">[01:02.06]在这个仅凭温柔无法生存的世界里</div>
 </div>
 
@@ -172,7 +167,6 @@ image: /images/songs/rim/single-1687464468.jpg
 <div class="jp-lyric">
 [01:20.47]<ruby>ただ<rt class="roma">tada</rt></ruby><ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="cn-lyric">[01:20.47]只是歌唱啊</div>
 <div class="cn-lyric">[01:20.47]只是歌唱啊</div>
 </div>
 

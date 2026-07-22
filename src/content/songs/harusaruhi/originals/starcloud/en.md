@@ -36,7 +36,6 @@ Starcloud appears on RULE THE WORLD or a related official release. Entries are v
 [00:01.14]<ruby>ねぇ<rt class="roma">nee</rt></ruby><ruby>聞<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>こえ<rt class="roma">koe</rt></ruby><ruby>ます<rt class="roma">masu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>?
 </div>
 <div class="trans-lyric">Hey, can you hear me?</div>
-<div class="trans-lyric">Hey, can you hear me?</div>
 </div>
 
 <div class="lyric-line">
@@ -44,14 +43,12 @@ Starcloud appears on RULE THE WORLD or a related official release. Entries are v
 [00:05.25]<ruby>流れ星<rt class="furi">ながれぼし</rt><rt class="roma">nagareboshi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>こぼし<rt class="roma">koboshi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>アリア<rt class="roma">aria</rt></ruby>
 </div>
 <div class="trans-lyric">The aria a shooting star spilled</div>
-<div class="trans-lyric">The aria a shooting star spilled</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:10.78]<ruby>ねぇ<rt class="roma">nee</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>ます<rt class="roma">masu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>?
 </div>
-<div class="trans-lyric">Hey, do you know?</div>
 <div class="trans-lyric">Hey, do you know?</div>
 </div>
 
@@ -116,14 +113,12 @@ Starcloud appears on RULE THE WORLD or a related official release. Entries are v
 [00:59.30]<ruby>散<rt class="furi">ち</rt><rt class="roma">chi</rt></ruby><ruby>らばった<rt class="roma">rabatta</rt></ruby><ruby>星座<rt class="furi">せいざ</rt><rt class="roma">seiza</rt></ruby> <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>探<rt class="furi">さが</rt><rt class="roma">saga</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="trans-lyric">Scattered constellations, I searched for you</div>
-<div class="trans-lyric">Scattered constellations, I searched for you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:03.78]<ruby>涙<rt class="furi">なみだ</rt><rt class="roma">namida</rt></ruby><ruby>色<rt class="furi">しょく</rt><rt class="roma">shoku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby> <ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>スキマ<rt class="roma">sukima</rt></ruby>
 </div>
-<div class="trans-lyric">Tear-colored sky, night's gaps</div>
 <div class="trans-lyric">Tear-colored sky, night's gaps</div>
 </div>
 
@@ -132,7 +127,6 @@ Starcloud appears on RULE THE WORLD or a related official release. Entries are v
 [01:08.16]<ruby>雨風<rt class="furi">あめかぜ</rt><rt class="roma">amekaze</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>輝<rt class="furi">かがや</rt><rt class="roma">kagaya</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="trans-lyric">Shone even in rain and wind</div>
-<div class="trans-lyric">Shone even in rain and wind</div>
 </div>
 
 <div class="lyric-line">
@@ -140,14 +134,12 @@ Starcloud appears on RULE THE WORLD or a related official release. Entries are v
 [01:12.72]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>たち<rt class="roma">tachi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>想<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>きっと<rt class="roma">kitto</rt></ruby><ruby>全<rt class="furi">すべ</rt><rt class="roma">sube</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>美<rt class="furi">うつく</rt><rt class="roma">utsuku</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby>
 </div>
 <div class="trans-lyric">Our feelings are surely all beautiful</div>
-<div class="trans-lyric">Our feelings are surely all beautiful</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:18.46]<ruby>スタークラウド<rt class="roma">sutaakuraudo</rt></ruby>
 </div>
-<div class="trans-lyric">Star Cloud</div>
 <div class="trans-lyric">Star Cloud</div>
 </div>
 

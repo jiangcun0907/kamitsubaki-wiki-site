@@ -148,7 +148,6 @@ image: /images/songs/kaf/track-1688514096.jpg
 [01:05.17]<ruby>曖昧<rt class="furi">あいまい</rt><rt class="roma">aimai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>煙<rt class="furi">けむり</rt><rt class="roma">kemuri</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なって<rt class="roma">natte</rt></ruby> <ruby>生き延<rt class="furi">いきの</rt><rt class="roma">ikino</rt></ruby><ruby>び<rt class="roma">bi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[01:05.17]化为暧昧的烟 苟延残喘</div>
-<div class="cn-lyric">化为暧昧的烟 苟延残喘</div>
 </div>
 
 <div class="lyric-line">
@@ -179,7 +178,6 @@ image: /images/songs/kaf/track-1688514096.jpg
 [01:22.35]<ruby>飛翔<rt class="furi">ひしょう</rt><rt class="roma">hishou</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby><ruby>ミーム<rt class="roma">miimu</rt></ruby> <ruby>ミーム<rt class="roma">miimu</rt></ruby> <ruby>ミーム<rt class="roma">miimu</rt></ruby>
 </div>
 <div class="cn-lyric">[01:22.35]飞翔的迷因 迷因 迷因</div>
-<div class="cn-lyric">飞翔的迷因 迷因 迷因</div>
 </div>
 
 <div class="lyric-line">
@@ -194,7 +192,6 @@ image: /images/songs/kaf/track-1688514096.jpg
 [01:28.77]<ruby>羽<rt class="furi">はね</rt><rt class="roma">hane</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なって<rt class="roma">natte</rt></ruby> <ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>舞<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby> <ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>脳<rt class="furi">のう</rt><rt class="roma">nou</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby><ruby>と<rt class="roma">to</rt></ruby>
 </div>
 <div class="cn-lyric">[01:28.77]化作翅膀 在空中飞舞 飞向你的脑海</div>
-<div class="cn-lyric">化作翅膀 在空中飞舞 飞向你的脑海</div>
 </div>
 
 <div class="lyric-line">
@@ -202,7 +199,6 @@ image: /images/songs/kaf/track-1688514096.jpg
 [01:34.11]<ruby>回<rt class="furi">まわ</rt><rt class="roma">mawa</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>リール<rt class="roma">riiru</rt></ruby> <ruby>リール<rt class="roma">riiru</rt></ruby> <ruby>リール<rt class="roma">riiru</rt></ruby>
 </div>
 <div class="cn-lyric">[01:34.11]旋转的卷轴 卷轴 卷轴</div>
-<div class="cn-lyric">旋转的卷轴 卷轴 卷轴</div>
 </div>
 
 <div class="lyric-line">
@@ -210,7 +206,6 @@ image: /images/songs/kaf/track-1688514096.jpg
 [01:37.06]<ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>なかった<rt class="roma">nakatta</rt></ruby> <ruby>わたし<rt class="roma">watashi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>背<rt class="furi">せ</rt><rt class="roma">se</rt></ruby><ruby>なに<rt class="roma">nani</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="cn-lyric">[01:37.06]不曾知道 在我的背后</div>
-<div class="cn-lyric">不曾知道 在我的背后</div>
 </div>
 
 <div class="lyric-line">
@@ -470,7 +465,6 @@ image: /images/songs/kaf/track-1688514096.jpg
 [03:39.67]<ruby>開<rt class="furi">ひら</rt><rt class="roma">hira</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby> <ruby>ちっぽけ<rt class="roma">chippoke</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ミーム<rt class="roma">miimu</rt></ruby>
 </div>
 <div class="cn-lyric">[03:39.67]向着敞开的天空 渺小的迷因</div>
-<div class="cn-lyric">向着敞开的天空 渺小的迷因</div>
 </div>
 
 <div class="lyric-line">

@@ -73,14 +73,12 @@ CH4NGE(Live) appears on CANDY LIVE 2 or a related official release. Entries are 
 [00:22.89]<ruby>引<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>ける<rt class="roma">keru</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>否<rt class="furi">いな</rt><rt class="roma">ina</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
 </div>
 <div class="trans-lyric">Can you draw or not?</div>
-<div class="trans-lyric">Can you draw or not?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:22.89]<ruby>自分<rt class="furi">じぶん</rt><rt class="roma">jibun</rt></ruby><ruby>次第<rt class="furi">しだい</rt><rt class="roma">shidai</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
-<div class="trans-lyric">It's up to you</div>
 <div class="trans-lyric">It's up to you</div>
 </div>
 
@@ -91,14 +89,12 @@ CH4NGE(Live) appears on CANDY LIVE 2 or a related official release. Entries are 
 [00:26.40]<ruby>余裕<rt class="furi">よゆう</rt><rt class="roma">yoyuu</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>！ <ruby>振り切<rt class="furi">ふりき</rt><rt class="roma">furiki</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>全<rt class="furi">ぜん</rt><rt class="roma">zen</rt></ruby>BET<ruby>だ<rt class="roma">da</rt></ruby><ruby>ぜ<rt class="roma">ze</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>イェイ<rt class="roma">iei</rt></ruby>
 </div>
 <div class="trans-lyric">With ease! Go all-in with everything, yeah!</div>
-<div class="trans-lyric">With ease! Go all-in with everything, yeah!</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:30.52]<ruby>そこ<rt class="roma">soko</rt></ruby><ruby>どけ<rt class="roma">doke</rt></ruby>！ <ruby>そう<rt class="roma">sou</rt></ruby><ruby>この<rt class="roma">kono</rt></ruby><ruby>エース<rt class="roma">eesu</rt></ruby><ruby>かっさらう<rt class="roma">kassarau</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>アタシ<rt class="roma">atashi</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
-<div class="trans-lyric">Move over! Yes, I'm the one who steals this ace</div>
 <div class="trans-lyric">Move over! Yes, I'm the one who steals this ace</div>
 </div>
 
@@ -107,7 +103,6 @@ CH4NGE(Live) appears on CANDY LIVE 2 or a related official release. Entries are 
 [00:35.42]Stay <ruby>もう<rt class="roma">mou</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby> <ruby>勝<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>平常<rt class="furi">へいじょう</rt><rt class="roma">heijou</rt></ruby><ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby>
 </div>
 <div class="trans-lyric">Stay, that's enough, if you win, keep calm</div>
-<div class="trans-lyric">Stay, that's enough, if you win, keep calm</div>
 </div>
 
 <div class="lyric-line">
@@ -115,14 +110,12 @@ CH4NGE(Live) appears on CANDY LIVE 2 or a related official release. Entries are 
 [00:38.72]<ruby>ね<rt class="roma">ne</rt></ruby><ruby>プレイボーイ<rt class="roma">pureiboui</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby>
 </div>
 <div class="trans-lyric">Hey playboy, go</div>
-<div class="trans-lyric">Hey playboy, go</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:40.01]Don't get in my way <ruby>じゃあ<rt class="roma">jaa</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby><ruby>黙<rt class="furi">だま</rt><rt class="roma">dama</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
-<div class="trans-lyric">Don't get in my way, goodbye, shut up</div>
 <div class="trans-lyric">Don't get in my way, goodbye, shut up</div>
 </div>
 
@@ -133,20 +126,12 @@ CH4NGE(Live) appears on CANDY LIVE 2 or a related official release. Entries are 
 [00:43.70]<ruby>ワンツースリー<rt class="roma">wantsuusurii</rt></ruby> <ruby>ワンツースリー<rt class="roma">wantsuusurii</rt></ruby> <ruby>ワンツースリー<rt class="roma">wantsuusurii</rt></ruby>
 </div>
 <div class="trans-lyric">One two three, one two three, one two three</div>
-<div class="trans-lyric">One two three, one two three, one two three</div>
-<div class="trans-lyric">One two three, one two three, one two three</div>
-<div class="trans-lyric">One two three, one two three, one two three</div>
-<div class="trans-lyric">One two three, one two three, one two three</div>
-<div class="trans-lyric">One two three, one two three, one two three</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:46.76]Sit down, Sit down
 </div>
-<div class="trans-lyric">Sit down, Sit down</div>
-<div class="trans-lyric">Sit down, Sit down</div>
-<div class="trans-lyric">Sit down, Sit down</div>
 <div class="trans-lyric">Sit down, Sit down</div>
 </div>
 

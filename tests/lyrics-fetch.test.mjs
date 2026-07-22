@@ -12,6 +12,7 @@ import {
 } from '../scripts/lyrics-timestamp-utils.mjs';
 import {
   applyTimestampsToContent,
+  validateCachedTimeline,
   validateTimestampAnchors,
 } from '../scripts/apply-lyrics-timestamps.mjs';
 
@@ -112,4 +113,23 @@ test('timestamp application preserves existing tags and fills compatible gaps', 
   assert.match(result.content, /<div class="jp-lyric">\[00:03\.00\]第二行/);
   assert.match(result.content, /<div class="cn-lyric">\[00:05\.00\]第三行翻译/);
   assert.equal((result.content.match(/\[00:01\.00\]/gu) || []).length, 2);
+});
+
+test('timestamp import rejects decreasing and duration-overflow timelines', () => {
+  assert.equal(validateCachedTimeline([
+    { time: '00:10.00' },
+    { time: '00:09.00' },
+  ], 120), false);
+  assert.equal(validateCachedTimeline([
+    { time: '02:11.00' },
+  ], 120), false);
+  assert.equal(validateCachedTimeline([
+    { time: '00:10.00' },
+    { time: '01:59.00' },
+  ], 120), true);
+});
+
+test('CI runs the strict synchronized-lyrics audit', async () => {
+  const workflow = await readFile(new URL('../.github/workflows/ci.yml', import.meta.url), 'utf8');
+  assert.match(workflow, /pnpm lyrics:timestamps:audit -- --strict/);
 });

@@ -36,14 +36,12 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [00:08.75]<ruby>もうすぐ<rt class="roma">mousugu</rt></ruby><ruby>今日<rt class="furi">きょう</rt><rt class="roma">kyou</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>終<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>わる<rt class="roma">waru</rt></ruby> <ruby>やり<rt class="roma">yari</rt></ruby><ruby>残<rt class="furi">のこ</rt><rt class="roma">noko</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>かい<rt class="roma">kai</rt></ruby>
 </div>
 <div class="trans-lyric">Soon today will end; is there anything you've left undone?</div>
-<div class="trans-lyric">Soon today will end; is there anything you've left undone?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:16.37]<ruby>親友<rt class="furi">しんゆう</rt><rt class="roma">shin'yuu</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>語り合<rt class="furi">かたりあ</rt><rt class="roma">kataria</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby><ruby>かい<rt class="roma">kai</rt></ruby>？ <ruby>燃<rt class="furi">も</rt><rt class="roma">mo</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>恋<rt class="furi">こい</rt><rt class="roma">koi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>かい<rt class="roma">kai</rt></ruby>
 </div>
-<div class="trans-lyric">Did you open your heart to your best friend? Did you fall in a burning love?</div>
 <div class="trans-lyric">Did you open your heart to your best friend? Did you fall in a burning love?</div>
 </div>
 
@@ -52,14 +50,12 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [00:25.22]<ruby>一生<rt class="furi">いっしょう</rt><rt class="roma">isshou</rt></ruby><ruby>忘<rt class="furi">わす</rt><rt class="roma">wasu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>出来事<rt class="furi">できごと</rt><rt class="roma">dekigoto</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>出会<rt class="furi">であ</rt><rt class="roma">dea</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>かい<rt class="roma">kai</rt></ruby>
 </div>
 <div class="trans-lyric">Did you encounter an event you'll never forget?</div>
-<div class="trans-lyric">Did you encounter an event you'll never forget?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:33.11]<ruby>かけ<rt class="roma">kake</rt></ruby><ruby>がい<rt class="roma">gai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>時間<rt class="furi">じかん</rt><rt class="roma">jikan</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>胸<rt class="furi">むね</rt><rt class="roma">mune</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>刻み込<rt class="furi">きざみこ</rt><rt class="roma">kizamiko</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>かい<rt class="roma">kai</rt></ruby>
 </div>
-<div class="trans-lyric">Did you engrave irreplaceable time into your heart?</div>
 <div class="trans-lyric">Did you engrave irreplaceable time into your heart?</div>
 </div>
 
@@ -197,7 +193,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [05:12.88]<ruby>かけがえ<rt class="roma">kakegae</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>時間<rt class="furi">じかん</rt><rt class="roma">jikan</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>胸<rt class="furi">むね</rt><rt class="roma">mune</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>刻み込<rt class="furi">きざみこ</rt><rt class="roma">kizamiko</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>かい<rt class="roma">kai</rt></ruby>
 </div>
 <div class="trans-lyric">Did you engrave irreplaceable time into your heart?</div>
-<div class="trans-lyric">Did you engrave irreplaceable time into your heart?</div>
 </div>
 
 <br />
@@ -220,7 +215,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [05:38.93](La-la, la-la, la-la, la-la, la-la-la-la-la-la)
 </div>
 <div class="trans-lyric">(La-la, la-la, la-la, la-la, la-la-la-la-la-la)</div>
-<div class="trans-lyric">(La-la, la-la, la-la, la-la, la-la-la-la-la-la)</div>
 </div>
 
 <div class="lyric-line">
@@ -233,7 +227,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 <div class="jp-lyric">
 [05:38.93]La-la, la-la, la-la, la-la, la-la-la-la-la-la
 </div>
-<div class="trans-lyric">La-la, la-la, la-la, la-la, la-la-la-la-la-la</div>
 <div class="trans-lyric">La-la, la-la, la-la, la-la, la-la-la-la-la-la</div>
 </div>
 

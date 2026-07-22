@@ -31,7 +31,6 @@ Leia appears on ARARE LIVE or a related official release. Entries are version-sp
 [00:15.94]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>聞<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">Let me hear your voice</div>
-<div class="trans-lyric">Let me hear your voice</div>
 </div>
 
 <div class="lyric-line">
@@ -39,14 +38,12 @@ Leia appears on ARARE LIVE or a related official release. Entries are version-sp
 [00:15.94]<ruby>澱<rt class="furi">よど</rt><rt class="roma">yodo</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>祓<rt class="furi">はら</rt><rt class="roma">hara</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
 <div class="trans-lyric">Purge the stagnant heart</div>
-<div class="trans-lyric">Purge the stagnant heart</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:22.12]<ruby>偽<rt class="furi">いつわ</rt><rt class="roma">itsuwa</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>キャンバス<rt class="roma">kyanbasu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
-<div class="trans-lyric">The canvas of lies</div>
 <div class="trans-lyric">The canvas of lies</div>
 </div>
 
@@ -214,8 +211,6 @@ Leia appears on ARARE LIVE or a related official release. Entries are version-sp
 <div class="jp-lyric">
 [01:40.09]Leia...
 </div>
-<div class="trans-lyric">Leia...</div>
-<div class="trans-lyric">Leia...</div>
 <div class="trans-lyric">Leia...</div>
 </div>
 

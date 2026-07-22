@@ -34,16 +34,12 @@ image: /images/albums/kaf/i-scream-live.jpg
 [00:23.02]<ruby>ぼく<rt class="roma">boku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>奪<rt class="furi">うば</rt><rt class="roma">uba</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>去<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby>
 </div>
 <div class="trans-lyric">You took my heart away</div>
-<div class="trans-lyric">You took my heart away</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:27.53]<ruby>俺<rt class="furi">おれ</rt><rt class="roma">ore</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>空洞<rt class="furi">くうどう</rt><rt class="roma">kuudou</rt></ruby> <ruby>でかい<rt class="roma">dekai</rt></ruby><ruby>空洞<rt class="furi">くうどう</rt><rt class="roma">kuudou</rt></ruby>
 </div>
-<div class="trans-lyric">I'm a hollow, a giant hollow</div>
-<div class="trans-lyric">I'm a hollow, a giant hollow</div>
-<div class="trans-lyric">I'm a hollow, a giant hollow</div>
 <div class="trans-lyric">I'm a hollow, a giant hollow</div>
 </div>
 
@@ -52,7 +48,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [00:33.94]<ruby>全<rt class="furi">すべ</rt><rt class="roma">sube</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>残<rt class="furi">のこ</rt><rt class="roma">noko</rt></ruby><ruby>らず<rt class="roma">razu</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>奪<rt class="furi">うば</rt><rt class="roma">uba</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>去<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby>
 </div>
 <div class="trans-lyric">You took everything, without a trace</div>
-<div class="trans-lyric">You took everything, without a trace</div>
 </div>
 
 <div class="lyric-line">
@@ -60,14 +55,12 @@ image: /images/albums/kaf/i-scream-live.jpg
 [00:38.58]<ruby>俺<rt class="furi">おれ</rt><rt class="roma">ore</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>空洞<rt class="furi">くうどう</rt><rt class="roma">kuudou</rt></ruby> <ruby>面白<rt class="furi">おもしろ</rt><rt class="roma">omoshiro</rt></ruby><ruby>い<rt class="roma">i</rt></ruby>
 </div>
 <div class="trans-lyric">I'm a hollow, interesting</div>
-<div class="trans-lyric">I'm a hollow, interesting</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:44.65]<ruby>バカ<rt class="roma">baka</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>子<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>ども<rt class="roma">domo</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby> <ruby>ふざけ<rt class="roma">fuzake</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>駆け抜<rt class="furi">かけぬ</rt><rt class="roma">kakenu</rt></ruby><ruby>ける<rt class="roma">keru</rt></ruby>
 </div>
-<div class="trans-lyric">A foolish child runs through, playing around</div>
 <div class="trans-lyric">A foolish child runs through, playing around</div>
 </div>
 
@@ -81,7 +74,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 <div class="jp-lyric">
 [00:55.84]<ruby>いい<rt class="roma">ii</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby> <ruby>くぐりぬけ<rt class="roma">kugurinuke</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>みな<rt class="roma">mina</rt></ruby> <ruby>穴<rt class="furi">あな</rt><rt class="roma">ana</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby>
 </div>
-<div class="trans-lyric">Go ahead, try to pass through inside the hole</div>
 <div class="trans-lyric">Go ahead, try to pass through inside the hole</div>
 </div>
 
@@ -105,7 +97,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 <div class="jp-lyric">
 [01:33.98]<ruby>それ<rt class="roma">sore</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ムード<rt class="roma">muudo</rt></ruby> <ruby>甘<rt class="furi">あま</rt><rt class="roma">ama</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>ムード<rt class="roma">muudo</rt></ruby>
 </div>
-<div class="trans-lyric">That's a mood, a sweet mood</div>
 <div class="trans-lyric">That's a mood, a sweet mood</div>
 </div>
 
@@ -207,10 +198,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 <div class="jp-lyric">
 [03:46.89]<ruby>空洞<rt class="furi">くうどう</rt><rt class="roma">kuudou</rt></ruby>
 </div>
-<div class="trans-lyric">Hollow</div>
-<div class="trans-lyric">Hollow</div>
-<div class="trans-lyric">Hollow</div>
-<div class="trans-lyric">Hollow</div>
 <div class="trans-lyric">Hollow</div>
 </div>
 

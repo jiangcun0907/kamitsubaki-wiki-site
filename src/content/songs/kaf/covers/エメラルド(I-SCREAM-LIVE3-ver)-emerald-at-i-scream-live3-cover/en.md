@@ -147,9 +147,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 Oh, oh, oh, ah <ruby>もう一度<rt class="furi">もういちど</rt><rt class="roma">mouichido</rt></ruby>
 </div>
 <div class="trans-lyric">Oh, oh, oh, ah one more time</div>
-<div class="trans-lyric">Oh, oh, oh, ah one more time</div>
-<div class="trans-lyric">Oh, oh, oh, ah one more time</div>
-<div class="trans-lyric">Oh, oh, oh, ah one more time</div>
 </div>
 
 <div class="lyric-line">

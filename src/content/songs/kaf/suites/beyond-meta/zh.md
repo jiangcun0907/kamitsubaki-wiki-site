@@ -37,11 +37,6 @@ image: /images/songs/kaf/track-1687478190.jpg
 [00:00.35]Beyond meta, meta
 </div>
 <div class="cn-lyric">[00:00.35]超越元，元</div>
-<div class="cn-lyric">[00:00.35]超越元，元</div>
-<div class="cn-lyric">[00:00.35]超越元，元</div>
-<div class="cn-lyric">[00:00.35]超越元，元</div>
-<div class="cn-lyric">[00:00.35]超越元，元</div>
-<div class="cn-lyric">[00:00.35]超越元，元</div>
 </div>
 
 <div class="lyric-line">
@@ -110,15 +105,12 @@ image: /images/songs/kaf/track-1687478190.jpg
 [00:46.52]<ruby>どこ<rt class="roma">doko</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby> I wanna see ya, ya, ya, ya
 </div>
 <div class="cn-lyric">[00:46.52]无论何处 I wanna see ya, ya, ya, ya</div>
-<div class="cn-lyric">[00:46.52]无论何处 I wanna see ya, ya, ya, ya</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:50.33]<ruby>いつ<rt class="roma">itsu</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby> I gotta be with ya, ya, ya, ya
 </div>
-<div class="cn-lyric">[00:50.33]无论何时 I gotta be with ya, ya, ya, ya</div>
-<div class="cn-lyric">[00:50.33]无论何时 I gotta be with ya, ya, ya, ya</div>
 <div class="cn-lyric">[00:50.33]无论何时 I gotta be with ya, ya, ya, ya</div>
 </div>
 
@@ -127,8 +119,6 @@ image: /images/songs/kaf/track-1687478190.jpg
 [00:54.21]<ruby>画面<rt class="furi">がめん</rt><rt class="roma">gamen</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>超<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>次<rt class="furi">つぎ</rt><rt class="roma">tsugi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ステップ<rt class="roma">suteppu</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
 </div>
 <div class="cn-lyric">[00:54.21]超越屏幕 迈向下一步</div>
-<div class="cn-lyric">超越屏幕 迈向下一步</div>
-<div class="cn-lyric">超越屏幕 迈向下一步</div>
 </div>
 
 <div class="lyric-line">
@@ -136,20 +126,12 @@ image: /images/songs/kaf/track-1687478190.jpg
 [00:57.57]Let's go beyond, yeah
 </div>
 <div class="cn-lyric">[00:57.57]Let's go beyond, yeah</div>
-<div class="cn-lyric">[00:57.57]Let's go beyond, yeah</div>
-<div class="cn-lyric">[00:57.57]Let's go beyond, yeah</div>
-<div class="cn-lyric">[00:57.57]Let's go beyond, yeah</div>
-<div class="cn-lyric">[00:57.57]Let's go beyond, yeah</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:59.32]Let's go beyond meta
 </div>
-<div class="cn-lyric">[00:59.32]Let's go beyond meta</div>
-<div class="cn-lyric">[00:59.32]Let's go beyond meta</div>
-<div class="cn-lyric">[00:59.32]Let's go beyond meta</div>
-<div class="cn-lyric">[00:59.32]Let's go beyond meta</div>
 <div class="cn-lyric">[00:59.32]Let's go beyond meta</div>
 </div>
 

@@ -36,15 +36,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:00.16]<ruby>マスカラ<rt class="roma">masukara</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>まつげ<rt class="roma">matsuge</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby> <ruby>ぽろり<rt class="roma">porori</rt></ruby><ruby>グレー<rt class="roma">guree</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>涙<rt class="furi">なみだ</rt><rt class="roma">namida</rt></ruby>
 </div>
 <div class="trans-lyric">On mascara-laden lashes, a gray tear drops</div>
-<div class="trans-lyric">On mascara-laden lashes, a gray tear drops</div>
-<div class="trans-lyric">On mascara-laden lashes, a gray tear drops</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:05.22]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>記憶<rt class="furi">きおく</rt><rt class="roma">kioku</rt></ruby> <ruby>最後<rt class="furi">さいご</rt><rt class="roma">saigo</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>わたし<rt class="roma">watashi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby> <ruby>みごと<rt class="roma">migoto</rt></ruby><ruby>パンダ<rt class="roma">panda</rt></ruby><ruby>顔<rt class="furi">がお</rt><rt class="roma">gao</rt></ruby>
 </div>
-<div class="trans-lyric">In your memory, the last me is a perfect panda face</div>
 <div class="trans-lyric">In your memory, the last me is a perfect panda face</div>
 </div>
 
@@ -114,14 +111,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [01:24.51]<ruby>自分<rt class="furi">じぶん</rt><rt class="roma">jibun</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>できる<rt class="roma">dekiru</rt></ruby><ruby>いちばん<rt class="roma">ichiban</rt></ruby><ruby>かわいい<rt class="roma">kawaii</rt></ruby><ruby>わたし<rt class="roma">watashi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なって<rt class="roma">natte</rt></ruby>
 </div>
 <div class="trans-lyric">Became the cutest me I could manage on my own</div>
-<div class="trans-lyric">Became the cutest me I could manage on my own</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:30.09]<ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>力<rt class="furi">りょく</rt><rt class="roma">ryoku</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>願<rt class="furi">ねが</rt><rt class="roma">nega</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>込<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>思<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>もう一度<rt class="furi">もういちど</rt><rt class="roma">mouichido</rt></ruby><ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
-<div class="trans-lyric">Putting a wish in my piercing gaze, hoping my feelings reach you once more</div>
 <div class="trans-lyric">Putting a wish in my piercing gaze, hoping my feelings reach you once more</div>
 </div>
 

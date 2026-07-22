@@ -133,7 +133,6 @@ image: /images/songs/rim/single-1688512932.jpg
 [01:26.43]<ruby>恋<rt class="furi">こい</rt><rt class="roma">koi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>恋<rt class="furi">こい</rt><rt class="roma">koi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="cn-lyric">[01:26.43]不要爱上爱情</div>
-<div class="cn-lyric">不要爱上爱情</div>
 </div>
 
 <div class="lyric-line">
@@ -141,7 +140,6 @@ image: /images/songs/rim/single-1688512932.jpg
 [01:30.11]<ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>覚<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>ませ<rt class="roma">mase</rt></ruby>
 </div>
 <div class="cn-lyric">[01:30.11]快清醒吧</div>
-<div class="cn-lyric">快清醒吧</div>
 </div>
 
 <div class="lyric-line">
@@ -225,7 +223,6 @@ image: /images/songs/rim/single-1688512932.jpg
 [02:56.09]<ruby>ユーエンミー<rt class="roma">yuuenmii</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>正体<rt class="furi">しょうたい</rt><rt class="roma">shoutai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>暴<rt class="furi">あば</rt><rt class="roma">aba</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[02:56.09]揭露 you and me 的真面目</div>
-<div class="cn-lyric">揭露 you and me 的真面目</div>
 </div>
 
 <div class="lyric-line">

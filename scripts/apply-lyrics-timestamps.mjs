@@ -42,6 +42,11 @@ function parseFrontmatter(content) {
   return frontmatter;
 }
 
+function parseDuration(value) {
+  const match = String(value || '').match(/^(\d+):(\d{2})$/u);
+  return match ? Number(match[1]) * 60 + Number(match[2]) : 0;
+}
+
 function addTimestampToContainer(block, className, timestamp) {
   const opening = new RegExp(`(<div class="${className}">(?:\\r?\\n)?)(?!\\[\\d{2,3}:\\d{2}\\.\\d{2,3}\\])`, 'u');
   return block.replace(opening, `$1[${timestamp}]`);
@@ -83,6 +88,17 @@ export function validateTimestampAnchors(lineData, alignment, toleranceSeconds =
   return { compatible: compared > 0, anchors: anchors.length, compared };
 }
 
+export function validateCachedTimeline(lrcRows, duration = 0) {
+  let previous = -1;
+  for (const row of lrcRows) {
+    const seconds = lrcTimeToSeconds(row.time);
+    if (!Number.isFinite(seconds) || seconds < previous) return false;
+    if (duration > 0 && seconds > duration + 10) return false;
+    previous = seconds;
+  }
+  return true;
+}
+
 function isWithinExistingAnchors(lineIndex, candidateTime, lineData) {
   const seconds = lrcTimeToSeconds(candidateTime);
   if (!Number.isFinite(seconds)) return false;
@@ -101,16 +117,26 @@ function isWithinExistingAnchors(lineIndex, candidateTime, lineData) {
   return true;
 }
 
-export function applyTimestampsToContent(content, lrcRows) {
+export function applyTimestampsToContent(content, lrcRows, duration = 0) {
+  if (!validateCachedTimeline(lrcRows, duration)) {
+    return {
+      content,
+      modified: false,
+      modifiedLines: 0,
+      alignment: { matches: new Map(), matched: 0, total: 0, coverage: 0, meanScore: 0 },
+      anchorsCompatible: true,
+      timelineCompatible: false,
+    };
+  }
   const lineData = extractJapaneseLineData(content);
   const localLines = lineData.map(({ text }) => text);
   const alignment = alignLyrics(localLines, lrcRows);
   if (!isReliableAlignment(alignment)) {
-    return { content, modified: false, modifiedLines: 0, alignment, anchorsCompatible: true };
+    return { content, modified: false, modifiedLines: 0, alignment, anchorsCompatible: true, timelineCompatible: true };
   }
   const anchorCheck = validateTimestampAnchors(lineData, alignment);
   if (!anchorCheck.compatible) {
-    return { content, modified: false, modifiedLines: 0, alignment, anchorsCompatible: false };
+    return { content, modified: false, modifiedLines: 0, alignment, anchorsCompatible: false, timelineCompatible: true };
   }
 
   const lineBlockPattern = /<div class="lyric-line">\r?\n[\s\S]*?<\/div>\r?\n<\/div>/gu;
@@ -140,6 +166,7 @@ export function applyTimestampsToContent(content, lrcRows) {
     modifiedLines,
     alignment,
     anchorsCompatible: true,
+    timelineCompatible: true,
   };
 }
 
@@ -155,6 +182,7 @@ async function main() {
     missingCache: 0,
     rejectedAlignment: 0,
     rejectedAnchors: 0,
+    rejectedTimeline: 0,
   };
 
   for (const filePath of files) {
@@ -170,7 +198,11 @@ async function main() {
       continue;
     }
 
-    const result = applyTimestampsToContent(content, rows);
+    const result = applyTimestampsToContent(content, rows, parseDuration(frontmatter.duration));
+    if (!result.timelineCompatible) {
+      stats.rejectedTimeline += 1;
+      continue;
+    }
     if (!isReliableAlignment(result.alignment)) {
       stats.rejectedAlignment += 1;
       continue;

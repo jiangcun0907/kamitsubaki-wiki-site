@@ -136,14 +136,12 @@ image: /images/songs/vwp/single-1722044171.jpg
 [00:56.04]<ruby>穿<rt class="furi">うが</rt><rt class="roma">uga</rt></ruby><ruby>つ<rt class="roma">tsu</rt></ruby><ruby>者<rt class="furi">もの</rt><rt class="roma">mono</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>越<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>平行<rt class="furi">へいこう</rt><rt class="roma">heikou</rt></ruby><ruby>線<rt class="furi">せん</rt><rt class="roma">sen</rt></ruby>
 </div>
 <div class="cn-lyric">[00:56.04]贯穿者跨越的平行线</div>
-<div class="cn-lyric">[00:56.04]贯穿者跨越的平行线</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:58.81]<ruby>まだ<rt class="roma">mada</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>未来<rt class="furi">みらい</rt><rt class="roma">mirai</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
 </div>
-<div class="cn-lyric">[00:58.81]向未知的未来</div>
 <div class="cn-lyric">[00:58.81]向未知的未来</div>
 </div>
 
@@ -152,7 +150,6 @@ image: /images/songs/vwp/single-1722044171.jpg
 [01:00.77]<ruby>枯<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>まだ<rt class="roma">mada</rt></ruby><ruby>詩<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby>
 </div>
 <div class="cn-lyric">[01:00.77]枯竭的声音仍能歌唱</div>
-<div class="cn-lyric">[01:00.77]枯竭的声音仍能歌唱</div>
 </div>
 
 <div class="lyric-line">
@@ -160,14 +157,12 @@ image: /images/songs/vwp/single-1722044171.jpg
 [01:03.12]<ruby>ただ<rt class="roma">tada</rt></ruby>、<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>居<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="cn-lyric">[01:03.12]只是，想和你在一起</div>
-<div class="cn-lyric">[01:03.12]只是，想和你在一起</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:05.42]<ruby>閉<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>かけ<rt class="roma">kake</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>その<rt class="roma">sono</rt></ruby><ruby>先<rt class="furi">さき</rt><rt class="roma">saki</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="cn-lyric">[01:05.42]让我看看那即将关闭的前方</div>
 <div class="cn-lyric">[01:05.42]让我看看那即将关闭的前方</div>
 </div>
 
@@ -178,16 +173,12 @@ image: /images/songs/vwp/single-1722044171.jpg
 [01:10.44]Awaken, until the last day <ruby>ただ<rt class="roma">tada</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>と<rt class="roma">to</rt></ruby>
 </div>
 <div class="cn-lyric">[01:10.44]Awaken, until the last day 只与你</div>
-<div class="cn-lyric">[01:10.44]Awaken, until the last day 只与你</div>
-<div class="cn-lyric">[01:10.44]Awaken, until the last day 只与你</div>
-<div class="cn-lyric">[01:10.44]Awaken, until the last day 只与你</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:13.36](I will be divine, life with you)
 </div>
-<div class="cn-lyric">[01:13.36](I will be divine, life with you)</div>
 <div class="cn-lyric">[01:13.36](I will be divine, life with you)</div>
 </div>
 
@@ -196,14 +187,12 @@ image: /images/songs/vwp/single-1722044171.jpg
 [01:15.08]Awaken, until the last phase <ruby>この<rt class="roma">kono</rt></ruby><ruby>詩<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:15.08]Awaken, until the last phase 这首诗</div>
-<div class="cn-lyric">[01:15.08]Awaken, until the last phase 这首诗</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:18.09](This is my story, only once)
 </div>
-<div class="cn-lyric">[01:18.09](This is my story, only once)</div>
 <div class="cn-lyric">[01:18.09](This is my story, only once)</div>
 </div>
 
@@ -218,14 +207,12 @@ image: /images/songs/vwp/single-1722044171.jpg
 [01:22.72](I want to live my life with you)
 </div>
 <div class="cn-lyric">[01:22.72](I want to live my life with you)</div>
-<div class="cn-lyric">[01:22.72](I want to live my life with you)</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:24.42]Awaken <ruby>そう<rt class="roma">sou</rt></ruby> <ruby>紡<rt class="furi">つむ</rt><rt class="roma">tsumu</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby><ruby>永久<rt class="furi">えいきゅう</rt><rt class="roma">eikyuu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
-<div class="cn-lyric">[01:24.42]Awaken 如此 编织至永远</div>
 <div class="cn-lyric">[01:24.42]Awaken 如此 编织至永远</div>
 </div>
 

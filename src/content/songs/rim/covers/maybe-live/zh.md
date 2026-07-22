@@ -96,16 +96,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:35.69]Oh baby <ruby>ありのまま<rt class="roma">arinomama</rt></ruby>
 </div>
 <div class="cn-lyric">[00:35.69]Oh baby 保持真实</div>
-<div class="cn-lyric">Oh baby 保持真实</div>
-<div class="cn-lyric">Oh baby 保持真实</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:41.55]Maybe <ruby>簡単<rt class="furi">かんたん</rt><rt class="roma">kantan</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="cn-lyric">[00:41.55]Maybe 并不简单</div>
-<div class="cn-lyric">[00:41.55]Maybe 并不简单</div>
 <div class="cn-lyric">[00:41.55]Maybe 并不简单</div>
 </div>
 
@@ -114,8 +110,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:42.07]Take it easy
 </div>
 <div class="cn-lyric">[00:42.07]Take it easy</div>
-<div class="cn-lyric">Take it easy</div>
-<div class="cn-lyric">Take it easy</div>
 </div>
 
 <div class="lyric-line">
@@ -123,8 +117,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:43.43]You think too much
 </div>
 <div class="cn-lyric">[00:43.43]You think too much</div>
-<div class="cn-lyric">You think too much</div>
-<div class="cn-lyric">You think too much</div>
 </div>
 
 <div class="lyric-line">
@@ -132,8 +124,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:45.40]That's no good
 </div>
 <div class="cn-lyric">[00:45.40]That's no good</div>
-<div class="cn-lyric">That's no good</div>
-<div class="cn-lyric">That's no good</div>
 </div>
 
 <div class="lyric-line">
@@ -141,8 +131,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:47.63]<ruby>だから<rt class="roma">dakara</rt></ruby> Baby
 </div>
 <div class="cn-lyric">[00:47.63]所以 Baby</div>
-<div class="cn-lyric">所以 Baby</div>
-<div class="cn-lyric">所以 Baby</div>
 </div>
 
 <div class="lyric-line">
@@ -150,8 +138,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:49.32]<ruby>誤魔化<rt class="furi">ごまか</rt><rt class="roma">gomaka</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>自分<rt class="furi">じぶん</rt><rt class="roma">jibun</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
 </div>
 <div class="cn-lyric">[00:49.32]面对不欺骗的自己</div>
-<div class="cn-lyric">面对不欺骗的自己</div>
-<div class="cn-lyric">面对不欺骗的自己</div>
 </div>
 
 <div class="lyric-line">
@@ -159,8 +145,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:52.29]<ruby>少<rt class="furi">すこ</rt><rt class="roma">suko</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ずつ<rt class="roma">zutsu</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="cn-lyric">[00:52.29]一点点来就好</div>
-<div class="cn-lyric">一点点来就好</div>
-<div class="cn-lyric">一点点来就好</div>
 </div>
 
 <div class="lyric-line">
@@ -168,10 +152,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:56.59]You better change your mind
 </div>
 <div class="cn-lyric">[00:56.59]You better change your mind</div>
-<div class="cn-lyric">You better change your mind</div>
-<div class="cn-lyric">You better change your mind</div>
-<div class="cn-lyric">You better change your mind</div>
-<div class="cn-lyric">You better change your mind</div>
 </div>
 
 <br />

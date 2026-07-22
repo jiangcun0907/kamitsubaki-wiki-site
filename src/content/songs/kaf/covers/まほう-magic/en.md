@@ -58,7 +58,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 <ruby>これ<rt class="roma">kore</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>魔法<rt class="furi">まほう</rt><rt class="roma">mahou</rt></ruby>？
 </div>
 <div class="trans-lyric">Is this magic?</div>
-<div class="trans-lyric">Is this magic?</div>
 </div>
 
 <br />
@@ -144,7 +143,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 <div class="jp-lyric">
 <ruby>ら<rt class="roma">ra</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby> <ruby>ら<rt class="roma">ra</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby>
 </div>
-<div class="trans-lyric">la la la la la la la la</div>
 <div class="trans-lyric">la la la la la la la la</div>
 </div>
 

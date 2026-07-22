@@ -71,14 +71,12 @@ Of all irrelevance
 And your heart is beating
 </div>
 <div class="trans-lyric">And your heart is beating</div>
-<div class="trans-lyric">And your heart is beating</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:10.88]'Cause you know that you gotta
+'Cause you know that you gotta
 </div>
-<div class="trans-lyric">'Cause you know that you gotta</div>
 <div class="trans-lyric">'Cause you know that you gotta</div>
 </div>
 
@@ -87,14 +85,12 @@ And your heart is beating
 Get out of the middle
 </div>
 <div class="trans-lyric">Get out of the middle</div>
-<div class="trans-lyric">Get out of the middle</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:53.02]And rise to the top now
+And rise to the top now
 </div>
-<div class="trans-lyric">And rise to the top now</div>
 <div class="trans-lyric">And rise to the top now</div>
 </div>
 
@@ -102,9 +98,8 @@ Get out of the middle
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:25.06]When you've made it, won't you tell me what to do?
+When you've made it, won't you tell me what to do?
 </div>
-<div class="trans-lyric">When you've made it, won't you tell me what to do?</div>
 <div class="trans-lyric">When you've made it, won't you tell me what to do?</div>
 </div>
 
@@ -113,16 +108,12 @@ Get out of the middle
 'Cause I'm playin' it all wrong
 </div>
 <div class="trans-lyric">'Cause I'm playin' it all wrong</div>
-<div class="trans-lyric">'Cause I'm playin' it all wrong</div>
-<div class="trans-lyric">'Cause I'm playin' it all wrong</div>
-<div class="trans-lyric">'Cause I'm playin' it all wrong</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 When you've made it (when you've made it), won't you tell me what to do?
 </div>
-<div class="trans-lyric">When you've made it (when you've made it), won't you tell me what to do?</div>
 <div class="trans-lyric">When you've made it (when you've made it), won't you tell me what to do?</div>
 </div>
 
@@ -139,10 +130,6 @@ When you've made it (when you've made it), won't you tell me what to do?
 You can't fight the friction, so, ease it off
 </div>
 <div class="trans-lyric">You can't fight the friction, so, ease it off</div>
-<div class="trans-lyric">You can't fight the friction, so, ease it off</div>
-<div class="trans-lyric">You can't fight the friction, so, ease it off</div>
-<div class="trans-lyric">You can't fight the friction, so, ease it off</div>
-<div class="trans-lyric">You can't fight the friction, so, ease it off</div>
 </div>
 
 <div class="lyric-line">
@@ -150,16 +137,12 @@ You can't fight the friction, so, ease it off
 You can't take the pressure, so, ease it off
 </div>
 <div class="trans-lyric">You can't take the pressure, so, ease it off</div>
-<div class="trans-lyric">You can't take the pressure, so, ease it off</div>
-<div class="trans-lyric">You can't take the pressure, so, ease it off</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Don't tell me to be strong, ease it off
 </div>
-<div class="trans-lyric">Don't tell me to be strong, ease it off</div>
-<div class="trans-lyric">Don't tell me to be strong, ease it off</div>
 <div class="trans-lyric">Don't tell me to be strong, ease it off</div>
 </div>
 
@@ -281,14 +264,14 @@ You can't fight the friction, so, ease it off
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:25.06]Oh, why can't you let it go?
+Oh, why can't you let it go?
 </div>
 <div class="trans-lyric">Oh, why can't you let it go?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:53.02]Like a bird in the snow
+Like a bird in the snow
 </div>
 <div class="trans-lyric">Like a bird in the snow</div>
 </div>
@@ -333,9 +316,6 @@ You can't fight the friction, so
 <div class="jp-lyric">
 Yeah
 </div>
-<div class="trans-lyric">Yeah</div>
-<div class="trans-lyric">Yeah</div>
-<div class="trans-lyric">Yeah</div>
 <div class="trans-lyric">Yeah</div>
 </div>
 

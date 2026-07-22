@@ -121,14 +121,12 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 <ruby>触<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby> <ruby>揺<rt class="furi">ゆ</rt><rt class="roma">yu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
 <div class="cn-lyric">想要触碰 想要摇摆</div>
-<div class="cn-lyric">想要触碰 想要摇摆</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>いけ<rt class="roma">ike</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> <ruby>この<rt class="roma">kono</rt></ruby><ruby>惑<rt class="furi">まど</rt><rt class="roma">mado</rt></ruby><ruby>い<rt class="roma">i</rt></ruby>
 </div>
-<div class="cn-lyric">非你不可 这份迷惑</div>
 <div class="cn-lyric">非你不可 这份迷惑</div>
 </div>
 
@@ -144,14 +142,12 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 <ruby>ときめい<rt class="roma">tokimei</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby>
 </div>
 <div class="cn-lyric">心潮澎湃</div>
-<div class="cn-lyric">心潮澎湃</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>思<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>いがけ<rt class="roma">igake</rt></ruby><ruby>ぬ<rt class="roma">nu</rt></ruby><ruby>とんだ<rt class="roma">tonda</rt></ruby><ruby>ランデブー<rt class="roma">randebuu</rt></ruby>
 </div>
-<div class="cn-lyric">出乎意料的惊人约会</div>
 <div class="cn-lyric">出乎意料的惊人约会</div>
 </div>
 
@@ -160,14 +156,12 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 <ruby>どんどん<rt class="roma">dondon</rt></ruby><ruby>ハイ<rt class="roma">hai</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なって<rt class="roma">natte</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby>
 </div>
 <div class="cn-lyric">越来越嗨</div>
-<div class="cn-lyric">越来越嗨</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>洒落<rt class="furi">しゃらく</rt><rt class="roma">sharaku</rt></ruby><ruby>込<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby>
 </div>
-<div class="cn-lyric">打扮起来</div>
 <div class="cn-lyric">打扮起来</div>
 </div>
 
@@ -176,8 +170,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 <ruby>甘<rt class="furi">あま</rt><rt class="roma">ama</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>罠<rt class="furi">わな</rt><rt class="roma">wana</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>やら<rt class="roma">yara</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby>
 </div>
 <div class="cn-lyric">被甜蜜的陷阱俘获</div>
-<div class="cn-lyric">被甜蜜的陷阱俘获</div>
-<div class="cn-lyric">被甜蜜的陷阱俘获</div>
 </div>
 
 <div class="lyric-line">
@@ -185,15 +177,12 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 <ruby>落<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>ち<rt class="roma">chi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby> <ruby>落<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>ち<rt class="roma">chi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby>
 </div>
 <div class="cn-lyric">不断坠落 不断坠落</div>
-<div class="cn-lyric">不断坠落 不断坠落</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>落<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>ち<rt class="roma">chi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby>
 </div>
-<div class="cn-lyric">不断坠落</div>
-<div class="cn-lyric">坠落</div>
 <div class="cn-lyric">不断坠落</div>
 </div>
 
@@ -422,7 +411,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 <ruby>気<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>迷<rt class="furi">まよ</rt><rt class="roma">mayo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> (<ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>)
 </div>
 <div class="cn-lyric">不是一时冲动 (不是)</div>
-<div class="cn-lyric">不是一时冲动 (不是)</div>
 </div>
 
 <div class="lyric-line">
@@ -430,15 +418,12 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 <ruby>嘘<rt class="furi">うそ</rt><rt class="roma">uso</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>想<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby> (<ruby>想<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby>)
 </div>
 <div class="cn-lyric">不是谎言的思念 (思念)</div>
-<div class="cn-lyric">不是谎言的思念 (思念)</div>
-<div class="cn-lyric">不是谎言的思念 (思念)</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>思い込<rt class="furi">おもいこ</rt><rt class="roma">omoiko</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> (<ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>)
 </div>
-<div class="cn-lyric">不是主观臆断 (不是)</div>
 <div class="cn-lyric">不是主观臆断 (不是)</div>
 </div>
 

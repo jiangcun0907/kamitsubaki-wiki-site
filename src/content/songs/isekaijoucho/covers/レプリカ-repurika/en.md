@@ -101,7 +101,6 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 [01:49.16]<ruby>人類<rt class="furi">じんるい</rt><rt class="roma">jinrui</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>欠点<rt class="furi">けってん</rt><rt class="roma">ketten</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby> <ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>くせ<rt class="roma">kuse</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby> <ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>とか<rt class="roma">toka</rt></ruby><ruby>絆<rt class="furi">きずな</rt><rt class="roma">kizuna</rt></ruby><ruby>とか<rt class="roma">toka</rt></ruby><ruby>信<rt class="furi">しん</rt><rt class="roma">shin</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>られる<rt class="roma">rareru</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby>
 </div>
 <div class="trans-lyric">Humanity's flaw is that they believe in love and bonds, even though they cannot see them</div>
-<div class="trans-lyric">Humanity's flaw is that they believe in love and bonds, even though they cannot see them</div>
 </div>
 
 <div class="lyric-line">

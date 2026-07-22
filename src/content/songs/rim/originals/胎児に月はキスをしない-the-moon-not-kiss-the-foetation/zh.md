@@ -96,7 +96,6 @@ image: /images/songs/rim/single-1687474050.jpg
 [00:55.56]<ruby>そう<rt class="roma">sou</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby>？
 </div>
 <div class="cn-lyric">[00:55.56]对吧？</div>
-<div class="cn-lyric">[00:55.56]对吧？</div>
 </div>
 
 <div class="lyric-line">

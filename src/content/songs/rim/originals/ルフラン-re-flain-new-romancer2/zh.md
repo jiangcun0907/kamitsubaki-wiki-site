@@ -99,7 +99,6 @@ image: /images/albums/rim/new-romancer-2.jpg
 [00:30.10]<ruby>ふざけ<rt class="roma">fuzake</rt></ruby><ruby>あい<rt class="roma">ai</rt></ruby><ruby>たり<rt class="roma">tari</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>、<ruby>だ<rt class="roma">da</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby>
 </div>
 <div class="cn-lyric">[00:30.10]说笑闹还不够 之类的</div>
-<div class="cn-lyric">[00:30.10]说笑闹还不够 之类的</div>
 </div>
 
 <div class="lyric-line">
@@ -113,7 +112,6 @@ image: /images/albums/rim/new-romancer-2.jpg
 <div class="jp-lyric">
 [00:35.42]<ruby>泣き叫<rt class="furi">なきさけ</rt><rt class="roma">nakisake</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>、
 </div>
-<div class="cn-lyric">[00:35.42]即使哭喊</div>
 <div class="cn-lyric">[00:35.42]即使哭喊</div>
 </div>
 

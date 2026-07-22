@@ -66,7 +66,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [00:33.95]<ruby>でも<rt class="roma">demo</rt></ruby><ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>大好<rt class="furi">だいす</rt><rt class="roma">daisu</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ロック<rt class="roma">rokku</rt></ruby><ruby>スター<rt class="roma">sutaa</rt></ruby>
 </div>
 <div class="cn-lyric">[00:33.95]但是我最爱的摇滚巨星</div>
-<div class="cn-lyric">[00:33.95]但是我最爱的摇滚巨星</div>
 </div>
 
 <div class="lyric-line">

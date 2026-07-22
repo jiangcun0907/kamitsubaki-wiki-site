@@ -34,16 +34,12 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [00:40.08]<ruby>ダンス<rt class="roma">dansu</rt></ruby><ruby>フロアー<rt class="roma">furoaa</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>華<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>やか<rt class="roma">yaka</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>光<rt class="furi">ひかり</rt><rt class="roma">hikari</rt></ruby>
 </div>
 <div class="cn-lyric">[00:40.08]舞池里璀璨的灯光</div>
-<div class="cn-lyric">[00:40.08]舞池里璀璨的灯光</div>
-<div class="cn-lyric">[00:40.08]舞池里璀璨的灯光</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:45.90]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>そっと<rt class="roma">sotto</rt></ruby><ruby>包<rt class="furi">つつ</rt><rt class="roma">tsutsu</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ハーモニー<rt class="roma">haamonii</rt></ruby>
 </div>
-<div class="cn-lyric">[00:45.90]轻轻将我包裹的和谐旋律</div>
-<div class="cn-lyric">[00:45.90]轻轻将我包裹的和谐旋律</div>
 <div class="cn-lyric">[00:45.90]轻轻将我包裹的和谐旋律</div>
 </div>
 
@@ -52,18 +48,12 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [00:51.04]<ruby>ブギー・バック<rt class="roma">bugii/bakku</rt></ruby> <ruby>シェイク<rt class="roma">sheiku</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>イット<rt class="roma">itto</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>アップ<rt class="roma">appu</rt></ruby> <ruby>神様<rt class="furi">かみさま</rt><rt class="roma">kamisama</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>くれ<rt class="roma">kure</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="cn-lyric">[00:51.04]Boogie Back Shake It Up 神明赐予的</div>
-<div class="cn-lyric">[00:51.04]Boogie Back Shake It Up 神明赐予的</div>
-<div class="cn-lyric">[00:51.04]Boogie Back Shake It Up 神明赐予的</div>
-<div class="cn-lyric">[00:51.04]Boogie Back Shake It Up 神明赐予的</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:56.55]<ruby>甘<rt class="furi">あま</rt><rt class="roma">ama</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>甘<rt class="furi">あま</rt><rt class="roma">ama</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>ミルク<rt class="roma">miruku</rt></ruby>＆<ruby>ハニー<rt class="roma">hanii</rt></ruby>
 </div>
-<div class="cn-lyric">[00:56.55]甜甜的牛奶和蜂蜜</div>
-<div class="cn-lyric">[00:56.55]甜甜的牛奶和蜂蜜</div>
-<div class="cn-lyric">[00:56.55]甜甜的牛奶和蜂蜜</div>
 <div class="cn-lyric">[00:56.55]甜甜的牛奶和蜂蜜</div>
 </div>
 
@@ -72,14 +62,12 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [01:00.74]<ruby>クール<rt class="roma">kuuru</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby> <ruby>まるで<rt class="roma">marude</rt></ruby><ruby>ヤング<rt class="roma">yangu</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>アメリカン<rt class="roma">amerikan</rt></ruby>
 </div>
 <div class="cn-lyric">[01:00.74]冷酷的我 就像年轻的美国人</div>
-<div class="cn-lyric">[01:00.74]冷酷的我 就像年轻的美国人</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:06.52]<ruby>そう<rt class="roma">sou</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby> <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>こそ<rt class="roma">koso</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>オンリー<rt class="roma">onrii</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>ワン<rt class="roma">wan</rt></ruby>
 </div>
-<div class="cn-lyric">[01:06.52]是啊现在 你才是唯一</div>
 <div class="cn-lyric">[01:06.52]是啊现在 你才是唯一</div>
 </div>
 
@@ -88,14 +76,12 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [01:11.70]<ruby>ブギー・バック<rt class="roma">bugii/bakku</rt></ruby> <ruby>シェイク<rt class="roma">sheiku</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>イット<rt class="roma">itto</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>アップ<rt class="roma">appu</rt></ruby> <ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>はじまり<rt class="roma">hajimari</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="cn-lyric">[01:11.70]Boogie Back Shake It Up 夜晚的开始</div>
-<div class="cn-lyric">[01:11.70]Boogie Back Shake It Up 夜晚的开始</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:17.12]溶<ruby>ろ<rt class="roma">ro</rt></ruby><ruby>ける<rt class="roma">keru</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ファンキー<rt class="roma">fuankii</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>ミュージック<rt class="roma">myuujikku</rt></ruby>
 </div>
-<div class="cn-lyric">[01:17.12]令人融化的放克音乐</div>
 <div class="cn-lyric">[01:17.12]令人融化的放克音乐</div>
 </div>
 

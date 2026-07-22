@@ -101,16 +101,12 @@ A busy game Everyday
 <ruby>活<rt class="furi">かつ</rt><rt class="roma">katsu</rt></ruby><ruby>在<rt class="furi">ざい</rt><rt class="roma">zai</rt></ruby>瘋<ruby>狂<rt class="furi">きょう</rt><rt class="roma">kyou</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby> <ruby>活<rt class="furi">かつ</rt><rt class="roma">katsu</rt></ruby><ruby>在<rt class="furi">ざい</rt><rt class="roma">zai</rt></ruby><ruby>美好<rt class="furi">みよし</rt><rt class="roma">miyoshi</rt></ruby><ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby><ruby>明天<rt class="furi">めいてん</rt><rt class="roma">meiten</rt></ruby>
 </div>
 <div class="cn-lyric">活在疯狂世界 活在美好的明天</div>
-<div class="cn-lyric">活在疯狂世界 活在美好的明天</div>
-<div class="cn-lyric">活在疯狂世界 活在美好的明天</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>重重<rt class="furi">じゅうじゅう</rt><rt class="roma">juujuu</rt></ruby><ruby>考<rt class="furi">こう</rt><rt class="roma">kou</rt></ruby>驗 來<ruby>到<rt class="furi">いた</rt><rt class="roma">ita</rt></ruby><ruby>今<rt class="furi">こん</rt><rt class="roma">kon</rt></ruby><ruby>天<rt class="furi">てん</rt><rt class="roma">ten</rt></ruby>
 </div>
-<div class="cn-lyric">重重考验 来到今天</div>
-<div class="cn-lyric">重重考验 来到今天</div>
 <div class="cn-lyric">重重考验 来到今天</div>
 </div>
 
@@ -119,16 +115,12 @@ A busy game Everyday
 <ruby>不知<rt class="furi">ふち</rt><rt class="roma">fuchi</rt></ruby><ruby>不<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>覺<rt class="furi">さとる</rt><rt class="roma">satoru</rt></ruby><ruby>改<rt class="furi">あらため</rt><rt class="roma">aratame</rt></ruby>變 <ruby>遠<rt class="furi">とお</rt><rt class="roma">too</rt></ruby><ruby>離<rt class="furi">はなれ</rt><rt class="roma">hanare</rt></ruby>每<ruby>個<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>昨<rt class="furi">さく</rt><rt class="roma">saku</rt></ruby><ruby>天<rt class="furi">てん</rt><rt class="roma">ten</rt></ruby>
 </div>
 <div class="cn-lyric">不知不觉改变 远离每个昨天</div>
-<div class="cn-lyric">不知不觉改变 远离每个昨天</div>
-<div class="cn-lyric">不知不觉改变 远离每个昨天</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 那些<ruby>笑<rt class="furi">えみ</rt><rt class="roma">emi</rt></ruby><ruby>和<rt class="furi">わ</rt><rt class="roma">wa</rt></ruby><ruby>眼<rt class="furi">め</rt><rt class="roma">me</rt></ruby>淚 沒<ruby>有<rt class="furi">ゆう</rt><rt class="roma">yuu</rt></ruby><ruby>時間<rt class="furi">じかん</rt><rt class="roma">jikan</rt></ruby>說<ruby>再<rt class="furi">さい</rt><rt class="roma">sai</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby>
 </div>
-<div class="cn-lyric">那些笑和眼泪 没有时间说再见</div>
-<div class="cn-lyric">那些笑和眼泪 没有时间说再见</div>
 <div class="cn-lyric">那些笑和眼泪 没有时间说再见</div>
 </div>
 
@@ -137,15 +129,12 @@ A busy game Everyday
 <ruby>喜怒<rt class="furi">きど</rt><rt class="roma">kido</rt></ruby>哀樂 <ruby>苦<rt class="furi">く</rt><rt class="roma">ku</rt></ruby>辣<ruby>酸<rt class="furi">さん</rt><rt class="roma">san</rt></ruby>甜
 </div>
 <div class="cn-lyric">喜怒哀乐 苦辣酸甜</div>
-<div class="cn-lyric">喜怒哀乐 苦辣酸甜</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>終<rt class="furi">おわり</rt><rt class="roma">owari</rt></ruby>於<ruby>了解<rt class="furi">りょうかい</rt><rt class="roma">ryoukai</rt></ruby> 這就<ruby>是<rt class="furi">ぜ</rt><rt class="roma">ze</rt></ruby><ruby>生活<rt class="furi">せいかつ</rt><rt class="roma">seikatsu</rt></ruby><ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby><ruby>滋味<rt class="furi">じみ</rt><rt class="roma">jimi</rt></ruby>
 </div>
-<div class="cn-lyric">终于了解 这就是生活的滋味</div>
-<div class="cn-lyric">终于了解 这就是生活的滋味</div>
 <div class="cn-lyric">终于了解 这就是生活的滋味</div>
 </div>
 

@@ -87,8 +87,6 @@ Departures ~あなたにおくるアイの歌~ appears on CREAM PUFF LIVE 2 or a
 [00:52.21]<ruby>離<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">Don't let go</div>
-<div class="trans-lyric">Don't let go</div>
-<div class="trans-lyric">Don't let go</div>
 </div>
 
 <div class="lyric-line">

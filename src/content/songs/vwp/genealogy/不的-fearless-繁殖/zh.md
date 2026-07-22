@@ -78,7 +78,6 @@ image: /images/albums/vwp/proliferation.jpg
 [01:12.19]<ruby>気<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>未知<rt class="furi">みち</rt><rt class="roma">michi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>飽<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[01:12.19]别在意 厌倦未知</div>
-<div class="cn-lyric">[01:12.19]别在意 厌倦未知</div>
 </div>
 
 <br />
@@ -133,7 +132,6 @@ image: /images/albums/vwp/proliferation.jpg
 <div class="jp-lyric">
 [02:28.43]<ruby>噂<rt class="furi">うわさ</rt><rt class="roma">uwasa</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なってる<rt class="roma">natteru</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ってる<rt class="roma">tteru</rt></ruby>！
 </div>
-<div class="cn-lyric">[02:28.43]我知道那种'成为传闻'的眼神！</div>
 <div class="cn-lyric">[02:28.43]我知道那种'成为传闻'的眼神！</div>
 </div>
 

@@ -67,15 +67,12 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [00:21.84]<ruby>ハロー<rt class="roma">harou</rt></ruby> <ruby>絶望<rt class="furi">ぜつぼう</rt><rt class="roma">zetsubou</rt></ruby>
 </div>
 <div class="trans-lyric">Hello, despair</div>
-<div class="trans-lyric">Hello, despair</div>
-<div class="trans-lyric">Hello, despair</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:24.18]<ruby>こんな<rt class="roma">konna</rt></ruby><ruby>はず<rt class="roma">hazu</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>なかった<rt class="roma">nakatta</rt></ruby><ruby>かい<rt class="roma">kai</rt></ruby>？
 </div>
-<div class="trans-lyric">Wasn't it supposed to be like this?</div>
 <div class="trans-lyric">Wasn't it supposed to be like this?</div>
 </div>
 
@@ -179,7 +176,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [01:19.80]<ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>越<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>ため<rt class="roma">tame</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>唄<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>死<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">So that the song to cross the night doesn't die</div>
-<div class="trans-lyric">So that the song to cross the night doesn't die</div>
 </div>
 
 <div class="lyric-line">
@@ -200,8 +196,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 <div class="jp-lyric">
 [01:39.89]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>美<rt class="furi">うつく</rt><rt class="roma">utsuku</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby>
 </div>
-<div class="trans-lyric">We are beautiful</div>
-<div class="trans-lyric">We are beautiful</div>
 <div class="trans-lyric">We are beautiful</div>
 </div>
 

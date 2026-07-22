@@ -59,7 +59,6 @@ image: /images/albums/rim/new-romancer.jpg
 [00:40.56]<ruby>嗚呼<rt class="furi">ああ</rt><rt class="roma">aa</rt></ruby> <ruby>嗚呼<rt class="furi">ああ</rt><rt class="roma">aa</rt></ruby>
 </div>
 <div class="cn-lyric">[00:40.56]啊 啊</div>
-<div class="cn-lyric">[00:40.56]啊 啊</div>
 </div>
 
 <br />
@@ -69,10 +68,6 @@ image: /images/albums/rim/new-romancer.jpg
 [00:48.67]<ruby>優<rt class="furi">やさ</rt><rt class="roma">yasa</rt></ruby><ruby>しく<rt class="roma">shiku</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="cn-lyric">[00:48.67]请别温柔以待</div>
-<div class="cn-lyric">请别温柔以待</div>
-<div class="cn-lyric">请别温柔以待</div>
-<div class="cn-lyric">请别温柔以待</div>
-<div class="cn-lyric">请别温柔以待</div>
 </div>
 
 <div class="lyric-line">
@@ -80,8 +75,6 @@ image: /images/albums/rim/new-romancer.jpg
 [00:52.71]<ruby>間違<rt class="furi">まちが</rt><rt class="roma">machiga</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>だらけ<rt class="roma">darake</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>ふざけよ<rt class="roma">fuzakeyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">[00:52.71]即使错误百出也来嬉戏吧</div>
-<div class="cn-lyric">即使错误百出也来嬉戏吧</div>
-<div class="cn-lyric">即使错误百出也来嬉戏吧</div>
 </div>
 
 <div class="lyric-line">

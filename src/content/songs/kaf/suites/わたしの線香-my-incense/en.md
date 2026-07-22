@@ -44,7 +44,6 @@ image: /images/songs/kaf/track-1688670244.jpg
 [00:06.63]<ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby>
 </div>
 <div class="trans-lyric">[00:06.63]Eyes eyes eyes eyes</div>
-<div class="trans-lyric">Eyes eyes eyes eyes</div>
 </div>
 
 <div class="lyric-line">
@@ -66,7 +65,6 @@ image: /images/songs/kaf/track-1688670244.jpg
 [00:13.80]<ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>手<rt class="furi">しゅ</rt><rt class="roma">shu</rt></ruby><ruby>手<rt class="furi">しゅ</rt><rt class="roma">shu</rt></ruby><ruby>手<rt class="furi">しゅ</rt><rt class="roma">shu</rt></ruby>
 </div>
 <div class="trans-lyric">[00:13.80]Hands hands hands hands</div>
-<div class="trans-lyric">Hands hands hands hands</div>
 </div>
 
 <div class="lyric-line">
@@ -90,7 +88,6 @@ image: /images/songs/kaf/track-1688670244.jpg
 [00:21.01]<ruby>達磨<rt class="furi">だるま</rt><rt class="roma">daruma</rt></ruby><ruby>さん<rt class="roma">san</rt></ruby><ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="trans-lyric">[00:21.01]I loved you, Daruma-san</div>
-<div class="trans-lyric">I loved you, Daruma-san</div>
 </div>
 
 <div class="lyric-line">
@@ -107,7 +104,6 @@ image: /images/songs/kaf/track-1688670244.jpg
 [00:35.96]<ruby>わたし<rt class="roma">watashi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>線香<rt class="furi">せんこう</rt><rt class="roma">senkou</rt></ruby><ruby>あげ<rt class="roma">age</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>ねぇ<rt class="roma">nee</rt></ruby><ruby>あげ<rt class="roma">age</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">[00:35.96]Offer my incense, hey, offer it</div>
-<div class="trans-lyric">Offer my incense, hey, offer it</div>
 </div>
 
 <div class="lyric-line">

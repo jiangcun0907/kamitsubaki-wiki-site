@@ -31,14 +31,12 @@ image: /images/albums/rim/chocolate-live.jpg
 <ruby>コンビニエンスストア<rt class="roma">konbiniensusutoa</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">At the convenience store</div>
-<div class="trans-lyric">At the convenience store</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 350ml<ruby>の<rt class="roma">no</rt></ruby><ruby>缶<rt class="furi">かん</rt><rt class="roma">kan</rt></ruby><ruby>ビール<rt class="roma">biiru</rt></ruby><ruby>買<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
-<div class="trans-lyric">I buy a 350ml can of beer</div>
 <div class="trans-lyric">I buy a 350ml can of beer</div>
 </div>
 
@@ -47,15 +45,12 @@ image: /images/albums/rim/chocolate-live.jpg
 <ruby>きみ<rt class="roma">kimi</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>散歩<rt class="furi">さんぽ</rt><rt class="roma">sanpo</rt></ruby>
 </div>
 <div class="trans-lyric">A night walk with you</div>
-<div class="trans-lyric">A night walk with you</div>
-<div class="trans-lyric">A night walk with you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>時計<rt class="furi">とけい</rt><rt class="roma">tokei</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>針<rt class="furi">はり</rt><rt class="roma">hari</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>0<ruby>時<rt class="furi">じ</rt><rt class="roma">ji</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>差<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby>
 </div>
-<div class="trans-lyric">The clock hands point to midnight</div>
 <div class="trans-lyric">The clock hands point to midnight</div>
 </div>
 
@@ -66,16 +61,12 @@ image: /images/albums/rim/chocolate-live.jpg
 &quot;<ruby>クロノスタシス<rt class="roma">kuronosutashisu</rt></ruby>&quot;<ruby>って<rt class="roma">tte</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ってる<rt class="roma">tteru</rt></ruby>？
 </div>
 <div class="trans-lyric">Do you know what "chronostasis" is?</div>
-<div class="trans-lyric">Do you know what "chronostasis" is?</div>
-<div class="trans-lyric">Do you know what "chronostasis" is?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>きみ<rt class="roma">kimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="trans-lyric">You say you don't know</div>
-<div class="trans-lyric">You say you don't know</div>
 <div class="trans-lyric">You say you don't know</div>
 </div>
 
@@ -84,15 +75,12 @@ image: /images/albums/rim/chocolate-live.jpg
 <ruby>時計<rt class="furi">とけい</rt><rt class="roma">tokei</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>針<rt class="furi">はり</rt><rt class="roma">hari</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>止<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>まって<rt class="roma">matte</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby>
 </div>
 <div class="trans-lyric">The clock hands seem to stop</div>
-<div class="trans-lyric">The clock hands seem to stop</div>
-<div class="trans-lyric">The clock hands seem to stop</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>現象<rt class="furi">げんしょう</rt><rt class="roma">genshou</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">It's a phenomenon</div>
 <div class="trans-lyric">It's a phenomenon</div>
 </div>
 
@@ -102,7 +90,6 @@ image: /images/albums/rim/chocolate-live.jpg
 <div class="jp-lyric">
 Holiday's midnight
 </div>
-<div class="trans-lyric">Holiday's midnight</div>
 <div class="trans-lyric">Holiday's midnight</div>
 </div>
 
@@ -150,16 +137,12 @@ Holiday's midnight
 <ruby>ゆらゆら<rt class="roma">yurayura</rt></ruby><ruby>揺<rt class="furi">ゆ</rt><rt class="roma">yu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">Sways gently, like a dream</div>
-<div class="trans-lyric">Sways gently, like a dream</div>
-<div class="trans-lyric">Sways gently, like a dream</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>ゆらゆら<rt class="roma">yurayura</rt></ruby><ruby>揺<rt class="furi">ゆ</rt><rt class="roma">yu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>どうか<rt class="roma">douka</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby>
 </div>
-<div class="trans-lyric">Sways gently, out of my mind</div>
-<div class="trans-lyric">Sways gently, out of my mind</div>
 <div class="trans-lyric">Sways gently, out of my mind</div>
 </div>
 

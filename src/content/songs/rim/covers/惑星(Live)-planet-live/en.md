@@ -112,7 +112,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [01:11.76]<ruby>真<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>っさら<rt class="roma">ssara</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="trans-lyric">[01:11.76]You want to stay pure, don't you?</div>
-<div class="trans-lyric">You want to stay pure, don't you?</div>
 </div>
 
 <div class="lyric-line">
@@ -120,7 +119,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [01:14.62]<ruby>いつも<rt class="roma">itsumo</rt></ruby><ruby>わかってる<rt class="roma">wakatteru</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>、<ruby>わかってる<rt class="roma">wakatteru</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">[01:14.62]I always know, you know I know</div>
-<div class="trans-lyric">I always know, you know I know</div>
 </div>
 
 <div class="lyric-line">
@@ -128,7 +126,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [01:18.72]<ruby>怖<rt class="furi">こわ</rt><rt class="roma">kowa</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>もの<rt class="roma">mono</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="trans-lyric">[01:18.72]There's nothing to fear, is there?</div>
-<div class="trans-lyric">There's nothing to fear, is there?</div>
 </div>
 
 <div class="lyric-line">
@@ -136,9 +133,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [01:21.81]<ruby>ゆける<rt class="roma">yukeru</rt></ruby>、<ruby>ゆける<rt class="roma">yukeru</rt></ruby>、<ruby>熱<rt class="furi">あつ</rt><rt class="roma">atsu</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>まま<rt class="roma">mama</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">[01:21.81]I'll go, I'll go, still burning</div>
-<div class="trans-lyric">I'll go, I'll go, still burning</div>
-<div class="trans-lyric">I'll go, I'll go, still burning</div>
-<div class="trans-lyric">I'll go, I'll go, still burning</div>
 </div>
 
 <br />
@@ -201,7 +195,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [02:08.86]<ruby>悪<rt class="furi">わる</rt><rt class="roma">waru</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>未来<rt class="furi">みらい</rt><rt class="roma">mirai</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="trans-lyric">[02:08.86]A bad future is fine too</div>
-<div class="trans-lyric">A bad future is fine too</div>
 </div>
 
 <div class="lyric-line">
@@ -209,7 +202,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [02:12.01]<ruby>あたし<rt class="roma">atashi</rt></ruby><ruby>待<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>ってる<rt class="roma">tteru</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>、<ruby>待<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>ってる<rt class="roma">tteru</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">[02:12.01]I'm waiting, you know I'm waiting</div>
-<div class="trans-lyric">I'm waiting, you know I'm waiting</div>
 </div>
 
 <div class="lyric-line">
@@ -217,7 +209,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [02:16.11]<ruby>叶<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>ため<rt class="roma">tame</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>疲<rt class="furi">つか</rt><rt class="roma">tsuka</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="trans-lyric">[02:16.11]Even if I'm tired from making it come true</div>
-<div class="trans-lyric">Even if I'm tired from making it come true</div>
 </div>
 
 <div class="lyric-line">

@@ -75,16 +75,12 @@ image: /images/albums/rim/chocolate-live-4.jpg
 [00:27.54]<ruby>トレモロ<rt class="roma">toremoro</rt></ruby><ruby>ふかし<rt class="roma">fukashi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>くれ<rt class="roma">kure</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby> tonight
 </div>
 <div class="cn-lyric">[00:27.54]今晚请为我吹响颤音吧</div>
-<div class="cn-lyric">[00:27.54]今晚请为我吹响颤音吧</div>
-<div class="cn-lyric">[00:27.54]今晚请为我吹响颤音吧</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:31.74]<ruby>想<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>手放<rt class="furi">てばな</rt><rt class="roma">tebana</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>最後<rt class="furi">さいご</rt><rt class="roma">saigo</rt></ruby><ruby>くらい<rt class="roma">kurai</rt></ruby>
 </div>
-<div class="cn-lyric">[00:31.74]至少最后放下思念</div>
-<div class="cn-lyric">[00:31.74]至少最后放下思念</div>
 <div class="cn-lyric">[00:31.74]至少最后放下思念</div>
 </div>
 
@@ -93,8 +89,6 @@ image: /images/albums/rim/chocolate-live-4.jpg
 [00:35.82]<ruby>その<rt class="roma">sono</rt></ruby><ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>叶<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>させ<rt class="roma">sase</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby> tonight
 </div>
 <div class="cn-lyric">[00:35.82]今晚请让我实现那个梦想</div>
-<div class="cn-lyric">[00:35.82]今晚请让我实现那个梦想</div>
-<div class="cn-lyric">[00:35.82]今晚请让我实现那个梦想</div>
 </div>
 
 <div class="lyric-line">
@@ -102,16 +96,12 @@ image: /images/albums/rim/chocolate-live-4.jpg
 [00:39.95]<ruby>いつ<rt class="roma">itsu</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>繋<rt class="furi">つな</rt><rt class="roma">tsuna</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="cn-lyric">[00:39.95]永远牵着你的手</div>
-<div class="cn-lyric">[00:39.95]永远牵着你的手</div>
-<div class="cn-lyric">[00:39.95]永远牵着你的手</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:44.48]<ruby>踊<rt class="furi">おど</rt><rt class="roma">odo</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby>
 </div>
-<div class="cn-lyric">[00:44.48]一起跳舞吧</div>
-<div class="cn-lyric">[00:44.48]一起跳舞吧</div>
 <div class="cn-lyric">[00:44.48]一起跳舞吧</div>
 </div>
 

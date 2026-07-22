@@ -34,14 +34,12 @@ image: /images/albums/kaf/i-scream-live.jpg
 [00:22.37]I need some holiday
 </div>
 <div class="trans-lyric">I need some holiday</div>
-<div class="trans-lyric">I need some holiday</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:24.99]But I don't wish that everyday is holiday
 </div>
-<div class="trans-lyric">But I don't wish that everyday is holiday</div>
 <div class="trans-lyric">But I don't wish that everyday is holiday</div>
 </div>
 
@@ -50,14 +48,12 @@ image: /images/albums/kaf/i-scream-live.jpg
 [00:31.99]Because I didn't bear the pain
 </div>
 <div class="trans-lyric">Because I didn't bear the pain</div>
-<div class="trans-lyric">Because I didn't bear the pain</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:35.99]Because it wasn't a true freedom
 </div>
-<div class="trans-lyric">Because it wasn't a true freedom</div>
 <div class="trans-lyric">Because it wasn't a true freedom</div>
 </div>
 
@@ -183,7 +179,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 <div class="jp-lyric">
 [02:05.18]<ruby>夏<rt class="furi">なつ</rt><rt class="roma">natsu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>染<rt class="furi">そ</rt><rt class="roma">so</rt></ruby><ruby>まって<rt class="roma">matte</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby>
 </div>
-<div class="trans-lyric">I just want to be dyed in summer's dream</div>
 <div class="trans-lyric">I just want to be dyed in summer's dream</div>
 </div>
 

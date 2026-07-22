@@ -115,8 +115,6 @@ image: /images/albums/koko/arare-live.jpg
 [01:56.95]<ruby>未来<rt class="furi">みらい</rt><rt class="roma">mirai</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なれ<rt class="roma">nare</rt></ruby><ruby>なかった<rt class="roma">nakatta</rt></ruby> <ruby>あの<rt class="roma">ano</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">To that night that couldn't become the future</div>
-<div class="trans-lyric">To that night that couldn't become the future</div>
-<div class="trans-lyric">To that night that couldn't become the future</div>
 </div>
 
 <div class="lyric-line">

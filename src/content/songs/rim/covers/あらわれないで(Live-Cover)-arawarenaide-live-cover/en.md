@@ -36,14 +36,12 @@ image: /images/albums/rim/chocolate-live-4.jpg
 [00:15.46]<ruby>どうして<rt class="roma">doushite</rt></ruby><ruby>くれる<rt class="roma">kureru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="trans-lyric">What will you do for me?</div>
-<div class="trans-lyric">What will you do for me?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:18.98]<ruby>抱<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>きしめ<rt class="roma">kishime</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>触<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>のに<rt class="roma">noni</rt></ruby>
 </div>
-<div class="trans-lyric">You held me and touched me, yet</div>
 <div class="trans-lyric">You held me and touched me, yet</div>
 </div>
 
@@ -52,15 +50,12 @@ image: /images/albums/rim/chocolate-live-4.jpg
 [00:22.95]<ruby>甘<rt class="furi">あま</rt><rt class="roma">ama</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>ときめき<rt class="roma">tokimeki</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>返<rt class="furi">かえ</rt><rt class="roma">kae</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">Give me back that sweet thrill</div>
-<div class="trans-lyric">Give me back that sweet thrill</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:22.95]<ruby>もう一度<rt class="furi">もういちど</rt><rt class="roma">mouichido</rt></ruby>
 </div>
-<div class="trans-lyric">Once more</div>
-<div class="trans-lyric">Once more</div>
 <div class="trans-lyric">Once more</div>
 </div>
 

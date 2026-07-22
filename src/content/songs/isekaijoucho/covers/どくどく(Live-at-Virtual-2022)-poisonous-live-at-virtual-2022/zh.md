@@ -37,14 +37,12 @@ image: /images/albums/rim/singularity-live.jpg
 <ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>まさに<rt class="roma">masani</rt></ruby><ruby>ボク<rt class="roma">boku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>事<rt class="furi">こと</rt><rt class="roma">koto</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
 </div>
 <div class="cn-lyric">此刻我所说的话语</div>
-<div class="cn-lyric">此刻我所说的话语</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>皆様<rt class="furi">みなさま</rt><rt class="roma">minasama</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>伝<rt class="furi">つた</rt><rt class="roma">tsuta</rt></ruby><ruby>わら<rt class="roma">wara</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
-<div class="cn-lyric">似乎无法传达给诸位</div>
 <div class="cn-lyric">似乎无法传达给诸位</div>
 </div>
 
@@ -53,14 +51,12 @@ image: /images/albums/rim/singularity-live.jpg
 <ruby>その<rt class="roma">sono</rt></ruby><ruby>身<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>傷<rt class="furi">きず</rt><rt class="roma">kizu</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>つか<rt class="roma">tsuka</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby>
 </div>
 <div class="cn-lyric">才不会伤到你那身体呢</div>
-<div class="cn-lyric">才不会伤到你那身体呢</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>聞<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>耳<rt class="furi">みみ</rt><rt class="roma">mimi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>持<rt class="furi">も</rt><rt class="roma">mo</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>馬鹿<rt class="furi">ばか</rt><rt class="roma">baka</rt></ruby><ruby>じゃん<rt class="roma">jan</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
 </div>
-<div class="cn-lyric">连耳朵都不听的笨蛋不是吗</div>
 <div class="cn-lyric">连耳朵都不听的笨蛋不是吗</div>
 </div>
 
@@ -97,8 +93,6 @@ image: /images/albums/rim/singularity-live.jpg
 <ruby>どくどく<rt class="roma">dokudoku</rt></ruby><ruby>どく<rt class="roma">doku</rt></ruby><ruby>毒<rt class="furi">どく</rt><rt class="roma">doku</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">毒毒毒 被毒害</div>
-<div class="cn-lyric">毒毒毒 被毒害</div>
-<div class="cn-lyric">毒毒毒 被毒害</div>
 </div>
 
 <div class="lyric-line">
@@ -106,16 +100,12 @@ image: /images/albums/rim/singularity-live.jpg
 <ruby>どくどく<rt class="roma">dokudoku</rt></ruby><ruby>どく<rt class="roma">doku</rt></ruby><ruby>ボク<rt class="roma">boku</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>夢中<rt class="furi">むちゅう</rt><rt class="roma">muchuu</rt></ruby>
 </div>
 <div class="cn-lyric">毒毒毒 对我着迷</div>
-<div class="cn-lyric">毒毒毒 对我着迷</div>
-<div class="cn-lyric">毒毒毒 对我着迷</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>どくどく<rt class="roma">dokudoku</rt></ruby><ruby>どく<rt class="roma">doku</rt></ruby><ruby>神様<rt class="furi">かみさま</rt><rt class="roma">kamisama</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>なる<rt class="roma">naru</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
-<div class="cn-lyric">毒毒毒 简直要成为神明了呢</div>
-<div class="cn-lyric">毒毒毒 简直要成为神明了呢</div>
 <div class="cn-lyric">毒毒毒 简直要成为神明了呢</div>
 </div>
 

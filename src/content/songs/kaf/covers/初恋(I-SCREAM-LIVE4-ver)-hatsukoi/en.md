@@ -34,14 +34,12 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 <ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>隣<rt class="furi">となり</rt><rt class="roma">tonari</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>景色<rt class="furi">けしき</rt><rt class="roma">keshiki</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="trans-lyric">The scenery I saw by your side</div>
-<div class="trans-lyric">The scenery I saw by your side</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>永遠<rt class="furi">えいえん</rt><rt class="roma">eien</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>続<rt class="furi">つづ</rt><rt class="roma">tsuzu</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>そう<rt class="roma">sou</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>でし<rt class="roma">deshi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
-<div class="trans-lyric">Was a dream that seemed to last forever</div>
 <div class="trans-lyric">Was a dream that seemed to last forever</div>
 </div>
 
@@ -195,14 +193,12 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 <ruby>馬鹿<rt class="furi">ばか</rt><rt class="roma">baka</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>な<rt class="roma">na</rt></ruby> <ruby>あなた<rt class="roma">anata</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>許<rt class="furi">ゆる</rt><rt class="roma">yuru</rt></ruby><ruby>せる<rt class="roma">seru</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">I'm so foolish, until I could forgive you</div>
-<div class="trans-lyric">I'm so foolish, until I could forgive you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>こんなにも<rt class="roma">konnanimo</rt></ruby> <ruby>こんなにも<rt class="roma">konnanimo</rt></ruby> <ruby>時<rt class="furi">とき</rt><rt class="roma">toki</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>流<rt class="furi">なが</rt><rt class="roma">naga</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
-<div class="trans-lyric">So much, so much time has passed</div>
 <div class="trans-lyric">So much, so much time has passed</div>
 </div>
 

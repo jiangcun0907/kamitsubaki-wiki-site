@@ -67,7 +67,6 @@ image: /images/songs/vwp/single-1700373014.jpg
 [00:16.77]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>たち<rt class="roma">tachi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ここ<rt class="roma">koko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby>
 </div>
 <div class="trans-lyric">We are here</div>
-<div class="trans-lyric">We are here</div>
 </div>
 
 <br />

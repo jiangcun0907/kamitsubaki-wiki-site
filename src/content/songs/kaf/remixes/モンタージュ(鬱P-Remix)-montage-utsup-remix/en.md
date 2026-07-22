@@ -168,8 +168,6 @@ image: /images/albums/kaf/maho-gamma.jpg
 [01:01.26]<ruby>モンタージュ<rt class="roma">montaaju</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>かかった<rt class="roma">kakatta</rt></ruby>
 </div>
 <div class="trans-lyric">A montage-covered</div>
-<div class="trans-lyric">A montage-covered</div>
-<div class="trans-lyric">A montage-covered</div>
 </div>
 
 <div class="lyric-line">
@@ -177,8 +175,6 @@ image: /images/albums/kaf/maho-gamma.jpg
 [01:02.62]<ruby>どの<rt class="roma">dono</rt></ruby><ruby>部分<rt class="furi">ぶぶん</rt><rt class="roma">bubun</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>好<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>です<rt class="roma">desu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
 </div>
 <div class="trans-lyric">[01:02.62]Which part do you like?</div>
-<div class="trans-lyric">Which part do you like?</div>
-<div class="trans-lyric">Which part do you like?</div>
 </div>
 
 <div class="lyric-line">

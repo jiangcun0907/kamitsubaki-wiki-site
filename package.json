@@ -12,6 +12,7 @@
     "lyrics:timestamps:fetch": "node scripts/fetch-lyrics-timestamps.mjs",
     "lyrics:timestamps:apply": "node scripts/apply-lyrics-timestamps.mjs",
     "lyrics:timestamps:audit": "node scripts/audit-lyrics-timestamps.mjs",
+    "lyrics:content:repair": "node scripts/repair-lyrics-content.mjs",
     "contributors:sync": "node scripts/sync-contributors.mjs"
   },
   "dependencies": {

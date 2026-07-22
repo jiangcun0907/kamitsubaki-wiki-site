@@ -140,7 +140,6 @@ image: /images/albums/kaf/maho-gamma.jpg
 [01:01.77]<ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>信<rt class="furi">しん</rt><rt class="roma">shin</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>目指<rt class="furi">めざ</rt><rt class="roma">meza</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[01:01.77]相信什么 以什么为目标</div>
-<div class="cn-lyric">相信什么 以什么为目标</div>
 </div>
 
 <div class="lyric-line">
@@ -169,8 +168,6 @@ image: /images/albums/kaf/maho-gamma.jpg
 [01:12.51]<ruby>畢生<rt class="furi">ひっせい</rt><rt class="roma">hissei</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:12.51]毕生啊</div>
-<div class="cn-lyric">毕生啊</div>
-<div class="cn-lyric">毕生啊</div>
 </div>
 
 <div class="lyric-line">

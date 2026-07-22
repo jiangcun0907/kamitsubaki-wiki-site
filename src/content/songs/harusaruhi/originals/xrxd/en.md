@@ -36,13 +36,6 @@ XRXD appears on RULE THE WORLD or a related official release. Entries are versio
 [00:05.09]Log in to my life
 </div>
 <div class="trans-lyric">Log in to my life</div>
-<div class="trans-lyric">Log in to my life</div>
-<div class="trans-lyric">Log in to my life</div>
-<div class="trans-lyric">Log in to my life</div>
-<div class="trans-lyric">Log in to my life</div>
-<div class="trans-lyric">Log in to my life</div>
-<div class="trans-lyric">Log in to my life</div>
-<div class="trans-lyric">Log in to my life</div>
 </div>
 
 <div class="lyric-line">
@@ -50,14 +43,12 @@ XRXD appears on RULE THE WORLD or a related official release. Entries are versio
 [00:07.43]<ruby>自由自在<rt class="furi">じゆうじざい</rt><rt class="roma">jiyuujizai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>パレード<rt class="roma">pareedo</rt></ruby>
 </div>
 <div class="trans-lyric">A free-spirited parade</div>
-<div class="trans-lyric">A free-spirited parade</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:09.66]I do whatever I want
 </div>
-<div class="trans-lyric">I do whatever I want</div>
 <div class="trans-lyric">I do whatever I want</div>
 </div>
 
@@ -78,14 +69,12 @@ XRXD appears on RULE THE WORLD or a related official release. Entries are versio
 [00:15.44]<ruby>ほら<rt class="roma">hora</rt></ruby><ruby>お<rt class="roma">o</rt></ruby><ruby>揃<rt class="furi">そろ</rt><rt class="roma">soro</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>羽根<rt class="furi">はね</rt><rt class="roma">hane</rt></ruby>
 </div>
 <div class="trans-lyric">Look, matching wings</div>
-<div class="trans-lyric">Look, matching wings</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:18.06]You can do whatever you want
 </div>
-<div class="trans-lyric">You can do whatever you want</div>
 <div class="trans-lyric">You can do whatever you want</div>
 </div>
 

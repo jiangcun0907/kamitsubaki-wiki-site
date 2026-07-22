@@ -43,8 +43,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [00:08.25]<ruby>針<rt class="furi">はり</rt><rt class="roma">hari</rt></ruby><ruby>落<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>とせ<rt class="roma">tose</rt></ruby> <ruby>音<rt class="furi">おと</rt><rt class="roma">oto</rt></ruby><ruby>鳴<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>らせ<rt class="roma">rase</rt></ruby> <ruby>パーリナイ<rt class="roma">paarinai</rt></ruby>
 </div>
 <div class="trans-lyric">Drop the needle, make the sound, party night</div>
-<div class="trans-lyric">Drop the needle, make the sound, party night</div>
-<div class="trans-lyric">Drop the needle, make the sound, party night</div>
 </div>
 
 <div class="lyric-line">
@@ -52,18 +50,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [00:12.04]<ruby>飲<rt class="furi">の</rt><rt class="roma">no</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby> <ruby>ライ<rt class="roma">rai</rt></ruby> <ruby>ライ<rt class="roma">rai</rt></ruby> <ruby>ライ<rt class="roma">rai</rt></ruby> <ruby>みんな<rt class="roma">minna</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>踊<rt class="furi">おど</rt><rt class="roma">odo</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby>！
 </div>
 <div class="trans-lyric">Let's drink, rai rai rai, everyone dance!</div>
-<div class="trans-lyric">Let's drink, rai rai rai, everyone dance!</div>
-<div class="trans-lyric">Let's drink, rai rai rai, everyone dance!</div>
-<div class="trans-lyric">Let's drink, rai rai rai, everyone dance!</div>
-<div class="trans-lyric">Let's drink, rai rai rai, everyone dance!</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:16.08]Hip-pop <ruby>ピーポー<rt class="roma">piipou</rt></ruby> <ruby>かけ<rt class="roma">kake</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>ミラクル<rt class="roma">mirakuru</rt></ruby> number
 </div>
-<div class="trans-lyric">Hip-pop, beep-boop, play a miracle number</div>
-<div class="trans-lyric">Hip-pop, beep-boop, play a miracle number</div>
 <div class="trans-lyric">Hip-pop, beep-boop, play a miracle number</div>
 </div>
 
@@ -112,7 +104,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 <div class="jp-lyric">
 [00:53.28]Hey DJ <ruby>カマ<rt class="roma">kama</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby> yeah yeah yeah <ruby>気分<rt class="furi">きぶん</rt><rt class="roma">kibun</rt></ruby><ruby>上々<rt class="furi">じょうじょう</rt><rt class="roma">joujou</rt></ruby>↑↑<ruby>の<rt class="roma">no</rt></ruby>
 </div>
-<div class="trans-lyric">Hey DJ, rock it yeah yeah yeah, mood is soaring↑↑</div>
 <div class="trans-lyric">Hey DJ, rock it yeah yeah yeah, mood is soaring↑↑</div>
 </div>
 
@@ -180,14 +171,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [01:47.06]Hey DJ <ruby>シャシャ<rt class="roma">shasha</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby> yeah yeah yeah <ruby>気分<rt class="furi">きぶん</rt><rt class="roma">kibun</rt></ruby><ruby>上々<rt class="furi">じょうじょう</rt><rt class="roma">joujou</rt></ruby>↑↑<ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="trans-lyric">Hey DJ, rock it yeah yeah yeah, mood is soaring↑↑</div>
-<div class="trans-lyric">Hey DJ, rock it yeah yeah yeah, mood is soaring↑↑</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:52.02]<ruby>波<rt class="furi">なみ</rt><rt class="roma">nami</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>乗<rt class="furi">の</rt><rt class="roma">no</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby> <ruby>弾<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>飛<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>べ<rt class="roma">be</rt></ruby> <ruby>ファンキナイ<rt class="roma">fuankinai</rt></ruby>
 </div>
-<div class="trans-lyric">Ride the wave, burst out, funky night</div>
 <div class="trans-lyric">Ride the wave, burst out, funky night</div>
 </div>
 
@@ -201,7 +190,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 <div class="jp-lyric">
 [01:59.73]Hip-pop <ruby>ピーポー<rt class="roma">piipou</rt></ruby> <ruby>朝<rt class="furi">あさ</rt><rt class="roma">asa</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>ミラクル<rt class="roma">mirakuru</rt></ruby> number
 </div>
-<div class="trans-lyric">Hip-pop, beep-boop, miracle number until morning</div>
 <div class="trans-lyric">Hip-pop, beep-boop, miracle number until morning</div>
 </div>
 
@@ -280,7 +268,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [03:11.53]Hey DJ <ruby>カマ<rt class="roma">kama</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby> yeah yeah yeah
 </div>
 <div class="trans-lyric">Hey DJ, rock it yeah yeah yeah</div>
-<div class="trans-lyric">Hey DJ, rock it yeah yeah yeah</div>
 </div>
 
 <div class="lyric-line">
@@ -288,17 +275,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [03:16.32]<ruby>飲<rt class="furi">の</rt><rt class="roma">no</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby> <ruby>ライ<rt class="roma">rai</rt></ruby> <ruby>ライ<rt class="roma">rai</rt></ruby> <ruby>ライ<rt class="roma">rai</rt></ruby>
 </div>
 <div class="trans-lyric">Let's drink, rai rai rai</div>
-<div class="trans-lyric">Let's drink, rai rai rai</div>
-<div class="trans-lyric">Let's drink, rai rai rai</div>
-<div class="trans-lyric">Let's drink, rai rai rai</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [03:20.12]<ruby>カマ<rt class="roma">kama</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby> yeah yeah yeah
 </div>
-<div class="trans-lyric">Rock it yeah yeah yeah</div>
-<div class="trans-lyric">Rock it yeah yeah yeah</div>
 <div class="trans-lyric">Rock it yeah yeah yeah</div>
 </div>
 

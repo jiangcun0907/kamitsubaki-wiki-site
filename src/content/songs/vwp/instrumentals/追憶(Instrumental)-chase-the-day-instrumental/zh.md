@@ -104,14 +104,12 @@ Just can't seem to find home
 Watch the day
 </div>
 <div class="cn-lyric">看着白天</div>
-<div class="cn-lyric">看着白天</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Kiss the night
 </div>
-<div class="cn-lyric">亲吻夜晚</div>
 <div class="cn-lyric">亲吻夜晚</div>
 </div>
 
@@ -134,7 +132,6 @@ Feel the ache
 Behind my eyes
 </div>
 <div class="cn-lyric">在眼底</div>
-<div class="cn-lyric">在眼底</div>
 </div>
 
 <div class="lyric-line">
@@ -149,15 +146,12 @@ Now the world changed forever and we can't hide
 Can not escape everything that's just erased
 </div>
 <div class="cn-lyric">无法逃避一切被抹去的事物</div>
-<div class="cn-lyric">无法逃避一切被抹去的事物</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Chase the day
 </div>
-<div class="cn-lyric">追逐白昼</div>
-<div class="cn-lyric">追逐白昼</div>
 <div class="cn-lyric">追逐白昼</div>
 </div>
 
@@ -166,7 +160,6 @@ Chase the day
 Go save the night
 </div>
 <div class="cn-lyric">去拯救夜晚</div>
-<div class="cn-lyric">去拯救夜晚</div>
 </div>
 
 <div class="lyric-line">
@@ -174,15 +167,12 @@ Go save the night
 Still I'll be here forever right by your side
 </div>
 <div class="cn-lyric">而我仍会永远在你身边</div>
-<div class="cn-lyric">而我仍会永远在你身边</div>
-<div class="cn-lyric">而我仍会永远在你身边</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 I'll be right by your side
 </div>
-<div class="cn-lyric">我会在你身边</div>
 <div class="cn-lyric">我会在你身边</div>
 </div>
 

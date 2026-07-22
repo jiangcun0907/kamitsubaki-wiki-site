@@ -174,8 +174,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 <ruby>忘<rt class="furi">わす</rt><rt class="roma">wasu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>られ<rt class="roma">rare</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>や<rt class="roma">ya</rt></ruby>
 </div>
 <div class="cn-lyric">无法忘记的你的事</div>
-<div class="cn-lyric">无法忘记的你的事</div>
-<div class="cn-lyric">无法忘记的你的事</div>
 </div>
 
 <div class="lyric-line">

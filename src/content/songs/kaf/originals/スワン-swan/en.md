@@ -94,7 +94,6 @@ image: /images/albums/kaf/guwa.jpg
 <ruby>太陽<rt class="furi">たいよう</rt><rt class="roma">taiyou</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>近<rt class="furi">ちか</rt><rt class="roma">chika</rt></ruby><ruby>づい<rt class="roma">zui</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>毎日<rt class="furi">まいにち</rt><rt class="roma">mainichi</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>毎日<rt class="furi">まいにち</rt><rt class="roma">mainichi</rt></ruby>
 </div>
 <div class="trans-lyric">Days that seem to approach the sun, day after day</div>
-<div class="trans-lyric">Days that seem to approach the sun, day after day</div>
 </div>
 
 <div class="lyric-line">

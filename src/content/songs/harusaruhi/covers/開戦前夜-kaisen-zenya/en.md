@@ -135,7 +135,6 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 <ruby>勝<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby><ruby>負<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>猿芝居<rt class="furi">さるしばい</rt><rt class="roma">sarushibai</rt></ruby> <ruby>行方<rt class="furi">ゆくえ</rt><rt class="roma">yukue</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>俺<rt class="furi">おれ</rt><rt class="roma">ore</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>貴様<rt class="furi">きさま</rt><rt class="roma">kisama</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>気<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>違<rt class="furi">ちが</rt><rt class="roma">chiga</rt></ruby><ruby>い<rt class="roma">i</rt></ruby>
 </div>
 <div class="trans-lyric">Monkey show of win or lose, the outcome drives both you and me mad</div>
-<div class="trans-lyric">Monkey show of win or lose, the outcome drives both you and me mad</div>
 </div>
 
 <br />
@@ -240,9 +239,6 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 <div class="jp-lyric">
 <ruby>勝<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>負<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby> <ruby>己<rt class="furi">おのれ</rt><rt class="roma">onore</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>勝負<rt class="furi">しょうぶ</rt><rt class="roma">shoubu</rt></ruby>
 </div>
-<div class="trans-lyric">Win or lose, it's my own battle</div>
-<div class="trans-lyric">Win or lose, it's my own battle</div>
-<div class="trans-lyric">Win or lose, it's my own battle</div>
 <div class="trans-lyric">Win or lose, it's my own battle</div>
 </div>
 

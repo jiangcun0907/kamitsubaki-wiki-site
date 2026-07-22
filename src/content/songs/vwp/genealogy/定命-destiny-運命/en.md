@@ -46,9 +46,6 @@ image: /images/albums/vwp/fate.jpg
 [00:01.45]V.W.P
 </div>
 <div class="trans-lyric">V.W.P</div>
-<div class="trans-lyric">V.W.P</div>
-<div class="trans-lyric">V.W.P</div>
-<div class="trans-lyric">V.W.P</div>
 </div>
 
 <div class="lyric-line">
@@ -112,7 +109,6 @@ image: /images/albums/vwp/fate.jpg
 <div class="jp-lyric">
 [00:43.23]<ruby>テステスマイクチェック<rt class="roma">tesutesumaikuchekku</rt></ruby> <ruby>ワンツー<rt class="roma">wantsuu</rt></ruby>？
 </div>
-<div class="trans-lyric">Test test mic check one two?</div>
 <div class="trans-lyric">Test test mic check one two?</div>
 </div>
 
@@ -215,7 +211,6 @@ image: /images/albums/vwp/fate.jpg
 <div class="jp-lyric">
 [01:22.89]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby> V.W.P
 </div>
-<div class="trans-lyric">We are V.W.P</div>
 <div class="trans-lyric">We are V.W.P</div>
 </div>
 

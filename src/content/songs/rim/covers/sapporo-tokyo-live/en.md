@@ -115,7 +115,6 @@ SAPPORO TOKYO (Live) appears on CHOCOLATE LIVE3 or a related official release. E
 [00:48.86](Tu-ru-ru, tu-ru-ru, tu-ru-ru) yeah
 </div>
 <div class="trans-lyric">(Tu-ru-ru, tu-ru-ru, tu-ru-ru) yeah</div>
-<div class="trans-lyric">(Tu-ru-ru, tu-ru-ru, tu-ru-ru) yeah</div>
 </div>
 
 <br />
@@ -124,7 +123,6 @@ SAPPORO TOKYO (Live) appears on CHOCOLATE LIVE3 or a related official release. E
 <div class="jp-lyric">
 [00:53.34]<ruby>さあ<rt class="roma">saa</rt></ruby>、<ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>こ<rt class="roma">ko</rt></ruby><ruby>う<rt class="roma">u</rt></ruby> <ruby>帰<rt class="furi">かえ</rt><rt class="roma">kae</rt></ruby><ruby>ろ<rt class="roma">ro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="trans-lyric">Come on, let's go, let's go home</div>
 <div class="trans-lyric">Come on, let's go, let's go home</div>
 </div>
 
@@ -140,14 +138,12 @@ SAPPORO TOKYO (Live) appears on CHOCOLATE LIVE3 or a related official release. E
 [00:58.97]One, two, three <ruby>で<rt class="roma">de</rt></ruby> flying up
 </div>
 <div class="trans-lyric">One, two, three, flying up</div>
-<div class="trans-lyric">One, two, three, flying up</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:01.51]<ruby>チケット<rt class="roma">chiketto</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>高<rt class="furi">たか</rt><rt class="roma">taka</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>や<rt class="roma">ya</rt></ruby>
 </div>
-<div class="trans-lyric">Tickets are expensive</div>
 <div class="trans-lyric">Tickets are expensive</div>
 </div>
 
@@ -163,14 +159,12 @@ SAPPORO TOKYO (Live) appears on CHOCOLATE LIVE3 or a related official release. E
 [01:10.24]A, B, C <ruby>で<rt class="roma">de</rt></ruby> coming back
 </div>
 <div class="trans-lyric">A, B, C, coming back</div>
-<div class="trans-lyric">A, B, C, coming back</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:12.84]<ruby>ありがとう<rt class="roma">arigatou</rt></ruby> <ruby>ただいま<rt class="roma">tadaima</rt></ruby>
 </div>
-<div class="trans-lyric">Thank you, I'm home</div>
 <div class="trans-lyric">Thank you, I'm home</div>
 </div>
 
@@ -179,18 +173,12 @@ SAPPORO TOKYO (Live) appears on CHOCOLATE LIVE3 or a related official release. E
 [01:15.81](Tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-tu)
 </div>
 <div class="trans-lyric">(Tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-tu)</div>
-<div class="trans-lyric">(Tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-tu)</div>
-<div class="trans-lyric">(Tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-tu)</div>
-<div class="trans-lyric">(Tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-tu)</div>
-<div class="trans-lyric">(Tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-tu)</div>
-<div class="trans-lyric">(Tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-ru-ru, tu-tu)</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:19.75]Sapporo Tokyo
 </div>
-<div class="trans-lyric">Sapporo Tokyo</div>
 <div class="trans-lyric">Sapporo Tokyo</div>
 </div>
 

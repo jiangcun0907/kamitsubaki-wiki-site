@@ -66,14 +66,12 @@ B4<ruby>の<rt class="roma">no</rt></ruby><ruby>紙切<rt class="furi">かみき
 <ruby>先頭<rt class="furi">せんとう</rt><rt class="roma">sentou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>遠<rt class="furi">とお</rt><rt class="roma">too</rt></ruby><ruby>ざかる<rt class="roma">zakaru</rt></ruby>
 </div>
 <div class="trans-lyric">The front keeps getting farther away</div>
-<div class="trans-lyric">The front keeps getting farther away</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>人<rt class="furi">にん</rt><rt class="roma">nin</rt></ruby><ruby>取り残<rt class="furi">とりのこ</rt><rt class="roma">torinoko</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby>
 </div>
-<div class="trans-lyric">Left behind alone</div>
 <div class="trans-lyric">Left behind alone</div>
 </div>
 
@@ -89,7 +87,6 @@ B4<ruby>の<rt class="roma">no</rt></ruby><ruby>紙切<rt class="furi">かみき
 <ruby>だけど<rt class="roma">dakedo</rt></ruby>
 </div>
 <div class="trans-lyric">But</div>
-<div class="trans-lyric">But</div>
 </div>
 
 <br />
@@ -99,7 +96,6 @@ B4<ruby>の<rt class="roma">no</rt></ruby><ruby>紙切<rt class="furi">かみき
 <ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>わから<rt class="roma">wakara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">I don't know what I want to do</div>
-<div class="trans-lyric">I don't know what I want to do</div>
 </div>
 
 <div class="lyric-line">
@@ -107,14 +103,12 @@ B4<ruby>の<rt class="roma">no</rt></ruby><ruby>紙切<rt class="furi">かみき
 <ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>できる<rt class="roma">dekiru</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>わから<rt class="roma">wakara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">I don't know what I can do</div>
-<div class="trans-lyric">I don't know what I can do</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>そう<rt class="roma">sou</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>ながら<rt class="roma">nagara</rt></ruby><ruby>這<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>いつくばって<rt class="roma">itsukubatte</rt></ruby><ruby>ここ<rt class="roma">koko</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>来<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">Saying that, I've crawled and made it this far</div>
 <div class="trans-lyric">Saying that, I've crawled and made it this far</div>
 </div>
 
@@ -125,14 +119,12 @@ B4<ruby>の<rt class="roma">no</rt></ruby><ruby>紙切<rt class="furi">かみき
 <ruby>明日<rt class="furi">あした</rt><rt class="roma">ashita</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>わから<rt class="roma">wakara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">I don't know about tomorrow</div>
-<div class="trans-lyric">I don't know about tomorrow</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>昨日<rt class="furi">きのう</rt><rt class="roma">kinou</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>かわら<rt class="roma">kawara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="trans-lyric">Yesterday won't change</div>
 <div class="trans-lyric">Yesterday won't change</div>
 </div>
 
@@ -166,14 +158,12 @@ B4<ruby>の<rt class="roma">no</rt></ruby><ruby>紙切<rt class="furi">かみき
 <ruby>期待<rt class="furi">きたい</rt><rt class="roma">kitai</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>まま<rt class="roma">mama</rt></ruby>
 </div>
 <div class="trans-lyric">Remaining without expectations placed on me</div>
-<div class="trans-lyric">Remaining without expectations placed on me</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>期待<rt class="furi">きたい</rt><rt class="roma">kitai</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>まま<rt class="roma">mama</rt></ruby>
 </div>
-<div class="trans-lyric">Without expecting anything myself</div>
 <div class="trans-lyric">Without expecting anything myself</div>
 </div>
 

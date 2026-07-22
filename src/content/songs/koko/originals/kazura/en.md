@@ -134,14 +134,12 @@ Kazura appears on Kazura or a related official release. Entries are version-spec
 [00:55.92]<ruby>分<rt class="furi">わ</rt><rt class="roma">wa</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">I don't know</div>
-<div class="trans-lyric">I don't know</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:55.92]<ruby>ない<rt class="roma">nai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">There isn't</div>
 <div class="trans-lyric">There isn't</div>
 </div>
 
@@ -150,14 +148,12 @@ Kazura appears on Kazura or a related official release. Entries are version-spec
 [01:00.08]<ruby>絡<rt class="furi">から</rt><rt class="roma">kara</rt></ruby><ruby>みつく<rt class="roma">mitsuku</rt></ruby><ruby>涙<rt class="furi">なみだ</rt><rt class="roma">namida</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
 </div>
 <div class="trans-lyric">Tears that entangle</div>
-<div class="trans-lyric">Tears that entangle</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:00.08]<ruby>枝<rt class="furi">えだ</rt><rt class="roma">eda</rt></ruby><ruby>分<rt class="furi">わ</rt><rt class="roma">wa</rt></ruby><ruby>かれ<rt class="roma">kare</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>音<rt class="furi">おと</rt><rt class="roma">oto</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>張<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby>
 </div>
-<div class="trans-lyric">Branching out and resonating</div>
 <div class="trans-lyric">Branching out and resonating</div>
 </div>
 
@@ -166,14 +162,12 @@ Kazura appears on Kazura or a related official release. Entries are version-spec
 [01:07.45]<ruby>蔓<rt class="furi">つる</rt><rt class="roma">tsuru</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>化<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>体<rt class="furi">からだ</rt><rt class="roma">karada</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="trans-lyric">The body that turns into a vine</div>
-<div class="trans-lyric">The body that turns into a vine</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:07.45]<ruby>全<rt class="furi">すべ</rt><rt class="roma">sube</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>覆<rt class="furi">おお</rt><rt class="roma">oo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>ながら<rt class="roma">nagara</rt></ruby>
 </div>
-<div class="trans-lyric">While covering everything</div>
 <div class="trans-lyric">While covering everything</div>
 </div>
 

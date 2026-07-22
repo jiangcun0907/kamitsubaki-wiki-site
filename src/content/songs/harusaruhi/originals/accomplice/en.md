@@ -64,7 +64,6 @@ Accomplice appears on Accomplice or a related official release. Entries are vers
 [01:02.63]I am on your tail
 </div>
 <div class="trans-lyric">I am on your tail</div>
-<div class="trans-lyric">I am on your tail</div>
 </div>
 
 <div class="lyric-line">

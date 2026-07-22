@@ -15,6 +15,7 @@ import {
   decodeNumericEntities,
   extractLocalLyricLines,
   isReliableAlignment,
+  lrcTimeToSeconds,
   parseLrc,
   rankTrackCandidates,
 } from './lyrics-timestamp-utils.mjs';
@@ -202,9 +203,10 @@ const providers = [
   { name: 'kugou', search: searchKugou, fetchLyrics: fetchKugouLyrics },
 ];
 
-function evaluateLyrics(lrcText, referenceLines) {
+function evaluateLyrics(lrcText, referenceLines, duration = 0) {
   const parsed = parseLrc(lrcText);
   if (parsed.length === 0) return null;
+  if (duration > 0 && parsed.some(({ time }) => lrcTimeToSeconds(time) > duration + 10)) return null;
   const alignment = alignLyrics(referenceLines, parsed);
   return isReliableAlignment(alignment) ? { parsed, alignment } : null;
 }
@@ -213,7 +215,7 @@ async function tryCuratedNetease(group) {
   if (!group.neteaseId) return null;
   try {
     const lrcText = await fetchNeteaseLyrics(group.neteaseId);
-    const evaluated = lrcText && evaluateLyrics(lrcText, group.referenceLines);
+    const evaluated = lrcText && evaluateLyrics(lrcText, group.referenceLines, group.duration);
     if (!evaluated) return null;
     return {
       source: 'netease',
@@ -234,7 +236,7 @@ async function searchProvider(provider, variant, group) {
     const ranked = rankTrackCandidates(candidates, { ...variant, duration: group.duration });
     for (const { candidate, match } of ranked.slice(0, 3)) {
       const lrcText = await provider.fetchLyrics(candidate);
-      const evaluated = lrcText && evaluateLyrics(lrcText, group.referenceLines);
+      const evaluated = lrcText && evaluateLyrics(lrcText, group.referenceLines, group.duration);
       if (!evaluated) continue;
       return {
         source: provider.name,

@@ -36,7 +36,6 @@ image: /images/songs/isekaijoucho/single-1706063153.jpg
 [00:01.20]<ruby>こわれる<rt class="roma">kowareru</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>だきしめ<rt class="roma">dakishime</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">Hold me tight until I break</div>
-<div class="trans-lyric">Hold me tight until I break</div>
 </div>
 
 <div class="lyric-line">

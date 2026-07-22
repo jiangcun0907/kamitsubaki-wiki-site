@@ -31,10 +31,6 @@ image: /images/albums/rim/chocolate-live.jpg
 <ruby>あ<rt class="roma">a</rt></ruby><ruby>やや<rt class="roma">yaya</rt></ruby><ruby>こ<rt class="roma">ko</rt></ruby><ruby>やや<rt class="roma">yaya</rt></ruby><ruby>先生<rt class="furi">せんせい</rt><rt class="roma">sensei</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>ったろ<rt class="roma">ttaro</rt></ruby>
 </div>
 <div class="trans-lyric">Ayaya koyaya, I'll tell the teacher</div>
-<div class="trans-lyric">Ayaya koyaya, I'll tell the teacher</div>
-<div class="trans-lyric">Ayaya koyaya, I'll tell the teacher</div>
-<div class="trans-lyric">Ayaya koyaya, I'll tell the teacher</div>
-<div class="trans-lyric">Ayaya koyaya, I'll tell the teacher</div>
 </div>
 
 <div class="lyric-line">
@@ -147,14 +143,12 @@ image: /images/albums/rim/chocolate-live.jpg
 <ruby>寂<rt class="furi">さび</rt><rt class="roma">sabi</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>なあ<rt class="roma">naa</rt></ruby>
 </div>
 <div class="trans-lyric">So lonely</div>
-<div class="trans-lyric">So lonely</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>怖<rt class="furi">こわ</rt><rt class="roma">kowa</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>なあ<rt class="roma">naa</rt></ruby>
 </div>
-<div class="trans-lyric">So scared</div>
 <div class="trans-lyric">So scared</div>
 </div>
 
@@ -170,14 +164,12 @@ image: /images/albums/rim/chocolate-live.jpg
 <ruby>あ<rt class="roma">a</rt></ruby><ruby>やや<rt class="roma">yaya</rt></ruby><ruby>こ<rt class="roma">ko</rt></ruby><ruby>やや<rt class="roma">yaya</rt></ruby>
 </div>
 <div class="trans-lyric">Ayaya koyaya</div>
-<div class="trans-lyric">Ayaya koyaya</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>先生<rt class="furi">せんせい</rt><rt class="roma">sensei</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>ったろ<rt class="roma">ttaro</rt></ruby>
 </div>
-<div class="trans-lyric">I'll tell the teacher</div>
 <div class="trans-lyric">I'll tell the teacher</div>
 </div>
 
@@ -229,7 +221,6 @@ image: /images/albums/rim/chocolate-live.jpg
 <div class="jp-lyric">
 <ruby>先生<rt class="furi">せんせい</rt><rt class="roma">sensei</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>んで<rt class="roma">nde</rt></ruby><ruby>泣<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>？
 </div>
-<div class="trans-lyric">Teacher, why are you crying?</div>
 <div class="trans-lyric">Teacher, why are you crying?</div>
 </div>
 

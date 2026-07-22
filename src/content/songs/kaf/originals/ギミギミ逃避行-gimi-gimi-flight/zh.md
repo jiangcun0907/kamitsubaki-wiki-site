@@ -267,14 +267,12 @@ image: /images/songs/kaf/track-1732389947.jpg
 [01:18.63]I wanna feel <ruby>ギルティ<rt class="roma">girutei</rt></ruby>
 </div>
 <div class="cn-lyric">[01:18.63]I wanna feel 罪恶</div>
-<div class="cn-lyric">[01:18.63]I wanna feel 罪恶</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:20.27]gimme gimme <ruby>逃避行<rt class="furi">とうひこう</rt><rt class="roma">touhikou</rt></ruby>
 </div>
-<div class="cn-lyric">[01:20.27]gimme gimme 逃避之旅</div>
 <div class="cn-lyric">[01:20.27]gimme gimme 逃避之旅</div>
 </div>
 
@@ -289,7 +287,6 @@ image: /images/songs/kaf/track-1732389947.jpg
 <div class="jp-lyric">
 [01:26.22]<ruby>ビート<rt class="roma">biito</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>乗<rt class="furi">の</rt><rt class="roma">no</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby> <ruby>天使<rt class="furi">てんし</rt><rt class="roma">tenshi</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>悪魔<rt class="furi">あくま</rt><rt class="roma">akuma</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>包囲<rt class="furi">ほうい</rt><rt class="roma">houi</rt></ruby><ruby>網<rt class="furi">もう</rt><rt class="roma">mou</rt></ruby>
 </div>
-<div class="cn-lyric">[01:26.22]乘着节拍 天使与恶魔的包围网</div>
 <div class="cn-lyric">[01:26.22]乘着节拍 天使与恶魔的包围网</div>
 </div>
 
@@ -312,16 +309,12 @@ image: /images/songs/kaf/track-1732389947.jpg
 [01:34.43]<ruby>確<rt class="furi">たし</rt><rt class="roma">tashi</rt></ruby><ruby>かめ<rt class="roma">kame</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>こ<rt class="roma">ko</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="cn-lyric">[01:34.43]去确认吧</div>
-<div class="cn-lyric">[01:34.43]去确认吧</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:35.86]we go we go we go we go
 </div>
-<div class="cn-lyric">[01:35.86]we go we go we go we go</div>
-<div class="cn-lyric">[01:35.86]we go we go we go we go</div>
-<div class="cn-lyric">[01:35.86]we go we go we go we go</div>
 <div class="cn-lyric">[01:35.86]we go we go we go we go</div>
 </div>
 
@@ -330,14 +323,12 @@ image: /images/songs/kaf/track-1732389947.jpg
 [01:38.21]<ruby>何気<rt class="furi">なにげ</rt><rt class="roma">nanige</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>day to day <ruby>色付<rt class="furi">いろづ</rt><rt class="roma">irozu</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby>special day
 </div>
 <div class="cn-lyric">[01:38.21]平凡无奇的day to day 染上色彩的special day</div>
-<div class="cn-lyric">[01:38.21]平凡无奇的day to day 染上色彩的special day</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:42.10]<ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>つけ<rt class="roma">tsuke</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
-<div class="cn-lyric">[01:42.10]想要找到</div>
 <div class="cn-lyric">[01:42.10]想要找到</div>
 </div>
 
@@ -352,14 +343,12 @@ image: /images/songs/kaf/track-1732389947.jpg
 [01:45.88]<ruby>デタラメ<rt class="roma">detarame</rt></ruby>one night
 </div>
 <div class="cn-lyric">[01:45.88]荒唐的one night</div>
-<div class="cn-lyric">[01:45.88]荒唐的one night</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:47.50]<ruby>まだまだ<rt class="roma">madamada</rt></ruby><ruby>遊<rt class="furi">あそ</rt><rt class="roma">aso</rt></ruby><ruby>び<rt class="roma">bi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
-<div class="cn-lyric">[01:47.50]还想继续玩</div>
 <div class="cn-lyric">[01:47.50]还想继续玩</div>
 </div>
 

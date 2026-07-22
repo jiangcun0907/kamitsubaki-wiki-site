@@ -140,7 +140,6 @@ Caffeine appears on CHOCOLATE LIVE2 or a related official release. Entries are v
 [01:13.06]Ah
 </div>
 <div class="trans-lyric">Ah</div>
-<div class="trans-lyric">Ah</div>
 </div>
 
 <br />
@@ -334,14 +333,12 @@ Caffeine appears on CHOCOLATE LIVE2 or a related official release. Entries are v
 [03:01.22]Tu-tu-tu-lu-tu, tu-tu-lu-lu-lu
 </div>
 <div class="trans-lyric">Tu-tu-tu-lu-tu, tu-tu-lu-lu-lu</div>
-<div class="trans-lyric">Tu-tu-tu-lu-tu, tu-tu-lu-lu-lu</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [03:04.63]Tu-tu-tu-lu-tu, tu-tu-lu-lu
 </div>
-<div class="trans-lyric">Tu-tu-tu-lu-tu, tu-tu-lu-lu</div>
 <div class="trans-lyric">Tu-tu-tu-lu-tu, tu-tu-lu-lu</div>
 </div>
 
@@ -350,7 +347,6 @@ Caffeine appears on CHOCOLATE LIVE2 or a related official release. Entries are v
 [03:08.09]Tu-tu-tu-lu-tu, tu-tu-lu-lu-lu-lu
 </div>
 <div class="trans-lyric">Tu-tu-tu-lu-tu, tu-tu-lu-lu-lu-lu</div>
-<div class="trans-lyric">Tu-tu-tu-lu-tu, tu-tu-lu-lu-lu-lu</div>
 </div>
 
 <div class="lyric-line">
@@ -358,7 +354,6 @@ Caffeine appears on CHOCOLATE LIVE2 or a related official release. Entries are v
 [03:13.28]<ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>描<rt class="furi">えが</rt><rt class="roma">ega</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby>
 </div>
 <div class="trans-lyric">[03:13.28]Keep painting dreams</div>
-<div class="trans-lyric">Keep painting dreams</div>
 </div>
 
 <div class="lyric-line">

@@ -33,7 +33,7 @@ image: /images/albums/harusaruhi/shinju.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:04.74]<ruby>やけに<rt class="roma">yakeni</rt></ruby><ruby>妬<rt class="furi">ねた</rt><rt class="roma">neta</rt></ruby><ruby>ましい<rt class="roma">mashii</rt></ruby> <ruby>あの<rt class="roma">ano</rt></ruby><ruby>コ<rt class="roma">ko</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>clever<ruby>な<rt class="roma">na</rt></ruby>lip
+<ruby>やけに<rt class="roma">yakeni</rt></ruby><ruby>妬<rt class="furi">ねた</rt><rt class="roma">neta</rt></ruby><ruby>ましい<rt class="roma">mashii</rt></ruby> <ruby>あの<rt class="roma">ano</rt></ruby><ruby>コ<rt class="roma">ko</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>clever<ruby>な<rt class="roma">na</rt></ruby>lip
 </div>
 <div class="trans-lyric">So envious, that girl's clever lip</div>
 </div>
@@ -54,14 +54,14 @@ image: /images/albums/harusaruhi/shinju.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:15.60]<ruby>でも<rt class="roma">demo</rt></ruby><ruby>価値<rt class="furi">かち</rt><rt class="roma">kachi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>hollow？ <ruby>また<rt class="roma">mata</rt></ruby><ruby>惑<rt class="furi">まど</rt><rt class="roma">mado</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
+<ruby>でも<rt class="roma">demo</rt></ruby><ruby>価値<rt class="furi">かち</rt><rt class="roma">kachi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>hollow？ <ruby>また<rt class="roma">mata</rt></ruby><ruby>惑<rt class="furi">まど</rt><rt class="roma">mado</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="trans-lyric">But is the value hollow? Again I'm lost</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:17.70]Do not follow
+Do not follow
 </div>
 <div class="trans-lyric">Do not follow</div>
 </div>
@@ -77,14 +77,14 @@ image: /images/albums/harusaruhi/shinju.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:23.02]<ruby>羨<rt class="furi">うらや</rt><rt class="roma">uraya</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>たび<rt class="roma">tabi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>色褪<rt class="furi">いろあ</rt><rt class="roma">iroa</rt></ruby><ruby>せる<rt class="roma">seru</rt></ruby>graffiti
+<ruby>羨<rt class="furi">うらや</rt><rt class="roma">uraya</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>たび<rt class="roma">tabi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>色褪<rt class="furi">いろあ</rt><rt class="roma">iroa</rt></ruby><ruby>せる<rt class="roma">seru</rt></ruby>graffiti
 </div>
 <div class="trans-lyric">With each envy, the graffiti fades</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:26.02]<ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>甘<rt class="furi">あま</rt><rt class="roma">ama</rt></ruby><ruby>い<rt class="roma">i</rt></ruby>zitrone
+<ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>甘<rt class="furi">あま</rt><rt class="roma">ama</rt></ruby><ruby>い<rt class="roma">i</rt></ruby>zitrone
 </div>
 <div class="trans-lyric">Because the sweet zitrone reaches me</div>
 </div>
@@ -110,10 +110,6 @@ image: /images/albums/harusaruhi/shinju.jpg
 <ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="trans-lyric">The voice</div>
-<div class="trans-lyric">The voice</div>
-<div class="trans-lyric">The voice</div>
-<div class="trans-lyric">The voice</div>
-<div class="trans-lyric">The voice</div>
 </div>
 
 <div class="lyric-line">
@@ -121,14 +117,12 @@ image: /images/albums/harusaruhi/shinju.jpg
 <ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>どこ<rt class="roma">doko</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>生<rt class="furi">う</rt><rt class="roma">u</rt></ruby><ruby>まれ<rt class="roma">mare</rt></ruby>
 </div>
 <div class="trans-lyric">Where is the voice born</div>
-<div class="trans-lyric">Where is the voice born</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>喉<rt class="furi">のど</rt><rt class="roma">nodo</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>食<rt class="furi">く</rt><rt class="roma">ku</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>破<rt class="furi">やぶ</rt><rt class="roma">yabu</rt></ruby><ruby>ろ<rt class="roma">ro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>？
 </div>
-<div class="trans-lyric">That tries to tear through my throat?</div>
 <div class="trans-lyric">That tries to tear through my throat?</div>
 </div>
 
@@ -143,7 +137,6 @@ image: /images/albums/harusaruhi/shinju.jpg
 <ruby>初<rt class="furi">はじ</rt><rt class="roma">haji</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>皆<rt class="furi">みな</rt><rt class="roma">mina</rt></ruby><ruby>泣き声<rt class="furi">なきごえ</rt><rt class="roma">nakigoe</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">At first, everyone's a cry</div>
-<div class="trans-lyric">At first, everyone's a cry</div>
 </div>
 
 <div class="lyric-line">
@@ -151,15 +144,12 @@ image: /images/albums/harusaruhi/shinju.jpg
 <ruby>だから<rt class="roma">dakara</rt></ruby><ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なろ<rt class="roma">naro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>？
 </div>
 <div class="trans-lyric">So does it try to become a song?</div>
-<div class="trans-lyric">So does it try to become a song?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:47.72]Find me out
+Find me out
 </div>
-<div class="trans-lyric">Find me out</div>
-<div class="trans-lyric">Find me out</div>
 <div class="trans-lyric">Find me out</div>
 </div>
 
@@ -167,14 +157,14 @@ image: /images/albums/harusaruhi/shinju.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:48.75]<ruby>ほら<rt class="roma">hora</rt></ruby>goody two-shoes
+<ruby>ほら<rt class="roma">hora</rt></ruby>goody two-shoes
 </div>
 <div class="trans-lyric">Look, goody two-shoes</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:50.65]<ruby>塗り潰<rt class="furi">ぬりつぶ</rt><rt class="roma">nuritsubu</rt></ruby><ruby>す<rt class="roma">su</rt></ruby> Rubik's cube
+<ruby>塗り潰<rt class="furi">ぬりつぶ</rt><rt class="roma">nuritsubu</rt></ruby><ruby>す<rt class="roma">su</rt></ruby> Rubik's cube
 </div>
 <div class="trans-lyric">Paint over the Rubik's cube</div>
 </div>
@@ -188,7 +178,7 @@ image: /images/albums/harusaruhi/shinju.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:54.76]Pretty confuse?
+Pretty confuse?
 </div>
 <div class="trans-lyric">Pretty confuse?</div>
 </div>
@@ -216,7 +206,7 @@ image: /images/albums/harusaruhi/shinju.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:01.26]<ruby>撮<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ば<rt class="roma">ba</rt></ruby><ruby>レントゲン<rt class="roma">rentogen</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>しゃれこうべ<rt class="roma">sharekoube</rt></ruby>
+<ruby>撮<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ば<rt class="roma">ba</rt></ruby><ruby>レントゲン<rt class="roma">rentogen</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>しゃれこうべ<rt class="roma">sharekoube</rt></ruby>
 </div>
 <div class="trans-lyric">If you take an X-ray, it's just a skull</div>
 </div>
@@ -246,21 +236,21 @@ image: /images/albums/harusaruhi/shinju.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:12.87]Look in the mirror
+Look in the mirror
 </div>
 <div class="trans-lyric">Look in the mirror</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:13.76]Error<ruby>の<rt class="roma">no</rt></ruby><ruby>向<rt class="furi">む</rt><rt class="roma">mu</rt></ruby><ruby>こう<rt class="roma">kou</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>灰<rt class="furi">はい</rt><rt class="roma">hai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>燃<rt class="furi">も</rt><rt class="roma">mo</rt></ruby><ruby>えろ<rt class="roma">ero</rt></ruby>
+Error<ruby>の<rt class="roma">no</rt></ruby><ruby>向<rt class="furi">む</rt><rt class="roma">mu</rt></ruby><ruby>こう<rt class="roma">kou</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>灰<rt class="furi">はい</rt><rt class="roma">hai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>燃<rt class="furi">も</rt><rt class="roma">mo</rt></ruby><ruby>えろ<rt class="roma">ero</rt></ruby>
 </div>
 <div class="trans-lyric">Beyond the error, ashes, burn</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:12.87](look in the mirror)
+(look in the mirror)
 </div>
 <div class="trans-lyric">(look in the mirror)</div>
 </div>
@@ -311,7 +301,7 @@ Find me out
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:34.93]<ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ある<rt class="roma">aru</rt></ruby>
+<ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ある<rt class="roma">aru</rt></ruby>
 </div>
 <div class="trans-lyric">There's something I've told no one</div>
 </div>
@@ -346,14 +336,14 @@ Find me out
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:45.61]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby> tell me no more
+<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby> tell me no more
 </div>
 <div class="trans-lyric">So tell me no more</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:47.36]<ruby>始<rt class="furi">はじ</rt><rt class="roma">haji</rt></ruby><ruby>まる<rt class="roma">maru</rt></ruby><ruby>ため<rt class="roma">tame</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>glow
+<ruby>始<rt class="furi">はじ</rt><rt class="roma">haji</rt></ruby><ruby>まる<rt class="roma">maru</rt></ruby><ruby>ため<rt class="roma">tame</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>glow
 </div>
 <div class="trans-lyric">A glow for a beginning</div>
 </div>

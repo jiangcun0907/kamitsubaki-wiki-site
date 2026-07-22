@@ -129,7 +129,6 @@ image: /images/albums/koko/arare-live.jpg
 [00:55.40]<ruby>心臓<rt class="furi">しんぞう</rt><rt class="roma">shinzou</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>飲み込<rt class="furi">のみこ</rt><rt class="roma">nomiko</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="trans-lyric">Swallowed my heart</div>
-<div class="trans-lyric">Swallowed my heart</div>
 </div>
 
 <div class="lyric-line">
@@ -178,8 +177,6 @@ image: /images/albums/koko/arare-live.jpg
 <div class="jp-lyric">
 [01:13.91]「<ruby>オーマイダーティ<rt class="roma">oumaidaatei</rt></ruby>！
 </div>
-<div class="trans-lyric">"Oh my dirty!</div>
-<div class="trans-lyric">"Oh my dirty!</div>
 <div class="trans-lyric">"Oh my dirty!</div>
 </div>
 

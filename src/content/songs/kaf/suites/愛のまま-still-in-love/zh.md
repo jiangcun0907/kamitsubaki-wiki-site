@@ -37,7 +37,6 @@ image: /images/songs/kaf/track-1721090584.jpg
 [00:06.36]I’m missing you
 </div>
 <div class="cn-lyric">[00:06.36]我想念你</div>
-<div class="cn-lyric">[00:06.36]我想念你</div>
 </div>
 
 <div class="lyric-line">
@@ -183,7 +182,6 @@ I’m missing you
 <div class="jp-lyric">
 [02:48.29]Baby I love you
 </div>
-<div class="cn-lyric">[02:48.29]宝贝我爱你</div>
 <div class="cn-lyric">[02:48.29]宝贝我爱你</div>
 </div>
 

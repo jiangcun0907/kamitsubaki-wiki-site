@@ -87,7 +87,6 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 [00:34.64]Trip Trip Trip
 </div>
 <div class="trans-lyric">Trip Trip Trip</div>
-<div class="trans-lyric">Trip Trip Trip</div>
 </div>
 
 <div class="lyric-line">

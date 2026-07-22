@@ -142,7 +142,6 @@ image: /images/songs/harusaruhi/single-1688671802.jpg
 [00:51.67]<ruby>さあ<rt class="roma">saa</rt></ruby>、<ruby>舞<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>え<rt class="roma">e</rt></ruby> <ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>え<rt class="roma">e</rt></ruby> <ruby>赴<rt class="furi">おもむ</rt><rt class="roma">omomu</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>まま<rt class="roma">mama</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">Come, dance, sing, as you are moved</div>
-<div class="trans-lyric">Come, dance, sing, as you are moved</div>
 </div>
 
 <div class="lyric-line">
@@ -150,14 +149,12 @@ image: /images/songs/harusaruhi/single-1688671802.jpg
 [00:54.69]<ruby>貴方<rt class="furi">あなた</rt><rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>かけがえ<rt class="roma">kakegae</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>物<rt class="furi">もの</rt><rt class="roma">mono</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby>?
 </div>
 <div class="trans-lyric">What is irreplaceable to you?</div>
-<div class="trans-lyric">What is irreplaceable to you?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:57.34]<ruby>乱<rt class="furi">みだ</rt><rt class="roma">mida</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby> <ruby>諦<rt class="furi">あきら</rt><rt class="roma">akira</rt></ruby><ruby>め<rt class="roma">me</rt></ruby> <ruby>その<rt class="roma">sono</rt></ruby><ruby>錘<rt class="furi">つむ</rt><rt class="roma">tsumu</rt></ruby><ruby>投げ捨<rt class="furi">なげす</rt><rt class="roma">nagesu</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">Disorder, abandon, throw away that weight</div>
 <div class="trans-lyric">Disorder, abandon, throw away that weight</div>
 </div>
 
@@ -288,14 +285,12 @@ image: /images/songs/harusaruhi/single-1688671802.jpg
 [01:59.15]<ruby>流<rt class="furi">なが</rt><rt class="roma">naga</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>掴<rt class="furi">つか</rt><rt class="roma">tsuka</rt></ruby><ruby>める<rt class="roma">meru</rt></ruby> <ruby>貴方<rt class="furi">あなた</rt><rt class="roma">anata</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>居<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ば<rt class="roma">ba</rt></ruby>
 </div>
 <div class="trans-lyric">I can grasp the flow if I'm with you</div>
-<div class="trans-lyric">I can grasp the flow if I'm with you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [02:02.58]<ruby>苦<rt class="furi">く</rt><rt class="roma">ku</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>情熱<rt class="furi">じょうねつ</rt><rt class="roma">jounetsu</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby><ruby>変<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>ける<rt class="roma">keru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">I can turn even hardship into passion</div>
 <div class="trans-lyric">I can turn even hardship into passion</div>
 </div>
 

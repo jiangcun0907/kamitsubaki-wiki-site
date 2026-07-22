@@ -63,7 +63,7 @@ I can hear the rustling ofthe skirt you wore
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:01.89]I whisper Nevermore
+I whisper Nevermore
 </div>
 </div>
 
@@ -89,7 +89,7 @@ They're all undressed again
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:33.92]I-ah walk through the pouring rain
+I-ah walk through the pouring rain
 </div>
 </div>
 
@@ -103,7 +103,7 @@ I walk the hills alone again
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:01.89]They say Nevermore but I ah ah
+They say Nevermore but I ah ah
 </div>
 </div>
 
@@ -115,7 +115,7 @@ They say Nevermore but I ah ah
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:01.89]They say Nevermore but I'm not sure
+They say Nevermore but I'm not sure
 </div>
 </div>
 

@@ -69,10 +69,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [01:01.53]<ruby>ああ<rt class="roma">aa</rt></ruby> <ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby>、 <ruby>水面<rt class="furi">すいめん</rt><rt class="roma">suimen</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="cn-lyric">[01:01.53]啊 此刻 水面之上</div>
-<div class="cn-lyric">[01:01.53]啊 此刻 水面之上</div>
-<div class="cn-lyric">[01:01.53]啊 此刻 水面之上</div>
-<div class="cn-lyric">[01:01.53]啊 此刻 水面之上</div>
-<div class="cn-lyric">[01:01.53]啊 此刻 水面之上</div>
 </div>
 
 <div class="lyric-line">
@@ -80,16 +76,12 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [01:01.53]「<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>す<rt class="roma">su</rt></ruby>」<ruby>が<rt class="roma">ga</rt></ruby><ruby>溢<rt class="furi">あふ</rt><rt class="roma">afu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[01:01.53]「爱意」满溢</div>
-<div class="cn-lyric">[01:01.53]「爱意」满溢</div>
-<div class="cn-lyric">[01:01.53]「爱意」满溢</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:17.49]<ruby>いざ<rt class="roma">iza</rt></ruby> <ruby>いざ<rt class="roma">iza</rt></ruby>
 </div>
-<div class="cn-lyric">[01:17.49]来吧 来吧</div>
-<div class="cn-lyric">[01:17.49]来吧 来吧</div>
 <div class="cn-lyric">[01:17.49]来吧 来吧</div>
 </div>
 
@@ -139,14 +131,12 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [02:19.85]「<ruby>アイス<rt class="roma">aisu</rt></ruby>」<ruby>が<rt class="roma">ga</rt></ruby><ruby>溢<rt class="furi">あふ</rt><rt class="roma">afu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[02:19.85]「冰」满溢</div>
-<div class="cn-lyric">[02:19.85]「冰」满溢</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [02:35.88]<ruby>ひ<rt class="roma">hi</rt></ruby><ruby>や<rt class="roma">ya</rt></ruby> <ruby>ひ<rt class="roma">hi</rt></ruby><ruby>や<rt class="roma">ya</rt></ruby>
 </div>
-<div class="cn-lyric">[02:35.88]凉意 凉意</div>
 <div class="cn-lyric">[02:35.88]凉意 凉意</div>
 </div>
 

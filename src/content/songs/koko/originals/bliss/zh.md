@@ -64,7 +64,6 @@ image: /images/albums/koko/prayer.jpg
 [00:39.94]If you have wings, please come back to me
 </div>
 <div class="cn-lyric">[00:39.94]你若拥有翅膀，请回到我身边</div>
-<div class="cn-lyric">[00:39.94]你若拥有翅膀，请回到我身边</div>
 </div>
 
 <div class="lyric-line">
@@ -102,7 +101,6 @@ image: /images/albums/koko/prayer.jpg
 [01:00.69]Atonement aria echoes in the cathedral
 </div>
 <div class="cn-lyric">[01:00.69]赎罪咏叹调在大教堂回荡</div>
-<div class="cn-lyric">[01:00.69]赎罪咏叹调在大教堂回荡</div>
 </div>
 
 <div class="lyric-line">
@@ -110,15 +108,12 @@ image: /images/albums/koko/prayer.jpg
 [01:09.72]The crescent moon turned off the light
 </div>
 <div class="cn-lyric">[01:09.72]新月熄灭了光</div>
-<div class="cn-lyric">[01:09.72]新月熄灭了光</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:14.34]Just looking at the lunar eclipse
 </div>
-<div class="cn-lyric">[01:14.34]只是看着月食</div>
-<div class="cn-lyric">[01:14.34]只是看着月食</div>
 <div class="cn-lyric">[01:14.34]只是看着月食</div>
 </div>
 
@@ -185,7 +180,6 @@ image: /images/albums/koko/prayer.jpg
 <div class="jp-lyric">
 [02:18.12]To me, this world looks cruel and beautiful
 </div>
-<div class="cn-lyric">[02:18.12]于我而言，这世界既残酷又美丽</div>
 <div class="cn-lyric">[02:18.12]于我而言，这世界既残酷又美丽</div>
 </div>
 

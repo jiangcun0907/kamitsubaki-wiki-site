@@ -107,13 +107,6 @@ image: /images/albums/koko/arare-live.jpg
 [00:45.11]<ruby>ビターチョコデコレーション<rt class="roma">bitaachokodekoreeshon</rt></ruby>
 </div>
 <div class="trans-lyric">Bitter chocolate decoration</div>
-<div class="trans-lyric">Bitter chocolate decoration</div>
-<div class="trans-lyric">Bitter chocolate decoration</div>
-<div class="trans-lyric">Bitter chocolate decoration</div>
-<div class="trans-lyric">Bitter chocolate decoration</div>
-<div class="trans-lyric">Bitter chocolate decoration</div>
-<div class="trans-lyric">Bitter chocolate decoration</div>
-<div class="trans-lyric">Bitter chocolate decoration</div>
 </div>
 
 <div class="lyric-line">

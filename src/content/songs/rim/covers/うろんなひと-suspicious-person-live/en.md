@@ -208,14 +208,12 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [01:25.88]<ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
 <div class="trans-lyric">I want to do things I can't say</div>
-<div class="trans-lyric">I want to do things I can't say</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:27.67]<ruby>いけ<rt class="roma">ike</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
-<div class="trans-lyric">I want to do forbidden things</div>
 <div class="trans-lyric">I want to do forbidden things</div>
 </div>
 
@@ -315,7 +313,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 <div class="jp-lyric">
 [02:39.92]<ruby>つまらない<rt class="roma">tsumaranai</rt></ruby><ruby>つまらない<rt class="roma">tsumaranai</rt></ruby>
 </div>
-<div class="trans-lyric">Boring, boring</div>
 <div class="trans-lyric">Boring, boring</div>
 </div>
 

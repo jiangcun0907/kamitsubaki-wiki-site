@@ -41,8 +41,6 @@ image: /images/albums/vwp/awakening.jpg
 <ruby>ほんの<rt class="roma">honno</rt></ruby><ruby>一部<rt class="furi">いちぶ</rt><rt class="roma">ichibu</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">Just by showing a tiny part,</div>
-<div class="trans-lyric">Just by showing a tiny part,</div>
-<div class="trans-lyric">Just by showing a tiny part,</div>
 </div>
 
 <div class="lyric-line">
@@ -50,15 +48,12 @@ image: /images/albums/vwp/awakening.jpg
 <ruby>全<rt class="furi">すべ</rt><rt class="roma">sube</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>読<rt class="furi">よ</rt><rt class="roma">yo</rt></ruby><ruby>ま<rt class="roma">ma</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>たら<rt class="roma">tara</rt></ruby><ruby>どう<rt class="roma">dou</rt></ruby><ruby>しよ<rt class="roma">shiyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="trans-lyric">I worry if everything will be read through.</div>
-<div class="trans-lyric">I worry if everything will be read through.</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>お前<rt class="furi">おまえ</rt><rt class="roma">omae</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>体<rt class="furi">からだ</rt><rt class="roma">karada</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>入り込<rt class="furi">はいりこ</rt><rt class="roma">hairiko</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
-<div class="trans-lyric">They've entered your body,</div>
-<div class="trans-lyric">They've entered your body,</div>
 <div class="trans-lyric">They've entered your body,</div>
 </div>
 
@@ -105,20 +100,12 @@ image: /images/albums/vwp/awakening.jpg
 <ruby>こっち<rt class="roma">kotchi</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby> <ruby>来<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">Come over here,</div>
-<div class="trans-lyric">Come over here,</div>
-<div class="trans-lyric">Come over here,</div>
-<div class="trans-lyric">Come over here,</div>
-<div class="trans-lyric">Come over here,</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>お前<rt class="furi">おまえ</rt><rt class="roma">omae</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby> <ruby>好<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">I love you.</div>
-<div class="trans-lyric">I love you.</div>
-<div class="trans-lyric">I love you.</div>
-<div class="trans-lyric">I love you.</div>
 <div class="trans-lyric">I love you.</div>
 </div>
 
@@ -128,7 +115,6 @@ image: /images/albums/vwp/awakening.jpg
 <div class="jp-lyric">
 <ruby>ほんの<rt class="roma">honno</rt></ruby><ruby>一部<rt class="furi">いちぶ</rt><rt class="roma">ichibu</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby><ruby>ほら<rt class="roma">hora</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">It's just a part, but look,</div>
 <div class="trans-lyric">It's just a part, but look,</div>
 </div>
 
@@ -165,7 +151,6 @@ image: /images/albums/vwp/awakening.jpg
 <ruby>メガネ<rt class="roma">megane</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>かけ<rt class="roma">kake</rt></ruby><ruby>たら<rt class="roma">tara</rt></ruby><ruby>よく<rt class="roma">yoku</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>それ<rt class="roma">sore</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
 </div>
 <div class="trans-lyric">If putting on glasses makes it clearer, that's fine too,</div>
-<div class="trans-lyric">If putting on glasses makes it clearer, that's fine too,</div>
 </div>
 
 <div class="lyric-line">
@@ -179,7 +164,6 @@ image: /images/albums/vwp/awakening.jpg
 <div class="jp-lyric">
 <ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>すべて<rt class="roma">subete</rt></ruby><ruby>思考<rt class="furi">しこう</rt><rt class="roma">shikou</rt></ruby><ruby>停止<rt class="furi">ていし</rt><rt class="roma">teishi</rt></ruby><ruby>だろ<rt class="roma">daro</rt></ruby>
 </div>
-<div class="trans-lyric">By night, everything's thought-stopped, right?</div>
 <div class="trans-lyric">By night, everything's thought-stopped, right?</div>
 </div>
 

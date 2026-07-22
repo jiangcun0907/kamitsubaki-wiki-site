@@ -109,7 +109,6 @@ AH AH
 [00:51.11]<ruby>満<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>たさ<rt class="roma">tasa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>、<ruby>満<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>たさ<rt class="roma">tasa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">Unfulfilled, unfulfilled</div>
-<div class="trans-lyric">Unfulfilled, unfulfilled</div>
 </div>
 
 <div class="lyric-line">
@@ -117,14 +116,12 @@ AH AH
 [00:54.91]<ruby>満<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>たさ<rt class="roma">tasa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>、<ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>、<ruby>フィーリング<rt class="roma">fyiiringu</rt></ruby>、
 </div>
 <div class="trans-lyric">What's unfulfilled is the feeling,</div>
-<div class="trans-lyric">What's unfulfilled is the feeling,</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:58.74]<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>、<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
-<div class="trans-lyric">I want to be loved, I want to be loved</div>
 <div class="trans-lyric">I want to be loved, I want to be loved</div>
 </div>
 

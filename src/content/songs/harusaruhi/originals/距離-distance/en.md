@@ -66,16 +66,12 @@ image: /images/songs/harusaruhi/single-1826993411.jpg
 [01:01.26]<ruby>我<rt class="furi">わが</rt><rt class="roma">waga</rt></ruby><ruby>走<rt class="furi">はし</rt><rt class="roma">hashi</rt></ruby><ruby>向<rt class="furi">こう</rt><rt class="roma">kou</rt></ruby><ruby>前<rt class="furi">まえ</rt><rt class="roma">mae</rt></ruby> 你<ruby>看<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>不<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby> <ruby>真<rt class="furi">しん</rt><rt class="roma">shin</rt></ruby><ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby>遙<ruby>遠<rt class="furi">とお</rt><rt class="roma">too</rt></ruby>
 </div>
 <div class="trans-lyric">I walk forward, you cannot see, truly distant</div>
-<div class="trans-lyric">I walk forward, you cannot see, truly distant</div>
-<div class="trans-lyric">I walk forward, you cannot see, truly distant</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:09.06]就<ruby>連<rt class="furi">れん</rt><rt class="roma">ren</rt></ruby><ruby>嘆息<rt class="furi">たんそく</rt><rt class="roma">tansoku</rt></ruby> <ruby>影<rt class="furi">かげ</rt><rt class="roma">kage</rt></ruby><ruby>子<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby>聽<ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby> 也<ruby>似<rt class="furi">に</rt><rt class="roma">ni</rt></ruby><ruby>無言<rt class="furi">むごん</rt><rt class="roma">mugon</rt></ruby>
 </div>
-<div class="trans-lyric">Even a sigh, heard by the shadow, seems speechless</div>
-<div class="trans-lyric">Even a sigh, heard by the shadow, seems speechless</div>
 <div class="trans-lyric">Even a sigh, heard by the shadow, seems speechless</div>
 </div>
 
@@ -84,17 +80,12 @@ image: /images/songs/harusaruhi/single-1826993411.jpg
 [01:16.39]你<ruby>走<rt class="furi">はし</rt><rt class="roma">hashi</rt></ruby><ruby>向<rt class="furi">こう</rt><rt class="roma">kou</rt></ruby><ruby>前<rt class="furi">まえ</rt><rt class="roma">mae</rt></ruby> <ruby>我<rt class="furi">わが</rt><rt class="roma">waga</rt></ruby><ruby>看<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>不<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby> 你<ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby><ruby>思念<rt class="furi">しねん</rt><rt class="roma">shinen</rt></ruby>
 </div>
 <div class="trans-lyric">You walk forward, I cannot see your longing</div>
-<div class="trans-lyric">You walk forward, I cannot see your longing</div>
-<div class="trans-lyric">You walk forward, I cannot see your longing</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:23.52]你<ruby>和<rt class="furi">わ</rt><rt class="roma">wa</rt></ruby><ruby>我<rt class="furi">わが</rt><rt class="roma">waga</rt></ruby><ruby>之<rt class="furi">これ</rt><rt class="roma">kore</rt></ruby><ruby>間<rt class="furi">かん</rt><rt class="roma">kan</rt></ruby> <ruby>刻<rt class="furi">こく</rt><rt class="roma">koku</rt></ruby><ruby>著<rt class="furi">ちょ</rt><rt class="roma">cho</rt></ruby><ruby>一條<rt class="furi">いちじょう</rt><rt class="roma">ichijou</rt></ruby><ruby>界線<rt class="furi">かいせん</rt><rt class="roma">kaisen</rt></ruby> <ruby>不<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby>曾<ruby>有<rt class="furi">ゆう</rt><rt class="roma">yuu</rt></ruby><ruby>改<rt class="furi">あらため</rt><rt class="roma">aratame</rt></ruby>變
 </div>
-<div class="trans-lyric">Between you and me, a boundary is carved, never changed</div>
-<div class="trans-lyric">Between you and me, a boundary is carved, never changed</div>
-<div class="trans-lyric">Between you and me, a boundary is carved, never changed</div>
 <div class="trans-lyric">Between you and me, a boundary is carved, never changed</div>
 </div>
 

@@ -101,7 +101,6 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 [01:15.09]Yeah! <ruby>妄想<rt class="furi">もうそう</rt><rt class="roma">mousou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>アダルト<rt class="roma">adaruto</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>オンリー<rt class="roma">onrii</rt></ruby>
 </div>
 <div class="trans-lyric">Yeah! Delusions are adult only</div>
-<div class="trans-lyric">Yeah! Delusions are adult only</div>
 </div>
 
 <br />

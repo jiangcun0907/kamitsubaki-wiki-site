@@ -78,7 +78,6 @@ image: /images/songs/vwp/single-1698252310.jpg
 [00:36.93]<ruby>だって<rt class="roma">datte</rt></ruby> <ruby>だって<rt class="roma">datte</rt></ruby>
 </div>
 <div class="trans-lyric">But, but</div>
-<div class="trans-lyric">But, but</div>
 </div>
 
 <div class="lyric-line">

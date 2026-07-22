@@ -162,16 +162,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [01:09.22]It's a dancing <ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>てよ<rt class="roma">teyo</rt></ruby>alien
 </div>
 <div class="cn-lyric">[01:09.22]It's a dancing 看好了alien</div>
-<div class="cn-lyric">[01:09.22]It's a dancing 看好了alien</div>
-<div class="cn-lyric">[01:09.22]It's a dancing 看好了alien</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:11.77]Music <ruby>は<rt class="roma">wa</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>変<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="cn-lyric">[01:11.77]Music会改变世界哦</div>
-<div class="cn-lyric">[01:11.77]Music会改变世界哦</div>
 <div class="cn-lyric">[01:11.77]Music会改变世界哦</div>
 </div>
 
@@ -180,8 +176,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [01:14.45]<ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>傷<rt class="furi">きず</rt><rt class="roma">kizu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>音<rt class="furi">おと</rt><rt class="roma">oto</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>絆創膏<rt class="furi">ばんそうこう</rt><rt class="roma">bansoukou</rt></ruby>
 </div>
 <div class="cn-lyric">[01:14.45]对心的伤口贴上声音的创可贴</div>
-<div class="cn-lyric">对心的伤口贴上声音的创可贴</div>
-<div class="cn-lyric">对心的伤口贴上声音的创可贴</div>
 </div>
 
 <div class="lyric-line">
@@ -364,14 +358,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [02:17.09]<ruby>ただ<rt class="roma">tada</rt></ruby>Love <ruby>が<rt class="roma">ga</rt></ruby><ruby>溢<rt class="furi">あふ</rt><rt class="roma">afu</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby> <ruby>今夜<rt class="furi">こんや</rt><rt class="roma">kon'ya</rt></ruby>
 </div>
 <div class="cn-lyric">[02:17.09]只是Love满溢啊 今夜</div>
-<div class="cn-lyric">[02:17.09]只是Love满溢啊 今夜</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [02:19.49]<ruby>てか<rt class="roma">teka</rt></ruby>Love <ruby>で<rt class="roma">de</rt></ruby><ruby>満<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>たそ<rt class="roma">taso</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby> <ruby>今夜<rt class="furi">こんや</rt><rt class="roma">kon'ya</rt></ruby>
 </div>
-<div class="cn-lyric">[02:19.49]不如用Love填满吧 今夜</div>
 <div class="cn-lyric">[02:19.49]不如用Love填满吧 今夜</div>
 </div>
 
@@ -398,7 +390,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [02:30.09]<ruby>パン<rt class="roma">pan</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>mellow <ruby>の<rt class="roma">no</rt></ruby> jam <ruby>を<rt class="roma">wo</rt></ruby><ruby>塗<rt class="furi">ぬ</rt><rt class="roma">nu</rt></ruby><ruby>ろ<rt class="roma">ro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="cn-lyric">[02:30.09]在面包上涂上mellow的果酱吧</div>
-<div class="cn-lyric">[02:30.09]在面包上涂上mellow的果酱吧</div>
 </div>
 
 <div class="lyric-line">
@@ -406,14 +397,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [02:32.97]<ruby>ドレミ<rt class="roma">doremi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>音符<rt class="furi">おんぷ</rt><rt class="roma">onpu</rt></ruby> milk <ruby>に<rt class="roma">ni</rt></ruby><ruby>溶<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>かし<rt class="roma">kashi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[02:32.97]把do re mi的音符溶进牛奶里</div>
-<div class="cn-lyric">[02:32.97]把do re mi的音符溶进牛奶里</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [02:35.49]<ruby>お菓子<rt class="furi">おかし</rt><rt class="roma">okashi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>家<rt class="furi">いえ</rt><rt class="roma">ie</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> Good night baby
 </div>
-<div class="cn-lyric">[02:35.49]在糖果屋里Good night baby</div>
 <div class="cn-lyric">[02:35.49]在糖果屋里Good night baby</div>
 </div>
 

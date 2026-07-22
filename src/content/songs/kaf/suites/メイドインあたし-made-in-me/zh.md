@@ -65,7 +65,6 @@ image: /images/songs/kaf/track-1674703343.jpg
 [00:40.85]<ruby>きらい<rt class="roma">kirai</rt></ruby> <ruby>らい<rt class="roma">rai</rt></ruby> <ruby>らい<rt class="roma">rai</rt></ruby>
 </div>
 <div class="cn-lyric">[00:40.85]讨厌 啦 啦</div>
-<div class="cn-lyric">讨厌 啦 啦</div>
 </div>
 
 <div class="lyric-line">
@@ -73,7 +72,6 @@ image: /images/songs/kaf/track-1674703343.jpg
 [00:42.46]<ruby>毒<rt class="furi">どく</rt><rt class="roma">doku</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>アク<rt class="roma">aku</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby> <ruby>まるまる<rt class="roma">marumaru</rt></ruby><ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">[00:42.46]毒和涩味 全都想爱啊</div>
-<div class="cn-lyric">毒和涩味 全都想爱啊</div>
 </div>
 
 <div class="lyric-line">
@@ -81,7 +79,6 @@ image: /images/songs/kaf/track-1674703343.jpg
 [00:48.01]More <ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby> <ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby> <ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby>
 </div>
 <div class="cn-lyric">[00:48.01]更多 爱 爱 爱</div>
-<div class="cn-lyric">更多 爱 爱 爱</div>
 </div>
 
 <div class="lyric-line">
@@ -96,7 +93,6 @@ image: /images/songs/kaf/track-1674703343.jpg
 [00:56.70]<ruby>おこ<rt class="roma">oko</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby> <ruby>マサラ<rt class="roma">masara</rt></ruby> <ruby>さよなら<rt class="roma">sayonara</rt></ruby>
 </div>
 <div class="cn-lyric">[00:56.70]小孩 玛莎拉 再见</div>
-<div class="cn-lyric">小孩 玛莎拉 再见</div>
 </div>
 
 <div class="lyric-line">
@@ -104,7 +100,6 @@ image: /images/songs/kaf/track-1674703343.jpg
 [01:00.54]<ruby>おとな<rt class="roma">otona</rt></ruby><ruby>さま<rt class="roma">sama</rt></ruby> <ruby>は<rt class="roma">wa</rt></ruby> <ruby>まだまだ<rt class="roma">madamada</rt></ruby>
 </div>
 <div class="cn-lyric">[01:00.54]大人 还早着呢</div>
-<div class="cn-lyric">大人 还早着呢</div>
 </div>
 
 <div class="lyric-line">
@@ -119,8 +114,6 @@ image: /images/songs/kaf/track-1674703343.jpg
 [01:12.57]1 2 <ruby>ステップ<rt class="roma">suteppu</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>唱<rt class="furi">とな</rt><rt class="roma">tona</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
 <div class="cn-lyric">[01:12.57]用1 2 步骤 想咏唱</div>
-<div class="cn-lyric">用1 2 步骤 想咏唱</div>
-<div class="cn-lyric">用1 2 步骤 想咏唱</div>
 </div>
 
 <div class="lyric-line">
@@ -128,8 +121,6 @@ image: /images/songs/kaf/track-1674703343.jpg
 [01:14.29]<ruby>まじない<rt class="roma">majinai</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>マン<rt class="roma">man</rt></ruby><ruby>トラ<rt class="roma">tora</rt></ruby>
 </div>
 <div class="cn-lyric">[01:14.29]咒语是曼陀罗</div>
-<div class="cn-lyric">咒语是曼陀罗</div>
-<div class="cn-lyric">咒语是曼陀罗</div>
 </div>
 
 <div class="lyric-line">
@@ -137,8 +128,6 @@ image: /images/songs/kaf/track-1674703343.jpg
 [01:17.91]3&amp;4<ruby>で<rt class="roma">de</rt></ruby><ruby>転<rt class="furi">ころ</rt><rt class="roma">koro</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>スーリヤナマスカーラ<rt class="roma">suuriyanamasukaara</rt></ruby>
 </div>
 <div class="cn-lyric">[01:17.91]即使3&4跌倒 也苏利耶南玛斯卡拉</div>
-<div class="cn-lyric">即使3&4跌倒 也苏利耶南玛斯卡拉</div>
-<div class="cn-lyric">即使3&4跌倒 也苏利耶南玛斯卡拉</div>
 </div>
 
 <div class="lyric-line">
@@ -146,8 +135,6 @@ image: /images/songs/kaf/track-1674703343.jpg
 [01:19.84]<ruby>語録<rt class="furi">ごろく</rt><rt class="roma">goroku</rt></ruby> <ruby>どう<rt class="roma">dou</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>ええ<rt class="roma">ee</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby>
 </div>
 <div class="cn-lyric">[01:19.84]语录 怎样都行啦</div>
-<div class="cn-lyric">语录 怎样都行啦</div>
-<div class="cn-lyric">语录 怎样都行啦</div>
 </div>
 
 <div class="lyric-line">
@@ -155,8 +142,6 @@ image: /images/songs/kaf/track-1674703343.jpg
 [01:21.65]<ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>踊<rt class="furi">おど</rt><rt class="roma">odo</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>マハーラージャ<rt class="roma">mahaaraaja</rt></ruby>
 </div>
 <div class="cn-lyric">[01:21.65]心舞动的摩诃罗阇</div>
-<div class="cn-lyric">心舞动的摩诃罗阇</div>
-<div class="cn-lyric">心舞动的摩诃罗阇</div>
 </div>
 
 <div class="lyric-line">

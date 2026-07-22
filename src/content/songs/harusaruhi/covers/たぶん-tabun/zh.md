@@ -54,7 +54,6 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 [00:23.76]⼀⼈<ruby>で<rt class="roma">de</rt></ruby><ruby>迎<rt class="furi">むか</rt><rt class="roma">muka</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>朝<rt class="furi">あさ</rt><rt class="roma">asa</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="cn-lyric">[00:23.76]在独自迎来的清晨</div>
-<div class="cn-lyric">[00:23.76]在独自迎来的清晨</div>
 </div>
 
 <div class="lyric-line">
@@ -106,7 +105,6 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 [00:43.54]<ruby>たぶん<rt class="roma">tabun</rt></ruby>
 </div>
 <div class="cn-lyric">[00:43.54]大概</div>
-<div class="cn-lyric">[00:43.54]大概</div>
 </div>
 
 <br />
@@ -116,18 +114,12 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 [00:44.60]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>何<rt class="furi">なん</rt><rt class="roma">nan</rt></ruby><ruby>回<rt class="furi">かい</rt><rt class="roma">kai</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby><ruby>きっと<rt class="roma">kitto</rt></ruby>
 </div>
 <div class="cn-lyric">[00:44.60]我们无论多少次一定</div>
-<div class="cn-lyric">[00:44.60]我们无论多少次一定</div>
-<div class="cn-lyric">[00:44.60]我们无论多少次一定</div>
-<div class="cn-lyric">[00:44.60]我们无论多少次一定</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:47.30]<ruby>そう<rt class="roma">sou</rt></ruby><ruby>何<rt class="furi">なん</rt><rt class="roma">nan</rt></ruby><ruby>年<rt class="furi">ねん</rt><rt class="roma">nen</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby><ruby>きっと<rt class="roma">kitto</rt></ruby>
 </div>
-<div class="cn-lyric">[00:47.30]对 无论多少年一定</div>
-<div class="cn-lyric">[00:47.30]对 无论多少年一定</div>
-<div class="cn-lyric">[00:47.30]对 无论多少年一定</div>
 <div class="cn-lyric">[00:47.30]对 无论多少年一定</div>
 </div>
 
@@ -136,15 +128,12 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 [00:50.11]<ruby>さよなら<rt class="roma">sayonara</rt></ruby><ruby>と共<rt class="furi">ととも</rt><rt class="roma">totomo</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>終<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>わる<rt class="roma">waru</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="cn-lyric">[00:50.11]只会在再见中结束</div>
-<div class="cn-lyric">[00:50.11]只会在再见中结束</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:55.72]<ruby>仕<rt class="furi">つかまつ</rt><rt class="roma">tsukamatsu</rt></ruby>⽅<ruby>が<rt class="roma">ga</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>きっと<rt class="roma">kitto</rt></ruby>
 </div>
-<div class="cn-lyric">[00:55.72]没办法啊 一定</div>
-<div class="cn-lyric">[00:55.72]没办法啊 一定</div>
 <div class="cn-lyric">[00:55.72]没办法啊 一定</div>
 </div>
 
@@ -153,9 +142,6 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 [00:58.13]「<ruby>おかえり<rt class="roma">okaeri</rt></ruby>」
 </div>
 <div class="cn-lyric">[00:58.13]「欢迎回来」</div>
-<div class="cn-lyric">[00:58.13]「欢迎回来」</div>
-<div class="cn-lyric">[00:58.13]「欢迎回来」</div>
-<div class="cn-lyric">[00:58.13]「欢迎回来」</div>
 </div>
 
 <div class="lyric-line">
@@ -163,14 +149,12 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 [00:59.29]<ruby>思<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>わず<rt class="roma">wazu</rt></ruby><ruby>零<rt class="furi">こぼ</rt><rt class="roma">kobo</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>⾔<ruby>葉<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="cn-lyric">[00:59.29]不经意间溢出的话语</div>
-<div class="cn-lyric">[00:59.29]不经意间溢出的话语</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:03.08]<ruby>違<rt class="furi">ちが</rt><rt class="roma">chiga</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
-<div class="cn-lyric">[01:03.08]不对啊</div>
 <div class="cn-lyric">[01:03.08]不对啊</div>
 </div>
 

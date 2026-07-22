@@ -52,7 +52,6 @@ furikaereba kaze ga naita
 kienai koe ga itsumademo mune ni
 </div>
 <div class="trans-lyric">A voice that won't vanish, forever in my heart</div>
-<div class="trans-lyric">A voice that won't vanish, forever in my heart</div>
 </div>
 
 <div class="lyric-line">
@@ -66,7 +65,6 @@ fureta matataiteiru
 <div class="jp-lyric">
 kousa shiteku koto no nai sen demo
 </div>
-<div class="trans-lyric">Even on lines that will never intersect</div>
 <div class="trans-lyric">Even on lines that will never intersect</div>
 </div>
 

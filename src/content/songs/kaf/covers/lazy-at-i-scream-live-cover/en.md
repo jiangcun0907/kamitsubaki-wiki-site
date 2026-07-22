@@ -37,7 +37,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 And he's mean talking
 </div>
 <div class="trans-lyric">And he's mean talking</div>
-<div class="trans-lyric">And he's mean talking</div>
 </div>
 
 <div class="lyric-line">
@@ -45,14 +44,12 @@ And he's mean talking
 Bean stalking icy man
 </div>
 <div class="trans-lyric">Bean stalking icy man</div>
-<div class="trans-lyric">Bean stalking icy man</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 My feet are walking over him
 </div>
-<div class="trans-lyric">My feet are walking over him</div>
 <div class="trans-lyric">My feet are walking over him</div>
 </div>
 
@@ -70,7 +67,6 @@ My sneakers in his hand
 And with a picket for a knife
 </div>
 <div class="trans-lyric">And with a picket for a knife</div>
-<div class="trans-lyric">And with a picket for a knife</div>
 </div>
 
 <div class="lyric-line">
@@ -78,14 +74,12 @@ And with a picket for a knife
 And a rocket to depart in
 </div>
 <div class="trans-lyric">And a rocket to depart in</div>
-<div class="trans-lyric">And a rocket to depart in</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 My life had barely started
 </div>
-<div class="trans-lyric">My life had barely started</div>
 <div class="trans-lyric">My life had barely started</div>
 </div>
 
@@ -109,7 +103,6 @@ And now we're lazy, lazy
 <div class="jp-lyric">
 Ooh, lazy, lazy
 </div>
-<div class="trans-lyric">Ooh, lazy, lazy</div>
 <div class="trans-lyric">Ooh, lazy, lazy</div>
 </div>
 
@@ -211,16 +204,12 @@ Ooh, lazy, lazy
 Can we grow, can we grow
 </div>
 <div class="trans-lyric">Can we grow, can we grow</div>
-<div class="trans-lyric">Can we grow, can we grow</div>
-<div class="trans-lyric">Can we grow, can we grow</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Can we grow out? Whoa
 </div>
-<div class="trans-lyric">Can we grow out? Whoa</div>
-<div class="trans-lyric">Can we grow out? Whoa</div>
 <div class="trans-lyric">Can we grow out? Whoa</div>
 </div>
 
@@ -254,7 +243,6 @@ Can we grow out? Whoa
 <div class="jp-lyric">
 Whoa, whoa, whoa
 </div>
-<div class="trans-lyric">Whoa, whoa, whoa</div>
 <div class="trans-lyric">Whoa, whoa, whoa</div>
 </div>
 

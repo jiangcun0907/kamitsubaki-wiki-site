@@ -103,15 +103,12 @@ image: /images/albums/harusaruhi/cream-puff-live-4.jpg
 [00:58.05]<ruby>フラフラ<rt class="roma">furafura</rt></ruby><ruby>漂<rt class="furi">ただよ</rt><rt class="roma">tadayo</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
 <div class="cn-lyric">[00:58.05]搖搖晃晃地漂流</div>
-<div class="cn-lyric">[00:58.05]搖搖晃晃地漂流</div>
-<div class="cn-lyric">[00:58.05]搖搖晃晃地漂流</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:00.59]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>匂<rt class="furi">にお</rt><rt class="roma">nio</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>酔<rt class="furi">よ</rt><rt class="roma">yo</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby>
 </div>
-<div class="cn-lyric">[01:00.59]沉醉於你的氣息</div>
 <div class="cn-lyric">[01:00.59]沉醉於你的氣息</div>
 </div>
 
@@ -127,8 +124,6 @@ image: /images/albums/harusaruhi/cream-puff-live-4.jpg
 [01:09.65]<ruby>中毒<rt class="furi">ちゅうどく</rt><rt class="roma">chuudoku</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なって<rt class="roma">natte</rt></ruby>
 </div>
 <div class="cn-lyric">[01:09.65]中了毒</div>
-<div class="cn-lyric">[01:09.65]中了毒</div>
-<div class="cn-lyric">[01:09.65]中了毒</div>
 </div>
 
 <div class="lyric-line">
@@ -136,16 +131,12 @@ image: /images/albums/harusaruhi/cream-puff-live-4.jpg
 [01:11.98]<ruby>また<rt class="roma">mata</rt></ruby><ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>夢中<rt class="furi">むちゅう</rt><rt class="roma">muchuu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なって<rt class="roma">natte</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby>
 </div>
 <div class="cn-lyric">[01:11.98]我又再次沉迷其中</div>
-<div class="cn-lyric">[01:11.98]我又再次沉迷其中</div>
-<div class="cn-lyric">[01:11.98]我又再次沉迷其中</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:15.73]<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>いら<rt class="roma">ira</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> <ruby>あなた<rt class="roma">anata</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>頂戴<rt class="furi">ちょうだい</rt><rt class="roma">choudai</rt></ruby>
 </div>
-<div class="cn-lyric">[01:15.73]不需要愛 把你給我</div>
-<div class="cn-lyric">[01:15.73]不需要愛 把你給我</div>
 <div class="cn-lyric">[01:15.73]不需要愛 把你給我</div>
 </div>
 

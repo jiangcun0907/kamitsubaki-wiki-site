@@ -52,7 +52,6 @@ furikaereba kaze ga naita
 kienai koe ga itsumademo mune ni
 </div>
 <div class="cn-lyric">永不消逝的声音 永远在心中</div>
-<div class="cn-lyric">永不消逝的声音 永远在心中</div>
 </div>
 
 <div class="lyric-line">
@@ -66,7 +65,6 @@ fureta matataiteiru
 <div class="jp-lyric">
 kousa shiteku koto no nai sen demo
 </div>
-<div class="cn-lyric">即使是没有交集的航线</div>
 <div class="cn-lyric">即使是没有交集的航线</div>
 </div>
 

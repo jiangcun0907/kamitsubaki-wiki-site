@@ -36,8 +36,6 @@ image: /images/songs/kaf/track-1790801573.jpg
 Bad day <ruby>喰<rt class="furi">く</rt><rt class="roma">ku</rt></ruby><ruby>らって<rt class="roma">ratte</rt></ruby>
 </div>
 <div class="trans-lyric">Bad day, take it</div>
-<div class="trans-lyric">Bad day, take it</div>
-<div class="trans-lyric">Bad day, take it</div>
 </div>
 
 <div class="lyric-line">
@@ -45,15 +43,12 @@ Bad day <ruby>喰<rt class="furi">く</rt><rt class="roma">ku</rt></ruby><ruby>�
 <ruby>感情<rt class="furi">かんじょう</rt><rt class="roma">kanjou</rt></ruby><ruby>ブレーカー<rt class="roma">bureekaa</rt></ruby>
 </div>
 <div class="trans-lyric">Emotion breaker</div>
-<div class="trans-lyric">Emotion breaker</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>回線<rt class="furi">かいせん</rt><rt class="roma">kaisen</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>オーバーヒート<rt class="roma">oubaahiito</rt></ruby>
 </div>
-<div class="trans-lyric">The circuit's overheating</div>
-<div class="trans-lyric">The circuit's overheating</div>
 <div class="trans-lyric">The circuit's overheating</div>
 </div>
 
@@ -68,7 +63,6 @@ Bad day <ruby>喰<rt class="furi">く</rt><rt class="roma">ku</rt></ruby><ruby>�
 <div class="jp-lyric">
 <ruby>存在<rt class="furi">そんざい</rt><rt class="roma">sonzai</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ノンフィクション<rt class="roma">nonfyikushon</rt></ruby><ruby>です<rt class="roma">desu</rt></ruby>
 </div>
-<div class="trans-lyric">Existence is non-fiction</div>
 <div class="trans-lyric">Existence is non-fiction</div>
 </div>
 
@@ -135,8 +129,6 @@ Loading Rolling
 Lighting Driving Yeah
 </div>
 <div class="trans-lyric">Lighting Driving Yeah</div>
-<div class="trans-lyric">Lighting Driving Yeah</div>
-<div class="trans-lyric">Lighting Driving Yeah</div>
 </div>
 
 <div class="lyric-line">
@@ -153,16 +145,12 @@ Lighting Driving Yeah
 <ruby>ナンセンスヤ<rt class="roma">nansensuya</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>もん<rt class="roma">mon</rt></ruby><ruby>ヤ<rt class="roma">ya</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>もん<rt class="roma">mon</rt></ruby>
 </div>
 <div class="trans-lyric">Nonsense, I don't want it, I don't want it</div>
-<div class="trans-lyric">Nonsense, I don't want it, I don't want it</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>マジ<rt class="roma">maji</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>Good-Bye
 </div>
-<div class="trans-lyric">Seriously, goodbye</div>
-<div class="trans-lyric">Seriously, goodbye</div>
-<div class="trans-lyric">Seriously, goodbye</div>
 <div class="trans-lyric">Seriously, goodbye</div>
 </div>
 
@@ -184,7 +172,6 @@ Oversteer
 <div class="jp-lyric">
 NO! <ruby>ヤ<rt class="roma">ya</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>もん<rt class="roma">mon</rt></ruby><ruby>ヤ<rt class="roma">ya</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>もん<rt class="roma">mon</rt></ruby>
 </div>
-<div class="trans-lyric">No! I don't want it, I don't want it</div>
 <div class="trans-lyric">No! I don't want it, I don't want it</div>
 </div>
 
@@ -208,8 +195,6 @@ NO! <ruby>ヤ<rt class="roma">ya</rt></ruby><ruby>だ<rt class="roma">da</rt></r
 <ruby>どうか<rt class="roma">douka</rt></ruby><ruby>ねぇ<rt class="roma">nee</rt></ruby><ruby>どう<rt class="roma">dou</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
 </div>
 <div class="trans-lyric">What do you think, huh?</div>
-<div class="trans-lyric">What do you think, huh?</div>
-<div class="trans-lyric">What do you think, huh?</div>
 </div>
 
 <div class="lyric-line">
@@ -224,16 +209,12 @@ NO! <ruby>ヤ<rt class="roma">ya</rt></ruby><ruby>だ<rt class="roma">da</rt></r
 <ruby>ちょ<rt class="roma">cho</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>だい<rt class="roma">dai</rt></ruby><ruby>ねぇ<rt class="roma">nee</rt></ruby><ruby>ちょ<rt class="roma">cho</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>だい<rt class="roma">dai</rt></ruby>
 </div>
 <div class="trans-lyric">Give me, please, give me</div>
-<div class="trans-lyric">Give me, please, give me</div>
-<div class="trans-lyric">Give me, please, give me</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>もっと<rt class="roma">motto</rt></ruby><ruby>自由<rt class="furi">じゆう</rt><rt class="roma">jiyuu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
-<div class="trans-lyric">More freedom</div>
-<div class="trans-lyric">More freedom</div>
 <div class="trans-lyric">More freedom</div>
 </div>
 
@@ -272,14 +253,12 @@ NO! <ruby>ヤ<rt class="roma">ya</rt></ruby><ruby>だ<rt class="roma">da</rt></r
 <ruby>どん<rt class="roma">don</rt></ruby><ruby>くらい<rt class="roma">kurai</rt></ruby>？
 </div>
 <div class="trans-lyric">How far?</div>
-<div class="trans-lyric">How far?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Don't cry, don't cry
 </div>
-<div class="trans-lyric">Don't cry, don't cry</div>
 <div class="trans-lyric">Don't cry, don't cry</div>
 </div>
 
@@ -335,14 +314,12 @@ Black out
 <ruby>さよなら<rt class="roma">sayonara</rt></ruby><ruby>スロー<rt class="roma">surou</rt></ruby><ruby>バック<rt class="roma">bakku</rt></ruby>Bye
 </div>
 <div class="trans-lyric">Goodbye, slow back, bye</div>
-<div class="trans-lyric">Goodbye, slow back, bye</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [04:13.11]<ruby>正真正銘<rt class="furi">しょうしんしょうめい</rt><rt class="roma">shoushinshoumei</rt></ruby>My life
 </div>
-<div class="trans-lyric">Truly my life</div>
 <div class="trans-lyric">Truly my life</div>
 </div>
 
@@ -405,14 +382,12 @@ NO! <ruby>ヤ<rt class="roma">ya</rt></ruby><ruby>だ<rt class="roma">da</rt></r
 <ruby>構<rt class="furi">かま</rt><rt class="roma">kama</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">Don't bother me</div>
-<div class="trans-lyric">Don't bother me</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Too much <ruby>干渉<rt class="furi">かんしょう</rt><rt class="roma">kanshou</rt></ruby>
 </div>
-<div class="trans-lyric">Too much interference</div>
 <div class="trans-lyric">Too much interference</div>
 </div>
 
@@ -451,7 +426,6 @@ Too much <ruby>干渉<rt class="furi">かんしょう</rt><rt class="roma">kansh
 <ruby>一過<rt class="furi">いっか</rt><rt class="roma">ikka</rt></ruby><ruby>性<rt class="furi">せい</rt><rt class="roma">sei</rt></ruby><ruby>煩悩<rt class="furi">ぼんのう</rt><rt class="roma">bonnou</rt></ruby>
 </div>
 <div class="trans-lyric">Temporary desires</div>
-<div class="trans-lyric">Temporary desires</div>
 </div>
 
 <div class="lyric-line">
@@ -459,14 +433,12 @@ Too much <ruby>干渉<rt class="furi">かんしょう</rt><rt class="roma">kansh
 <ruby>カイカイ<rt class="roma">kaikai</rt></ruby><ruby>乖離<rt class="furi">かいり</rt><rt class="roma">kairi</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>ず<rt class="roma">zu</rt></ruby><ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>きる<rt class="roma">kiru</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby>
 </div>
 <div class="trans-lyric">Fast, without divergence, I'll live</div>
-<div class="trans-lyric">Fast, without divergence, I'll live</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>如何<rt class="furi">いかん</rt><rt class="roma">ikan</rt></ruby><ruby>せん<rt class="roma">sen</rt></ruby><ruby>欲求<rt class="furi">よっきゅう</rt><rt class="roma">yokkyuu</rt></ruby>
 </div>
-<div class="trans-lyric">Nevertheless, desires</div>
 <div class="trans-lyric">Nevertheless, desires</div>
 </div>
 

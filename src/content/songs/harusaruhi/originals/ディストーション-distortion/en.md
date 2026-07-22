@@ -92,17 +92,12 @@ Cuts through the lies
 Everybody wants some
 </div>
 <div class="trans-lyric">Everybody wants some</div>
-<div class="trans-lyric">Everybody wants some</div>
-<div class="trans-lyric">Everybody wants some</div>
-<div class="trans-lyric">Everybody wants some</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 But only few believe
 </div>
-<div class="trans-lyric">But only few believe</div>
-<div class="trans-lyric">But only few believe</div>
 <div class="trans-lyric">But only few believe</div>
 </div>
 
@@ -111,8 +106,6 @@ But only few believe
 I won't be the first to overdose
 </div>
 <div class="trans-lyric">I won't be the first to overdose</div>
-<div class="trans-lyric">I won't be the first to overdose</div>
-<div class="trans-lyric">I won't be the first to overdose</div>
 </div>
 
 <div class="lyric-line">
@@ -120,16 +113,12 @@ I won't be the first to overdose
 On what I want, not what I need
 </div>
 <div class="trans-lyric">On what I want, not what I need</div>
-<div class="trans-lyric">On what I want, not what I need</div>
-<div class="trans-lyric">On what I want, not what I need</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Turn me up and play me loud
 </div>
-<div class="trans-lyric">Turn me up and play me loud</div>
-<div class="trans-lyric">Turn me up and play me loud</div>
 <div class="trans-lyric">Turn me up and play me loud</div>
 </div>
 
@@ -152,21 +141,12 @@ And will be proud to say
 Gimme what I want now
 </div>
 <div class="trans-lyric">Gimme what I want now</div>
-<div class="trans-lyric">Gimme what I want now</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Distortion
 </div>
-<div class="trans-lyric">Distortion</div>
-<div class="trans-lyric">Distortion</div>
-<div class="trans-lyric">Distortion</div>
-<div class="trans-lyric">Distortion</div>
-<div class="trans-lyric">Distortion</div>
-<div class="trans-lyric">Distortion</div>
-<div class="trans-lyric">Distortion</div>
-<div class="trans-lyric">Distortion</div>
 <div class="trans-lyric">Distortion</div>
 </div>
 
@@ -273,14 +253,12 @@ Turn me up and play me loud
 I won't back down and
 </div>
 <div class="trans-lyric">I won't back down and</div>
-<div class="trans-lyric">I won't back down and</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Will be proud to say
 </div>
-<div class="trans-lyric">Will be proud to say</div>
 <div class="trans-lyric">Will be proud to say</div>
 </div>
 
@@ -379,14 +357,12 @@ Before you attack
 Play what you feel, devil in the deal
 </div>
 <div class="trans-lyric">Play what you feel, devil in the deal</div>
-<div class="trans-lyric">Play what you feel, devil in the deal</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 A heart of stone and a soul of steel
 </div>
-<div class="trans-lyric">A heart of stone and a soul of steel</div>
 <div class="trans-lyric">A heart of stone and a soul of steel</div>
 </div>
 

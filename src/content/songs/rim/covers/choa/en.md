@@ -156,8 +156,6 @@ CHOA (feat. Harusaruhi) appears on CHOCOLATE LIVE2 or a related official release
 [01:13.07]<ruby>頭<rt class="furi">あたま</rt><rt class="roma">atama</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>爪先<rt class="furi">つまさき</rt><rt class="roma">tsumasaki</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby> CHOA
 </div>
 <div class="trans-lyric">[01:13.07]From head to toe, CHOA</div>
-<div class="trans-lyric">From head to toe, CHOA</div>
-<div class="trans-lyric">From head to toe, CHOA</div>
 </div>
 
 <div class="lyric-line">
@@ -165,7 +163,6 @@ CHOA (feat. Harusaruhi) appears on CHOCOLATE LIVE2 or a related official release
 [01:15.23]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>思い出<rt class="furi">おもいだ</rt><rt class="roma">omoida</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>度<rt class="furi">たび</rt><rt class="roma">tabi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>もっと<rt class="roma">motto</rt></ruby> CHOA
 </div>
 <div class="trans-lyric">[01:15.23]Every time I remember you, even more CHOA</div>
-<div class="trans-lyric">Every time I remember you, even more CHOA</div>
 </div>
 
 <div class="lyric-line">
@@ -173,7 +170,6 @@ CHOA (feat. Harusaruhi) appears on CHOCOLATE LIVE2 or a related official release
 [01:17.92]<ruby>帰り道<rt class="furi">かえりみち</rt><rt class="roma">kaerimichi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>急<rt class="furi">きゅう</rt><rt class="roma">kyuu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">[01:17.92]On the way home, if I suddenly</div>
-<div class="trans-lyric">On the way home, if I suddenly</div>
 </div>
 
 <div class="lyric-line">
@@ -181,7 +177,6 @@ CHOA (feat. Harusaruhi) appears on CHOCOLATE LIVE2 or a related official release
 [01:21.31]<ruby>黙<rt class="furi">だま</rt><rt class="roma">dama</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>フリ<rt class="roma">furi</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
 <div class="trans-lyric">[01:21.31]Even if I go quiet, pretend you don't notice</div>
-<div class="trans-lyric">Even if I go quiet, pretend you don't notice</div>
 </div>
 
 <div class="lyric-line">
@@ -189,7 +184,6 @@ CHOA (feat. Harusaruhi) appears on CHOCOLATE LIVE2 or a related official release
 [01:23.40]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>怒<rt class="furi">おこ</rt><rt class="roma">oko</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby><ruby>顔<rt class="furi">かお</rt><rt class="roma">kao</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby> CHOA
 </div>
 <div class="trans-lyric">[01:23.40]Even your angry face, CHOA</div>
-<div class="trans-lyric">Even your angry face, CHOA</div>
 </div>
 
 <div class="lyric-line">
@@ -197,8 +191,6 @@ CHOA (feat. Harusaruhi) appears on CHOCOLATE LIVE2 or a related official release
 [01:25.64]<ruby>他<rt class="furi">た</rt><rt class="roma">ta</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>より<rt class="roma">yori</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ノム<rt class="roma">nomu</rt></ruby> CHOA
 </div>
 <div class="trans-lyric">[01:25.64]More than anything else, you're nomu CHOA</div>
-<div class="trans-lyric">More than anything else, you're nomu CHOA</div>
-<div class="trans-lyric">More than anything else, you're nomu CHOA</div>
 </div>
 
 <div class="lyric-line">
@@ -206,8 +198,6 @@ CHOA (feat. Harusaruhi) appears on CHOCOLATE LIVE2 or a related official release
 [01:28.22]<ruby>照れ臭<rt class="furi">てれくさ</rt><rt class="roma">terekusa</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby>
 </div>
 <div class="trans-lyric">[01:28.22]Too embarrassed to say it</div>
-<div class="trans-lyric">Too embarrassed to say it</div>
-<div class="trans-lyric">Too embarrassed to say it</div>
 </div>
 
 <div class="lyric-line">
@@ -215,7 +205,6 @@ CHOA (feat. Harusaruhi) appears on CHOCOLATE LIVE2 or a related official release
 [01:30.97]<ruby>他<rt class="furi">た</rt><rt class="roma">ta</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>揺<rt class="furi">ゆ</rt><rt class="roma">yu</rt></ruby><ruby>らぐ<rt class="roma">ragu</rt></ruby><ruby>前<rt class="furi">まえ</rt><rt class="roma">mae</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">[01:30.97]Before someone else makes you waver</div>
-<div class="trans-lyric">Before someone else makes you waver</div>
 </div>
 
 <div class="lyric-line">
@@ -499,8 +488,6 @@ CHOA (feat. Harusaruhi) appears on CHOCOLATE LIVE2 or a related official release
 [03:26.28](CHOA CHOA CHOA)
 </div>
 <div class="trans-lyric">[03:26.28](CHOA CHOA CHOA)</div>
-<div class="trans-lyric">(CHOA CHOA CHOA)</div>
-<div class="trans-lyric">(CHOA CHOA CHOA)</div>
 </div>
 
 <div class="lyric-line">

@@ -101,9 +101,8 @@ Night&amp;day
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:53.04]<ruby>アイラ<rt class="roma">aira</rt></ruby> <ruby>限<rt class="furi">かぎ</rt><rt class="roma">kagi</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> <ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>向<rt class="furi">む</rt><rt class="roma">mu</rt></ruby><ruby>こう<rt class="roma">kou</rt></ruby>
+<ruby>アイラ<rt class="roma">aira</rt></ruby> <ruby>限<rt class="furi">かぎ</rt><rt class="roma">kagi</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> <ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>向<rt class="furi">む</rt><rt class="roma">mu</rt></ruby><ruby>こう<rt class="roma">kou</rt></ruby>
 </div>
-<div class="trans-lyric">Ira, beyond the endless sky</div>
 <div class="trans-lyric">Ira, beyond the endless sky</div>
 </div>
 
@@ -112,14 +111,12 @@ Night&amp;day
 <ruby>雨雲<rt class="furi">あまぐも</rt><rt class="roma">amagumo</rt></ruby> <ruby>ビル<rt class="roma">biru</rt></ruby><ruby>群<rt class="furi">ぐん</rt><rt class="roma">gun</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>向<rt class="furi">む</rt><rt class="roma">mu</rt></ruby><ruby>こう<rt class="roma">kou</rt></ruby>
 </div>
 <div class="trans-lyric">Beyond the rain clouds and clusters of buildings</div>
-<div class="trans-lyric">Beyond the rain clouds and clusters of buildings</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>にも<rt class="roma">nimo</rt></ruby> <ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>そう<rt class="roma">sou</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>希望<rt class="furi">きぼう</rt><rt class="roma">kibou</rt></ruby>
 </div>
-<div class="trans-lyric">Hope that seems about to reach</div>
 <div class="trans-lyric">Hope that seems about to reach</div>
 </div>
 
@@ -128,12 +125,11 @@ Night&amp;day
 <ruby>いつ<rt class="roma">itsu</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby> <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>待<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="trans-lyric">Because I'm always waiting for you</div>
-<div class="trans-lyric">Because I'm always waiting for you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:47.00]<ruby>だから<rt class="roma">dakara</rt></ruby> <ruby>忘<rt class="furi">わす</rt><rt class="roma">wasu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
+<ruby>だから<rt class="roma">dakara</rt></ruby> <ruby>忘<rt class="furi">わす</rt><rt class="roma">wasu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">So don't forget</div>
 </div>
@@ -203,7 +199,7 @@ Tell you you can hear the voices
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:53.04]<ruby>アイラ<rt class="roma">aira</rt></ruby> <ruby>憶<rt class="furi">おぼ</rt><rt class="roma">obo</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ます<rt class="roma">masu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
+<ruby>アイラ<rt class="roma">aira</rt></ruby> <ruby>憶<rt class="furi">おぼ</rt><rt class="roma">obo</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ます<rt class="roma">masu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
 </div>
 <div class="trans-lyric">Ira, do you remember?</div>
 </div>
@@ -222,7 +218,6 @@ Tell you you can hear the voices
 <ruby>希望<rt class="furi">きぼう</rt><rt class="roma">kibou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby> <ruby>昨日<rt class="furi">きのう</rt><rt class="roma">kinou</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>隠<rt class="furi">かく</rt><rt class="roma">kaku</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="trans-lyric">Even if hope is hidden in yesterday</div>
-<div class="trans-lyric">Even if hope is hidden in yesterday</div>
 </div>
 
 <div class="lyric-line">
@@ -230,14 +225,12 @@ Tell you you can hear the voices
 <ruby>いつ<rt class="roma">itsu</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby> <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>そば<rt class="roma">soba</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="trans-lyric">Because I'm always by your side</div>
-<div class="trans-lyric">Because I'm always by your side</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>だから<rt class="roma">dakara</rt></ruby> <ruby>忘<rt class="furi">わす</rt><rt class="roma">wasu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>ねぇ<rt class="roma">nee</rt></ruby>
 </div>
-<div class="trans-lyric">So don't forget, hey</div>
 <div class="trans-lyric">So don't forget, hey</div>
 </div>
 
@@ -378,7 +371,7 @@ La la la...
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:47.00]<ruby>忘<rt class="furi">わす</rt><rt class="roma">wasu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
+<ruby>忘<rt class="furi">わす</rt><rt class="roma">wasu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">Don't forget</div>
 </div>

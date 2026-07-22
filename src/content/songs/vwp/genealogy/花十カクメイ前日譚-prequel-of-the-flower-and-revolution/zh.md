@@ -41,14 +41,12 @@ image: /images/albums/vwp/witch-plus-2.jpg
 [00:00.46]<ruby>ワンツー<rt class="roma">wantsuu</rt></ruby> <ruby>チェッチェッ<rt class="roma">chetche</rt></ruby> <ruby>ハッ<rt class="roma">ha</rt></ruby>
 </div>
 <div class="cn-lyric">[00:00.46]一二 切切 哈</div>
-<div class="cn-lyric">[00:00.46]一二 切切 哈</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:02.27]<ruby>エビ<rt class="roma">ebi</rt></ruby><ruby>バディ<rt class="roma">badei</rt></ruby> <ruby>リッスン<rt class="roma">rissun</rt></ruby>！
 </div>
-<div class="cn-lyric">[00:02.27]大家 听着！</div>
 <div class="cn-lyric">[00:02.27]大家 听着！</div>
 </div>
 
@@ -57,14 +55,12 @@ image: /images/albums/vwp/witch-plus-2.jpg
 [00:03.59]<ruby>カクメイ<rt class="roma">kakumei</rt></ruby><ruby>前夜<rt class="furi">ぜんや</rt><rt class="roma">zen'ya</rt></ruby> <ruby>見逃<rt class="furi">みのが</rt><rt class="roma">minoga</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>配信<rt class="furi">はいしん</rt><rt class="roma">haishin</rt></ruby><ruby>なし<rt class="roma">nashi</rt></ruby>
 </div>
 <div class="cn-lyric">[00:03.59]革命前夜 直播不容错过</div>
-<div class="cn-lyric">[00:03.59]革命前夜 直播不容错过</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:06.55]<ruby>覚悟<rt class="furi">かくご</rt><rt class="roma">kakugo</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>頂戴<rt class="furi">ちょうだい</rt><rt class="roma">choudai</rt></ruby>！ <ruby>絶対<rt class="furi">ぜったい</rt><rt class="roma">zettai</rt></ruby><ruby>奪<rt class="furi">うば</rt><rt class="roma">uba</rt></ruby><ruby>っちゃう<rt class="roma">tchau</rt></ruby><ruby>ハート<rt class="roma">haato</rt></ruby>
 </div>
-<div class="cn-lyric">[00:06.55]做好觉悟吧！绝对要夺走你的心</div>
 <div class="cn-lyric">[00:06.55]做好觉悟吧！绝对要夺走你的心</div>
 </div>
 
@@ -122,14 +118,12 @@ image: /images/albums/vwp/witch-plus-2.jpg
 [00:36.69]<ruby>宇宙<rt class="furi">うちゅう</rt><rt class="roma">uchuu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>果<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>必<rt class="furi">かなら</rt><rt class="roma">kanara</rt></ruby><ruby>ずや<rt class="roma">zuya</rt></ruby><ruby>迎<rt class="furi">むか</rt><rt class="roma">muka</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>行<rt class="furi">ゆ</rt><rt class="roma">yu</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">[00:36.69]直到宇宙尽头也一定去迎接你</div>
-<div class="cn-lyric">[00:36.69]直到宇宙尽头也一定去迎接你</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:42.61]<ruby>置<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>いてきぼり<rt class="roma">itekibori</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby>
 </div>
-<div class="cn-lyric">[00:42.61]不会丢下你不管的</div>
 <div class="cn-lyric">[00:42.61]不会丢下你不管的</div>
 </div>
 
@@ -138,14 +132,12 @@ image: /images/albums/vwp/witch-plus-2.jpg
 [00:48.51]騒<ruby>つく<rt class="roma">tsuku</rt></ruby> GET UP！
 </div>
 <div class="cn-lyric">[00:48.51]骚动起来 GET UP！</div>
-<div class="cn-lyric">[00:48.51]骚动起来 GET UP！</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:50.12]<ruby>それ<rt class="roma">sore</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>花<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>十<rt class="furi">じゅう</rt><rt class="roma">juu</rt></ruby><ruby>カクメイ<rt class="roma">kakumei</rt></ruby>
 </div>
-<div class="cn-lyric">[00:50.12]那是花十革命</div>
 <div class="cn-lyric">[00:50.12]那是花十革命</div>
 </div>
 
@@ -154,7 +146,6 @@ image: /images/albums/vwp/witch-plus-2.jpg
 [00:53.08]<ruby>明日<rt class="furi">あした</rt><rt class="roma">ashita</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby><ruby>変<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>やん<rt class="roma">yan</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>！
 </div>
 <div class="cn-lyric">[00:53.08]连明天都要改变！</div>
-<div class="cn-lyric">[00:53.08]连明天都要改变！</div>
 </div>
 
 <div class="lyric-line">
@@ -162,14 +153,12 @@ image: /images/albums/vwp/witch-plus-2.jpg
 [00:56.28]<ruby>願<rt class="furi">ねが</rt><rt class="roma">nega</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>足<rt class="furi">た</rt><rt class="roma">ta</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="cn-lyric">[00:56.28]仅靠祈祷是不够的</div>
-<div class="cn-lyric">[00:56.28]仅靠祈祷是不够的</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:00.52]<ruby>ハナ<rt class="roma">hana</rt></ruby><ruby>マル<rt class="roma">maru</rt></ruby><ruby>満天<rt class="furi">まんてん</rt><rt class="roma">manten</rt></ruby> <ruby>咲<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>かせ<rt class="roma">kase</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>みせ<rt class="roma">mise</rt></ruby><ruby>ましょ<rt class="roma">masho</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="cn-lyric">[01:00.52]花丸满天 绽放给你看</div>
 <div class="cn-lyric">[01:00.52]花丸满天 绽放给你看</div>
 </div>
 
@@ -184,7 +173,6 @@ image: /images/albums/vwp/witch-plus-2.jpg
 <div class="jp-lyric">
 [01:14.06]<ruby>宝<rt class="furi">たから</rt><rt class="roma">takara</rt></ruby><ruby>箱<rt class="furi">ばこ</rt><rt class="roma">bako</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>ずっと<rt class="roma">zutto</rt></ruby><ruby>光<rt class="furi">ひか</rt><rt class="roma">hika</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby>
 </div>
-<div class="cn-lyric">[01:14.06]在宝箱中永远闪耀</div>
 <div class="cn-lyric">[01:14.06]在宝箱中永远闪耀</div>
 </div>
 

@@ -124,8 +124,6 @@ image: /images/albums/vwp/city-ii-virtual-reality.jpg
 <ruby>最後<rt class="furi">さいご</rt><rt class="roma">saigo</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>恋<rt class="furi">こい</rt><rt class="roma">koi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>しよ<rt class="roma">shiyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="trans-lyric">Let's have our final love.</div>
-<div class="trans-lyric">Let's have our final love.</div>
-<div class="trans-lyric">Let's have our final love.</div>
 </div>
 
 <div class="lyric-line">
@@ -154,7 +152,6 @@ image: /images/albums/vwp/city-ii-virtual-reality.jpg
 <ruby>出会<rt class="furi">であ</rt><rt class="roma">dea</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby><ruby>瞬間<rt class="furi">しゅんかん</rt><rt class="roma">shunkan</rt></ruby>、<ruby>恋<rt class="furi">こい</rt><rt class="roma">koi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>落<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>ち<rt class="roma">chi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>二<rt class="furi">に</rt><rt class="roma">ni</rt></ruby><ruby>人<rt class="furi">にん</rt><rt class="roma">nin</rt></ruby>
 </div>
 <div class="trans-lyric">The two of us fell in love the moment we met,</div>
-<div class="trans-lyric">The two of us fell in love the moment we met,</div>
 </div>
 
 <div class="lyric-line">
@@ -169,14 +166,12 @@ image: /images/albums/vwp/city-ii-virtual-reality.jpg
 I'll be for you
 </div>
 <div class="trans-lyric">I'll be for you</div>
-<div class="trans-lyric">I'll be for you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>今日<rt class="furi">きょう</rt><rt class="roma">kyou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>二<rt class="furi">に</rt><rt class="roma">ni</rt></ruby><ruby>人<rt class="furi">にん</rt><rt class="roma">nin</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>新<rt class="furi">あたら</rt><rt class="roma">atara</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>記念<rt class="furi">きねん</rt><rt class="roma">kinen</rt></ruby><ruby>日<rt class="furi">び</rt><rt class="roma">bi</rt></ruby>
 </div>
-<div class="trans-lyric">Today is our new anniversary.</div>
 <div class="trans-lyric">Today is our new anniversary.</div>
 </div>
 

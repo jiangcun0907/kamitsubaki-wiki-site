@@ -36,16 +36,12 @@ image: /images/albums/rim/chocolate-live-4.jpg
 [00:01.16]<ruby>きっと<rt class="roma">kitto</rt></ruby><ruby>涙<rt class="furi">なみだ</rt><rt class="roma">namida</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby> <ruby>音<rt class="furi">おと</rt><rt class="roma">oto</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>流<rt class="furi">なが</rt><rt class="roma">naga</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby><ruby>けれど<rt class="roma">keredo</rt></ruby>
 </div>
 <div class="trans-lyric">Surely tears flow silently, but</div>
-<div class="trans-lyric">Surely tears flow silently, but</div>
-<div class="trans-lyric">Surely tears flow silently, but</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:07.28]<ruby>赤裸々<rt class="furi">せきらら</rt><rt class="roma">sekirara</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>頬<rt class="furi">ほお</rt><rt class="roma">hoo</rt></ruby><ruby>濡<rt class="furi">ぬ</rt><rt class="roma">nu</rt></ruby><ruby>らし<rt class="roma">rashi</rt></ruby> <ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>溶<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>かし<rt class="roma">kashi</rt></ruby><ruby>はじめる<rt class="roma">hajimeru</rt></ruby>
 </div>
-<div class="trans-lyric">They wet my cheeks so plainly, and begin to melt my heart as well</div>
-<div class="trans-lyric">They wet my cheeks so plainly, and begin to melt my heart as well</div>
 <div class="trans-lyric">They wet my cheeks so plainly, and begin to melt my heart as well</div>
 </div>
 
@@ -60,8 +56,6 @@ image: /images/albums/rim/chocolate-live-4.jpg
 <div class="jp-lyric">
 [00:22.16]<ruby>想い出<rt class="furi">おもいで</rt><rt class="roma">omoide</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>笑<rt class="furi">わら</rt><rt class="roma">wara</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>足跡<rt class="furi">あしあと</rt><rt class="roma">ashiato</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>傷跡<rt class="furi">きずあと</rt><rt class="roma">kizuato</rt></ruby><ruby>かくす<rt class="roma">kakusu</rt></ruby>
 </div>
-<div class="trans-lyric">Laughed at by memories, my footprints and scars are hidden</div>
-<div class="trans-lyric">Laughed at by memories, my footprints and scars are hidden</div>
 <div class="trans-lyric">Laughed at by memories, my footprints and scars are hidden</div>
 </div>
 
@@ -121,7 +115,6 @@ image: /images/albums/rim/chocolate-live-4.jpg
 [01:19.06]<ruby>こわれる<rt class="roma">kowareru</rt></ruby><ruby>くらい<rt class="roma">kurai</rt></ruby> <ruby>抱<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>きしめ<rt class="roma">kishime</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ほしかった<rt class="roma">hoshikatta</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby>
 </div>
 <div class="trans-lyric">I wanted you to hold me so tight it might break, but</div>
-<div class="trans-lyric">I wanted you to hold me so tight it might break, but</div>
 </div>
 
 <div class="lyric-line">
@@ -174,14 +167,12 @@ image: /images/albums/rim/chocolate-live-4.jpg
 [02:01.25]<ruby>もう<rt class="roma">mou</rt></ruby><ruby>戻<rt class="furi">もど</rt><rt class="roma">modo</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> <ruby>情熱<rt class="furi">じょうねつ</rt><rt class="roma">jounetsu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>両手<rt class="furi">りょうて</rt><rt class="roma">ryoute</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>抱<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">Holding the passion that can never return in both hands,</div>
-<div class="trans-lyric">Holding the passion that can never return in both hands,</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [02:05.42]<ruby>孵<rt class="furi">かえ</rt><rt class="roma">kae</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>想<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>集<rt class="furi">あつ</rt><rt class="roma">atsu</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">Gathering unhatched feelings,</div>
 <div class="trans-lyric">Gathering unhatched feelings,</div>
 </div>
 
@@ -190,7 +181,6 @@ image: /images/albums/rim/chocolate-live-4.jpg
 [02:05.42]<ruby>サヨナラ<rt class="roma">sayonara</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>口<rt class="furi">くち</rt><rt class="roma">kuchi</rt></ruby><ruby>づけ<rt class="roma">zuke</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ましょ<rt class="roma">masho</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="trans-lyric">Let's kiss goodbye</div>
-<div class="trans-lyric">Let's kiss goodbye</div>
 </div>
 
 <div class="lyric-line">
@@ -198,14 +188,12 @@ image: /images/albums/rim/chocolate-live-4.jpg
 [02:11.91]<ruby>そうね<rt class="roma">soune</rt></ruby><ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>より<rt class="roma">yori</rt></ruby> <ruby>抱<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>きしめ<rt class="roma">kishime</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>あげ<rt class="roma">age</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>けれど<rt class="roma">keredo</rt></ruby>
 </div>
 <div class="trans-lyric">Yes, more than anyone, I want to hold you, but</div>
-<div class="trans-lyric">Yes, more than anyone, I want to hold you, but</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [02:16.05]<ruby>切<rt class="furi">せつ</rt><rt class="roma">setsu</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>さらわ<rt class="roma">sarawa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>冗談<rt class="furi">じょうだん</rt><rt class="roma">joudan</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>やけに<rt class="roma">yakeni</rt></ruby><ruby>むなしい<rt class="roma">munashii</rt></ruby>
 </div>
-<div class="trans-lyric">Carried away by anguish, jokes feel terribly hollow</div>
 <div class="trans-lyric">Carried away by anguish, jokes feel terribly hollow</div>
 </div>
 

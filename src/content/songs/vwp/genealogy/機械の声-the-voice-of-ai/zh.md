@@ -454,7 +454,6 @@ image: /images/albums/vwp/witch-plus-2.jpg
 [03:57.73]「<ruby>大好<rt class="furi">だいす</rt><rt class="roma">daisu</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>！」
 </div>
 <div class="cn-lyric">[03:57.73]「最喜欢了！」</div>
-<div class="cn-lyric">[03:57.73]「最喜欢了！」</div>
 </div>
 
 <div class="lyric-line">
@@ -488,7 +487,6 @@ image: /images/albums/vwp/witch-plus-2.jpg
 <div class="jp-lyric">
 [04:08.39]<ruby>分<rt class="furi">わ</rt><rt class="roma">wa</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>！
 </div>
-<div class="cn-lyric">[04:08.39]不明白啊！</div>
 <div class="cn-lyric">[04:08.39]不明白啊！</div>
 </div>
 
@@ -628,7 +626,6 @@ image: /images/albums/vwp/witch-plus-2.jpg
 <div class="jp-lyric">
 [05:31.57]Let me see
 </div>
-<div class="cn-lyric">[05:31.57]Let me see</div>
 <div class="cn-lyric">[05:31.57]Let me see</div>
 </div>
 

@@ -106,18 +106,12 @@ image: /images/albums/kaf/kansoku.jpg
 [00:47.09]<ruby>ハローハローハローハロー<rt class="roma">harouharouharouharou</rt></ruby>
 </div>
 <div class="cn-lyric">[00:47.09]你好你好你好你好</div>
-<div class="cn-lyric">[00:47.09]你好你好你好你好</div>
-<div class="cn-lyric">[00:47.09]你好你好你好你好</div>
-<div class="cn-lyric">[00:47.09]你好你好你好你好</div>
-<div class="cn-lyric">[00:47.09]你好你好你好你好</div>
-<div class="cn-lyric">[00:47.09]你好你好你好你好</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>宇宙<rt class="furi">うちゅう</rt><rt class="roma">uchuu</rt></ruby><ruby>人<rt class="furi">じん</rt><rt class="roma">jin</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="cn-lyric">我是外星人啊</div>
 <div class="cn-lyric">我是外星人啊</div>
 </div>
 
@@ -126,14 +120,12 @@ image: /images/albums/kaf/kansoku.jpg
 [00:53.09]<ruby>はじめて<rt class="roma">hajimete</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby>
 </div>
 <div class="cn-lyric">[00:53.09]虽然是第一次说</div>
-<div class="cn-lyric">[00:53.09]虽然是第一次说</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:56.09]<ruby>はじめて<rt class="roma">hajimete</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>っちゃう<rt class="roma">tchau</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby>
 </div>
-<div class="cn-lyric">[00:56.09]虽第一次脱口而出</div>
 <div class="cn-lyric">[00:56.09]虽第一次脱口而出</div>
 </div>
 
@@ -154,7 +146,6 @@ image: /images/albums/kaf/kansoku.jpg
 <div class="jp-lyric">
 <ruby>子供<rt class="furi">こども</rt><rt class="roma">kodomo</rt></ruby><ruby>みたい<rt class="roma">mitai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>話<rt class="furi">はなし</rt><rt class="roma">hanashi</rt></ruby><ruby>みたい<rt class="roma">mitai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
-<div class="cn-lyric">如同孩子般的童话</div>
 <div class="cn-lyric">如同孩子般的童话</div>
 </div>
 
@@ -313,7 +304,6 @@ image: /images/albums/kaf/kansoku.jpg
 [02:33.09]<ruby>デスティニー<rt class="roma">desuteinii</rt></ruby>？
 </div>
 <div class="cn-lyric">[02:33.09]命运？</div>
-<div class="cn-lyric">[02:33.09]命运？</div>
 </div>
 
 <div class="lyric-line">
@@ -383,7 +373,6 @@ image: /images/albums/kaf/kansoku.jpg
 <div class="jp-lyric">
 [02:53.09]<ruby>ハローハローハローハローハロー<rt class="roma">harouharouharouharouharou</rt></ruby>
 </div>
-<div class="cn-lyric">[02:53.09]你好你好你好你好你好</div>
 <div class="cn-lyric">[02:53.09]你好你好你好你好你好</div>
 </div>
 

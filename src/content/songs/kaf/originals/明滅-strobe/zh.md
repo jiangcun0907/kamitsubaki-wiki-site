@@ -60,7 +60,6 @@ image: /images/albums/kaf/shinai.jpg
 [00:49.06]<ruby>明滅<rt class="furi">めいめつ</rt><rt class="roma">meimetsu</rt></ruby>
 </div>
 <div class="cn-lyric">[00:49.06]明灭</div>
-<div class="cn-lyric">[00:49.06]明灭</div>
 </div>
 
 <div class="lyric-line">
@@ -75,8 +74,6 @@ image: /images/albums/kaf/shinai.jpg
 [00:57.39]<ruby>なんで<rt class="roma">nande</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>自分勝手<rt class="furi">じぶんがって</rt><rt class="roma">jibungatte</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
 <div class="cn-lyric">[00:57.39]为什么我们总是自私地</div>
-<div class="cn-lyric">为什么我们总是自私地</div>
-<div class="cn-lyric">为什么我们总是自私地</div>
 </div>
 
 <div class="lyric-line">
@@ -84,8 +81,6 @@ image: /images/albums/kaf/shinai.jpg
 [01:02.32]<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>振<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>りかざし<rt class="roma">rikazashi</rt></ruby><ruby>傷<rt class="furi">きず</rt><rt class="roma">kizu</rt></ruby><ruby>つけ<rt class="roma">tsuke</rt></ruby><ruby>合<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>？
 </div>
 <div class="cn-lyric">[01:02.32]挥舞着爱而互相伤害？</div>
-<div class="cn-lyric">挥舞着爱而互相伤害？</div>
-<div class="cn-lyric">挥舞着爱而互相伤害？</div>
 </div>
 
 <div class="lyric-line">
@@ -93,7 +88,6 @@ image: /images/albums/kaf/shinai.jpg
 [01:07.99]<ruby>また<rt class="roma">mata</rt></ruby><ruby>一<rt class="furi">ひと</rt><rt class="roma">hito</rt></ruby><ruby>つ<rt class="roma">tsu</rt></ruby> <ruby>また<rt class="roma">mata</rt></ruby><ruby>一<rt class="furi">ひと</rt><rt class="roma">hito</rt></ruby><ruby>つ<rt class="roma">tsu</rt></ruby> <ruby>灯<rt class="furi">あかり</rt><rt class="roma">akari</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="cn-lyric">[01:07.99]一盏又一盏 灯火熄灭了</div>
-<div class="cn-lyric">一盏又一盏 灯火熄灭了</div>
 </div>
 
 <div class="lyric-line">
@@ -101,7 +95,6 @@ image: /images/albums/kaf/shinai.jpg
 [01:12.52]<ruby>なんて<rt class="roma">nante</rt></ruby><ruby>愛<rt class="furi">いと</rt><rt class="roma">ito</rt></ruby><ruby>しく<rt class="roma">shiku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>愚<rt class="furi">おろ</rt><rt class="roma">oro</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="cn-lyric">[01:12.52]多么令人怜爱又愚蠢啊</div>
-<div class="cn-lyric">多么令人怜爱又愚蠢啊</div>
 </div>
 
 <div class="lyric-line">
@@ -109,7 +102,6 @@ image: /images/albums/kaf/shinai.jpg
 [01:18.29]<ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>聞<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[01:18.29]让我听到无声之声</div>
-<div class="cn-lyric">让我听到无声之声</div>
 </div>
 
 <div class="lyric-line">

@@ -98,7 +98,6 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 [00:51.56]A twig in the wind, a twig in the wind, ah hoo
 </div>
 <div class="cn-lyric">[00:51.56]一根风中细枝，一根风中细枝，啊呼</div>
-<div class="cn-lyric">[00:51.56]一根风中细枝，一根风中细枝，啊呼</div>
 </div>
 
 <div class="lyric-line">

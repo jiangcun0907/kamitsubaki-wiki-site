@@ -57,8 +57,6 @@ image: /images/songs/koko/single-1837365025.jpg
 [00:08.41]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>願<rt class="furi">ねが</rt><rt class="roma">nega</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>やめ<rt class="roma">yame</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="cn-lyric">[00:08.41]我停止了许愿</div>
-<div class="cn-lyric">[00:08.41]我停止了许愿</div>
-<div class="cn-lyric">[00:08.41]我停止了许愿</div>
 </div>
 
 <div class="lyric-line">
@@ -136,14 +134,12 @@ image: /images/songs/koko/single-1837365025.jpg
 [00:53.31]<ruby>震<rt class="furi">ふる</rt><rt class="roma">furu</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>足<rt class="furi">あし</rt><rt class="roma">ashi</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>走り出<rt class="furi">はしりだ</rt><rt class="roma">hashirida</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="cn-lyric">[00:53.31]用颤抖的双腿奔跑起来</div>
-<div class="cn-lyric">[00:53.31]用颤抖的双腿奔跑起来</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:55.68]<ruby>まだ<rt class="roma">mada</rt></ruby><ruby>涙<rt class="furi">なみだ</rt><rt class="roma">namida</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>あふれ<rt class="roma">afure</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>くる<rt class="roma">kuru</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby>
 </div>
-<div class="cn-lyric">[00:55.68]虽然泪水仍在涌出</div>
 <div class="cn-lyric">[00:55.68]虽然泪水仍在涌出</div>
 </div>
 
@@ -152,14 +148,12 @@ image: /images/songs/koko/single-1837365025.jpg
 [00:58.10]<ruby>強<rt class="furi">つよ</rt><rt class="roma">tsuyo</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby> <ruby>強<rt class="furi">つよ</rt><rt class="roma">tsuyo</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby> <ruby>なり<rt class="roma">nari</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="cn-lyric">[00:58.10]我想要变得更强 更强</div>
-<div class="cn-lyric">[00:58.10]我想要变得更强 更强</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:00.92]<ruby>魔法<rt class="furi">まほう</rt><rt class="roma">mahou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>なに<rt class="roma">nani</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>使<rt class="furi">つか</rt><rt class="roma">tsuka</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="cn-lyric">[01:00.92]魔法什么也做不到</div>
 <div class="cn-lyric">[01:00.92]魔法什么也做不到</div>
 </div>
 
@@ -168,14 +162,12 @@ image: /images/songs/koko/single-1837365025.jpg
 [01:03.19]<ruby>明日<rt class="furi">あした</rt><rt class="roma">ashita</rt></ruby><ruby>笑<rt class="furi">わら</rt><rt class="roma">wara</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>わから<rt class="roma">wakara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="cn-lyric">[01:03.19]不知道明天能否笑得出来</div>
-<div class="cn-lyric">[01:03.19]不知道明天能否笑得出来</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:05.67]<ruby>でも<rt class="roma">demo</rt></ruby><ruby>いつか<rt class="roma">itsuka</rt></ruby><ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>叶<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>ため<rt class="roma">tame</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
-<div class="cn-lyric">[01:05.67]但为了总有一天实现梦想</div>
 <div class="cn-lyric">[01:05.67]但为了总有一天实现梦想</div>
 </div>
 

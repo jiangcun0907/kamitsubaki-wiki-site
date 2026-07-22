@@ -31,22 +31,12 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 [00:18.27]두빠두빠 두비두비 마카롱
 </div>
 <div class="cn-lyric">[00:18.27]嘟叭嘟叭 嘟比嘟比 马卡龙</div>
-<div class="cn-lyric">[00:18.27]嘟叭嘟叭 嘟比嘟比 马卡龙</div>
-<div class="cn-lyric">[00:18.27]嘟叭嘟叭 嘟比嘟比 马卡龙</div>
-<div class="cn-lyric">[00:18.27]嘟叭嘟叭 嘟比嘟比 马卡龙</div>
-<div class="cn-lyric">[00:18.27]嘟叭嘟叭 嘟比嘟比 马卡龙</div>
-<div class="cn-lyric">[00:18.27]嘟叭嘟叭 嘟比嘟比 马卡龙</div>
-<div class="cn-lyric">[00:18.27]嘟叭嘟叭 嘟比嘟比 马卡龙</div>
-<div class="cn-lyric">[00:18.27]嘟叭嘟叭 嘟比嘟比 马卡龙</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:21.06]Hey hey hey hey
 </div>
-<div class="cn-lyric">[00:21.06]Hey hey hey hey</div>
-<div class="cn-lyric">[00:21.06]Hey hey hey hey</div>
-<div class="cn-lyric">[00:21.06]Hey hey hey hey</div>
 <div class="cn-lyric">[00:21.06]Hey hey hey hey</div>
 </div>
 
@@ -77,7 +67,6 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 [00:37.01]살금살금 다가와
 </div>
 <div class="cn-lyric">[00:37.01]悄悄悄悄地靠近</div>
-<div class="cn-lyric">[00:37.01]悄悄悄悄地靠近</div>
 </div>
 
 <div class="lyric-line">
@@ -85,14 +74,12 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 [00:39.25]한순간에 훔쳐 가
 </div>
 <div class="cn-lyric">[00:39.25]一瞬间就偷走</div>
-<div class="cn-lyric">[00:39.25]一瞬间就偷走</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:41.84]맘이 난리 난 걸 티가 나서 어쩌니?
 </div>
-<div class="cn-lyric">[00:41.84]心里乱糟糟的 被看穿了 怎么办？</div>
 <div class="cn-lyric">[00:41.84]心里乱糟糟的 被看穿了 怎么办？</div>
 </div>
 
@@ -103,7 +90,6 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 [00:46.38]이 밤에 우리 둘이
 </div>
 <div class="cn-lyric">[00:46.38]这个夜晚 我们俩</div>
-<div class="cn-lyric">[00:46.38]这个夜晚 我们俩</div>
 </div>
 
 <div class="lyric-line">
@@ -111,14 +97,12 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 [00:49.56]오 boogie woogie boogie
 </div>
 <div class="cn-lyric">[00:49.56]哦 boogie woogie boogie</div>
-<div class="cn-lyric">[00:49.56]哦 boogie woogie boogie</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:52.40]아주 비밀스럽게 (음)
 </div>
-<div class="cn-lyric">[00:52.40]非常秘密地 (嗯)</div>
 <div class="cn-lyric">[00:52.40]非常秘密地 (嗯)</div>
 </div>
 
@@ -129,16 +113,12 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 [00:55.13]사랑에 춤을 추듯이
 </div>
 <div class="cn-lyric">[00:55.13]像是在爱情中跳舞</div>
-<div class="cn-lyric">[00:55.13]像是在爱情中跳舞</div>
-<div class="cn-lyric">[00:55.13]像是在爱情中跳舞</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:57.68]살살 녹여주는 넌
 </div>
-<div class="cn-lyric">[00:57.68]慢慢融化我的你</div>
-<div class="cn-lyric">[00:57.68]慢慢融化我的你</div>
 <div class="cn-lyric">[00:57.68]慢慢融化我的你</div>
 </div>
 
@@ -147,22 +127,12 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 [01:00.64]눈빛마저 tasty
 </div>
 <div class="cn-lyric">[01:00.64]连眼神都 tasty</div>
-<div class="cn-lyric">[01:00.64]连眼神都 tasty</div>
-<div class="cn-lyric">[01:00.64]连眼神都 tasty</div>
-<div class="cn-lyric">[01:00.64]连眼神都 tasty</div>
-<div class="cn-lyric">[01:00.64]连眼神都 tasty</div>
-<div class="cn-lyric">[01:00.64]连眼神都 tasty</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:02.88]I'm going going crazy
 </div>
-<div class="cn-lyric">[01:02.88]I'm going going crazy</div>
-<div class="cn-lyric">[01:02.88]I'm going going crazy</div>
-<div class="cn-lyric">[01:02.88]I'm going going crazy</div>
-<div class="cn-lyric">[01:02.88]I'm going going crazy</div>
-<div class="cn-lyric">[01:02.88]I'm going going crazy</div>
 <div class="cn-lyric">[01:02.88]I'm going going crazy</div>
 </div>
 
@@ -171,16 +141,12 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 [01:05.35]따라와요 baby
 </div>
 <div class="cn-lyric">[01:05.35]跟来吧 baby</div>
-<div class="cn-lyric">[01:05.35]跟来吧 baby</div>
-<div class="cn-lyric">[01:05.35]跟来吧 baby</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:07.23]같이 춤을 춰요 baby
 </div>
-<div class="cn-lyric">[01:07.23]一起跳舞吧 baby</div>
-<div class="cn-lyric">[01:07.23]一起跳舞吧 baby</div>
 <div class="cn-lyric">[01:07.23]一起跳舞吧 baby</div>
 </div>
 
@@ -221,7 +187,6 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 [01:22.15]우리 둘이 우리 둘이
 </div>
 <div class="cn-lyric">[01:22.15]我们俩 我们俩</div>
-<div class="cn-lyric">[01:22.15]我们俩 我们俩</div>
 </div>
 
 <br />
@@ -231,14 +196,12 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 [01:24.06]랄랄라 라랄랄라라라 랄랄 라라라
 </div>
 <div class="cn-lyric">[01:24.06]啦啦啦 啦啦啦啦啦啦 啦啦 啦啦啦</div>
-<div class="cn-lyric">[01:24.06]啦啦啦 啦啦啦啦啦啦 啦啦 啦啦啦</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:27.93](너무 달콤해)
 </div>
-<div class="cn-lyric">[01:27.93](太甜蜜了)</div>
 <div class="cn-lyric">[01:27.93](太甜蜜了)</div>
 </div>
 

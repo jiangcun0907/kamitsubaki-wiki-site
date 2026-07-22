@@ -107,7 +107,6 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 [00:59.70]<ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">Says nothing</div>
-<div class="trans-lyric">Says nothing</div>
 </div>
 
 <div class="lyric-line">
@@ -161,11 +160,6 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 [01:43.60]<ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="trans-lyric">Disappeared</div>
-<div class="trans-lyric">Disappeared</div>
-<div class="trans-lyric">Disappeared</div>
-<div class="trans-lyric">Disappeared</div>
-<div class="trans-lyric">Disappeared</div>
-<div class="trans-lyric">Disappeared</div>
 </div>
 
 <div class="lyric-line">
@@ -178,7 +172,6 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 <div class="jp-lyric">
 [01:49.49]（<ruby>カワハナガレル<rt class="roma">kawahanagareru</rt></ruby>）
 </div>
-<div class="trans-lyric">(The river flows)</div>
 <div class="trans-lyric">(The river flows)</div>
 </div>
 
@@ -310,10 +303,6 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 [03:23.20]<ruby>触<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="trans-lyric">Touched</div>
-<div class="trans-lyric">Touched</div>
-<div class="trans-lyric">Touched</div>
-<div class="trans-lyric">Touched</div>
-<div class="trans-lyric">Touched</div>
 </div>
 
 <div class="lyric-line">
@@ -326,7 +315,6 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 <div class="jp-lyric">
 [03:28.35]（<ruby>ヨルハナガレル<rt class="roma">yoruhanagareru</rt></ruby>）
 </div>
-<div class="trans-lyric">(The night flows)</div>
 <div class="trans-lyric">(The night flows)</div>
 </div>
 
@@ -391,7 +379,6 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 [03:56.04]<ruby>思い出<rt class="furi">おもいだ</rt><rt class="roma">omoida</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>嫌<rt class="furi">いや</rt><rt class="roma">iya</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なって<rt class="roma">natte</rt></ruby>
 </div>
 <div class="trans-lyric">Can't remember and hate it</div>
-<div class="trans-lyric">Can't remember and hate it</div>
 </div>
 
 <div class="lyric-line">
@@ -412,7 +399,6 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 <div class="jp-lyric">
 [04:05.02]<ruby>鳴<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>たろ<rt class="roma">taro</rt></ruby>
 </div>
-<div class="trans-lyric">Was crying, right?</div>
 <div class="trans-lyric">Was crying, right?</div>
 </div>
 
@@ -458,7 +444,6 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 [04:20.98]<ruby>いつ<rt class="roma">itsu</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>待<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>ってる<rt class="roma">tteru</rt></ruby>
 </div>
 <div class="trans-lyric">Always waiting for us</div>
-<div class="trans-lyric">Always waiting for us</div>
 </div>
 
 <div class="lyric-line">
@@ -480,14 +465,12 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 [04:30.78]<ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>続<rt class="furi">つづ</rt><rt class="roma">tsuzu</rt></ruby><ruby>ける<rt class="roma">keru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">I'll keep singing</div>
-<div class="trans-lyric">I'll keep singing</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [04:33.28]<ruby>続<rt class="furi">つづ</rt><rt class="roma">tsuzu</rt></ruby><ruby>ける<rt class="roma">keru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">Keep singing</div>
 <div class="trans-lyric">Keep singing</div>
 </div>
 

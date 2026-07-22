@@ -118,9 +118,6 @@ image: /images/albums/vwp/witch-plus-2.jpg
 [00:51.55]Down Down Down
 </div>
 <div class="cn-lyric">[00:51.55]Down Down Down</div>
-<div class="cn-lyric">[00:51.55]Down Down Down</div>
-<div class="cn-lyric">[00:51.55]Down Down Down</div>
-<div class="cn-lyric">[00:51.55]Down Down Down</div>
 </div>
 
 <div class="lyric-line">
@@ -337,7 +334,6 @@ image: /images/albums/vwp/witch-plus-2.jpg
 [02:34.65]lalala~
 </div>
 <div class="cn-lyric">[02:34.65]lalala~</div>
-<div class="cn-lyric">lalala~</div>
 </div>
 
 <div class="lyric-line">

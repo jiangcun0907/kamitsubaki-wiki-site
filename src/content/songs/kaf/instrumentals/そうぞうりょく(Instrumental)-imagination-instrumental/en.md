@@ -35,14 +35,12 @@ image: /images/albums/kaf/kyoso.jpg
 <ruby>かえる<rt class="roma">kaeru</rt></ruby><ruby>のう<rt class="roma">nou</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
 </div>
 <div class="trans-lyric">The frog's song</div>
-<div class="trans-lyric">The frog's song</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>きこえ<rt class="roma">kikoe</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>くる<rt class="roma">kuru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">I can hear it come</div>
 <div class="trans-lyric">I can hear it come</div>
 </div>
 
@@ -51,7 +49,6 @@ image: /images/albums/kaf/kyoso.jpg
 <ruby>クワ<rt class="roma">kuwa</rt></ruby> <ruby>クワ<rt class="roma">kuwa</rt></ruby> <ruby>クワ<rt class="roma">kuwa</rt></ruby> <ruby>クワ<rt class="roma">kuwa</rt></ruby>
 </div>
 <div class="trans-lyric">Ribbit ribbit ribbit ribbit</div>
-<div class="trans-lyric">Ribbit ribbit ribbit ribbit</div>
 </div>
 
 <div class="lyric-line">
@@ -59,14 +56,12 @@ image: /images/albums/kaf/kyoso.jpg
 <ruby>ケケケケ<rt class="roma">kekekeke</rt></ruby> <ruby>ケケケケ<rt class="roma">kekekeke</rt></ruby>
 </div>
 <div class="trans-lyric">Ker-ker-ker-ker ker-ker-ker-ker</div>
-<div class="trans-lyric">Ker-ker-ker-ker ker-ker-ker-ker</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>クワ<rt class="roma">kuwa</rt></ruby> <ruby>クワ<rt class="roma">kuwa</rt></ruby> <ruby>クワ<rt class="roma">kuwa</rt></ruby>
 </div>
-<div class="trans-lyric">Ribbit ribbit ribbit</div>
 <div class="trans-lyric">Ribbit ribbit ribbit</div>
 </div>
 

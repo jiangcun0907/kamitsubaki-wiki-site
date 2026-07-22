@@ -36,13 +36,6 @@ Interlude #1 -ケダモノ- appears on 心獣 or a related official release. Ent
 [00:09.649]<ruby>ケダモノ<rt class="roma">kedamono</rt></ruby>
 </div>
 <div class="trans-lyric">[00:09.649]Beast</div>
-<div class="trans-lyric">Beast</div>
-<div class="trans-lyric">Beast</div>
-<div class="trans-lyric">Beast</div>
-<div class="trans-lyric">Beast</div>
-<div class="trans-lyric">Beast</div>
-<div class="trans-lyric">Beast</div>
-<div class="trans-lyric">Beast</div>
 </div>
 
 <div class="lyric-line">
@@ -56,7 +49,6 @@ Interlude #1 -ケダモノ- appears on 心獣 or a related official release. Ent
 [00:14.169]<ruby>この<rt class="roma">kono</rt></ruby><ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="trans-lyric">[00:14.169]Of this heart</div>
-<div class="trans-lyric">Of this heart</div>
 </div>
 
 <div class="lyric-line">

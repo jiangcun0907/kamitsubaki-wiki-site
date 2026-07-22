@@ -106,10 +106,6 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 [00:21.23]<ruby>家<rt class="furi">いえ</rt><rt class="roma">ie</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>帰<rt class="furi">かえ</rt><rt class="roma">kae</rt></ruby><ruby>ろ<rt class="roma">ro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="cn-lyric">[00:21.23]回家吧</div>
-<div class="cn-lyric">回家吧</div>
-<div class="cn-lyric">回家吧</div>
-<div class="cn-lyric">回家吧</div>
-<div class="cn-lyric">回家吧</div>
 </div>
 
 <div class="lyric-line">

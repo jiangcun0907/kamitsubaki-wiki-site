@@ -87,14 +87,12 @@ image: /images/albums/vwp/awakening.jpg
 [00:48.62]<ruby>ありがとう<rt class="roma">arigatou</rt></ruby>
 </div>
 <div class="trans-lyric">Thank you</div>
-<div class="trans-lyric">Thank you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:50.43]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>くれ<rt class="roma">kure</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
-<div class="trans-lyric">That you gave me</div>
 <div class="trans-lyric">That you gave me</div>
 </div>
 
@@ -103,14 +101,12 @@ image: /images/albums/vwp/awakening.jpg
 [00:54.44]<ruby>かじかん<rt class="roma">kajikan</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">My numb hand</div>
-<div class="trans-lyric">My numb hand</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:56.24]<ruby>暖<rt class="furi">あたた</rt><rt class="roma">atata</rt></ruby><ruby>かい<rt class="roma">kai</rt></ruby><ruby>温<rt class="furi">ぬく</rt><rt class="roma">nuku</rt></ruby><ruby>もり<rt class="roma">mori</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
-<div class="trans-lyric">That warm warmth</div>
 <div class="trans-lyric">That warm warmth</div>
 </div>
 
@@ -119,7 +115,6 @@ image: /images/albums/vwp/awakening.jpg
 [01:00.11]<ruby>この<rt class="roma">kono</rt></ruby><ruby>まま<rt class="roma">mama</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>居<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>たら<rt class="roma">tara</rt></ruby>
 </div>
 <div class="trans-lyric">If I could stay like this</div>
-<div class="trans-lyric">If I could stay like this</div>
 </div>
 
 <div class="lyric-line">
@@ -127,14 +122,12 @@ image: /images/albums/vwp/awakening.jpg
 [01:03.86]<ruby>それ<rt class="roma">sore</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">Just that alone</div>
-<div class="trans-lyric">Just that alone</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:05.68]<ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>透明<rt class="furi">とうめい</rt><rt class="roma">toumei</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なる<rt class="roma">naru</rt></ruby>
 </div>
-<div class="trans-lyric">The world becomes transparent</div>
 <div class="trans-lyric">The world becomes transparent</div>
 </div>
 

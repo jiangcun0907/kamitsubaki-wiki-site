@@ -36,7 +36,6 @@ All Alone With You (Cover Live) appears on CANDY LIVE 3 (Cover Live) or a relate
 Yeah, yeah, yeah...
 </div>
 <div class="trans-lyric">Yeah, yeah, yeah...</div>
-<div class="trans-lyric">Yeah, yeah, yeah...</div>
 </div>
 
 <div class="lyric-line">
@@ -136,14 +135,12 @@ Oh
 [01:05.79]You'll never walk alone
 </div>
 <div class="trans-lyric">You'll never walk alone</div>
-<div class="trans-lyric">You'll never walk alone</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:05.79]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby>
 </div>
-<div class="trans-lyric">I'll go with you</div>
 <div class="trans-lyric">I'll go with you</div>
 </div>
 
@@ -152,7 +149,6 @@ Oh
 [01:12.54]<ruby>どんな<rt class="roma">donna</rt></ruby><ruby>罪<rt class="furi">つみ</rt><rt class="roma">tsumi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="trans-lyric">Any sin</div>
-<div class="trans-lyric">Any sin</div>
 </div>
 
 <div class="lyric-line">
@@ -160,14 +156,12 @@ Oh
 [01:12.54]<ruby>背負<rt class="furi">せお</rt><rt class="roma">seo</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>あげる<rt class="roma">ageru</rt></ruby>
 </div>
 <div class="trans-lyric">I'll carry it for you</div>
-<div class="trans-lyric">I'll bear it for you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:19.05]<ruby>道<rt class="furi">みち</rt><rt class="roma">michi</rt></ruby><ruby>なき<rt class="roma">naki</rt></ruby><ruby>道<rt class="furi">みち</rt><rt class="roma">michi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
-<div class="trans-lyric">On a pathless road</div>
 <div class="trans-lyric">On a pathless road</div>
 </div>
 
@@ -176,7 +170,6 @@ Oh
 [01:19.05]<ruby>歩<rt class="furi">ある</rt><rt class="roma">aru</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="trans-lyric">I'll walk</div>
-<div class="trans-lyric">I'll walk</div>
 </div>
 
 <div class="lyric-line">
@@ -184,15 +177,12 @@ Oh
 [01:25.95]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>と<rt class="roma">to</rt></ruby>
 </div>
 <div class="trans-lyric">With you</div>
-<div class="trans-lyric">With you</div>
-<div class="trans-lyric">With you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 2<ruby>人<rt class="furi">にん</rt><rt class="roma">nin</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
-<div class="trans-lyric">Just the two of us</div>
 <div class="trans-lyric">Just the two of us</div>
 </div>
 
@@ -288,14 +278,12 @@ Oh-oh...
 [02:38.98]I will stay with you
 </div>
 <div class="trans-lyric">I will stay with you</div>
-<div class="trans-lyric">I will stay with you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [02:38.98]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
-<div class="trans-lyric">With your hands</div>
 <div class="trans-lyric">With your hands</div>
 </div>
 
@@ -304,14 +292,12 @@ Oh-oh...
 [02:45.88]<ruby>抱<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>きしめ<rt class="roma">kishime</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">Hold me tight</div>
-<div class="trans-lyric">Embrace me</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [02:45.88]<ruby>思<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>いっきり<rt class="roma">ikkiri</rt></ruby>
 </div>
-<div class="trans-lyric">With all your strength</div>
 <div class="trans-lyric">With all your strength</div>
 </div>
 

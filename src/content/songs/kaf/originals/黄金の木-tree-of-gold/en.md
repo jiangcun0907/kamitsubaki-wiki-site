@@ -34,14 +34,12 @@ image: /images/albums/kaf/guwa.jpg
 [00:14.16]<ruby>さよなら<rt class="roma">sayonara</rt></ruby><ruby>すべて<rt class="roma">subete</rt></ruby><ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">Goodbye, all fades into love</div>
-<div class="trans-lyric">Goodbye, all fades into love</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:21.31]<ruby>最後<rt class="furi">さいご</rt><rt class="roma">saigo</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>旅<rt class="furi">たび</rt><rt class="roma">tabi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>終<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>しまったら<rt class="roma">shimattara</rt></ruby>
 </div>
-<div class="trans-lyric">When the final journey is over</div>
 <div class="trans-lyric">When the final journey is over</div>
 </div>
 
@@ -78,14 +76,12 @@ image: /images/albums/kaf/guwa.jpg
 [01:15.85]<ruby>心中<rt class="furi">しんじゅう</rt><rt class="roma">shinjuu</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>いつか<rt class="roma">itsuka</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>と<rt class="roma">to</rt></ruby>
 </div>
 <div class="trans-lyric">If you were to die together, with the me of someday</div>
-<div class="trans-lyric">If you were to die together, with the me of someday</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:19.38]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>追憶<rt class="furi">ついおく</rt><rt class="roma">tsuioku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>あと<rt class="roma">ato</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>しよ<rt class="roma">shiyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="trans-lyric">Let it be after your memories</div>
 <div class="trans-lyric">Let it be after your memories</div>
 </div>
 
@@ -94,14 +90,12 @@ image: /images/albums/kaf/guwa.jpg
 [01:23.11]<ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>口<rt class="furi">くち</rt><rt class="roma">kuchi</rt></ruby><ruby>ずつ<rt class="roma">zutsu</rt></ruby><ruby>分け合<rt class="furi">わけあ</rt><rt class="roma">wakea</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
 <div class="trans-lyric">Sharing bite by bite</div>
-<div class="trans-lyric">Sharing bite by bite</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:26.94]<ruby>青<rt class="furi">あお</rt><rt class="roma">ao</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>果実<rt class="furi">かじつ</rt><rt class="roma">kajitsu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>食<rt class="furi">た</rt><rt class="roma">ta</rt></ruby><ruby>べ<rt class="roma">be</rt></ruby><ruby>ながら<rt class="roma">nagara</rt></ruby>
 </div>
-<div class="trans-lyric">While eating the blue fruit</div>
 <div class="trans-lyric">While eating the blue fruit</div>
 </div>
 
@@ -110,14 +104,12 @@ image: /images/albums/kaf/guwa.jpg
 [01:30.73]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>眺<rt class="furi">なが</rt><rt class="roma">naga</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>たら<rt class="roma">tara</rt></ruby>
 </div>
 <div class="trans-lyric">If I gaze upon the world you saw</div>
-<div class="trans-lyric">If I gaze upon the world you saw</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:33.86]<ruby>毎秒<rt class="furi">まいびょう</rt><rt class="roma">maibyou</rt></ruby><ruby>色付<rt class="furi">いろづ</rt><rt class="roma">irozu</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>華<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>やい<rt class="roma">yai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
-<div class="trans-lyric">Every second colors and blooms bright</div>
 <div class="trans-lyric">Every second colors and blooms bright</div>
 </div>
 
@@ -126,16 +118,12 @@ image: /images/albums/kaf/guwa.jpg
 [01:37.50]<ruby>ねえ<rt class="roma">nee</rt></ruby><ruby>どうして<rt class="roma">doushite</rt></ruby><ruby>ここ<rt class="roma">koko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>?
 </div>
 <div class="trans-lyric">Hey, why are you here?</div>
-<div class="trans-lyric">Hey, why are you here?</div>
-<div class="trans-lyric">Hey, why are you here?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:41.21]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>黄金<rt class="furi">おうごん</rt><rt class="roma">ougon</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>木<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>問<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>いかける<rt class="roma">ikakeru</rt></ruby>
 </div>
-<div class="trans-lyric">I ask the golden tree</div>
-<div class="trans-lyric">I ask the golden tree</div>
 <div class="trans-lyric">I ask the golden tree</div>
 </div>
 
@@ -300,7 +288,6 @@ image: /images/albums/kaf/guwa.jpg
 <div class="jp-lyric">
 [03:23.44]<ruby>問<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>いかける<rt class="roma">ikakeru</rt></ruby>
 </div>
-<div class="trans-lyric">I ask</div>
 <div class="trans-lyric">I ask</div>
 </div>
 

@@ -109,7 +109,6 @@ image: /images/albums/kaf/shinai.jpg
 [01:08.85]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>コンパス<rt class="roma">konpasu</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>サーチライト<rt class="roma">saachiraito</rt></ruby>
 </div>
 <div class="trans-lyric">[01:08.85]You are a compass, you are a searchlight</div>
-<div class="trans-lyric">You are a compass, you are a searchlight</div>
 </div>
 
 <div class="lyric-line">
@@ -117,7 +116,6 @@ image: /images/albums/kaf/shinai.jpg
 [01:14.49]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>マント<rt class="roma">manto</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>旅人<rt class="furi">たびびと</rt><rt class="roma">tabibito</rt></ruby>
 </div>
 <div class="trans-lyric">[01:14.49]You are a cloak, I am a traveler</div>
-<div class="trans-lyric">You are a cloak, I am a traveler</div>
 </div>
 
 <div class="lyric-line">
@@ -125,7 +123,6 @@ image: /images/albums/kaf/shinai.jpg
 [01:20.11]<ruby>風<rt class="furi">かぜ</rt><rt class="roma">kaze</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>さざ波<rt class="furi">さざなみ</rt><rt class="roma">sazanami</rt></ruby> <ruby>水面<rt class="furi">すいめん</rt><rt class="roma">suimen</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>光<rt class="furi">ひかり</rt><rt class="roma">hikari</rt></ruby>
 </div>
 <div class="trans-lyric">[01:20.11]Wind and ripples, water surface and light</div>
-<div class="trans-lyric">Wind and ripples, water surface and light</div>
 </div>
 
 <div class="lyric-line">

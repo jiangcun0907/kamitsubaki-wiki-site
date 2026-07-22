@@ -66,7 +66,6 @@ image: /images/albums/isekaijoucho/sousei.jpg
 [00:29.51]<ruby>わたし<rt class="roma">watashi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby> <ruby>嗚呼<rt class="furi">ああ</rt><rt class="roma">aa</rt></ruby>
 </div>
 <div class="cn-lyric">[00:29.51]对于我 啊</div>
-<div class="cn-lyric">[00:29.51]对于我 啊</div>
 </div>
 
 <div class="lyric-line">
@@ -97,14 +96,12 @@ image: /images/albums/isekaijoucho/sousei.jpg
 [00:44.49]<ruby>咲<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby> <ruby>花<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>咲<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="cn-lyric">[00:44.49]绽放了 花已绽放</div>
-<div class="cn-lyric">[00:44.49]绽放了 花已绽放</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:47.81]<ruby>未<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>曖昧<rt class="furi">あいまい</rt><rt class="roma">aimai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby> <ruby>色<rt class="furi">いろ</rt><rt class="roma">iro</rt></ruby><ruby>開<rt class="furi">ひら</rt><rt class="roma">hira</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
-<div class="cn-lyric">[00:47.81]仍暧昧的 颜色盛开</div>
 <div class="cn-lyric">[00:47.81]仍暧昧的 颜色盛开</div>
 </div>
 
@@ -113,14 +110,12 @@ image: /images/albums/isekaijoucho/sousei.jpg
 [00:51.76]<ruby>弾<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>たら<rt class="roma">tara</rt></ruby> <ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
 <div class="cn-lyric">[00:51.76]若迸裂 想要歌唱啊</div>
-<div class="cn-lyric">[00:51.76]若迸裂 想要歌唱啊</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:55.05]<ruby>未<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>尊<rt class="furi">とうと</rt><rt class="roma">touto</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>な<rt class="roma">na</rt></ruby> <ruby>蜜月<rt class="furi">みつげつ</rt><rt class="roma">mitsugetsu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
-<div class="cn-lyric">[00:55.05]仍珍贵啊 在蜜月</div>
 <div class="cn-lyric">[00:55.05]仍珍贵啊 在蜜月</div>
 </div>
 

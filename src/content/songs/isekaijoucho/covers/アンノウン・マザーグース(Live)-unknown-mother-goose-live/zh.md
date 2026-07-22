@@ -163,9 +163,6 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [01:27.46]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>？
 </div>
 <div class="cn-lyric">[01:27.46]你能看见我吗？</div>
-<div class="cn-lyric">[01:27.46]你能看见我吗？</div>
-<div class="cn-lyric">[01:27.46]你能看见我吗？</div>
-<div class="cn-lyric">[01:27.46]你能看见我吗？</div>
 </div>
 
 <div class="lyric-line">

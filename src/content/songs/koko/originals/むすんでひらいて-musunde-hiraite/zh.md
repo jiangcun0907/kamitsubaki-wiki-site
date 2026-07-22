@@ -36,16 +36,12 @@ image: /images/songs/koko/single-1791868643.jpg
 [00:00.88]Yasashisa mo tsuyosa mo itami mo zenbu
 </div>
 <div class="cn-lyric">[00:00.88]温柔也好 坚强也好 痛苦也好 全部</div>
-<div class="cn-lyric">[00:00.88]温柔也好 坚强也好 痛苦也好 全部</div>
-<div class="cn-lyric">[00:00.88]温柔也好 坚强也好 痛苦也好 全部</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:06.36]Itsu demo moratte bakari da tta n da
 </div>
-<div class="cn-lyric">[00:06.36]一直以来 总是只从你那里获得</div>
-<div class="cn-lyric">[00:06.36]一直以来 总是只从你那里获得</div>
 <div class="cn-lyric">[00:06.36]一直以来 总是只从你那里获得</div>
 </div>
 
@@ -54,16 +50,12 @@ image: /images/songs/koko/single-1791868643.jpg
 [00:11.71]Musunde hiraite musubi naoshite
 </div>
 <div class="cn-lyric">[00:11.71]系上又解开 重新系好</div>
-<div class="cn-lyric">[00:11.71]系上又解开 重新系好</div>
-<div class="cn-lyric">[00:11.71]系上又解开 重新系好</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:16.83]Kurikaeshite iku tsugi wa boku ga
 </div>
-<div class="cn-lyric">[00:16.83]不断重复 下一次轮到我来</div>
-<div class="cn-lyric">[00:16.83]不断重复 下一次轮到我来</div>
 <div class="cn-lyric">[00:16.83]不断重复 下一次轮到我来</div>
 </div>
 
@@ -72,8 +64,6 @@ image: /images/songs/koko/single-1791868643.jpg
 [00:20.26]ōkiku iki wo suikonde
 </div>
 <div class="cn-lyric">[00:20.26]深深吸一口气</div>
-<div class="cn-lyric">[00:20.26]深深吸一口气</div>
-<div class="cn-lyric">[00:20.26]深深吸一口气</div>
 </div>
 
 <div class="lyric-line">
@@ -81,16 +71,12 @@ image: /images/songs/koko/single-1791868643.jpg
 [00:22.77]Todoketai tsutaetai
 </div>
 <div class="cn-lyric">[00:22.77]想要传达 想要告诉你</div>
-<div class="cn-lyric">[00:22.77]想要传达 想要告诉你</div>
-<div class="cn-lyric">[00:22.77]想要传达 想要告诉你</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:25.47]«Arigatō» wo kimi ni
 </div>
-<div class="cn-lyric">[00:25.47]「谢谢你」给你</div>
-<div class="cn-lyric">[00:25.47]「谢谢你」给你</div>
 <div class="cn-lyric">[00:25.47]「谢谢你」给你</div>
 </div>
 
@@ -308,7 +294,6 @@ image: /images/songs/koko/single-1791868643.jpg
 <div class="jp-lyric">
 [02:38.36]Annafūni kimi mitai ni
 </div>
-<div class="cn-lyric">[02:38.36]像那样 像你一样</div>
 <div class="cn-lyric">[02:38.36]像那样 像你一样</div>
 </div>
 

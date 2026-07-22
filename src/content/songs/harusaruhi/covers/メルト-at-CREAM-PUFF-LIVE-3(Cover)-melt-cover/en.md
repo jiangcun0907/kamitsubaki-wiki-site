@@ -78,14 +78,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 <ruby>どれ<rt class="roma">dore</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>すくって<rt class="roma">sukutte</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="trans-lyric">No matter how much I scoop</div>
-<div class="trans-lyric">No matter how much I scoop</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>指<rt class="furi">ゆび</rt><rt class="roma">yubi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>間<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>零<rt class="furi">こぼ</rt><rt class="roma">kobo</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby><ruby>砂<rt class="furi">すな</rt><rt class="roma">suna</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby>
 </div>
-<div class="trans-lyric">Like sand spilling from between my fingers</div>
 <div class="trans-lyric">Like sand spilling from between my fingers</div>
 </div>
 
@@ -94,14 +92,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 <ruby>それでも<rt class="roma">soredemo</rt></ruby><ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby><ruby>もの<rt class="roma">mono</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>全<rt class="furi">すべ</rt><rt class="roma">sube</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">Yet what is seen is not all there is</div>
-<div class="trans-lyric">Yet what is seen is not all there is</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 It's in my heart
 </div>
-<div class="trans-lyric">It's in my heart</div>
 <div class="trans-lyric">It's in my heart</div>
 </div>
 

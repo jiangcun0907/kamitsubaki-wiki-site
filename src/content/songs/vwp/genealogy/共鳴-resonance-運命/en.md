@@ -187,18 +187,12 @@ image: /images/albums/vwp/fate.jpg
 [01:23.36]<ruby>レッツシングアウトボーイ<rt class="roma">rettsushinguautoboui</rt></ruby>
 </div>
 <div class="trans-lyric">Let's sing out, boy</div>
-<div class="trans-lyric">Let's sing out, boy</div>
-<div class="trans-lyric">Let's sing out, boy</div>
-<div class="trans-lyric">Let's sing out, boy</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:24.93]<ruby>レッツシングアウトガール<rt class="roma">rettsushinguautogaaru</rt></ruby>
 </div>
-<div class="trans-lyric">Let's sing out, girl</div>
-<div class="trans-lyric">Let's sing out, girl</div>
-<div class="trans-lyric">Let's sing out, girl</div>
 <div class="trans-lyric">Let's sing out, girl</div>
 </div>
 
@@ -214,16 +208,12 @@ image: /images/albums/vwp/fate.jpg
 [01:30.26]<ruby>ベイビーアイラービュー<rt class="roma">beibiiairaabyuu</rt></ruby>
 </div>
 <div class="trans-lyric">Baby, I love you</div>
-<div class="trans-lyric">Baby, I love you</div>
-<div class="trans-lyric">Baby, I love you</div>
-<div class="trans-lyric">Baby, I love you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:31.91]<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>どうも<rt class="roma">doumo</rt></ruby>
 </div>
-<div class="trans-lyric">Love is somehow</div>
 <div class="trans-lyric">Love is somehow</div>
 </div>
 
@@ -414,7 +404,6 @@ image: /images/albums/vwp/fate.jpg
 <div class="jp-lyric">
 [02:48.84]<ruby>とりあえず<rt class="roma">toriaezu</rt></ruby><ruby>みんな<rt class="roma">minna</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>みよ<rt class="roma">miyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>（<ruby>せ<rt class="roma">se</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>）
 </div>
-<div class="trans-lyric">For now, let's all say it together (ready, set)</div>
 <div class="trans-lyric">For now, let's all say it together (ready, set)</div>
 </div>
 

@@ -145,7 +145,6 @@ image: /images/albums/kaf/kansoku.jpg
 <div class="jp-lyric">
 [00:42.19]<ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>好<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>だった<rt class="roma">datta</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>わけ<rt class="roma">wake</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby>
 </div>
-<div class="cn-lyric">[00:42.19]只是因为喜欢唱歌啊</div>
 </div>
 
 <div class="lyric-line">

@@ -124,16 +124,12 @@ Chronicle A (Live) appears on CHOCOLATE LIVE3 or a related official release. Ent
 <ruby>ワタ<rt class="roma">wata</rt></ruby><ruby>シ<rt class="roma">shi</rt></ruby><ruby>少<rt class="furi">すこ</rt><rt class="roma">suko</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby> <ruby>少<rt class="furi">すこ</rt><rt class="roma">suko</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby>
 </div>
 <div class="trans-lyric">I, just a little, just a little</div>
-<div class="trans-lyric">I, just a little, just a little</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>好<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なって<rt class="roma">natte</rt></ruby><ruby>しまった<rt class="roma">shimatta</rt></ruby>
 </div>
-<div class="trans-lyric">Came to love the world</div>
-<div class="trans-lyric">Came to love the world</div>
-<div class="trans-lyric">Came to love the world</div>
 <div class="trans-lyric">Came to love the world</div>
 </div>
 
@@ -144,7 +140,6 @@ Chronicle A (Live) appears on CHOCOLATE LIVE3 or a related official release. Ent
 <ruby>残酷<rt class="furi">ざんこく</rt><rt class="roma">zankoku</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>解<rt class="furi">かい</rt><rt class="roma">kai</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby> <ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="trans-lyric">A cruel solution, your love</div>
-<div class="trans-lyric">A cruel solution, your love</div>
 </div>
 
 <div class="lyric-line">
@@ -152,14 +147,12 @@ Chronicle A (Live) appears on CHOCOLATE LIVE3 or a related official release. Ent
 <ruby>拭<rt class="furi">ぬぐ</rt><rt class="roma">nugu</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> <ruby>拭<rt class="furi">ぬぐ</rt><rt class="roma">nugu</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>血<rt class="furi">ち</rt><rt class="roma">chi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>色<rt class="furi">いろ</rt><rt class="roma">iro</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">With an unerasable, unerasable blood color</div>
-<div class="trans-lyric">With an unerasable, unerasable blood color</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>惨<rt class="furi">みじ</rt><rt class="roma">miji</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>朽ち果<rt class="furi">くちは</rt><rt class="roma">kuchiha</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby>
 </div>
-<div class="trans-lyric">Miserably decays</div>
 <div class="trans-lyric">Miserably decays</div>
 </div>
 
@@ -190,14 +183,12 @@ Chronicle A (Live) appears on CHOCOLATE LIVE3 or a related official release. Ent
 <ruby>タイトル<rt class="roma">taitoru</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>こう<rt class="roma">kou</rt></ruby><ruby>名付<rt class="furi">なづ</rt><rt class="roma">nazu</rt></ruby><ruby>ける<rt class="roma">keru</rt></ruby>
 </div>
 <div class="trans-lyric">I title it like this</div>
-<div class="trans-lyric">I title it like this</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>好<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なって<rt class="roma">natte</rt></ruby><ruby>しまった<rt class="roma">shimatta</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
-<div class="trans-lyric">I came to love the world</div>
 <div class="trans-lyric">I came to love the world</div>
 </div>
 

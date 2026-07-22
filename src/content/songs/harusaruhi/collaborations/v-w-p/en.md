@@ -100,14 +100,12 @@ V.W.P appears on SPICE OF LIFE or a related official release. Entries are versio
 [00:24.36]Yeah, we are V.W.P
 </div>
 <div class="trans-lyric">Yeah, we are V.W.P</div>
-<div class="trans-lyric">Yeah, we are V.W.P</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:27.89]We are the V.W.P
 </div>
-<div class="trans-lyric">We are the V.W.P</div>
 <div class="trans-lyric">We are the V.W.P</div>
 </div>
 
@@ -116,15 +114,12 @@ V.W.P appears on SPICE OF LIFE or a related official release. Entries are versio
 [00:30.40]Nobody like us V.W.P
 </div>
 <div class="trans-lyric">Nobody like us V.W.P</div>
-<div class="trans-lyric">Nobody like us V.W.P</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:33.23]<ruby>この<rt class="roma">kono</rt></ruby>5<ruby>ピース<rt class="roma">piisu</rt></ruby><ruby>今日<rt class="furi">きょう</rt><rt class="roma">kyou</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>MVP
 </div>
-<div class="trans-lyric">These five pieces are MVP again today</div>
-<div class="trans-lyric">These five pieces are MVP again today</div>
 <div class="trans-lyric">These five pieces are MVP again today</div>
 </div>
 

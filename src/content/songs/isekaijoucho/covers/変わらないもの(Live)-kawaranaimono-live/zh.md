@@ -82,15 +82,12 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [01:03.24]<ruby>変<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>わら<rt class="roma">wara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>もの<rt class="roma">mono</rt></ruby> <ruby>探<rt class="furi">さが</rt><rt class="roma">saga</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="cn-lyric">[01:03.24]一直在寻找不变的事物</div>
-<div class="cn-lyric">[01:03.24]一直在寻找不变的事物</div>
-<div class="cn-lyric">[01:03.24]一直在寻找不变的事物</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:09.51]<ruby>あの<rt class="roma">ano</rt></ruby><ruby>日<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>忘<rt class="furi">わす</rt><rt class="roma">wasu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="cn-lyric">[01:09.51]绝不会忘记那天的你</div>
 <div class="cn-lyric">[01:09.51]绝不会忘记那天的你</div>
 </div>
 
@@ -99,15 +96,12 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [01:15.90]<ruby>時<rt class="furi">とき</rt><rt class="roma">toki</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>越<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>思<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ある<rt class="roma">aru</rt></ruby>
 </div>
 <div class="cn-lyric">[01:15.90]有一份跨越时空的思念</div>
-<div class="cn-lyric">[01:15.90]有一份跨越时空的思念</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:21.65]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>すぐ<rt class="roma">sugu</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>会<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
-<div class="cn-lyric">[01:21.65]我现在就想见你</div>
-<div class="cn-lyric">[01:21.65]我现在就想见你</div>
 <div class="cn-lyric">[01:21.65]我现在就想见你</div>
 </div>
 

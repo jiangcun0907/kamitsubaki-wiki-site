@@ -103,7 +103,6 @@ image: /images/albums/harusaruhi/shingan.jpg
 [00:43.90]La-la-la-la-la-la-la
 </div>
 <div class="cn-lyric">[00:43.90]La-la-la-la-la-la-la</div>
-<div class="cn-lyric">[00:43.90]La-la-la-la-la-la-la</div>
 </div>
 
 <div class="lyric-line">
@@ -126,8 +125,6 @@ image: /images/albums/harusaruhi/shingan.jpg
 [00:52.11]<ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>所為<rt class="furi">しょい</rt><rt class="roma">shoi</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ぬ<rt class="roma">nu</rt></ruby><ruby>明日<rt class="furi">あした</rt><rt class="roma">ashita</rt></ruby>
 </div>
 <div class="cn-lyric">[00:52.11]因某人而看不见的明天</div>
-<div class="cn-lyric">因某人而看不见的明天</div>
-<div class="cn-lyric">因某人而看不见的明天</div>
 </div>
 
 <div class="lyric-line">
@@ -135,7 +132,6 @@ image: /images/albums/harusaruhi/shingan.jpg
 [00:58.17]<ruby>無邪気<rt class="furi">むじゃき</rt><rt class="roma">mujaki</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>さえ<rt class="roma">sae</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>吐<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="cn-lyric">[00:58.17]连天真的话语都曾吐露</div>
-<div class="cn-lyric">连天真的话语都曾吐露</div>
 </div>
 
 <div class="lyric-line">
@@ -143,7 +139,6 @@ image: /images/albums/harusaruhi/shingan.jpg
 [01:05.20]<ruby>釘<rt class="furi">くぎ</rt><rt class="roma">kugi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>生<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby><ruby>上<rt class="furi">のぼ</rt><rt class="roma">nobo</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>坂<rt class="furi">ざか</rt><rt class="roma">zaka</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:05.20]在长出钉子的上坡路上</div>
-<div class="cn-lyric">在长出钉子的上坡路上</div>
 </div>
 
 <div class="lyric-line">
@@ -151,7 +146,6 @@ image: /images/albums/harusaruhi/shingan.jpg
 [01:10.55]<ruby>ゴール<rt class="roma">gouru</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>「<ruby>あなた<rt class="roma">anata</rt></ruby>」<ruby>伝<rt class="furi">つた</rt><rt class="roma">tsuta</rt></ruby><ruby>わら<rt class="roma">wara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="cn-lyric">[01:10.55]终点是‘你’ 无法传达</div>
-<div class="cn-lyric">终点是‘你’ 无法传达</div>
 </div>
 
 <div class="lyric-line">
@@ -159,8 +153,6 @@ image: /images/albums/harusaruhi/shingan.jpg
 [01:16.34]<ruby>悲<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="cn-lyric">[01:16.34]好悲伤</div>
-<div class="cn-lyric">好悲伤</div>
-<div class="cn-lyric">好悲伤</div>
 </div>
 
 <br />

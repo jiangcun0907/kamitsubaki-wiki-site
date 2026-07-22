@@ -89,16 +89,12 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [01:13.90]<ruby>今日<rt class="furi">きょう</rt><rt class="roma">kyou</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>夏<rt class="furi">なつ</rt><rt class="roma">natsu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>マジック<rt class="roma">majikku</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="cn-lyric">[01:13.90]仅限今日，用夏夜的魔法</div>
-<div class="cn-lyric">[01:13.90]仅限今日，用夏夜的魔法</div>
-<div class="cn-lyric">[01:13.90]仅限今日，用夏夜的魔法</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:17.64]<ruby>今夜<rt class="furi">こんや</rt><rt class="roma">kon'ya</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>マジック<rt class="roma">majikku</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
-<div class="cn-lyric">[01:17.64]仅限今晚的魔法</div>
-<div class="cn-lyric">[01:17.64]仅限今晚的魔法</div>
 <div class="cn-lyric">[01:17.64]仅限今晚的魔法</div>
 </div>
 
@@ -107,16 +103,12 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [01:20.77]<ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[01:20.77]让我歌唱</div>
-<div class="cn-lyric">[01:20.77]让我歌唱</div>
-<div class="cn-lyric">[01:20.77]让我歌唱</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:22.17]<ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>わかる<rt class="roma">wakaru</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>気<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby>
 </div>
-<div class="cn-lyric">[01:22.17]现在感觉能理解你</div>
-<div class="cn-lyric">[01:22.17]现在感觉能理解你</div>
 <div class="cn-lyric">[01:22.17]现在感觉能理解你</div>
 </div>
 
@@ -125,8 +117,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [01:26.70]<ruby>夏<rt class="furi">なつ</rt><rt class="roma">natsu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>限<rt class="furi">かぎ</rt><rt class="roma">kagi</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>マジック<rt class="roma">majikku</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="cn-lyric">[01:26.70]用夏夜限定的魔法</div>
-<div class="cn-lyric">[01:26.70]用夏夜限定的魔法</div>
-<div class="cn-lyric">[01:26.70]用夏夜限定的魔法</div>
 </div>
 
 <div class="lyric-line">
@@ -134,16 +124,12 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [01:29.83]<ruby>今夜<rt class="furi">こんや</rt><rt class="roma">kon'ya</rt></ruby><ruby>限<rt class="furi">かぎ</rt><rt class="roma">kagi</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>マジック<rt class="roma">majikku</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="cn-lyric">[01:29.83]用今晚限定的魔法</div>
-<div class="cn-lyric">[01:29.83]用今晚限定的魔法</div>
-<div class="cn-lyric">[01:29.83]用今晚限定的魔法</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:33.08]<ruby>身<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>任<rt class="furi">まか</rt><rt class="roma">maka</rt></ruby><ruby>す<rt class="roma">su</rt></ruby>
 </div>
-<div class="cn-lyric">[01:33.08]委身于它</div>
-<div class="cn-lyric">[01:33.08]委身于它</div>
 <div class="cn-lyric">[01:33.08]委身于它</div>
 </div>
 
@@ -232,7 +218,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 <div class="jp-lyric">
 [02:48.47]<ruby>夜明<rt class="furi">よあ</rt><rt class="roma">yoa</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>流<rt class="furi">なが</rt><rt class="roma">naga</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby>
 </div>
-<div class="cn-lyric">[02:48.47]直到黎明流淌</div>
 <div class="cn-lyric">[02:48.47]直到黎明流淌</div>
 </div>
 

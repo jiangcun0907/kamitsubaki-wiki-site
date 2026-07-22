@@ -67,9 +67,6 @@ image: /images/albums/rim/singularity-live.jpg
 [00:40.87]<ruby>明<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>かり<rt class="roma">kari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
 </div>
 <div class="cn-lyric">[00:40.87]致化作光明的你</div>
-<div class="cn-lyric">[00:40.87]致化作光明的你</div>
-<div class="cn-lyric">[00:40.87]致化作光明的你</div>
-<div class="cn-lyric">[00:40.87]致化作光明的你</div>
 </div>
 
 <div class="lyric-line">
@@ -77,16 +74,12 @@ image: /images/albums/rim/singularity-live.jpg
 [00:47.36]<ruby>宇宙<rt class="furi">うちゅう</rt><rt class="roma">uchuu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>飛<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>べる<rt class="roma">beru</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>待<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[00:47.36]请等我直到能飞向宇宙</div>
-<div class="cn-lyric">请等我直到能飞向宇宙</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:54.06]<ruby>明<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>かり<rt class="roma">kari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
-<div class="cn-lyric">[00:54.06]化作光明的你的</div>
-<div class="cn-lyric">[00:54.06]化作光明的你的</div>
-<div class="cn-lyric">[00:54.06]化作光明的你的</div>
 <div class="cn-lyric">[00:54.06]化作光明的你的</div>
 </div>
 
@@ -95,7 +88,6 @@ image: /images/albums/rim/singularity-live.jpg
 [01:00.71]<ruby>心臓<rt class="furi">しんぞう</rt><rt class="roma">shinzou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>点滅<rt class="furi">てんめつ</rt><rt class="roma">tenmetsu</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby><ruby>かしら<rt class="roma">kashira</rt></ruby>
 </div>
 <div class="cn-lyric">[01:00.71]心脏是否会闪烁呢</div>
-<div class="cn-lyric">心脏是否会闪烁呢</div>
 </div>
 
 <br />

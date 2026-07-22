@@ -89,7 +89,6 @@ image: /images/albums/isekaijoucho/shikisai.jpg
 [00:44.90]<ruby>憂<rt class="furi">ゆう</rt><rt class="roma">yuu</rt></ruby>、<ruby>憂<rt class="furi">ゆう</rt><rt class="roma">yuu</rt></ruby>、<ruby>揺<rt class="furi">ゆ</rt><rt class="roma">yu</rt></ruby><ruby>らめく<rt class="roma">rameku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="cn-lyric">[00:44.90]忧、忧、摇曳的是</div>
-<div class="cn-lyric">[00:44.90]忧、忧、摇曳的是</div>
 </div>
 
 <div class="lyric-line">

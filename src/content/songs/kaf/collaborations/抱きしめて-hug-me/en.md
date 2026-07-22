@@ -34,9 +34,8 @@ image: /images/songs/kaf/track-1749003639.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:56.71]<ruby>抱<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>きしめ<rt class="roma">kishime</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>抱<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>きしめ<rt class="roma">kishime</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
+<ruby>抱<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>きしめ<rt class="roma">kishime</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>抱<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>きしめ<rt class="roma">kishime</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">Hold me tight, hold me tight</div>
 <div class="trans-lyric">Hold me tight, hold me tight</div>
 </div>
 
@@ -58,9 +57,8 @@ image: /images/songs/kaf/track-1749003639.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:56.71]<ruby>抱<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>きしめ<rt class="roma">kishime</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
+<ruby>抱<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>きしめ<rt class="roma">kishime</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">Hold me tight</div>
 <div class="trans-lyric">Hold me tight</div>
 </div>
 
@@ -119,10 +117,8 @@ image: /images/songs/kaf/track-1749003639.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:16.10]<ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>人<rt class="furi">にん</rt><rt class="roma">nin</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
+<ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>人<rt class="furi">にん</rt><rt class="roma">nin</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
-<div class="trans-lyric">Don't leave me alone</div>
-<div class="trans-lyric">Don't leave me alone</div>
 <div class="trans-lyric">Don't leave me alone</div>
 </div>
 
@@ -223,7 +219,6 @@ image: /images/songs/kaf/track-1749003639.jpg
 <ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>訳<rt class="furi">わけ</rt><rt class="roma">wake</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
 </div>
 <div class="trans-lyric">The night I learn the reason for love</div>
-<div class="trans-lyric">The night I learn the reason for love</div>
 </div>
 
 <div class="lyric-line">
@@ -231,14 +226,12 @@ image: /images/songs/kaf/track-1749003639.jpg
 <ruby>恋<rt class="furi">こい</rt><rt class="roma">koi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>敗<rt class="furi">やぶ</rt><rt class="roma">yabu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>泣<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
 <div class="trans-lyric">Is the night I cry, defeated in love</div>
-<div class="trans-lyric">Is the night I cry, defeated in love</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>寂<rt class="furi">さび</rt><rt class="roma">sabi</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>恋<rt class="furi">こい</rt><rt class="roma">koi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>物語<rt class="furi">ものがたり</rt><rt class="roma">monogatari</rt></ruby>
 </div>
-<div class="trans-lyric">The story of lonely love</div>
 <div class="trans-lyric">The story of lonely love</div>
 </div>
 
@@ -255,14 +248,12 @@ image: /images/songs/kaf/track-1749003639.jpg
 <ruby>甘<rt class="furi">あま</rt><rt class="roma">ama</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>甘<rt class="furi">あま</rt><rt class="roma">ama</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>未来<rt class="furi">みらい</rt><rt class="roma">mirai</rt></ruby><ruby>とか<rt class="roma">toka</rt></ruby>
 </div>
 <div class="trans-lyric">Sweet, sweet future and such</div>
-<div class="trans-lyric">Sweet, sweet future and such</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>熱<rt class="furi">あつ</rt><rt class="roma">atsu</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>熱<rt class="furi">あつ</rt><rt class="roma">atsu</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>希望<rt class="furi">きぼう</rt><rt class="roma">kibou</rt></ruby><ruby>とか<rt class="roma">toka</rt></ruby>
 </div>
-<div class="trans-lyric">Hot, hot hopes and such</div>
 <div class="trans-lyric">Hot, hot hopes and such</div>
 </div>
 
@@ -271,14 +262,12 @@ image: /images/songs/kaf/track-1749003639.jpg
 <ruby>募<rt class="furi">つの</rt><rt class="roma">tsuno</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>思<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>かすん<rt class="roma">kasun</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby>
 </div>
 <div class="trans-lyric">Growing feelings fade into haze</div>
-<div class="trans-lyric">Growing feelings fade into haze</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>どうか<rt class="roma">douka</rt></ruby><ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
-<div class="trans-lyric">Please don't disappear</div>
 <div class="trans-lyric">Please don't disappear</div>
 </div>
 

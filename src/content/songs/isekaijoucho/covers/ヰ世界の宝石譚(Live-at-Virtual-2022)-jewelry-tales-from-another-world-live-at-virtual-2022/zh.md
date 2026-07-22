@@ -104,14 +104,12 @@ image: /images/albums/rim/singularity-live.jpg
 [00:58.14]嗤<ruby>う<rt class="roma">u</rt></ruby><ruby>もの<rt class="roma">mono</rt></ruby> <ruby>堪<rt class="furi">こた</rt><rt class="roma">kota</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>もの<rt class="roma">mono</rt></ruby>
 </div>
 <div class="cn-lyric">[00:58.14]嗤笑的 忍耐的</div>
-<div class="cn-lyric">[00:58.14]嗤笑的 忍耐的</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:00.26]<ruby>堕<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>ちる<rt class="roma">chiru</rt></ruby><ruby>もの<rt class="roma">mono</rt></ruby> <ruby>馳<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>せる<rt class="roma">seru</rt></ruby><ruby>もの<rt class="roma">mono</rt></ruby>
 </div>
-<div class="cn-lyric">[01:00.26]堕落的 驰骋的</div>
 <div class="cn-lyric">[01:00.26]堕落的 驰骋的</div>
 </div>
 
@@ -163,13 +161,6 @@ image: /images/albums/rim/singularity-live.jpg
 <div class="jp-lyric">
 [01:15.04]<ruby>スバラシキ<rt class="roma">subarashiki</rt></ruby> (<ruby>ヰ<rt class="roma">wi</rt></ruby>)<ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby>
 </div>
-<div class="cn-lyric">[01:15.04]美好的 (异)世界</div>
-<div class="cn-lyric">[01:15.04]美好的 (异)世界</div>
-<div class="cn-lyric">[01:15.04]美好的 (异)世界</div>
-<div class="cn-lyric">[01:15.04]美好的 (异)世界</div>
-<div class="cn-lyric">[01:15.04]美好的 (异)世界</div>
-<div class="cn-lyric">[01:15.04]美好的 (异)世界</div>
-<div class="cn-lyric">[01:15.04]美好的 (异)世界</div>
 <div class="cn-lyric">[01:15.04]美好的 (异)世界</div>
 </div>
 

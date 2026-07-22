@@ -73,7 +73,6 @@ image: /images/songs/harusaruhi/single-1688524702.jpg
 [00:51.57]<ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>繋<rt class="furi">つな</rt><rt class="roma">tsuna</rt></ruby><ruby>ぐ<rt class="roma">gu</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>居<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="trans-lyric">[00:51.57]Because you hold my hand</div>
-<div class="trans-lyric">Because I have you holding my hand</div>
 </div>
 
 <div class="lyric-line">
@@ -81,14 +80,12 @@ image: /images/songs/harusaruhi/single-1688524702.jpg
 [00:57.25]<ruby>泣<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>日<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>また<rt class="roma">mata</rt></ruby><ruby>おいで<rt class="roma">oide</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
 <div class="trans-lyric">Come again on days you want to cry</div>
-<div class="trans-lyric">Come again on days you want to cry</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:03.36]<ruby>明日<rt class="furi">あした</rt><rt class="roma">ashita</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>歩<rt class="furi">ある</rt><rt class="roma">aru</rt></ruby><ruby>ける<rt class="roma">keru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby> Uh-huh
 </div>
-<div class="trans-lyric">I can walk until tomorrow, uh-huh</div>
 <div class="trans-lyric">I can walk until tomorrow, uh-huh</div>
 </div>
 

@@ -34,8 +34,6 @@ image: /images/albums/kaf/suite.jpg
 [00:01.22]<ruby>ここ<rt class="roma">koko</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>先<rt class="furi">さき</rt><rt class="roma">saki</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>濡<rt class="furi">ぬ</rt><rt class="roma">nu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>にじん<rt class="roma">nijin</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="cn-lyric">[00:01.22]从此处往后的言语湿润模糊</div>
-<div class="cn-lyric">[00:01.22]从此处往后的言语湿润模糊</div>
-<div class="cn-lyric">[00:01.22]从此处往后的言语湿润模糊</div>
 </div>
 
 <div class="lyric-line">
@@ -43,16 +41,12 @@ image: /images/albums/kaf/suite.jpg
 [00:03.60]<ruby>重<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>なって<rt class="roma">natte</rt></ruby><ruby>読<rt class="furi">よ</rt><rt class="roma">yo</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="cn-lyric">[00:03.60]变得沉重无法阅读</div>
-<div class="cn-lyric">[00:03.60]变得沉重无法阅读</div>
-<div class="cn-lyric">[00:03.60]变得沉重无法阅读</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:05.89]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby> <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="cn-lyric">[00:05.89]你来说吧 你来说吧</div>
-<div class="cn-lyric">[00:05.89]你来说吧 你来说吧</div>
 <div class="cn-lyric">[00:05.89]你来说吧 你来说吧</div>
 </div>
 
@@ -141,7 +135,6 @@ image: /images/albums/kaf/suite.jpg
 [01:05.68]<ruby>二度<rt class="furi">にど</rt><rt class="roma">nido</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>戻<rt class="furi">もど</rt><rt class="roma">modo</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>場所<rt class="furi">ばしょ</rt><rt class="roma">basho</rt></ruby>
 </div>
 <div class="cn-lyric">[01:05.68]再也回不去的地方</div>
-<div class="cn-lyric">[01:05.68]再也回不去的地方</div>
 </div>
 
 <div class="lyric-line">
@@ -149,15 +142,12 @@ image: /images/albums/kaf/suite.jpg
 [01:07.23]<ruby>何<rt class="furi">なん</rt><rt class="roma">nan</rt></ruby><ruby>度<rt class="furi">ど</rt><rt class="roma">do</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>思い出<rt class="furi">おもいだ</rt><rt class="roma">omoida</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>しまう<rt class="roma">shimau</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
 </div>
 <div class="cn-lyric">[01:07.23]如果会反复回想起来的话</div>
-<div class="cn-lyric">[01:07.23]如果会反复回想起来的话</div>
-<div class="cn-lyric">[01:07.23]如果会反复回想起来的话</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:09.76]<ruby>忘<rt class="furi">わす</rt><rt class="roma">wasu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby> <ruby>名前<rt class="furi">なまえ</rt><rt class="roma">namae</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>つけ<rt class="roma">tsuke</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>おこ<rt class="roma">oko</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="cn-lyric">[01:09.76]为了不忘却 给它取个名字吧</div>
 <div class="cn-lyric">[01:09.76]为了不忘却 给它取个名字吧</div>
 </div>
 
@@ -253,7 +243,6 @@ image: /images/albums/kaf/suite.jpg
 <div class="jp-lyric">
 [02:26.46]<ruby>それでも<rt class="roma">soredemo</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
 </div>
-<div class="cn-lyric">[02:26.46]即便如此也要去的话</div>
 <div class="cn-lyric">[02:26.46]即便如此也要去的话</div>
 </div>
 

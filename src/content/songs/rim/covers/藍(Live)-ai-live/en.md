@@ -57,7 +57,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:41.49]<ruby>いったい<rt class="roma">ittai</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>どこ<rt class="roma">doko</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby><ruby>向<rt class="furi">む</rt><rt class="roma">mu</rt></ruby><ruby>かう<rt class="roma">kau</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だろ<rt class="roma">daro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="trans-lyric">Where on earth are we heading?</div>
-<div class="trans-lyric">Where on earth are we heading?</div>
 </div>
 
 <br />
@@ -67,14 +66,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:51.56]<ruby>恋愛<rt class="furi">れんあい</rt><rt class="roma">ren'ai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>成功<rt class="furi">せいこう</rt><rt class="roma">seikou</rt></ruby><ruby>率<rt class="furi">りつ</rt><rt class="roma">ritsu</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby> <ruby>散々<rt class="furi">さんざん</rt><rt class="roma">sanzan</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby> <ruby>いつ<rt class="roma">itsu</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby><ruby>成就<rt class="furi">じょうじゅ</rt><rt class="roma">jouju</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>まま<rt class="roma">mama</rt></ruby>
 </div>
 <div class="trans-lyric">The success rate of love is terrible, it never works out,</div>
-<div class="trans-lyric">The success rate of love is terrible, it never works out,</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:59.56]<ruby>と<rt class="roma">to</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>いえ<rt class="roma">ie</rt></ruby><ruby>好<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なっちゃ<rt class="roma">natcha</rt></ruby><ruby>うん<rt class="roma">un</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby> <ruby>もう<rt class="roma">mou</rt></ruby><ruby>嫌<rt class="furi">いや</rt><rt class="roma">iya</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なる<rt class="roma">naru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">And yet I still fall in love—it makes me sick.</div>
 <div class="trans-lyric">And yet I still fall in love—it makes me sick.</div>
 </div>
 
@@ -83,8 +80,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [01:05.24]<ruby>どうか<rt class="roma">douka</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>なれ<rt class="roma">nare</rt></ruby> <ruby>こんな<rt class="roma">konna</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>存在<rt class="furi">そんざい</rt><rt class="roma">sonzai</rt></ruby><ruby>自体<rt class="furi">じたい</rt><rt class="roma">jitai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ちまえ<rt class="roma">chimae</rt></ruby>
 </div>
 <div class="trans-lyric">Please disappear—if it's like this, let my existence itself vanish.</div>
-<div class="trans-lyric">Please disappear—if it's like this, let my existence itself vanish.</div>
-<div class="trans-lyric">Please disappear—if it's like this, let my existence itself vanish.</div>
 </div>
 
 <div class="lyric-line">
@@ -92,15 +87,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [01:11.61]<ruby>そう<rt class="roma">sou</rt></ruby><ruby>思<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>どの<rt class="roma">dono</rt></ruby><ruby>くらい<rt class="roma">kurai</rt></ruby><ruby>経<rt class="furi">た</rt><rt class="roma">ta</rt></ruby><ruby>つ<rt class="roma">tsu</rt></ruby><ruby>だろ<rt class="roma">daro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="trans-lyric">How long has it been since I started thinking that?</div>
-<div class="trans-lyric">How long has it been since I started thinking that?</div>
-<div class="trans-lyric">How long has it been since I started thinking that?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:17.77]<ruby>来週<rt class="furi">らいしゅう</rt><rt class="roma">raishuu</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>いつ<rt class="roma">itsu</rt></ruby><ruby>会<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だろ<rt class="roma">daro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="trans-lyric">I wonder when I'll see you next week?</div>
 <div class="trans-lyric">I wonder when I'll see you next week?</div>
 </div>
 
@@ -148,14 +140,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [02:08.95]<ruby>最大<rt class="furi">さいだい</rt><rt class="roma">saidai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>問題<rt class="furi">もんだい</rt><rt class="roma">mondai</rt></ruby><ruby>点<rt class="furi">てん</rt><rt class="roma">ten</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby> <ruby>現状<rt class="furi">げんじょう</rt><rt class="roma">genjou</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby> <ruby>どう<rt class="roma">dou</rt></ruby><ruby>しよう<rt class="roma">shiyou</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>関係<rt class="furi">かんけい</rt><rt class="roma">kankei</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
 <div class="trans-lyric">The biggest problem is that, in the current state, it's a hopeless relationship.</div>
-<div class="trans-lyric">The biggest problem is that, in the current state, it's a hopeless relationship.</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [02:16.58]<ruby>そのうえ<rt class="roma">sonoue</rt></ruby><ruby>会<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たく<rt class="roma">taku</rt></ruby><ruby>なる<rt class="roma">naru</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby> <ruby>もう<rt class="roma">mou</rt></ruby><ruby>嫌<rt class="furi">いや</rt><rt class="roma">iya</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なる<rt class="roma">naru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">On top of that, I want to see you—it makes me sick.</div>
 <div class="trans-lyric">On top of that, I want to see you—it makes me sick.</div>
 </div>
 

@@ -41,8 +41,6 @@ image: /images/albums/vwp/awakening.jpg
 [00:00.81]<ruby>感情<rt class="furi">かんじょう</rt><rt class="roma">kanjou</rt></ruby><ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby><ruby>理論<rt class="furi">りろん</rt><rt class="roma">riron</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>偽<rt class="furi">いつわ</rt><rt class="roma">itsuwa</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>だらけ<rt class="roma">darake</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>物語<rt class="furi">ものがたり</rt><rt class="roma">monogatari</rt></ruby>
 </div>
 <div class="trans-lyric">Emotional theories are stories full of lies</div>
-<div class="trans-lyric">Emotional theories are stories full of lies</div>
-<div class="trans-lyric">Emotional theories are stories full of lies</div>
 </div>
 
 <div class="lyric-line">
@@ -50,15 +48,12 @@ image: /images/albums/vwp/awakening.jpg
 [00:07.54]<ruby>そこ<rt class="roma">soko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>居<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>なかった<rt class="roma">nakatta</rt></ruby>
 </div>
 <div class="trans-lyric">I wasn't there</div>
-<div class="trans-lyric">I wasn't there</div>
-<div class="trans-lyric">I wasn't there</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:11.36]<ruby>深層<rt class="furi">しんそう</rt><rt class="roma">shinsou</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>溢<rt class="furi">あふ</rt><rt class="roma">afu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>気付<rt class="furi">きづ</rt><rt class="roma">kizu</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>くれ<rt class="roma">kure</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>貴方<rt class="furi">あなた</rt><rt class="roma">anata</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
 </div>
-<div class="trans-lyric">To you, who noticed the voice overflowing from the depths</div>
 <div class="trans-lyric">To you, who noticed the voice overflowing from the depths</div>
 </div>
 

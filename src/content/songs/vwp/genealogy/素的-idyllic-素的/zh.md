@@ -125,14 +125,12 @@ image: /images/songs/vwp/single-1729962972.jpg
 [01:01.54]<ruby>ああ<rt class="roma">aa</rt></ruby>、<ruby>もう<rt class="roma">mou</rt></ruby>！
 </div>
 <div class="cn-lyric">[01:01.54]啊啊，够了！</div>
-<div class="cn-lyric">[01:01.54]啊啊，够了！</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:02.20]<ruby>全部<rt class="furi">ぜんぶ</rt><rt class="roma">zenbu</rt></ruby><ruby>いっそ<rt class="roma">isso</rt></ruby><ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>のに<rt class="roma">noni</rt></ruby>….
 </div>
-<div class="cn-lyric">[01:02.20]干脆全部都是梦就好了...</div>
 <div class="cn-lyric">[01:02.20]干脆全部都是梦就好了...</div>
 </div>
 
@@ -141,14 +139,12 @@ image: /images/songs/vwp/single-1729962972.jpg
 [01:05.58]<ruby>わざと<rt class="roma">wazato</rt></ruby><ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>出<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>みる<rt class="roma">miru</rt></ruby>
 </div>
 <div class="cn-lyric">[01:05.58]故意试着说出声</div>
-<div class="cn-lyric">[01:05.58]故意试着说出声</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:07.88]<ruby>どうか<rt class="roma">douka</rt></ruby><ruby>すてき<rt class="roma">suteki</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>あり<rt class="roma">ari</rt></ruby><ruby>ます<rt class="roma">masu</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>!
 </div>
-<div class="cn-lyric">[01:07.88]但愿能有美好的事情发生！</div>
 <div class="cn-lyric">[01:07.88]但愿能有美好的事情发生！</div>
 </div>
 
@@ -157,15 +153,12 @@ image: /images/songs/vwp/single-1729962972.jpg
 [01:11.17]<ruby>願<rt class="furi">ねが</rt><rt class="roma">nega</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>ましょ<rt class="roma">masho</rt></ruby>？
 </div>
 <div class="cn-lyric">[01:11.17]来许愿吧？</div>
-<div class="cn-lyric">[01:11.17]来许愿吧？</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:14.89]「<ruby>ずっと<rt class="roma">zutto</rt></ruby>、<ruby>いっしょ<rt class="roma">issho</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>いよ<rt class="roma">iyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>」
 </div>
-<div class="cn-lyric">[01:14.89]「永远在一起哦」</div>
-<div class="cn-lyric">[01:14.89]「永远在一起哦」</div>
 <div class="cn-lyric">[01:14.89]「永远在一起哦」</div>
 </div>
 
@@ -174,15 +167,12 @@ image: /images/songs/vwp/single-1729962972.jpg
 [01:17.81]<ruby>なんて<rt class="roma">nante</rt></ruby>、<ruby>どこ<rt class="roma">doko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>もの<rt class="roma">mono</rt></ruby>？
 </div>
 <div class="cn-lyric">[01:17.81]这种话 明明哪里都没有？</div>
-<div class="cn-lyric">[01:17.81]这种话 明明哪里都没有？</div>
-<div class="cn-lyric">[01:17.81]这种话 明明哪里都没有？</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>ああ<rt class="roma">aa</rt></ruby>…
 </div>
-<div class="cn-lyric">啊啊...</div>
 <div class="cn-lyric">啊啊...</div>
 </div>
 
@@ -191,7 +181,6 @@ image: /images/songs/vwp/single-1729962972.jpg
 [01:21.95]<ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なったら<rt class="roma">nattara</rt></ruby>
 </div>
 <div class="cn-lyric">[01:21.95]到了夜晚</div>
-<div class="cn-lyric">[01:21.95]到了夜晚</div>
 </div>
 
 <div class="lyric-line">
@@ -199,14 +188,12 @@ image: /images/songs/vwp/single-1729962972.jpg
 [01:21.95]<ruby>担<rt class="furi">にな</rt><rt class="roma">nina</rt></ruby><ruby>ったら<rt class="roma">ttara</rt></ruby>
 </div>
 <div class="cn-lyric">[01:21.95]一旦承受</div>
-<div class="cn-lyric">[01:21.95]一旦承受</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:25.98]<ruby>泣<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>ける<rt class="roma">keru</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby>
 </div>
-<div class="cn-lyric">[01:25.98]就能哭泣啊</div>
 <div class="cn-lyric">[01:25.98]就能哭泣啊</div>
 </div>
 

@@ -64,15 +64,12 @@ image: /images/songs/harusaruhi/single-1712294275.jpg
 你<ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby><ruby>痛<rt class="furi">つう</rt><rt class="roma">tsuu</rt></ruby>怎<ruby>能<rt class="furi">のう</rt><rt class="roma">nou</rt></ruby><ruby>看<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>不<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby>见
 </div>
 <div class="cn-lyric">你的痛怎能看不见</div>
-<div class="cn-lyric">你的痛怎能看不见</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 为什么<ruby>最<rt class="furi">さい</rt><rt class="roma">sai</rt></ruby>迷<ruby>人的<rt class="furi">じんてき</rt><rt class="roma">jinteki</rt></ruby><ruby>最<rt class="furi">さい</rt><rt class="roma">sai</rt></ruby>危险
 </div>
-<div class="cn-lyric">为什么最迷人的最危险</div>
-<div class="cn-lyric">为什么最迷人的最危险</div>
 <div class="cn-lyric">为什么最迷人的最危险</div>
 </div>
 
@@ -81,8 +78,6 @@ image: /images/songs/harusaruhi/single-1712294275.jpg
 为什么爱<ruby>会<rt class="furi">かい</rt><rt class="roma">kai</rt></ruby>让<ruby>人<rt class="furi">じん</rt><rt class="roma">jin</rt></ruby>变<ruby>残<rt class="furi">ざん</rt><rt class="roma">zan</rt></ruby>缺
 </div>
 <div class="cn-lyric">为什么爱会让人变残缺</div>
-<div class="cn-lyric">为什么爱会让人变残缺</div>
-<div class="cn-lyric">为什么爱会让人变残缺</div>
 </div>
 
 <div class="lyric-line">
@@ -90,16 +85,12 @@ image: /images/songs/harusaruhi/single-1712294275.jpg
 为什么那么<ruby>痛<rt class="furi">つう</rt><rt class="roma">tsuu</rt></ruby>
 </div>
 <div class="cn-lyric">为什么那么痛</div>
-<div class="cn-lyric">为什么那么痛</div>
-<div class="cn-lyric">为什么那么痛</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 还敢拿<ruby>胸<rt class="furi">むね</rt><rt class="roma">mune</rt></ruby><ruby>口<rt class="furi">ぐち</rt><rt class="roma">guchi</rt></ruby><ruby>再<rt class="furi">さい</rt><rt class="roma">sai</rt></ruby>挡 锐<ruby>利<rt class="furi">とぎ</rt><rt class="roma">togi</rt></ruby>伤悲
 </div>
-<div class="cn-lyric">还敢拿胸口再挡 锐利伤悲</div>
-<div class="cn-lyric">还敢拿胸口再挡 锐利伤悲</div>
 <div class="cn-lyric">还敢拿胸口再挡 锐利伤悲</div>
 </div>
 
@@ -187,7 +178,6 @@ image: /images/songs/harusaruhi/single-1712294275.jpg
 你<ruby>在<rt class="furi">ざい</rt><rt class="roma">zai</rt></ruby><ruby>我<rt class="furi">わが</rt><rt class="roma">waga</rt></ruby><ruby>眼中<rt class="furi">がんちゅう</rt><rt class="roma">ganchuu</rt></ruby><ruby>真<rt class="furi">しん</rt><rt class="roma">shin</rt></ruby><ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby>很<ruby>特<rt class="furi">とく</rt><rt class="roma">toku</rt></ruby>别
 </div>
 <div class="cn-lyric">你在我眼中真的很特别</div>
-<div class="cn-lyric">你在我眼中真的很特别</div>
 </div>
 
 <div class="lyric-line">
@@ -195,15 +185,12 @@ image: /images/songs/harusaruhi/single-1712294275.jpg
 <ruby>可<rt class="furi">か</rt><rt class="roma">ka</rt></ruby>惜却<ruby>不在<rt class="furi">ふざい</rt><rt class="roma">fuzai</rt></ruby><ruby>我<rt class="furi">わが</rt><rt class="roma">waga</rt></ruby><ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby>梦<ruby>里<rt class="furi">さと</rt><rt class="roma">sato</rt></ruby><ruby>面<rt class="furi">めん</rt><rt class="roma">men</rt></ruby>
 </div>
 <div class="cn-lyric">可惜却不在我的梦里面</div>
-<div class="cn-lyric">可惜却不在我的梦里面</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 爱<ruby>是<rt class="furi">ぜ</rt><rt class="roma">ze</rt></ruby>无<ruby>法<rt class="furi">ほう</rt><rt class="roma">hou</rt></ruby><ruby>解<rt class="furi">かい</rt><rt class="roma">kai</rt></ruby>释 <ruby>矛盾<rt class="furi">むじゅん</rt><rt class="roma">mujun</rt></ruby><ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby><ruby>死<rt class="furi">し</rt><rt class="roma">shi</rt></ruby>结
 </div>
-<div class="cn-lyric">爱是无法解释 矛盾的死结</div>
-<div class="cn-lyric">爱是无法解释 矛盾的死结</div>
 <div class="cn-lyric">爱是无法解释 矛盾的死结</div>
 </div>
 

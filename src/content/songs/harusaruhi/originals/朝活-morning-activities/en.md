@@ -106,17 +106,12 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 [00:20.92]yeah
 </div>
 <div class="trans-lyric">yeah</div>
-<div class="trans-lyric">yeah</div>
-<div class="trans-lyric">yeah</div>
-<div class="trans-lyric">yeah</div>
-<div class="trans-lyric">yeah</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:21.59]Good morning
 </div>
-<div class="trans-lyric">Good morning</div>
 <div class="trans-lyric">Good morning</div>
 </div>
 

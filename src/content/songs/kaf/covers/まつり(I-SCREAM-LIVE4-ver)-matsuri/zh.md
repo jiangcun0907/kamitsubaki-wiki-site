@@ -90,7 +90,6 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 [01:04.96]<ruby>花祭<rt class="furi">はなまつ</rt><rt class="roma">hanamatsu</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby> <ruby>夏<rt class="furi">なつ</rt><rt class="roma">natsu</rt></ruby><ruby>祭<rt class="furi">まつ</rt><rt class="roma">matsu</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby>
 </div>
 <div class="cn-lyric">[01:04.96]花祭 夏祭</div>
-<div class="cn-lyric">[01:04.96]花祭 夏祭</div>
 </div>
 
 <div class="lyric-line">
@@ -111,7 +110,6 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 <div class="jp-lyric">
 [01:14.85]<ruby>秋祭<rt class="furi">あきまつ</rt><rt class="roma">akimatsu</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby> <ruby>冬休<rt class="furi">ふゆやす</rt><rt class="roma">fuyuyasu</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby>
 </div>
-<div class="cn-lyric">[01:14.85]秋祭 冬假</div>
 <div class="cn-lyric">[01:14.85]秋祭 冬假</div>
 </div>
 
@@ -141,19 +139,12 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 [01:24.61]<ruby>祭<rt class="furi">まつ</rt><rt class="roma">matsu</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby> <ruby>祭<rt class="furi">まつ</rt><rt class="roma">matsu</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby>
 </div>
 <div class="cn-lyric">[01:24.61]祭典 祭典</div>
-<div class="cn-lyric">[01:24.61]祭典 祭典</div>
-<div class="cn-lyric">[01:24.61]祭典 祭典</div>
-<div class="cn-lyric">[01:24.61]祭典 祭典</div>
-<div class="cn-lyric">[01:24.61]祭典 祭典</div>
-<div class="cn-lyric">[01:24.61]祭典 祭典</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:26.94]<ruby>毎日<rt class="furi">まいにち</rt><rt class="roma">mainichi</rt></ruby><ruby>愛<rt class="furi">いと</rt><rt class="roma">ito</rt></ruby><ruby>しき<rt class="roma">shiki</rt></ruby><ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
-<div class="cn-lyric">[01:26.94]每日都是某份心爱之物的</div>
-<div class="cn-lyric">[01:26.94]每日都是某份心爱之物的</div>
 <div class="cn-lyric">[01:26.94]每日都是某份心爱之物的</div>
 </div>
 
@@ -189,8 +180,6 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 [01:39.88]<ruby>ない<rt class="roma">nai</rt></ruby> <ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="cn-lyric">[01:39.88]没有 没有</div>
-<div class="cn-lyric">[01:39.88]没有 没有</div>
-<div class="cn-lyric">[01:39.88]没有 没有</div>
 </div>
 
 <div class="lyric-line">
@@ -198,17 +187,12 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 [01:46.63]<ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby><ruby>こっち<rt class="roma">kotchi</rt></ruby><ruby>ゃない<rt class="roma">yanai</rt></ruby>
 </div>
 <div class="cn-lyric">[01:46.63]我什么也不知道</div>
-<div class="cn-lyric">[01:46.63]我什么也不知道</div>
-<div class="cn-lyric">[01:46.63]我什么也不知道</div>
-<div class="cn-lyric">[01:46.63]我什么也不知道</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:51.40]<ruby>好<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ください<rt class="roma">kudasai</rt></ruby>
 </div>
-<div class="cn-lyric">[01:51.40]随你喜欢</div>
-<div class="cn-lyric">[01:51.40]随你喜欢</div>
 <div class="cn-lyric">[01:51.40]随你喜欢</div>
 </div>
 
@@ -336,7 +320,6 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 [02:51.07]<ruby>あれ<rt class="roma">are</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>これ<rt class="roma">kore</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>有り難<rt class="furi">ありがた</rt><rt class="roma">arigata</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby>
 </div>
 <div class="cn-lyric">[02:51.07]这个那个都值得感激</div>
-<div class="cn-lyric">[02:51.07]这个那个都值得感激</div>
 </div>
 
 <div class="lyric-line">
@@ -344,14 +327,12 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 [02:53.53]<ruby>苦<rt class="furi">くる</rt><rt class="roma">kuru</rt></ruby><ruby>しむ<rt class="roma">shimu</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="cn-lyric">[02:53.53]没有什么可痛苦的</div>
-<div class="cn-lyric">[02:53.53]没有什么可痛苦的</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [02:56.02]<ruby>肩<rt class="furi">かた</rt><rt class="roma">kata</rt></ruby><ruby>落<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>とす<rt class="roma">tosu</rt></ruby><ruby>こ<rt class="roma">ko</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>一切<rt class="furi">いっさい</rt><rt class="roma">issai</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="cn-lyric">[02:56.02]完全没有需要沮丧的</div>
 <div class="cn-lyric">[02:56.02]完全没有需要沮丧的</div>
 </div>
 

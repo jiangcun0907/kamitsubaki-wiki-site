@@ -138,14 +138,12 @@ image: /images/albums/vwp/awakening.jpg
 [00:58.49]<ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>しも<rt class="roma">shimo</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>歳<rt class="furi">とし</rt><rt class="roma">toshi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>追<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
 </div>
 <div class="trans-lyric">Everyone ages</div>
-<div class="trans-lyric">Everyone ages</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:01.91]<ruby>碧<rt class="furi">へき</rt><rt class="roma">heki</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby>燃<ruby>ゆる<rt class="roma">yuru</rt></ruby><ruby>惑星<rt class="furi">わくせい</rt><rt class="roma">wakusei</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>どう<rt class="roma">dou</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
-<div class="trans-lyric">But what about the planet burning blue?</div>
 <div class="trans-lyric">But what about the planet burning blue?</div>
 </div>
 
@@ -154,14 +152,12 @@ image: /images/albums/vwp/awakening.jpg
 [01:05.23]<ruby>好<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>もの<rt class="roma">mono</rt></ruby><ruby>嫌<rt class="furi">きら</rt><rt class="roma">kira</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>もの<rt class="roma">mono</rt></ruby>
 </div>
 <div class="trans-lyric">Things I like, things I dislike</div>
-<div class="trans-lyric">Things I like, things I dislike</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:08.80]<ruby>いつか<rt class="roma">itsuka</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>変<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>わって<rt class="roma">watte</rt></ruby><ruby>しまう<rt class="roma">shimau</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby>
 </div>
-<div class="trans-lyric">Someday they will change</div>
 <div class="trans-lyric">Someday they will change</div>
 </div>
 
@@ -172,14 +168,12 @@ image: /images/albums/vwp/awakening.jpg
 [01:13.43]<ruby>衰<rt class="furi">おとろ</rt><rt class="roma">otoro</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>救世主<rt class="furi">きゅうせいしゅ</rt><rt class="roma">kyuuseishu</rt></ruby>
 </div>
 <div class="trans-lyric">A faded savior</div>
-<div class="trans-lyric">A faded savior</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:15.05]<ruby>側溝<rt class="furi">そっこう</rt><rt class="roma">sokkou</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>汚<rt class="furi">よご</rt><rt class="roma">yogo</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>メダル<rt class="roma">medaru</rt></ruby>
 </div>
-<div class="trans-lyric">A medal dirtied in the gutter</div>
 <div class="trans-lyric">A medal dirtied in the gutter</div>
 </div>
 
@@ -188,7 +182,6 @@ image: /images/albums/vwp/awakening.jpg
 [01:16.90]<ruby>僅<rt class="furi">わず</rt><rt class="roma">wazu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>光<rt class="furi">ひか</rt><rt class="roma">hika</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>見逃<rt class="furi">みのが</rt><rt class="roma">minoga</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ぬ<rt class="roma">nu</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
 <div class="trans-lyric">I want to not miss the faint glimmer</div>
-<div class="trans-lyric">I want to not miss the faint glimmer</div>
 </div>
 
 <div class="lyric-line">
@@ -196,14 +189,12 @@ image: /images/albums/vwp/awakening.jpg
 [01:20.62]<ruby>鳴<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>止<rt class="furi">や</rt><rt class="roma">ya</rt></ruby><ruby>ま<rt class="roma">ma</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>音<rt class="furi">おと</rt><rt class="roma">oto</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby>
 </div>
 <div class="trans-lyric">I hear an unceasing sound</div>
-<div class="trans-lyric">I hear an unceasing sound</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:24.32]<ruby>少<rt class="furi">すこ</rt><rt class="roma">suko</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>歩<rt class="furi">ある</rt><rt class="roma">aru</rt></ruby><ruby>こ<rt class="roma">ko</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="trans-lyric">Let's walk a little</div>
 <div class="trans-lyric">Let's walk a little</div>
 </div>
 

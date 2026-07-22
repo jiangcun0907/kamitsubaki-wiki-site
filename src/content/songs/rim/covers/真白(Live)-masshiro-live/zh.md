@@ -89,14 +89,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:52.46]<ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>忘<rt class="furi">わす</rt><rt class="roma">wasu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>溶<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>と<rt class="roma">to</rt></ruby>
 </div>
 <div class="cn-lyric">[00:52.46]说不出口 想要忘记 融化不了的夜晚和</div>
-<div class="cn-lyric">[00:52.46]说不出口 想要忘记 融化不了的夜晚和</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:57.60]<ruby>真っ白<rt class="furi">まっしろ</rt><rt class="roma">masshiro</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ランジェリー<rt class="roma">ranjerii</rt></ruby>
 </div>
-<div class="cn-lyric">[00:57.60]纯白的内衣</div>
 <div class="cn-lyric">[00:57.60]纯白的内衣</div>
 </div>
 
@@ -105,15 +103,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [01:03.07]<ruby>片<rt class="furi">かた</rt><rt class="roma">kata</rt></ruby><ruby>っぽ<rt class="roma">ppo</rt></ruby><ruby>引っ張<rt class="furi">ひっぱ</rt><rt class="roma">hippa</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>優<rt class="furi">やさ</rt><rt class="roma">yasa</rt></ruby><ruby>しく<rt class="roma">shiku</rt></ruby><ruby>解<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>リボン<rt class="roma">ribon</rt></ruby>
 </div>
 <div class="cn-lyric">[01:03.07]拉着一端温柔解开的丝带</div>
-<div class="cn-lyric">[01:03.07]拉着一端温柔解开的丝带</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:11.83]<ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>取<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>飛<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>べ<rt class="roma">be</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
-<div class="cn-lyric">[01:11.83]为了不消失 不脱落 无法飞翔</div>
-<div class="cn-lyric">[01:11.83]为了不消失 不脱落 无法飞翔</div>
 <div class="cn-lyric">[01:11.83]为了不消失 不脱落 无法飞翔</div>
 </div>
 
@@ -122,16 +117,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [01:17.07]<ruby>深<rt class="furi">ふか</rt><rt class="roma">fuka</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>傷<rt class="furi">きず</rt><rt class="roma">kizu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>つけ<rt class="roma">tsuke</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="cn-lyric">[01:17.07]留下了深深的伤痕</div>
-<div class="cn-lyric">[01:17.07]留下了深深的伤痕</div>
-<div class="cn-lyric">[01:17.07]留下了深深的伤痕</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:21.66]<ruby>返<rt class="furi">かえ</rt><rt class="roma">kae</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>はじめて<rt class="roma">hajimete</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
-<div class="cn-lyric">[01:21.66]还给我 我的第一次</div>
-<div class="cn-lyric">[01:21.66]还给我 我的第一次</div>
 <div class="cn-lyric">[01:21.66]还给我 我的第一次</div>
 </div>
 

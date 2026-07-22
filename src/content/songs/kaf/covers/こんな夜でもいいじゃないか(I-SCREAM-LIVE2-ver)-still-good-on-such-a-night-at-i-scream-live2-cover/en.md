@@ -86,11 +86,6 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [00:48.47]<ruby>こんな<rt class="roma">konna</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
 </div>
 <div class="trans-lyric">Even on a night like this, it's okay, isn't it?</div>
-<div class="trans-lyric">Even on a night like this, it's okay, isn't it?</div>
-<div class="trans-lyric">Even on a night like this, it's okay, isn't it?</div>
-<div class="trans-lyric">Even on a night like this, it's okay, isn't it?</div>
-<div class="trans-lyric">Even on a night like this, it's okay, isn't it?</div>
-<div class="trans-lyric">Even on a night like this, it's okay, isn't it?</div>
 </div>
 
 <div class="lyric-line">
@@ -98,7 +93,6 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [00:51.66]<ruby>強<rt class="furi">つよ</rt><rt class="roma">tsuyo</rt></ruby><ruby>がって<rt class="roma">gatte</rt></ruby><ruby>ばっか<rt class="roma">bakka</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>吐<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>溜<rt class="furi">た</rt><rt class="roma">ta</rt></ruby><ruby>まり<rt class="roma">mari</rt></ruby>
 </div>
 <div class="trans-lyric">[00:51.66]A cesspool of nothing but bravado</div>
-<div class="trans-lyric">A cesspool of nothing but bravado</div>
 </div>
 
 <div class="lyric-line">
@@ -119,8 +113,6 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [01:02.34]「<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>人生<rt class="furi">じんせい</rt><rt class="roma">jinsei</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby>
 </div>
 <div class="trans-lyric">[01:02.34]"A life without you</div>
-<div class="trans-lyric">"A life without you</div>
-<div class="trans-lyric">"A life without you</div>
 </div>
 
 <div class="lyric-line">
@@ -128,7 +120,6 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [01:04.07]<ruby>本当<rt class="furi">ほんとう</rt><rt class="roma">hontou</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>もう<rt class="roma">mou</rt></ruby><ruby>どう<rt class="roma">dou</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>」
 </div>
 <div class="trans-lyric">[01:04.07]"Really, I don't care anymore"</div>
-<div class="trans-lyric">"Really, I don't care anymore"</div>
 </div>
 
 <div class="lyric-line">

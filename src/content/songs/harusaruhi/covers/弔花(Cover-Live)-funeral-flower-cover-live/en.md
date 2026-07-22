@@ -92,14 +92,12 @@ image: /images/albums/harusaruhi/cream-puff-live-4.jpg
 [00:34.49]<ruby>いつ<rt class="roma">itsu</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby><ruby>飼い慣<rt class="furi">かいな</rt><rt class="roma">kaina</rt></ruby><ruby>らさ<rt class="roma">rasa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="trans-lyric">I always want to be tamed</div>
-<div class="trans-lyric">I always want to be tamed</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:38.16]<ruby>まだ<rt class="roma">mada</rt></ruby><ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>縛り付<rt class="furi">しばりつ</rt><rt class="roma">shibaritsu</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">Tie me down, still knowing nothing</div>
 <div class="trans-lyric">Tie me down, still knowing nothing</div>
 </div>
 
@@ -108,14 +106,12 @@ image: /images/albums/harusaruhi/cream-puff-live-4.jpg
 [00:42.60]<ruby>命懸<rt class="furi">いのちが</rt><rt class="roma">inochiga</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>恋<rt class="furi">こい</rt><rt class="roma">koi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="trans-lyric">A love that risks my life</div>
-<div class="trans-lyric">A love that risks my life</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:42.60]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>傍<rt class="furi">はた</rt><rt class="roma">hata</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>いれん<rt class="roma">iren</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
 </div>
-<div class="trans-lyric">If I can be by your side</div>
 <div class="trans-lyric">If I can be by your side</div>
 </div>
 
@@ -124,14 +120,12 @@ image: /images/albums/harusaruhi/cream-puff-live-4.jpg
 [00:47.73]<ruby>地獄<rt class="furi">じごく</rt><rt class="roma">jigoku</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>？
 </div>
 <div class="trans-lyric">Isn't hell okay?</div>
-<div class="trans-lyric">Isn't hell okay?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:51.75]<ruby>枯<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">Love me until I wither</div>
 <div class="trans-lyric">Love me until I wither</div>
 </div>
 
@@ -140,14 +134,12 @@ image: /images/albums/harusaruhi/cream-puff-live-4.jpg
 [00:55.52]<ruby>狂<rt class="furi">くる</rt><rt class="roma">kuru</rt></ruby><ruby>おしい<rt class="roma">oshii</rt></ruby><ruby>程<rt class="furi">ほど</rt><rt class="roma">hodo</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby> <ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>離<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">Don't take your eyes off me, as if mad</div>
-<div class="trans-lyric">Don't take your eyes off me, as if mad</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:02.94]<ruby>抱<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>きしめ<rt class="roma">kishime</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>あげる<rt class="roma">ageru</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
-<div class="trans-lyric">Because I'll hold you tight</div>
 <div class="trans-lyric">Because I'll hold you tight</div>
 </div>
 

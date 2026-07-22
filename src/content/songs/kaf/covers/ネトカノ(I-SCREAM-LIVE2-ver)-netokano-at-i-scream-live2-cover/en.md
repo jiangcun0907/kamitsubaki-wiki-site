@@ -64,16 +64,12 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [00:38.01]you are always gonna be wonder
 </div>
 <div class="trans-lyric">you are always gonna be wonder</div>
-<div class="trans-lyric">you are always gonna be wonder</div>
-<div class="trans-lyric">you are always gonna be wonder</div>
-<div class="trans-lyric">you are always gonna be wonder</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:42.07]<ruby>くせ<rt class="roma">kuse</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なる<rt class="roma">naru</rt></ruby><ruby>気持<rt class="furi">きも</rt><rt class="roma">kimo</rt></ruby><ruby>ち<rt class="roma">chi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>いつも<rt class="roma">itsumo</rt></ruby>be my love
 </div>
-<div class="trans-lyric">this addictive feeling, always be my love</div>
 <div class="trans-lyric">this addictive feeling, always be my love</div>
 </div>
 
@@ -101,7 +97,6 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 <div class="jp-lyric">
 [01:03.68]to the night
 </div>
-<div class="trans-lyric">to the night</div>
 <div class="trans-lyric">to the night</div>
 </div>
 
@@ -182,14 +177,12 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [02:15.66]you can say
 </div>
 <div class="trans-lyric">you can say</div>
-<div class="trans-lyric">you can say</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [02:17.06]wake up! alright
 </div>
-<div class="trans-lyric">wake up! alright</div>
 <div class="trans-lyric">wake up! alright</div>
 </div>
 

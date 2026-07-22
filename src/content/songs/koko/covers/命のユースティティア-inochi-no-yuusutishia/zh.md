@@ -109,14 +109,12 @@ image: /images/albums/koko/arare-live.jpg
 [01:11.80]<ruby>叶<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>ぬ<rt class="roma">nu</rt></ruby><ruby>祈<rt class="furi">いの</rt><rt class="roma">ino</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby> <ruby>救<rt class="furi">すく</rt><rt class="roma">suku</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>両手<rt class="furi">りょうて</rt><rt class="roma">ryoute</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:11.80]向无法实现的祈祷 伸出救援的双手</div>
-<div class="cn-lyric">[01:11.80]向无法实现的祈祷 伸出救援的双手</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:14.93]<ruby>生まれ変<rt class="furi">うまれか</rt><rt class="roma">umareka</rt></ruby><ruby>われ<rt class="roma">ware</rt></ruby> <ruby>命<rt class="furi">いのち</rt><rt class="roma">inochi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ユースティティア<rt class="roma">yuusuteiteia</rt></ruby>
 </div>
-<div class="cn-lyric">[01:14.93]重生吧 生命的尤斯蒂蒂亚</div>
 <div class="cn-lyric">[01:14.93]重生吧 生命的尤斯蒂蒂亚</div>
 </div>
 
@@ -125,14 +123,12 @@ image: /images/albums/koko/arare-live.jpg
 [01:18.40]<ruby>どんな<rt class="roma">donna</rt></ruby><ruby>風<rt class="furi">かぜ</rt><rt class="roma">kaze</rt></ruby> <ruby>吹<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
 <div class="cn-lyric">[01:18.40]无论怎样的风吹拂</div>
-<div class="cn-lyric">[01:18.40]无论怎样的风吹拂</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:18.40]<ruby>この<rt class="roma">kono</rt></ruby><ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby> <ruby>消<rt class="furi">け</rt><rt class="roma">ke</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>やし<rt class="roma">yashi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="cn-lyric">[01:18.40]这声音 不会消失</div>
 <div class="cn-lyric">[01:18.40]这声音 不会消失</div>
 </div>
 
@@ -141,14 +137,12 @@ image: /images/albums/koko/arare-live.jpg
 [01:24.06]<ruby>未来<rt class="furi">みらい</rt><rt class="roma">mirai</rt></ruby>（<ruby>あした<rt class="roma">ashita</rt></ruby>）<ruby>の<rt class="roma">no</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby> <ruby>残<rt class="furi">のこ</rt><rt class="roma">noko</rt></ruby><ruby>せる<rt class="roma">seru</rt></ruby><ruby>物<rt class="furi">もの</rt><rt class="roma">mono</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby>？
 </div>
 <div class="cn-lyric">[01:24.06]能给未来的我们 留下什么？</div>
-<div class="cn-lyric">[01:24.06]能给未来的我们 留下什么？</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:27.19]<ruby>宙<rt class="furi">ちゅう</rt><rt class="roma">chuu</rt></ruby>（<ruby>そら<rt class="roma">sora</rt></ruby>）<ruby>を<rt class="roma">wo</rt></ruby><ruby>照<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>らせ<rt class="roma">rase</rt></ruby> <ruby>一縷<rt class="furi">いちる</rt><rt class="roma">ichiru</rt></ruby>（<ruby>い<rt class="roma">i</rt></ruby><ruby>ちる<rt class="roma">chiru</rt></ruby>）<ruby>の<rt class="roma">no</rt></ruby><ruby>ユースティティア<rt class="roma">yuusuteiteia</rt></ruby>
 </div>
-<div class="cn-lyric">[01:27.19]照亮天空吧 一丝的尤斯蒂蒂亚</div>
 <div class="cn-lyric">[01:27.19]照亮天空吧 一丝的尤斯蒂蒂亚</div>
 </div>
 
@@ -157,14 +151,12 @@ image: /images/albums/koko/arare-live.jpg
 [01:30.57]<ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>秒<rt class="furi">びょう</rt><rt class="roma">byou</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby> <ruby>狂<rt class="furi">くる</rt><rt class="roma">kuru</rt></ruby><ruby>わせ<rt class="roma">wase</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="cn-lyric">[01:30.57]连一秒都不会错乱</div>
-<div class="cn-lyric">[01:30.57]连一秒都不会错乱</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:33.29]<ruby>奪<rt class="furi">うば</rt><rt class="roma">uba</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby> <ruby>さぁ<rt class="roma">saa</rt></ruby> <ruby>取り戻<rt class="furi">とりもど</rt><rt class="roma">torimodo</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby>
 </div>
-<div class="cn-lyric">[01:33.29]被夺走的世界 来吧 夺回来</div>
 <div class="cn-lyric">[01:33.29]被夺走的世界 来吧 夺回来</div>
 </div>
 

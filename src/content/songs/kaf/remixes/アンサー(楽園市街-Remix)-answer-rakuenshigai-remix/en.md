@@ -89,7 +89,6 @@ image: /images/albums/kaf/maho-gamma.jpg
 [00:42.31]<ruby>正解<rt class="furi">せいかい</rt><rt class="roma">seikai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>旅<rt class="furi">たび</rt><rt class="roma">tabi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>しよ<rt class="roma">shiyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="trans-lyric">[00:42.31]Let's embark on a journey without a right answer</div>
-<div class="trans-lyric">Let's embark on a journey without a right answer</div>
 </div>
 
 <div class="lyric-line">
@@ -134,7 +133,6 @@ image: /images/albums/kaf/maho-gamma.jpg
 [01:19.16]<ruby>確信<rt class="furi">かくしん</rt><rt class="roma">kakushin</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ある<rt class="roma">aru</rt></ruby><ruby>その<rt class="roma">sono</rt></ruby><ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>叫<rt class="furi">さけ</rt><rt class="roma">sake</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>でる<rt class="roma">deru</rt></ruby>
 </div>
 <div class="trans-lyric">[01:19.16]That heart filled with conviction is screaming</div>
-<div class="trans-lyric">That heart filled with conviction is screaming</div>
 </div>
 
 <div class="lyric-line">
@@ -142,7 +140,6 @@ image: /images/albums/kaf/maho-gamma.jpg
 [01:26.20]<ruby>ここ<rt class="roma">koko</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>もう<rt class="roma">mou</rt></ruby><ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>人<rt class="furi">にん</rt><rt class="roma">nin</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">[01:26.20]Here, I'm no longer alone</div>
-<div class="trans-lyric">Here, I'm no longer alone</div>
 </div>
 
 <br />

@@ -41,13 +41,6 @@ image: /images/songs/vwp/single-1732391309.jpg
 [00:00.58]Virtual Witch Phenomenon
 </div>
 <div class="cn-lyric">[00:00.58]Virtual Witch Phenomenon</div>
-<div class="cn-lyric">[00:00.58]Virtual Witch Phenomenon</div>
-<div class="cn-lyric">[00:00.58]Virtual Witch Phenomenon</div>
-<div class="cn-lyric">[00:00.58]Virtual Witch Phenomenon</div>
-<div class="cn-lyric">[00:00.58]Virtual Witch Phenomenon</div>
-<div class="cn-lyric">[00:00.58]Virtual Witch Phenomenon</div>
-<div class="cn-lyric">[00:00.58]Virtual Witch Phenomenon</div>
-<div class="cn-lyric">[00:00.58]Virtual Witch Phenomenon</div>
 </div>
 
 <div class="lyric-line">
@@ -66,8 +59,6 @@ image: /images/songs/vwp/single-1732391309.jpg
 <div class="jp-lyric">
 [00:18.60]Virtual Witch Phenomenon time!
 </div>
-<div class="cn-lyric">[00:18.60]Virtual Witch Phenomenon 时刻！</div>
-<div class="cn-lyric">[00:18.60]Virtual Witch Phenomenon 时刻！</div>
 <div class="cn-lyric">[00:18.60]Virtual Witch Phenomenon 时刻！</div>
 </div>
 
@@ -129,16 +120,12 @@ image: /images/songs/vwp/single-1732391309.jpg
 [01:03.55]<ruby>運命<rt class="furi">うんめい</rt><rt class="roma">unmei</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>制<rt class="furi">せい</rt><rt class="roma">sei</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
 <div class="cn-lyric">[01:03.55]我想要控制命运去爱</div>
-<div class="cn-lyric">[01:03.55]我想要控制命运去爱</div>
-<div class="cn-lyric">[01:03.55]我想要控制命运去爱</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:06.15]<ruby>作り物<rt class="furi">つくりもの</rt><rt class="roma">tsukurimono</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>人生<rt class="furi">じんせい</rt><rt class="roma">jinsei</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby>
 </div>
-<div class="cn-lyric">[01:06.15]即使是虚构的人生</div>
-<div class="cn-lyric">[01:06.15]即使是虚构的人生</div>
 <div class="cn-lyric">[01:06.15]即使是虚构的人生</div>
 </div>
 
@@ -147,14 +134,12 @@ image: /images/songs/vwp/single-1732391309.jpg
 [01:09.58]<ruby>書き換<rt class="furi">かきか</rt><rt class="roma">kakika</rt></ruby><ruby>えれ<rt class="roma">ere</rt></ruby><ruby>ば<rt class="roma">ba</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:09.58]改写就好了啊</div>
-<div class="cn-lyric">[01:09.58]改写就好了啊</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:11.42]<ruby>その<rt class="roma">sono</rt></ruby><ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>なんで<rt class="roma">nande</rt></ruby> <ruby>空<rt class="furi">から</rt><rt class="roma">kara</rt></ruby><ruby>っぽ<rt class="roma">ppo</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>まま<rt class="roma">mama</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
-<div class="cn-lyric">[01:11.42]为什么你的手仍是空空如也</div>
 <div class="cn-lyric">[01:11.42]为什么你的手仍是空空如也</div>
 </div>
 
@@ -165,14 +150,12 @@ image: /images/songs/vwp/single-1732391309.jpg
 [01:16.02]<ruby>だ<rt class="roma">da</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby> <ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>答<rt class="furi">こた</rt><rt class="roma">kota</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>解<rt class="furi">わか</rt><rt class="roma">waka</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="cn-lyric">[01:16.02]哒哒哒哒哒 谁都不知道答案</div>
-<div class="cn-lyric">[01:16.02]哒哒哒哒哒 谁都不知道答案</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:19.13]<ruby>半端<rt class="furi">はんぱ</rt><rt class="roma">hanpa</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>傍観<rt class="furi">ぼうかん</rt><rt class="roma">boukan</rt></ruby><ruby>者<rt class="furi">しゃ</rt><rt class="roma">sha</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>っし<rt class="roma">sshi</rt></ruby><ruby>のし<rt class="roma">noshi</rt></ruby>
 </div>
-<div class="cn-lyric">[01:19.13]若是半吊子的旁观者 就嘘嘘安静</div>
 <div class="cn-lyric">[01:19.13]若是半吊子的旁观者 就嘘嘘安静</div>
 </div>
 
@@ -263,7 +246,6 @@ image: /images/songs/vwp/single-1732391309.jpg
 <div class="jp-lyric">
 [02:05.46]<ruby>運命<rt class="furi">うんめい</rt><rt class="roma">unmei</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>せい<rt class="roma">sei</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
-<div class="cn-lyric">[02:05.46]想归咎于命运活下去</div>
 <div class="cn-lyric">[02:05.46]想归咎于命运活下去</div>
 </div>
 

@@ -66,16 +66,12 @@ image: /images/albums/isekaijoucho/sousei.jpg
 [00:30.19]<ruby>明<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>かり<rt class="roma">kari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
 </div>
 <div class="trans-lyric">To you who became a light</div>
-<div class="trans-lyric">To you who became a light</div>
-<div class="trans-lyric">To you who became a light</div>
-<div class="trans-lyric">To you who became a light</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:36.47]<ruby>宇宙<rt class="furi">うちゅう</rt><rt class="roma">uchuu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>飛<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>べる<rt class="roma">beru</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>待<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">Wait until I can fly across the universe</div>
 <div class="trans-lyric">Wait until I can fly across the universe</div>
 </div>
 
@@ -84,16 +80,12 @@ image: /images/albums/isekaijoucho/sousei.jpg
 [00:43.28]<ruby>明<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>かり<rt class="roma">kari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="trans-lyric">Of you, who became a light</div>
-<div class="trans-lyric">Of you, who became a light</div>
-<div class="trans-lyric">Of you, who became a light</div>
-<div class="trans-lyric">Of you, who became a light</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:49.78]<ruby>心臓<rt class="furi">しんぞう</rt><rt class="roma">shinzou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>点滅<rt class="furi">てんめつ</rt><rt class="roma">tenmetsu</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby><ruby>かしら<rt class="roma">kashira</rt></ruby>
 </div>
-<div class="trans-lyric">I wonder if your heart blinks</div>
 <div class="trans-lyric">I wonder if your heart blinks</div>
 </div>
 

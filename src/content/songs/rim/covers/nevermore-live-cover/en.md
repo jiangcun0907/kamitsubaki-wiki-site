@@ -68,7 +68,7 @@ I can hear the rustling ofthe skirt you wore
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:01.89]I whisper Nevermore
+I whisper Nevermore
 </div>
 <div class="trans-lyric">I whisper Nevermore</div>
 </div>
@@ -98,7 +98,7 @@ They're all undressed again
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:33.92]I-ah walk through the pouring rain
+I-ah walk through the pouring rain
 </div>
 <div class="trans-lyric">I-ah walk through the pouring rain</div>
 </div>
@@ -108,28 +108,14 @@ They're all undressed again
 I walk the hills alone again
 </div>
 <div class="trans-lyric">I walk the hills alone again</div>
-<div class="trans-lyric">I walk the hills alone again</div>
 </div>
 
 <br />
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:01.89]They say Nevermore but I ah ah
+They say Nevermore but I ah ah
 </div>
-<div class="trans-lyric">They say Nevermore but I ah ah</div>
-<div class="trans-lyric">They say Nevermore but I ah ah</div>
-<div class="trans-lyric">They say Nevermore but I ah ah</div>
-<div class="trans-lyric">They say Nevermore but I ah ah</div>
-<div class="trans-lyric">They say Nevermore but I ah ah</div>
-<div class="trans-lyric">They say Nevermore but I ah ah</div>
-<div class="trans-lyric">They say Nevermore but I ah ah</div>
-<div class="trans-lyric">They say Nevermore but I ah ah</div>
-<div class="trans-lyric">They say Nevermore but I ah ah</div>
-<div class="trans-lyric">They say Nevermore but I ah ah</div>
-<div class="trans-lyric">They say Nevermore but I ah ah</div>
-<div class="trans-lyric">They say Nevermore but I ah ah</div>
-<div class="trans-lyric">They say Nevermore but I ah ah</div>
 <div class="trans-lyric">They say Nevermore but I ah ah</div>
 </div>
 
@@ -141,14 +127,8 @@ They say Nevermore but I ah ah
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:01.89]They say Nevermore but I'm not sure
+They say Nevermore but I'm not sure
 </div>
-<div class="trans-lyric">They say Nevermore but I'm not sure</div>
-<div class="trans-lyric">They say Nevermore but I'm not sure</div>
-<div class="trans-lyric">They say Nevermore but I'm not sure</div>
-<div class="trans-lyric">They say Nevermore but I'm not sure</div>
-<div class="trans-lyric">They say Nevermore but I'm not sure</div>
-<div class="trans-lyric">They say Nevermore but I'm not sure</div>
 <div class="trans-lyric">They say Nevermore but I'm not sure</div>
 </div>
 
@@ -156,7 +136,6 @@ They say Nevermore but I ah ah
 <div class="jp-lyric">
 I could feel you were here before
 </div>
-<div class="trans-lyric">I could feel you were here before</div>
 <div class="trans-lyric">I could feel you were here before</div>
 </div>
 
@@ -185,10 +164,6 @@ They say Nevermore but I'm not sure
 Oh please give me the sign I am waiting for
 </div>
 <div class="trans-lyric">Oh please give me the sign I am waiting for</div>
-<div class="trans-lyric">Oh please give me the sign I am waiting for</div>
-<div class="trans-lyric">Oh please give me the sign I am waiting for</div>
-<div class="trans-lyric">Oh please give me the sign I am waiting for</div>
-<div class="trans-lyric">Oh please give me the sign I am waiting for</div>
 </div>
 
 <br />
@@ -197,9 +172,6 @@ Oh please give me the sign I am waiting for
 <div class="jp-lyric">
 'Cause I am falling down
 </div>
-<div class="trans-lyric">'Cause I am falling down</div>
-<div class="trans-lyric">'Cause I am falling down</div>
-<div class="trans-lyric">'Cause I am falling down</div>
 <div class="trans-lyric">'Cause I am falling down</div>
 </div>
 
@@ -395,7 +367,6 @@ Oh please give me the sign I am waiting for
 <div class="jp-lyric">
 Give me the sign I am waiting for
 </div>
-<div class="trans-lyric">Give me the sign I am waiting for</div>
 <div class="trans-lyric">Give me the sign I am waiting for</div>
 </div>
 

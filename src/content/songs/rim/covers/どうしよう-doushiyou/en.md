@@ -38,11 +38,6 @@ image: /images/albums/rim/chocolate-live.jpg
 <ruby>ね<rt class="roma">ne</rt></ruby> <ruby>どう<rt class="roma">dou</rt></ruby><ruby>しよ<rt class="roma">shiyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby> <ruby>どう<rt class="roma">dou</rt></ruby><ruby>しよ<rt class="roma">shiyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="trans-lyric">Hey, what should I do? What should I do?</div>
-<div class="trans-lyric">Hey, what should I do? What should I do?</div>
-<div class="trans-lyric">Hey, what should I do? What should I do?</div>
-<div class="trans-lyric">Hey, what should I do? What should I do?</div>
-<div class="trans-lyric">Hey, what should I do? What should I do?</div>
-<div class="trans-lyric">Hey, what should I do? What should I do?</div>
 </div>
 
 <div class="lyric-line">
@@ -146,14 +141,12 @@ I LOVE YOU
 <ruby>卒業<rt class="furi">そつぎょう</rt><rt class="roma">sotsugyou</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>近<rt class="furi">ちか</rt><rt class="roma">chika</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>けれど<rt class="roma">keredo</rt></ruby>
 </div>
 <div class="trans-lyric">Graduation is near, but</div>
-<div class="trans-lyric">Graduation is near, but</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>現実<rt class="furi">げんじつ</rt><rt class="roma">genjitsu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>避<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>みたい<rt class="roma">mitai</rt></ruby>
 </div>
-<div class="trans-lyric">It seems I was avoiding reality</div>
 <div class="trans-lyric">It seems I was avoiding reality</div>
 </div>
 
@@ -162,14 +155,12 @@ I LOVE YOU
 <ruby>あんな<rt class="roma">anna</rt></ruby><ruby>事<rt class="furi">こと</rt><rt class="roma">koto</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby>
 </div>
 <div class="trans-lyric">Until now, it wasn't something like that</div>
-<div class="trans-lyric">Until now, it wasn't something like that</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>ケンカ<rt class="roma">kenka</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby><ruby>なん<rt class="roma">nan</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>もん<rt class="roma">mon</rt></ruby>
 </div>
-<div class="trans-lyric">We never used to have fights like that</div>
 <div class="trans-lyric">We never used to have fights like that</div>
 </div>
 
@@ -180,14 +171,12 @@ I LOVE YOU
 <ruby>社会<rt class="furi">しゃかい</rt><rt class="roma">shakai</rt></ruby><ruby>人<rt class="furi">じん</rt><rt class="roma">jin</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
 </div>
 <div class="trans-lyric">If we become working adults</div>
-<div class="trans-lyric">If we become working adults</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>たち<rt class="roma">tachi</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>どう<rt class="roma">dou</rt></ruby><ruby>なる<rt class="roma">naru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
-<div class="trans-lyric">What will become of us?</div>
 <div class="trans-lyric">What will become of us?</div>
 </div>
 
@@ -196,14 +185,12 @@ I LOVE YOU
 <ruby>こんな<rt class="roma">konna</rt></ruby><ruby>中途半端<rt class="furi">ちゅうとはんぱ</rt><rt class="roma">chuutohanpa</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">In this half-baked state</div>
-<div class="trans-lyric">In this half-baked state</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>終<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>わり<rt class="roma">wari</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>寂<rt class="furi">さび</rt><rt class="roma">sabi</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">An ending like this is lonely</div>
 <div class="trans-lyric">An ending like this is lonely</div>
 </div>
 

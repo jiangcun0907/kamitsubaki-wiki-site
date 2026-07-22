@@ -36,7 +36,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 Wow wow wow wow wow wow
 </div>
 <div class="cn-lyric">Wow wow wow wow wow wow</div>
-<div class="cn-lyric">Wow wow wow wow wow wow</div>
 </div>
 
 <div class="lyric-line">
@@ -49,7 +48,6 @@ Wow wow wow wow wow wow
 <div class="jp-lyric">
 Wow wow wow wow
 </div>
-<div class="cn-lyric">Wow wow wow wow</div>
 <div class="cn-lyric">Wow wow wow wow</div>
 </div>
 
@@ -162,7 +160,6 @@ Could you stand up again？
 <ruby>たとえ<rt class="roma">tatoe</rt></ruby><ruby>勝<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>ち<rt class="roma">chi</rt></ruby><ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>戦<rt class="furi">たたか</rt><rt class="roma">tataka</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="cn-lyric">即使是没有胜算的战斗</div>
-<div class="cn-lyric">即使是没有胜算的战斗</div>
 </div>
 
 <div class="lyric-line">
@@ -177,14 +174,12 @@ Could you stand up again？
 <ruby>失望<rt class="furi">しつぼう</rt><rt class="roma">shitsubou</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="cn-lyric">失望</div>
-<div class="cn-lyric">失望</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>屈辱<rt class="furi">くつじょく</rt><rt class="roma">kutsujoku</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
-<div class="cn-lyric">屈辱</div>
 <div class="cn-lyric">屈辱</div>
 </div>
 
@@ -193,14 +188,12 @@ Could you stand up again？
 <ruby>失敗<rt class="furi">しっぱい</rt><rt class="roma">shippai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="cn-lyric">失败</div>
-<div class="cn-lyric">失败</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>後悔<rt class="furi">こうかい</rt><rt class="roma">koukai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
-<div class="cn-lyric">后悔</div>
 <div class="cn-lyric">后悔</div>
 </div>
 
@@ -209,14 +202,12 @@ Could you stand up again？
 <ruby>炎<rt class="furi">ほのお</rt><rt class="roma">honoo</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>くべ<rt class="roma">kube</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>高<rt class="furi">たか</rt><rt class="roma">taka</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>狼煙<rt class="furi">のろし</rt><rt class="roma">noroshi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="cn-lyric">投入火焰 高高燃起狼烟</div>
-<div class="cn-lyric">投入火焰 高高燃起狼烟</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>いつか<rt class="roma">itsuka</rt></ruby><ruby>世界中<rt class="furi">せかいじゅう</rt><rt class="roma">sekaijuu</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>見放<rt class="furi">みはな</rt><rt class="roma">mihana</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
-<div class="cn-lyric">即使有一天被全世界抛弃</div>
 <div class="cn-lyric">即使有一天被全世界抛弃</div>
 </div>
 
@@ -225,14 +216,12 @@ Could you stand up again？
 <ruby>命<rt class="furi">いのち</rt><rt class="roma">inochi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>限<rt class="furi">かぎ</rt><rt class="roma">kagi</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>挑<rt class="furi">いど</rt><rt class="roma">ido</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="cn-lyric">以生命为限去挑战吧</div>
-<div class="cn-lyric">以生命为限去挑战吧</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>決断<rt class="furi">けつだん</rt><rt class="roma">ketsudan</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
-<div class="cn-lyric">决断</div>
 <div class="cn-lyric">决断</div>
 </div>
 
@@ -241,14 +230,12 @@ Could you stand up again？
 <ruby>執念<rt class="furi">しゅうねん</rt><rt class="roma">shuunen</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="cn-lyric">执念</div>
-<div class="cn-lyric">执念</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>挽回<rt class="furi">ばんかい</rt><rt class="roma">bankai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
-<div class="cn-lyric">挽回</div>
 <div class="cn-lyric">挽回</div>
 </div>
 
@@ -257,14 +244,12 @@ Could you stand up again？
 <ruby>復活<rt class="furi">ふっかつ</rt><rt class="roma">fukkatsu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="cn-lyric">复活</div>
-<div class="cn-lyric">复活</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>遂<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>げ<rt class="roma">ge</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="cn-lyric">实现</div>
 <div class="cn-lyric">实现</div>
 </div>
 
@@ -273,14 +258,12 @@ Could you stand up again？
 <ruby>眩<rt class="furi">まぶ</rt><rt class="roma">mabu</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>魂<rt class="furi">たましい</rt><rt class="roma">tamashii</rt></ruby>
 </div>
 <div class="cn-lyric">耀眼的灵魂</div>
-<div class="cn-lyric">耀眼的灵魂</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>突<rt class="furi">つ</rt><rt class="roma">tsu</rt></ruby><ruby>きつけろ<rt class="roma">kitsukero</rt></ruby>
 </div>
-<div class="cn-lyric">狠狠展示吧</div>
 <div class="cn-lyric">狠狠展示吧</div>
 </div>
 

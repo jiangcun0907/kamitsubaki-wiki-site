@@ -99,8 +99,6 @@ image: /images/albums/vwp/fate.jpg
 [00:53.79]<ruby>闇<rt class="furi">やみ</rt><rt class="roma">yami</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>払<rt class="furi">はら</rt><rt class="roma">hara</rt></ruby><ruby>え<rt class="roma">e</rt></ruby>
 </div>
 <div class="cn-lyric">[00:53.79]驱散黑暗</div>
-<div class="cn-lyric">[00:53.79]驱散黑暗</div>
-<div class="cn-lyric">[00:53.79]驱散黑暗</div>
 </div>
 
 <div class="lyric-line">

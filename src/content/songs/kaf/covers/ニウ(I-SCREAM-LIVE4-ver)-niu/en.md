@@ -34,7 +34,6 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 [00:26.11]<ruby>生まれ変<rt class="furi">うまれか</rt><rt class="roma">umareka</rt></ruby><ruby>わったら<rt class="roma">wattara</rt></ruby><ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なれる<rt class="roma">nareru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>？
 </div>
 <div class="trans-lyric">If I were reborn, what could I become?</div>
-<div class="trans-lyric">If I were reborn, what could I become?</div>
 </div>
 
 <div class="lyric-line">
@@ -42,14 +41,12 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 [00:32.42]<ruby>想像<rt class="furi">そうぞう</rt><rt class="roma">souzou</rt></ruby><ruby>できる<rt class="roma">dekiru</rt></ruby><ruby>ものの<rt class="roma">monono</rt></ruby>
 </div>
 <div class="trans-lyric">Of things I can imagine,</div>
-<div class="trans-lyric">Of things I can imagine,</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:35.19]<ruby>どれ<rt class="roma">dore</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>もの<rt class="roma">mono</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby>
 </div>
-<div class="trans-lyric">I want something that is none of them.</div>
 <div class="trans-lyric">I want something that is none of them.</div>
 </div>
 
@@ -107,29 +104,6 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 [01:22.50]<ruby>あと<rt class="roma">ato</rt></ruby><ruby>どの<rt class="roma">dono</rt></ruby><ruby>くらい<rt class="roma">kurai</rt></ruby>
 </div>
 <div class="trans-lyric">How much longer?</div>
-<div class="trans-lyric">How much longer?</div>
-<div class="trans-lyric">How much longer?</div>
-<div class="trans-lyric">How much longer?</div>
-<div class="trans-lyric">How much longer?</div>
-<div class="trans-lyric">How much longer?</div>
-<div class="trans-lyric">How much longer?</div>
-<div class="trans-lyric">How much longer?</div>
-<div class="trans-lyric">How much longer?</div>
-<div class="trans-lyric">How much longer?</div>
-<div class="trans-lyric">How much longer?</div>
-<div class="trans-lyric">How much longer?</div>
-<div class="trans-lyric">How much longer?</div>
-<div class="trans-lyric">How much longer?</div>
-<div class="trans-lyric">How much longer?</div>
-<div class="trans-lyric">How much longer?</div>
-<div class="trans-lyric">How much longer?</div>
-<div class="trans-lyric">How much longer?</div>
-<div class="trans-lyric">How much longer?</div>
-<div class="trans-lyric">How much longer?</div>
-<div class="trans-lyric">How much longer?</div>
-<div class="trans-lyric">How much longer?</div>
-<div class="trans-lyric">How much longer?</div>
-<div class="trans-lyric">How much longer?</div>
 </div>
 
 <div class="lyric-line">
@@ -166,7 +140,6 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 <div class="jp-lyric">
 [01:24.11]<ruby>ある<rt class="roma">aru</rt></ruby>
 </div>
-<div class="trans-lyric">There is</div>
 <div class="trans-lyric">There is</div>
 </div>
 

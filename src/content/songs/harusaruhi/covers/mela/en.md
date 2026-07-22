@@ -31,8 +31,6 @@ Mela! appears on CREAM PUFF LIVE or a related official release. Entries are vers
 Ere mela mela mela mela mela mela
 </div>
 <div class="trans-lyric">Ere mela mela mela mela mela mela</div>
-<div class="trans-lyric">Ere mela mela mela mela mela mela</div>
-<div class="trans-lyric">Ere mela mela mela mela mela mela</div>
 </div>
 
 <div class="lyric-line">

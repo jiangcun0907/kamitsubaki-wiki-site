@@ -36,8 +36,6 @@ image: /images/albums/koko/prayer.jpg
 [00:00.90]Maybe we are choosing to be in a dystopia
 </div>
 <div class="cn-lyric">[00:00.90]也许我们正在选择生活在一个反乌托邦中</div>
-<div class="cn-lyric">[00:00.90]也许我们正在选择生活在一个反乌托邦中</div>
-<div class="cn-lyric">[00:00.90]也许我们正在选择生活在一个反乌托邦中</div>
 </div>
 
 <div class="lyric-line">
@@ -52,15 +50,12 @@ image: /images/albums/koko/prayer.jpg
 [00:13.64]Why do I have such a strong desire to still be alive?
 </div>
 <div class="cn-lyric">[00:13.64]为何我仍有如此强烈的生存渴望？</div>
-<div class="cn-lyric">[00:13.64]为何我仍有如此强烈的生存渴望？</div>
-<div class="cn-lyric">[00:13.64]为何我仍有如此强烈的生存渴望？</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:20.02]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>核<rt class="furi">かく</rt><rt class="roma">kaku</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>成<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>フリージア<rt class="roma">furiijia</rt></ruby>
 </div>
-<div class="cn-lyric">[00:20.02]构成我核心的小苍兰</div>
 <div class="cn-lyric">[00:20.02]构成我核心的小苍兰</div>
 </div>
 
@@ -185,7 +180,6 @@ image: /images/albums/koko/prayer.jpg
 <div class="jp-lyric">
 [01:43.21]<ruby>それ<rt class="roma">sore</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>良<rt class="furi">よ</rt><rt class="roma">yo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby>
 </div>
-<div class="cn-lyric">[01:43.21]仅此就好</div>
 <div class="cn-lyric">[01:43.21]仅此就好</div>
 </div>
 

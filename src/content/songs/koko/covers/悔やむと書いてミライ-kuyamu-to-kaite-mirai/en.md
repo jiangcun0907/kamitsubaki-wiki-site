@@ -38,7 +38,6 @@ image: /images/albums/koko/arare-live.jpg
 [00:34.16]<ruby>いい<rt class="roma">ii</rt></ruby><ruby>のに<rt class="roma">noni</rt></ruby><ruby>な<rt class="roma">na</rt></ruby> <ruby>いい<rt class="roma">ii</rt></ruby><ruby>のに<rt class="roma">noni</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
 <div class="trans-lyric">That would be nice, that would be nice</div>
-<div class="trans-lyric">That would be nice, that would be nice</div>
 </div>
 
 <div class="lyric-line">
@@ -84,14 +83,12 @@ image: /images/albums/koko/arare-live.jpg
 [00:59.54]<ruby>死<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby> <ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>以上<rt class="furi">いじょう</rt><rt class="roma">ijou</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">I want to die, I want to disappear, nothing more</div>
-<div class="trans-lyric">I want to die, I want to disappear, nothing more</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:02.09]<ruby>こんな<rt class="roma">konna</rt></ruby><ruby>命<rt class="furi">いのち</rt><rt class="roma">inochi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>期待<rt class="furi">きたい</rt><rt class="roma">kitai</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby>
 </div>
-<div class="trans-lyric">I don't expect anything from a life like this</div>
 <div class="trans-lyric">I don't expect anything from a life like this</div>
 </div>
 
@@ -100,14 +97,12 @@ image: /images/albums/koko/arare-live.jpg
 [01:04.43]<ruby>故<rt class="furi">ゆえ</rt><rt class="roma">yue</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>魘<rt class="furi">うな</rt><rt class="roma">una</rt></ruby><ruby>され<rt class="roma">sare</rt></ruby>
 </div>
 <div class="trans-lyric">Thus I am tormented by dreams</div>
-<div class="trans-lyric">Thus I am tormented by dreams</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:07.08]<ruby>塞<rt class="furi">せ</rt><rt class="roma">se</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>過去<rt class="furi">かこ</rt><rt class="roma">kako</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>咲<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby>
 </div>
-<div class="trans-lyric">A world blooming in a sealed-off past</div>
 <div class="trans-lyric">A world blooming in a sealed-off past</div>
 </div>
 
@@ -116,14 +111,12 @@ image: /images/albums/koko/arare-live.jpg
 [01:09.51]<ruby>癒<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> <ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>傷<rt class="furi">きず</rt><rt class="roma">kizu</rt></ruby><ruby>ほど<rt class="roma">hodo</rt></ruby>
 </div>
 <div class="trans-lyric">Wounds that never heal, that aren't seen</div>
-<div class="trans-lyric">Wounds that never heal, that aren't seen</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:11.87]<ruby>きっと<rt class="roma">kitto</rt></ruby><ruby>瘡蓋<rt class="furi">かさぶた</rt><rt class="roma">kasabuta</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby><ruby>出来<rt class="furi">でき</rt><rt class="roma">deki</rt></ruby><ruby>やし<rt class="roma">yashi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>と<rt class="roma">to</rt></ruby>
 </div>
-<div class="trans-lyric">Surely won't even form a scab</div>
 <div class="trans-lyric">Surely won't even form a scab</div>
 </div>
 
@@ -132,15 +125,12 @@ image: /images/albums/koko/arare-live.jpg
 [01:14.75]<ruby>ボク<rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby> <ruby>あぁ<rt class="roma">aa</rt></ruby>
 </div>
 <div class="trans-lyric">I knew it, ah</div>
-<div class="trans-lyric">I knew it, ah</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:18.36]<ruby>悔<rt class="furi">く</rt><rt class="roma">ku</rt></ruby><ruby>やむ<rt class="roma">yamu</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>書<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ミライ<rt class="roma">mirai</rt></ruby>
 </div>
-<div class="trans-lyric">Regret is written as 'future'</div>
-<div class="trans-lyric">Regret is written as 'future'</div>
 <div class="trans-lyric">Regret is written as 'future'</div>
 </div>
 

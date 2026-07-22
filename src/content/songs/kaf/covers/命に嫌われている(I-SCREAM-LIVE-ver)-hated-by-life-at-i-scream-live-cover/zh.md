@@ -132,9 +132,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [01:05.09]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>命<rt class="furi">いのち</rt><rt class="roma">inochi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>嫌<rt class="furi">きら</rt><rt class="roma">kira</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby>
 </div>
 <div class="cn-lyric">[01:05.09]我们被生命厌恶着</div>
-<div class="cn-lyric">我们被生命厌恶着</div>
-<div class="cn-lyric">我们被生命厌恶着</div>
-<div class="cn-lyric">我们被生命厌恶着</div>
 </div>
 
 <div class="lyric-line">

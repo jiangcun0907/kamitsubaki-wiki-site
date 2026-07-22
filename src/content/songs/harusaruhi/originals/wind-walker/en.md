@@ -225,8 +225,6 @@ Wind walker appears on 心獣 or a related official release. Entries are version
 [01:25.750]Wind walker
 </div>
 <div class="trans-lyric">[01:25.750]Wind walker</div>
-<div class="trans-lyric">Wind walker</div>
-<div class="trans-lyric">Wind walker</div>
 </div>
 
 <div class="lyric-line">
@@ -234,7 +232,6 @@ Wind walker appears on 心獣 or a related official release. Entries are version
 [01:26.980]<ruby>そう<rt class="roma">sou</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby> <ruby>ファンファーレ<rt class="roma">fuanfuaare</rt></ruby><ruby>響<rt class="furi">ひび</rt><rt class="roma">hibi</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>渡<rt class="furi">わた</rt><rt class="roma">wata</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby>
 </div>
 <div class="trans-lyric">[01:26.980]That's right, let the fanfare resound</div>
-<div class="trans-lyric">That's right, let the fanfare resound</div>
 </div>
 
 <div class="lyric-line">
@@ -242,7 +239,6 @@ Wind walker appears on 心獣 or a related official release. Entries are version
 [01:31.159]<ruby>鍵<rt class="furi">かぎ</rt><rt class="roma">kagi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>錆<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>び<rt class="roma">bi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>壊<rt class="furi">こわ</rt><rt class="roma">kowa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="trans-lyric">[01:31.159]The key was rusted and broken</div>
-<div class="trans-lyric">The key was rusted and broken</div>
 </div>
 
 <div class="lyric-line">
@@ -250,7 +246,6 @@ Wind walker appears on 心獣 or a related official release. Entries are version
 [01:33.913]<ruby>何処<rt class="furi">どこ</rt><rt class="roma">doko</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>ける<rt class="roma">keru</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby>
 </div>
 <div class="trans-lyric">[01:33.913]I learned I can go anywhere</div>
-<div class="trans-lyric">I learned I can go anywhere</div>
 </div>
 
 <div class="lyric-line">
@@ -258,8 +253,6 @@ Wind walker appears on 心獣 or a related official release. Entries are version
 [01:36.700]Jump over
 </div>
 <div class="trans-lyric">[01:36.700]Jump over</div>
-<div class="trans-lyric">Jump over</div>
-<div class="trans-lyric">Jump over</div>
 </div>
 
 <div class="lyric-line">
@@ -267,7 +260,6 @@ Wind walker appears on 心獣 or a related official release. Entries are version
 [01:38.082]<ruby>どんな<rt class="roma">donna</rt></ruby><ruby>強風<rt class="furi">きょうふう</rt><rt class="roma">kyoufuu</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby><ruby>厭<rt class="furi">いと</rt><rt class="roma">ito</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">[01:38.082]I don't mind any strong wind</div>
-<div class="trans-lyric">I don't mind any strong wind</div>
 </div>
 
 <div class="lyric-line">
@@ -275,7 +267,6 @@ Wind walker appears on 心獣 or a related official release. Entries are version
 [01:42.284]<ruby>不恰好<rt class="furi">ぶかっこう</rt><rt class="roma">bukakkou</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>飛<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>び<rt class="roma">bi</rt></ruby><ruby>方<rt class="furi">かた</rt><rt class="roma">kata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ピーター<rt class="roma">piitaa</rt></ruby>
 </div>
 <div class="trans-lyric">[01:42.284]Peter with his clumsy way of flying</div>
-<div class="trans-lyric">Peter with his clumsy way of flying</div>
 </div>
 
 <div class="lyric-line">
@@ -353,7 +344,6 @@ Wind walker appears on 心獣 or a related official release. Entries are version
 [02:10.457]<ruby>そんな<rt class="roma">sonna</rt></ruby><ruby>奇跡<rt class="furi">きせき</rt><rt class="roma">kiseki</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>起<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>こる<rt class="roma">koru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
 </div>
 <div class="trans-lyric">[02:10.457]If such a miracle occurs</div>
-<div class="trans-lyric">If such a miracle occurs</div>
 </div>
 
 <div class="lyric-line">
@@ -451,7 +441,6 @@ Wind walker appears on 心獣 or a related official release. Entries are version
 [02:32.892]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>信<rt class="furi">しん</rt><rt class="roma">shin</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>踏み出<rt class="furi">ふみだ</rt><rt class="roma">fumida</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="trans-lyric">[02:32.892]I stepped forward, believing in you</div>
-<div class="trans-lyric">I stepped forward, believing in you</div>
 </div>
 
 <div class="lyric-line">

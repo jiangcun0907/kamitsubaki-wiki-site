@@ -150,26 +150,12 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [01:12.16]Good night
 </div>
 <div class="cn-lyric">[01:12.16]晚安</div>
-<div class="cn-lyric">[01:12.16]晚安</div>
-<div class="cn-lyric">[01:12.16]晚安</div>
-<div class="cn-lyric">[01:12.16]晚安</div>
-<div class="cn-lyric">[01:12.16]晚安</div>
-<div class="cn-lyric">[01:12.16]晚安</div>
-<div class="cn-lyric">[01:12.16]晚安</div>
-<div class="cn-lyric">[01:12.16]晚安</div>
-<div class="cn-lyric">[01:12.16]晚安</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:17.10]Good night, good night, good night, good night
 </div>
-<div class="cn-lyric">[01:17.10]晚安 晚安 晚安 晚安</div>
-<div class="cn-lyric">[01:17.10]晚安 晚安 晚安 晚安</div>
-<div class="cn-lyric">[01:17.10]晚安 晚安 晚安 晚安</div>
-<div class="cn-lyric">[01:17.10]晚安 晚安 晚安 晚安</div>
-<div class="cn-lyric">[01:17.10]晚安 晚安 晚安 晚安</div>
-<div class="cn-lyric">[01:17.10]晚安 晚安 晚安 晚安</div>
 <div class="cn-lyric">[01:17.10]晚安 晚安 晚安 晚安</div>
 </div>
 

@@ -36,8 +36,6 @@ image: /images/albums/isekaijoucho/virtual-ties.jpg
 [00:00.92]<ruby>大切<rt class="furi">たいせつ</rt><rt class="roma">taisetsu</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>ひとつ<rt class="roma">hitotsu</rt></ruby>
 </div>
 <div class="cn-lyric">[00:00.92]一个重要的事情</div>
-<div class="cn-lyric">[00:00.92]一个重要的事情</div>
-<div class="cn-lyric">[00:00.92]一个重要的事情</div>
 </div>
 
 <div class="lyric-line">
@@ -45,16 +43,12 @@ image: /images/albums/isekaijoucho/virtual-ties.jpg
 [00:03.90]<ruby>羅針盤<rt class="furi">らしんばん</rt><rt class="roma">rashinban</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[00:03.90]当作指南针</div>
-<div class="cn-lyric">[00:03.90]当作指南针</div>
-<div class="cn-lyric">[00:03.90]当作指南针</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:03.90]<ruby>新<rt class="furi">あたら</rt><rt class="roma">atara</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>奇跡<rt class="furi">きせき</rt><rt class="roma">kiseki</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>！
 </div>
-<div class="cn-lyric">[00:03.90]向着新的奇迹！</div>
-<div class="cn-lyric">[00:03.90]向着新的奇迹！</div>
 <div class="cn-lyric">[00:03.90]向着新的奇迹！</div>
 </div>
 
@@ -147,7 +141,6 @@ image: /images/albums/isekaijoucho/virtual-ties.jpg
 [01:02.80]<ruby>始<rt class="furi">はじ</rt><rt class="roma">haji</rt></ruby><ruby>まる<rt class="roma">maru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:02.80]开始了哦</div>
-<div class="cn-lyric">[01:02.80]开始了哦</div>
 </div>
 
 <div class="lyric-line">
@@ -155,14 +148,12 @@ image: /images/albums/isekaijoucho/virtual-ties.jpg
 [01:03.64]<ruby>光<rt class="furi">ひかり</rt><rt class="roma">hikari</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ステージ<rt class="roma">suteeji</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby><ruby>駆け出<rt class="furi">かけだ</rt><rt class="roma">kakeda</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:03.64]向着光芒的舞台奔跑而去</div>
-<div class="cn-lyric">[01:03.64]向着光芒的舞台奔跑而去</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:08.29]<ruby>ひとり<rt class="roma">hitori</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="cn-lyric">[01:08.29]不是一个人</div>
 <div class="cn-lyric">[01:08.29]不是一个人</div>
 </div>
 
@@ -178,14 +169,12 @@ image: /images/albums/isekaijoucho/virtual-ties.jpg
 [01:09.73]<ruby>これ<rt class="roma">kore</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>奏<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>ストーリー<rt class="roma">sutourii</rt></ruby>
 </div>
 <div class="cn-lyric">[01:09.73]这是与你共同演奏的故事</div>
-<div class="cn-lyric">[01:09.73]这是与你共同演奏的故事</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:14.58]<ruby>壮大<rt class="furi">そうだい</rt><rt class="roma">soudai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>野望<rt class="furi">やぼう</rt><rt class="roma">yabou</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>描き出<rt class="furi">えがきだ</rt><rt class="roma">egakida</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="cn-lyric">[01:14.58]连宏大的野心也描绘出来</div>
 <div class="cn-lyric">[01:14.58]连宏大的野心也描绘出来</div>
 </div>
 
@@ -200,7 +189,6 @@ image: /images/albums/isekaijoucho/virtual-ties.jpg
 <div class="jp-lyric">
 [01:19.52]<ruby>信<rt class="furi">しん</rt><rt class="roma">shin</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>、<ruby>足<rt class="furi">あし</rt><rt class="roma">ashi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>また<rt class="roma">mata</rt></ruby><ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>歩<rt class="furi">ほ</rt><rt class="roma">ho</rt></ruby><ruby>踏み出<rt class="furi">ふみだ</rt><rt class="roma">fumida</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
-<div class="cn-lyric">[01:19.52]相信吧，再向前踏出一步</div>
 <div class="cn-lyric">[01:19.52]相信吧，再向前踏出一步</div>
 </div>
 
@@ -221,14 +209,12 @@ image: /images/albums/isekaijoucho/virtual-ties.jpg
 [01:27.56](only one thing)
 </div>
 <div class="cn-lyric">[01:27.56](only one thing)</div>
-<div class="cn-lyric">[01:27.56](only one thing)</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:30.08]<ruby>失<rt class="furi">しつ</rt><rt class="roma">shitsu</rt></ruby><ruby>くさ<rt class="roma">kusa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
-<div class="cn-lyric">[01:30.08]为了不失去</div>
 <div class="cn-lyric">[01:30.08]为了不失去</div>
 </div>
 

@@ -91,7 +91,6 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:39.59]<ruby>正面<rt class="furi">しょうめん</rt><rt class="roma">shoumen</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>横<rt class="furi">よこ</rt><rt class="roma">yoko</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>下<rt class="furi">した</rt><rt class="roma">shita</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>女<rt class="furi">おんな</rt><rt class="roma">onna</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>困<rt class="furi">こま</rt><rt class="roma">koma</rt></ruby><ruby>っちゃう<rt class="roma">tchau</rt></ruby>
 </div>
 <div class="cn-lyric">[00:39.59]无论从正面看、从侧面看、从下面看都是好女人，真让人困扰</div>
-<div class="cn-lyric">[00:39.59]无论从正面看、从侧面看、从下面看都是好女人，真让人困扰</div>
 </div>
 
 <div class="lyric-line">
@@ -99,14 +98,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:47.57]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>全<rt class="furi">ぜん</rt><rt class="roma">zen</rt></ruby><ruby>方向<rt class="furi">ほうこう</rt><rt class="roma">houkou</rt></ruby><ruby>美少女<rt class="furi">びしょうじょ</rt><rt class="roma">bishoujo</rt></ruby> <ruby>ねぇ<rt class="roma">nee</rt></ruby><ruby>困<rt class="furi">こま</rt><rt class="roma">koma</rt></ruby><ruby>っちゃう<rt class="roma">tchau</rt></ruby>
 </div>
 <div class="cn-lyric">[00:47.57]你是全方位美少女，呐，真让人困扰</div>
-<div class="cn-lyric">[00:47.57]你是全方位美少女，呐，真让人困扰</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:52.99]<ruby>妬<rt class="furi">ねた</rt><rt class="roma">neta</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>嫉<rt class="furi">そね</rt><rt class="roma">sone</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>全部<rt class="furi">ぜんぶ</rt><rt class="roma">zenbu</rt></ruby><ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>として<rt class="roma">toshite</rt></ruby><ruby>受け取<rt class="furi">うけと</rt><rt class="roma">uketo</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="cn-lyric">[00:52.99]嫉妒与羡慕也全部当作爱来接受哦</div>
 <div class="cn-lyric">[00:52.99]嫉妒与羡慕也全部当作爱来接受哦</div>
 </div>
 
@@ -117,16 +114,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:56.34]Eyes on you every time I find out you
 </div>
 <div class="cn-lyric">[00:56.34]Eyes on you every time I find out you</div>
-<div class="cn-lyric">[00:56.34]Eyes on you every time I find out you</div>
-<div class="cn-lyric">[00:56.34]Eyes on you every time I find out you</div>
-<div class="cn-lyric">[00:56.34]Eyes on you every time I find out you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:58.49]You're the fire or ice or sweet sweet dream
 </div>
-<div class="cn-lyric">[00:58.49]You're the fire or ice or sweet sweet dream</div>
 <div class="cn-lyric">[00:58.49]You're the fire or ice or sweet sweet dream</div>
 </div>
 

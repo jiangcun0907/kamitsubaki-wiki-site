@@ -174,14 +174,12 @@ SP : <ruby>墨<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby>德<r
 你转过<ruby>了<rt class="furi">りょう</rt><rt class="roma">ryou</rt></ruby>头假<ruby>装<rt class="furi">そう</rt><rt class="roma">sou</rt></ruby><ruby>不<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>去<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>在<rt class="furi">ざい</rt><rt class="roma">zai</rt></ruby>乎
 </div>
 <div class="cn-lyric">你转过了头假装不去在乎</div>
-<div class="cn-lyric">你转过了头假装不去在乎</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 过<ruby>期<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>了<rt class="furi">りょう</rt><rt class="roma">ryou</rt></ruby><ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby><ruby>糖<rt class="furi">とう</rt><rt class="roma">tou</rt></ruby>纸拆开<ruby>包<rt class="furi">つつみ</rt><rt class="roma">tsutsumi</rt></ruby><ruby>着<rt class="furi">ぎ</rt><rt class="roma">gi</rt></ruby><ruby>苦<rt class="furi">く</rt><rt class="roma">ku</rt></ruby>
 </div>
-<div class="cn-lyric">过期了的糖纸拆开包着苦</div>
 <div class="cn-lyric">过期了的糖纸拆开包着苦</div>
 </div>
 
@@ -190,14 +188,12 @@ SP : <ruby>墨<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby>德<r
 <ruby>想起<rt class="furi">そうき</rt><rt class="roma">souki</rt></ruby>曾经<ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby>甜份<ruby>再<rt class="furi">さい</rt><rt class="roma">sai</rt></ruby>浓<ruby>再<rt class="furi">さい</rt><rt class="roma">sai</rt></ruby>浓
 </div>
 <div class="cn-lyric">想起曾经的甜份再浓再浓</div>
-<div class="cn-lyric">想起曾经的甜份再浓再浓</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 撑<ruby>到<rt class="furi">いた</rt><rt class="roma">ita</rt></ruby>现<ruby>在<rt class="furi">ざい</rt><rt class="roma">zai</rt></ruby><ruby>早<rt class="furi">はや</rt><rt class="roma">haya</rt></ruby><ruby>没<rt class="furi">ぼつ</rt><rt class="roma">botsu</rt></ruby>什么<ruby>用<rt class="furi">よう</rt><rt class="roma">you</rt></ruby>
 </div>
-<div class="cn-lyric">撑到现在早没什么用</div>
 <div class="cn-lyric">撑到现在早没什么用</div>
 </div>
 
@@ -206,14 +202,12 @@ SP : <ruby>墨<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby>德<r
 你总<ruby>花<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby>时间<ruby>埋<rt class="furi">うま</rt><rt class="roma">uma</rt></ruby>怨<ruby>我<rt class="furi">わが</rt><rt class="roma">waga</rt></ruby><ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby>态<ruby>度<rt class="furi">ど</rt><rt class="roma">do</rt></ruby>
 </div>
 <div class="cn-lyric">你总花时间埋怨我的态度</div>
-<div class="cn-lyric">你总花时间埋怨我的态度</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 伤<ruby>人的<rt class="furi">じんてき</rt><rt class="roma">jinteki</rt></ruby>话说<ruby>出口<rt class="furi">いでぐち</rt><rt class="roma">ideguchi</rt></ruby><ruby>不<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>由<rt class="furi">よし</rt><rt class="roma">yoshi</rt></ruby><ruby>自主<rt class="furi">じしゅ</rt><rt class="roma">jishu</rt></ruby>
 </div>
-<div class="cn-lyric">伤人的话说出口不由自主</div>
 <div class="cn-lyric">伤人的话说出口不由自主</div>
 </div>
 
@@ -222,14 +216,12 @@ SP : <ruby>墨<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby>德<r
 你说<ruby>退出<rt class="furi">たいしゅつ</rt><rt class="roma">taishutsu</rt></ruby>也<ruby>算<rt class="furi">さん</rt><rt class="roma">san</rt></ruby><ruby>是<rt class="furi">ぜ</rt><rt class="roma">ze</rt></ruby><ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby>种<ruby>解脱<rt class="furi">げだつ</rt><rt class="roma">gedatsu</rt></ruby>
 </div>
 <div class="cn-lyric">你说退出也算是一种解脱</div>
-<div class="cn-lyric">你说退出也算是一种解脱</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>再<rt class="furi">さい</rt><rt class="roma">sai</rt></ruby><ruby>不<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>提<rt class="furi">ひさげ</rt><rt class="roma">hisage</rt></ruby><ruby>又<rt class="furi">また</rt><rt class="roma">mata</rt></ruby>很<ruby>久<rt class="furi">ひさ</rt><rt class="roma">hisa</rt></ruby><ruby>才<rt class="furi">さい</rt><rt class="roma">sai</rt></ruby>懂
 </div>
-<div class="cn-lyric">再不提又很久才懂</div>
 <div class="cn-lyric">再不提又很久才懂</div>
 </div>
 
@@ -405,7 +397,6 @@ SP : <ruby>墨<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby>德<r
 <ruby>不<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby>记<ruby>得<rt class="furi">とく</rt><rt class="roma">toku</rt></ruby><ruby>我<rt class="furi">わが</rt><rt class="roma">waga</rt></ruby>总骗<ruby>自己<rt class="furi">じこ</rt><rt class="roma">jiko</rt></ruby><ruby>不<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby>记<ruby>得<rt class="furi">とく</rt><rt class="roma">toku</rt></ruby>
 </div>
 <div class="cn-lyric">不记得我总骗自己不记得</div>
-<div class="cn-lyric">不记得我总骗自己不记得</div>
 </div>
 
 <div class="lyric-line">
@@ -413,14 +404,12 @@ SP : <ruby>墨<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby>德<r
 <ruby>不<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby>记<ruby>得<rt class="furi">とく</rt><rt class="roma">toku</rt></ruby><ruby>再<rt class="furi">さい</rt><rt class="roma">sai</rt></ruby>怎么骗<ruby>我<rt class="furi">わが</rt><rt class="roma">waga</rt></ruby>也<ruby>都<rt class="furi">と</rt><rt class="roma">to</rt></ruby>记<ruby>得<rt class="furi">とく</rt><rt class="roma">toku</rt></ruby>
 </div>
 <div class="cn-lyric">不记得再怎么骗我也都记得</div>
-<div class="cn-lyric">不记得再怎么骗我也都记得</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>不<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby>记<ruby>得<rt class="furi">とく</rt><rt class="roma">toku</rt></ruby><ruby>最<rt class="furi">さい</rt><rt class="roma">sai</rt></ruby><ruby>后<rt class="furi">きさき</rt><rt class="roma">kisaki</rt></ruby><ruby>好<rt class="furi">よしみ</rt><rt class="roma">yoshimi</rt></ruby><ruby>像<rt class="furi">ぞう</rt><rt class="roma">zou</rt></ruby><ruby>真<rt class="furi">しん</rt><rt class="roma">shin</rt></ruby><ruby>的<rt class="furi">てき</rt><rt class="roma">teki</rt></ruby><ruby>不<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby>记<ruby>得<rt class="furi">とく</rt><rt class="roma">toku</rt></ruby>
 </div>
-<div class="cn-lyric">不记得最后好像真的不记得</div>
 <div class="cn-lyric">不记得最后好像真的不记得</div>
 </div>
 

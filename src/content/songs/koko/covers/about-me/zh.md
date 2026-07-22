@@ -31,14 +31,12 @@ image: /images/albums/koko/arare-live.jpg
 I have a story to tell
 </div>
 <div class="cn-lyric">我有一个故事要讲</div>
-<div class="cn-lyric">我有一个故事要讲</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Do you hear me tonight
 </div>
-<div class="cn-lyric">今晚你听到我吗</div>
 <div class="cn-lyric">今晚你听到我吗</div>
 </div>
 
@@ -47,7 +45,6 @@ Do you hear me tonight
 It's things about me
 </div>
 <div class="cn-lyric">是关于我的事</div>
-<div class="cn-lyric">是关于我的事</div>
 </div>
 
 <div class="lyric-line">
@@ -55,14 +52,12 @@ It's things about me
 I'll be waiting in bedroom
 </div>
 <div class="cn-lyric">我会在卧室里等</div>
-<div class="cn-lyric">我会在卧室里等</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 But anyway you can't come
 </div>
-<div class="cn-lyric">但反正你来不了</div>
 <div class="cn-lyric">但反正你来不了</div>
 </div>
 
@@ -120,14 +115,12 @@ I couldn't careless
 It's wonderful for me that world
 </div>
 <div class="cn-lyric">对我来说很美好，世界</div>
-<div class="cn-lyric">对我来说很美好，世界</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 is moving now
 </div>
-<div class="cn-lyric">正在转动</div>
 <div class="cn-lyric">正在转动</div>
 </div>
 
@@ -136,14 +129,12 @@ is moving now
 Some lights turn around and
 </div>
 <div class="cn-lyric">有些灯光旋转着</div>
-<div class="cn-lyric">有些灯光旋转着</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 around
 </div>
-<div class="cn-lyric">旋转</div>
 <div class="cn-lyric">旋转</div>
 </div>
 
@@ -152,14 +143,12 @@ around
 I lost my head again
 </div>
 <div class="cn-lyric">我再次失去理智</div>
-<div class="cn-lyric">我再次失去理智</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 And just want to throw
 </div>
-<div class="cn-lyric">只想扔掉</div>
 <div class="cn-lyric">只想扔掉</div>
 </div>
 
@@ -168,14 +157,12 @@ And just want to throw
 everything away
 </div>
 <div class="cn-lyric">一切</div>
-<div class="cn-lyric">一切</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 It's not that easy
 </div>
-<div class="cn-lyric">没那么容易</div>
 <div class="cn-lyric">没那么容易</div>
 </div>
 
@@ -184,16 +171,12 @@ It's not that easy
 Maybe I'm afraid I'm not as
 </div>
 <div class="cn-lyric">也许我害怕我不像</div>
-<div class="cn-lyric">也许我害怕我不像</div>
-<div class="cn-lyric">也许我害怕我不像</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 tender guy as you think
 </div>
-<div class="cn-lyric">你以为的那样温柔</div>
-<div class="cn-lyric">你以为的那样温柔</div>
 <div class="cn-lyric">你以为的那样温柔</div>
 </div>
 
@@ -202,14 +185,12 @@ tender guy as you think
 Looking your eyes, and I say
 </div>
 <div class="cn-lyric">看着你的眼睛，我说</div>
-<div class="cn-lyric">看着你的眼睛，我说</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 &quot;love you&quot; with fake smile
 </div>
-<div class="cn-lyric">假装微笑说“爱你”</div>
 <div class="cn-lyric">假装微笑说“爱你”</div>
 </div>
 
@@ -218,16 +199,12 @@ Looking your eyes, and I say
 I don't know what to do
 </div>
 <div class="cn-lyric">我不知道该怎么办</div>
-<div class="cn-lyric">我不知道该怎么办</div>
-<div class="cn-lyric">我不知道该怎么办</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Please tell me what should I do
 </div>
-<div class="cn-lyric">请告诉我该怎么做</div>
-<div class="cn-lyric">请告诉我该怎么做</div>
 <div class="cn-lyric">请告诉我该怎么做</div>
 </div>
 
@@ -236,7 +213,6 @@ Please tell me what should I do
 Just feel so sad inside, but I
 </div>
 <div class="cn-lyric">内心如此悲伤，但我</div>
-<div class="cn-lyric">内心如此悲伤，但我</div>
 </div>
 
 <div class="lyric-line">
@@ -244,14 +220,12 @@ Just feel so sad inside, but I
 kiss you
 </div>
 <div class="cn-lyric">吻你</div>
-<div class="cn-lyric">吻你</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Kiss you...
 </div>
-<div class="cn-lyric">吻你...</div>
 <div class="cn-lyric">吻你...</div>
 </div>
 

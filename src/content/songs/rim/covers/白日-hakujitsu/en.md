@@ -80,14 +80,12 @@ image: /images/albums/rim/chocolate-live.jpg
 [00:34.76]<ruby>明日<rt class="furi">あした</rt><rt class="roma">ashita</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>歩<rt class="furi">ある</rt><rt class="roma">aru</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>出<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>なきゃ<rt class="roma">nakya</rt></ruby>
 </div>
 <div class="trans-lyric">I have to start walking toward tomorrow</div>
-<div class="trans-lyric">I have to start walking toward tomorrow</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:39.32]<ruby>雪<rt class="furi">ゆき</rt><rt class="roma">yuki</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>降<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>りしきろ<rt class="roma">rishikiro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>とも<rt class="roma">tomo</rt></ruby>
 </div>
-<div class="trans-lyric">Even if snow falls heavily</div>
 <div class="trans-lyric">Even if snow falls heavily</div>
 </div>
 
@@ -145,7 +143,6 @@ image: /images/albums/rim/chocolate-live.jpg
 [00:58.44]<ruby>また<rt class="roma">mata</rt></ruby><ruby>出逢<rt class="furi">であ</rt><rt class="roma">dea</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>たら<rt class="roma">tara</rt></ruby>
 </div>
 <div class="trans-lyric">If we meet again</div>
-<div class="trans-lyric">If we meet again</div>
 </div>
 
 <div class="lyric-line">
@@ -167,14 +164,12 @@ image: /images/albums/rim/chocolate-live.jpg
 [01:02.07]<ruby>その<rt class="roma">sono</rt></ruby><ruby>頃<rt class="furi">ころ</rt><rt class="roma">koro</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>きっと<rt class="roma">kitto</rt></ruby>
 </div>
 <div class="trans-lyric">By that time, surely</div>
-<div class="trans-lyric">By that time, surely</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:05.42]<ruby>春風<rt class="furi">しゅんぷう</rt><rt class="roma">shunpuu</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>吹<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>だろ<rt class="roma">daro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="trans-lyric">The spring breeze will blow</div>
 <div class="trans-lyric">The spring breeze will blow</div>
 </div>
 
@@ -183,8 +178,6 @@ image: /images/albums/rim/chocolate-live.jpg
 [01:09.63]<ruby>真<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>っ<rt class="roma"></rt></ruby><ruby>新<rt class="furi">しん</rt><rt class="roma">shin</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>生まれ変<rt class="furi">うまれか</rt><rt class="roma">umareka</rt></ruby><ruby>わって<rt class="roma">watte</rt></ruby>
 </div>
 <div class="trans-lyric">Reborn brand new</div>
-<div class="trans-lyric">Reborn brand new</div>
-<div class="trans-lyric">Reborn brand new</div>
 </div>
 
 <div class="lyric-line">
@@ -192,15 +185,12 @@ image: /images/albums/rim/chocolate-live.jpg
 [01:12.02]<ruby>人生<rt class="furi">じんせい</rt><rt class="roma">jinsei</rt></ruby><ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>始<rt class="furi">はじ</rt><rt class="roma">haji</rt></ruby><ruby>めよ<rt class="roma">meyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
 </div>
 <div class="trans-lyric">Even if I start life from scratch</div>
-<div class="trans-lyric">Even if I start life from scratch</div>
-<div class="trans-lyric">Even if I start life from scratch</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:14.71]<ruby>へばりつい<rt class="roma">hebaritsui</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>離<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="trans-lyric">Clinging and not letting go</div>
 <div class="trans-lyric">Clinging and not letting go</div>
 </div>
 
@@ -216,15 +206,12 @@ image: /images/albums/rim/chocolate-live.jpg
 [01:20.11]<ruby>真っ白<rt class="furi">まっしろ</rt><rt class="roma">masshiro</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>全<rt class="furi">すべ</rt><rt class="roma">sube</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>さよなら<rt class="roma">sayonara</rt></ruby>
 </div>
 <div class="trans-lyric">Goodbye to everything, pure white</div>
-<div class="trans-lyric">Goodbye to everything, pure white</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:22.53]<ruby>降<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>りしきる<rt class="roma">rishikiru</rt></ruby><ruby>雪<rt class="furi">ゆき</rt><rt class="roma">yuki</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">Oh, falling snow</div>
-<div class="trans-lyric">Oh, falling snow</div>
 <div class="trans-lyric">Oh, falling snow</div>
 </div>
 
@@ -233,7 +220,6 @@ image: /images/albums/rim/chocolate-live.jpg
 [01:24.27]<ruby>全<rt class="furi">すべ</rt><rt class="roma">sube</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>包み込<rt class="furi">つつみこ</rt><rt class="roma">tsutsumiko</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>くれ<rt class="roma">kure</rt></ruby>
 </div>
 <div class="trans-lyric">Wrap everything up</div>
-<div class="trans-lyric">Wrap everything up</div>
 </div>
 
 <div class="lyric-line">
@@ -241,14 +227,12 @@ image: /images/albums/rim/chocolate-live.jpg
 [01:26.75]<ruby>今日<rt class="furi">きょう</rt><rt class="roma">kyou</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="trans-lyric">Just for today</div>
-<div class="trans-lyric">Just for today</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:27.92]<ruby>全<rt class="furi">すべ</rt><rt class="roma">sube</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>隠<rt class="furi">かく</rt><rt class="roma">kaku</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>くれ<rt class="roma">kure</rt></ruby>
 </div>
-<div class="trans-lyric">Hide everything</div>
 <div class="trans-lyric">Hide everything</div>
 </div>
 

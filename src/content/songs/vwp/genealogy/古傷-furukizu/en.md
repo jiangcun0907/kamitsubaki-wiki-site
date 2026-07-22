@@ -78,14 +78,12 @@ image: /images/albums/vwp/proliferation.jpg
 [00:53.39]<ruby>窮屈<rt class="furi">きゅうくつ</rt><rt class="roma">kyuukutsu</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>憂鬱<rt class="furi">ゆううつ</rt><rt class="roma">yuuutsu</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>苦<rt class="furi">くる</rt><rt class="roma">kuru</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
 </div>
 <div class="trans-lyric">So cramped, gloomy, and painful</div>
-<div class="trans-lyric">So cramped, gloomy, and painful</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:59.57]<ruby>けど<rt class="roma">kedo</rt></ruby><ruby>そんな<rt class="roma">sonna</rt></ruby><ruby>自分<rt class="furi">じぶん</rt><rt class="roma">jibun</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>堪<rt class="furi">たま</rt><rt class="roma">tama</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>おしい<rt class="roma">oshii</rt></ruby>
 </div>
-<div class="trans-lyric">But that self is unbearably dear to me</div>
 <div class="trans-lyric">But that self is unbearably dear to me</div>
 </div>
 
@@ -131,7 +129,6 @@ image: /images/albums/vwp/proliferation.jpg
 [01:23.51]<ruby>もしも<rt class="roma">moshimo</rt></ruby><ruby>話<rt class="furi">はなし</rt><rt class="roma">hanashi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>永遠<rt class="furi">えいえん</rt><rt class="roma">eien</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">If-then stories forever</div>
-<div class="trans-lyric">If-then stories forever</div>
 </div>
 
 <div class="lyric-line">
@@ -139,14 +136,12 @@ image: /images/albums/vwp/proliferation.jpg
 [01:26.92]<ruby>夜道<rt class="furi">よみち</rt><rt class="roma">yomichi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>歩<rt class="furi">ある</rt><rt class="roma">aru</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>名演技<rt class="furi">めいえんぎ</rt><rt class="roma">meiengi</rt></ruby>
 </div>
 <div class="trans-lyric">Walking the night road, a great performance</div>
-<div class="trans-lyric">Walking the night road, a great performance</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:29.80]<ruby>星空<rt class="furi">ほしぞら</rt><rt class="roma">hoshizora</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>縋<rt class="furi">すが</rt><rt class="roma">suga</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>零<rt class="furi">こぼ</rt><rt class="roma">kobo</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby><ruby>流れ星<rt class="furi">ながれぼし</rt><rt class="roma">nagareboshi</rt></ruby>
 </div>
-<div class="trans-lyric">Clinging to the starry sky, spilling shooting stars</div>
 <div class="trans-lyric">Clinging to the starry sky, spilling shooting stars</div>
 </div>
 

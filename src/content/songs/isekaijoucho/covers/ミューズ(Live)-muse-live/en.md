@@ -71,17 +71,12 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 <ruby>ハロー<rt class="roma">harou</rt></ruby><ruby>ミューズ<rt class="roma">myuuzu</rt></ruby>
 </div>
 <div class="trans-lyric">Hello Muse</div>
-<div class="trans-lyric">Hello Muse</div>
-<div class="trans-lyric">Hello Muse</div>
-<div class="trans-lyric">Hello Muse</div>
-<div class="trans-lyric">Hello Muse</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ひらめき<rt class="roma">hirameki</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>源泉<rt class="furi">げんせん</rt><rt class="roma">gensen</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">Oh, source of my inspiration</div>
 <div class="trans-lyric">Oh, source of my inspiration</div>
 </div>
 
@@ -90,7 +85,6 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 <ruby>どこ<rt class="roma">doko</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby> <ruby>さあ<rt class="roma">saa</rt></ruby>
 </div>
 <div class="trans-lyric">To anywhere, come on</div>
-<div class="trans-lyric">To anywhere, come on</div>
 </div>
 
 <div class="lyric-line">
@@ -98,14 +92,12 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 <ruby>エスコート<rt class="roma">esukouto</rt></ruby><ruby>しよ<rt class="roma">shiyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="trans-lyric">Let me escort you</div>
-<div class="trans-lyric">Let me escort you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>この<rt class="roma">kono</rt></ruby><ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>取<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby> <ruby>お<rt class="roma">o</rt></ruby><ruby>連<rt class="furi">つ</rt><rt class="roma">tsu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ましょ<rt class="roma">masho</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="trans-lyric">Take my hand and I'll lead you</div>
 <div class="trans-lyric">Take my hand and I'll lead you</div>
 </div>
 
@@ -120,14 +112,12 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 <ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>たち<rt class="roma">tachi</rt></ruby><ruby>まだ<rt class="roma">mada</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>場所<rt class="furi">ばしょ</rt><rt class="roma">basho</rt></ruby><ruby>ばかり<rt class="roma">bakari</rt></ruby>
 </div>
 <div class="trans-lyric">Only places we've never seen before</div>
-<div class="trans-lyric">Only places we've never seen before</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>この<rt class="roma">kono</rt></ruby><ruby>高<rt class="furi">たか</rt><rt class="roma">taka</rt></ruby><ruby>まり<rt class="roma">mari</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby> <ruby>強<rt class="furi">つよ</rt><rt class="roma">tsuyo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>お<rt class="roma">o</rt></ruby><ruby>酒<rt class="furi">さけ</rt><rt class="roma">sake</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>似<rt class="furi">に</rt><rt class="roma">ni</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>♪
 </div>
-<div class="trans-lyric">This high is like strong liquor ♪</div>
 <div class="trans-lyric">This high is like strong liquor ♪</div>
 </div>
 

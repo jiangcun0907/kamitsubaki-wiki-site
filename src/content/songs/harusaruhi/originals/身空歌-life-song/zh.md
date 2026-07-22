@@ -148,7 +148,6 @@ image: /images/songs/harusaruhi/single-1722255410.jpg
 [01:07.49]<ruby>強<rt class="furi">つよ</rt><rt class="roma">tsuyo</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>時<rt class="furi">とき</rt><rt class="roma">toki</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>刻<rt class="furi">きざ</rt><rt class="roma">kiza</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>鼓動<rt class="furi">こどう</rt><rt class="roma">kodou</rt></ruby>
 </div>
 <div class="cn-lyric">[01:07.49]强烈刻下时间的心跳</div>
-<div class="cn-lyric">[01:07.49]强烈刻下时间的心跳</div>
 </div>
 
 <div class="lyric-line">
@@ -156,14 +155,12 @@ image: /images/songs/harusaruhi/single-1722255410.jpg
 [01:12.59]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>つけ<rt class="roma">tsuke</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>くれ<rt class="roma">kure</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>この<rt class="roma">kono</rt></ruby><ruby>景色<rt class="furi">けしき</rt><rt class="roma">keshiki</rt></ruby>
 </div>
 <div class="cn-lyric">[01:12.59]你为我发现的这片景色</div>
-<div class="cn-lyric">[01:12.59]你为我发现的这片景色</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:18.08]<ruby>祈<rt class="furi">いの</rt><rt class="roma">ino</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>其<ruby>れ<rt class="roma">re</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>縋<rt class="furi">すが</rt><rt class="roma">suga</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby>
 </div>
-<div class="cn-lyric">[01:18.08]如同祈祷般依附于它</div>
 <div class="cn-lyric">[01:18.08]如同祈祷般依附于它</div>
 </div>
 

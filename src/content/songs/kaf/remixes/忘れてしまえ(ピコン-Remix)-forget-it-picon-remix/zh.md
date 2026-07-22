@@ -101,7 +101,6 @@ image: /images/albums/kaf/kansoku-gamma.jpg
 [00:42.34]notice notice
 </div>
 <div class="cn-lyric">[00:42.34]notice notice</div>
-<div class="cn-lyric">[00:42.34]notice notice</div>
 </div>
 
 <div class="lyric-line">
@@ -109,7 +108,6 @@ image: /images/albums/kaf/kansoku-gamma.jpg
 [00:44.73]<ruby>愛<rt class="furi">いと</rt><rt class="roma">ito</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>？<ruby>別<rt class="furi">わか</rt><rt class="roma">waka</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="cn-lyric">[00:44.73]可爱吗？离别</div>
-<div class="cn-lyric">可爱吗？离别</div>
 </div>
 
 <div class="lyric-line">
@@ -123,8 +121,6 @@ image: /images/albums/kaf/kansoku-gamma.jpg
 <div class="jp-lyric">
 [00:52.64]forget forget
 </div>
-<div class="cn-lyric">[00:52.64]forget forget</div>
-<div class="cn-lyric">[00:52.64]forget forget</div>
 <div class="cn-lyric">[00:52.64]forget forget</div>
 </div>
 

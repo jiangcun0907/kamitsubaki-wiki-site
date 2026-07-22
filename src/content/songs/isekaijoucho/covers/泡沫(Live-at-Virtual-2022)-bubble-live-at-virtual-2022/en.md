@@ -37,16 +37,12 @@ image: /images/albums/rim/singularity-live.jpg
 [00:16.42]<ruby>ゆらゆら<rt class="roma">yurayura</rt></ruby><ruby>歪<rt class="furi">いが</rt><rt class="roma">iga</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby>
 </div>
 <div class="trans-lyric">Swaying, distorting</div>
-<div class="trans-lyric">Swaying, distorting</div>
-<div class="trans-lyric">Swaying, distorting</div>
-<div class="trans-lyric">Swaying, distorting</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:20.24]<ruby>泡沫<rt class="furi">ほうまつ</rt><rt class="roma">houmatsu</rt></ruby> <ruby>霞<rt class="furi">かす</rt><rt class="roma">kasu</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby>
 </div>
-<div class="trans-lyric">Bubbles, fading away</div>
 <div class="trans-lyric">Bubbles, fading away</div>
 </div>
 
@@ -55,14 +51,12 @@ image: /images/albums/rim/singularity-live.jpg
 [00:23.98]<ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>灯火<rt class="furi">ともしび</rt><rt class="roma">tomoshibi</rt></ruby>
 </div>
 <div class="trans-lyric">Dream's lantern</div>
-<div class="trans-lyric">Dream's lantern</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:27.45]<ruby>理想<rt class="furi">りそう</rt><rt class="roma">risou</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>戦果<rt class="furi">せんか</rt><rt class="roma">senka</rt></ruby>
 </div>
-<div class="trans-lyric">Harvest of ideals</div>
 <div class="trans-lyric">Harvest of ideals</div>
 </div>
 
@@ -79,7 +73,6 @@ image: /images/albums/rim/singularity-live.jpg
 [00:34.93]<ruby>泡沫<rt class="furi">ほうまつ</rt><rt class="roma">houmatsu</rt></ruby> <ruby>沈<rt class="furi">しず</rt><rt class="roma">shizu</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby>
 </div>
 <div class="trans-lyric">Bubbles, sinking away</div>
-<div class="trans-lyric">Bubbles, sinking away</div>
 </div>
 
 <div class="lyric-line">
@@ -87,14 +80,12 @@ image: /images/albums/rim/singularity-live.jpg
 [00:38.68]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>淘汰<rt class="furi">とうた</rt><rt class="roma">touta</rt></ruby>
 </div>
 <div class="trans-lyric">Your culling</div>
-<div class="trans-lyric">Your culling</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:42.15]<ruby>理想<rt class="furi">りそう</rt><rt class="roma">risou</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>所為<rt class="furi">しょい</rt><rt class="roma">shoi</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
 </div>
-<div class="trans-lyric">Is it ideals' fault?</div>
 <div class="trans-lyric">Is it ideals' fault?</div>
 </div>
 
@@ -121,14 +112,12 @@ image: /images/albums/rim/singularity-live.jpg
 [01:02.72]<ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>まだ<rt class="roma">mada</rt></ruby><ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>貴女<rt class="furi">きじょ</rt><rt class="roma">kijo</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>（<ruby>壊<rt class="furi">こわ</rt><rt class="roma">kowa</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>繋<rt class="furi">つな</rt><rt class="roma">tsuna</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>）
 </div>
 <div class="trans-lyric">Don't fade away, not yet, O you (break it, connect it)</div>
-<div class="trans-lyric">Don't fade away, not yet, O you (break it, connect it)</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:08.71]<ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>下<rt class="furi">した</rt><rt class="roma">shita</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby> <ruby>義<rt class="furi">ぎ</rt><rt class="roma">gi</rt></ruby><ruby>体<rt class="furi">たい</rt><rt class="roma">tai</rt></ruby> <ruby>精巧<rt class="furi">せいこう</rt><rt class="roma">seikou</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>錆<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>び<rt class="roma">bi</rt></ruby><ruby>喰<rt class="furi">く</rt><rt class="roma">ku</rt></ruby><ruby>らう<rt class="roma">rau</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
-<div class="trans-lyric">Beneath the dream, the prosthetic seems precisely rust-eaten</div>
 <div class="trans-lyric">Beneath the dream, the prosthetic seems precisely rust-eaten</div>
 </div>
 
@@ -137,7 +126,6 @@ image: /images/albums/rim/singularity-live.jpg
 [01:17.42]<ruby>醒<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>まだ<rt class="roma">mada</rt></ruby><ruby>醒<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>貴女<rt class="furi">きじょ</rt><rt class="roma">kijo</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>（<ruby>歪<rt class="furi">いが</rt><rt class="roma">iga</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby> <ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>）
 </div>
 <div class="trans-lyric">Don't wake, not yet, O you (in a distorted world)</div>
-<div class="trans-lyric">Don't wake, not yet, O you (in a distorted world)</div>
 </div>
 
 <div class="lyric-line">
@@ -145,14 +133,12 @@ image: /images/albums/rim/singularity-live.jpg
 [01:23.34]<ruby>魔女<rt class="furi">まじょ</rt><rt class="roma">majo</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>祈<rt class="furi">いの</rt><rt class="roma">ino</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby> <ruby>視界<rt class="furi">しかい</rt><rt class="roma">shikai</rt></ruby> <ruby>栄光<rt class="furi">えいこう</rt><rt class="roma">eikou</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">The witch prays, her sight toward glory</div>
-<div class="trans-lyric">The witch prays, her sight toward glory</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:28.56]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>詩<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
-<div class="trans-lyric">Your poem</div>
 <div class="trans-lyric">Your poem</div>
 </div>
 

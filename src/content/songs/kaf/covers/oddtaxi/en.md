@@ -135,7 +135,6 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [01:12.79]<ruby>掛<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>違<rt class="furi">ちが</rt><rt class="roma">chiga</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>記憶<rt class="furi">きおく</rt><rt class="roma">kioku</rt></ruby>
 </div>
 <div class="trans-lyric">[01:12.79]Mismatched memories</div>
-<div class="trans-lyric">Mismatched memories</div>
 </div>
 
 <div class="lyric-line">

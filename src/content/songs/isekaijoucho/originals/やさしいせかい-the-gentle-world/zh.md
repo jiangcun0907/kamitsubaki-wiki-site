@@ -98,14 +98,12 @@ image: /images/albums/isekaijoucho/sousei.jpg
 [01:07.97]<ruby>深<rt class="furi">ふか</rt><rt class="roma">fuka</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>傷<rt class="furi">きず</rt><rt class="roma">kizu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>負<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby> <ruby>罪<rt class="furi">つみ</rt><rt class="roma">tsumi</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>罰<rt class="furi">ばち</rt><rt class="roma">bachi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
 <div class="cn-lyric">[01:07.97]身负深伤 知晓罪与罚</div>
-<div class="cn-lyric">[01:07.97]身负深伤 知晓罪与罚</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:13.65]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby> <ruby>癒<rt class="furi">いや</rt><rt class="roma">iya</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>あげる<rt class="roma">ageru</rt></ruby>
 </div>
-<div class="cn-lyric">[01:13.65]只有我 来治愈你</div>
 <div class="cn-lyric">[01:13.65]只有我 来治愈你</div>
 </div>
 
@@ -114,14 +112,12 @@ image: /images/albums/isekaijoucho/sousei.jpg
 [01:19.23]<ruby>眼<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>玉<rt class="furi">だま</rt><rt class="roma">dama</rt></ruby><ruby>刺<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>眩暈<rt class="furi">めまい</rt><rt class="roma">memai</rt></ruby> <ruby>扉<rt class="furi">とびら</rt><rt class="roma">tobira</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>外<rt class="furi">そと</rt><rt class="roma">soto</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="cn-lyric">[01:19.23]刺入眼球的眩晕 门之外是</div>
-<div class="cn-lyric">[01:19.23]刺入眼球的眩晕 门之外是</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:24.20]<ruby>易<rt class="furi">やさ</rt><rt class="roma">yasa</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
-<div class="cn-lyric">[01:24.20]在简单的世界里</div>
 <div class="cn-lyric">[01:24.20]在简单的世界里</div>
 </div>
 
@@ -132,14 +128,12 @@ image: /images/albums/isekaijoucho/sousei.jpg
 [01:30.45]<ruby>いつか<rt class="roma">itsuka</rt></ruby><ruby>花<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>散<rt class="furi">ち</rt><rt class="roma">chi</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby> <ruby>秘密<rt class="furi">ひみつ</rt><rt class="roma">himitsu</rt></ruby><ruby>紐解<rt class="furi">ひもと</rt><rt class="roma">himoto</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[01:30.45]终有一天花会凋零 解开秘密</div>
-<div class="cn-lyric">[01:30.45]终有一天花会凋零 解开秘密</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:36.21]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby> <ruby>教<rt class="furi">おし</rt><rt class="roma">oshi</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>あげる<rt class="roma">ageru</rt></ruby>
 </div>
-<div class="cn-lyric">[01:36.21]只有我 来告诉你</div>
 <div class="cn-lyric">[01:36.21]只有我 来告诉你</div>
 </div>
 
@@ -148,14 +142,12 @@ image: /images/albums/isekaijoucho/sousei.jpg
 [01:41.57]<ruby>光<rt class="furi">ひかり</rt><rt class="roma">hikari</rt></ruby><ruby>差<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby> <ruby>画面<rt class="furi">がめん</rt><rt class="roma">gamen</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>外<rt class="furi">そと</rt><rt class="roma">soto</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="cn-lyric">[01:41.57]阳光照耀的世界 画面之外是</div>
-<div class="cn-lyric">[01:41.57]阳光照耀的世界 画面之外是</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:47.31]<ruby>易<rt class="furi">やさ</rt><rt class="roma">yasa</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby>
 </div>
-<div class="cn-lyric">[01:47.31]简单的世界</div>
 <div class="cn-lyric">[01:47.31]简单的世界</div>
 </div>
 

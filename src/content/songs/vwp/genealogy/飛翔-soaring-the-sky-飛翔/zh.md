@@ -78,7 +78,6 @@ image: /images/songs/vwp/single-1698252310.jpg
 [00:36.93]<ruby>だって<rt class="roma">datte</rt></ruby> <ruby>だって<rt class="roma">datte</rt></ruby>
 </div>
 <div class="cn-lyric">[00:36.93]因为 因为</div>
-<div class="cn-lyric">[00:36.93]因为 因为</div>
 </div>
 
 <div class="lyric-line">

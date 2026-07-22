@@ -37,7 +37,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 And he's mean talking
 </div>
 <div class="cn-lyric">他说话刻薄</div>
-<div class="cn-lyric">他说话刻薄</div>
 </div>
 
 <div class="lyric-line">
@@ -45,14 +44,12 @@ And he's mean talking
 Bean stalking icy man
 </div>
 <div class="cn-lyric">冷酷的豆茎男人</div>
-<div class="cn-lyric">冷酷的豆茎男人</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 My feet are walking over him
 </div>
-<div class="cn-lyric">我的脚踩过他</div>
 <div class="cn-lyric">我的脚踩过他</div>
 </div>
 
@@ -70,7 +67,6 @@ My sneakers in his hand
 And with a picket for a knife
 </div>
 <div class="cn-lyric">以木桩为刀</div>
-<div class="cn-lyric">以木桩为刀</div>
 </div>
 
 <div class="lyric-line">
@@ -78,14 +74,12 @@ And with a picket for a knife
 And a rocket to depart in
 </div>
 <div class="cn-lyric">乘火箭离开</div>
-<div class="cn-lyric">乘火箭离开</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 My life had barely started
 </div>
-<div class="cn-lyric">我的生命才刚开始</div>
 <div class="cn-lyric">我的生命才刚开始</div>
 </div>
 
@@ -109,7 +103,6 @@ And now we're lazy, lazy
 <div class="jp-lyric">
 Ooh, lazy, lazy
 </div>
-<div class="cn-lyric">哦，懒散，懒散</div>
 <div class="cn-lyric">哦，懒散，懒散</div>
 </div>
 
@@ -211,16 +204,12 @@ Ooh, lazy, lazy
 Can we grow, can we grow
 </div>
 <div class="cn-lyric">我们能成长吗，能成长吗</div>
-<div class="cn-lyric">我们能成长吗，能成长吗</div>
-<div class="cn-lyric">我们能成长吗，能成长吗</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Can we grow out? Whoa
 </div>
-<div class="cn-lyric">我们能超越吗？哇</div>
-<div class="cn-lyric">我们能超越吗？哇</div>
 <div class="cn-lyric">我们能超越吗？哇</div>
 </div>
 
@@ -254,7 +243,6 @@ Can we grow out? Whoa
 <div class="jp-lyric">
 Whoa, whoa, whoa
 </div>
-<div class="cn-lyric">哇，哇，哇</div>
 <div class="cn-lyric">哇，哇，哇</div>
 </div>
 

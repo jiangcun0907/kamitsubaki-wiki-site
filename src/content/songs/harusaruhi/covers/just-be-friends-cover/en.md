@@ -36,7 +36,6 @@ Just Be Friends at CREAM PUFF LIVE 3(Cover) appears on CREAM PUFF LIVE 3 or a re
 [00:16.84]Just be friends All we gotta do
 </div>
 <div class="trans-lyric">Just be friends All we gotta do</div>
-<div class="trans-lyric">Just be friends All we gotta do</div>
 </div>
 
 <div class="lyric-line">
@@ -141,14 +140,12 @@ Just be friends All we gotta do
 [01:16.73]<ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>枯<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>らし<rt class="roma">rashi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>叫<rt class="furi">さけ</rt><rt class="roma">sake</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby> <ruby>反響<rt class="furi">はんきょう</rt><rt class="roma">hankyou</rt></ruby> <ruby>残響<rt class="furi">ざんきょう</rt><rt class="roma">zankyou</rt></ruby> <ruby>空<rt class="furi">むな</rt><rt class="roma">muna</rt></ruby><ruby>しく<rt class="roma">shiku</rt></ruby><ruby>響<rt class="furi">ひび</rt><rt class="roma">hibi</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby>
 </div>
 <div class="trans-lyric">Screaming until my voice went hoarse, echoes, reverberations, ring hollowly</div>
-<div class="trans-lyric">Screaming until my voice went hoarse, echoes, reverberations, ring hollowly</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:24.11]<ruby>外<rt class="furi">はず</rt><rt class="roma">hazu</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>鎖<rt class="furi">くさり</rt><rt class="roma">kusari</rt></ruby><ruby>の<rt class="roma">no</rt></ruby> <ruby>その<rt class="roma">sono</rt></ruby><ruby>先<rt class="furi">さき</rt><rt class="roma">saki</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby> <ruby>なに<rt class="roma">nani</rt></ruby><ruby>ひとつ<rt class="roma">hitotsu</rt></ruby><ruby>残<rt class="furi">のこ</rt><rt class="roma">noko</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>や<rt class="roma">ya</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby>
 </div>
-<div class="trans-lyric">Ahead of the unchained chain, there is nothing left at all</div>
 <div class="trans-lyric">Ahead of the unchained chain, there is nothing left at all</div>
 </div>
 
@@ -171,15 +168,12 @@ Just be friends All we gotta do
 [01:49.06]All we gotta do Just be friends
 </div>
 <div class="trans-lyric">All we gotta do Just be friends</div>
-<div class="trans-lyric">All we gotta do Just be friends</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:52.51]It's time to say goodbye Just be friends
 </div>
-<div class="trans-lyric">It's time to say goodbye Just be friends</div>
-<div class="trans-lyric">It's time to say goodbye Just be friends</div>
 <div class="trans-lyric">It's time to say goodbye Just be friends</div>
 </div>
 
@@ -292,14 +286,12 @@ All we gotta do Just be friends
 [03:01.57]<ruby>ふたり<rt class="roma">futari</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>繋<rt class="furi">つな</rt><rt class="roma">tsuna</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>絆<rt class="furi">きずな</rt><rt class="roma">kizuna</rt></ruby> <ruby>綻<rt class="furi">ほころ</rt><rt class="roma">hokoro</rt></ruby><ruby>び<rt class="roma">bi</rt></ruby> <ruby>解<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby> <ruby>日常<rt class="furi">にちじょう</rt><rt class="roma">nichijou</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby>
 </div>
 <div class="trans-lyric">The bond that connected us two, unravels, comes undone, fades into everyday life</div>
-<div class="trans-lyric">The bond that connected us two, unravels, comes undone, fades into everyday life</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [03:09.10]<ruby>さよなら<rt class="roma">sayonara</rt></ruby><ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>人<rt class="furi">ひと</rt><rt class="roma">hito</rt></ruby> <ruby>ここ<rt class="roma">koko</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby> <ruby>もう<rt class="roma">mou</rt></ruby><ruby>振り向<rt class="furi">ふりむ</rt><rt class="roma">furimu</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>歩<rt class="furi">ある</rt><rt class="roma">aru</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>出<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
-<div class="trans-lyric">Goodbye, the one I loved, this is it, walk forward without looking back</div>
 <div class="trans-lyric">Goodbye, the one I loved, this is it, walk forward without looking back</div>
 </div>
 
@@ -352,7 +344,6 @@ All we gotta do Just be friends
 <div class="jp-lyric">
 [04:28.01]All we gotta do Just be friends Just be friends
 </div>
-<div class="trans-lyric">All we gotta do Just be friends Just be friends</div>
 <div class="trans-lyric">All we gotta do Just be friends Just be friends</div>
 </div>
 

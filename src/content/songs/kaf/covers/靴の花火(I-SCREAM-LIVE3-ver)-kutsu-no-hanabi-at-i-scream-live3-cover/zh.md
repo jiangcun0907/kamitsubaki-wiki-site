@@ -34,9 +34,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [00:08.15]<ruby>ねぇ<rt class="roma">nee</rt></ruby> <ruby>ねぇ<rt class="roma">nee</rt></ruby>
 </div>
 <div class="cn-lyric">[00:08.15]呐 呐</div>
-<div class="cn-lyric">[00:08.15]呐 呐</div>
-<div class="cn-lyric">[00:08.15]呐 呐</div>
-<div class="cn-lyric">[00:08.15]呐 呐</div>
 </div>
 
 <div class="lyric-line">
@@ -112,7 +109,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [01:10.96]<ruby>夕<rt class="furi">ゆう</rt><rt class="roma">yuu</rt></ruby><ruby>暮<rt class="furi">く</rt><rt class="roma">ku</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>色<rt class="furi">いろ</rt><rt class="roma">iro</rt></ruby> <ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>飛<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="cn-lyric">[01:10.96]暮色 飞向天空</div>
-<div class="cn-lyric">[01:10.96]暮色 飞向天空</div>
 </div>
 
 <div class="lyric-line">
@@ -148,7 +144,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [01:31.11]<ruby>大<rt class="furi">おお</rt><rt class="roma">oo</rt></ruby><ruby>きな<rt class="roma">kina</rt></ruby><ruby>火<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>花<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>咲<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="cn-lyric">[01:31.11]巨大的火花绽放了</div>
-<div class="cn-lyric">[01:31.11]巨大的火花绽放了</div>
 </div>
 
 <div class="lyric-line">
@@ -162,8 +157,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 <div class="jp-lyric">
 [01:38.81]<ruby>だ<rt class="roma">da</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby>憶<ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="cn-lyric">[01:38.81]如此想着</div>
-<div class="cn-lyric">[01:38.81]如此想着</div>
 <div class="cn-lyric">[01:38.81]如此想着</div>
 </div>
 

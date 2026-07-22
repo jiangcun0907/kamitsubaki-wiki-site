@@ -118,9 +118,9 @@ image: /images/albums/kaf/i-scream-live.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:14.40]<ruby>あーあ<rt class="roma">aaa</rt></ruby>
+<ruby>あーあ<rt class="roma">aaa</rt></ruby>
 </div>
-<div class="cn-lyric">[01:14.40]啊—啊</div>
+<div class="cn-lyric">啊—啊</div>
 </div>
 
 <div class="lyric-line">
@@ -146,9 +146,9 @@ image: /images/albums/kaf/i-scream-live.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:03.56]<ruby>手放<rt class="furi">てばな</rt><rt class="roma">tebana</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
+<ruby>手放<rt class="furi">てばな</rt><rt class="roma">tebana</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
-<div class="cn-lyric">[01:03.56]因为会放手</div>
+<div class="cn-lyric">因为会放手</div>
 </div>
 
 <div class="lyric-line">
@@ -177,16 +177,12 @@ image: /images/albums/kaf/i-scream-live.jpg
 <ruby>なぁ<rt class="roma">naa</rt></ruby>
 </div>
 <div class="cn-lyric">呐</div>
-<div class="cn-lyric">呐</div>
-<div class="cn-lyric">呐</div>
-<div class="cn-lyric">呐</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>そっと<rt class="roma">sotto</rt></ruby><ruby>触<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
-<div class="cn-lyric">即使轻轻触碰</div>
 <div class="cn-lyric">即使轻轻触碰</div>
 </div>
 
@@ -195,7 +191,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 <ruby>壊<rt class="furi">こわ</rt><rt class="roma">kowa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>しまい<rt class="roma">shimai</rt></ruby><ruby>そう<rt class="roma">sou</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
 <div class="cn-lyric">仿佛会坏掉的</div>
-<div class="cn-lyric">也仿佛会坏掉的</div>
 </div>
 
 <div class="lyric-line">
@@ -209,8 +204,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 <div class="jp-lyric">
 <ruby>なんで<rt class="roma">nande</rt></ruby>？
 </div>
-<div class="cn-lyric">为什么？</div>
-<div class="cn-lyric">为什么？</div>
 <div class="cn-lyric">为什么？</div>
 </div>
 
@@ -272,15 +265,12 @@ image: /images/albums/kaf/i-scream-live.jpg
 <ruby>壊<rt class="furi">こわ</rt><rt class="roma">kowa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ちゃう<rt class="roma">chau</rt></ruby><ruby>のに<rt class="roma">noni</rt></ruby>
 </div>
 <div class="cn-lyric">明明会坏掉</div>
-<div class="cn-lyric">明明会坏掉</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>こわれ<rt class="roma">koware</rt></ruby><ruby>ちゃう<rt class="roma">chau</rt></ruby><ruby>のに<rt class="roma">noni</rt></ruby>
 </div>
-<div class="cn-lyric">明明会坏掉</div>
-<div class="cn-lyric">明明会坏掉</div>
 <div class="cn-lyric">明明会坏掉</div>
 </div>
 

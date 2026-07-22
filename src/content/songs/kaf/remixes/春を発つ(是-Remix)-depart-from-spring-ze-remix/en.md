@@ -88,7 +88,6 @@ image: /images/albums/kaf/kyoso-gamma.jpg
 [01:26.66]<ruby>ハロー<rt class="roma">harou</rt></ruby> <ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>出会<rt class="furi">であ</rt><rt class="roma">dea</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>風<rt class="furi">かぜ</rt><rt class="roma">kaze</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>運<rt class="furi">はこ</rt><rt class="roma">hako</rt></ruby><ruby>ぶ<rt class="roma">bu</rt></ruby>
 </div>
 <div class="trans-lyric">Hello, our encounter carries the wind.</div>
-<div class="trans-lyric">Hello, our encounter carries the wind.</div>
 </div>
 
 <div class="lyric-line">

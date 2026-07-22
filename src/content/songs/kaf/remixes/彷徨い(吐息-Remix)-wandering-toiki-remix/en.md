@@ -50,7 +50,6 @@ image: /images/albums/kaf/maho-gamma.jpg
 [00:24.91]「<ruby>もう<rt class="roma">mou</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>守<rt class="furi">まも</rt><rt class="roma">mamo</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>もの<rt class="roma">mono</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>けれど<rt class="roma">keredo</rt></ruby>」
 </div>
 <div class="trans-lyric">[00:24.91]"There's nothing left to protect me, but"</div>
-<div class="trans-lyric">"There's nothing left to protect me, but"</div>
 </div>
 
 <div class="lyric-line">
@@ -79,7 +78,6 @@ image: /images/albums/kaf/maho-gamma.jpg
 [00:42.54]<ruby>どうしても<rt class="roma">doushitemo</rt></ruby><ruby>別<rt class="furi">わか</rt><rt class="roma">waka</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>なかった<rt class="roma">nakatta</rt></ruby>
 </div>
 <div class="trans-lyric">[00:42.54]I couldn't say goodbye, no matter what</div>
-<div class="trans-lyric">I couldn't say goodbye, no matter what</div>
 </div>
 
 <br />

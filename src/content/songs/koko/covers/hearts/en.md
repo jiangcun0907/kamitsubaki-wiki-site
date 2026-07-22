@@ -45,7 +45,6 @@ Hearts appears on ARARE LIVE or a related official release. Entries are version-
 <ruby>輝<rt class="furi">かがや</rt><rt class="roma">kagaya</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>また<rt class="roma">mata</rt></ruby><ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">Shine and then disappear again</div>
-<div class="trans-lyric">Shine and then disappear again</div>
 </div>
 
 <div class="lyric-line">
@@ -99,14 +98,12 @@ Hearts appears on ARARE LIVE or a related official release. Entries are version-
 <ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby> <ruby>あなた<rt class="roma">anata</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby> <ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby> <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby> <ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>刻<rt class="furi">きざ</rt><rt class="roma">kiza</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>音<rt class="furi">おと</rt><rt class="roma">oto</rt></ruby>
 </div>
 <div class="trans-lyric">The sound that I, you, I, and you carve into our hearts</div>
-<div class="trans-lyric">The sound that I, you, I, and you carve into our hearts</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>信<rt class="furi">しん</rt><rt class="roma">shin</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>続<rt class="furi">つづ</rt><rt class="roma">tsuzu</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>感<rt class="furi">かん</rt><rt class="roma">kan</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>続<rt class="furi">つづ</rt><rt class="roma">tsuzu</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>ここ<rt class="roma">koko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>立<rt class="furi">た</rt><rt class="roma">ta</rt></ruby><ruby>ち<rt class="roma">chi</rt></ruby><ruby>焦<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>がれ<rt class="roma">gare</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby>？
 </div>
-<div class="trans-lyric">What have you kept believing, kept feeling, longing to stand here?</div>
 <div class="trans-lyric">What have you kept believing, kept feeling, longing to stand here?</div>
 </div>
 
@@ -122,14 +119,12 @@ Hearts appears on ARARE LIVE or a related official release. Entries are version-
 <ruby>いつ<rt class="roma">itsu</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby><ruby>聞<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>こえ<rt class="roma">koe</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby> <ruby>ずっと<rt class="roma">zutto</rt></ruby><ruby>繋<rt class="furi">つな</rt><rt class="roma">tsuna</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">I always heard it, always connected</div>
-<div class="trans-lyric">I always heard it, always connected</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>せめて<rt class="roma">semete</rt></ruby><ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>砕<rt class="furi">くだ</rt><rt class="roma">kuda</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ぬ<rt class="roma">nu</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby>
 </div>
-<div class="trans-lyric">At least so that my heart won't be shattered</div>
 <div class="trans-lyric">At least so that my heart won't be shattered</div>
 </div>
 
@@ -196,7 +191,6 @@ Hearts appears on ARARE LIVE or a related official release. Entries are version-
 <div class="jp-lyric">
 <ruby>全<rt class="furi">すべ</rt><rt class="roma">sube</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>抱<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
-<div class="trans-lyric">I have lived embracing everything</div>
 <div class="trans-lyric">I have lived embracing everything</div>
 </div>
 

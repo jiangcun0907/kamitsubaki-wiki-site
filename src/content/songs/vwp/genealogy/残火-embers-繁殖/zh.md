@@ -94,14 +94,12 @@ image: /images/albums/vwp/proliferation.jpg
 [00:56.28]<ruby>火<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>付<rt class="furi">つ</rt><rt class="roma">tsu</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>爪弾<rt class="furi">つまび</rt><rt class="roma">tsumabi</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="cn-lyric">[00:56.28]给点燃的弹拨之声</div>
-<div class="cn-lyric">[00:56.28]给点燃的弹拨之声</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:59.60]<ruby>全<rt class="furi">すべ</rt><rt class="roma">sube</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>捧<rt class="furi">ささ</rt><rt class="roma">sasa</rt></ruby><ruby>げよ<rt class="roma">geyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
-<div class="cn-lyric">[00:59.60]奉献一切吧</div>
 <div class="cn-lyric">[00:59.60]奉献一切吧</div>
 </div>
 
@@ -110,14 +108,12 @@ image: /images/albums/vwp/proliferation.jpg
 [01:02.49]<ruby>お前<rt class="furi">おまえ</rt><rt class="roma">omae</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>しょぼく<rt class="roma">shoboku</rt></ruby><ruby>なんか<rt class="roma">nanka</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="cn-lyric">[01:02.49]你才不渺小</div>
-<div class="cn-lyric">[01:02.49]你才不渺小</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:05.16]<ruby>そう<rt class="roma">sou</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby> <ruby>熱<rt class="furi">あつ</rt><rt class="roma">atsu</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>大<rt class="furi">おお</rt><rt class="roma">oo</rt></ruby><ruby>きく<rt class="roma">kiku</rt></ruby><ruby>なれ<rt class="roma">nare</rt></ruby>
 </div>
-<div class="cn-lyric">[01:05.16]没错 炽热地壮大吧</div>
 <div class="cn-lyric">[01:05.16]没错 炽热地壮大吧</div>
 </div>
 

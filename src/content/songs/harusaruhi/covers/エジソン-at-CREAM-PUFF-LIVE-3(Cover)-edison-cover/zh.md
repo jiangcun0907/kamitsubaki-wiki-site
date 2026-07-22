@@ -57,7 +57,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 <ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>為<rt class="furi">ため</rt><rt class="roma">tame</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="cn-lyric">只为某个人</div>
-<div class="cn-lyric">只为某个人</div>
 </div>
 
 <div class="lyric-line">
@@ -65,14 +64,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 <ruby>涙<rt class="furi">なみだ</rt><rt class="roma">namida</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>流<rt class="furi">なが</rt><rt class="roma">naga</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>事<rt class="furi">こと</rt><rt class="roma">koto</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
 </div>
 <div class="cn-lyric">流泪这件事</div>
-<div class="cn-lyric">流泪这件事</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>出来<rt class="furi">でき</rt><rt class="roma">deki</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby>、
 </div>
-<div class="cn-lyric">你能做到，但</div>
 <div class="cn-lyric">你能做到，但</div>
 </div>
 
@@ -102,17 +99,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 <ruby>だから<rt class="roma">dakara</rt></ruby><ruby>どう<rt class="roma">dou</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
 </div>
 <div class="cn-lyric">所以请你</div>
-<div class="cn-lyric">所以请你</div>
-<div class="cn-lyric">所以请你</div>
-<div class="cn-lyric">所以请你</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>せめて<rt class="roma">semete</rt></ruby><ruby>この<rt class="roma">kono</rt></ruby><ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby>
 </div>
-<div class="cn-lyric">至少在这只手能触及的</div>
-<div class="cn-lyric">至少在这只手能触及的</div>
 <div class="cn-lyric">至少在这只手能触及的</div>
 </div>
 
@@ -121,8 +113,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 <ruby>距離<rt class="furi">きょり</rt><rt class="roma">kyori</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>欲<rt class="furi">ほ</rt><rt class="roma">ho</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby>。
 </div>
 <div class="cn-lyric">距离里与我同在。</div>
-<div class="cn-lyric">距离里与我同在。</div>
-<div class="cn-lyric">距离里与我同在。</div>
 </div>
 
 <div class="lyric-line">
@@ -130,14 +120,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 <ruby>涙<rt class="furi">なみだ</rt><rt class="roma">namida</rt></ruby><ruby>流<rt class="furi">なが</rt><rt class="roma">naga</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>時<rt class="furi">とき</rt><rt class="roma">toki</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>この<rt class="roma">kono</rt></ruby><ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
 </div>
 <div class="cn-lyric">当你流泪时，这只手</div>
-<div class="cn-lyric">当你流泪时，这只手</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>それ<rt class="roma">sore</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>そっと<rt class="roma">sotto</rt></ruby><ruby>拭<rt class="furi">ぬぐ</rt><rt class="roma">nugu</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>。
 </div>
-<div class="cn-lyric">会轻轻将它们拭去。</div>
 <div class="cn-lyric">会轻轻将它们拭去。</div>
 </div>
 

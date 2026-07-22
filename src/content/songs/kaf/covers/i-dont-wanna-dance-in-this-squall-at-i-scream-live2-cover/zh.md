@@ -64,16 +64,12 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [00:46.75]I don't wanna dance, dance
 </div>
 <div class="cn-lyric">[00:46.75]I don't wanna dance, dance</div>
-<div class="cn-lyric">[00:46.75]I don't wanna dance, dance</div>
-<div class="cn-lyric">[00:46.75]I don't wanna dance, dance</div>
-<div class="cn-lyric">[00:46.75]I don't wanna dance, dance</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:48.63]<ruby>さざめく<rt class="roma">sazameku</rt></ruby><ruby>滑走<rt class="furi">かっそう</rt><rt class="roma">kassou</rt></ruby><ruby>路<rt class="furi">ろ</rt><rt class="roma">ro</rt></ruby>
 </div>
-<div class="cn-lyric">[00:48.63]喧嚣的跑道</div>
 <div class="cn-lyric">[00:48.63]喧嚣的跑道</div>
 </div>
 
@@ -82,14 +78,12 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [00:51.58]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>話<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
 <div class="cn-lyric">[00:51.58]我想和你说话</div>
-<div class="cn-lyric">[00:51.58]我想和你说话</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:54.02]I don't wanna turn, turn
 </div>
-<div class="cn-lyric">[00:54.02]I don't wanna turn, turn</div>
 <div class="cn-lyric">[00:54.02]I don't wanna turn, turn</div>
 </div>
 
@@ -98,14 +92,12 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 [00:55.79]<ruby>揺<rt class="furi">ゆ</rt><rt class="roma">yu</rt></ruby><ruby>らめく<rt class="roma">rameku</rt></ruby><ruby>ダンスホール<rt class="roma">dansuhouru</rt></ruby>
 </div>
 <div class="cn-lyric">[00:55.79]摇曳的舞厅</div>
-<div class="cn-lyric">[00:55.79]摇曳的舞厅</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:58.72]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>呼応<rt class="furi">こおう</rt><rt class="roma">koou</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
-<div class="cn-lyric">[00:58.72]我想与你呼应</div>
 <div class="cn-lyric">[00:58.72]我想与你呼应</div>
 </div>
 
@@ -128,7 +120,6 @@ I don't wanna dance, dance
 [01:05.92]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>話<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="cn-lyric">[01:05.92]我想和你说话呢</div>
-<div class="cn-lyric">[01:05.92]我想和你说话呢</div>
 </div>
 
 <br />
@@ -137,17 +128,6 @@ I don't wanna dance, dance
 <div class="jp-lyric">
 [01:08.84]Want to know your name
 </div>
-<div class="cn-lyric">[01:08.84]想要知道你的名字</div>
-<div class="cn-lyric">[01:08.84]想要知道你的名字</div>
-<div class="cn-lyric">[01:08.84]想要知道你的名字</div>
-<div class="cn-lyric">[01:08.84]想要知道你的名字</div>
-<div class="cn-lyric">[01:08.84]想要知道你的名字</div>
-<div class="cn-lyric">[01:08.84]想要知道你的名字</div>
-<div class="cn-lyric">[01:08.84]想要知道你的名字</div>
-<div class="cn-lyric">[01:08.84]想要知道你的名字</div>
-<div class="cn-lyric">[01:08.84]想要知道你的名字</div>
-<div class="cn-lyric">[01:08.84]想要知道你的名字</div>
-<div class="cn-lyric">[01:08.84]想要知道你的名字</div>
 <div class="cn-lyric">[01:08.84]想要知道你的名字</div>
 </div>
 
@@ -173,9 +153,6 @@ Want to know your name
 <div class="jp-lyric">
 [01:16.55]<ruby>スコール<rt class="roma">sukouru</rt></ruby>
 </div>
-<div class="cn-lyric">[01:16.55]骤雨</div>
-<div class="cn-lyric">[01:16.55]骤雨</div>
-<div class="cn-lyric">[01:16.55]骤雨</div>
 <div class="cn-lyric">[01:16.55]骤雨</div>
 </div>
 
@@ -324,15 +301,12 @@ Want to know your name
 [02:57.14]<ruby>どう<rt class="roma">dou</rt></ruby><ruby>したって<rt class="roma">shitatte</rt></ruby><ruby>くらい<rt class="roma">kurai</rt></ruby><ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="cn-lyric">[02:57.14]无论如何也什么都没有</div>
-<div class="cn-lyric">[02:57.14]无论如何也什么都没有</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [03:00.98]<ruby>歪<rt class="furi">ゆが</rt><rt class="roma">yuga</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> <ruby>疑<rt class="furi">うたが</rt><rt class="roma">utaga</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="cn-lyric">[03:00.98]没有扭曲 没有怀疑</div>
-<div class="cn-lyric">[03:00.98]没有扭曲 没有怀疑</div>
 <div class="cn-lyric">[03:00.98]没有扭曲 没有怀疑</div>
 </div>
 

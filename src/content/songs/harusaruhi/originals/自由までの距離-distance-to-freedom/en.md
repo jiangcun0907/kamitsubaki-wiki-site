@@ -36,15 +36,12 @@ image: /images/songs/harusaruhi/single-1687457200.jpg
 <ruby>勿体<rt class="furi">もったい</rt><rt class="roma">mottai</rt></ruby><ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>じゃん<rt class="roma">jan</rt></ruby>！
 </div>
 <div class="trans-lyric">What a waste!</div>
-<div class="trans-lyric">What a waste!</div>
-<div class="trans-lyric">What a waste!</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>この<rt class="roma">kono</rt></ruby><ruby>場<rt class="furi">ば</rt><rt class="roma">ba</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>世間体<rt class="furi">せけんてい</rt><rt class="roma">sekentei</rt></ruby>、<ruby>報<rt class="furi">ほう</rt><rt class="roma">hou</rt></ruby><ruby>連<rt class="furi">れん</rt><rt class="roma">ren</rt></ruby><ruby>相<rt class="furi">しょう</rt><rt class="roma">shou</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
-<div class="trans-lyric">Here, social appearance and reports</div>
 <div class="trans-lyric">Here, social appearance and reports</div>
 </div>
 
@@ -53,16 +50,12 @@ image: /images/songs/harusaruhi/single-1687457200.jpg
 <ruby>一切<rt class="furi">いっさい</rt><rt class="roma">issai</rt></ruby><ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>たって<rt class="roma">tatte</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
 </div>
 <div class="trans-lyric">It's okay to have none at all</div>
-<div class="trans-lyric">It's okay to have none at all</div>
-<div class="trans-lyric">It's okay to have none at all</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>え<rt class="roma">e</rt></ruby>！<ruby>踊<rt class="furi">おど</rt><rt class="roma">odo</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby>！<ruby>無礼講<rt class="furi">ぶれいこう</rt><rt class="roma">bureikou</rt></ruby>！
 </div>
-<div class="trans-lyric">Sing! Dance! Let loose!</div>
-<div class="trans-lyric">Sing! Dance! Let loose!</div>
 <div class="trans-lyric">Sing! Dance! Let loose!</div>
 </div>
 
@@ -71,8 +64,6 @@ image: /images/songs/harusaruhi/single-1687457200.jpg
 <ruby>戦<rt class="furi">たたか</rt><rt class="roma">tataka</rt></ruby><ruby>ってる<rt class="roma">tteru</rt></ruby>「<ruby>理不尽<rt class="furi">りふじん</rt><rt class="roma">rifujin</rt></ruby>」
 </div>
 <div class="trans-lyric">Fighting against 'unreason'</div>
-<div class="trans-lyric">Fighting against 'unreason'</div>
-<div class="trans-lyric">Fighting against 'unreason'</div>
 </div>
 
 <div class="lyric-line">
@@ -80,16 +71,12 @@ image: /images/songs/harusaruhi/single-1687457200.jpg
 <ruby>抵抗<rt class="furi">ていこう</rt><rt class="roma">teikou</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby><ruby>その<rt class="roma">sono</rt></ruby><ruby>全<rt class="furi">すべ</rt><rt class="roma">sube</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>「<ruby>名<rt class="furi">めい</rt><rt class="roma">mei</rt></ruby><ruby>シーン<rt class="roma">shiin</rt></ruby>」
 </div>
 <div class="trans-lyric">All that resistance is a 'great scene'</div>
-<div class="trans-lyric">All that resistance is a 'great scene'</div>
-<div class="trans-lyric">All that resistance is a 'great scene'</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:17.93]Goin'! <ruby>さあ<rt class="roma">saa</rt></ruby>、<ruby>狂<rt class="furi">くる</rt><rt class="roma">kuru</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>！<ruby>取<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>いこ<rt class="roma">iko</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>ブレーキ<rt class="roma">bureeki</rt></ruby>！
+Goin'! <ruby>さあ<rt class="roma">saa</rt></ruby>、<ruby>狂<rt class="furi">くる</rt><rt class="roma">kuru</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>！<ruby>取<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>いこ<rt class="roma">iko</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>ブレーキ<rt class="roma">bureeki</rt></ruby>！
 </div>
-<div class="trans-lyric">Goin'! Come on, go crazy! Let's take off the brakes!</div>
-<div class="trans-lyric">Goin'! Come on, go crazy! Let's take off the brakes!</div>
 <div class="trans-lyric">Goin'! Come on, go crazy! Let's take off the brakes!</div>
 </div>
 
@@ -282,7 +269,6 @@ image: /images/songs/harusaruhi/single-1687457200.jpg
 （<ruby>操<rt class="furi">あやつ</rt><rt class="roma">ayatsu</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>人形<rt class="furi">にんぎょう</rt><rt class="roma">ningyou</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>まま<rt class="roma">mama</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>居<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>られ<rt class="roma">rare</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>！）
 </div>
 <div class="trans-lyric">(I can't stay a puppet!)</div>
-<div class="trans-lyric">(I can't stay a puppet!)</div>
 </div>
 
 <br />
@@ -291,7 +277,6 @@ image: /images/songs/harusaruhi/single-1687457200.jpg
 <div class="jp-lyric">
 <ruby>いつか<rt class="roma">itsuka</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>灰<rt class="furi">はい</rt><rt class="roma">hai</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なん<rt class="roma">nan</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">Someday we'll turn to ash</div>
 <div class="trans-lyric">Someday we'll turn to ash</div>
 </div>
 
@@ -307,14 +292,12 @@ image: /images/songs/harusaruhi/single-1687457200.jpg
 <ruby>辛<rt class="furi">つら</rt><rt class="roma">tsura</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>堕<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>ち<rt class="roma">chi</rt></ruby><ruby>ず<rt class="roma">zu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">If it's painful, don't fall</div>
-<div class="trans-lyric">If it's painful, don't fall</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:18.08]<ruby>すぐ<rt class="roma">sugu</rt></ruby><ruby>逃<rt class="furi">に</rt><rt class="roma">ni</rt></ruby><ruby>げよ<rt class="roma">geyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>！
+<ruby>すぐ<rt class="roma">sugu</rt></ruby><ruby>逃<rt class="furi">に</rt><rt class="roma">ni</rt></ruby><ruby>げよ<rt class="roma">geyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>！
 </div>
-<div class="trans-lyric">Let's run away immediately!</div>
 <div class="trans-lyric">Let's run away immediately!</div>
 </div>
 
@@ -322,7 +305,6 @@ image: /images/songs/harusaruhi/single-1687457200.jpg
 <div class="jp-lyric">
 <ruby>深夜<rt class="furi">しんや</rt><rt class="roma">shin'ya</rt></ruby>2<ruby>時<rt class="furi">じ</rt><rt class="roma">ji</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>残<rt class="furi">ざん</rt><rt class="roma">zan</rt></ruby><ruby>光<rt class="furi">こう</rt><rt class="roma">kou</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby> <ruby>超<rt class="furi">ちょう</rt><rt class="roma">chou</rt></ruby><ruby>イカ<rt class="roma">ika</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby><ruby>脚光<rt class="furi">きゃっこう</rt><rt class="roma">kyakkou</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby>？
 </div>
-<div class="trans-lyric">Even the afterglow at 2 AM, even the super cool spotlight?</div>
 <div class="trans-lyric">Even the afterglow at 2 AM, even the super cool spotlight?</div>
 </div>
 
@@ -385,7 +367,7 @@ Goin'! <ruby>さあ<rt class="roma">saa</rt></ruby>、<ruby>狂<rt class="furi">
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:55.88]「<ruby>バカ<rt class="roma">baka</rt></ruby><ruby>みたい<rt class="roma">mitai</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>？」
+「<ruby>バカ<rt class="roma">baka</rt></ruby><ruby>みたい<rt class="roma">mitai</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>？」
 </div>
 <div class="trans-lyric">Isn't it stupid?</div>
 </div>
@@ -452,7 +434,7 @@ Goin'! <ruby>さあ<rt class="roma">saa</rt></ruby>、<ruby>狂<rt class="furi">
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:12.56]「<ruby>いつか<rt class="roma">itsuka</rt></ruby>」<ruby>は<rt class="roma">wa</rt></ruby><ruby>居<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>なん<rt class="roma">nan</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
+「<ruby>いつか<rt class="roma">itsuka</rt></ruby>」<ruby>は<rt class="roma">wa</rt></ruby><ruby>居<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>なん<rt class="roma">nan</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">'Someday' will disappear</div>
 </div>
@@ -473,7 +455,7 @@ Goin'! <ruby>さあ<rt class="roma">saa</rt></ruby>、<ruby>狂<rt class="furi">
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:18.05]<ruby>弾<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>そう<rt class="roma">sou</rt></ruby>！
+<ruby>弾<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>そう<rt class="roma">sou</rt></ruby>！
 </div>
 <div class="trans-lyric">About to burst!</div>
 </div>
@@ -554,7 +536,7 @@ Goin'! <ruby>さあ<rt class="roma">saa</rt></ruby>、<ruby>狂<rt class="furi">
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:48.65]<ruby>下向<rt class="furi">げこう</rt><rt class="roma">gekou</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>瞳<rt class="furi">ひとみ</rt><rt class="roma">hitomi</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby> raindrop
+<ruby>下向<rt class="furi">げこう</rt><rt class="roma">gekou</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>瞳<rt class="furi">ひとみ</rt><rt class="roma">hitomi</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby> raindrop
 </div>
 <div class="trans-lyric">Looking down, raindrop from eyes</div>
 </div>
@@ -676,7 +658,7 @@ Goin'! <ruby>さあ<rt class="roma">saa</rt></ruby>、<ruby>狂<rt class="furi">
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:23.51]Goin! <ruby>さあ<rt class="roma">saa</rt></ruby>、<ruby>狂<rt class="furi">くる</rt><rt class="roma">kuru</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>！<ruby>取<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>いこ<rt class="roma">iko</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>ブレーキ<rt class="roma">bureeki</rt></ruby>！
+Goin! <ruby>さあ<rt class="roma">saa</rt></ruby>、<ruby>狂<rt class="furi">くる</rt><rt class="roma">kuru</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>！<ruby>取<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>いこ<rt class="roma">iko</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>ブレーキ<rt class="roma">bureeki</rt></ruby>！
 </div>
 <div class="trans-lyric">Goin! Come on, go crazy! Let's take off the brakes!</div>
 </div>
@@ -706,7 +688,7 @@ Goin'! <ruby>さあ<rt class="roma">saa</rt></ruby>、<ruby>狂<rt class="furi">
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:46.92]<ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>抜<rt class="furi">ぬ</rt><rt class="roma">nu</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たり<rt class="roma">tari</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby>
+<ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>抜<rt class="furi">ぬ</rt><rt class="roma">nu</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たり<rt class="roma">tari</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby>
 </div>
 <div class="trans-lyric">Even cutting corners</div>
 </div>

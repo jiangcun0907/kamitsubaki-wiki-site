@@ -112,13 +112,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [00:44.38]<ruby>ビターチョコデコレーション<rt class="roma">bitaachokodekoreeshon</rt></ruby>
 </div>
 <div class="trans-lyric">Bitter chocolate decoration</div>
-<div class="trans-lyric">Bitter chocolate decoration</div>
-<div class="trans-lyric">Bitter chocolate decoration</div>
-<div class="trans-lyric">Bitter chocolate decoration</div>
-<div class="trans-lyric">Bitter chocolate decoration</div>
-<div class="trans-lyric">Bitter chocolate decoration</div>
-<div class="trans-lyric">Bitter chocolate decoration</div>
-<div class="trans-lyric">Bitter chocolate decoration</div>
 </div>
 
 <div class="lyric-line">

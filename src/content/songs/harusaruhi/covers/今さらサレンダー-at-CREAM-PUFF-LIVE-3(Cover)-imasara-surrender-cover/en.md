@@ -113,7 +113,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [00:55.43]<ruby>独<rt class="furi">ひと</rt><rt class="roma">hito</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>きり<rt class="roma">kiri</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="trans-lyric">[00:55.43]In a night all alone</div>
-<div class="trans-lyric">In a night all alone</div>
 </div>
 
 <div class="lyric-line">
@@ -121,7 +120,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [00:57.40]<ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>さら<rt class="roma">sara</rt></ruby><ruby>サレンダー<rt class="roma">sarendaa</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>意味<rt class="furi">いみ</rt><rt class="roma">imi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>や<rt class="roma">ya</rt></ruby>
 </div>
 <div class="trans-lyric">[00:57.40]Surrendering now is meaningless, you know</div>
-<div class="trans-lyric">Surrendering now is meaningless, you know</div>
 </div>
 
 <div class="lyric-line">
@@ -129,7 +127,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [01:01.16]<ruby>柄<rt class="furi">え</rt><rt class="roma">e</rt></ruby> <ruby>パラメイタ<rt class="roma">parameita</rt></ruby> <ruby>振り切<rt class="furi">ふりき</rt><rt class="roma">furiki</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>戻<rt class="furi">もど</rt><rt class="roma">modo</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="trans-lyric">[01:01.16]Pattern paramita, shook it off and came back</div>
-<div class="trans-lyric">Pattern paramita, shook it off and came back</div>
 </div>
 
 <div class="lyric-line">
@@ -137,7 +134,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [01:04.32]<ruby>頭<rt class="furi">あたま</rt><rt class="roma">atama</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>空回<rt class="furi">からまわ</rt><rt class="roma">karamawa</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby> <ruby>さあ<rt class="roma">saa</rt></ruby><ruby>おいで<rt class="roma">oide</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">[01:04.32]If it's just spinning in your head, come on, come to me</div>
-<div class="trans-lyric">If it's just spinning in your head, come on, come to me</div>
 </div>
 
 <div class="lyric-line">
@@ -145,7 +141,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [01:09.40]<ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>分<rt class="furi">わ</rt><rt class="roma">wa</rt></ruby><ruby>かん<rt class="roma">kan</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>哲学<rt class="furi">てつがく</rt><rt class="roma">tetsugaku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>パロディ<rt class="roma">parodei</rt></ruby>
 </div>
 <div class="trans-lyric">[01:09.40]Because I don't understand anything, a parody of philosophy</div>
-<div class="trans-lyric">Because I don't understand anything, a parody of philosophy</div>
 </div>
 
 <div class="lyric-line">
@@ -153,7 +148,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [01:13.01]<ruby>ちょっと<rt class="roma">chotto</rt></ruby><ruby>効き目<rt class="furi">ききめ</rt><rt class="roma">kikime</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>強<rt class="furi">つよ</rt><rt class="roma">tsuyo</rt></ruby><ruby>すぎ<rt class="roma">sugi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>様子見<rt class="furi">ようすみ</rt><rt class="roma">yousumi</rt></ruby>
 </div>
 <div class="trans-lyric">[01:13.01]The effect is a bit too strong, so I'll see how it goes</div>
-<div class="trans-lyric">The effect is a bit too strong, so I'll see how it goes</div>
 </div>
 
 <div class="lyric-line">
@@ -161,7 +155,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [01:16.28]<ruby>真似事<rt class="furi">まねごと</rt><rt class="roma">manegoto</rt></ruby><ruby>ばかり<rt class="roma">bakari</rt></ruby><ruby>ひとり<rt class="roma">hitori</rt></ruby><ruby>不安<rt class="furi">ふあん</rt><rt class="roma">fuan</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なる<rt class="roma">naru</rt></ruby>
 </div>
 <div class="trans-lyric">[01:16.28]Just imitating, I become anxious alone</div>
-<div class="trans-lyric">Just imitating, I become anxious alone</div>
 </div>
 
 <div class="lyric-line">
@@ -169,7 +162,6 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [01:19.29]<ruby>間違<rt class="furi">まちが</rt><rt class="roma">machiga</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>探<rt class="furi">さが</rt><rt class="roma">saga</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby> <ruby>アーバン<rt class="roma">aaban</rt></ruby> Ah
 </div>
 <div class="trans-lyric">[01:19.29]Spot-the-difference urban, Ah</div>
-<div class="trans-lyric">Spot-the-difference urban, Ah</div>
 </div>
 
 <div class="lyric-line">

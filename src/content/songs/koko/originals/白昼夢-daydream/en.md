@@ -59,7 +59,6 @@ image: /images/songs/koko/single-1687479335.jpg
 [00:51.52]<ruby>単純<rt class="furi">たんじゅん</rt><rt class="roma">tanjun</rt></ruby><ruby>気楽<rt class="furi">きらく</rt><rt class="roma">kiraku</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">[00:51.52]Live simply and carefree</div>
-<div class="trans-lyric">Live simply and carefree</div>
 </div>
 
 <div class="lyric-line">
@@ -90,7 +89,6 @@ image: /images/songs/koko/single-1687479335.jpg
 [01:05.14]<ruby>なんて<rt class="roma">nante</rt></ruby><ruby>綺麗事<rt class="furi">きれいごと</rt><rt class="roma">kireigoto</rt></ruby>
 </div>
 <div class="trans-lyric">[01:05.14]Such beautiful words</div>
-<div class="trans-lyric">Such beautiful words</div>
 </div>
 
 <div class="lyric-line">
@@ -105,7 +103,6 @@ image: /images/songs/koko/single-1687479335.jpg
 [01:16.30]<ruby>女の子<rt class="furi">おんなのこ</rt><rt class="roma">onnanoko</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby> <ruby>女の子<rt class="furi">おんなのこ</rt><rt class="roma">onnanoko</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="trans-lyric">[01:16.30]Because I'm a girl, because I'm a girl</div>
-<div class="trans-lyric">Because I'm a girl, because I'm a girl</div>
 </div>
 
 <div class="lyric-line">
@@ -113,7 +110,6 @@ image: /images/songs/koko/single-1687479335.jpg
 [01:23.29]<ruby>許<rt class="furi">ゆる</rt><rt class="roma">yuru</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>くれ<rt class="roma">kure</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
 </div>
 <div class="trans-lyric">[01:23.29]Won't you forgive me?</div>
-<div class="trans-lyric">Won't you forgive me?</div>
 </div>
 
 <br />
@@ -123,8 +119,6 @@ image: /images/songs/koko/single-1687479335.jpg
 [01:29.69]<ruby>宵闇<rt class="furi">よいやみ</rt><rt class="roma">yoiyami</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>見放<rt class="furi">みはな</rt><rt class="roma">mihana</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby> <ruby>白昼<rt class="furi">はくちゅう</rt><rt class="roma">hakuchuu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>集<rt class="furi">つど</rt><rt class="roma">tsudo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>孤独<rt class="furi">こどく</rt><rt class="roma">kodoku</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="trans-lyric">[01:29.69]Even if abandoned by the twilight, the loneliness that gathers in broad daylight</div>
-<div class="trans-lyric">Even if abandoned by the twilight, the loneliness that gathers in broad daylight</div>
-<div class="trans-lyric">Even if abandoned by the twilight, the loneliness that gathers in broad daylight</div>
 </div>
 
 <div class="lyric-line">
@@ -132,7 +126,6 @@ image: /images/songs/koko/single-1687479335.jpg
 [01:36.16]<ruby>抱<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>きしめよ<rt class="roma">kishimeyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby> <ruby>飾<rt class="furi">かざ</rt><rt class="roma">kaza</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="trans-lyric">[01:36.16]Let's embrace it, even without pretense</div>
-<div class="trans-lyric">Let's embrace it, even without pretense</div>
 </div>
 
 <div class="lyric-line">
@@ -140,7 +133,6 @@ image: /images/songs/koko/single-1687479335.jpg
 [01:42.46]<ruby>花束<rt class="furi">はなたば</rt><rt class="roma">hanataba</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>背<rt class="furi">せ</rt><rt class="roma">se</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>隠<rt class="furi">かく</rt><rt class="roma">kaku</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>帰<rt class="furi">かえ</rt><rt class="roma">kae</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>待<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">[01:42.46]Hiding a bouquet behind my back, I'm waiting for your return</div>
-<div class="trans-lyric">Hiding a bouquet behind my back, I'm waiting for your return</div>
 </div>
 
 <div class="lyric-line">
@@ -148,8 +140,6 @@ image: /images/songs/koko/single-1687479335.jpg
 [01:50.13]<ruby>曖昧<rt class="furi">あいまい</rt><rt class="roma">aimai</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>会<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>聞<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">[01:50.13]Don't be vague, let me hear 'I want to see you'</div>
-<div class="trans-lyric">Don't be vague, let me hear 'I want to see you'</div>
-<div class="trans-lyric">Don't be vague, let me hear 'I want to see you'</div>
 </div>
 
 <br />

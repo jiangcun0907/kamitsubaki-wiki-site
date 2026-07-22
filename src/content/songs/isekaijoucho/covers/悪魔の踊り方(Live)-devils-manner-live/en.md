@@ -71,7 +71,6 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [00:36.12]<ruby>思考<rt class="furi">しこう</rt><rt class="roma">shikou</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>休<rt class="furi">やす</rt><rt class="roma">yasu</rt></ruby><ruby>める<rt class="roma">meru</rt></ruby><ruby>な<rt class="roma">na</rt></ruby> <ruby>脳<rt class="furi">のう</rt><rt class="roma">nou</rt></ruby><ruby>ミソ<rt class="roma">miso</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>回<rt class="furi">まわ</rt><rt class="roma">mawa</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby>
 </div>
 <div class="trans-lyric">Don't rest your thoughts, churn your brain</div>
-<div class="trans-lyric">Don't rest your thoughts, churn your brain</div>
 </div>
 
 <br />
@@ -80,7 +79,6 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 <div class="jp-lyric">
 [00:39.21]「<ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>お前<rt class="furi">おまえ</rt><rt class="roma">omae</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>など<rt class="roma">nado</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>ちゃ<rt class="roma">cha</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby>」
 </div>
-<div class="trans-lyric">「No one is watching you at all」</div>
 <div class="trans-lyric">「No one is watching you at all」</div>
 </div>
 
@@ -98,7 +96,6 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [00:46.80]<ruby>お前<rt class="furi">おまえ</rt><rt class="roma">omae</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>完璧<rt class="furi">かんぺき</rt><rt class="roma">kanpeki</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>間違<rt class="furi">まちが</rt><rt class="roma">machiga</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby><ruby>踊<rt class="furi">おど</rt><rt class="roma">odo</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>方<rt class="furi">かた</rt><rt class="roma">kata</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>教<rt class="furi">おし</rt><rt class="roma">oshi</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>やる<rt class="roma">yaru</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="trans-lyric">Because I'll teach you all the perfect, wrong way to dance</div>
-<div class="trans-lyric">Because I'll teach you all the perfect, wrong way to dance</div>
 </div>
 
 <div class="lyric-line">
@@ -106,14 +103,12 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 [00:51.75]<ruby>いっせ<rt class="roma">isse</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>ので<rt class="roma">node</rt></ruby><ruby>捨<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ちまえ<rt class="roma">chimae</rt></ruby>、<ruby>そんな<rt class="roma">sonna</rt></ruby><ruby>命<rt class="furi">いのち</rt><rt class="roma">inochi</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>ば<rt class="roma">ba</rt></ruby>
 </div>
 <div class="trans-lyric">All at once, throw away such a life</div>
-<div class="trans-lyric">All at once, throw away such a life</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:56.55]<ruby>何<rt class="furi">なん</rt><rt class="roma">nan</rt></ruby><ruby>十<rt class="furi">じゅう</rt><rt class="roma">juu</rt></ruby><ruby>何<rt class="furi">なん</rt><rt class="roma">nan</rt></ruby><ruby>百<rt class="furi">ひゃく</rt><rt class="roma">hyaku</rt></ruby><ruby>何<rt class="furi">なん</rt><rt class="roma">nan</rt></ruby><ruby>千<rt class="furi">せん</rt><rt class="roma">sen</rt></ruby><ruby>何<rt class="furi">なん</rt><rt class="roma">nan</rt></ruby><ruby>万<rt class="furi">まん</rt><rt class="roma">man</rt></ruby><ruby>回<rt class="furi">かい</rt><rt class="roma">kai</rt></ruby><ruby>学習<rt class="furi">がくしゅう</rt><rt class="roma">gakushuu</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>なさい<rt class="roma">nasai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
-<div class="trans-lyric">Learn tens, hundreds, thousands, tens of thousands of times</div>
 <div class="trans-lyric">Learn tens, hundreds, thousands, tens of thousands of times</div>
 </div>
 

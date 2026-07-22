@@ -50,7 +50,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [00:54.41]<ruby>狂<rt class="furi">くる</rt><rt class="roma">kuru</rt></ruby><ruby>おしい<rt class="roma">oshii</rt></ruby><ruby>夏<rt class="furi">なつ</rt><rt class="roma">natsu</rt></ruby><ruby>だった<rt class="roma">datta</rt></ruby>
 </div>
 <div class="cn-lyric">[00:54.41]那是狂乱的夏天</div>
-<div class="cn-lyric">[00:54.41]那是狂乱的夏天</div>
 </div>
 
 <div class="lyric-line">

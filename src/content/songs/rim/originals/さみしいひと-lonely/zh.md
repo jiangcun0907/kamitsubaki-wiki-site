@@ -281,8 +281,6 @@ image: /images/albums/rim/new-romancer.jpg
 [02:46.86]<ruby>さみしい<rt class="roma">samishii</rt></ruby><ruby>ひと<rt class="roma">hito</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
 </div>
 <div class="cn-lyric">[02:46.86]寂寞的人呢</div>
-<div class="cn-lyric">[02:46.86]寂寞的人呢</div>
-<div class="cn-lyric">[02:46.86]寂寞的人呢</div>
 </div>
 
 <div class="lyric-line">

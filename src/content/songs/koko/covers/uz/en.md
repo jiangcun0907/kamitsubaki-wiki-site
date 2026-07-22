@@ -31,7 +31,6 @@ Uz appears on ARARE LIVE or a related official release. Entries are version-spec
 [00:44.05]Uz misch ned
 </div>
 <div class="trans-lyric">Don't tease me</div>
-<div class="trans-lyric">Don't tease me</div>
 </div>
 
 <div class="lyric-line">
@@ -85,8 +84,6 @@ Uz appears on ARARE LIVE or a related official release. Entries are version-spec
 [00:54.65]Heb heb mem giggel ibbän zou
 </div>
 <div class="trans-lyric">Heave heave with my giggle to you</div>
-<div class="trans-lyric">Heave heave with my giggle to you</div>
-<div class="trans-lyric">Heave heave with my giggle to you</div>
 </div>
 
 <br />
@@ -117,14 +114,12 @@ Uz appears on ARARE LIVE or a related official release. Entries are version-spec
 [01:37.51]Un wenn de do dei do uze don do dost
 </div>
 <div class="trans-lyric">And if you there tease your there then do</div>
-<div class="trans-lyric">And if you there tease your there then do</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:39.67]Do däi disch dabbes dabbe dabbe däi disch dabbes
 </div>
-<div class="trans-lyric">There your dope tap tap your dope</div>
 <div class="trans-lyric">There your dope tap tap your dope</div>
 </div>
 

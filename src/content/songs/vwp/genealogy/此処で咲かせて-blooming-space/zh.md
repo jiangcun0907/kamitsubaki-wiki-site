@@ -41,8 +41,6 @@ image: /images/albums/vwp/witch-plus.jpg
 [00:23.06]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>花<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>ここ<rt class="roma">koko</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>咲<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>かせよ<rt class="roma">kaseyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="cn-lyric">[00:23.06]让只属于我的花朵在此刻绽放</div>
-<div class="cn-lyric">[00:23.06]让只属于我的花朵在此刻绽放</div>
-<div class="cn-lyric">[00:23.06]让只属于我的花朵在此刻绽放</div>
 </div>
 
 <div class="lyric-line">
@@ -120,14 +118,12 @@ image: /images/albums/vwp/witch-plus.jpg
 [01:00.52]<ruby>咲き乱<rt class="furi">さきみだ</rt><rt class="roma">sakimida</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[01:00.52]绚烂盛开</div>
-<div class="cn-lyric">[01:00.52]绚烂盛开</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:00.52]<ruby>音<rt class="furi">おと</rt><rt class="roma">oto</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>鳴<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby>
 </div>
-<div class="cn-lyric">[01:00.52]奏响音符</div>
 <div class="cn-lyric">[01:00.52]奏响音符</div>
 </div>
 
@@ -136,14 +132,12 @@ image: /images/albums/vwp/witch-plus.jpg
 [01:04.26]<ruby>魔法<rt class="furi">まほう</rt><rt class="roma">mahou</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>のせ<rt class="roma">nose</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[01:04.26]承载魔法</div>
-<div class="cn-lyric">[01:04.26]承载魔法</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 durarararirirara
 </div>
-<div class="cn-lyric">durarararirirara</div>
 <div class="cn-lyric">durarararirirara</div>
 </div>
 
@@ -186,8 +180,6 @@ durarararirirara
 <div class="jp-lyric">
 [01:30.22]<ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby> <ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>え<rt class="roma">e</rt></ruby> <ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>え<rt class="roma">e</rt></ruby> <ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>え<rt class="roma">e</rt></ruby>
 </div>
-<div class="cn-lyric">[01:30.22]此刻 歌唱吧 歌唱吧 歌唱吧</div>
-<div class="cn-lyric">[01:30.22]此刻 歌唱吧 歌唱吧 歌唱吧</div>
 <div class="cn-lyric">[01:30.22]此刻 歌唱吧 歌唱吧 歌唱吧</div>
 </div>
 
@@ -250,7 +242,6 @@ durarararirirara
 [02:15.44]<ruby>志<rt class="furi">こころざし</rt><rt class="roma">kokorozashi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>掲<rt class="furi">かか</rt><rt class="roma">kaka</rt></ruby><ruby>げ<rt class="roma">ge</rt></ruby><ruby>掴<rt class="furi">つか</rt><rt class="roma">tsuka</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>取<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby><ruby>自由<rt class="furi">じゆう</rt><rt class="roma">jiyuu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="cn-lyric">[02:15.44]将志向高举向天空 紧握手中的自由</div>
-<div class="cn-lyric">[02:15.44]将志向高举向天空 紧握手中的自由</div>
 </div>
 
 <div class="lyric-line">
@@ -258,14 +249,12 @@ durarararirirara
 [02:23.00]<ruby>ああ<rt class="roma">aa</rt></ruby> <ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[02:23.00]啊啊 活着 活着 活着</div>
-<div class="cn-lyric">[02:23.00]啊啊 活着 活着 活着</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [02:26.69]<ruby>さぁ<rt class="roma">saa</rt></ruby> <ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby> <ruby>炎<rt class="furi">ほのお</rt><rt class="roma">honoo</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby> <ruby>灯<rt class="furi">とも</rt><rt class="roma">tomo</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby>
 </div>
-<div class="cn-lyric">[02:26.69]来吧 让心中的火焰燃烧</div>
 <div class="cn-lyric">[02:26.69]来吧 让心中的火焰燃烧</div>
 </div>
 
@@ -279,7 +268,6 @@ durarararirirara
 <div class="jp-lyric">
 [02:34.14]<ruby>命<rt class="furi">いのち</rt><rt class="roma">inochi</rt></ruby><ruby>続<rt class="furi">つづ</rt><rt class="roma">tsuzu</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>限<rt class="furi">かぎ</rt><rt class="roma">kagi</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby>
 </div>
-<div class="cn-lyric">[02:34.14]只要生命延续</div>
 <div class="cn-lyric">[02:34.14]只要生命延续</div>
 </div>
 

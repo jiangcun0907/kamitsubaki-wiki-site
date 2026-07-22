@@ -39,13 +39,13 @@ Grip on my waist
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:39.88]I like the pace
+I like the pace
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:27.88]Just give me a taste
+Just give me a taste
 </div>
 </div>
 
@@ -59,13 +59,13 @@ Breath on my waist
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:37.34]Speed up the pace
+Speed up the pace
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:37.34]Wait you take my place
+Wait you take my place
 </div>
 </div>
 
@@ -123,7 +123,7 @@ When I know you want it
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:48.83](Know you really want it)
+(Know you really want it)
 </div>
 </div>
 
@@ -131,7 +131,7 @@ When I know you want it
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:51.23]Silhouette silhouette
+Silhouette silhouette
 </div>
 </div>
 
@@ -195,7 +195,7 @@ We're face to face
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:34.69]It calls my name
+It calls my name
 </div>
 </div>
 
@@ -209,7 +209,7 @@ Do you like the taste
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:37.34]Of me taking your place
+Of me taking your place
 </div>
 </div>
 

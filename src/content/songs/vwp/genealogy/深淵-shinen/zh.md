@@ -201,7 +201,6 @@ image: /images/albums/vwp/proliferation.jpg
 [01:33.02]Revive
 </div>
 <div class="cn-lyric">[01:33.02]复苏</div>
-<div class="cn-lyric">[01:33.02]复苏</div>
 </div>
 
 <br />

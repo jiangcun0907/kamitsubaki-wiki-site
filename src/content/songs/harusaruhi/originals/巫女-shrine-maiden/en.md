@@ -36,7 +36,6 @@ image: /images/songs/harusaruhi/single-1738147192.jpg
 [00:15.90]<ruby>散<rt class="furi">ち</rt><rt class="roma">chi</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>際<rt class="furi">さい</rt><rt class="roma">sai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>花<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>美<rt class="furi">うつく</rt><rt class="roma">utsuku</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby>
 </div>
 <div class="trans-lyric">The flowers in their moment of falling are beautiful</div>
-<div class="trans-lyric">The flowers in their moment of falling are beautiful</div>
 </div>
 
 <div class="lyric-line">
@@ -50,7 +49,6 @@ image: /images/songs/harusaruhi/single-1738147192.jpg
 <div class="jp-lyric">
 [00:27.37]<ruby>儚<rt class="furi">はかな</rt><rt class="roma">hakana</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>気付<rt class="furi">きづ</rt><rt class="roma">kizu</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
-<div class="trans-lyric">Because I knew it was a fleeting dream, I realized</div>
 <div class="trans-lyric">Because I knew it was a fleeting dream, I realized</div>
 </div>
 
@@ -121,7 +119,6 @@ image: /images/songs/harusaruhi/single-1738147192.jpg
 <div class="jp-lyric">
 [01:54.42]<ruby>触<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>響<rt class="furi">ひび</rt><rt class="roma">hibi</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby>别<ruby>れ<rt class="roma">re</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby>
 </div>
-<div class="trans-lyric">The farewell song that resonates when touched</div>
 <div class="trans-lyric">The farewell song that resonates when touched</div>
 </div>
 

@@ -54,7 +54,7 @@ It's not like I don't have good reason
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:52.05]To put you out season after season
+To put you out season after season
 </div>
 <div class="trans-lyric">To put you out season after season</div>
 </div>
@@ -64,14 +64,12 @@ It's not like I don't have good reason
 And now oh-oh you know
 </div>
 <div class="trans-lyric">And now oh-oh you know</div>
-<div class="trans-lyric">And now oh-oh you know</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:52.05]Whoa those years are gone
+Whoa those years are gone
 </div>
-<div class="trans-lyric">Whoa those years are gone</div>
 <div class="trans-lyric">Whoa those years are gone</div>
 </div>
 
@@ -79,7 +77,6 @@ And now oh-oh you know
 <div class="jp-lyric">
 You ripped up the book of my childhood
 </div>
-<div class="trans-lyric">You ripped up the book of my childhood</div>
 <div class="trans-lyric">You ripped up the book of my childhood</div>
 </div>
 
@@ -121,7 +118,6 @@ Whoa those years are gone
 You say you weren't thinking, just doing your drinking
 </div>
 <div class="trans-lyric">You say you weren't thinking, just doing your drinking</div>
-<div class="trans-lyric">You say you weren't thinking, just doing your drinking</div>
 </div>
 
 <div class="lyric-line">
@@ -147,7 +143,7 @@ Didn't I see what was lost or just who was paying your cost?
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:17.30]So let's lay this on the line
+So let's lay this on the line
 </div>
 <div class="trans-lyric">So let's lay this on the line</div>
 </div>

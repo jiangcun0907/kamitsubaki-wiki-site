@@ -81,11 +81,6 @@ And you're taking the bridge again
 When all you want to do is swim
 </div>
 <div class="cn-lyric">而你只想游泳</div>
-<div class="cn-lyric">而你只想游泳</div>
-<div class="cn-lyric">而你只想游泳</div>
-<div class="cn-lyric">而你只想游泳</div>
-<div class="cn-lyric">而你只想游泳</div>
-<div class="cn-lyric">而你只想游泳</div>
 </div>
 
 <div class="lyric-line">
@@ -93,17 +88,12 @@ When all you want to do is swim
 You're taking the bridge again
 </div>
 <div class="cn-lyric">你又踏上了那座桥</div>
-<div class="cn-lyric">你又踏上了那座桥</div>
-<div class="cn-lyric">你又踏上了那座桥</div>
-<div class="cn-lyric">你又踏上了那座桥</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Taking the bridge again
 </div>
-<div class="cn-lyric">再次踏上那座桥</div>
-<div class="cn-lyric">再次踏上那座桥</div>
 <div class="cn-lyric">再次踏上那座桥</div>
 </div>
 

@@ -33,28 +33,28 @@ MC2 appears on CREAM PUFF LIVE 2 or a related official release. Entries are vers
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:01.74]Why don't you play the tune now?
+Why don't you play the tune now?
 </div>
 <div class="trans-lyric">Why don't you play the tune now?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:05.71]I don't like music.
+I don't like music.
 </div>
 <div class="trans-lyric">I don't like music.</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:08.20]Come on you little geezer.
+Come on you little geezer.
 </div>
 <div class="trans-lyric">Come on you little geezer.</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:09.72]You'll look funny when you're fifty.
+You'll look funny when you're fifty.
 </div>
 <div class="trans-lyric">You'll look funny when you're fifty.</div>
 </div>
@@ -63,56 +63,56 @@ MC2 appears on CREAM PUFF LIVE 2 or a related official release. Entries are vers
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:16.28]Somebody I never met
+Somebody I never met
 </div>
 <div class="trans-lyric">Somebody I never met</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:17.86]But in a way I know
+But in a way I know
 </div>
 <div class="trans-lyric">But in a way I know</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:19.43]Didn't think that you could get
+Didn't think that you could get
 </div>
 <div class="trans-lyric">Didn't think that you could get</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:21.61]So much from a picture show
+So much from a picture show
 </div>
 <div class="trans-lyric">So much from a picture show</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:23.23]Man dies first reel
+Man dies first reel
 </div>
 <div class="trans-lyric">Man dies first reel</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:25.39]People ask what's the deal?
+People ask what's the deal?
 </div>
 <div class="trans-lyric">People ask what's the deal?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:27.27]This ain't how it's supposed to be
+This ain't how it's supposed to be
 </div>
 <div class="trans-lyric">This ain't how it's supposed to be</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:29.75]Don't like no aborigine
+Don't like no aborigine
 </div>
 <div class="trans-lyric">Don't like no aborigine</div>
 </div>
@@ -121,56 +121,56 @@ MC2 appears on CREAM PUFF LIVE 2 or a related official release. Entries are vers
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:31.04]Took a trip in Powis Square
+Took a trip in Powis Square
 </div>
 <div class="trans-lyric">Took a trip in Powis Square</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:33.22]Pop star dyed his hair
+Pop star dyed his hair
 </div>
 <div class="trans-lyric">Pop star dyed his hair</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:35.35]No fans to scream and shout
+No fans to scream and shout
 </div>
 <div class="trans-lyric">No fans to scream and shout</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:36.90]When mobsters came to flush him out
+When mobsters came to flush him out
 </div>
 <div class="trans-lyric">When mobsters came to flush him out</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:39.19]Gangland slaying underground
+Gangland slaying underground
 </div>
 <div class="trans-lyric">Gangland slaying underground</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:40.77]New identity must be found
+New identity must be found
 </div>
 <div class="trans-lyric">New identity must be found</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:42.38]On the left bank for a while
+On the left bank for a while
 </div>
 <div class="trans-lyric">On the left bank for a while</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:44.14]Insanity Bohemian style
+Insanity Bohemian style
 </div>
 <div class="trans-lyric">Insanity Bohemian style</div>
 </div>
@@ -179,52 +179,29 @@ MC2 appears on CREAM PUFF LIVE 2 or a related official release. Entries are vers
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:46.09]Ritual ideas relativity
+Ritual ideas relativity
 </div>
-<div class="trans-lyric">Ritual ideas relativity</div>
-<div class="trans-lyric">Ritual ideas relativity</div>
-<div class="trans-lyric">Ritual ideas relativity</div>
-<div class="trans-lyric">Ritual ideas relativity</div>
-<div class="trans-lyric">Ritual ideas relativity</div>
-<div class="trans-lyric">Ritual ideas relativity</div>
 <div class="trans-lyric">Ritual ideas relativity</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:49.22]Only buildings, no people prophecy
+Only buildings, no people prophecy
 </div>
-<div class="trans-lyric">Only buildings, no people prophecy</div>
-<div class="trans-lyric">Only buildings, no people prophecy</div>
-<div class="trans-lyric">Only buildings, no people prophecy</div>
-<div class="trans-lyric">Only buildings, no people prophecy</div>
-<div class="trans-lyric">Only buildings, no people prophecy</div>
 <div class="trans-lyric">Only buildings, no people prophecy</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:53.26]Time slide, place to hide, nudge reality
+Time slide, place to hide, nudge reality
 </div>
-<div class="trans-lyric">Time slide, place to hide, nudge reality</div>
-<div class="trans-lyric">Time slide, place to hide, nudge reality</div>
-<div class="trans-lyric">Time slide, place to hide, nudge reality</div>
-<div class="trans-lyric">Time slide, place to hide, nudge reality</div>
-<div class="trans-lyric">Time slide, place to hide, nudge reality</div>
-<div class="trans-lyric">Time slide, place to hide, nudge reality</div>
 <div class="trans-lyric">Time slide, place to hide, nudge reality</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:56.77]Foresight, minds wide, magic imagery
+Foresight, minds wide, magic imagery
 </div>
-<div class="trans-lyric">Foresight, minds wide, magic imagery</div>
-<div class="trans-lyric">Foresight, minds wide, magic imagery</div>
-<div class="trans-lyric">Foresight, minds wide, magic imagery</div>
-<div class="trans-lyric">Foresight, minds wide, magic imagery</div>
-<div class="trans-lyric">Foresight, minds wide, magic imagery</div>
-<div class="trans-lyric">Foresight, minds wide, magic imagery</div>
 <div class="trans-lyric">Foresight, minds wide, magic imagery</div>
 </div>
 
@@ -232,84 +209,84 @@ MC2 appears on CREAM PUFF LIVE 2 or a related official release. Entries are vers
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:04.01]Met a dwarf that was no good
+Met a dwarf that was no good
 </div>
 <div class="trans-lyric">Met a dwarf that was no good</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:09.95]Dressed like little Red Riding Hood
+Dressed like little Red Riding Hood
 </div>
 <div class="trans-lyric">Dressed like little Red Riding Hood</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:11.55]Bad habit taking life
+Bad habit taking life
 </div>
 <div class="trans-lyric">Bad habit taking life</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:13.34]Calling card a six inch knife
+Calling card a six inch knife
 </div>
 <div class="trans-lyric">Calling card a six inch knife</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:15.29]Ran off really fast
+Ran off really fast
 </div>
 <div class="trans-lyric">Ran off really fast</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:17.44]Mumbled something 'bout the past
+Mumbled something 'bout the past
 </div>
 <div class="trans-lyric">Mumbled something 'bout the past</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:19.09]Best sex I've ever seen
+Best sex I've ever seen
 </div>
 <div class="trans-lyric">Best sex I've ever seen</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:20.82]As if each moment was the last
+As if each moment was the last
 </div>
 <div class="trans-lyric">As if each moment was the last</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:22.45]Drops of blood, colour slide
+Drops of blood, colour slide
 </div>
 <div class="trans-lyric">Drops of blood, colour slide</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:24.68]Funeral for his bride
+Funeral for his bride
 </div>
 <div class="trans-lyric">Funeral for his bride</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:26.45]But it's him who's really dead
+But it's him who's really dead
 </div>
 <div class="trans-lyric">But it's him who's really dead</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:28.33]Gets to take the funeral ride
+Gets to take the funeral ride
 </div>
 <div class="trans-lyric">Gets to take the funeral ride</div>
 </div>
@@ -318,25 +295,25 @@ MC2 appears on CREAM PUFF LIVE 2 or a related official release. Entries are vers
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:30.24]Ritual ideas relativity
+Ritual ideas relativity
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:33.48]Only buildings, no people prophecy
+Only buildings, no people prophecy
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:37.16]Time slide, place to hide, nudge reality
+Time slide, place to hide, nudge reality
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:40.66]Foresight, minds wide, magic imagery
+Foresight, minds wide, magic imagery
 </div>
 </div>
 
@@ -344,7 +321,7 @@ MC2 appears on CREAM PUFF LIVE 2 or a related official release. Entries are vers
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:44.38]You know, I don't think I'm gonna let you stay in the film business.
+You know, I don't think I'm gonna let you stay in the film business.
 </div>
 <div class="trans-lyric">You know, I don't think I'm gonna let you stay in the film business.</div>
 </div>
@@ -353,21 +330,21 @@ MC2 appears on CREAM PUFF LIVE 2 or a related official release. Entries are vers
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:00.42]I like a bit of a cavort.
+I like a bit of a cavort.
 </div>
 <div class="trans-lyric">I like a bit of a cavort.</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:09.41]I don't answer solicitor's letters.
+I don't answer solicitor's letters.
 </div>
 <div class="trans-lyric">I don't answer solicitor's letters.</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:12.11]I apply a bit of pressure.
+I apply a bit of pressure.
 </div>
 <div class="trans-lyric">I apply a bit of pressure.</div>
 </div>
@@ -376,56 +353,56 @@ MC2 appears on CREAM PUFF LIVE 2 or a related official release. Entries are vers
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:14.54]Space guy fell from the sky
+Space guy fell from the sky
 </div>
 <div class="trans-lyric">Space guy fell from the sky</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:16.66]Scratched my head and wondered why
+Scratched my head and wondered why
 </div>
 <div class="trans-lyric">Scratched my head and wondered why</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:18.53]Time slides into time
+Time slides into time
 </div>
 <div class="trans-lyric">Time slides into time</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:20.13]Across international dateline
+Across international dateline
 </div>
 <div class="trans-lyric">Across international dateline</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:22.03]Scientist eats bubblegum
+Scientist eats bubblegum
 </div>
 <div class="trans-lyric">Scientist eats bubblegum</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:24.12]Hall of fame, baseball
+Hall of fame, baseball
 </div>
 <div class="trans-lyric">Hall of fame, baseball</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:26.08]Senators a Hoodlum
+Senators a Hoodlum
 </div>
 <div class="trans-lyric">Senators a Hoodlum</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:27.42]Big chiefs in the hall
+Big chiefs in the hall
 </div>
 <div class="trans-lyric">Big chiefs in the hall</div>
 </div>
@@ -434,25 +411,25 @@ MC2 appears on CREAM PUFF LIVE 2 or a related official release. Entries are vers
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:29.53]Ritual ideas relativity
+Ritual ideas relativity
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:32.73]Only buildings, no people prophecy
+Only buildings, no people prophecy
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:36.49]Time slide, place to hide, nudge reality
+Time slide, place to hide, nudge reality
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:40.25]Foresight, minds wide, magic imagery
+Foresight, minds wide, magic imagery
 </div>
 </div>
 
@@ -460,28 +437,28 @@ MC2 appears on CREAM PUFF LIVE 2 or a related official release. Entries are vers
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:44.30]Stray thoughts fear to tread
+Stray thoughts fear to tread
 </div>
 <div class="trans-lyric">Stray thoughts fear to tread</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:53.84]Placed upon the screen instead
+Placed upon the screen instead
 </div>
 <div class="trans-lyric">Placed upon the screen instead</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:55.79]She's my flame too hot to hold
+She's my flame too hot to hold
 </div>
 <div class="trans-lyric">She's my flame too hot to hold</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:57.68]Had to settle for her cold
+Had to settle for her cold
 </div>
 <div class="trans-lyric">Had to settle for her cold</div>
 </div>
@@ -490,28 +467,28 @@ MC2 appears on CREAM PUFF LIVE 2 or a related official release. Entries are vers
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[02:59.48]Bloodlust, Greek God, Gold discovery
+Bloodlust, Greek God, Gold discovery
 </div>
 <div class="trans-lyric">Bloodlust, Greek God, Gold discovery</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:02.48]Gone bust, tight wad, slow recovery
+Gone bust, tight wad, slow recovery
 </div>
 <div class="trans-lyric">Gone bust, tight wad, slow recovery</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:05.60]Axe job, flame thrower, iron bar and gun
+Axe job, flame thrower, iron bar and gun
 </div>
 <div class="trans-lyric">Axe job, flame thrower, iron bar and gun</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:09.84]Betting shop - New owner - A walk in the sun
+Betting shop - New owner - A walk in the sun
 </div>
 <div class="trans-lyric">Betting shop - New owner - A walk in the sun</div>
 </div>
@@ -520,25 +497,25 @@ MC2 appears on CREAM PUFF LIVE 2 or a related official release. Entries are vers
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:13.38]Ritual ideas relativity
+Ritual ideas relativity
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:16.87]Only buildings, no people prophecy
+Only buildings, no people prophecy
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:21.37]Time slide, place to hide, nudge reality
+Time slide, place to hide, nudge reality
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:24.82]Foresight, minds wide, magic imagery
+Foresight, minds wide, magic imagery
 </div>
 </div>
 
@@ -546,56 +523,56 @@ MC2 appears on CREAM PUFF LIVE 2 or a related official release. Entries are vers
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:34.04]Spread the news the Maestro's back
+Spread the news the Maestro's back
 </div>
 <div class="trans-lyric">Spread the news the Maestro's back</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:39.33]With a beat-box soundtrack
+With a beat-box soundtrack
 </div>
 <div class="trans-lyric">With a beat-box soundtrack</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:41.28]The King of brains - Queen of the sack'
+The King of brains - Queen of the sack'
 </div>
 <div class="trans-lyric">The King of brains - Queen of the sack'</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:43.11]Executives have heart attack
+Executives have heart attack
 </div>
 <div class="trans-lyric">Executives have heart attack</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:45.05]It's assault course celluloid
+It's assault course celluloid
 </div>
 <div class="trans-lyric">It's assault course celluloid</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:46.88]The money makers would avoid
+The money makers would avoid
 </div>
 <div class="trans-lyric">The money makers would avoid</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:48.73]Sometimes notions get reversed
+Sometimes notions get reversed
 </div>
 <div class="trans-lyric">Sometimes notions get reversed</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:50.39]Centre of the universe
+Centre of the universe
 </div>
 <div class="trans-lyric">Centre of the universe</div>
 </div>
@@ -604,101 +581,101 @@ MC2 appears on CREAM PUFF LIVE 2 or a related official release. Entries are vers
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:52.25]Ritual ideas relativity
+Ritual ideas relativity
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:55.66]Only buildings, no people prophecy
+Only buildings, no people prophecy
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[03:59.41]Time slide, place to hide, nudge reality
+Time slide, place to hide, nudge reality
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[04:02.88]Foresight, minds wide, magic imagery
+Foresight, minds wide, magic imagery
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[04:07.88]Who do you think you are? The Lone Ranger?
+Who do you think you are? The Lone Ranger?
 </div>
 <div class="trans-lyric">Who do you think you are? The Lone Ranger?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[04:19.40]You're Jack the Lad!
+You're Jack the Lad!
 </div>
 <div class="trans-lyric">You're Jack the Lad!</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[04:19.51](More)
+(More)
 </div>
 <div class="trans-lyric">(More)</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[04:19.80]Ritual ideas relativity
+Ritual ideas relativity
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[04:20.12]Only buildings, no people prophecy
+Only buildings, no people prophecy
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[04:20.40]Time slide, place to hide, nudge reality
+Time slide, place to hide, nudge reality
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[04:20.67]Foresight, minds wide, magic imagery
+Foresight, minds wide, magic imagery
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[04:20.92]Ritual ideas relativity
+Ritual ideas relativity
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[04:21.23]All these buildings, no people prophecy
+All these buildings, no people prophecy
 </div>
 <div class="trans-lyric">All these buildings, no people prophecy</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[04:21.46]Time slide, place to hide, nudge reality
+Time slide, place to hide, nudge reality
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[04:21.70]Foresight, minds wide, magic imagery
+Foresight, minds wide, magic imagery
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[04:22.01]Oh, ho
+Oh, ho
 </div>
 <div class="trans-lyric">Oh, ho</div>
 </div>

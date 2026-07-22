@@ -36,14 +36,12 @@ image: /images/albums/kaf/kyoso-gamma.jpg
 [00:01.30]<ruby>さよなら<rt class="roma">sayonara</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby> <ruby>悲<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>しみ<rt class="roma">shimi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="trans-lyric">Farewells and sorrows too</div>
-<div class="trans-lyric">Farewells and sorrows too</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:01.30]<ruby>蝉時雨<rt class="furi">せみしぐれ</rt><rt class="roma">semishigure</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>同<rt class="furi">おな</rt><rt class="roma">ona</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby>
 </div>
-<div class="trans-lyric">Like the cicada's rain</div>
 <div class="trans-lyric">Like the cicada's rain</div>
 </div>
 
@@ -52,14 +50,12 @@ image: /images/albums/kaf/kyoso-gamma.jpg
 [00:11.41]<ruby>命<rt class="furi">いのち</rt><rt class="roma">inochi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>限<rt class="furi">かぎ</rt><rt class="roma">kagi</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>叫<rt class="furi">さけ</rt><rt class="roma">sake</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">Screaming with all my life</div>
-<div class="trans-lyric">Screaming with all my life</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:11.41]<ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ゆく<rt class="roma">yuku</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby>
 </div>
-<div class="trans-lyric">Just fading away</div>
 <div class="trans-lyric">Just fading away</div>
 </div>
 

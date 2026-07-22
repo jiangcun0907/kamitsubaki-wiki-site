@@ -90,8 +90,6 @@ The fate we have Love don't always shine through '
 Cause I don't wanna lose What we had last time,
 </div>
 <div class="cn-lyric">因为我不想失去 我们上次拥有的一切</div>
-<div class="cn-lyric">因为我不想失去 我们上次拥有的一切</div>
-<div class="cn-lyric">因为我不想失去 我们上次拥有的一切</div>
 </div>
 
 <div class="lyric-line">
@@ -99,14 +97,12 @@ Cause I don't wanna lose What we had last time,
 Your leaving this life ain't fair You don't get something for
 </div>
 <div class="cn-lyric">你离开这人生不公平 你无法不劳而</div>
-<div class="cn-lyric">你离开这人生不公平 你无法不劳而</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Nothing, turn now Gotta try a little harder It could be sweet
 </div>
-<div class="cn-lyric">获 现在转身 必须再努力一点 它可能如蜜甜</div>
 <div class="cn-lyric">获 现在转身 必须再努力一点 它可能如蜜甜</div>
 </div>
 

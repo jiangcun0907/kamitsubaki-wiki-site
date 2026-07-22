@@ -45,16 +45,12 @@ image: /images/albums/kaf/maho.jpg
 <ruby>まるで<rt class="roma">marude</rt></ruby><ruby>解<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> <ruby>魔法<rt class="furi">まほう</rt><rt class="roma">mahou</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
 <div class="trans-lyric">Like an unbreakable spell,</div>
-<div class="trans-lyric">Like an unbreakable spell,</div>
-<div class="trans-lyric">Like an unbreakable spell,</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> <ruby>想<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>出会<rt class="furi">であ</rt><rt class="roma">dea</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby>
 </div>
-<div class="trans-lyric">I met a feeling that will never fade.</div>
-<div class="trans-lyric">I met a feeling that will never fade.</div>
 <div class="trans-lyric">I met a feeling that will never fade.</div>
 </div>
 
@@ -63,16 +59,12 @@ image: /images/albums/kaf/maho.jpg
 <ruby>零<rt class="furi">こぼ</rt><rt class="roma">kobo</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>落<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>ち<rt class="roma">chi</rt></ruby><ruby>ゆく<rt class="roma">yuku</rt></ruby> <ruby>その<rt class="roma">sono</rt></ruby><ruby>行方<rt class="furi">ゆくえ</rt><rt class="roma">yukue</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="trans-lyric">The destination of these falling drops,</div>
-<div class="trans-lyric">The destination of these falling drops,</div>
-<div class="trans-lyric">The destination of these falling drops,</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>いつ<rt class="roma">itsu</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby> <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>しか<rt class="roma">shika</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
-<div class="trans-lyric">Only you, always, will ever know.</div>
-<div class="trans-lyric">Only you, always, will ever know.</div>
 <div class="trans-lyric">Only you, always, will ever know.</div>
 </div>
 
@@ -245,14 +237,12 @@ image: /images/albums/kaf/maho.jpg
 <ruby>守<rt class="furi">まも</rt><rt class="roma">mamo</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby> <ruby>その<rt class="roma">sono</rt></ruby><ruby>何<rt class="furi">なん</rt><rt class="roma">nan</rt></ruby><ruby>倍<rt class="furi">ばい</rt><rt class="roma">bai</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
 </div>
 <div class="trans-lyric">Many times more than I am protected,</div>
-<div class="trans-lyric">Many times more than I am protected,</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>返<rt class="furi">かえ</rt><rt class="roma">kae</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>たく<rt class="roma">taku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>守<rt class="furi">まも</rt><rt class="roma">mamo</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たく<rt class="roma">taku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">I want to give back, I want to protect you,</div>
 <div class="trans-lyric">I want to give back, I want to protect you,</div>
 </div>
 
@@ -261,14 +251,12 @@ image: /images/albums/kaf/maho.jpg
 <ruby>歩<rt class="furi">あゆ</rt><rt class="roma">ayu</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>続<rt class="furi">つづ</rt><rt class="roma">tsuzu</rt></ruby><ruby>ける<rt class="roma">keru</rt></ruby> <ruby>果<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>旅<rt class="furi">たび</rt><rt class="roma">tabi</rt></ruby>
 </div>
 <div class="trans-lyric">Continuing on this endless journey,</div>
-<div class="trans-lyric">Continuing on this endless journey,</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>いつ<rt class="roma">itsu</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby> <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>となり<rt class="roma">tonari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>いたい<rt class="roma">itai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
-<div class="trans-lyric">I want to be by your side forever.</div>
 <div class="trans-lyric">I want to be by your side forever.</div>
 </div>
 

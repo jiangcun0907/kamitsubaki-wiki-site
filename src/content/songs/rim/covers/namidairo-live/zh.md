@@ -75,14 +75,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [00:50.57]<ruby>涙<rt class="furi">なみだ</rt><rt class="roma">namida</rt></ruby><ruby>色<rt class="furi">しょく</rt><rt class="roma">shoku</rt></ruby> <ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>聞<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>こえ<rt class="roma">koe</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="cn-lyric">[00:50.57]泪色 听不见声音的夜晚</div>
-<div class="cn-lyric">[00:50.57]泪色 听不见声音的夜晚</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:56.70]<ruby>困<rt class="furi">こま</rt><rt class="roma">koma</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>しまう<rt class="roma">shimau</rt></ruby><ruby>ほど<rt class="roma">hodo</rt></ruby> <ruby>わがまま<rt class="roma">wagamama</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なり<rt class="roma">nari</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
-<div class="cn-lyric">[00:56.70]想变得任性 到让你为难的程度</div>
 <div class="cn-lyric">[00:56.70]想变得任性 到让你为难的程度</div>
 </div>
 
@@ -91,15 +89,12 @@ image: /images/albums/rim/chocolate-live-3.jpg
 [01:04.05]<ruby>大丈夫<rt class="furi">だいじょうぶ</rt><rt class="roma">daijoubu</rt></ruby> <ruby>そう<rt class="roma">sou</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:04.05]没事的 虽然试着这样说了</div>
-<div class="cn-lyric">[01:04.05]没事的 虽然试着这样说了</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:10.64]<ruby>そんな<rt class="roma">sonna</rt></ruby><ruby>はず<rt class="roma">hazu</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby>
 </div>
-<div class="cn-lyric">[01:10.64]不可能是那样的吧</div>
-<div class="cn-lyric">[01:10.64]不可能是那样的吧</div>
 <div class="cn-lyric">[01:10.64]不可能是那样的吧</div>
 </div>
 

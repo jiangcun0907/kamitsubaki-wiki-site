@@ -188,8 +188,6 @@ Wipe out all the enemies in sight
 There's no turning back this time
 </div>
 <div class="trans-lyric">There's no turning back this time</div>
-<div class="trans-lyric">There's no turning back this time</div>
-<div class="trans-lyric">There's no turning back this time</div>
 </div>
 
 <div class="lyric-line">
@@ -211,14 +209,12 @@ Will the laurel be placed on my head
 one day we shall cheer and dance
 </div>
 <div class="trans-lyric">one day we shall cheer and dance</div>
-<div class="trans-lyric">one day we shall cheer and dance</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 making joy forever last”
 </div>
-<div class="trans-lyric">making joy forever last”</div>
 <div class="trans-lyric">making joy forever last”</div>
 </div>
 
@@ -296,7 +292,6 @@ with the blessings and wish by my side
 <div class="jp-lyric">
 won't accept the fate that is set
 </div>
-<div class="trans-lyric">won't accept the fate that is set</div>
 <div class="trans-lyric">won't accept the fate that is set</div>
 </div>
 

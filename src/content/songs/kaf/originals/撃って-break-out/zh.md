@@ -54,7 +54,6 @@ image: /images/songs/kaf/track-1819865325.jpg
 [00:17.44]<ruby>燃<rt class="furi">も</rt><rt class="roma">mo</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby>
 </div>
 <div class="cn-lyric">[00:17.44]燃烧</div>
-<div class="cn-lyric">[00:17.44]燃烧</div>
 </div>
 
 <div class="lyric-line">
@@ -124,14 +123,12 @@ Right by, vivo, <ruby>限界<rt class="furi">げんかい</rt><rt class="roma">g
 [01:11.34]<ruby>不完全<rt class="furi">ふかんぜん</rt><rt class="roma">fukanzen</rt></ruby> <ruby>そう<rt class="roma">sou</rt></ruby><ruby>問題<rt class="furi">もんだい</rt><rt class="roma">mondai</rt></ruby><ruby>外<rt class="furi">がい</rt><rt class="roma">gai</rt></ruby>
 </div>
 <div class="cn-lyric">[01:11.34]不完美 没错 不在考虑范围</div>
-<div class="cn-lyric">[01:11.34]不完美 没错 不在考虑范围</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:15.12]<ruby>もう<rt class="roma">mou</rt></ruby><ruby>一生<rt class="furi">いっしょう</rt><rt class="roma">isshou</rt></ruby><ruby>どうし<rt class="roma">doushi</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
-<div class="cn-lyric">[01:15.12]已经一生无可救药</div>
 <div class="cn-lyric">[01:15.12]已经一生无可救药</div>
 </div>
 
@@ -140,7 +137,6 @@ Right by, vivo, <ruby>限界<rt class="furi">げんかい</rt><rt class="roma">g
 [01:18.20]<ruby>理想<rt class="furi">りそう</rt><rt class="roma">risou</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>現実<rt class="furi">げんじつ</rt><rt class="roma">genjitsu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
 <div class="cn-lyric">[01:18.20]知晓理想与现实</div>
-<div class="cn-lyric">[01:18.20]知晓理想与现实</div>
 </div>
 
 <div class="lyric-line">
@@ -148,14 +144,12 @@ Right by, vivo, <ruby>限界<rt class="furi">げんかい</rt><rt class="roma">g
 [01:21.02]<ruby>ぶって<rt class="roma">butte</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby> (<ruby>ぶって<rt class="roma">butte</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>) <ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby> (<ruby>ぶって<rt class="roma">butte</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>) <ruby>ぶって<rt class="roma">butte</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:21.02]骗我吧 (骗我吧) 现在也 (骗我吧) 骗我吧</div>
-<div class="cn-lyric">[01:21.02]骗我吧 (骗我吧) 现在也 (骗我吧) 骗我吧</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:25.77]<ruby>ただ<rt class="roma">tada</rt></ruby> <ruby>燻<rt class="furi">いぶ</rt><rt class="roma">ibu</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>狭間<rt class="furi">はざま</rt><rt class="roma">hazama</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
-<div class="cn-lyric">[01:25.77]只在 熏烧的夜晚间隙中</div>
 <div class="cn-lyric">[01:25.77]只在 熏烧的夜晚间隙中</div>
 </div>
 

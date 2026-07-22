@@ -200,7 +200,6 @@ image: /images/songs/harusaruhi/single-1687464984.jpg
 [01:12.38]<ruby>拳<rt class="furi">こぶし</rt><rt class="roma">kobushi</rt></ruby><ruby>合<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>わす<rt class="roma">wasu</rt></ruby><ruby>仲間<rt class="furi">なかま</rt><rt class="roma">nakama</rt></ruby><ruby>達<rt class="furi">たち</rt><rt class="roma">tachi</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
 </div>
 <div class="cn-lyric">[01:12.38]献给碰拳的伙伴们</div>
-<div class="cn-lyric">献给碰拳的伙伴们</div>
 </div>
 
 <div class="lyric-line">
@@ -208,7 +207,6 @@ image: /images/songs/harusaruhi/single-1687464984.jpg
 [01:15.26]<ruby>未知<rt class="furi">みち</rt><rt class="roma">michi</rt></ruby> <ruby>苦悩<rt class="furi">くのう</rt><rt class="roma">kunou</rt></ruby> <ruby>未来<rt class="furi">みらい</rt><rt class="roma">mirai</rt></ruby> <ruby>戦<rt class="furi">たたか</rt><rt class="roma">tataka</rt></ruby><ruby>お<rt class="roma">o</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="cn-lyric">[01:15.26]未知 苦恼 未来 战斗吧</div>
-<div class="cn-lyric">未知 苦恼 未来 战斗吧</div>
 </div>
 
 <div class="lyric-line">
@@ -230,8 +228,6 @@ image: /images/songs/harusaruhi/single-1687464984.jpg
 [01:24.38]<ruby>問題<rt class="furi">もんだい</rt><rt class="roma">mondai</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>時<rt class="furi">とき</rt><rt class="roma">toki</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>泣<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>ば<rt class="roma">ba</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby>
 </div>
 <div class="cn-lyric">[01:24.38]没问题的时候哭出来就好</div>
-<div class="cn-lyric">没问题的时候哭出来就好</div>
-<div class="cn-lyric">没问题的时候哭出来就好</div>
 </div>
 
 <div class="lyric-line">
@@ -239,8 +235,6 @@ image: /images/songs/harusaruhi/single-1687464984.jpg
 [01:27.02]<ruby>後悔<rt class="furi">こうかい</rt><rt class="roma">koukai</rt></ruby><ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>自分<rt class="furi">じぶん</rt><rt class="roma">jibun</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>負<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="cn-lyric">[01:27.02]不输给无悔的自己</div>
-<div class="cn-lyric">不输给无悔的自己</div>
-<div class="cn-lyric">不输给无悔的自己</div>
 </div>
 
 <div class="lyric-line">
@@ -248,7 +242,6 @@ image: /images/songs/harusaruhi/single-1687464984.jpg
 [01:30.05]<ruby>叶<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>貴方<rt class="furi">あなた</rt><rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>期待<rt class="furi">きたい</rt><rt class="roma">kitai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:30.05]实现你对我的期待</div>
-<div class="cn-lyric">实现你对我的期待</div>
 </div>
 
 <div class="lyric-line">
@@ -256,8 +249,6 @@ image: /images/songs/harusaruhi/single-1687464984.jpg
 [01:32.96]<ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>行<rt class="furi">ゆ</rt><rt class="roma">yu</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>時間<rt class="furi">じかん</rt><rt class="roma">jikan</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:32.96]直到消失的时间</div>
-<div class="cn-lyric">直到消失的时间</div>
-<div class="cn-lyric">直到消失的时间</div>
 </div>
 
 <br />

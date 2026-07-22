@@ -36,16 +36,12 @@ Drop (Cover Live) appears on CREAM PUFF LIVE 4 (Cover Live) or a related officia
 [00:00.04]Ich hab noch immer keinen Job, Job, Job
 </div>
 <div class="trans-lyric">I still have no job, job, job</div>
-<div class="trans-lyric">I still have no job, job, job</div>
-<div class="trans-lyric">I still have no job, job, job</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:02.41]Bin bankrott-krott-krott und saufe trotzdem
 </div>
-<div class="trans-lyric">I'm broke-roke-roke and still booze</div>
-<div class="trans-lyric">I'm broke-roke-roke and still booze</div>
 <div class="trans-lyric">I'm broke-roke-roke and still booze</div>
 </div>
 
@@ -54,16 +50,12 @@ Drop (Cover Live) appears on CREAM PUFF LIVE 4 (Cover Live) or a related officia
 [00:05.17]Auf das ganze Lernen hab ich immer noch kein'n Bock, Bock, Bock
 </div>
 <div class="trans-lyric">For all that studying I still have no desire, desire, desire</div>
-<div class="trans-lyric">For all that studying I still have no desire, desire, desire</div>
-<div class="trans-lyric">For all that studying I still have no desire, desire, desire</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:08.72]Kippe Shots und hab am nächsten Morgen Kopfweh
 </div>
-<div class="trans-lyric">I down shots and have a headache the next morning</div>
-<div class="trans-lyric">I down shots and have a headache the next morning</div>
 <div class="trans-lyric">I down shots and have a headache the next morning</div>
 </div>
 
@@ -73,7 +65,6 @@ Drop (Cover Live) appears on CREAM PUFF LIVE 4 (Cover Live) or a related officia
 <div class="jp-lyric">
 [00:12.72]Und wenn sie nicht gestorben sind, feiern sie immer noch, noch, noch
 </div>
-<div class="trans-lyric">And if they haven't died, they're still partying, still, still</div>
 <div class="trans-lyric">And if they haven't died, they're still partying, still, still</div>
 </div>
 
@@ -88,7 +79,6 @@ Drop (Cover Live) appears on CREAM PUFF LIVE 4 (Cover Live) or a related officia
 <div class="jp-lyric">
 [00:19.76]Glaub mir, Babe, ich bleib so lange, bis das nicht mehr schockt, schockt, schockt
 </div>
-<div class="trans-lyric">Believe me, babe, I'll stay until it no longer shocks, shocks, shocks</div>
 <div class="trans-lyric">Believe me, babe, I'll stay until it no longer shocks, shocks, shocks</div>
 </div>
 

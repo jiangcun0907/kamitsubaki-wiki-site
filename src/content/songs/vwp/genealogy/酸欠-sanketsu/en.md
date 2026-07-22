@@ -90,16 +90,12 @@ image: /images/songs/vwp/single-1859927431.jpg
 [00:36.48]<ruby>こんな<rt class="roma">konna</rt></ruby><ruby>飲<rt class="furi">の</rt><rt class="roma">no</rt></ruby><ruby>みこん<rt class="roma">mikon</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>首<rt class="furi">くび</rt><rt class="roma">kubi</rt></ruby><ruby>絞<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>まって<rt class="roma">matte</rt></ruby>
 </div>
 <div class="trans-lyric">Swallowing it like this, my throat tightens</div>
-<div class="trans-lyric">Swallowing it like this, my throat tightens</div>
-<div class="trans-lyric">Swallowing it like this, my throat tightens</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:39.06]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby><ruby>痛<rt class="furi">いた</rt><rt class="roma">ita</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>？
 </div>
-<div class="trans-lyric">You must be hurting too, right?</div>
-<div class="trans-lyric">You must be hurting too, right?</div>
 <div class="trans-lyric">You must be hurting too, right?</div>
 </div>
 
@@ -108,15 +104,12 @@ image: /images/songs/vwp/single-1859927431.jpg
 [00:41.71]<ruby>確<rt class="furi">たし</rt><rt class="roma">tashi</rt></ruby><ruby>かめ<rt class="roma">kame</rt></ruby><ruby>させ<rt class="roma">sase</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby>
 </div>
 <div class="trans-lyric">Let me confirm, that I'm the only one</div>
-<div class="trans-lyric">Let me confirm, that I'm the only one</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:44.93]Crazy! Crazy!
 </div>
-<div class="trans-lyric">Crazy! Crazy!</div>
-<div class="trans-lyric">Crazy! Crazy!</div>
 <div class="trans-lyric">Crazy! Crazy!</div>
 </div>
 
@@ -125,7 +118,6 @@ image: /images/songs/vwp/single-1859927431.jpg
 [00:46.92]Take it out <ruby>信<rt class="furi">しん</rt><rt class="roma">shin</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby>
 </div>
 <div class="trans-lyric">Take it out, I believe</div>
-<div class="trans-lyric">Take it out, I believe</div>
 </div>
 
 <div class="lyric-line">
@@ -133,14 +125,12 @@ image: /images/songs/vwp/single-1859927431.jpg
 [00:52.07]<ruby>さあ<rt class="roma">saa</rt></ruby>、<ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>すぐ<rt class="roma">sugu</rt></ruby><ruby>楽<rt class="furi">らく</rt><rt class="roma">raku</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">Come on, let me be at ease right now</div>
-<div class="trans-lyric">Come on, let me be at ease right now</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:55.66]<ruby>ほんと<rt class="roma">honto</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ふたり<rt class="roma">futari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なろ<rt class="roma">naro</rt></ruby>？
 </div>
-<div class="trans-lyric">Let's become the real two of us, okay?</div>
 <div class="trans-lyric">Let's become the real two of us, okay?</div>
 </div>
 

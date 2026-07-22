@@ -153,9 +153,6 @@ image: /images/albums/vwp/proliferation.jpg
 [02:23.88]I'm Falling down...
 </div>
 <div class="cn-lyric">[02:23.88]我正在坠落...</div>
-<div class="cn-lyric">[02:23.88]我正在坠落...</div>
-<div class="cn-lyric">[02:23.88]我正在坠落...</div>
-<div class="cn-lyric">[02:23.88]我正在坠落...</div>
 </div>
 
 <div class="lyric-line">

@@ -142,7 +142,6 @@ image: /images/albums/harusaruhi/shingan.jpg
 [00:56.16]100<ruby>円<rt class="furi">えん</rt><rt class="roma">en</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>できる<rt class="roma">dekiru</rt></ruby><ruby>コンティニュー<rt class="roma">konteinyuu</rt></ruby>
 </div>
 <div class="trans-lyric">A continue that costs 100 yen</div>
-<div class="trans-lyric">A continue that costs 100 yen</div>
 </div>
 
 <div class="lyric-line">
@@ -150,7 +149,6 @@ image: /images/albums/harusaruhi/shingan.jpg
 [00:58.10]<ruby>できる<rt class="roma">dekiru</rt></ruby><ruby>はず<rt class="roma">hazu</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby> <ruby>意識<rt class="furi">いしき</rt><rt class="roma">ishiki</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ここ<rt class="roma">koko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby>
 </div>
 <div class="trans-lyric">[00:58.10]It shouldn't be possible, my consciousness is here</div>
-<div class="trans-lyric">It shouldn't be possible, my consciousness is here</div>
 </div>
 
 <div class="lyric-line">
@@ -158,14 +156,12 @@ image: /images/albums/harusaruhi/shingan.jpg
 [01:00.47]<ruby>自分<rt class="furi">じぶん</rt><rt class="roma">jibun</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>永遠<rt class="furi">えいえん</rt><rt class="roma">eien</rt></ruby><ruby>かも<rt class="roma">kamo</rt></ruby><ruby>しれ<rt class="roma">shire</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby>
 </div>
 <div class="trans-lyric">[01:00.47]Maybe I am eternal, but</div>
-<div class="trans-lyric">Maybe I am eternal, but</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:02.83]100<ruby>年<rt class="furi">ねん</rt><rt class="roma">nen</rt></ruby><ruby>分<rt class="furi">ぶん</rt><rt class="roma">bun</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>そこ<rt class="roma">soko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby>
 </div>
-<div class="trans-lyric">A hundred years' worth of you is there</div>
 <div class="trans-lyric">A hundred years' worth of you is there</div>
 </div>
 
@@ -190,7 +186,6 @@ image: /images/albums/harusaruhi/shingan.jpg
 [01:23.31]<ruby>もし<rt class="roma">moshi</rt></ruby><ruby>そう<rt class="roma">sou</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>あれ<rt class="roma">are</rt></ruby><ruby>ば<rt class="roma">ba</rt></ruby> <ruby>間違<rt class="furi">まちが</rt><rt class="roma">machiga</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>？
 </div>
 <div class="trans-lyric">[01:23.31]If that's the case, isn't it wrong?</div>
-<div class="trans-lyric">If that's the case, isn't it wrong?</div>
 </div>
 
 <div class="lyric-line">
@@ -198,7 +193,6 @@ image: /images/albums/harusaruhi/shingan.jpg
 [01:26.09]<ruby>根拠<rt class="furi">こんきょ</rt><rt class="roma">konkyo</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>すがる<rt class="roma">sugaru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="trans-lyric">[01:26.09]To cling to something baseless</div>
-<div class="trans-lyric">To cling to something baseless</div>
 </div>
 
 <div class="lyric-line">
@@ -206,7 +200,6 @@ image: /images/albums/harusaruhi/shingan.jpg
 [01:28.63]<ruby>可笑<rt class="furi">おか</rt><rt class="roma">oka</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby>
 </div>
 <div class="trans-lyric">[01:28.63]It's ridiculous, but</div>
-<div class="trans-lyric">It's ridiculous, but</div>
 </div>
 
 <br />
@@ -216,14 +209,12 @@ image: /images/albums/harusaruhi/shingan.jpg
 [01:32.62]<ruby>歩<rt class="furi">ある</rt><rt class="roma">aru</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だろ<rt class="roma">daro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>？
 </div>
 <div class="trans-lyric">You're not walking, are you?</div>
-<div class="trans-lyric">You're not walking, are you?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:34.57]<ruby>怖<rt class="furi">こわ</rt><rt class="roma">kowa</rt></ruby><ruby>がって<rt class="roma">gatte</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だろ<rt class="roma">daro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>？
 </div>
-<div class="trans-lyric">You're afraid, aren't you?</div>
 <div class="trans-lyric">You're afraid, aren't you?</div>
 </div>
 
@@ -232,7 +223,6 @@ image: /images/albums/harusaruhi/shingan.jpg
 [01:36.92]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>同<rt class="furi">おな</rt><rt class="roma">ona</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby> <ruby>不安<rt class="furi">ふあん</rt><rt class="roma">fuan</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>変<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>わら<rt class="roma">wara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">[01:36.92]I'm the same, my anxiety doesn't change</div>
-<div class="trans-lyric">I'm the same, my anxiety doesn't change</div>
 </div>
 
 <div class="lyric-line">
@@ -240,7 +230,6 @@ image: /images/albums/harusaruhi/shingan.jpg
 [01:41.63]<ruby>過去<rt class="furi">かこ</rt><rt class="roma">kako</rt></ruby><ruby>未来<rt class="furi">みらい</rt><rt class="roma">mirai</rt></ruby><ruby>昨日<rt class="furi">きのう</rt><rt class="roma">kinou</rt></ruby><ruby>明日<rt class="furi">あした</rt><rt class="roma">ashita</rt></ruby> <ruby>意味<rt class="furi">いみ</rt><rt class="roma">imi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>意味<rt class="furi">いみ</rt><rt class="roma">imi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>探<rt class="furi">さが</rt><rt class="roma">saga</rt></ruby><ruby>す<rt class="roma">su</rt></ruby>
 </div>
 <div class="trans-lyric">[01:41.63]Searching for meaningless meaning in past, future, yesterday, tomorrow</div>
-<div class="trans-lyric">Searching for meaningless meaning in past, future, yesterday, tomorrow</div>
 </div>
 
 <br />
@@ -250,7 +239,6 @@ image: /images/albums/harusaruhi/shingan.jpg
 [01:50.44]<ruby>本当<rt class="furi">ほんとう</rt><rt class="roma">hontou</rt></ruby><ruby>は<rt class="roma">ha</rt></ruby><ruby>辛<rt class="furi">つら</rt><rt class="roma">tsura</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だろ<rt class="roma">daro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>？
 </div>
 <div class="trans-lyric">[01:50.44]In truth, it's painful, isn't it?</div>
-<div class="trans-lyric">In truth, it's painful, isn't it?</div>
 </div>
 
 <div class="lyric-line">
@@ -258,7 +246,6 @@ image: /images/albums/harusaruhi/shingan.jpg
 [01:52.93]<ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>人<rt class="furi">にん</rt><rt class="roma">nin</rt></ruby><ruby>寂<rt class="furi">さび</rt><rt class="roma">sabi</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だろ<rt class="roma">daro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>？
 </div>
 <div class="trans-lyric">[01:52.93]You're lonely alone, aren't you?</div>
-<div class="trans-lyric">You're lonely alone, aren't you?</div>
 </div>
 
 <div class="lyric-line">
@@ -266,7 +253,6 @@ image: /images/albums/harusaruhi/shingan.jpg
 [01:55.19]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>同<rt class="furi">おな</rt><rt class="roma">ona</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby> <ruby>感情<rt class="furi">かんじょう</rt><rt class="roma">kanjou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>かわら<rt class="roma">kawara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">[01:55.19]I'm the same, my feelings don't change</div>
-<div class="trans-lyric">I'm the same, my feelings don't change</div>
 </div>
 
 <div class="lyric-line">

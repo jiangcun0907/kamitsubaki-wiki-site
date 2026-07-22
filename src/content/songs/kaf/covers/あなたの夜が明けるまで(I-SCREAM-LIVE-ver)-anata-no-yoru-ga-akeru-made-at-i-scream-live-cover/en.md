@@ -76,7 +76,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [00:26.07]<ruby>時<rt class="furi">とき</rt><rt class="roma">toki</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>戻<rt class="furi">もど</rt><rt class="roma">modo</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ば<rt class="roma">ba</rt></ruby>、<ruby>なんて<rt class="roma">nante</rt></ruby><ruby>思<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>ながら<rt class="roma">nagara</rt></ruby>
 </div>
 <div class="trans-lyric">While thinking, 'If only time would go back'</div>
-<div class="trans-lyric">While thinking, 'If only time would go back'</div>
 </div>
 
 <div class="lyric-line">
@@ -209,7 +208,6 @@ image: /images/albums/kaf/i-scream-live.jpg
 [02:35.81]<ruby>二<rt class="furi">に</rt><rt class="roma">ni</rt></ruby><ruby>人<rt class="furi">にん</rt><rt class="roma">nin</rt></ruby> <ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>繋<rt class="furi">つな</rt><rt class="roma">tsuna</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>歩<rt class="furi">ある</rt><rt class="roma">aru</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>ましょ<rt class="roma">masho</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
 </div>
 <div class="trans-lyric">The two of us will walk hand in hand</div>
-<div class="trans-lyric">The two of us will walk hand in hand</div>
 </div>
 
 <div class="lyric-line">
@@ -307,14 +305,12 @@ image: /images/albums/kaf/i-scream-live.jpg
 [04:19.94]「<ruby>リリィ<rt class="roma">riryi</rt></ruby>」
 </div>
 <div class="trans-lyric">Lily</div>
-<div class="trans-lyric">Lily</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [04:20.84]「<ruby>なあに<rt class="roma">naani</rt></ruby>」
 </div>
-<div class="trans-lyric">What is it?</div>
 <div class="trans-lyric">What is it?</div>
 </div>
 

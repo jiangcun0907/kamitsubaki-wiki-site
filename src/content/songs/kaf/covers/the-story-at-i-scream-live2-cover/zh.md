@@ -92,16 +92,12 @@ Out laughing at idiocy
 I need a gingerbread man, the one I'll feed
 </div>
 <div class="cn-lyric">我需要一个姜饼人，我会喂养的那个</div>
-<div class="cn-lyric">我需要一个姜饼人，我会喂养的那个</div>
-<div class="cn-lyric">我需要一个姜饼人，我会喂养的那个</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 The gingerbread man, the one I'll eat
 </div>
-<div class="cn-lyric">这个姜饼人，我会吃掉的那个</div>
-<div class="cn-lyric">这个姜饼人，我会吃掉的那个</div>
 <div class="cn-lyric">这个姜饼人，我会吃掉的那个</div>
 </div>
 
@@ -110,8 +106,6 @@ The gingerbread man, the one I'll eat
 One who's always crazy
 </div>
 <div class="cn-lyric">一个总是疯狂的人</div>
-<div class="cn-lyric">一个总是疯狂的人</div>
-<div class="cn-lyric">一个总是疯狂的人</div>
 </div>
 
 <div class="lyric-line">
@@ -119,25 +113,19 @@ One who's always crazy
 Never calls me baby
 </div>
 <div class="cn-lyric">从不叫我宝贝</div>
-<div class="cn-lyric">从不叫我宝贝</div>
-<div class="cn-lyric">从不叫我宝贝</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:30.70]That's the one that I want
+That's the one that I want
 </div>
-<div class="cn-lyric">[00:30.70]那就是我想要的</div>
-<div class="cn-lyric">[00:30.70]那就是我想要的</div>
-<div class="cn-lyric">[00:30.70]那就是我想要的</div>
+<div class="cn-lyric">那就是我想要的</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 All you boys are not him, him
 </div>
-<div class="cn-lyric">你们这些男孩都不是他，他</div>
-<div class="cn-lyric">你们这些男孩都不是他，他</div>
 <div class="cn-lyric">你们这些男孩都不是他，他</div>
 </div>
 
@@ -152,9 +140,9 @@ Can't you see?
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:23.07]I only want the ones who never see me
+I only want the ones who never see me
 </div>
-<div class="cn-lyric">[00:23.07]我只想要那些从不看我的人</div>
+<div class="cn-lyric">我只想要那些从不看我的人</div>
 </div>
 
 <div class="lyric-line">
@@ -180,9 +168,9 @@ It bleeds jelly
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:48.01]Cause you don't want someone to eat your cookie
+Cause you don't want someone to eat your cookie
 </div>
-<div class="cn-lyric">[00:48.01]因为你不想要有人吃掉你的饼干</div>
+<div class="cn-lyric">因为你不想要有人吃掉你的饼干</div>
 </div>
 
 <div class="lyric-line">

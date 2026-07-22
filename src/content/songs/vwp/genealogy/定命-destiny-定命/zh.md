@@ -41,9 +41,6 @@ image: /images/songs/vwp/single-1690114244.jpg
 [00:01.45]V.W.P
 </div>
 <div class="cn-lyric">[00:01.45]V.W.P</div>
-<div class="cn-lyric">[00:01.45]V.W.P</div>
-<div class="cn-lyric">[00:01.45]V.W.P</div>
-<div class="cn-lyric">[00:01.45]V.W.P</div>
 </div>
 
 <div class="lyric-line">
@@ -107,7 +104,6 @@ image: /images/songs/vwp/single-1690114244.jpg
 <div class="jp-lyric">
 [00:43.23]<ruby>テステスマイクチェック<rt class="roma">tesutesumaikuchekku</rt></ruby> <ruby>ワンツー<rt class="roma">wantsuu</rt></ruby>？
 </div>
-<div class="cn-lyric">[00:43.23]测试测试麦克风检查 一二？</div>
 <div class="cn-lyric">[00:43.23]测试测试麦克风检查 一二？</div>
 </div>
 
@@ -210,7 +206,6 @@ image: /images/songs/vwp/single-1690114244.jpg
 <div class="jp-lyric">
 [01:22.89]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby> V.W.P
 </div>
-<div class="cn-lyric">[01:22.89]我们是 V.W.P</div>
 <div class="cn-lyric">[01:22.89]我们是 V.W.P</div>
 </div>
 

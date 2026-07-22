@@ -129,7 +129,6 @@ image: /images/albums/vwp/fate.jpg
 [00:45.87]<ruby>確<rt class="furi">たし</rt><rt class="roma">tashi</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>ここ<rt class="roma">koko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>ある<rt class="roma">aru</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="cn-lyric">[00:45.87]确实就在这里</div>
-<div class="cn-lyric">确实就在这里</div>
 </div>
 
 <div class="lyric-line">
@@ -153,7 +152,6 @@ image: /images/albums/vwp/fate.jpg
 [00:53.94]<ruby>人生<rt class="furi">じんせい</rt><rt class="roma">jinsei</rt></ruby><ruby>全部<rt class="furi">ぜんぶ</rt><rt class="roma">zenbu</rt></ruby><ruby>フィクション<rt class="roma">fyikushon</rt></ruby>
 </div>
 <div class="cn-lyric">[00:53.94]人生全部是虚构</div>
-<div class="cn-lyric">人生全部是虚构</div>
 </div>
 
 <div class="lyric-line">
@@ -175,7 +173,6 @@ image: /images/albums/vwp/fate.jpg
 [01:01.87]<ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>もかも<rt class="roma">mokamo</rt></ruby><ruby>全部<rt class="furi">ぜんぶ</rt><rt class="roma">zenbu</rt></ruby><ruby>フィクション<rt class="roma">fyikushon</rt></ruby>
 </div>
 <div class="cn-lyric">[01:01.87]一切的一切全是虚构</div>
-<div class="cn-lyric">一切的一切全是虚构</div>
 </div>
 
 <br />

@@ -260,14 +260,12 @@ image: /images/songs/isekaijoucho/single-1781819764.jpg
 [02:50.57]<ruby>抱<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>きしめ<rt class="roma">kishime</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="trans-lyric">Because I want to embrace it</div>
-<div class="trans-lyric">Because I want to embrace it</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [02:54.24]<ruby>ただ<rt class="roma">tada</rt></ruby> <ruby>ただ<rt class="roma">tada</rt></ruby> <ruby>もがく<rt class="roma">mogaku</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="trans-lyric">I'll just struggle, just struggle</div>
 <div class="trans-lyric">I'll just struggle, just struggle</div>
 </div>
 

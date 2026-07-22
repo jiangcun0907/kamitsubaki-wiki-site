@@ -76,18 +76,12 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [00:42.10]<ruby>見境<rt class="furi">みさかい</rt><rt class="roma">misakai</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>惚<rt class="furi">ほ</rt><rt class="roma">ho</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>られる<rt class="roma">rareru</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>線<rt class="furi">せん</rt><rt class="roma">sen</rt></ruby>
 </div>
 <div class="cn-lyric">[00:42.10]毫不挑剔被迷恋的世界线</div>
-<div class="cn-lyric">[00:42.10]毫不挑剔被迷恋的世界线</div>
-<div class="cn-lyric">[00:42.10]毫不挑剔被迷恋的世界线</div>
-<div class="cn-lyric">[00:42.10]毫不挑剔被迷恋的世界线</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:45.85]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ナンバーワン<rt class="roma">nanbaawan</rt></ruby>
 </div>
-<div class="cn-lyric">[00:45.85]我是第一名</div>
-<div class="cn-lyric">[00:45.85]我是第一名</div>
-<div class="cn-lyric">[00:45.85]我是第一名</div>
 <div class="cn-lyric">[00:45.85]我是第一名</div>
 </div>
 
@@ -108,14 +102,12 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [00:56.34]<ruby>不便<rt class="furi">ふべん</rt><rt class="roma">fuben</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby> <ruby>不便<rt class="furi">ふべん</rt><rt class="roma">fuben</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby> <ruby>不便<rt class="furi">ふべん</rt><rt class="roma">fuben</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby> <ruby>不便<rt class="furi">ふべん</rt><rt class="roma">fuben</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">[00:56.34]不方便啊 不方便啊 不方便啊 不方便啊</div>
-<div class="cn-lyric">[00:56.34]不方便啊 不方便啊 不方便啊 不方便啊</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:59.24]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>可愛<rt class="furi">かわい</rt><rt class="roma">kawai</rt></ruby><ruby>げ<rt class="roma">ge</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
-<div class="cn-lyric">[00:59.24]我的可爱之处</div>
 <div class="cn-lyric">[00:59.24]我的可爱之处</div>
 </div>
 
@@ -124,14 +116,12 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [01:01.91]<ruby>そんな<rt class="roma">sonna</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>のたまう<rt class="roma">notamau</rt></ruby><ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>一級<rt class="furi">いっきゅう</rt><rt class="roma">ikkyuu</rt></ruby><ruby>品<rt class="furi">ひん</rt><rt class="roma">hin</rt></ruby>
 </div>
 <div class="cn-lyric">[01:01.91]说出这种话的我是一等品</div>
-<div class="cn-lyric">[01:01.91]说出这种话的我是一等品</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:06.31]<ruby>敬<rt class="furi">うやま</rt><rt class="roma">uyama</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>なさい<rt class="roma">nasai</rt></ruby>
 </div>
-<div class="cn-lyric">[01:06.31]请尊敬我</div>
 <div class="cn-lyric">[01:06.31]请尊敬我</div>
 </div>
 
@@ -140,7 +130,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [01:10.45]<ruby>寝<rt class="furi">ね</rt><rt class="roma">ne</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby> <ruby>寝<rt class="furi">ね</rt><rt class="roma">ne</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby> <ruby>寝<rt class="furi">ね</rt><rt class="roma">ne</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby> <ruby>午前<rt class="furi">ごぜん</rt><rt class="roma">gozen</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby>
 </div>
 <div class="cn-lyric">[01:10.45]不管怎么睡 怎么睡 怎么睡 也还是上午</div>
-<div class="cn-lyric">[01:10.45]不管怎么睡 怎么睡 怎么睡 也还是上午</div>
 </div>
 
 <div class="lyric-line">
@@ -148,14 +137,12 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [01:13.44]<ruby>だったら<rt class="roma">dattara</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>のに<rt class="roma">noni</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
 <div class="cn-lyric">[01:13.44]要是那样就好了</div>
-<div class="cn-lyric">[01:13.44]要是那样就好了</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:16.03]<ruby>まだまだ<rt class="roma">madamada</rt></ruby><ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby>、<ruby>楽<rt class="furi">たの</rt><rt class="roma">tano</rt></ruby><ruby>しめる<rt class="roma">shimeru</rt></ruby><ruby>はず<rt class="roma">hazu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>オンリーワン<rt class="roma">onriiwan</rt></ruby>
 </div>
-<div class="cn-lyric">[01:16.03]我还远没有 理应尽情享受的独一无二</div>
 <div class="cn-lyric">[01:16.03]我还远没有 理应尽情享受的独一无二</div>
 </div>
 
@@ -292,7 +279,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 <div class="jp-lyric">
 [02:38.31]Do do
 </div>
-<div class="cn-lyric">[02:38.31]Do do</div>
 <div class="cn-lyric">[02:38.31]Do do</div>
 </div>
 

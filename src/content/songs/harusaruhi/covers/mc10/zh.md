@@ -87,7 +87,6 @@ Surprised to find you feel at home
 Come on, come on and find a smile
 </div>
 <div class="cn-lyric">来吧，来吧，找到微笑</div>
-<div class="cn-lyric">来吧，来吧，找到微笑</div>
 </div>
 
 <br />
@@ -96,8 +95,6 @@ Come on, come on and find a smile
 <div class="jp-lyric">
 Confusion!
 </div>
-<div class="cn-lyric">困惑！</div>
-<div class="cn-lyric">困惑！</div>
 <div class="cn-lyric">困惑！</div>
 </div>
 
@@ -149,7 +146,6 @@ You crush a man
 <div class="jp-lyric">
 You run it up
 </div>
-<div class="cn-lyric">你把它跑起来</div>
 <div class="cn-lyric">你把它跑起来</div>
 </div>
 
@@ -259,7 +255,6 @@ You are my favourite
 <div class="jp-lyric">
 Girl, I gotta tell ya...
 </div>
-<div class="cn-lyric">女孩，我得告诉你...</div>
 <div class="cn-lyric">女孩，我得告诉你...</div>
 </div>
 

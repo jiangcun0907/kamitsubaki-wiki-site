@@ -110,9 +110,6 @@ image: /images/albums/isekaijoucho/shikisai.jpg
 [01:04.98]Oh, jewelry, jealousy
 </div>
 <div class="trans-lyric">Oh, jewelry, jealousy</div>
-<div class="trans-lyric">Oh, jewelry, jealousy</div>
-<div class="trans-lyric">Oh, jewelry, jealousy</div>
-<div class="trans-lyric">Oh, jewelry, jealousy</div>
 </div>
 
 <div class="lyric-line">

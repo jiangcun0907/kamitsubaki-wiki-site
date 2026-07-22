@@ -92,7 +92,6 @@ image: /images/albums/kaf/kyoso-gamma.jpg
 [01:14.72]<ruby>悲<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>しみ<rt class="roma">shimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>なん<rt class="roma">nan</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="cn-lyric">[01:14.72]悲伤算个什么啊</div>
-<div class="cn-lyric">[01:14.72]悲伤算个什么啊</div>
 </div>
 
 <div class="lyric-line">
@@ -100,14 +99,12 @@ image: /images/albums/kaf/kyoso-gamma.jpg
 [01:17.68]<ruby>苦<rt class="furi">くる</rt><rt class="roma">kuru</rt></ruby><ruby>しみ<rt class="roma">shimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>なん<rt class="roma">nan</rt></ruby><ruby>だって<rt class="roma">datte</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="cn-lyric">[01:17.68]痛苦算个什么啊</div>
-<div class="cn-lyric">[01:17.68]痛苦算个什么啊</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:20.61]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>時代<rt class="furi">じだい</rt><rt class="roma">jidai</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>鬼<rt class="furi">おに</rt><rt class="roma">oni</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>いぬ<rt class="roma">inu</rt></ruby><ruby>間<rt class="furi">かん</rt><rt class="roma">kan</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>笑<rt class="furi">わら</rt><rt class="roma">wara</rt></ruby><ruby>ってる<rt class="roma">tteru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
-<div class="cn-lyric">[01:20.61]在我们的时代，每个人都在鬼不在的时候笑着</div>
 <div class="cn-lyric">[01:20.61]在我们的时代，每个人都在鬼不在的时候笑着</div>
 </div>
 

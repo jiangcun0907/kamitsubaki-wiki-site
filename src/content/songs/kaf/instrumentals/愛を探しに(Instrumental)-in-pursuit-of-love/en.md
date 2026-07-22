@@ -160,8 +160,6 @@ Yes No<ruby>の<rt class="roma">no</rt></ruby><ruby>回答<rt class="furi">か�
 Don’t curse me,Rescue me
 </div>
 <div class="trans-lyric">Don’t curse me, Rescue me</div>
-<div class="trans-lyric">Don’t curse me, Rescue me</div>
-<div class="trans-lyric">Don’t curse me, Rescue me</div>
 </div>
 
 <div class="lyric-line">
@@ -176,14 +174,12 @@ Don’t curse me,Rescue me
 <ruby>絶対<rt class="furi">ぜったい</rt><rt class="roma">zettai</rt></ruby><ruby>許<rt class="furi">ゆる</rt><rt class="roma">yuru</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby> <ruby>降り注<rt class="furi">ふりそそ</rt><rt class="roma">furisoso</rt></ruby><ruby>ぐ<rt class="roma">gu</rt></ruby> <ruby>雨<rt class="furi">あめ</rt><rt class="roma">ame</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby>
 </div>
 <div class="trans-lyric">Saying 'I'll never forgive you,' pouring down on a rainy night,</div>
-<div class="trans-lyric">Saying 'I'll never forgive you,' pouring down on a rainy night,</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>笑<rt class="furi">わら</rt><rt class="roma">wara</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>“<ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby>”<ruby>が<rt class="roma">ga</rt></ruby> <ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>光<rt class="furi">ひかり</rt><rt class="roma">hikari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby>
 </div>
-<div class="trans-lyric">The 'now' of laughing with you became my light.</div>
 <div class="trans-lyric">The 'now' of laughing with you became my light.</div>
 </div>
 
@@ -192,15 +188,12 @@ Don’t curse me,Rescue me
 <ruby>臨界<rt class="furi">りんかい</rt><rt class="roma">rinkai</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby><ruby>季節<rt class="furi">きせつ</rt><rt class="roma">kisetsu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>呪<rt class="furi">のろ</rt><rt class="roma">noro</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>また<rt class="roma">mata</rt></ruby><ruby>紡<rt class="furi">つむ</rt><rt class="roma">tsumu</rt></ruby><ruby>ぎ<rt class="roma">gi</rt></ruby><ruby>呪<rt class="furi">のろ</rt><rt class="roma">noro</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby>
 </div>
 <div class="trans-lyric">In the critical season, again weaving curses, being cursed,</div>
-<div class="trans-lyric">In the critical season, again weaving curses, being cursed,</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>死<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>ぬ<rt class="roma">nu</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>ずっと<rt class="roma">zutto</rt></ruby>
 </div>
-<div class="trans-lyric">Forever until death.</div>
-<div class="trans-lyric">Forever until death.</div>
 <div class="trans-lyric">Forever until death.</div>
 </div>
 
@@ -305,7 +298,6 @@ Don’t curse me,Rescue me
 <div class="jp-lyric">
 Velvet curse
 </div>
-<div class="trans-lyric">Velvet curse</div>
 <div class="trans-lyric">Velvet curse</div>
 </div>
 

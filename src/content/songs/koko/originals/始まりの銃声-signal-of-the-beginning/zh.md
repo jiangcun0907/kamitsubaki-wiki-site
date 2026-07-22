@@ -105,14 +105,12 @@ image: /images/songs/koko/single-1749026657.jpg
 [00:57.94]<ruby>あの<rt class="roma">ano</rt></ruby><ruby>日<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>残像<rt class="furi">ざんぞう</rt><rt class="roma">zanzou</rt></ruby> <ruby>その<rt class="roma">sono</rt></ruby><ruby>衝動<rt class="furi">しょうどう</rt><rt class="roma">shoudou</rt></ruby> <ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>胸<rt class="furi">むね</rt><rt class="roma">mune</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="cn-lyric">[00:57.94]那天的残影 那份冲动 至今仍在心中</div>
-<div class="cn-lyric">[00:57.94]那天的残影 那份冲动 至今仍在心中</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:03.13]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>と共<rt class="furi">ととも</rt><rt class="roma">totomo</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>眼前<rt class="furi">がんぜん</rt><rt class="roma">ganzen</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby><ruby>と<rt class="roma">to</rt></ruby>
 </div>
-<div class="cn-lyric">[01:03.13]与你一同迈向眼前的世界</div>
 <div class="cn-lyric">[01:03.13]与你一同迈向眼前的世界</div>
 </div>
 
@@ -121,14 +119,12 @@ image: /images/songs/koko/single-1749026657.jpg
 [01:08.07]<ruby>ずっと<rt class="roma">zutto</rt></ruby><ruby>遠方<rt class="furi">えんぽう</rt><rt class="roma">enpou</rt></ruby> <ruby>機<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>待<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby> <ruby>狙<rt class="furi">ねら</rt><rt class="roma">nera</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>定<rt class="furi">さだ</rt><rt class="roma">sada</rt></ruby><ruby>め<rt class="roma">me</rt></ruby>
 </div>
 <div class="cn-lyric">[01:08.07]一直在远方 等待时机 瞄准目标</div>
-<div class="cn-lyric">[01:08.07]一直在远方 等待时机 瞄准目标</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:12.81]<ruby>指<rt class="furi">ゆび</rt><rt class="roma">yubi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>掛<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>引き金<rt class="furi">ひきがね</rt><rt class="roma">hikigane</rt></ruby><ruby>撃ち落<rt class="furi">うちお</rt><rt class="roma">uchio</rt></ruby><ruby>とせ<rt class="roma">tose</rt></ruby><ruby>欺瞞<rt class="furi">ぎまん</rt><rt class="roma">giman</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
-<div class="cn-lyric">[01:12.81]扣下扳机 击落那些谎言</div>
 <div class="cn-lyric">[01:12.81]扣下扳机 击落那些谎言</div>
 </div>
 

@@ -98,7 +98,6 @@ Twig appears on CREAM PUFF LIVE or a related official release. Entries are versi
 [00:51.56]A twig in the wind, a twig in the wind, ah hoo
 </div>
 <div class="trans-lyric">A twig in the wind, a twig in the wind, ah hoo</div>
-<div class="trans-lyric">A twig in the wind, a twig in the wind, ah hoo</div>
 </div>
 
 <div class="lyric-line">

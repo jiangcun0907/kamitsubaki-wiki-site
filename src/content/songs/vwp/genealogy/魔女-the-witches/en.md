@@ -131,7 +131,6 @@ image: /images/albums/vwp/fate.jpg
 [00:57.32]<ruby>答<rt class="furi">こた</rt><rt class="roma">kota</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">[00:57.32]Answer me</div>
-<div class="trans-lyric">Answer me</div>
 </div>
 
 <div class="lyric-line">
@@ -139,8 +138,6 @@ image: /images/albums/vwp/fate.jpg
 [00:58.57]<ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
 </div>
 <div class="trans-lyric">[00:58.57]Sing</div>
-<div class="trans-lyric">Sing</div>
-<div class="trans-lyric">Sing</div>
 </div>
 
 <div class="lyric-line">
@@ -155,7 +152,6 @@ image: /images/albums/vwp/fate.jpg
 [01:02.05]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>産声<rt class="furi">うぶごえ</rt><rt class="roma">ubugoe</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="trans-lyric">[01:02.05]Your first cry</div>
-<div class="trans-lyric">Your first cry</div>
 </div>
 
 <div class="lyric-line">
@@ -163,7 +159,6 @@ image: /images/albums/vwp/fate.jpg
 [01:04.68]<ruby>頭<rt class="furi">あたま</rt><rt class="roma">atama</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>悪<rt class="furi">わる</rt><rt class="roma">waru</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>号<rt class="furi">ごう</rt><rt class="roma">gou</rt></ruby>哭<ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="trans-lyric">[01:04.68]The foolish wailing</div>
-<div class="trans-lyric">The foolish wailing</div>
 </div>
 
 <div class="lyric-line">
@@ -192,7 +187,6 @@ image: /images/albums/vwp/fate.jpg
 [01:11.86]<ruby>この<rt class="roma">kono</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>もの<rt class="roma">mono</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="trans-lyric">[01:11.86]This world is mine</div>
-<div class="trans-lyric">This world is mine</div>
 </div>
 
 <div class="lyric-line">

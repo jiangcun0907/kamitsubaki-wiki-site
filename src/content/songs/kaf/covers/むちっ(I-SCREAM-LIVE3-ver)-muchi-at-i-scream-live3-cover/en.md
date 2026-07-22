@@ -34,27 +34,12 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [00:11.11]<ruby>はみ出<rt class="furi">はみだ</rt><rt class="roma">hamida</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ちゃう<rt class="roma">chau</rt></ruby><ruby>ほど<rt class="roma">hodo</rt></ruby> <ruby>むちっ<rt class="roma">muchi</rt></ruby>
 </div>
 <div class="trans-lyric">So plump it's spilling out</div>
-<div class="trans-lyric">So plump it's spilling out</div>
-<div class="trans-lyric">So plump it's spilling out</div>
-<div class="trans-lyric">So plump it's spilling out</div>
-<div class="trans-lyric">So plump it's spilling out</div>
-<div class="trans-lyric">So plump it's spilling out</div>
-<div class="trans-lyric">So plump it's spilling out</div>
-<div class="trans-lyric">So plump it's spilling out</div>
-<div class="trans-lyric">So plump it's spilling out</div>
-<div class="trans-lyric">So plump it's spilling out</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:13.27]<ruby>ああ<rt class="roma">aa</rt></ruby> <ruby>つかみ<rt class="roma">tsukami</rt></ruby><ruby>きれ<rt class="roma">kire</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>ほど<rt class="roma">hodo</rt></ruby><ruby>の<rt class="roma">no</rt></ruby> <ruby>むちっ<rt class="roma">muchi</rt></ruby>
 </div>
-<div class="trans-lyric">Ah, so plump I can't grasp it all</div>
-<div class="trans-lyric">Ah, so plump I can't grasp it all</div>
-<div class="trans-lyric">Ah, so plump I can't grasp it all</div>
-<div class="trans-lyric">Ah, so plump I can't grasp it all</div>
-<div class="trans-lyric">Ah, so plump I can't grasp it all</div>
-<div class="trans-lyric">Ah, so plump I can't grasp it all</div>
 <div class="trans-lyric">Ah, so plump I can't grasp it all</div>
 </div>
 
@@ -63,26 +48,12 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [00:15.93]<ruby>抜け出<rt class="furi">ぬけだ</rt><rt class="roma">nukeda</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>なる<rt class="roma">naru</rt></ruby><ruby>その<rt class="roma">sono</rt></ruby><ruby>うち<rt class="roma">uchi</rt></ruby>
 </div>
 <div class="trans-lyric">Before long you'll be unable to escape</div>
-<div class="trans-lyric">Before long you'll be unable to escape</div>
-<div class="trans-lyric">Before long you'll be unable to escape</div>
-<div class="trans-lyric">Before long you'll be unable to escape</div>
-<div class="trans-lyric">Before long you'll be unable to escape</div>
-<div class="trans-lyric">Before long you'll be unable to escape</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:18.36]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>まだ<rt class="roma">mada</rt></ruby><ruby>無知<rt class="furi">むち</rt><rt class="roma">muchi</rt></ruby><ruby>無知<rt class="furi">むち</rt><rt class="roma">muchi</rt></ruby><ruby>無知<rt class="furi">むち</rt><rt class="roma">muchi</rt></ruby>
 </div>
-<div class="trans-lyric">You're still ignorant, ignorant, ignorant</div>
-<div class="trans-lyric">You're still ignorant, ignorant, ignorant</div>
-<div class="trans-lyric">You're still ignorant, ignorant, ignorant</div>
-<div class="trans-lyric">You're still ignorant, ignorant, ignorant</div>
-<div class="trans-lyric">You're still ignorant, ignorant, ignorant</div>
-<div class="trans-lyric">You're still ignorant, ignorant, ignorant</div>
-<div class="trans-lyric">You're still ignorant, ignorant, ignorant</div>
-<div class="trans-lyric">You're still ignorant, ignorant, ignorant</div>
-<div class="trans-lyric">You're still ignorant, ignorant, ignorant</div>
 <div class="trans-lyric">You're still ignorant, ignorant, ignorant</div>
 </div>
 
@@ -139,7 +110,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 <div class="jp-lyric">
 [00:40.44]<ruby>わがまま<rt class="roma">wagamama</rt></ruby><ruby>な<rt class="roma">na</rt></ruby> <ruby>むちっ<rt class="roma">muchi</rt></ruby> <ruby>と<rt class="roma">to</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby>
 </div>
-<div class="trans-lyric">Selfish plumpness is better</div>
 <div class="trans-lyric">Selfish plumpness is better</div>
 </div>
 
@@ -264,7 +234,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 [01:30.58]<ruby>抜け出<rt class="furi">ぬけだ</rt><rt class="roma">nukeda</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>なる<rt class="roma">naru</rt></ruby> <ruby>その<rt class="roma">sono</rt></ruby><ruby>うち<rt class="roma">uchi</rt></ruby>
 </div>
 <div class="trans-lyric">Before long you'll be unable to escape</div>
-<div class="trans-lyric">Before long you'll be unable to escape</div>
 </div>
 
 <div class="lyric-line">
@@ -283,7 +252,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 <div class="jp-lyric">
 [01:38.40]<ruby>ああ<rt class="roma">aa</rt></ruby> <ruby>つかみ<rt class="roma">tsukami</rt></ruby><ruby>きれ<rt class="roma">kire</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>ほど<rt class="roma">hodo</rt></ruby> <ruby>むちっ<rt class="roma">muchi</rt></ruby>
 </div>
-<div class="trans-lyric">Ah, so plump I can't grasp it all</div>
 <div class="trans-lyric">Ah, so plump I can't grasp it all</div>
 </div>
 
@@ -509,7 +477,6 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 <div class="jp-lyric">
 [03:03.67]<ruby>無知<rt class="furi">むち</rt><rt class="roma">muchi</rt></ruby> <ruby>無知<rt class="furi">むち</rt><rt class="roma">muchi</rt></ruby> <ruby>無知<rt class="furi">むち</rt><rt class="roma">muchi</rt></ruby> <ruby>無知<rt class="furi">むち</rt><rt class="roma">muchi</rt></ruby>
 </div>
-<div class="trans-lyric">Ignorant, ignorant, ignorant, ignorant</div>
 <div class="trans-lyric">Ignorant, ignorant, ignorant, ignorant</div>
 </div>
 

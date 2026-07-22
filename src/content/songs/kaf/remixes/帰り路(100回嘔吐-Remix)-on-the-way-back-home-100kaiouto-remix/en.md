@@ -90,7 +90,6 @@ image: /images/albums/kaf/maho-gamma.jpg
 [00:35.59]<ruby>まあ<rt class="roma">maa</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>や<rt class="roma">ya</rt></ruby>
 </div>
 <div class="trans-lyric">Well, whatever</div>
-<div class="trans-lyric">Well, whatever</div>
 </div>
 
 <div class="lyric-line">
@@ -128,7 +127,6 @@ image: /images/albums/kaf/maho-gamma.jpg
 [01:01.06]<ruby>本当<rt class="furi">ほんとう</rt><rt class="roma">hontou</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>かも<rt class="roma">kamo</rt></ruby><ruby>しれ<rt class="roma">shire</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">[01:01.06]Might not be the real me</div>
-<div class="trans-lyric">Might not be the real me</div>
 </div>
 
 <div class="lyric-line">

@@ -82,14 +82,12 @@ image: /images/songs/kaf/track-1772862797.jpg
 Yeah 환상일까 like a prism
 </div>
 <div class="trans-lyric">Yeah, is it an illusion like a prism</div>
-<div class="trans-lyric">Yeah, is it an illusion like a prism</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 굴절된 light 조각나 있어
 </div>
-<div class="trans-lyric">The refracted light is shattered</div>
 <div class="trans-lyric">The refracted light is shattered</div>
 </div>
 
@@ -98,14 +96,12 @@ Yeah 환상일까 like a prism
 잠겨있던 거친 마음은
 </div>
 <div class="trans-lyric">My locked-up rough heart</div>
-<div class="trans-lyric">My locked-up rough heart</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 여전히 너를 향하고 있다고
 </div>
-<div class="trans-lyric">Is still heading towards you</div>
 <div class="trans-lyric">Is still heading towards you</div>
 </div>
 
@@ -114,7 +110,6 @@ Yeah 환상일까 like a prism
 미로 속에 갇혀버린 나
 </div>
 <div class="trans-lyric">I'm trapped in a maze</div>
-<div class="trans-lyric">I'm trapped in a maze</div>
 </div>
 
 <div class="lyric-line">
@@ -122,14 +117,12 @@ Yeah 환상일까 like a prism
 어지럽게 늘 헤매여도
 </div>
 <div class="trans-lyric">Even if I wander dizzily</div>
-<div class="trans-lyric">Even if I wander dizzily</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 결국 돌아가 너에게로 woah
 </div>
-<div class="trans-lyric">In the end, I return to you, woah</div>
 <div class="trans-lyric">In the end, I return to you, woah</div>
 </div>
 
@@ -140,16 +133,12 @@ Yeah 환상일까 like a prism
 넌 나의 answer 알 수 있어
 </div>
 <div class="trans-lyric">You're my answer, I can tell</div>
-<div class="trans-lyric">You're my answer, I can tell</div>
-<div class="trans-lyric">You're my answer, I can tell</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 투명한 공기처럼
 </div>
-<div class="trans-lyric">Like transparent air</div>
-<div class="trans-lyric">Like transparent air</div>
 <div class="trans-lyric">Like transparent air</div>
 </div>
 
@@ -158,16 +147,12 @@ Yeah 환상일까 like a prism
 유일한 answer I can feel you
 </div>
 <div class="trans-lyric">The only answer, I can feel you</div>
-<div class="trans-lyric">The only answer, I can feel you</div>
-<div class="trans-lyric">The only answer, I can feel you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 공허한 밤을 채워
 </div>
-<div class="trans-lyric">Fill the empty night</div>
-<div class="trans-lyric">Fill the empty night</div>
 <div class="trans-lyric">Fill the empty night</div>
 </div>
 
@@ -176,8 +161,6 @@ Yeah 환상일까 like a prism
 아련한 별들 같이 넌 내 안에 쏟아진다
 </div>
 <div class="trans-lyric">Like faint stars, you pour into me</div>
-<div class="trans-lyric">Like faint stars, you pour into me</div>
-<div class="trans-lyric">Like faint stars, you pour into me</div>
 </div>
 
 <div class="lyric-line">
@@ -185,16 +168,12 @@ Yeah 환상일까 like a prism
 [01:42.09]You are the one
 </div>
 <div class="trans-lyric">You are the one</div>
-<div class="trans-lyric">You are the one</div>
-<div class="trans-lyric">You are the one</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 찾고 있던 나의 answer, answer, yeah
 </div>
-<div class="trans-lyric">My answer I've been looking for, answer, yeah</div>
-<div class="trans-lyric">My answer I've been looking for, answer, yeah</div>
 <div class="trans-lyric">My answer I've been looking for, answer, yeah</div>
 </div>
 

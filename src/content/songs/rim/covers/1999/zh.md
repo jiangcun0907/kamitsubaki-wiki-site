@@ -43,9 +43,6 @@ Oh, whoa
 Sha la la la la la la la la la la la la la la la
 </div>
 <div class="cn-lyric">沙啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦</div>
-<div class="cn-lyric">沙啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦</div>
-<div class="cn-lyric">沙啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦</div>
-<div class="cn-lyric">沙啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦</div>
 </div>
 
 <div class="lyric-line">
@@ -119,9 +116,6 @@ There's still so much I wanna do
 I only kiss, kiss, kiss when the sun don't shine
 </div>
 <div class="cn-lyric">我只在太阳不照耀时亲吻，亲吻，亲吻</div>
-<div class="cn-lyric">我只在太阳不照耀时亲吻，亲吻，亲吻</div>
-<div class="cn-lyric">我只在太阳不照耀时亲吻，亲吻，亲吻</div>
-<div class="cn-lyric">我只在太阳不照耀时亲吻，亲吻，亲吻</div>
 </div>
 
 <div class="lyric-line">
@@ -129,22 +123,12 @@ I only kiss, kiss, kiss when the sun don't shine
 Oh whoa, oh whoa
 </div>
 <div class="cn-lyric">哦哇哦，哦哇哦</div>
-<div class="cn-lyric">哦哇哦，哦哇哦</div>
-<div class="cn-lyric">哦哇哦，哦哇哦</div>
-<div class="cn-lyric">哦哇哦，哦哇哦</div>
-<div class="cn-lyric">哦哇哦，哦哇哦</div>
-<div class="cn-lyric">哦哇哦，哦哇哦</div>
-<div class="cn-lyric">哦哇哦，哦哇哦</div>
-<div class="cn-lyric">哦哇哦，哦哇哦</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 You wanna kiss, kiss, kiss, then tonight is fine
 </div>
-<div class="cn-lyric">你想要亲吻，亲吻，亲吻，那今晚没问题</div>
-<div class="cn-lyric">你想要亲吻，亲吻，亲吻，那今晚没问题</div>
-<div class="cn-lyric">你想要亲吻，亲吻，亲吻，那今晚没问题</div>
 <div class="cn-lyric">你想要亲吻，亲吻，亲吻，那今晚没问题</div>
 </div>
 
@@ -160,8 +144,6 @@ Oh whoa, oh whoa
 <div class="jp-lyric">
 Make some noise for the Vengaboys
 </div>
-<div class="cn-lyric">为Vengaboys欢呼</div>
-<div class="cn-lyric">为Vengaboys欢呼</div>
 <div class="cn-lyric">为Vengaboys欢呼</div>
 </div>
 
@@ -296,7 +278,6 @@ Oh whoa, oh whoa
 Kiss me when the sun don't shine
 </div>
 <div class="cn-lyric">在太阳不照耀时吻我</div>
-<div class="cn-lyric">在太阳不照耀时吻我</div>
 </div>
 
 <br />
@@ -393,7 +374,6 @@ When the sun don't shine (when the sun)
 <div class="jp-lyric">
 Oh whoa, oh whoa (don't shine)
 </div>
-<div class="cn-lyric">哦哇哦，哦哇哦（不照耀）</div>
 <div class="cn-lyric">哦哇哦，哦哇哦（不照耀）</div>
 </div>
 

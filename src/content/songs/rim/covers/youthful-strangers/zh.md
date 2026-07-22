@@ -80,29 +80,12 @@ Bum biddly biddly biddly biddly biddly biddly bum
 I say
 </div>
 <div class="cn-lyric">我说</div>
-<div class="cn-lyric">我说</div>
-<div class="cn-lyric">我说</div>
-<div class="cn-lyric">我说</div>
-<div class="cn-lyric">我说</div>
-<div class="cn-lyric">我说</div>
-<div class="cn-lyric">我说</div>
-<div class="cn-lyric">我说</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Pass the dutchie 'pon the left hand side
 </div>
-<div class="cn-lyric">把锅罐传向左手边</div>
-<div class="cn-lyric">把锅罐传向左手边</div>
-<div class="cn-lyric">把锅罐传向左手边</div>
-<div class="cn-lyric">把锅罐传向左手边</div>
-<div class="cn-lyric">把锅罐传向左手边</div>
-<div class="cn-lyric">把锅罐传向左手边</div>
-<div class="cn-lyric">把锅罐传向左手边</div>
-<div class="cn-lyric">把锅罐传向左手边</div>
-<div class="cn-lyric">把锅罐传向左手边</div>
-<div class="cn-lyric">把锅罐传向左手边</div>
 <div class="cn-lyric">把锅罐传向左手边</div>
 </div>
 
@@ -117,25 +100,12 @@ Pass the dutchie 'pon the left hand side
 It a go done
 </div>
 <div class="cn-lyric">就会完成</div>
-<div class="cn-lyric">就会完成</div>
-<div class="cn-lyric">就会完成</div>
-<div class="cn-lyric">就会完成</div>
-<div class="cn-lyric">就会完成</div>
-<div class="cn-lyric">就会完成</div>
-<div class="cn-lyric">就会完成</div>
-<div class="cn-lyric">就会完成</div>
-<div class="cn-lyric">就会完成</div>
-<div class="cn-lyric">就会完成</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Give me the music make me jump and prance
 </div>
-<div class="cn-lyric">给我音乐让我跳跃欢腾</div>
-<div class="cn-lyric">给我音乐让我跳跃欢腾</div>
-<div class="cn-lyric">给我音乐让我跳跃欢腾</div>
-<div class="cn-lyric">给我音乐让我跳跃欢腾</div>
 <div class="cn-lyric">给我音乐让我跳跃欢腾</div>
 </div>
 
@@ -150,10 +120,6 @@ It a go done
 Give me the music make me rock in and the dance
 </div>
 <div class="cn-lyric">给我音乐让我摇摆起舞</div>
-<div class="cn-lyric">给我音乐让我摇摆起舞</div>
-<div class="cn-lyric">给我音乐让我摇摆起舞</div>
-<div class="cn-lyric">给我音乐让我摇摆起舞</div>
-<div class="cn-lyric">给我音乐让我摇摆起舞</div>
 </div>
 
 <div class="lyric-line">
@@ -167,13 +133,6 @@ It was a cool and lovely breezy afternoon
 <div class="jp-lyric">
 How does it feel when you got no food
 </div>
-<div class="cn-lyric">当你没有食物时感觉如何</div>
-<div class="cn-lyric">当你没有食物时感觉如何</div>
-<div class="cn-lyric">当你没有食物时感觉如何</div>
-<div class="cn-lyric">当你没有食物时感觉如何</div>
-<div class="cn-lyric">当你没有食物时感觉如何</div>
-<div class="cn-lyric">当你没有食物时感觉如何</div>
-<div class="cn-lyric">当你没有食物时感觉如何</div>
 <div class="cn-lyric">当你没有食物时感觉如何</div>
 </div>
 
@@ -399,7 +358,6 @@ Give me the music make me rock in and the dance
 Me say listen to the bass
 </div>
 <div class="cn-lyric">我说听那贝斯</div>
-<div class="cn-lyric">我说听那贝斯</div>
 </div>
 
 <div class="lyric-line">
@@ -407,14 +365,12 @@ Me say listen to the bass
 Give me little music
 </div>
 <div class="cn-lyric">给我一点音乐</div>
-<div class="cn-lyric">给我一点音乐</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Make me wind up me waist
 </div>
-<div class="cn-lyric">让我扭动腰肢</div>
 <div class="cn-lyric">让我扭动腰肢</div>
 </div>
 
@@ -503,14 +459,12 @@ You play it on the radio
 A so me say
 </div>
 <div class="cn-lyric">所以我这样说</div>
-<div class="cn-lyric">所以我这样说</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 We a go hear it on the stereo
 </div>
-<div class="cn-lyric">我们会在立体音响听到它</div>
 <div class="cn-lyric">我们会在立体音响听到它</div>
 </div>
 
@@ -594,10 +548,6 @@ Give me the music make me rock in and the dance
 On the left hand side
 </div>
 <div class="cn-lyric">在左手边</div>
-<div class="cn-lyric">在左手边</div>
-<div class="cn-lyric">在左手边</div>
-<div class="cn-lyric">在左手边</div>
-<div class="cn-lyric">在左手边</div>
 </div>
 
 <div class="lyric-line">
@@ -641,14 +591,12 @@ On the left hand side
 Well me say East say West
 </div>
 <div class="cn-lyric">嗯我说东说西</div>
-<div class="cn-lyric">嗯我说东说西</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Say North and South
 </div>
-<div class="cn-lyric">说北和南</div>
 <div class="cn-lyric">说北和南</div>
 </div>
 

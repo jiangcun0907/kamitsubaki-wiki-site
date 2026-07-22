@@ -36,9 +36,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [00:41.07]<ruby>プランクトン<rt class="roma">purankuton</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>おかさ<rt class="roma">okasa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>感情<rt class="furi">かんじょう</rt><rt class="roma">kanjou</rt></ruby><ruby>おぼれ<rt class="roma">obore</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
 <div class="cn-lyric">[00:41.07]被浮游生物侵蚀的情感，溺毙消失。</div>
-<div class="cn-lyric">[00:41.07]被浮游生物侵蚀的情感，溺毙消失。</div>
-<div class="cn-lyric">[00:41.07]被浮游生物侵蚀的情感，溺毙消失。</div>
-<div class="cn-lyric">[00:41.07]被浮游生物侵蚀的情感，溺毙消失。</div>
 </div>
 
 <div class="lyric-line">
@@ -73,14 +70,12 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 [01:23.76]<ruby>嫌<rt class="furi">きら</rt><rt class="roma">kira</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>白<rt class="furi">しろ</rt><rt class="roma">shiro</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>肌<rt class="furi">はだ</rt><rt class="roma">hada</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>生<rt class="furi">なま</rt><rt class="roma">nama</rt></ruby><ruby>ぬる<rt class="roma">nuru</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby>
 </div>
 <div class="cn-lyric">[01:23.76]讨厌白色肌肤的微温。</div>
-<div class="cn-lyric">[01:23.76]讨厌白色肌肤的微温。</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:28.71]<ruby>痛<rt class="furi">いた</rt><rt class="roma">ita</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>くらい<rt class="roma">kurai</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ちょうど<rt class="roma">choudo</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>と<rt class="roma">to</rt></ruby>
 </div>
-<div class="cn-lyric">[01:28.71]疼痛的程度对我来说刚刚好。</div>
 <div class="cn-lyric">[01:28.71]疼痛的程度对我来说刚刚好。</div>
 </div>
 
@@ -104,8 +99,6 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 <div class="jp-lyric">
 [01:48.83]「<ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>きる<rt class="roma">kiru</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>きる<rt class="roma">kiru</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby>」
 </div>
-<div class="cn-lyric">[01:48.83]「像活着一样活着」</div>
-<div class="cn-lyric">[01:48.83]「像活着一样活着」</div>
 <div class="cn-lyric">[01:48.83]「像活着一样活着」</div>
 </div>
 

@@ -37,15 +37,6 @@ image: /images/albums/kaf/love-and-flower.jpg
 [00:02.11]<ruby>ラブラブラブ<rt class="roma">raburaburabu</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby> <ruby>嗚呼<rt class="furi">ああ</rt><rt class="roma">aa</rt></ruby>
 </div>
 <div class="cn-lyric">[00:02.11]爱意浓浓 啊</div>
-<div class="cn-lyric">爱意浓浓 啊</div>
-<div class="cn-lyric">爱意浓浓 啊</div>
-<div class="cn-lyric">爱意浓浓 啊</div>
-<div class="cn-lyric">爱意浓浓 啊</div>
-<div class="cn-lyric">爱意浓浓 啊</div>
-<div class="cn-lyric">爱意浓浓 啊</div>
-<div class="cn-lyric">爱意浓浓 啊</div>
-<div class="cn-lyric">爱意浓浓 啊</div>
-<div class="cn-lyric">爱意浓浓 啊</div>
 </div>
 
 <div class="lyric-line">
@@ -136,7 +127,6 @@ image: /images/albums/kaf/love-and-flower.jpg
 [01:12.55]<ruby>まだ<rt class="roma">mada</rt></ruby><ruby>離<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>幻<rt class="furi">まぼろし</rt><rt class="roma">maboroshi</rt></ruby>
 </div>
 <div class="cn-lyric">[01:12.55]还未放开我 幻影</div>
-<div class="cn-lyric">还未放开我 幻影</div>
 </div>
 
 <div class="lyric-line">
@@ -144,7 +134,6 @@ image: /images/albums/kaf/love-and-flower.jpg
 [01:16.78]<ruby>繰り返<rt class="furi">くりかえ</rt><rt class="roma">kurikae</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>逃避行<rt class="furi">とうひこう</rt><rt class="roma">touhikou</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>ぬ<rt class="roma">nu</rt></ruby>
 </div>
 <div class="cn-lyric">[01:16.78]并非重复的逃避之旅</div>
-<div class="cn-lyric">并非重复的逃避之旅</div>
 </div>
 
 <div class="lyric-line">
@@ -152,7 +141,6 @@ image: /images/albums/kaf/love-and-flower.jpg
 [01:20.09]<ruby>夜間<rt class="furi">やかん</rt><rt class="roma">yakan</rt></ruby><ruby>飛行<rt class="furi">ひこう</rt><rt class="roma">hikou</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>たち<rt class="roma">tachi</rt></ruby>
 </div>
 <div class="cn-lyric">[01:20.09]乘着夜间飞行 我们</div>
-<div class="cn-lyric">乘着夜间飞行 我们</div>
 </div>
 
 <div class="lyric-line">
@@ -160,10 +148,6 @@ image: /images/albums/kaf/love-and-flower.jpg
 [01:23.75]<ruby>共鳴<rt class="furi">きょうめい</rt><rt class="roma">kyoumei</rt></ruby><ruby>中心<rt class="furi">ちゅうしん</rt><rt class="roma">chuushin</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>線<rt class="furi">せん</rt><rt class="roma">sen</rt></ruby>
 </div>
 <div class="cn-lyric">[01:23.75]共鸣中心世界线</div>
-<div class="cn-lyric">共鸣中心世界线</div>
-<div class="cn-lyric">共鸣中心世界线</div>
-<div class="cn-lyric">共鸣中心世界线</div>
-<div class="cn-lyric">共鸣中心世界线</div>
 </div>
 
 <div class="lyric-line">
@@ -171,7 +155,6 @@ image: /images/albums/kaf/love-and-flower.jpg
 [01:27.14]<ruby>眩<rt class="furi">まぶ</rt><rt class="roma">mabu</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>方<rt class="furi">ほう</rt><rt class="roma">hou</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby><ruby>走<rt class="furi">はし</rt><rt class="roma">hashi</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby>
 </div>
 <div class="cn-lyric">[01:27.14]向着耀眼的方向奔跑</div>
-<div class="cn-lyric">向着耀眼的方向奔跑</div>
 </div>
 
 <div class="lyric-line">
@@ -179,7 +162,6 @@ image: /images/albums/kaf/love-and-flower.jpg
 [01:30.74]<ruby>悲<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="cn-lyric">[01:30.74]不会说悲伤之类的话</div>
-<div class="cn-lyric">不会说悲伤之类的话</div>
 </div>
 
 <div class="lyric-line">
@@ -187,7 +169,6 @@ image: /images/albums/kaf/love-and-flower.jpg
 [01:33.54]<ruby>だから<rt class="roma">dakara</rt></ruby><ruby>離<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>幻<rt class="furi">まぼろし</rt><rt class="roma">maboroshi</rt></ruby>
 </div>
 <div class="cn-lyric">[01:33.54]所以不要放开我 幻影</div>
-<div class="cn-lyric">所以不要放开我 幻影</div>
 </div>
 
 <div class="lyric-line">

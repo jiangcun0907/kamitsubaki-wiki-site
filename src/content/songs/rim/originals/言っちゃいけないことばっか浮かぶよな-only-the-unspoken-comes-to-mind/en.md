@@ -66,7 +66,6 @@ image: /images/albums/rim/imagine.jpg
 <ruby>嫌<rt class="furi">きら</rt><rt class="roma">kira</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ちゃう<rt class="roma">chau</rt></ruby><ruby>な<rt class="roma">na</rt></ruby> <ruby>嫌<rt class="furi">きら</rt><rt class="roma">kira</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ちゃう<rt class="roma">chau</rt></ruby><ruby>な<rt class="roma">na</rt></ruby> <ruby>嫌<rt class="furi">きら</rt><rt class="roma">kira</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ちゃう<rt class="roma">chau</rt></ruby><ruby>なあ<rt class="roma">naa</rt></ruby>
 </div>
 <div class="trans-lyric">I'll be hated, I'll be hated, I'll be hated</div>
-<div class="trans-lyric">I'll be hated, I'll be hated, I'll be hated</div>
 </div>
 
 <div class="lyric-line">
@@ -83,9 +82,6 @@ image: /images/albums/rim/imagine.jpg
 <ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>阿呆<rt class="furi">あほう</rt><rt class="roma">ahou</rt></ruby><ruby>みたい<rt class="roma">mitai</rt></ruby> <ruby>阿呆<rt class="furi">あほ</rt><rt class="roma">aho</rt></ruby><ruby>みたい<rt class="roma">mitai</rt></ruby>
 </div>
 <div class="trans-lyric">Loving like a fool, like a fool</div>
-<div class="trans-lyric">Loving like a fool, like a fool</div>
-<div class="trans-lyric">Loving like a fool, like a fool</div>
-<div class="trans-lyric">Loving like a fool, like a fool</div>
 </div>
 
 <div class="lyric-line">
@@ -93,18 +89,12 @@ image: /images/albums/rim/imagine.jpg
 [00:46.90]<ruby>こんな<rt class="roma">konna</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>ちゃ<rt class="roma">cha</rt></ruby> <ruby>もう<rt class="roma">mou</rt></ruby>the end
 </div>
 <div class="trans-lyric">If I say such things, it's already the end</div>
-<div class="trans-lyric">If I say such things, it's already the end</div>
-<div class="trans-lyric">If I say such things, it's already the end</div>
-<div class="trans-lyric">If I say such things, it's already the end</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:50.25]<ruby>嫌<rt class="furi">きら</rt><rt class="roma">kira</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ちまって<rt class="roma">chimatte</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby> yeah
 </div>
-<div class="trans-lyric">I end up being hated yeah</div>
-<div class="trans-lyric">I end up being hated yeah</div>
-<div class="trans-lyric">I end up being hated yeah</div>
 <div class="trans-lyric">I end up being hated yeah</div>
 </div>
 
@@ -127,9 +117,6 @@ image: /images/albums/rim/imagine.jpg
 <div class="jp-lyric">
 [01:00.87]<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> a hold me tight, a hold me tight
 </div>
-<div class="trans-lyric">Love me a hold me tight, a hold me tight</div>
-<div class="trans-lyric">Love me a hold me tight, a hold me tight</div>
-<div class="trans-lyric">Love me a hold me tight, a hold me tight</div>
 <div class="trans-lyric">Love me a hold me tight, a hold me tight</div>
 </div>
 

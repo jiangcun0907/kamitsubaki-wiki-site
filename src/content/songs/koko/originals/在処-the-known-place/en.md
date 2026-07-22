@@ -120,15 +120,12 @@ image: /images/songs/koko/single-1818295141.jpg
 <ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ため<rt class="roma">tame</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>きる<rt class="roma">kiru</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>悪<rt class="furi">わる</rt><rt class="roma">waru</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">Living for someone isn't so bad</div>
-<div class="trans-lyric">Living for someone isn't so bad</div>
-<div class="trans-lyric">Living for someone isn't so bad</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>あなた<rt class="roma">anata</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>同<rt class="furi">おな</rt><rt class="roma">ona</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>色<rt class="furi">いろ</rt><rt class="roma">iro</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
 </div>
-<div class="trans-lyric">If the world you see is the same color</div>
 <div class="trans-lyric">If the world you see is the same color</div>
 </div>
 
@@ -137,14 +134,12 @@ image: /images/songs/koko/single-1818295141.jpg
 <ruby>それ<rt class="roma">sore</rt></ruby><ruby>以上<rt class="furi">いじょう</rt><rt class="roma">ijou</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>幸<rt class="furi">しあわ</rt><rt class="roma">shiawa</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>なんて<rt class="roma">nante</rt></ruby><ruby>ありえ<rt class="roma">arie</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
 </div>
 <div class="trans-lyric">There can be no greater happiness than that</div>
-<div class="trans-lyric">There can be no greater happiness than that</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>叶<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>わたし<rt class="roma">watashi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>会<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
-<div class="trans-lyric">If it can come true, I want to go see you</div>
 <div class="trans-lyric">If it can come true, I want to go see you</div>
 </div>
 
@@ -153,14 +148,12 @@ image: /images/songs/koko/single-1818295141.jpg
 <ruby>流れ星<rt class="furi">ながれぼし</rt><rt class="roma">nagareboshi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>かざし<rt class="roma">kazashi</rt></ruby>
 </div>
 <div class="trans-lyric">Holding my hand up to a shooting star</div>
-<div class="trans-lyric">Holding my hand up to a shooting star</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>願<rt class="furi">ねが</rt><rt class="roma">nega</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>かけ<rt class="roma">kake</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby> <ruby>息<rt class="furi">いき</rt><rt class="roma">iki</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>呑<rt class="furi">の</rt><rt class="roma">no</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
-<div class="trans-lyric">I made a wish, held my breath</div>
 <div class="trans-lyric">I made a wish, held my breath</div>
 </div>
 
@@ -169,14 +162,12 @@ image: /images/songs/koko/single-1818295141.jpg
 <ruby>それぞれ<rt class="roma">sorezore</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>星<rt class="furi">ほし</rt><rt class="roma">hoshi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>在処<rt class="furi">ありか</rt><rt class="roma">arika</rt></ruby>
 </div>
 <div class="trans-lyric">The whereabouts of each star</div>
-<div class="trans-lyric">The whereabouts of each star</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>目的<rt class="furi">もくてき</rt><rt class="roma">mokuteki</rt></ruby><ruby>地<rt class="furi">ち</rt><rt class="roma">chi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>必<rt class="furi">かなら</rt><rt class="roma">kanara</rt></ruby><ruby>ず<rt class="roma">zu</rt></ruby><ruby>きっと<rt class="roma">kitto</rt></ruby><ruby>ある<rt class="roma">aru</rt></ruby>
 </div>
-<div class="trans-lyric">Surely there must be a destination</div>
 <div class="trans-lyric">Surely there must be a destination</div>
 </div>
 
@@ -253,7 +244,6 @@ image: /images/songs/koko/single-1818295141.jpg
 <div class="jp-lyric">
 <ruby>光<rt class="furi">ひか</rt><rt class="roma">hika</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby> <ruby>ストーリー<rt class="roma">sutourii</rt></ruby>
 </div>
-<div class="trans-lyric">Shine, story</div>
 <div class="trans-lyric">Shine, story</div>
 </div>
 

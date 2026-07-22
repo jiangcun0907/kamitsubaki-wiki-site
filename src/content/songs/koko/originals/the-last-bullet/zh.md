@@ -66,7 +66,6 @@ image: /images/songs/koko/single-1687478763.jpg
 [00:32.05]<ruby>そこ<rt class="roma">soko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>あった<rt class="roma">atta</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="cn-lyric">[00:32.05]那裡曾有過</div>
-<div class="cn-lyric">[00:32.05]那裡曾有過</div>
 </div>
 
 <div class="lyric-line">
@@ -96,11 +95,6 @@ image: /images/songs/koko/single-1687478763.jpg
 <div class="jp-lyric">
 [00:41.74](Hello, hello)
 </div>
-<div class="cn-lyric">[00:41.74](Hello, hello)</div>
-<div class="cn-lyric">[00:41.74](Hello, hello)</div>
-<div class="cn-lyric">[00:41.74](Hello, hello)</div>
-<div class="cn-lyric">[00:41.74](Hello, hello)</div>
-<div class="cn-lyric">[00:41.74](Hello, hello)</div>
 <div class="cn-lyric">[00:41.74](Hello, hello)</div>
 </div>
 
@@ -142,7 +136,6 @@ image: /images/songs/koko/single-1687478763.jpg
 [00:49.32]Hello, hello, hello
 </div>
 <div class="cn-lyric">[00:49.32]Hello, hello, hello</div>
-<div class="cn-lyric">[00:49.32]Hello, hello, hello</div>
 </div>
 
 <br />
@@ -166,7 +159,6 @@ image: /images/songs/koko/single-1687478763.jpg
 [01:01.27]<ruby>もう<rt class="roma">mou</rt></ruby><ruby>何<rt class="furi">なん</rt><rt class="roma">nan</rt></ruby><ruby>回<rt class="furi">かい</rt><rt class="roma">kai</rt></ruby>
 </div>
 <div class="cn-lyric">[01:01.27]已經多少次</div>
-<div class="cn-lyric">已經多少次</div>
 </div>
 
 <div class="lyric-line">

@@ -113,7 +113,6 @@ image: /images/albums/kaf/kansoku-gamma.jpg
 [00:57.02]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
 </div>
 <div class="cn-lyric">[00:57.02]向着没有你的天空</div>
-<div class="cn-lyric">向着没有你的天空</div>
 </div>
 
 <br />

@@ -73,8 +73,6 @@ image: /images/albums/rim/chocolate-live-4.jpg
 [00:48.19]Sensation of stopping shocked
 </div>
 <div class="cn-lyric">[00:48.19]停止的感觉令人震惊</div>
-<div class="cn-lyric">[00:48.19]停止的感觉令人震惊</div>
-<div class="cn-lyric">[00:48.19]停止的感觉令人震惊</div>
 </div>
 
 <div class="lyric-line">
@@ -126,7 +124,6 @@ image: /images/albums/rim/chocolate-live-4.jpg
 [01:13.28]I moved I walked I walked
 </div>
 <div class="cn-lyric">[01:13.28]我移动 我走 我走</div>
-<div class="cn-lyric">[01:13.28]我移动 我走 我走</div>
 </div>
 
 <div class="lyric-line">
@@ -177,14 +174,12 @@ image: /images/albums/rim/chocolate-live-4.jpg
 [01:40.46]Mom told me wait be steady be locked be ready
 </div>
 <div class="cn-lyric">[01:40.46]妈妈告诉我等待 保持稳定 锁定 准备好</div>
-<div class="cn-lyric">[01:40.46]妈妈告诉我等待 保持稳定 锁定 准备好</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:44.11]For things just like this
 </div>
-<div class="cn-lyric">[01:44.11]为了这样的事情</div>
 <div class="cn-lyric">[01:44.11]为了这样的事情</div>
 </div>
 

@@ -64,7 +64,6 @@ image: /images/albums/harusaruhi/rule-the-world.jpg
 [00:29.54]And still, playing like I'm unaware
 </div>
 <div class="trans-lyric">And still, playing like I'm unaware</div>
-<div class="trans-lyric">And still, playing like I'm unaware</div>
 </div>
 
 <div class="lyric-line">
@@ -128,8 +127,6 @@ image: /images/albums/harusaruhi/rule-the-world.jpg
 [01:21.55]Echoes of rain
 </div>
 <div class="trans-lyric">Echoes of rain</div>
-<div class="trans-lyric">Echoes of rain</div>
-<div class="trans-lyric">Echoes of rain</div>
 </div>
 
 <div class="lyric-line">
@@ -151,7 +148,6 @@ image: /images/albums/harusaruhi/rule-the-world.jpg
 [01:27.54]<ruby>ここ<rt class="roma">koko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>と<rt class="roma">to</rt></ruby>
 </div>
 <div class="trans-lyric">Stay here</div>
-<div class="trans-lyric">Stay here, I say</div>
 </div>
 
 <div class="lyric-line">

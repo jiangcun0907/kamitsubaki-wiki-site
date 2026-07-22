@@ -111,14 +111,12 @@ image: /images/albums/vwp/virtual-city-record.jpg
 [00:55.36]<ruby>それ<rt class="roma">sore</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>まるで<rt class="roma">marude</rt></ruby><ruby>英雄<rt class="furi">えいゆう</rt><rt class="roma">eiyuu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
 <div class="trans-lyric">It's like a hero</div>
-<div class="trans-lyric">It's like a hero</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:59.10]<ruby>闇夜<rt class="furi">やみよ</rt><rt class="roma">yamiyo</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>漏<rt class="furi">も</rt><rt class="roma">mo</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby><ruby>光芒<rt class="furi">こうぼう</rt><rt class="roma">koubou</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
 </div>
-<div class="trans-lyric">Like a beam of light leaking into the dark night</div>
 <div class="trans-lyric">Like a beam of light leaking into the dark night</div>
 </div>
 
@@ -127,14 +125,12 @@ image: /images/albums/vwp/virtual-city-record.jpg
 [01:02.53]<ruby>キラキラ<rt class="roma">kirakira</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>メサイア<rt class="roma">mesaia</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="trans-lyric">Far from a sparkling messiah</div>
-<div class="trans-lyric">Far from a sparkling messiah</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:06.80]<ruby>かけ離<rt class="furi">かけはな</rt><rt class="roma">kakehana</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">Far removed</div>
 <div class="trans-lyric">Far removed</div>
 </div>
 
@@ -143,14 +139,12 @@ image: /images/albums/vwp/virtual-city-record.jpg
 [01:09.26]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ひどく<rt class="roma">hidoku</rt></ruby><ruby>強欲<rt class="furi">ごうよく</rt><rt class="roma">gouyoku</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>描<rt class="furi">えが</rt><rt class="roma">ega</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">I, with grievous greed, depict</div>
-<div class="trans-lyric">I, with grievous greed, depict</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:12.81]<ruby>あるいは<rt class="roma">aruiha</rt></ruby><ruby>ひどく<rt class="roma">hidoku</rt></ruby><ruby>強引<rt class="furi">ごういん</rt><rt class="roma">gouin</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>歪<rt class="furi">ゆが</rt><rt class="roma">yuga</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="trans-lyric">Or with grievous stubbornness, distort</div>
 <div class="trans-lyric">Or with grievous stubbornness, distort</div>
 </div>
 
@@ -348,7 +342,6 @@ image: /images/albums/vwp/virtual-city-record.jpg
 <div class="jp-lyric">
 [03:08.94]<ruby>ああ<rt class="roma">aa</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ため<rt class="roma">tame</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby>
 </div>
-<div class="trans-lyric">Ah, I want to be me for you</div>
 <div class="trans-lyric">Ah, I want to be me for you</div>
 </div>
 

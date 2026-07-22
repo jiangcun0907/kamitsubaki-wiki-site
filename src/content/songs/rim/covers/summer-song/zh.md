@@ -64,7 +64,6 @@ The shadow of a shady tree
 Gonna go down to the river
 </div>
 <div class="cn-lyric">我要去河边</div>
-<div class="cn-lyric">我要去河边</div>
 </div>
 
 <div class="lyric-line">
@@ -72,14 +71,12 @@ Gonna go down to the river
 Gonna go down make it right
 </div>
 <div class="cn-lyric">我要去让一切变好</div>
-<div class="cn-lyric">我要去让一切变好</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 And send all my love to your maker
 </div>
-<div class="cn-lyric">把所有的爱送给造物主</div>
 <div class="cn-lyric">把所有的爱送给造物主</div>
 </div>
 
@@ -97,16 +94,12 @@ For making you right
 Are you ready for a new day, a new day
 </div>
 <div class="cn-lyric">你准备好迎接新的一天了吗，新的一天</div>
-<div class="cn-lyric">你准备好迎接新的一天了吗，新的一天</div>
-<div class="cn-lyric">你准备好迎接新的一天了吗，新的一天</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Blow me a kiss and send it straight to the sun
 </div>
-<div class="cn-lyric">给我一个飞吻，让它直飞向太阳</div>
-<div class="cn-lyric">给我一个飞吻，让它直飞向太阳</div>
 <div class="cn-lyric">给我一个飞吻，让它直飞向太阳</div>
 </div>
 
@@ -115,16 +108,12 @@ Blow me a kiss and send it straight to the sun
 And if you want to take it my way, my way
 </div>
 <div class="cn-lyric">如果你想按我的方式，我的方式</div>
-<div class="cn-lyric">如果你想按我的方式，我的方式</div>
-<div class="cn-lyric">如果你想按我的方式，我的方式</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Then this could be our summer song
 </div>
-<div class="cn-lyric">那么这就能成为我们的夏日之歌</div>
-<div class="cn-lyric">那么这就能成为我们的夏日之歌</div>
 <div class="cn-lyric">那么这就能成为我们的夏日之歌</div>
 </div>
 
@@ -146,9 +135,9 @@ Way that you say your on my side
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[01:45.87]And I want to know that
+And I want to know that
 </div>
-<div class="cn-lyric">[01:45.87]我想知道</div>
+<div class="cn-lyric">我想知道</div>
 </div>
 
 <div class="lyric-line">
@@ -220,9 +209,9 @@ Let me make you understand
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:23.10]Just take me by the hand
+Just take me by the hand
 </div>
-<div class="cn-lyric">[00:23.10]只需牵着我的手</div>
+<div class="cn-lyric">只需牵着我的手</div>
 </div>
 
 <div class="lyric-line">
@@ -248,9 +237,9 @@ If I could only make you see
 
 <div class="lyric-line">
 <div class="jp-lyric">
-[00:23.10]Just what you mean to me
+Just what you mean to me
 </div>
-<div class="cn-lyric">[00:23.10]你对我意味着什么</div>
+<div class="cn-lyric">你对我意味着什么</div>
 </div>
 
 <div class="lyric-line">

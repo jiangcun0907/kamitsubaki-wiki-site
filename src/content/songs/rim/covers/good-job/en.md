@@ -36,7 +36,6 @@ good job appears on CHOCOLATE LIVE2 or a related official release. Entries are v
 [00:02.67]I'm on my way back home
 </div>
 <div class="trans-lyric">I'm on my way back home</div>
-<div class="trans-lyric">I'm on my way back home</div>
 </div>
 
 <div class="lyric-line">
@@ -64,9 +63,6 @@ good job appears on CHOCOLATE LIVE2 or a related official release. Entries are v
 <div class="jp-lyric">
 [00:17.14]On my way back home
 </div>
-<div class="trans-lyric">On my way back home</div>
-<div class="trans-lyric">On my way back home</div>
-<div class="trans-lyric">On my way back home</div>
 <div class="trans-lyric">On my way back home</div>
 </div>
 
@@ -124,14 +120,12 @@ good job appears on CHOCOLATE LIVE2 or a related official release. Entries are v
 [01:00.63]수많은 차들이 지나가네
 </div>
 <div class="trans-lyric">Countless cars are passing by</div>
-<div class="trans-lyric">Countless cars are passing by</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:04.04]수많은 하루들을 싣고서
 </div>
-<div class="trans-lyric">Carrying so many days</div>
 <div class="trans-lyric">Carrying so many days</div>
 </div>
 
@@ -140,14 +134,12 @@ good job appears on CHOCOLATE LIVE2 or a related official release. Entries are v
 [01:08.18]How was your day
 </div>
 <div class="trans-lyric">How was your day</div>
-<div class="trans-lyric">How was your day</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:11.85]음음
 </div>
-<div class="trans-lyric">Mmm</div>
 <div class="trans-lyric">Mmm</div>
 </div>
 
@@ -156,14 +148,12 @@ good job appears on CHOCOLATE LIVE2 or a related official release. Entries are v
 [01:15.10]수많은 말들이 생각나네
 </div>
 <div class="trans-lyric">So many words come to mind</div>
-<div class="trans-lyric">So many words come to mind</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:18.55]수많은 침묵들뿐이지만
 </div>
-<div class="trans-lyric">Only countless silences though</div>
 <div class="trans-lyric">Only countless silences though</div>
 </div>
 
@@ -172,14 +162,12 @@ good job appears on CHOCOLATE LIVE2 or a related official release. Entries are v
 [01:21.79]But I gotta say
 </div>
 <div class="trans-lyric">But I gotta say</div>
-<div class="trans-lyric">But I gotta say</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:25.47]I gotta say
 </div>
-<div class="trans-lyric">I gotta say</div>
 <div class="trans-lyric">I gotta say</div>
 </div>
 
@@ -197,14 +185,12 @@ good job appears on CHOCOLATE LIVE2 or a related official release. Entries are v
 [01:33.28]수고했다고
 </div>
 <div class="trans-lyric">You worked hard</div>
-<div class="trans-lyric">You worked hard</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:36.80]더 잘 할 수 있었단 말로
 </div>
-<div class="trans-lyric">With words like 'you could have done better'</div>
 <div class="trans-lyric">With words like 'you could have done better'</div>
 </div>
 
@@ -213,14 +199,12 @@ good job appears on CHOCOLATE LIVE2 or a related official release. Entries are v
 [01:40.63]채찍질하지 마
 </div>
 <div class="trans-lyric">Don't whip yourself</div>
-<div class="trans-lyric">Don't whip yourself</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:42.97]I did a freaking good job
 </div>
-<div class="trans-lyric">I did a freaking good job</div>
 <div class="trans-lyric">I did a freaking good job</div>
 </div>
 
@@ -229,14 +213,12 @@ good job appears on CHOCOLATE LIVE2 or a related official release. Entries are v
 [01:47.76]이 정도면 뭐
 </div>
 <div class="trans-lyric">This is good enough</div>
-<div class="trans-lyric">This is good enough</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:50.36]편히 쉬어도 돼
 </div>
-<div class="trans-lyric">You can rest easy</div>
 <div class="trans-lyric">You can rest easy</div>
 </div>
 
@@ -245,19 +227,12 @@ good job appears on CHOCOLATE LIVE2 or a related official release. Entries are v
 [01:54.31]'Cause I
 </div>
 <div class="trans-lyric">'Cause I</div>
-<div class="trans-lyric">'Cause I</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:57.54]I did a good job
 </div>
-<div class="trans-lyric">I did a good job</div>
-<div class="trans-lyric">I did a good job</div>
-<div class="trans-lyric">I did a good job</div>
-<div class="trans-lyric">I did a good job</div>
-<div class="trans-lyric">I did a good job</div>
-<div class="trans-lyric">I did a good job</div>
 <div class="trans-lyric">I did a good job</div>
 </div>
 

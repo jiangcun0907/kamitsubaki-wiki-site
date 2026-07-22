@@ -37,17 +37,12 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [00:15.35]<ruby>この<rt class="roma">kono</rt></ruby><ruby>なんと<rt class="roma">nanto</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>いや<rt class="roma">iya</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="trans-lyric">I hate this world that can be spun any way</div>
-<div class="trans-lyric">I hate this world that can be spun any way</div>
-<div class="trans-lyric">I hate this world that can be spun any way</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:19.80]<ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>気<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>なし<rt class="roma">nashi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby> <ruby>ただ<rt class="roma">tada</rt></ruby>
 </div>
-<div class="trans-lyric">I just want to idly watch,</div>
-<div class="trans-lyric">I just want to idly watch,</div>
-<div class="trans-lyric">I just want to idly watch,</div>
 <div class="trans-lyric">I just want to idly watch,</div>
 </div>
 
@@ -56,17 +51,12 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [00:25.11]<ruby>ただ<rt class="roma">tada</rt></ruby><ruby>それだけ<rt class="roma">soredake</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>のに<rt class="roma">noni</rt></ruby>
 </div>
 <div class="trans-lyric">That's all I wanted, though</div>
-<div class="trans-lyric">That's all I wanted, though</div>
-<div class="trans-lyric">That's all I wanted, though</div>
-<div class="trans-lyric">That's all I wanted, though</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:30.95]<ruby>この<rt class="roma">kono</rt></ruby><ruby>どう<rt class="roma">dou</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>とれる<rt class="roma">toreru</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>いや<rt class="roma">iya</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
-<div class="trans-lyric">I hate this world that can be interpreted any way</div>
-<div class="trans-lyric">I hate this world that can be interpreted any way</div>
 <div class="trans-lyric">I hate this world that can be interpreted any way</div>
 </div>
 
@@ -75,15 +65,12 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [00:35.38]<ruby>どう<rt class="roma">dou</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby> <ruby>もう<rt class="roma">mou</rt></ruby><ruby>黙<rt class="furi">だま</rt><rt class="roma">dama</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>パパ<rt class="roma">papa</rt></ruby>
 </div>
 <div class="trans-lyric">I don't care, just be quiet, Dad</div>
-<div class="trans-lyric">I don't care, just be quiet, Dad</div>
-<div class="trans-lyric">I don't care, just be quiet, Dad</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:40.72]<ruby>黙<rt class="furi">だま</rt><rt class="roma">dama</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>パパ<rt class="roma">papa</rt></ruby>
 </div>
-<div class="trans-lyric">Be quiet, Dad</div>
 <div class="trans-lyric">Be quiet, Dad</div>
 </div>
 
@@ -150,7 +137,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 [01:21.82]<ruby>大丈夫<rt class="furi">だいじょうぶ</rt><rt class="roma">daijoubu</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="trans-lyric">It's okay</div>
-<div class="trans-lyric">It's okay</div>
 </div>
 
 <div class="lyric-line">
@@ -171,7 +157,6 @@ image: /images/albums/rim/chocolate-live-2.jpg
 <div class="jp-lyric">
 [01:35.88]<ruby>だから<rt class="roma">dakara</rt></ruby><ruby>この<rt class="roma">kono</rt></ruby><ruby>なんと<rt class="roma">nanto</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>いや<rt class="roma">iya</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
-<div class="trans-lyric">That's why I hate this world that can be spun any way</div>
 <div class="trans-lyric">That's why I hate this world that can be spun any way</div>
 </div>
 

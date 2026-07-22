@@ -96,14 +96,12 @@ There's no lies <ruby>裸<rt class="furi">はだか</rt><rt class="roma">hadaka<
 <ruby>魅惑<rt class="furi">みわく</rt><rt class="roma">miwaku</rt></ruby> 1, 2, 3, <ruby>キミ<rt class="roma">kimi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>単純<rt class="furi">たんじゅん</rt><rt class="roma">tanjun</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="cn-lyric">魅惑 1, 2, 3, 单纯地把你</div>
-<div class="cn-lyric">魅惑 1, 2, 3, 单纯地把你</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>奪<rt class="furi">うば</rt><rt class="roma">uba</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>去<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>しまう<rt class="roma">shimau</rt></ruby><ruby>衝動<rt class="furi">しょうどう</rt><rt class="roma">shoudou</rt></ruby> <ruby>理性<rt class="furi">りせい</rt><rt class="roma">risei</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>共謀<rt class="furi">きょうぼう</rt><rt class="roma">kyoubou</rt></ruby>
 </div>
-<div class="cn-lyric">夺走的冲动 与理性的共谋</div>
 <div class="cn-lyric">夺走的冲动 与理性的共谋</div>
 </div>
 
@@ -112,14 +110,12 @@ There's no lies <ruby>裸<rt class="furi">はだか</rt><rt class="roma">hadaka<
 [01:11.46]Can you feel <ruby>もっと<rt class="roma">motto</rt></ruby><ruby>感情<rt class="furi">かんじょう</rt><rt class="roma">kanjou</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="cn-lyric">[01:11.46]Can you feel 更多感情</div>
-<div class="cn-lyric">[01:11.46]Can you feel 更多感情</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>強<rt class="furi">つよ</rt><rt class="roma">tsuyo</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>触<rt class="furi">さわ</rt><rt class="roma">sawa</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>壊<rt class="furi">こわ</rt><rt class="roma">kowa</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>乱<rt class="furi">らん</rt><rt class="roma">ran</rt></ruby> run <ruby>乱<rt class="furi">らん</rt><rt class="roma">ran</rt></ruby>
 </div>
-<div class="cn-lyric">用力触碰破坏 乱 run 乱</div>
 <div class="cn-lyric">用力触碰破坏 乱 run 乱</div>
 </div>
 
@@ -128,7 +124,6 @@ There's no lies <ruby>裸<rt class="furi">はだか</rt><rt class="roma">hadaka<
 [01:18.09]<ruby>キミ<rt class="roma">kimi</rt></ruby><ruby>と<rt class="roma">to</rt></ruby>1, 2, 3, <ruby>ずっと<rt class="roma">zutto</rt></ruby>eyes on me
 </div>
 <div class="cn-lyric">[01:18.09]和你1, 2, 3, 一直eyes on me</div>
-<div class="cn-lyric">[01:18.09]和你1, 2, 3, 一直eyes on me</div>
 </div>
 
 <div class="lyric-line">
@@ -136,14 +131,12 @@ There's no lies <ruby>裸<rt class="furi">はだか</rt><rt class="roma">hadaka<
 Speed up <ruby>止<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>まら<rt class="roma">mara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>鼓動<rt class="furi">こどう</rt><rt class="roma">kodou</rt></ruby> <ruby>キセキ<rt class="roma">kiseki</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>共存<rt class="furi">きょうぞん</rt><rt class="roma">kyouzon</rt></ruby>
 </div>
 <div class="cn-lyric">Speed up 不停的心跳 与奇迹共存</div>
-<div class="cn-lyric">Speed up 不停的心跳 与奇迹共存</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Close to me <ruby>もっと<rt class="roma">motto</rt></ruby><ruby>深<rt class="furi">ふか</rt><rt class="roma">fuka</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>堕<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>ち<rt class="roma">chi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>down
 </div>
-<div class="cn-lyric">Close to me 更深地堕落down</div>
 <div class="cn-lyric">Close to me 更深地堕落down</div>
 </div>
 

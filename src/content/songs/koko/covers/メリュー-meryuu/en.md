@@ -121,7 +121,6 @@ image: /images/albums/koko/arare-live.jpg
 [01:29.07]<ruby>辛<rt class="furi">つら</rt><rt class="roma">tsura</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>思<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby>
 </div>
 <div class="trans-lyric">I just think it's hard</div>
-<div class="trans-lyric">I just think it's hard</div>
 </div>
 
 <div class="lyric-line">

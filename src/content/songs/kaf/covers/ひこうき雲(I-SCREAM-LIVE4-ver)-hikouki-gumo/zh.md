@@ -37,14 +37,12 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 Ashita moshi haretara
 </div>
 <div class="cn-lyric">明天如果放晴了</div>
-<div class="cn-lyric">明天如果放晴了</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Hikoukigumo zenbu atsumete
 </div>
-<div class="cn-lyric">收集所有的航迹云</div>
 <div class="cn-lyric">收集所有的航迹云</div>
 </div>
 
@@ -83,14 +81,12 @@ Afureru omoi to jiyuuna sono basho
 Egakidasu kokoro won ni takushite
 </div>
 <div class="cn-lyric">描绘出的心灵 寄托于音符</div>
-<div class="cn-lyric">描绘出的心灵 寄托于音符</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 Todoke ni iku yo kimi ga iru machi ni
 </div>
-<div class="cn-lyric">前往送达 到你所在的城市</div>
 <div class="cn-lyric">前往送达 到你所在的城市</div>
 </div>
 
@@ -130,7 +126,6 @@ Yumemita keshiki wa mou touzakatte shimau
 <div class="jp-lyric">
 Bokura o tsunagu yo mugen ni hirogaru
 </div>
-<div class="cn-lyric">将我们相连 无限延伸</div>
 <div class="cn-lyric">将我们相连 无限延伸</div>
 </div>
 

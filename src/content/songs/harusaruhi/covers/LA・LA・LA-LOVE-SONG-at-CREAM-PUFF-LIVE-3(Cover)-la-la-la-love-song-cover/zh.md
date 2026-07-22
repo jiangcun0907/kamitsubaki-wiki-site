@@ -36,14 +36,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [00:07.58]<ruby>まわれ<rt class="roma">maware</rt></ruby> <ruby>まわれ<rt class="roma">maware</rt></ruby> <ruby>メリーゴーラウンド<rt class="roma">meriigouraundo</rt></ruby>
 </div>
 <div class="cn-lyric">[00:07.58]旋转吧 旋转吧 旋转木马</div>
-<div class="cn-lyric">[00:07.58]旋转吧 旋转吧 旋转木马</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:11.93]<ruby>もうけ<rt class="roma">mouke</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>止<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>まら<rt class="roma">mara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
-<div class="cn-lyric">[00:11.93]为了永远不再停下</div>
 <div class="cn-lyric">[00:11.93]为了永远不再停下</div>
 </div>
 
@@ -107,14 +105,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [01:34.90]<ruby>息<rt class="furi">いき</rt><rt class="roma">iki</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>とまる<rt class="roma">tomaru</rt></ruby><ruby>くらい<rt class="roma">kurai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby> <ruby>甘<rt class="furi">あま</rt><rt class="roma">ama</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>くち<rt class="roma">kuchi</rt></ruby><ruby>づけ<rt class="roma">zuke</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>しよ<rt class="roma">shiyo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:34.90]来一个近乎窒息的 甜蜜亲吻吧</div>
-<div class="cn-lyric">[01:34.90]来一个近乎窒息的 甜蜜亲吻吧</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:43.77]<ruby>ひと言<rt class="furi">ひとこと</rt><rt class="roma">hitokoto</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>いら<rt class="roma">ira</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby> <ruby>とびきり<rt class="roma">tobikiri</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
-<div class="cn-lyric">[01:43.77]不需要只言片语 这最棒的当下</div>
 <div class="cn-lyric">[01:43.77]不需要只言片语 这最棒的当下</div>
 </div>
 
@@ -123,14 +119,12 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 [01:52.53]<ruby>勇気<rt class="furi">ゆうき</rt><rt class="roma">yuuki</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>くれ<rt class="roma">kure</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby> <ruby>照<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby><ruby>場合<rt class="furi">ばあい</rt><rt class="roma">baai</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
 </div>
 <div class="cn-lyric">[01:52.53]对给予我勇气的你 现在可不是害羞的时候</div>
-<div class="cn-lyric">[01:52.53]对给予我勇气的你 现在可不是害羞的时候</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [02:01.16]<ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>より<rt class="roma">yori</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>本気<rt class="furi">ほんき</rt><rt class="roma">honki</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>La-la-la-la, la-love song
 </div>
-<div class="cn-lyric">[02:01.16]比言语更真挚的 La-la-la-la, la-love song</div>
 <div class="cn-lyric">[02:01.16]比言语更真挚的 La-la-la-la, la-love song</div>
 </div>
 

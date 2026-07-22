@@ -39,7 +39,6 @@ image: /images/albums/kaf/kansoku-gamma.jpg
 [00:00.68]<ruby>止<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>まら<rt class="roma">mara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>闇<rt class="furi">やみ</rt><rt class="roma">yami</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
 </div>
 <div class="cn-lyric">[00:00.68]在永不停止的黑暗中</div>
-<div class="cn-lyric">在永不停止的黑暗中</div>
 </div>
 
 <div class="lyric-line">
@@ -125,7 +124,6 @@ image: /images/albums/kaf/kansoku-gamma.jpg
 [00:55.76]<ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="cn-lyric">[00:55.76]我要去传达</div>
-<div class="cn-lyric">我要去传达</div>
 </div>
 
 <div class="lyric-line">
@@ -185,7 +183,6 @@ image: /images/albums/kaf/kansoku-gamma.jpg
 [01:32.81]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>輪郭<rt class="furi">りんかく</rt><rt class="roma">rinkaku</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:32.81]你的轮廓</div>
-<div class="cn-lyric">你的轮廓</div>
 </div>
 
 <div class="lyric-line">

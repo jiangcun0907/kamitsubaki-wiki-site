@@ -31,16 +31,12 @@ FREELY TOMORROW appears on CANDY LIVE or a related official release. Entries are
 [00:05.91]<ruby>心<rt class="furi">こころ</rt><rt class="roma">kokoro</rt></ruby><ruby>ごと<rt class="roma">goto</rt></ruby><ruby>体<rt class="furi">からだ</rt><rt class="roma">karada</rt></ruby><ruby>ごと<rt class="roma">goto</rt></ruby> <ruby>全部<rt class="furi">ぜんぶ</rt><rt class="roma">zenbu</rt></ruby><ruby>記憶<rt class="furi">きおく</rt><rt class="roma">kioku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>幻<rt class="furi">まぼろし</rt><rt class="roma">maboroshi</rt></ruby>
 </div>
 <div class="trans-lyric">Heart and body, all illusions within memory</div>
-<div class="trans-lyric">Heart and body, all illusions within memory</div>
-<div class="trans-lyric">Heart and body, all illusions within memory</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [00:14.00]<ruby>本当<rt class="furi">ほんとう</rt><rt class="roma">hontou</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>愛情<rt class="furi">あいじょう</rt><rt class="roma">aijou</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby> <ruby>指先<rt class="furi">ゆびさき</rt><rt class="roma">yubisaki</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>流れ出<rt class="furi">ながれだ</rt><rt class="roma">nagareda</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
 </div>
-<div class="trans-lyric">True love flowed from my fingertips</div>
-<div class="trans-lyric">True love flowed from my fingertips</div>
 <div class="trans-lyric">True love flowed from my fingertips</div>
 </div>
 
@@ -111,15 +107,12 @@ FREELY TOMORROW appears on CANDY LIVE or a related official release. Entries are
 [01:35.34]<ruby>顔<rt class="furi">かお</rt><rt class="roma">kao</rt></ruby><ruby>上<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>げ<rt class="roma">ge</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>微笑<rt class="furi">ほほえ</rt><rt class="roma">hohoe</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>ば<rt class="roma">ba</rt></ruby> <ruby>笑顔<rt class="furi">えがお</rt><rt class="roma">egao</rt></ruby><ruby>取り戻<rt class="furi">とりもど</rt><rt class="roma">torimodo</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>魔法<rt class="furi">まほう</rt><rt class="roma">mahou</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なる<rt class="roma">naru</rt></ruby>
 </div>
 <div class="trans-lyric">If I lift my face and smile, it becomes magic to regain smiles</div>
-<div class="trans-lyric">If I lift my face and smile, it becomes magic to regain smiles</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:43.32]<ruby>こころ<rt class="roma">kokoro</rt></ruby> Knock Knock Knock
 </div>
-<div class="trans-lyric">Heart Knock Knock Knock</div>
-<div class="trans-lyric">Heart Knock Knock Knock</div>
 <div class="trans-lyric">Heart Knock Knock Knock</div>
 </div>
 
@@ -128,8 +121,6 @@ FREELY TOMORROW appears on CANDY LIVE or a related official release. Entries are
 [01:45.14]<ruby>不思議<rt class="furi">ふしぎ</rt><rt class="roma">fushigi</rt></ruby> Trick Trick Trick
 </div>
 <div class="trans-lyric">Mysterious Trick Trick Trick</div>
-<div class="trans-lyric">Mysterious Trick Trick Trick</div>
-<div class="trans-lyric">Mysterious Trick Trick Trick</div>
 </div>
 
 <div class="lyric-line">
@@ -137,15 +128,12 @@ FREELY TOMORROW appears on CANDY LIVE or a related official release. Entries are
 [01:47.28]<ruby>生まれ変<rt class="furi">うまれか</rt><rt class="roma">umareka</rt></ruby><ruby>われる<rt class="roma">wareru</rt></ruby> （Wow Wow）
 </div>
 <div class="trans-lyric">Can be reborn (Wow Wow)</div>
-<div class="trans-lyric">Can be reborn (Wow Wow)</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:50.35]Freely Tomorrow
 </div>
-<div class="trans-lyric">Freely Tomorrow</div>
-<div class="trans-lyric">Freely Tomorrow</div>
 <div class="trans-lyric">Freely Tomorrow</div>
 </div>
 

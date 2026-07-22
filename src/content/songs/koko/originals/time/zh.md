@@ -96,7 +96,6 @@ image: /images/songs/koko/single-1688525056.jpg
 [00:53.36]<ruby>悩<rt class="furi">なや</rt><rt class="roma">naya</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>事<rt class="furi">ごと</rt><rt class="roma">goto</rt></ruby><ruby>や<rt class="roma">ya</rt></ruby> <ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>事<rt class="furi">こと</rt><rt class="roma">koto</rt></ruby>
 </div>
 <div class="cn-lyric">[00:53.36]烦恼之事 不能说的事</div>
-<div class="cn-lyric">烦恼之事 不能说的事</div>
 </div>
 
 <div class="lyric-line">
@@ -127,8 +126,6 @@ image: /images/songs/koko/single-1688525056.jpg
 [01:05.97]<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なって<rt class="roma">natte</rt></ruby> <ruby>さよなら<rt class="roma">sayonara</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby>
 </div>
 <div class="cn-lyric">[01:05.97]化为爱 想要说再见却</div>
-<div class="cn-lyric">化为爱 想要说再见却</div>
-<div class="cn-lyric">化为爱 想要说再见却</div>
 </div>
 
 <div class="lyric-line">
@@ -136,7 +133,6 @@ image: /images/songs/koko/single-1688525056.jpg
 [01:10.82]<ruby>先<rt class="furi">さき</rt><rt class="roma">saki</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>進<rt class="furi">すす</rt><rt class="roma">susu</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby> <ruby>怖<rt class="furi">こわ</rt><rt class="roma">kowa</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>怖<rt class="furi">こわ</rt><rt class="roma">kowa</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[01:10.82]向前迈进 好害怕 好害怕</div>
-<div class="cn-lyric">向前迈进 好害怕 好害怕</div>
 </div>
 
 <div class="lyric-line">
@@ -144,9 +140,6 @@ image: /images/songs/koko/single-1688525056.jpg
 [01:18.77]<ruby>灰<rt class="furi">はい</rt><rt class="roma">hai</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なって<rt class="roma">natte</rt></ruby> <ruby>忘<rt class="furi">わす</rt><rt class="roma">wasu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="cn-lyric">[01:18.77]化为灰烬 遗忘</div>
-<div class="cn-lyric">化为灰烬 遗忘</div>
-<div class="cn-lyric">化为灰烬 遗忘</div>
-<div class="cn-lyric">化为灰烬 遗忘</div>
 </div>
 
 <div class="lyric-line">
@@ -154,17 +147,12 @@ image: /images/songs/koko/single-1688525056.jpg
 [01:21.83]<ruby>繰り返<rt class="furi">くりかえ</rt><rt class="roma">kurikae</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>暗闇<rt class="furi">くらやみ</rt><rt class="roma">kurayami</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="cn-lyric">[01:21.83]不断重复 在黑暗中</div>
-<div class="cn-lyric">不断重复 在黑暗中</div>
-<div class="cn-lyric">不断重复 在黑暗中</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:25.28]<ruby>この<rt class="roma">kono</rt></ruby><ruby>ボタン<rt class="roma">botan</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>押<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
-<div class="cn-lyric">[01:25.28]按下这个按钮</div>
-<div class="cn-lyric">[01:25.28]按下这个按钮</div>
-<div class="cn-lyric">[01:25.28]按下这个按钮</div>
 <div class="cn-lyric">[01:25.28]按下这个按钮</div>
 </div>
 
@@ -173,8 +161,6 @@ image: /images/songs/koko/single-1688525056.jpg
 [01:27.81]<ruby>変<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>わる<rt class="roma">waru</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby> <ruby>明日<rt class="furi">あした</rt><rt class="roma">ashita</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ある<rt class="roma">aru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
 </div>
 <div class="cn-lyric">[01:27.81]改变的世界 明天是否存在</div>
-<div class="cn-lyric">改变的世界 明天是否存在</div>
-<div class="cn-lyric">改变的世界 明天是否存在</div>
 </div>
 
 <br />

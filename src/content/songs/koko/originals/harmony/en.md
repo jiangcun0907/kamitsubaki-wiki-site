@@ -82,7 +82,6 @@ harmony appears on harmony or a related official release. Entries are version-sp
 [00:45.45]<ruby>神様<rt class="furi">かみさま</rt><rt class="roma">kamisama</rt></ruby> <ruby>どうして<rt class="roma">doushite</rt></ruby><ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>たち<rt class="roma">tachi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
 </div>
 <div class="trans-lyric">[00:45.45]Oh God, why do we</div>
-<div class="trans-lyric">Oh God, why do we</div>
 </div>
 
 <div class="lyric-line">
@@ -90,7 +89,6 @@ harmony appears on harmony or a related official release. Entries are version-sp
 [00:50.23]<ruby>絶え間<rt class="furi">たえま</rt><rt class="roma">taema</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>争<rt class="furi">あらそ</rt><rt class="roma">araso</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>続<rt class="furi">つづ</rt><rt class="roma">tsuzu</rt></ruby><ruby>ける<rt class="roma">keru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>?
 </div>
 <div class="trans-lyric">[00:50.23]Ceaselessly keep on struggling?</div>
-<div class="trans-lyric">Ceaselessly keep on struggling?</div>
 </div>
 
 <div class="lyric-line">
@@ -98,7 +96,6 @@ harmony appears on harmony or a related official release. Entries are version-sp
 [00:55.48]<ruby>どう<rt class="roma">dou</rt></ruby><ruby>しよう<rt class="roma">shiyou</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
 </div>
 <div class="trans-lyric">[00:55.48]In this irredeemable world</div>
-<div class="trans-lyric">In this irredeemable world</div>
 </div>
 
 <div class="lyric-line">
@@ -115,8 +112,6 @@ harmony appears on harmony or a related official release. Entries are version-sp
 [01:06.30]<ruby>灰色<rt class="furi">はいいろ</rt><rt class="roma">haiiro</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>悲<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>しみ<rt class="roma">shimi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>包<rt class="furi">つつ</rt><rt class="roma">tsutsu</rt></ruby><ruby>ま<rt class="roma">ma</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">[01:06.30]Wrapped in gray sorrow</div>
-<div class="trans-lyric">Wrapped in gray sorrow</div>
-<div class="trans-lyric">Wrapped in gray sorrow</div>
 </div>
 
 <div class="lyric-line">
@@ -124,7 +119,6 @@ harmony appears on harmony or a related official release. Entries are version-sp
 [01:11.42]<ruby>何一<rt class="furi">なにひと</rt><rt class="roma">nanihito</rt></ruby><ruby>つ<rt class="roma">tsu</rt></ruby><ruby>救<rt class="furi">すく</rt><rt class="roma">suku</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>なかった<rt class="roma">nakatta</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
 </div>
 <div class="trans-lyric">[01:11.42]Could not save a single thing</div>
-<div class="trans-lyric">Could not save a single thing</div>
 </div>
 
 <div class="lyric-line">
@@ -132,7 +126,6 @@ harmony appears on harmony or a related official release. Entries are version-sp
 [01:17.24]<ruby>零<rt class="furi">こぼ</rt><rt class="roma">kobo</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>涙<rt class="furi">なみだ</rt><rt class="roma">namida</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>拾<rt class="furi">ひろ</rt><rt class="roma">hiro</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>集<rt class="furi">あつ</rt><rt class="roma">atsu</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
 </div>
 <div class="trans-lyric">[01:17.24]Gathering the tears that fell</div>
-<div class="trans-lyric">Gathering the tears that fell</div>
 </div>
 
 <div class="lyric-line">
@@ -140,16 +133,12 @@ harmony appears on harmony or a related official release. Entries are version-sp
 [01:22.68]<ruby>抗<rt class="furi">あらが</rt><rt class="roma">araga</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>続<rt class="furi">つづ</rt><rt class="roma">tsuzu</rt></ruby><ruby>ける<rt class="roma">keru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
 </div>
 <div class="trans-lyric">[01:22.68]I'll keep on resisting</div>
-<div class="trans-lyric">I'll keep on resisting</div>
-<div class="trans-lyric">I'll keep on resisting</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
 [01:27.05]Until the end
 </div>
-<div class="trans-lyric">Until the end</div>
-<div class="trans-lyric">Until the end</div>
 <div class="trans-lyric">Until the end</div>
 </div>
 
