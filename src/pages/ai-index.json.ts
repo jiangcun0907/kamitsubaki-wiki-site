@@ -1,9 +1,12 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
+import { readContentEntryBody } from '../lib/contentSource.mjs';
 
 export const prerender = true;
 
-function cleanText(value: unknown, maxLength = 12000) {
+const maxIndexTextLength = 6000;
+
+function cleanText(value: unknown, maxLength = maxIndexTextLength) {
   return String(value || '')
     .replace(/^---[\s\S]*?---/u, ' ')
     .replace(/```[\s\S]*?```/gu, ' ')
@@ -37,21 +40,24 @@ export const GET: APIRoute = async ({ site }) => {
     getCollection('logs'),
   ]);
   const collectionNames = ['artists', 'albums', 'songs', 'projects', 'logs'];
-  const entries = groups.flatMap((group, groupIndex) =>
-    group.map((entry) => {
+  const entries = [];
+
+  for (const [groupIndex, group] of groups.entries()) {
+    for (const entry of group) {
       const path = articleRoute(collectionNames[groupIndex], entry.id);
       const metadata = Object.values(entry.data)
         .filter((value) => typeof value === 'string' || Array.isArray(value))
         .join(' ');
-      return {
+      const { body } = await readContentEntryBody(entry);
+      entries.push({
         title: titleFor(entry as { data: Record<string, unknown> }),
         url: `${origin}${path}`,
         locale: entry.data.locale,
         kind: collectionNames[groupIndex].replace(/s$/u, ''),
-        text: cleanText(`${metadata} ${entry.body || ''}`),
-      };
-    }),
-  );
+        text: cleanText(`${metadata} ${body}`),
+      });
+    }
+  }
 
   return new Response(JSON.stringify({ version: 1, generatedAt: new Date().toISOString(), entries }), {
     headers: {

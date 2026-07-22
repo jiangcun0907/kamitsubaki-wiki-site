@@ -3,10 +3,12 @@ import { access, readFile, readdir, stat } from 'node:fs/promises';
 import test from 'node:test';
 import { parse } from 'yaml';
 
+import { assertNoPlaceholderContent } from './helpers/content-assertions.mjs';
+
 const projectRoot = new URL('../', import.meta.url);
 const locales = ['zh', 'ja', 'en'];
 const albumCounts = { vwp: 10, rim: 8, harusaruhi: 9, isekaijoucho: 6, koko: 4 };
-const songCounts = { vwp: 117, rim: 157, harusaruhi: 169, isekaijoucho: 146, koko: 78 };
+const canonicalSongCounts = { vwp: 117, rim: 131, harusaruhi: 169, isekaijoucho: 141, koko: 76 };
 const physicalOnlyAlbums = new Set([
   'rim/chocolate-live',
   'harusaruhi/cream-puff-live',
@@ -20,7 +22,7 @@ function fileUrl(path) {
 
 async function readEntry(path) {
   const source = await readFile(fileUrl(path), 'utf8');
-  const match = source.match(/^---\n([\s\S]*?)\n---\n/);
+  const match = source.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n/);
   assert.ok(match, `${path} must contain frontmatter`);
   return { source, data: parse(match[1]) };
 }
@@ -69,7 +71,7 @@ test('V.W.P and the four newly completed member catalogs contain 37 localized re
       assert.equal(canonical.data.trackCount, canonical.data.tracks.length, `${artist}/${album} track count`);
       for (const { data, source } of localized) {
         assert.deepEqual(data.tracks, canonical.data.tracks, `${artist}/${album} localized tracks`);
-        assert.doesNotMatch(source, /placehold|待补|未定|TBD/i);
+        assertNoPlaceholderContent(source);
         assert.match(source, new RegExp(`https://vgmdb\\.net/artist/`));
       }
       for (const track of canonical.data.tracks) {
@@ -99,11 +101,12 @@ test('V.W.P and the four newly completed member catalogs contain 37 localized re
   }
 });
 
-test('all 667 V.W.P-family recordings are trilingual, credited, linked, and locally illustrated', async () => {
+test('all 634 canonical V.W.P-family recordings are trilingual, credited, unique, and locally illustrated', async () => {
   const checkedArtwork = new Set();
+  const songPathsByCode = new Map();
   let totalSongs = 0;
 
-  for (const [artist, expectedCount] of Object.entries(songCounts)) {
+  for (const [artist, expectedCount] of Object.entries(canonicalSongCounts)) {
     const categories = await directories(`src/content/songs/${artist}`);
     let artistSongs = 0;
     for (const category of categories) {
@@ -113,13 +116,17 @@ test('all 667 V.W.P-family recordings are trilingual, credited, linked, and loca
         const translations = await Promise.all(
           locales.map((locale) => readEntry(`src/content/songs/${artist}/${category}/${song}/${locale}.md`)),
         );
+        const songPath = `${artist}/${category}/${song}`;
         assert.equal(new Set(translations.map(({ data }) => data.translationKey)).size, 1);
+        const existingPath = songPathsByCode.get(translations[0].data.code);
+        assert.equal(existingPath, undefined, `${songPath} duplicates the recording stored at ${existingPath}`);
+        songPathsByCode.set(translations[0].data.code, songPath);
         for (const { data, source } of translations) {
           assert.equal(data.artistId, artist);
           assert.ok(data.artistIds.includes(artist));
           assert.ok(data.image.startsWith('/images/'));
-          assert.doesNotMatch(source, /<iframe\b|placehold|待补|未定|TBD/i);
-          assert.match(source, /不转载未获授权|歌詞全文は転載しません|does not reproduce full lyrics/);
+          assertNoPlaceholderContent(source, { forbidRawIframe: true });
+          assert.match(source, /^## (?:歌词|歌詞|Lyrics)$/m);
           await access(fileUrl(`public/${data.image.slice(1)}`));
           checkedArtwork.add(`public/${data.image.slice(1)}`);
         }
@@ -128,7 +135,7 @@ test('all 667 V.W.P-family recordings are trilingual, credited, linked, and loca
     assert.equal(artistSongs, expectedCount, `${artist} song count must stay complete`);
     totalSongs += artistSongs;
   }
-  assert.equal(totalSongs, 667);
+  assert.equal(totalSongs, 634);
 
   for (const artworkPath of checkedArtwork) {
     const artwork = await readFile(fileUrl(artworkPath));
@@ -153,4 +160,31 @@ test('V.W.P songs are shared with every member catalog without duplicate content
   const catalog = buildArtistSongCatalog([entry], [], 'zh');
   assert.deepEqual(catalog.map(({ slug }) => slug).sort(), ['harusaruhi', 'isekaijoucho', 'kaf', 'koko', 'rim', 'vwp']);
   assert.ok(catalog.every(({ entries }) => entries.length === 1));
+});
+
+test('a collaboration is stored once and linked from every credited artist catalog', async () => {
+  const { buildArtistSongCatalog } = await import('../src/lib/musicCatalog.mjs');
+  const canonicalPath = 'src/content/songs/harusaruhi/collaborations/古傷-furukizu/zh.md';
+  const duplicatePath = 'src/content/songs/koko/collaborations/古傷-furukizu/zh.md';
+  const source = await readFile(fileUrl(canonicalPath), 'utf8');
+  const frontmatter = source.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n/);
+  assert.ok(frontmatter, `${canonicalPath} must contain frontmatter`);
+  const data = parse(frontmatter[1]);
+
+  await assert.rejects(access(fileUrl(duplicatePath)));
+  assert.deepEqual(data.artistIds, ['harusaruhi', 'koko']);
+
+  const entry = { id: 'harusaruhi/collaborations/古傷-furukizu/zh', data };
+  const catalog = buildArtistSongCatalog([entry], [], 'zh');
+  assert.deepEqual(catalog.map(({ slug }) => slug).sort(), ['harusaruhi', 'koko']);
+  assert.ok(catalog.every(({ categories }) =>
+    categories.length === 1
+    && categories[0].slug === 'collaborations'
+    && categories[0].entries[0] === entry));
+
+  const redirects = await readFile(fileUrl('public/_redirects'), 'utf8');
+  assert.match(
+    redirects,
+    /\/zh\/songs\/koko\/collaborations\/古傷-furukizu \/zh\/songs\/harusaruhi\/collaborations\/古傷-furukizu 301/,
+  );
 });

@@ -1,5 +1,5 @@
 ---
-import { getCollection, render } from 'astro:content';
+import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import SiteNav from '../../../components/SiteNav.astro';
 import SiteFooter from '../../../components/SiteFooter.astro';
@@ -11,6 +11,7 @@ import ContentLicenseNotice from '../../../components/ContentLicenseNotice.astro
 import { buildArtistDisplayData, getLocalizedSite } from '../../../lib/homeData.mjs';
 import { buildLocaleLinks, defaultLocale, supportedLocales } from '../../../lib/i18n.mjs';
 import { buildArticleMetadata } from '../../../lib/metadata.mjs';
+import { renderContentEntry } from '../../../lib/contentSource.mjs';
 
 export async function getStaticPaths() {
   const artistEntries = await getCollection('artists');
@@ -34,10 +35,10 @@ export async function getStaticPaths() {
 
 const { locale, id } = Astro.params;
 const { entry } = Astro.props;
-const { Content, headings } = await render(entry);
+const { html: contentHtml, headings, body: articleBody } = await renderContentEntry(entry);
 const articleData = buildArtistDisplayData(entry);
 const localeCode = locale as 'zh' | 'ja' | 'en';
-const hasArticleBody = Boolean(entry.body?.trim());
+const hasArticleBody = Boolean(articleBody);
 const hasTableOfContents = headings.some((heading) => heading.depth === 2 || heading.depth === 3);
 
 const siteEntries = await getCollection('site');
@@ -141,7 +142,7 @@ const contentSourcePath = `src/content/artists/${id}/${localeCode}.md`;
 const sourceHref = `/${localeCode}/contribute/edit?target=${encodeURIComponent(contentSourcePath)}`;
 const metadata = buildArticleMetadata({
   data: articleData,
-  body: entry.body,
+  body: articleBody,
   locale: localeCode,
   id,
 });
@@ -205,7 +206,7 @@ const themeStyle = [
           )}
 
           <article class="wiki-reader wiki-prose wiki-artist-prose prose prose-invert max-w-none reveal-up">
-            <Content />
+            <Fragment set:html={contentHtml} />
           </article>
         </main>
       )}

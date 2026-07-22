@@ -1,5 +1,5 @@
 ---
-import { getCollection, render } from 'astro:content';
+import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import SiteNav from '../../../components/SiteNav.astro';
 import SiteFooter from '../../../components/SiteFooter.astro';
@@ -8,6 +8,7 @@ import ContentLicenseNotice from '../../../components/ContentLicenseNotice.astro
 import { buildLogDisplayData, getLocalizedSite } from '../../../lib/homeData.mjs';
 import { buildLocaleLinks, defaultLocale, supportedLocales } from '../../../lib/i18n.mjs';
 import { buildLogMetadata } from '../../../lib/metadata.mjs';
+import { renderContentEntry } from '../../../lib/contentSource.mjs';
 
 export async function getStaticPaths() {
   const logEntries = await getCollection('logs');
@@ -29,7 +30,7 @@ export async function getStaticPaths() {
 
 const { locale, id } = Astro.params;
 const { entry } = Astro.props;
-const { Content, headings } = await render(entry);
+const { html: contentHtml, headings, body: articleBody } = await renderContentEntry(entry);
 const localeCode = locale as 'zh' | 'ja' | 'en';
 const siteEntries = await getCollection('site');
 const homeContent = getLocalizedSite(siteEntries, localeCode, defaultLocale);
@@ -42,11 +43,11 @@ const alternates = supportedLocales.map((localeCode) => ({
 }));
 const metadata = buildLogMetadata({
   data: logEntry,
-  body: entry.body,
+  body: articleBody,
   locale: localeCode,
   id,
 });
-const hasArticleBody = Boolean(entry.body?.trim());
+const hasArticleBody = Boolean(articleBody);
 const hasTableOfContents = headings.some((heading) => heading.depth === 2 || heading.depth === 3);
 
 const labels = {
@@ -132,7 +133,7 @@ const labels = {
             </details>
           )}
 
-          <Content />
+          <Fragment set:html={contentHtml} />
         </article>
       )}
     </div>

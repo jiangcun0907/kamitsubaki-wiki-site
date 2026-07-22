@@ -26,7 +26,7 @@ tracks:
     number: "1"
     title: "確信(Instrumental)"
     duration: "03:12"
-    songId: "kaf/instrumentals/track-1688351144"
+    songId: "kaf/instrumentals/確信(Instrumental)-conviction-instrumental"
   -
     number: "2"
     title: "糸"
@@ -51,7 +51,7 @@ tracks:
     number: "6"
     title: "Re:HEROINES"
     duration: "03:29"
-    songId: "kaf/originals/track-1688351149"
+    songId: "kaf/originals/re-heroines"
   -
     number: "7"
     title: "夜行バスにて"
@@ -61,7 +61,7 @@ tracks:
     number: "8"
     title: "未確認少女進行形"
     duration: "03:51"
-    songId: "kaf/originals/track-1688351152"
+    songId: "kaf/originals/未確認少女進行形-unconfirmed-girl-progress-form"
   -
     number: "9"
     title: "過去を喰らう"
@@ -71,7 +71,7 @@ tracks:
     number: "10"
     title: "エリカ"
     duration: "03:33"
-    songId: "kaf/originals/track-1688351154"
+    songId: "kaf/originals/エリカ-erica"
   -
     number: "11"
     title: "雛鳥"
@@ -86,7 +86,7 @@ tracks:
     number: "13"
     title: "不可解"
     duration: "04:40"
-    songId: "kaf/originals/track-1688351157"
+    songId: "kaf/originals/不可解-inexplicable"
   -
     number: "14"
     title: "そして花になる"
@@ -96,7 +96,7 @@ tracks:
     number: "15"
     title: "The end of prologue(Instrumental)"
     duration: "02:30"
-    songId: "kaf/instrumentals/track-1688351159"
+    songId: "kaf/instrumentals/the-end-of-prologue-instrumental"
 ---
 
 ## 作品概要
@@ -115,5 +115,5 @@ tracks:
 ## 出典
 
 - [花譜オフィシャルサイト](https://kaf.kamitsubaki.jp/discography/20190911/107/)
-- [Apple Music 日本](https://music.apple.com/jp/album/%E8%A6%B3%E6%B8%AC/1688351143?uo=4)
+- [Apple Music](https://music.apple.com/jp/album/%E8%A6%B3%E6%B8%AC/1688351143?uo=4)
 - [VGMdb 花譜ディスコグラフィー](https://vgmdb.net/artist/34690)

@@ -25,17 +25,17 @@ tracks:
     number: "1"
     title: "コンパスローズ"
     duration: "04:11"
-    songId: "isekaijoucho/originals/track-1879736526"
+    songId: "isekaijoucho/originals/コンパスローズ-compass-rose"
   -
     number: "2"
     title: "モシモノセカイ"
     duration: "04:17"
-    songId: "isekaijoucho/originals/track-1879736527"
+    songId: "isekaijoucho/originals/モシモノセカイ-a-world-of-what-ifs"
   -
     number: "3"
     title: "また、ここから"
     duration: "04:41"
-    songId: "isekaijoucho/originals/track-1879736528"
+    songId: "isekaijoucho/originals/また-ここから-once-again-it-begins"
 ---
 
 ## Overview
@@ -53,5 +53,5 @@ Artwork uses the highest native Apple Music asset available; physical-only relea
 ## Sources
 
 - [Official discography](https://kamitsubaki.jp/discography/isekaijoucho/11204/)
-- [Apple Music Japan](https://music.apple.com/jp/album/virtual-ties-%E3%83%B0%E4%B8%96%E7%95%8C%E6%83%85%E7%B7%92%E5%A4%A2%E6%83%B3%E6%9B%B2-theme-songs-single/1879736525?uo=4)
+- [Apple Music](https://music.apple.com/jp/album/virtual-ties-%E3%83%B0%E4%B8%96%E7%95%8C%E6%83%85%E7%B7%92%E5%A4%A2%E6%83%B3%E6%9B%B2-theme-songs-single/1879736525?uo=4)
 - [VGMdb Isekaijoucho](https://vgmdb.net/artist/53599)

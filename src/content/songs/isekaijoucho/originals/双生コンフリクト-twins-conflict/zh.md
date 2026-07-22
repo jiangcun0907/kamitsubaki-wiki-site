@@ -1,0 +1,265 @@
+---
+locale: zh
+translationKey: isekaijoucho_song_track_1760084630
+title: "双生コンフリクト feat. ヰ世界情緒"
+artist: "LOLUET"
+artistId: isekaijoucho
+artistIds:
+  - "isekaijoucho"
+album: "双生コンフリクト feat. ヰ世界情緒"
+duration: "03:34"
+releaseDate: "2024-08-14"
+categoryTitle: "原创曲"
+categorySubtitle: ORIGINALS
+categoryOrder: 10
+itemOrder: 418
+code: "apple-1760084630"
+image: /images/songs/isekaijoucho/single-1760084629.jpg
+---
+
+## 作品简介
+
+《双生コンフリクト feat. ヰ世界情緒》收录于《双生コンフリクト feat. ヰ世界情緒》或其相关正式发行。本词条按具体录音版本建立；现场、重混与重新编曲版不会与原版混为一项。
+
+## 试听
+
+@[apple-music](https://music.apple.com/jp/album/%E5%8F%8C%E7%94%9F%E3%82%B3%E3%83%B3%E3%83%95%E3%83%AA%E3%82%AF%E3%83%88-feat-%E3%83%B0%E4%B8%96%E7%95%8C%E6%83%85%E7%B7%92/1760084629?i=1760084630&uo=4 "双生コンフリクト feat. ヰ世界情緒")
+
+## 歌词
+
+{{lyrics-controls::zh}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>寂<rt class="furi">さび</rt><rt class="roma">sabi</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
+</div>
+<div class="cn-lyric">因为寂寞所以歌唱</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>閉<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>じる<rt class="roma">jiru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>聞<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
+</div>
+<div class="cn-lyric">闭上眼是因为想倾听</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>風<rt class="furi">かぜ</rt><rt class="roma">kaze</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>読<rt class="furi">よ</rt><rt class="roma">yo</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
+</div>
+<div class="cn-lyric">感受风向是为了你</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>少<rt class="furi">すこ</rt><rt class="roma">suko</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>近<rt class="furi">ちか</rt><rt class="roma">chika</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>感<rt class="furi">かん</rt><rt class="roma">kan</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
+</div>
+<div class="cn-lyric">哪怕只一点也想感觉更近</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>明<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>かり<rt class="roma">kari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
+</div>
+<div class="cn-lyric">致成为光芒的你</div>
+<div class="cn-lyric">致成为光芒的你</div>
+<div class="cn-lyric">致成为光芒的你</div>
+<div class="cn-lyric">致成为光芒的你</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>宇宙<rt class="furi">うちゅう</rt><rt class="roma">uchuu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>飛<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>べる<rt class="roma">beru</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>待<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
+</div>
+<div class="cn-lyric">请等我直到能翱翔宇宙</div>
+<div class="cn-lyric">请等我直到能翱翔宇宙</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>明<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>かり<rt class="roma">kari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
+</div>
+<div class="cn-lyric">你那成为光芒的</div>
+<div class="cn-lyric">你那成为光芒的</div>
+<div class="cn-lyric">你那成为光芒的</div>
+<div class="cn-lyric">你那成为光芒的</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>心臓<rt class="furi">しんぞう</rt><rt class="roma">shinzou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>点滅<rt class="furi">てんめつ</rt><rt class="roma">tenmetsu</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby><ruby>かしら<rt class="roma">kashira</rt></ruby>
+</div>
+<div class="cn-lyric">心脏是否会闪烁呢</div>
+<div class="cn-lyric">心脏是否会闪烁呢</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>哀<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
+</div>
+<div class="cn-lyric">因为悲伤才歌唱</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>閉<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>じる<rt class="roma">jiru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>泣<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
+</div>
+<div class="cn-lyric">闭上眼是因为想哭泣</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>風<rt class="furi">かぜ</rt><rt class="roma">kaze</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>読<rt class="furi">よ</rt><rt class="roma">yo</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
+</div>
+<div class="cn-lyric">感受风向是为了与你</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>少<rt class="furi">すこ</rt><rt class="roma">suko</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>早<rt class="furi">はや</rt><rt class="roma">haya</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>会<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
+</div>
+<div class="cn-lyric">哪怕早一秒也想要相见</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>明<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>かり<rt class="roma">kari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>宇宙<rt class="furi">うちゅう</rt><rt class="roma">uchuu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>待<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
+</div>
+<div class="cn-lyric">请等我直到抵达宇宙</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>明<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>かり<rt class="roma">kari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>心臓<rt class="furi">しんぞう</rt><rt class="roma">shinzou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>凍<rt class="furi">こお</rt><rt class="roma">koo</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ず<rt class="roma">zu</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby><ruby>かしら<rt class="roma">kashira</rt></ruby>
+</div>
+<div class="cn-lyric">心脏是否不会冻结呢</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby> <ruby>・<rt class="roma">/</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby> <ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby> <ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby> <ruby>・<rt class="roma">/</rt></ruby> <ruby>ー<rt class="roma">-</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby> <ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby> <ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby>
+</div>
+<div class="cn-lyric">・・ ・ー・・ ーーー ・・・ー ・ ー・ーー ーーー ・・ー</div>
+<div class="cn-lyric">・・ ・ー・・ ーーー ・・・ー ・ ー・ーー ーーー ・・ー</div>
+<div class="cn-lyric">・・ ・ー・・ ーーー ・・・ー ・ ー・ーー ーーー ・・ー</div>
+<div class="cn-lyric">・・ ・ー・・ ーーー ・・・ー ・ ー・ーー ーーー ・・ー</div>
+<div class="cn-lyric">・・ ・ー・・ ーーー ・・・ー ・ ー・ーー ーーー ・・ー</div>
+<div class="cn-lyric">・・ ・ー・・ ーーー ・・・ー ・ ー・ーー ーーー ・・ー</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby> <ruby>・<rt class="roma">/</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby> <ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby> <ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby> <ruby>・<rt class="roma">/</rt></ruby> <ruby>ー<rt class="roma">-</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby> <ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby> <ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+（ I Love You ）
+</div>
+<div class="cn-lyric">（ I Love You ）</div>
+<div class="cn-lyric">（ I Love You ）</div>
+<div class="cn-lyric">（ I Love You ）</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>明<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>かり<rt class="roma">kari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>宇宙<rt class="furi">うちゅう</rt><rt class="roma">uchuu</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>会<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>待<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
+</div>
+<div class="cn-lyric">请等我直到能在宇宙相会</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>明<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>かり<rt class="roma">kari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>心臓<rt class="furi">しんぞう</rt><rt class="roma">shinzou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>赤<rt class="furi">あか</rt><rt class="roma">aka</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>光<rt class="furi">ひか</rt><rt class="roma">hika</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>かしら<rt class="roma">kashira</rt></ruby>
+</div>
+<div class="cn-lyric">心脏是否会发出红光呢</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby> <ruby>・<rt class="roma">/</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby> <ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby> <ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby> <ruby>・<rt class="roma">/</rt></ruby> <ruby>ー<rt class="roma">-</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby> <ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby> <ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby> <ruby>・<rt class="roma">/</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby> <ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby> <ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby> <ruby>・<rt class="roma">/</rt></ruby> <ruby>ー<rt class="roma">-</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby> <ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby> <ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+（ I Love You ）
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby> <ruby>・<rt class="roma">/</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby> <ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby> <ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby> <ruby>・<rt class="roma">/</rt></ruby> <ruby>ー<rt class="roma">-</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby> <ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby> <ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby> <ruby>・<rt class="roma">/</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby> <ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby> <ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby> <ruby>・<rt class="roma">/</rt></ruby> <ruby>ー<rt class="roma">-</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby> <ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby> <ruby>・<rt class="roma">/</rt></ruby><ruby>・<rt class="roma">/</rt></ruby><ruby>ー<rt class="roma">-</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+（ I Love You ）
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>明<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>かり<rt class="roma">kari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>宇宙<rt class="furi">うちゅう</rt><rt class="roma">uchuu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>飛<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>べる<rt class="roma">beru</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>待<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>明<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>かり<rt class="roma">kari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>心臓<rt class="furi">しんぞう</rt><rt class="roma">shinzou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>点滅<rt class="furi">てんめつ</rt><rt class="roma">tenmetsu</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby><ruby>かしら<rt class="roma">kashira</rt></ruby>
+</div>
+</div>
+
+</div>

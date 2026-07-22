@@ -1,5 +1,5 @@
 ---
-import { getCollection, render } from 'astro:content';
+import { getCollection } from 'astro:content';
 import AlbumInfoBox from '../../../components/AlbumInfoBox.astro';
 import MusicSubnav from '../../../components/MusicSubnav.astro';
 import ContributorRoster from '../../../components/ContributorRoster.astro';
@@ -12,6 +12,7 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import { getLocalizedSite } from '../../../lib/homeData.mjs';
 import { buildLocaleLinks, defaultLocale, supportedLocales } from '../../../lib/i18n.mjs';
 import { buildArticleMetadata } from '../../../lib/metadata.mjs';
+import { renderContentEntry } from '../../../lib/contentSource.mjs';
 
 export async function getStaticPaths() {
   const albumEntries = await getCollection('albums');
@@ -30,9 +31,9 @@ export async function getStaticPaths() {
 
 const { locale, id } = Astro.params;
 const { entry } = Astro.props;
-const { Content, headings } = await render(entry);
+const { html: contentHtml, headings, body: articleBody } = await renderContentEntry(entry);
 const localeCode = locale as 'zh' | 'ja' | 'en';
-const hasArticleBody = Boolean(entry.body?.trim());
+const hasArticleBody = Boolean(articleBody);
 const hasTracks = Boolean(entry.data.tracks?.length);
 const hasMainContent = hasArticleBody || hasTracks;
 const hasTableOfContents = hasArticleBody && headings.some((heading) => heading.depth === 2 || heading.depth === 3);
@@ -83,7 +84,7 @@ const articleData = {
   status: entry.data.releaseDate,
   meta: entry.data.artist,
 };
-const metadata = buildArticleMetadata({ data: articleData, body: entry.body, locale: localeCode, id, collection: 'albums' });
+const metadata = buildArticleMetadata({ data: articleData, body: articleBody, locale: localeCode, id, collection: 'albums' });
 const theme = entry.data.theme ?? {
   accentColor: '#d7b8ff',
   mutedColor: '#9ba9d0',
@@ -130,7 +131,7 @@ const themeStyle = [
             </details>
           )}
 
-          {hasArticleBody && <article class="wiki-reader wiki-prose prose prose-invert max-w-none reveal-up"><Content /></article>}
+          {hasArticleBody && <article class="wiki-reader wiki-prose prose prose-invert max-w-none reveal-up"><Fragment set:html={contentHtml} /></article>}
 
           {hasTracks && (
             <section class:list={['reveal-up', hasArticleBody && 'mt-12 border-t border-white/10 pt-10']}>

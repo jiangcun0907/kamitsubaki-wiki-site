@@ -32,9 +32,259 @@ image: /images/albums/kaf/yoru-ga-furiyamu-mae-ni.jpg
 
 ## 歌詞
 
-歌詞・読み・翻訳は、利用可能な出典を確認したうえで追加予定です。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:34.20]<ruby>止<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>まら<rt class="roma">mara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>闇<rt class="furi">やみ</rt><rt class="roma">yami</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:36.96]<ruby>泡<rt class="furi">あわ</rt><rt class="roma">awa</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>芽吹<rt class="furi">めぶ</rt><rt class="roma">mebu</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>花<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:40.73]<ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>埋<rt class="furi">うず</rt><rt class="roma">uzu</rt></ruby><ruby>もれ<rt class="roma">more</rt></ruby><ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby>
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:44.66]<ruby>月<rt class="furi">つき</rt><rt class="roma">tsuki</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>輝<rt class="furi">かがや</rt><rt class="roma">kagaya</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>塔<rt class="furi">とう</rt><rt class="roma">tou</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:49.22]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>面影<rt class="furi">おもかげ</rt><rt class="roma">omokage</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby>
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:56.25]<ruby>胸<rt class="furi">むね</rt><rt class="roma">mune</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>住<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>確信<rt class="furi">かくしん</rt><rt class="roma">kakushin</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:00.35]<ruby>波<rt class="furi">なみ</rt><rt class="roma">nami</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>呼<rt class="furi">よ</rt><rt class="roma">yo</rt></ruby><ruby>び<rt class="roma">bi</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:02.28]<ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>酔<rt class="furi">よ</rt><rt class="roma">yo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:06.87]<ruby>何一<rt class="furi">なにひと</rt><rt class="roma">nanihito</rt></ruby><ruby>つ<rt class="roma">tsu</rt></ruby><ruby>無駄<rt class="furi">むだ</rt><rt class="roma">muda</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>なかった<rt class="roma">nakatta</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:11.46]<ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>ちゃ<rt class="roma">cha</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:14.17]<ruby>涙<rt class="furi">なみだ</rt><rt class="roma">namida</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>合図<rt class="furi">あいず</rt><rt class="roma">aizu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:19.56]<ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:22.22]<ruby>濡<rt class="furi">ぬ</rt><rt class="roma">nu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>すぎ<rt class="roma">sugi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>夜空<rt class="furi">よぞら</rt><rt class="roma">yozora</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:25.21]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>呼吸<rt class="furi">こきゅう</rt><rt class="roma">kokyuu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>許<rt class="furi">ゆる</rt><rt class="roma">yuru</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>なかった<rt class="roma">nakatta</rt></ruby>
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:30.15]踠<ruby>き<rt class="roma">ki</rt></ruby><ruby>歩<rt class="furi">ある</rt><rt class="roma">aru</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:32.94]<ruby>満<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>たさ<rt class="roma">tasa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>光<rt class="furi">ひかり</rt><rt class="roma">hikari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:35.88]<ruby>一度<rt class="furi">いちど</rt><rt class="roma">ichido</rt></ruby><ruby>きり<rt class="roma">kiri</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>言い訳<rt class="furi">いいわけ</rt><rt class="roma">iiwake</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:40.75]<ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>降<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>止<rt class="furi">や</rt><rt class="roma">ya</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>前<rt class="furi">まえ</rt><rt class="roma">mae</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:54.39]<ruby>止<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>まら<rt class="roma">mara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>闇<rt class="furi">やみ</rt><rt class="roma">yami</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:56.82]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>輪郭<rt class="furi">りんかく</rt><rt class="roma">rinkaku</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:59.78]<ruby>遠<rt class="furi">とお</rt><rt class="roma">too</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>鳴<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>海<rt class="furi">うみ</rt><rt class="roma">umi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>奪<rt class="furi">うば</rt><rt class="roma">uba</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>去<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby>
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:04.93]<ruby>胸<rt class="furi">むね</rt><rt class="roma">mune</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>照<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>らす<rt class="roma">rasu</rt></ruby><ruby>その<rt class="roma">sono</rt></ruby><ruby>場所<rt class="furi">ばしょ</rt><rt class="roma">basho</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:09.29]<ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ある<rt class="roma">aru</rt></ruby>
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:15.81]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>わから<rt class="roma">wakara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:20.64]<ruby>何一<rt class="furi">なにひと</rt><rt class="roma">nanihito</rt></ruby><ruby>つ<rt class="roma">tsu</rt></ruby><ruby>聞<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>こえ<rt class="roma">koe</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>や<rt class="roma">ya</rt></ruby>
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:26.17]「<ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby>」<ruby>と<rt class="roma">to</rt></ruby>「<ruby>これから<rt class="roma">korekara</rt></ruby>」<ruby>は<rt class="roma">wa</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:31.07]<ruby>かき乱<rt class="furi">かきみだ</rt><rt class="roma">kakimida</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いけ<rt class="roma">ike</rt></ruby>
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:36.95]<ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:39.56]<ruby>喚<rt class="furi">わめ</rt><rt class="roma">wame</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>出<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>夜空<rt class="furi">よぞら</rt><rt class="roma">yozora</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:42.46]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>明日<rt class="furi">あした</rt><rt class="roma">ashita</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>信<rt class="furi">しん</rt><rt class="roma">shin</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>なかった<rt class="roma">nakatta</rt></ruby>
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:47.35]<ruby>裏切<rt class="furi">うらぎ</rt><rt class="roma">uragi</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>歩<rt class="furi">ある</rt><rt class="roma">aru</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:49.86]<ruby>満<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>たさ<rt class="roma">tasa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>朝日<rt class="furi">あさひ</rt><rt class="roma">asahi</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:53.02]<ruby>熱<rt class="furi">ねつ</rt><rt class="roma">netsu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>意味<rt class="furi">いみ</rt><rt class="roma">imi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>捨<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby>
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:58.19]<ruby>濡<rt class="furi">ぬ</rt><rt class="roma">nu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>出<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>街<rt class="furi">まち</rt><rt class="roma">machi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:00.83]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>輪郭<rt class="furi">りんかく</rt><rt class="roma">rinkaku</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:03.85]<ruby>淡<rt class="furi">あわ</rt><rt class="roma">awa</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>指先<rt class="furi">ゆびさき</rt><rt class="roma">yubisaki</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>なぞる<rt class="roma">nazoru</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:08.74]<ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>振<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>止<rt class="furi">や</rt><rt class="roma">ya</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>前<rt class="furi">まえ</rt><rt class="roma">mae</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
+</div>
+</div>
+
+</div>
 
 ## 出典
 
 - [花譜オフィシャルサイト](https://kaf.kamitsubaki.jp/discography/20190628/106/)
-- [Apple Music 日本](https://music.apple.com/jp/album/%E5%A4%9C%E3%81%8C%E9%99%8D%E3%82%8A%E6%AD%A2%E3%82%80%E5%89%8D%E3%81%AB/1688671784?i=1688671785&uo=4)
+- [Apple Music](https://music.apple.com/jp/album/%E5%A4%9C%E3%81%8C%E9%99%8D%E3%82%8A%E6%AD%A2%E3%82%80%E5%89%8D%E3%81%AB/1688671784?i=1688671785&uo=4)

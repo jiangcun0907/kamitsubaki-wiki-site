@@ -207,7 +207,7 @@ H{{sub::2}}O 与 x{{sup::2}}
 
 {{mark::重点内容}}、{{abbr::V.W.P::Virtual Witch Phenomenon}}、按下 {{kbd::Ctrl+K}}、{{time::2026 年 7 月 19 日::2026-07-19}}、H{{sub::2}}O 与 x{{sup::2}}、{{small::补充说明}}
 
-歌曲页把 `{{lyrics-controls::zh}}` 单独放在一段，并紧接在 `.my-lyric-box` 歌词容器之前。站点会生成当前语言所需的注音、翻译和罗马音按钮；日文版会自动省略翻译按钮。语言参数必须与文件的 `locale` 一致。
+歌曲页把 `{{lyrics-controls::zh}}` 单独放在一段，并紧接在 `.my-lyric-box` 歌词容器之前。站点会生成当前语言所需的注音、翻译、罗马音和逐字歌词按钮；日文版会自动省略翻译按钮。语言参数必须与文件的 `locale` 一致。
 
 ### 歌词页面完整写法
 
@@ -268,6 +268,52 @@ H{{sub::2}}O 与 x{{sup::2}}
 <ruby>間違<rt class="furi">まちが</rt><rt class="roma">machiga</rt></ruby><ruby>い<rt class="roma">i</rt></ruby>
 </div>
 <div class="cn-lyric">若是错误</div>
+</div>
+
+</div>
+
+### 逐字歌词时间轴
+
+需要卡拉 OK 式逐字动画时，在每个歌词单元前直接写入 `[mm:ss.xx]` 或 `[mm:ss.xxx]` 时间标记。时间表示该单元相对于歌词计时器起点的开始时刻；播放期间，歌词会在相邻时间点之间从左向右连续填色。点击“播放”会从 `00:00.00` 开始计时，点击有时间标记的歌词行会跳到该行并继续播放，点击“重置”则回到起点。
+
+- `mm` 和 `ss` 必须各为两位数字，小数部分可以是两位或三位，例如 `[00:03.50]`、`[01:02.345]`。
+- 时间标记紧贴它控制的 `<ruby>` 或纯文本，二者之间不要加空格。每个需要独立高亮的单元都要有自己的开始时间。
+- 每个 `.jp-lyric` 的第一个时间标记同时作为整行的跳转时间；翻译行建议在开头写入相同的行首时间。
+- 每个单元会填色到下一个时间标记；一行的最后一个单元会延续到下一行，末行则使用短暂的自动收尾时间。
+- 时间应按播放顺序递增。允许只为部分歌词添加时间；没有时间标记的行会保持普通显示。
+- 只编写方括号时间标记，不要手写站点生成的 `lrc-tag`、`lrc-word` 或脚本。时间必须人工试听校准，不能让 AI 猜测。
+- 当前歌词计时器是独立计时器，不会自动读取上方 YouTube、bilibili 或其他试听播放器的播放进度。
+
+#### 写法
+
+```md
+{{lyrics-controls::zh}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:00.00]<ruby>間違<rt class="furi">まちが</rt><rt class="roma">machiga</rt></ruby>[00:00.80]<ruby>い<rt class="roma">i</rt></ruby>
+</div>
+<div class="cn-lyric">[00:00.00]若是错误</div>
+</div>
+
+</div>
+```
+
+#### 实例
+
+启用逐字歌词后，下面两个日文单元会分别从 `0` 秒和 `0.8` 秒开始由左向右填色：
+
+{{lyrics-controls::zh}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:00.00]<ruby>間違<rt class="furi">まちが</rt><rt class="roma">machiga</rt></ruby>[00:00.80]<ruby>い<rt class="roma">i</rt></ruby>
+</div>
+<div class="cn-lyric">[00:00.00]若是错误</div>
 </div>
 
 </div>
@@ -635,7 +681,7 @@ order: 10
 
 ### 歌曲部分
 
-歌曲文件使用 `艺人 ID / 分类 / 歌曲 ID / 语言.md` 四级结构，例如 `songs/kaf/originals/shi/zh.md`。页面会直接按分类文件夹渲染；推荐使用 `originals`（原创曲）、`covers`（翻唱曲）、`genealogy`（系谱曲）、`suites`（组曲）、`collaborations`（合作曲）和 `projects`（企划曲）。新建其他文件夹也能自动形成新分类。
+歌曲文件使用 `艺人 ID / 分类 / 歌曲 ID / 语言.md` 四级结构，例如 `songs/kaf/originals/shi/zh.md`。第一层艺人目录是该词条的规范存放位置，分类目录会同时用于所有关联艺人的目录页。推荐使用 `originals`（原创曲）、`covers`（翻唱曲）、`genealogy`（系谱曲）、`suites`（组曲）、`collaborations`（合作曲）和 `projects`（企划曲）；新建其他文件夹也能自动形成新分类。
 
 **最小实例：**
 
@@ -647,7 +693,21 @@ releaseDate: "2018-12-06"
 duration: "03:52"
 ```
 
-**显示结果：** 歌曲详情页会显示标题、艺人、发布日期和时长，并归入对应艺人的歌曲列表。
+**多艺人共享词条：** 同一录音只能建立一个歌曲目录。任选一位主要艺人作为规范存放位置，并让 `artistId` 与路径第一层一致；再用 `artistIds` 写入所有需要收录该曲目的艺人 ID。例如《古傷》只保存在 `songs/harusaruhi/collaborations/古傷-furukizu/`：
+
+```yaml
+title: 古傷
+artist: 幸祜×春猿火
+artistId: harusaruhi
+artistIds:
+  - harusaruhi
+  - koko
+code: apple-1678038919
+```
+
+这样只需维护该目录中的 `zh.md`、`ja.md` 和 `en.md`，同一个词条就会同时出现在春猿火与幸祜的“合作曲”分类中，两个目录项也会链接到同一个规范页面。不要再在 `songs/koko/` 下复制正文、`translationKey` 或封面资料。`artistIds` 中必须包含 `artistId`，且不能重复；建议把 `artistId` 写在第一项。若填写 `code`，它必须标识唯一录音，不可被另一歌曲目录重复使用。
+
+**显示结果：** 歌曲详情页会显示标题、艺人、发布日期和时长，并归入 `artistIds` 指定的每一个艺人歌曲列表；未填写 `artistIds` 时只归入 `artistId`。
 
 |属性|类型|必填|作用与填写内容|
 |:---:|:---:|:--:|:---:|
@@ -655,13 +715,14 @@ duration: "03:52"
 |`translationKey`|字符串|是|同一歌曲多语言版本的共同标识|
 |`title`|字符串|是|歌曲标题|
 |`artist`|字符串|是|主演唱者或艺人名称|
-|`artistId`|小写英文 ID|是|关联艺人条目与歌曲目录，例如 `kaf`；必须与歌曲路径第一层文件夹一致|
+|`artistId`|小写英文 ID|是|规范存放艺人 ID，例如 `kaf`；必须与歌曲路径第一层文件夹一致|
+|`artistIds`|小写英文 ID 列表|否|需要收录此同一词条的所有艺人目录；多艺人歌曲必须填写，并包含 `artistId`，不得重复|
 |`composer`|字符串|否|作曲者|
 |`lyricist`|字符串|否|作词者|
 |`album`|字符串|否|所属专辑|
 |`duration`|字符串|否|歌曲时长。建议统一写 `03:45`，但 Schema 不验证格式|
 |`releaseDate`|字符串|否|发行日期。建议使用 `YYYY-MM-DD`|
-|`code`|字符串|否|歌曲编号、档案编号或内部代码|
+|`code`|字符串|否|唯一录音编号、档案编号或内部代码；不同歌曲目录不得重复|
 |`categoryTitle`|字符串|否|所属分类标题|
 |`categorySubtitle`|字符串|否|所属分类副标题|
 |`categoryOrder`|数字|否|分类排序值|

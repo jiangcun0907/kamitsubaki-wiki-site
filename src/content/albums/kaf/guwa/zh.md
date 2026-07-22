@@ -26,77 +26,77 @@ tracks:
     number: "1"
     title: "かみのいないせかいで(Instrumental)"
     duration: "01:40"
-    songId: "kaf/instrumentals/track-1783267946"
+    songId: "kaf/instrumentals/かみのいないせかいで(Instrumental)-in-a-godless-world-instrumental"
   -
     number: "2"
     title: "アポカリプスより"
     duration: "03:26"
-    songId: "kaf/originals/track-1747225957"
+    songId: "kaf/originals/アポカリプスより-from-apocalypse"
   -
     number: "3"
     title: "何者"
     duration: "03:53"
-    songId: "kaf/originals/track-1783267948"
+    songId: "kaf/originals/何者-who"
   -
     number: "4"
     title: "俯瞰する事象"
     duration: "03:15"
-    songId: "kaf/originals/track-1783267949"
+    songId: "kaf/originals/俯瞰する事象-overlooked-phenomenon"
   -
     number: "5"
     title: "この世界は美しい"
     duration: "04:10"
-    songId: "kaf/originals/track-1783267950"
+    songId: "kaf/originals/この世界は美しい-the-beautiful-world"
   -
     number: "6"
     title: "スイマー"
     duration: "03:23"
-    songId: "kaf/originals/track-1747225956"
+    songId: "kaf/originals/スイマー-swimmer"
   -
     number: "7"
     title: "ホワイトブーケ"
     duration: "03:34"
-    songId: "kaf/originals/track-1783267953"
+    songId: "kaf/originals/ホワイトブーケ-white-bouget"
   -
     number: "8"
     title: "黄金の木"
     duration: "04:15"
-    songId: "kaf/originals/track-1783267954"
+    songId: "kaf/originals/黄金の木-tree-of-gold"
   -
     number: "9"
     title: "ダンダラボッチ"
     duration: "03:16"
-    songId: "kaf/originals/track-1783267955"
+    songId: "kaf/originals/ダンダラボッチ-dandarabotchi"
   -
     number: "10"
     title: "ゲシュタルト"
     duration: "03:18"
-    songId: "kaf/originals/track-1747225955"
+    songId: "kaf/originals/ゲシュタルト-gestalt"
   -
     number: "11"
     title: "カルぺ・ディエム"
     duration: "04:13"
-    songId: "kaf/originals/track-1783267957"
+    songId: "kaf/originals/カルぺ・ディエム-carpe-diem"
   -
     number: "12"
     title: "スワン"
     duration: "04:53"
-    songId: "kaf/originals/track-1783267959"
+    songId: "kaf/originals/スワン-swan"
   -
     number: "13"
     title: "代替嬉々"
     duration: "04:22"
-    songId: "kaf/originals/track-1783267960"
+    songId: "kaf/originals/代替嬉々-positive-substitution"
   -
     number: "14"
     title: "Replaceable Goodbye"
     duration: "05:05"
-    songId: "kaf/originals/track-1783267961"
+    songId: "kaf/originals/replaceable-goodbye"
   -
     number: "15"
     title: "そしてまたはじめる(Instrumental)"
     duration: "01:49"
-    songId: "kaf/instrumentals/track-1783267962"
+    songId: "kaf/instrumentals/そしてまたはじめる(Instrumental)-the-saga-continues-instrumental"
 ---
 
 ## 作品简介
@@ -115,5 +115,5 @@ tracks:
 ## 来源
 
 - [花譜官方网站](https://kaf.kamitsubaki.jp/discography/20241115/857/)
-- [Apple Music 日本区](https://music.apple.com/jp/album/%E5%AF%93%E8%A9%B1/1783267944?uo=4)
+- [Apple Music](https://music.apple.com/jp/album/%E5%AF%93%E8%A9%B1/1783267944?uo=4)
 - [VGMdb 花譜作品目录](https://vgmdb.net/artist/34690)

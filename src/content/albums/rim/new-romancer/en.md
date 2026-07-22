@@ -25,72 +25,72 @@ tracks:
     number: "1"
     title: "ピロウトーク"
     duration: "03:42"
-    songId: "rim/originals/track-1687461821"
+    songId: "rim/originals/ピロウトーク-pillow-talk"
   -
     number: "2"
     title: "ラヴソング"
     duration: "03:44"
-    songId: "rim/originals/track-1688521734"
+    songId: "rim/originals/ラヴソング-love-song"
   -
     number: "3"
     title: "さみしいひと"
     duration: "03:02"
-    songId: "rim/originals/track-1688521735"
+    songId: "rim/originals/さみしいひと-lonely"
   -
     number: "4"
     title: "宿木"
     duration: "03:04"
-    songId: "rim/originals/track-1688521736"
+    songId: "rim/originals/宿木-mistletoe"
   -
     number: "5"
     title: "いたいよ"
     duration: "03:16"
-    songId: "rim/originals/track-1688521738"
+    songId: "rim/originals/いたいよ-it-hurts"
   -
     number: "6"
     title: "甘美な無法"
     duration: "04:13"
-    songId: "rim/originals/track-1687465026"
+    songId: "rim/originals/甘美な無法-luscious-lawless"
   -
     number: "7"
     title: "食虫植物"
     duration: "02:38"
-    songId: "rim/originals/track-1688521740"
+    songId: "rim/originals/食虫植物-carnivorous-plant"
   -
     number: "8"
     title: "胎児に月はキスをしない"
     duration: "02:28"
-    songId: "rim/originals/track-1687474051"
+    songId: "rim/originals/胎児に月はキスをしない-the-moon-not-kiss-the-foetation"
   -
     number: "9"
     title: "NEUROMANCE"
     duration: "03:57"
-    songId: "rim/originals/track-1688521743"
+    songId: "rim/originals/neuromance"
   -
     number: "10"
     title: "ユーエンミー"
     duration: "03:55"
-    songId: "rim/originals/track-1688512933"
+    songId: "rim/originals/ユーエンミー-you-and-me"
   -
     number: "11"
     title: "クライベイビー"
     duration: "03:00"
-    songId: "rim/originals/track-1688347821"
+    songId: "rim/originals/クライベイビー-cry-baby"
   -
     number: "12"
     title: "魔的 (feat. KAF)"
     duration: "03:41"
-    songId: "rim/collaborations/track-1688521748"
+    songId: "rim/collaborations/魔的-magical"
   -
     number: "13"
     title: "やさしくしないで"
     duration: "04:27"
-    songId: "rim/originals/track-1688521749"
+    songId: "rim/originals/やさしくしないで-dont-be-kind-to-me"
   -
     number: "14"
     title: "十九月"
     duration: "04:07"
-    songId: "rim/originals/track-1687478446"
+    songId: "rim/originals/十九月-juuku-gatsu"
 ---
 
 ## Overview
@@ -108,5 +108,5 @@ Artwork uses the highest native Apple Music asset available; physical-only relea
 ## Sources
 
 - [Official discography](https://kamitsubaki.jp/discography/rim/703/)
-- [Apple Music Japan](https://music.apple.com/jp/album/new-romancer/1688521731?uo=4)
+- [Apple Music](https://music.apple.com/jp/album/new-romancer/1688521731?uo=4)
 - [VGMdb RIM](https://vgmdb.net/artist/53598)

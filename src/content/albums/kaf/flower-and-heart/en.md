@@ -55,5 +55,5 @@ This release contains 3 tracks. The table above preserves disc and track order, 
 ## Sources
 
 - [KAF Official Website](https://kaf.kamitsubaki.jp/discography/20190515/90/)
-- [Apple Music Japan](https://music.apple.com/jp/album/%E8%8A%B1%E3%81%A8%E5%BF%83%E8%87%93-single/1688156968?uo=4)
+- [Apple Music](https://music.apple.com/jp/album/%E8%8A%B1%E3%81%A8%E5%BF%83%E8%87%93-single/1688156968?uo=4)
 - [KAF discography on VGMdb](https://vgmdb.net/artist/34690)

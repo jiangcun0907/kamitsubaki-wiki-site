@@ -26,67 +26,67 @@ tracks:
     number: "1"
     title: "糸(大沼パセリ Remix)"
     duration: "03:07"
-    songId: "kaf/remixes/track-1689187621"
+    songId: "kaf/remixes/糸(大沼パセリ-Remix)-yarn-parsley-onuma-remix"
   -
     number: "2"
     title: "忘れてしまえ(ピコン Remix)"
     duration: "03:55"
-    songId: "kaf/remixes/track-1689187622"
+    songId: "kaf/remixes/忘れてしまえ(ピコン-Remix)-forget-it-picon-remix"
   -
     number: "3"
     title: "心臓と絡繰(春野 Remix)"
     duration: "03:37"
-    songId: "kaf/remixes/track-1689187623"
+    songId: "kaf/remixes/心臓と絡繰(春野-Remix)-heart-and-confoundingr-haruno-remix"
   -
     number: "4"
     title: "quiz(笹川真生 Remix)"
     duration: "03:16"
-    songId: "kaf/remixes/track-1689187624"
+    songId: "kaf/remixes/quiz(笹川真生-Remix)-quiz-mao-sasagawa-remix"
   -
     number: "5"
     title: "Re:HEROINES(ポリスピカデリー Remix)"
     duration: "03:21"
-    songId: "kaf/remixes/track-1689187625"
+    songId: "kaf/remixes/Re-HEROINES(ポリスピカデリー-Remix)-re-heroines-police-piccadilly-remix"
   -
     number: "6"
     title: "夜行バスにて(ろくろ Remix)"
     duration: "04:03"
-    songId: "kaf/remixes/track-1689187626"
+    songId: "kaf/remixes/夜行バスにて(ろくろ-Remix)-by-night-bus-696-remix"
   -
     number: "7"
     title: "未確認少女進行形(煮ル果実 Remix)"
     duration: "03:41"
-    songId: "kaf/remixes/track-1689187627"
+    songId: "kaf/remixes/未確認少女進行形(煮ル果実-Remix)-unconfirmed-girl-progress-form-nilfruits-remix"
   -
     number: "8"
     title: "過去を喰らう(ツミキ Remix)"
     duration: "03:35"
-    songId: "kaf/remixes/track-1689187628"
+    songId: "kaf/remixes/過去を喰らう(ツミキ-Remix)-eat-the-past-tsumiki-remix"
   -
     number: "9"
     title: "エリカ(Guiano Remix)"
     duration: "03:23"
-    songId: "kaf/remixes/track-1689187629"
+    songId: "kaf/remixes/エリカ(Guiano-Remix)-erica-guiano-remix"
   -
     number: "10"
     title: "雛鳥(傘村トータ Remix)"
     duration: "04:03"
-    songId: "kaf/remixes/track-1689187630"
+    songId: "kaf/remixes/雛鳥(傘村トータ-Remix)-chicks-tota-kasamura-remix"
   -
     number: "11"
     title: "夜が降り止む前に(samayuzame Remix)"
     duration: "03:15"
-    songId: "kaf/remixes/track-1689187632"
+    songId: "kaf/remixes/夜が降り止む前に(samayuzame-Remix)-before-the-night-falls-samayuzame-remix"
   -
     number: "12"
     title: "不可解(Misumi Remix)"
     duration: "04:39"
-    songId: "kaf/remixes/track-1689187633"
+    songId: "kaf/remixes/不可解(Misumi-Remix)-inexplicable-misumi-remix"
   -
     number: "13"
     title: "そして花になる(syudou Remix)"
     duration: "03:28"
-    songId: "kaf/remixes/track-1689187634"
+    songId: "kaf/remixes/そして花になる(syudou-Remix)-and-become-a-flower-syudou-remix"
 ---
 
 ## Overview
@@ -105,5 +105,5 @@ This release contains 13 tracks. The table above preserves disc and track order,
 ## Sources
 
 - [KAF Official Website](https://kaf.kamitsubaki.jp/discography/20191225/109/)
-- [Apple Music Japan](https://music.apple.com/jp/album/%E8%A6%B3%E6%B8%AC%CE%B3/1689187620?uo=4)
+- [Apple Music](https://music.apple.com/jp/album/%E8%A6%B3%E6%B8%AC%CE%B3/1689187620?uo=4)
 - [KAF discography on VGMdb](https://vgmdb.net/artist/34690)

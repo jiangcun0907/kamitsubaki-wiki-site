@@ -24,67 +24,67 @@ tracks:
     number: "1"
     title: "アポカリプスより(瀬名航 Remix)"
     duration: "03:16"
-    songId: "kaf/remixes/track-1823861901"
+    songId: "kaf/remixes/アポカリプスより(瀬名航-Remix)-from-apocalypse-wataru-sena-remix"
   -
     number: "2"
     title: "何者(威戸れもね。 Remix)"
     duration: "03:29"
-    songId: "kaf/remixes/track-1823861906"
+    songId: "kaf/remixes/何者(威戸れもね-Remix)-who-lemone-ido-remix"
   -
     number: "3"
     title: "俯瞰する事象(あばらや Remix)"
     duration: "02:54"
-    songId: "kaf/remixes/track-1823861907"
+    songId: "kaf/remixes/俯瞰する事象(あばらや-Remix)-overlooked-phenomenon-avaraya-remix"
   -
     number: "4"
     title: "この世界は美しい(tokiwa Remix)"
     duration: "03:51"
-    songId: "kaf/remixes/track-1823861909"
+    songId: "kaf/remixes/この世界は美しい(tokiwa-Remix)-the-beautiful-world-tokiwa-remix"
   -
     number: "5"
     title: "スイマー(takachi Remix)"
     duration: "02:54"
-    songId: "kaf/remixes/track-1823861911"
+    songId: "kaf/remixes/スイマー(takachi-Remix)-swimmer-takachi-remix"
   -
     number: "6"
     title: "ホワイトブーケ(Saku Remix)"
     duration: "03:58"
-    songId: "kaf/remixes/track-1823861912"
+    songId: "kaf/remixes/ホワイトブーケ(Saku-Remix)-white-bouquet-saku-remix"
   -
     number: "7"
     title: "黄金の木(パソコン音楽クラブ Remix)"
     duration: "04:54"
-    songId: "kaf/remixes/track-1823861913"
+    songId: "kaf/remixes/黄金の木(パソコン音楽クラブ-Remix)-tree-of-gold-pasocom-music-club-remix"
   -
     number: "8"
     title: "ダンダラボッチ(3R2 Remix)"
     duration: "03:29"
-    songId: "kaf/remixes/track-1823861914"
+    songId: "kaf/remixes/ダンダラボッチ(3R2-Remix)-dandarabotchi-3r2-remix"
   -
     number: "9"
     title: "ゲシュタルト(おとめ Remix)"
     duration: "03:54"
-    songId: "kaf/remixes/track-1823861915"
+    songId: "kaf/remixes/ゲシュタルト(おとめ-Remix)-gestalt-otome-remix"
   -
     number: "10"
     title: "カルぺ・ディエム(駱駝法師 Remix)"
     duration: "04:15"
-    songId: "kaf/remixes/track-1823861916"
+    songId: "kaf/remixes/カルぺ・ディエム(駱駝法師-Remix)-carpe-diem-rakudaboshi-remix"
   -
     number: "11"
     title: "スワン(cosMo@暴走P Remix)"
     duration: "03:24"
-    songId: "kaf/remixes/track-1823861917"
+    songId: "kaf/remixes/スワン(cosMo-暴走P-Remix)-swan-cosmo-bousou-p-remix"
   -
     number: "12"
     title: "代替嬉々(TORIENA Remix)"
     duration: "04:54"
-    songId: "kaf/remixes/track-1823861918"
+    songId: "kaf/remixes/代替嬉々(TORIENA-Remix)-positive-substitution-toriena-remix"
   -
     number: "13"
     title: "Replaceable Goodbye(KAIRUI Remix)"
     duration: "06:13"
-    songId: "kaf/remixes/track-1823861919"
+    songId: "kaf/remixes/replaceable-goodbye-kairui-remix"
 ---
 
 ## Overview
@@ -102,5 +102,5 @@ This release contains 13 tracks. The table above preserves disc and track order,
 
 ## Sources
 
-- [Apple Music Japan](https://music.apple.com/jp/album/%E5%AF%93%E8%A9%B1%CE%B3-remix/1823861900?uo=4)
+- [Apple Music](https://music.apple.com/jp/album/%E5%AF%93%E8%A9%B1%CE%B3-remix/1823861900?uo=4)
 - [KAF discography on VGMdb](https://vgmdb.net/artist/34690)

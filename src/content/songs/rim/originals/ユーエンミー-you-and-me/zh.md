@@ -1,0 +1,286 @@
+---
+locale: zh
+translationKey: rim_song_track_1688512933
+title: "ユーエンミー"
+artist: "理芽"
+artistId: rim
+artistIds:
+  - "rim"
+album: "ユーエンミー"
+duration: "03:54"
+releaseDate: "2020-07-22"
+categoryTitle: "原创曲"
+categorySubtitle: ORIGINALS
+categoryOrder: 10
+itemOrder: 3
+code: "apple-1688512933"
+image: /images/songs/rim/single-1688512932.jpg
+---
+
+## 作品简介
+
+《ユーエンミー》收录于《ユーエンミー》或其相关正式发行。本词条按具体录音版本建立；现场、重混与重新编曲版不会与原版混为一项。
+
+## 试听
+
+@[apple-music](https://music.apple.com/jp/album/%E3%83%A6%E3%83%BC%E3%82%A8%E3%83%B3%E3%83%9F%E3%83%BC/1688512932?i=1688512933&uo=4 "ユーエンミー")
+
+## 歌词
+
+{{lyrics-controls::zh}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:27.72]<ruby>指先<rt class="furi">ゆびさき</rt><rt class="roma">yubisaki</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>伝<rt class="furi">つた</rt><rt class="roma">tsuta</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>感傷<rt class="furi">かんしょう</rt><rt class="roma">kanshou</rt></ruby>
+</div>
+<div class="cn-lyric">[00:27.72]指尖传来的感伤</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:33.23]<ruby>赤<rt class="furi">あか</rt><rt class="roma">aka</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>血<rt class="furi">ち</rt><rt class="roma">chi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>似<rt class="furi">に</rt><rt class="roma">ni</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
+</div>
+<div class="cn-lyric">[00:33.23]似红色血液</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:36.95]<ruby>下<rt class="furi">くだ</rt><rt class="roma">kuda</rt></ruby><ruby>らない<rt class="roma">ranai</rt></ruby><ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>使い果<rt class="furi">つかいは</rt><rt class="roma">tsukaiha</rt></ruby><ruby>たし<rt class="roma">tashi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
+</div>
+<div class="cn-lyric">[00:36.95]耗尽无聊的声音</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:42.40]<ruby>悪者<rt class="furi">わるもの</rt><rt class="roma">warumono</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
+</div>
+<div class="cn-lyric">[00:42.40]不要成为恶人</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:45.81]<ruby>癒<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>癒<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
+</div>
+<div class="cn-lyric">[00:45.81]说着无法治愈无法治愈</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:48.24]<ruby>散々<rt class="furi">さんざん</rt><rt class="roma">sanzan</rt></ruby>、<ruby>繰り返<rt class="furi">くりかえ</rt><rt class="roma">kurikae</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>まだ<rt class="roma">mada</rt></ruby>
+</div>
+<div class="cn-lyric">[00:48.24]反复多次，依然</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:51.50]<ruby>砂遊<rt class="furi">すなあそ</rt><rt class="roma">sunaaso</rt></ruby><ruby>び<rt class="roma">bi</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby>
+</div>
+<div class="cn-lyric">[00:51.50]在玩沙子</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:54.84]<ruby>映画<rt class="furi">えいが</rt><rt class="roma">eiga</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>同<rt class="furi">おな</rt><rt class="roma">ona</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>よう<rt class="roma">you</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>いか<rt class="roma">ika</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>ね<rt class="roma">ne</rt></ruby>
+</div>
+<div class="cn-lyric">[00:54.84]无法像电影一样呢</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:00.82]<ruby>その<rt class="roma">sono</rt></ruby><ruby>感性<rt class="furi">かんせい</rt><rt class="roma">kansei</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>明日<rt class="furi">あした</rt><rt class="roma">ashita</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ゴミ<rt class="roma">gomi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>出<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>しまえ<rt class="roma">shimae</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
+</div>
+<div class="cn-lyric">[01:00.82]把那感性扔进明天的垃圾吧</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:07.78]<ruby>値踏<rt class="furi">ねぶ</rt><rt class="roma">nebu</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby><ruby>前<rt class="furi">まえ</rt><rt class="roma">mae</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>話<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
+</div>
+<div class="cn-lyric">[01:07.78]在估价之前说出来</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:12.41]<ruby>それ<rt class="roma">sore</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>とか<rt class="roma">toka</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
+</div>
+<div class="cn-lyric">[01:12.41]如果说那样好的话</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:16.73]<ruby>もっと<rt class="roma">motto</rt></ruby><ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>刻<rt class="furi">きざ</rt><rt class="roma">kiza</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
+</div>
+<div class="cn-lyric">[01:16.73]更多地刻在我身上</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:22.22]<ruby>ユーエンミー<rt class="roma">yuuenmii</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>正体<rt class="furi">しょうたい</rt><rt class="roma">shoutai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>暴<rt class="furi">あば</rt><rt class="roma">aba</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>？
+</div>
+<div class="cn-lyric">[01:22.22]揭露 you and me 的真面目？</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:26.43]<ruby>恋<rt class="furi">こい</rt><rt class="roma">koi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>恋<rt class="furi">こい</rt><rt class="roma">koi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
+</div>
+<div class="cn-lyric">[01:26.43]不要爱上爱情</div>
+<div class="cn-lyric">不要爱上爱情</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:30.11]<ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>覚<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>ませ<rt class="roma">mase</rt></ruby>
+</div>
+<div class="cn-lyric">[01:30.11]快清醒吧</div>
+<div class="cn-lyric">快清醒吧</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:31.44]<ruby>故<rt class="furi">ゆえ</rt><rt class="roma">yue</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>、<ruby>また<rt class="roma">mata</rt></ruby><ruby>間違<rt class="furi">まちが</rt><rt class="roma">machiga</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
+</div>
+<div class="cn-lyric">[01:31.44]因此，如果再次犯错</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:35.58]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>たち<rt class="roma">tachi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>名前<rt class="furi">なまえ</rt><rt class="roma">namae</rt></ruby><ruby>すら<rt class="roma">sura</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
+</div>
+<div class="cn-lyric">[01:35.58]因为我们连名字都没有</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:59.30]<ruby>上澄<rt class="furi">うわず</rt><rt class="roma">uwazu</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>棄<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
+</div>
+<div class="cn-lyric">[01:59.30]舍弃上层的清澈</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:02.78]<ruby>初<rt class="furi">はじ</rt><rt class="roma">haji</rt></ruby><ruby>めて<rt class="roma">mete</rt></ruby><ruby>対等<rt class="furi">たいとう</rt><rt class="roma">taitou</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なれる<rt class="roma">nareru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
+</div>
+<div class="cn-lyric">[02:02.78]才能初次变得对等</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:08.38]<ruby>食卓<rt class="furi">しょくたく</rt><rt class="roma">shokutaku</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>並<rt class="furi">なら</rt><rt class="roma">nara</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>疑<rt class="furi">うたが</rt><rt class="roma">utaga</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
+</div>
+<div class="cn-lyric">[02:08.38]餐桌上排列的疑惑</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:13.85]<ruby>溶<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>かす<rt class="roma">kasu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>育<rt class="furi">そだ</rt><rt class="roma">soda</rt></ruby><ruby>ち<rt class="roma">chi</rt></ruby><ruby>過<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>ぎ<rt class="roma">gi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
+</div>
+<div class="cn-lyric">[02:13.85]要融化它已然过于成熟</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:33.24]<ruby>泣<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>、<ruby>拒<rt class="furi">こば</rt><rt class="roma">koba</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
+</div>
+<div class="cn-lyric">[02:33.24]哭泣吧，拒绝我吧</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:39.19]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby>
+</div>
+<div class="cn-lyric">[02:39.19]你谁都无法爱</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:43.94]<ruby>同<rt class="furi">おな</rt><rt class="roma">ona</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>穴<rt class="furi">あな</rt><rt class="roma">ana</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>貉<rt class="furi">むじな</rt><rt class="roma">mujina</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
+</div>
+<div class="cn-lyric">[02:43.94]如果是一丘之貉</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:48.01]<ruby>もっと<rt class="roma">motto</rt></ruby>、<ruby>命<rt class="furi">いのち</rt><rt class="roma">inochi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>貪<rt class="furi">むさぼ</rt><rt class="roma">musabo</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
+</div>
+<div class="cn-lyric">[02:48.01]更多，贪婪地吞噬生命吧</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:56.09]<ruby>ユーエンミー<rt class="roma">yuuenmii</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>正体<rt class="furi">しょうたい</rt><rt class="roma">shoutai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>暴<rt class="furi">あば</rt><rt class="roma">aba</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
+</div>
+<div class="cn-lyric">[02:56.09]揭露 you and me 的真面目</div>
+<div class="cn-lyric">揭露 you and me 的真面目</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:00.25]<ruby>恋<rt class="furi">こい</rt><rt class="roma">koi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>恋<rt class="furi">こい</rt><rt class="roma">koi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:03.72]<ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>覚<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>ませ<rt class="roma">mase</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:05.22]<ruby>故<rt class="furi">ゆえ</rt><rt class="roma">yue</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>また<rt class="roma">mata</rt></ruby><ruby>血<rt class="furi">ち</rt><rt class="roma">chi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>流<rt class="furi">なが</rt><rt class="roma">naga</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
+</div>
+<div class="cn-lyric">[03:05.22]因此若再次流血</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:09.44]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>たち<rt class="roma">tachi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>名前<rt class="furi">なまえ</rt><rt class="roma">namae</rt></ruby><ruby>すら<rt class="roma">sura</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
+</div>
+<div class="cn-lyric">[03:09.44]我们连名字都没有</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:14.28]<ruby>ユーエンミー<rt class="roma">yuuenmii</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>正体<rt class="furi">しょうたい</rt><rt class="roma">shoutai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>暴<rt class="furi">あば</rt><rt class="roma">aba</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:18.34]<ruby>生まれ変<rt class="furi">うまれか</rt><rt class="roma">umareka</rt></ruby><ruby>わる<rt class="roma">waru</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>あと<rt class="roma">ato</rt></ruby><ruby>何<rt class="furi">なん</rt><rt class="roma">nan</rt></ruby><ruby>マイル<rt class="roma">mairu</rt></ruby>？
+</div>
+<div class="cn-lyric">[03:18.34]距离重生还有多少英里？</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:23.48]<ruby>あぁ<rt class="roma">aa</rt></ruby>、<ruby>もう<rt class="roma">mou</rt></ruby><ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>たく<rt class="roma">taku</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
+</div>
+<div class="cn-lyric">[03:23.48]啊，已经什么都不想知道了</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:27.44]<ruby>名前<rt class="furi">なまえ</rt><rt class="roma">namae</rt></ruby><ruby>すら<rt class="roma">sura</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>与<rt class="furi">あた</rt><rt class="roma">ata</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>られ<rt class="roma">rare</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
+</div>
+<div class="cn-lyric">[03:27.44]如果连名字都无法给予</div>
+</div>
+
+</div>

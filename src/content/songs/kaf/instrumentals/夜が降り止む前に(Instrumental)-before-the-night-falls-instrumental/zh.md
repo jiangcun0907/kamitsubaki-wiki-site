@@ -1,0 +1,324 @@
+---
+locale: zh
+translationKey: kaf_instrumentals_track_1688672119
+title: "夜が降り止む前に(Instrumental)"
+artist: "花譜"
+artistId: kaf
+composer: "カンザキイオリ"
+album: "夜が降り止む前に"
+duration: "03:33"
+releaseDate: "2019-06-28"
+categoryTitle: "器乐与伴奏"
+categorySubtitle: INSTRUMENTALS
+categoryOrder: 60
+itemOrder: 7
+code: "apple-1688672119"
+image: /images/albums/kaf/yoru-ga-furiyamu-mae-ni.jpg
+---
+
+## 作品简介
+
+《夜が降り止む前に(Instrumental)》是花譜收录于《夜が降り止む前に》的第 4 轨。
+
+## 试听
+
+{{media-switcher::夜が降り止む前に(Instrumental)}}
+@[apple-music](https://music.apple.com/jp/album/%E5%A4%9C%E3%81%8C%E9%99%8D%E3%82%8A%E6%AD%A2%E3%82%80%E5%89%8D%E3%81%AB-instrumental/1688671784?i=1688672119&uo=4 "夜が降り止む前に(Instrumental)")
+@[netease](1399849966 "夜が降り止む前に(Instrumental)")
+{{/media-switcher}}
+
+## 歌词
+
+{{lyrics-controls::zh}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:34.62]<ruby>止<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>まら<rt class="roma">mara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>闇<rt class="furi">やみ</rt><rt class="roma">yami</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
+</div>
+<div class="cn-lyric">[00:34.62]在无尽黑暗中</div>
+<div class="cn-lyric">在无尽黑暗中</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:37.28]<ruby>泡<rt class="furi">あわ</rt><rt class="roma">awa</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>芽吹<rt class="furi">めぶ</rt><rt class="roma">mebu</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>花<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
+</div>
+<div class="cn-lyric">[00:37.28]泡沫中萌芽的花</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:41.23]<ruby>空<rt class="furi">そら</rt><rt class="roma">sora</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>埋<rt class="furi">うず</rt><rt class="roma">uzu</rt></ruby><ruby>もれ<rt class="roma">more</rt></ruby><ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby>
+</div>
+<div class="cn-lyric">[00:41.23]埋没于天空消失</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:45.18]<ruby>月<rt class="furi">つき</rt><rt class="roma">tsuki</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>輝<rt class="furi">かがや</rt><rt class="roma">kagaya</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>塔<rt class="furi">とう</rt><rt class="roma">tou</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby>
+</div>
+<div class="cn-lyric">[00:45.18]此刻在月光闪耀的塔上</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:49.49]<ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>面影<rt class="furi">おもかげ</rt><rt class="roma">omokage</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby>
+</div>
+<div class="cn-lyric">[00:49.49]知晓你的面容</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:56.60]<ruby>胸<rt class="furi">むね</rt><rt class="roma">mune</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>住<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>確信<rt class="furi">かくしん</rt><rt class="roma">kakushin</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
+</div>
+<div class="cn-lyric">[00:56.60]居住于胸中的确信</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:00.60]<ruby>波<rt class="furi">なみ</rt><rt class="roma">nami</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>呼<rt class="furi">よ</rt><rt class="roma">yo</rt></ruby><ruby>び<rt class="roma">bi</rt></ruby>
+</div>
+<div class="cn-lyric">[01:00.60]呼唤波浪</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:02.59]<ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>酔<rt class="furi">よ</rt><rt class="roma">yo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
+</div>
+<div class="cn-lyric">[01:02.59]沉醉于言语</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:07.23]<ruby>何一<rt class="furi">なにひと</rt><rt class="roma">nanihito</rt></ruby><ruby>つ<rt class="roma">tsu</rt></ruby><ruby>無駄<rt class="furi">むだ</rt><rt class="roma">muda</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>なかった<rt class="roma">nakatta</rt></ruby>
+</div>
+<div class="cn-lyric">[01:07.23]没有一样是徒劳的</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:11.95]<ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>ちゃ<rt class="roma">cha</rt></ruby>
+</div>
+<div class="cn-lyric">[01:11.95]现在必须说出来</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:14.61]<ruby>涙<rt class="furi">なみだ</rt><rt class="roma">namida</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>合図<rt class="furi">あいず</rt><rt class="roma">aizu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
+</div>
+<div class="cn-lyric">[01:14.61]以眼泪为信号</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:19.91]<ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
+</div>
+<div class="cn-lyric">[01:19.91]我要去传达</div>
+<div class="cn-lyric">我要去传达</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:22.53]<ruby>濡<rt class="furi">ぬ</rt><rt class="roma">nu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>すぎ<rt class="roma">sugi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>夜空<rt class="furi">よぞら</rt><rt class="roma">yozora</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
+</div>
+<div class="cn-lyric">[01:22.53]过于湿润的夜空</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:25.54]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>呼吸<rt class="furi">こきゅう</rt><rt class="roma">kokyuu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>許<rt class="furi">ゆる</rt><rt class="roma">yuru</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>なかった<rt class="roma">nakatta</rt></ruby>
+</div>
+<div class="cn-lyric">[01:25.54]不允许我们呼吸</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:30.58]踠<ruby>き<rt class="roma">ki</rt></ruby><ruby>歩<rt class="furi">ある</rt><rt class="roma">aru</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
+</div>
+<div class="cn-lyric">[01:30.58]挣扎前行</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:33.24]<ruby>満<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>たさ<rt class="roma">tasa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>光<rt class="furi">ひかり</rt><rt class="roma">hikari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
+</div>
+<div class="cn-lyric">[01:33.24]在被满足的光芒中</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:36.18]<ruby>一度<rt class="furi">いちど</rt><rt class="roma">ichido</rt></ruby><ruby>きり<rt class="roma">kiri</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>言い訳<rt class="furi">いいわけ</rt><rt class="roma">iiwake</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
+</div>
+<div class="cn-lyric">[01:36.18]仅有一次的借口</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:41.25]<ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>降<rt class="furi">お</rt><rt class="roma">o</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>止<rt class="furi">や</rt><rt class="roma">ya</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>前<rt class="furi">まえ</rt><rt class="roma">mae</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
+</div>
+<div class="cn-lyric">[01:41.25]在夜雨停歇之前</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:54.54]<ruby>止<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>まら<rt class="roma">mara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>闇<rt class="furi">やみ</rt><rt class="roma">yami</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:57.26]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>輪郭<rt class="furi">りんかく</rt><rt class="roma">rinkaku</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
+</div>
+<div class="cn-lyric">[01:57.26]你的轮廓</div>
+<div class="cn-lyric">你的轮廓</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:00.26]<ruby>遠<rt class="furi">とお</rt><rt class="roma">too</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>鳴<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>海<rt class="furi">うみ</rt><rt class="roma">umi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>奪<rt class="furi">うば</rt><rt class="roma">uba</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>去<rt class="furi">さ</rt><rt class="roma">sa</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby>
+</div>
+<div class="cn-lyric">[02:00.26]远方作响的大海夺走</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:05.21]<ruby>胸<rt class="furi">むね</rt><rt class="roma">mune</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>照<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>らす<rt class="roma">rasu</rt></ruby><ruby>その<rt class="roma">sono</rt></ruby><ruby>場所<rt class="furi">ばしょ</rt><rt class="roma">basho</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
+</div>
+<div class="cn-lyric">[02:05.21]在心灵照亮的那里</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:09.56]<ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ある<rt class="roma">aru</rt></ruby>
+</div>
+<div class="cn-lyric">[02:09.56]有想要知道的话语</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:15.81]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>わから<rt class="roma">wakara</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby>
+</div>
+<div class="cn-lyric">[02:15.81]你无法理解啊</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:21.35]<ruby>何一<rt class="furi">なにひと</rt><rt class="roma">nanihito</rt></ruby><ruby>つ<rt class="roma">tsu</rt></ruby><ruby>聞<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>こえ<rt class="roma">koe</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>や<rt class="roma">ya</rt></ruby>
+</div>
+<div class="cn-lyric">[02:21.35]什么也听不见呢</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:26.63]「<ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby>」<ruby>と<rt class="roma">to</rt></ruby>「<ruby>これから<rt class="roma">korekara</rt></ruby>」<ruby>は<rt class="roma">wa</rt></ruby>
+</div>
+<div class="cn-lyric">[02:26.63]「至今」与「今后」</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:31.58]<ruby>かき乱<rt class="furi">かきみだ</rt><rt class="roma">kakimida</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いけ<rt class="roma">ike</rt></ruby>
+</div>
+<div class="cn-lyric">[02:31.58]在扰乱之夜中消失吧</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:37.19]<ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:39.82]<ruby>喚<rt class="furi">わめ</rt><rt class="roma">wame</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>出<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>夜空<rt class="furi">よぞら</rt><rt class="roma">yozora</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
+</div>
+<div class="cn-lyric">[02:39.82]开始嘶喊的夜空</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:42.94]<ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>明日<rt class="furi">あした</rt><rt class="roma">ashita</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>信<rt class="furi">しん</rt><rt class="roma">shin</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>なかった<rt class="roma">nakatta</rt></ruby>
+</div>
+<div class="cn-lyric">[02:42.94]不相信我们的明天</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:47.92]<ruby>裏切<rt class="furi">うらぎ</rt><rt class="roma">uragi</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>歩<rt class="furi">ある</rt><rt class="roma">aru</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
+</div>
+<div class="cn-lyric">[02:47.92]背负背叛前行</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:50.57]<ruby>満<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>たさ<rt class="roma">tasa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>朝日<rt class="furi">あさひ</rt><rt class="roma">asahi</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
+</div>
+<div class="cn-lyric">[02:50.57]在被满足的朝阳中</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:53.55]<ruby>熱<rt class="furi">ねつ</rt><rt class="roma">netsu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>意味<rt class="furi">いみ</rt><rt class="roma">imi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>捨<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby>
+</div>
+<div class="cn-lyric">[02:53.55]舍弃热度与意义</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:58.55]<ruby>濡<rt class="furi">ぬ</rt><rt class="roma">nu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>出<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>街<rt class="furi">まち</rt><rt class="roma">machi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
+</div>
+<div class="cn-lyric">[02:58.55]在开始湿润的街道</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:01.26]<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>輪郭<rt class="furi">りんかく</rt><rt class="roma">rinkaku</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:04.20]<ruby>淡<rt class="furi">あわ</rt><rt class="roma">awa</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>指先<rt class="furi">ゆびさき</rt><rt class="roma">yubisaki</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>なぞる<rt class="roma">nazoru</rt></ruby>
+</div>
+<div class="cn-lyric">[03:04.20]用淡雅的指尖描摹</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:09.18]<ruby>夜<rt class="furi">よる</rt><rt class="roma">yoru</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>振<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>止<rt class="furi">や</rt><rt class="roma">ya</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>前<rt class="furi">まえ</rt><rt class="roma">mae</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
+</div>
+<div class="cn-lyric">[03:09.18]在夜雨停歇之前</div>
+</div>
+
+</div>
+
+## 来源
+
+- [花譜官方网站](https://kaf.kamitsubaki.jp/discography/20190628/106/)
+- [Apple Music](https://music.apple.com/jp/album/%E5%A4%9C%E3%81%8C%E9%99%8D%E3%82%8A%E6%AD%A2%E3%82%80%E5%89%8D%E3%81%AB-instrumental/1688671784?i=1688672119&uo=4)

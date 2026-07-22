@@ -1,5 +1,5 @@
 ---
-import { getCollection, render } from 'astro:content';
+import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import SiteNav from '../../../components/SiteNav.astro';
 import SiteFooter from '../../../components/SiteFooter.astro';
@@ -7,6 +7,7 @@ import TableOfContents from '../../../components/TableOfContents.astro';
 import { getLocalizedSite } from '../../../lib/homeData.mjs';
 import { buildLocaleLinks, defaultLocale, supportedLocales } from '../../../lib/i18n.mjs';
 import { renderMarkdownFragment } from '../../../lib/markdown.mjs';
+import { renderContentEntry } from '../../../lib/contentSource.mjs';
 
 export function getStaticPaths() {
   return supportedLocales.map((locale) => ({ params: { locale } }));
@@ -33,7 +34,7 @@ const syntaxEntry =
 
 if (!syntaxEntry) throw new Error(`Missing syntax guide content for locale: ${localeCode}`);
 
-const { Content: SyntaxContent, headings: syntaxHeadings } = await render(syntaxEntry);
+const { html: syntaxHtml, headings: syntaxHeadings } = await renderContentEntry(syntaxEntry);
 const syntaxSourcePath = `src/content/contribute/syntax-guide/${localeCode}.md`;
 const syntaxEditHref = `/${localeCode}/contribute/edit?target=${encodeURIComponent(syntaxSourcePath)}#syntax-reference`;
 const syntaxStandaloneHref = `/${localeCode}/contribute/syntax`;
@@ -405,7 +406,7 @@ const metadata = {
         </aside>
 
         <article class="wiki-reader wiki-prose prose prose-invert min-w-0 max-w-none">
-          <SyntaxContent />
+          <Fragment set:html={syntaxHtml} />
         </article>
 
         <aside class="guide-reference__actions">

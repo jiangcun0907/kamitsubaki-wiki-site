@@ -4,6 +4,7 @@ import test from 'node:test';
 import { parse } from 'yaml';
 
 import { renderMarkdownFragment } from '../src/lib/markdown.mjs';
+import { assertNoPlaceholderContent } from './helpers/content-assertions.mjs';
 
 const projectRoot = new URL('../', import.meta.url);
 const locales = ['zh', 'ja', 'en'];
@@ -53,7 +54,7 @@ function fileUrl(path) {
 
 async function readEntry(path) {
   const source = await readFile(fileUrl(path), 'utf8');
-  const match = source.match(/^---\n([\s\S]*?)\n---\n/);
+  const match = source.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n/);
   assert.ok(match, `${path} must contain frontmatter`);
   return { source, data: parse(match[1]) };
 }
@@ -121,7 +122,7 @@ test('KAF catalog contains 19 complete, localized releases and high-resolution a
     for (const { data, source } of localized) {
       assert.equal(data.trackCount, canonical.data.trackCount, `${album} track counts must match across locales`);
       assert.deepEqual(data.tracks, canonical.data.tracks, `${album} track metadata must match across locales`);
-      assert.doesNotMatch(source, /placehold|待补|未定|TBD/i);
+      assertNoPlaceholderContent(source);
       assert.match(source, /https:\/\/vgmdb\.net\/artist\/34690/);
     }
 
@@ -188,7 +189,7 @@ test('KAF song catalog has 263 localized songs and ordered aggregate players', a
         assert.equal(data.artistId, 'kaf');
         assert.ok(data.image?.startsWith('/images/'), `${category}/${song} must use local artwork`);
         await access(fileUrl(`public/${data.image.slice(1)}`));
-        assert.doesNotMatch(source, /<iframe\b|placehold|待补|未定|TBD/i);
+        assertNoPlaceholderContent(source, { forbidRawIframe: true });
       }
 
       const { source } = translations[0];

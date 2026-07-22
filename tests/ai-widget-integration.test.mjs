@@ -254,3 +254,14 @@ test('logged-in history exposes rename, delete, clear, and restored source contr
   assert.equal(script.includes('window.prompt'), false);
   assert.equal(script.includes('window.confirm'), false);
 });
+
+test('AI chat light theme uses layered gray surfaces and white black-bordered prompt controls', async () => {
+  const css = await readProjectFile('../src/styles/global.css');
+
+  assert.match(css, /html\[data-theme='light'\] \.ai-chat__header\s*\{[^}]*background: #e2e4e4;/s);
+  assert.match(css, /html\[data-theme='light'\] \.ai-chat__messages\s*\{[^}]*background: #f6f7f7;/s);
+  assert.match(css, /html\[data-theme='light'\] \.ai-chat__quick button\s*\{[^}]*border-color: #000000;[^}]*background: #ffffff;[^}]*color: #555b5f;/s);
+  assert.match(css, /html\[data-theme='light'\] \.ai-chat__composer\s*\{[^}]*border-color: #000000;[^}]*background: #ffffff;/s);
+  assert.match(css, /html\[data-theme='light'\] \.ai-chat__composer textarea::placeholder\s*\{[^}]*color: #747a7e;/s);
+  assert.match(css, /html\[data-theme='light'\] \.ai-chat__submit-btn,[\s\S]*border: 1px solid #000000;[^}]*background: #ffffff;[^}]*color: #000000;/s);
+});

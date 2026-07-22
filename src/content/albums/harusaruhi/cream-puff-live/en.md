@@ -25,59 +25,59 @@ tracks:
   -
     number: "2"
     title: "Twig"
-    songId: "harusaruhi/covers/archive-cream-puff-live-02"
+    songId: "harusaruhi/covers/twig"
   -
     number: "3"
     title: "colors"
-    songId: "harusaruhi/covers/archive-cream-puff-live-03"
+    songId: "harusaruhi/covers/colors"
   -
     number: "4"
     title: "MC2"
   -
     number: "5"
     title: "ミュージック"
-    songId: "harusaruhi/covers/archive-cream-puff-live-05"
+    songId: "harusaruhi/covers/ミュージック-myuujikku"
   -
     number: "6"
     title: "死んでしまったのだろうか"
-    songId: "harusaruhi/covers/archive-cream-puff-live-06"
+    songId: "harusaruhi/covers/死んでしまったのだろうか-shinde-shimatta-no-darou-ka"
   -
     number: "7"
     title: "MC3"
   -
     number: "8"
     title: "最後の晩餐"
-    songId: "harusaruhi/covers/archive-cream-puff-live-08"
+    songId: "harusaruhi/covers/最後の晩餐-saigo-no-bansan"
   -
     number: "9"
     title: "君の神様になりたい。"
-    songId: "harusaruhi/covers/archive-cream-puff-live-09"
+    songId: "harusaruhi/covers/君の神様になりたい-kimi-no-kamisama-ni-naritai"
   -
     number: "10"
     title: "MC4"
   -
     number: "11"
     title: "ピロウトーク"
-    songId: "harusaruhi/covers/archive-cream-puff-live-11"
+    songId: "harusaruhi/covers/ピロウトーク-piroutooku"
   -
     number: "12"
     title: "糸"
-    songId: "harusaruhi/covers/archive-cream-puff-live-12"
+    songId: "harusaruhi/covers/糸-ito"
   -
     number: "13"
     title: "CULT"
-    songId: "harusaruhi/covers/archive-cream-puff-live-13"
+    songId: "harusaruhi/covers/cult"
   -
     number: "14"
     title: "MC5"
   -
     number: "15"
     title: "腐りきった人生だ。"
-    songId: "harusaruhi/covers/archive-cream-puff-live-15"
+    songId: "harusaruhi/covers/腐りきった人生だ-kusarikitta-jinsei-da"
   -
     number: "16"
     title: "春猿火自由律#05「iのアンサー」"
-    songId: "harusaruhi/covers/archive-cream-puff-live-16"
+    songId: "harusaruhi/covers/春猿火自由律-05-iのアンサー-harusaruhi-jiyuuritsu-05-i-no-ansaa"
   -
     number: "17"
     title: "MC6"
@@ -87,54 +87,54 @@ tracks:
   -
     number: "19"
     title: "Mela!"
-    songId: "harusaruhi/covers/archive-cream-puff-live-19"
+    songId: "harusaruhi/covers/mela"
   -
     number: "20"
     title: "Caffeine"
-    songId: "harusaruhi/covers/archive-cream-puff-live-20"
+    songId: "harusaruhi/covers/caffeine"
   -
     number: "21"
     title: "MC8"
   -
     number: "22"
     title: "CITI"
-    songId: "harusaruhi/covers/archive-cream-puff-live-22"
+    songId: "harusaruhi/covers/citi"
   -
     number: "23"
     title: "snow jam"
-    songId: "harusaruhi/covers/archive-cream-puff-live-23"
+    songId: "harusaruhi/covers/snow-jam"
   -
     number: "24"
     title: "開戦前夜"
-    songId: "harusaruhi/covers/archive-cream-puff-live-24"
+    songId: "harusaruhi/covers/開戦前夜-kaisen-zenya"
   -
     number: "25"
     title: "MC9"
   -
     number: "26"
     title: "たぶん"
-    songId: "harusaruhi/covers/archive-cream-puff-live-26"
+    songId: "harusaruhi/covers/たぶん-tabun"
   -
     number: "27"
     title: "MC10"
   -
     number: "28"
     title: "告げ口"
-    songId: "harusaruhi/covers/archive-cream-puff-live-28"
+    songId: "harusaruhi/covers/告げ口-tsugeguchi"
   -
     number: "29"
     title: "MC11"
   -
     number: "30"
     title: "ずるいね feat.理芽"
-    songId: "harusaruhi/covers/archive-cream-puff-live-30"
+    songId: "harusaruhi/covers/ずるいね-zuruine"
   -
     number: "31"
     title: "MC12"
   -
     number: "32"
     title: "夢の中"
-    songId: "harusaruhi/covers/archive-cream-puff-live-32"
+    songId: "harusaruhi/covers/夢の中-yume-no-naka"
 ---
 
 ## Overview

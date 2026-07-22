@@ -1,0 +1,169 @@
+---
+locale: zh
+translationKey: harusaruhi_song_track_1866811140
+title: "家に帰ろう"
+artist: "春猿火"
+artistId: harusaruhi
+artistIds:
+  - "harusaruhi"
+album: "SPICE OF LIFE"
+duration: "00:53"
+releaseDate: "2026-02-18"
+categoryTitle: "原创曲"
+categorySubtitle: ORIGINALS
+categoryOrder: 10
+itemOrder: 625
+code: "apple-1866811140"
+image: /images/albums/harusaruhi/spice-of-life.jpg
+---
+
+## 作品简介
+
+《家に帰ろう》收录于《SPICE OF LIFE》或其相关正式发行。本词条按具体录音版本建立；现场、重混与重新编曲版不会与原版混为一项。
+
+## 试听
+
+@[apple-music](https://music.apple.com/jp/album/%E5%AE%B6%E3%81%AB%E5%B8%B0%E3%82%8D%E3%81%86/1866810856?i=1866811140&uo=4 "家に帰ろう")
+
+## 歌词
+
+{{lyrics-controls::zh}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:00.51]<ruby>自分<rt class="furi">じぶん</rt><rt class="roma">jibun</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>ご<rt class="roma">go</rt></ruby><ruby>褒美<rt class="furi">ほうび</rt><rt class="roma">houbi</rt></ruby>
+</div>
+<div class="cn-lyric">[00:00.51]犒劳自己</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:02.03]<ruby>今日<rt class="furi">きょう</rt><rt class="roma">kyou</rt></ruby><ruby>くらい<rt class="roma">kurai</rt></ruby><ruby>贅沢<rt class="furi">ぜいたく</rt><rt class="roma">zeitaku</rt></ruby><ruby>スキップ<rt class="roma">sukippu</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby><ruby>料理<rt class="furi">りょうり</rt><rt class="roma">ryouri</rt></ruby>
+</div>
+<div class="cn-lyric">[00:02.03]今天至少奢侈地跳过做饭</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:04.85]<ruby>頑張<rt class="furi">がんば</rt><rt class="roma">ganba</rt></ruby><ruby>った<rt class="roma">tta</rt></ruby><ruby>日<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby> <ruby>家<rt class="furi">いえ</rt><rt class="roma">ie</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>距離<rt class="furi">きょり</rt><rt class="roma">kyori</rt></ruby>
+</div>
+<div class="cn-lyric">[00:04.85]努力了一天的回家路</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:06.97]<ruby>好<rt class="furi">す</rt><rt class="roma">su</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ミュージック<rt class="roma">myuujikku</rt></ruby><ruby>耳<rt class="furi">みみ</rt><rt class="roma">mimi</rt></ruby><ruby>鳴<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>らし<rt class="roma">rashi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>going
+</div>
+<div class="cn-lyric">[00:06.97]听着喜欢的音乐一路前进</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:09.89]<ruby>帰宅<rt class="furi">きたく</rt><rt class="roma">kitaku</rt></ruby><ruby>電車<rt class="furi">でんしゃ</rt><rt class="roma">densha</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ラッシュ<rt class="roma">rasshu</rt></ruby>
+</div>
+<div class="cn-lyric">[00:09.89]回家的电车正值高峰</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:11.82]<ruby>椅子<rt class="furi">いす</rt><rt class="roma">isu</rt></ruby><ruby>狙<rt class="furi">ねら</rt><rt class="roma">nera</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>皆<rt class="furi">みな</rt><rt class="roma">mina</rt></ruby><ruby>ダッシュ<rt class="roma">dasshu</rt></ruby>
+</div>
+<div class="cn-lyric">[00:11.82]大家冲刺争抢座位</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:13.52]<ruby>いつも<rt class="roma">itsumo</rt></ruby><ruby>惨敗<rt class="furi">ざんぱい</rt><rt class="roma">zanpai</rt></ruby>
+</div>
+<div class="cn-lyric">[00:13.52]总是惨败</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:14.50]<ruby>会<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>マイキャット<rt class="roma">maikyatto</rt></ruby>
+</div>
+<div class="cn-lyric">[00:14.50]好想见你啊我的猫</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:16.20]<ruby>早<rt class="furi">はや</rt><rt class="roma">haya</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>早<rt class="furi">はや</rt><rt class="roma">haya</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>焦<rt class="furi">あせ</rt><rt class="roma">ase</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>気持<rt class="furi">きも</rt><rt class="roma">kimo</rt></ruby><ruby>ち<rt class="roma">chi</rt></ruby>
+</div>
+<div class="cn-lyric">[00:16.20]快点快点焦急的心情</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:18.18]<ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>すぐ<rt class="roma">sugu</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>ふかふか<rt class="roma">fukafuka</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ベッド<rt class="roma">beddo</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>ダイブ<rt class="roma">daibu</rt></ruby>
+</div>
+<div class="cn-lyric">[00:18.18]现在就想跳进软绵绵的床</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:21.23]<ruby>家<rt class="furi">いえ</rt><rt class="roma">ie</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>帰<rt class="furi">かえ</rt><rt class="roma">kae</rt></ruby><ruby>ろ<rt class="roma">ro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
+</div>
+<div class="cn-lyric">[00:21.23]回家吧</div>
+<div class="cn-lyric">回家吧</div>
+<div class="cn-lyric">回家吧</div>
+<div class="cn-lyric">回家吧</div>
+<div class="cn-lyric">回家吧</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:23.12]<ruby>大好<rt class="furi">だいす</rt><rt class="roma">daisu</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>もの<rt class="roma">mono</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>囲<rt class="furi">かこ</rt><rt class="roma">kako</rt></ruby><ruby>ま<rt class="roma">ma</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>マイホーム<rt class="roma">maihoumu</rt></ruby>
+</div>
+<div class="cn-lyric">[00:23.12]被喜爱之物包围的我的家</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:26.51]<ruby>家<rt class="furi">いえ</rt><rt class="roma">ie</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>帰<rt class="furi">かえ</rt><rt class="roma">kae</rt></ruby><ruby>ろ<rt class="roma">ro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:28.58]<ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>気<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>なく<rt class="roma">naku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>もう<rt class="roma">mou</rt></ruby><ruby>大丈夫<rt class="furi">だいじょうぶ</rt><rt class="roma">daijoubu</rt></ruby>
+</div>
+<div class="cn-lyric">[00:28.58]不用在意谁的目光，已经没关系了</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:31.74]<ruby>家<rt class="furi">いえ</rt><rt class="roma">ie</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>帰<rt class="furi">かえ</rt><rt class="roma">kae</rt></ruby><ruby>ろ<rt class="roma">ro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:33.91]<ruby>お<rt class="roma">o</rt></ruby><ruby>風呂<rt class="furi">ふろ</rt><rt class="roma">furo</rt></ruby><ruby>つかって<rt class="roma">tsukatte</rt></ruby><ruby>疲<rt class="furi">つか</rt><rt class="roma">tsuka</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>解放<rt class="furi">かいほう</rt><rt class="roma">kaihou</rt></ruby>
+</div>
+<div class="cn-lyric">[00:33.91]泡个澡从疲惫中解放</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:37.20]<ruby>家<rt class="furi">いえ</rt><rt class="roma">ie</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>帰<rt class="furi">かえ</rt><rt class="roma">kae</rt></ruby><ruby>ろ<rt class="roma">ro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:38.97]yeah
+</div>
+<div class="cn-lyric">[00:38.97]yeah</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:39.82]<ruby>家<rt class="furi">いえ</rt><rt class="roma">ie</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>帰<rt class="furi">かえ</rt><rt class="roma">kae</rt></ruby><ruby>ろ<rt class="roma">ro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
+</div>
+</div>
+
+<br />
+
+</div>

@@ -1,0 +1,213 @@
+---
+locale: zh
+translationKey: isekaijoucho_song_track_1656389893
+title: "シリウスの心臓 (Live at Virtual, 2022)"
+artist: "ヰ世界情緒"
+artistId: isekaijoucho
+artistIds:
+  - "isekaijoucho"
+  - "rim"
+album: "Singularity Live"
+duration: "05:22"
+releaseDate: "2022-11-23"
+categoryTitle: "翻唱曲"
+categorySubtitle: COVERS
+categoryOrder: 20
+itemOrder: 208
+code: "apple-1656389893"
+image: /images/albums/rim/singularity-live.jpg
+---
+
+## 作品简介
+
+《シリウスの心臓 (Live at Virtual, 2022)》收录于《Singularity Live》或其相关正式发行。本词条按具体录音版本建立；现场、重混与重新编曲版不会与原版混为一项。
+
+## 试听
+
+@[apple-music](https://music.apple.com/jp/album/%E3%82%B7%E3%83%AA%E3%82%A6%E3%82%B9%E3%81%AE%E5%BF%83%E8%87%93-live-at-virtual-2022/1656389880?i=1656389893&uo=4 "シリウスの心臓 (Live at Virtual, 2022)")
+
+## 歌词
+
+{{lyrics-controls::zh}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:13.31]<ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>寂<rt class="furi">さび</rt><rt class="roma">sabi</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
+</div>
+<div class="cn-lyric">[00:13.31]唱歌是因为寂寞</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:19.88]<ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>閉<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>じる<rt class="roma">jiru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>聞<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
+</div>
+<div class="cn-lyric">[00:19.88]闭眼是因为想听</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:26.33]<ruby>風<rt class="furi">かぜ</rt><rt class="roma">kaze</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>読<rt class="furi">よ</rt><rt class="roma">yo</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
+</div>
+<div class="cn-lyric">[00:26.33]感受风是为了你</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:32.90]<ruby>少<rt class="furi">すこ</rt><rt class="roma">suko</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>近<rt class="furi">ちか</rt><rt class="roma">chika</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>感<rt class="furi">かん</rt><rt class="roma">kan</rt></ruby><ruby>じ<rt class="roma">ji</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
+</div>
+<div class="cn-lyric">[00:32.90]想要哪怕一点点靠近的感觉</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:40.87]<ruby>明<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>かり<rt class="roma">kari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
+</div>
+<div class="cn-lyric">[00:40.87]致化作光明的你</div>
+<div class="cn-lyric">[00:40.87]致化作光明的你</div>
+<div class="cn-lyric">[00:40.87]致化作光明的你</div>
+<div class="cn-lyric">[00:40.87]致化作光明的你</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:47.36]<ruby>宇宙<rt class="furi">うちゅう</rt><rt class="roma">uchuu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>飛<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>べる<rt class="roma">beru</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>待<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
+</div>
+<div class="cn-lyric">[00:47.36]请等我直到能飞向宇宙</div>
+<div class="cn-lyric">请等我直到能飞向宇宙</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:54.06]<ruby>明<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>かり<rt class="roma">kari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
+</div>
+<div class="cn-lyric">[00:54.06]化作光明的你的</div>
+<div class="cn-lyric">[00:54.06]化作光明的你的</div>
+<div class="cn-lyric">[00:54.06]化作光明的你的</div>
+<div class="cn-lyric">[00:54.06]化作光明的你的</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:00.71]<ruby>心臓<rt class="furi">しんぞう</rt><rt class="roma">shinzou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>点滅<rt class="furi">てんめつ</rt><rt class="roma">tenmetsu</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby><ruby>かしら<rt class="roma">kashira</rt></ruby>
+</div>
+<div class="cn-lyric">[01:00.71]心脏是否会闪烁呢</div>
+<div class="cn-lyric">心脏是否会闪烁呢</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:08.78]<ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>哀<rt class="furi">かな</rt><rt class="roma">kana</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
+</div>
+<div class="cn-lyric">[01:08.78]唱歌是因为悲伤</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:15.43]<ruby>目<rt class="furi">め</rt><rt class="roma">me</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>閉<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>じる<rt class="roma">jiru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>泣<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
+</div>
+<div class="cn-lyric">[01:15.43]闭眼是因为想哭</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:22.13]<ruby>風<rt class="furi">かぜ</rt><rt class="roma">kaze</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>読<rt class="furi">よ</rt><rt class="roma">yo</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
+</div>
+<div class="cn-lyric">[01:22.13]感受风是为了你</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:28.57]<ruby>少<rt class="furi">すこ</rt><rt class="roma">suko</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>早<rt class="furi">はや</rt><rt class="roma">haya</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>会<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
+</div>
+<div class="cn-lyric">[01:28.57]想要哪怕早一点见到你</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:36.64]<ruby>明<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>かり<rt class="roma">kari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:42.99]<ruby>宇宙<rt class="furi">うちゅう</rt><rt class="roma">uchuu</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>待<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
+</div>
+<div class="cn-lyric">[01:42.99]请等我直到抵达宇宙</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:49.56]<ruby>明<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>かり<rt class="roma">kari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:56.39]<ruby>心臓<rt class="furi">しんぞう</rt><rt class="roma">shinzou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>凍<rt class="furi">こお</rt><rt class="roma">koo</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>ず<rt class="roma">zu</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby><ruby>かしら<rt class="roma">kashira</rt></ruby>
+</div>
+<div class="cn-lyric">[01:56.39]心脏是否会不冻结呢</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:00.17]<ruby>明<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>かり<rt class="roma">kari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:06.49]<ruby>宇宙<rt class="furi">うちゅう</rt><rt class="roma">uchuu</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>会<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>える<rt class="roma">eru</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>待<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
+</div>
+<div class="cn-lyric">[03:06.49]请等我直到在宇宙相见</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:13.10]<ruby>明<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>かり<rt class="roma">kari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:19.97]<ruby>心臓<rt class="furi">しんぞう</rt><rt class="roma">shinzou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>赤<rt class="furi">あか</rt><rt class="roma">aka</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>光<rt class="furi">ひか</rt><rt class="roma">hika</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>かしら<rt class="roma">kashira</rt></ruby>
+</div>
+<div class="cn-lyric">[03:19.97]心脏是否会发出红光呢</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[04:33.05]<ruby>明<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>かり<rt class="roma">kari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>へ<rt class="roma">he</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[04:39.75]<ruby>宇宙<rt class="furi">うちゅう</rt><rt class="roma">uchuu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>飛<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>べる<rt class="roma">beru</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby><ruby>待<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[04:46.45]<ruby>明<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>かり<rt class="roma">kari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[04:53.10]<ruby>心臓<rt class="furi">しんぞう</rt><rt class="roma">shinzou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>点滅<rt class="furi">てんめつ</rt><rt class="roma">tenmetsu</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby><ruby>かしら<rt class="roma">kashira</rt></ruby>
+</div>
+</div>
+
+</div>

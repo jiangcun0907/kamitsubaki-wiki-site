@@ -34,13 +34,22 @@ async function getMarkdownRenderer() {
 }
 
 export async function renderMarkdownFragment(markdown) {
+  const { html } = await renderMarkdownDocument(markdown);
+  return html;
+}
+
+export async function renderMarkdownDocument(markdown, options = {}) {
   const source = String(markdown || '').trim();
 
   if (!source) {
-    return '';
+    return { html: '', headings: [], metadata: {} };
   }
 
   const renderer = await getMarkdownRenderer();
-  const { code } = await renderer.render(source);
-  return code;
+  const { code, metadata = {} } = await renderer.render(source, options);
+  return {
+    html: code,
+    headings: metadata.headings ?? [],
+    metadata,
+  };
 }

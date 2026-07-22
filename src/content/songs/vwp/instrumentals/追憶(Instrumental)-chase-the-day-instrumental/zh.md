@@ -1,0 +1,347 @@
+---
+locale: zh
+translationKey: vwp_song_track_1826916955
+title: "追憶 (Instrumental)(feat. 花譜, 理芽, 春猿火, ヰ世界情緒 & 幸祜)"
+artist: "V.W.P"
+artistId: vwp
+artistIds:
+  - "vwp"
+  - "kaf"
+  - "rim"
+  - "harusaruhi"
+  - "isekaijoucho"
+  - "koko"
+album: "歌姫"
+duration: "03:31"
+releaseDate: "2025-07-30"
+categoryTitle: "纯音乐"
+categorySubtitle: INSTRUMENTALS
+categoryOrder: 80
+itemOrder: 526
+code: "apple-1826916955"
+image: /images/albums/vwp/songstress.jpg
+---
+
+## 作品简介
+
+《追憶 (Instrumental)(feat. 花譜, 理芽, 春猿火, ヰ世界情緒 & 幸祜)》收录于《歌姫》或其相关正式发行。本词条按具体录音版本建立；现场、重混与重新编曲版不会与原版混为一项。
+
+## 试听
+
+@[apple-music](https://music.apple.com/jp/album/%E8%BF%BD%E6%86%B6-instrumental-feat-%E8%8A%B1%E8%AD%9C-%E7%90%86%E8%8A%BD-%E6%98%A5%E7%8C%BF%E7%81%AB-%E3%83%B0%E4%B8%96%E7%95%8C%E6%83%85%E7%B7%92-%E5%B9%B8%E7%A5%9C/1826916951?i=1826916955&uo=4 "追憶 (Instrumental)(feat. 花譜, 理芽, 春猿火, ヰ世界情緒 & 幸祜)")
+
+## 歌词
+
+{{lyrics-controls::zh}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Hello hello
+</div>
+<div class="cn-lyric">你好 你好</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The street's getting colder here at night
+</div>
+<div class="cn-lyric">夜晚的街道越来越冷</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Now no one's home
+</div>
+<div class="cn-lyric">现在家中无人</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Am I gonna kiss my worst goodbye?
+</div>
+<div class="cn-lyric">我是否要与最糟糕的告别亲吻？</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+My mind is questioning still
+</div>
+<div class="cn-lyric">我的思绪仍在质疑</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Somehow
+</div>
+<div class="cn-lyric">不知为何</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I'm stuck on where we were in
+</div>
+<div class="cn-lyric">我困在我们曾经所在的地方</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I try to listen to live a life
+</div>
+<div class="cn-lyric">我试着倾听生活</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Just can't seem to find home
+</div>
+<div class="cn-lyric">却似乎找不到家</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Watch the day
+</div>
+<div class="cn-lyric">看着白天</div>
+<div class="cn-lyric">看着白天</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Kiss the night
+</div>
+<div class="cn-lyric">亲吻夜晚</div>
+<div class="cn-lyric">亲吻夜晚</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Now my heart remains empty and I can't fight
+</div>
+<div class="cn-lyric">如今我的心依旧空虚，我无力抗争</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Feel the ache
+</div>
+<div class="cn-lyric">感受疼痛</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Behind my eyes
+</div>
+<div class="cn-lyric">在眼底</div>
+<div class="cn-lyric">在眼底</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Now the world changed forever and we can't hide
+</div>
+<div class="cn-lyric">如今世界永远改变，我们无法躲藏</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Can not escape everything that's just erased
+</div>
+<div class="cn-lyric">无法逃避一切被抹去的事物</div>
+<div class="cn-lyric">无法逃避一切被抹去的事物</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Chase the day
+</div>
+<div class="cn-lyric">追逐白昼</div>
+<div class="cn-lyric">追逐白昼</div>
+<div class="cn-lyric">追逐白昼</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Go save the night
+</div>
+<div class="cn-lyric">去拯救夜晚</div>
+<div class="cn-lyric">去拯救夜晚</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Still I'll be here forever right by your side
+</div>
+<div class="cn-lyric">而我仍会永远在你身边</div>
+<div class="cn-lyric">而我仍会永远在你身边</div>
+<div class="cn-lyric">而我仍会永远在你身边</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I'll be right by your side
+</div>
+<div class="cn-lyric">我会在你身边</div>
+<div class="cn-lyric">我会在你身边</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+So long so long
+</div>
+<div class="cn-lyric">再见 再见</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We'll hold up our heads and meet again
+</div>
+<div class="cn-lyric">我们会昂首挺胸，再次相遇</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Till we belong
+</div>
+<div class="cn-lyric">直到我们有所归属</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+And have all the answers in our hands
+</div>
+<div class="cn-lyric">并拥有所有答案在手</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+In time I hope that I heal
+</div>
+<div class="cn-lyric">但愿随着时间，我会痊愈</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+One day
+</div>
+<div class="cn-lyric">有一天</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I'll give you this song and
+</div>
+<div class="cn-lyric">我会把这首歌给你，</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+As long as you want to hear
+</div>
+<div class="cn-lyric">只要你愿意听</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We'll have found our own way back home
+</div>
+<div class="cn-lyric">我们会找到回家的路</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Watch the day
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Kiss the night
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Now my heart's filled with you and I face the fight
+</div>
+<div class="cn-lyric">如今我的心装满你，我直面抗争</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Feel the fire
+</div>
+<div class="cn-lyric">感受火焰</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Behind my eyes
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Now the world changed forever and we won't hide
+</div>
+<div class="cn-lyric">如今世界永远改变，我们不会躲藏</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Can not escape everything that's just erased
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Chase the day
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Go save the night
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Still I'll be here forever right by your side
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>例<rt class="furi">たと</rt><rt class="roma">tato</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>これ<rt class="roma">kore</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>すべて<rt class="roma">subete</rt></ruby><ruby>夢<rt class="furi">ゆめ</rt><rt class="roma">yume</rt></ruby><ruby>だった<rt class="roma">datta</rt></ruby><ruby>として<rt class="roma">toshite</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
+</div>
+<div class="cn-lyric">即使这一切都只是梦</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Chase the day
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Save the night
+</div>
+<div class="cn-lyric">拯救夜晚</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Still I'll be here forever right by your side
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I'll be right by your side
+</div>
+</div>
+
+</div>

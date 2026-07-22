@@ -1,0 +1,211 @@
+---
+locale: zh
+translationKey: harusaruhi_song_track_1866811142
+title: "アルコール"
+artist: "春猿火"
+artistId: harusaruhi
+artistIds:
+  - "harusaruhi"
+album: "SPICE OF LIFE"
+duration: "01:04"
+releaseDate: "2026-02-18"
+categoryTitle: "原创曲"
+categorySubtitle: ORIGINALS
+categoryOrder: 10
+itemOrder: 619
+code: "apple-1866811142"
+image: /images/albums/harusaruhi/spice-of-life.jpg
+---
+
+## 作品简介
+
+《アルコール》收录于《SPICE OF LIFE》或其相关正式发行。本词条按具体录音版本建立；现场、重混与重新编曲版不会与原版混为一项。
+
+## 试听
+
+@[apple-music](https://music.apple.com/jp/album/%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB/1866810856?i=1866811142&uo=4 "アルコール")
+
+## 歌词
+
+{{lyrics-controls::zh}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:00.01]<ruby>仕事<rt class="furi">しごと</rt><rt class="roma">shigoto</rt></ruby><ruby>おわり<rt class="roma">owari</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>乾杯<rt class="furi">かんぱい</rt><rt class="roma">kanpai</rt></ruby>
+</div>
+<div class="cn-lyric">[00:00.01]工作结束后干杯</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:02.16]<ruby>実<rt class="furi">じつ</rt><rt class="roma">jitsu</rt></ruby><ruby>は<rt class="roma">ha</rt></ruby><ruby>飲<rt class="furi">の</rt><rt class="roma">no</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>ちゃう<rt class="roma">chau</rt></ruby><ruby>案外<rt class="furi">あんがい</rt><rt class="roma">angai</rt></ruby>
+</div>
+<div class="cn-lyric">[00:02.16]其实意外地能喝</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:04.31]yeah, yeah, yeah
+</div>
+<div class="cn-lyric">[00:04.31]yeah, yeah, yeah</div>
+<div class="cn-lyric">[00:04.31]yeah, yeah, yeah</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:05.59]<ruby>普段<rt class="furi">ふだん</rt><rt class="roma">fudan</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>割<rt class="furi">わり</rt><rt class="roma">wari</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>だんまり<rt class="roma">danmari</rt></ruby>
+</div>
+<div class="cn-lyric">[00:05.59]平时倒是挺沉默</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:07.63]<ruby>だから<rt class="roma">dakara</rt></ruby><ruby>吐き出<rt class="furi">はきだ</rt><rt class="roma">hakida</rt></ruby><ruby>す<rt class="roma">su</rt></ruby><ruby>たんまり<rt class="roma">tanmari</rt></ruby>
+</div>
+<div class="cn-lyric">[00:07.63]所以吐出很多话</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:09.64]yeah, yeah, yeah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:11.10]<ruby>話<rt class="furi">はなし</rt><rt class="roma">hanashi</rt></ruby> <ruby>はずむ<rt class="roma">hazumu</rt></ruby> <ruby>やばい<rt class="roma">yabai</rt></ruby> <ruby>回<rt class="furi">まわ</rt><rt class="roma">mawa</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby>
+</div>
+<div class="cn-lyric">[00:11.10]话 高涨 不得了 旋转</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:13.51]<ruby>赤<rt class="furi">あか</rt><rt class="roma">aka</rt></ruby><ruby>い<rt class="roma">i</rt></ruby> <ruby>染<rt class="furi">そ</rt><rt class="roma">so</rt></ruby><ruby>まる<rt class="roma">maru</rt></ruby> <ruby>頬<rt class="furi">ほお</rt><rt class="roma">hoo</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>語<rt class="furi">かた</rt><rt class="roma">kata</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby>
+</div>
+<div class="cn-lyric">[00:13.51]红色 染上 脸颊诉说</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:16.28]<ruby>楽<rt class="furi">たの</rt><rt class="roma">tano</rt></ruby><ruby>しく<rt class="roma">shiku</rt></ruby><ruby>なる<rt class="roma">naru</rt></ruby><ruby>飲<rt class="furi">の</rt><rt class="roma">no</rt></ruby><ruby>み<rt class="roma">mi</rt></ruby><ruby>ニケーション<rt class="roma">nikeeshon</rt></ruby>
+</div>
+<div class="cn-lyric">[00:16.28]变得快乐的饮酒社交</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:18.52]<ruby>色々<rt class="furi">いろいろ</rt><rt class="roma">iroiro</rt></ruby><ruby>忘<rt class="furi">わす</rt><rt class="roma">wasu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>今日<rt class="furi">きょう</rt><rt class="roma">kyou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>無礼講<rt class="furi">ぶれいこう</rt><rt class="roma">bureikou</rt></ruby>
+</div>
+<div class="cn-lyric">[00:18.52]忘记种种 今天不拘礼节</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:21.68]Drunk Drunk Drunk Drunk
+</div>
+<div class="cn-lyric">[00:21.68]Drunk Drunk Drunk Drunk</div>
+<div class="cn-lyric">[00:21.68]Drunk Drunk Drunk Drunk</div>
+<div class="cn-lyric">[00:21.68]Drunk Drunk Drunk Drunk</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:23.15]<ruby>次第<rt class="furi">しだい</rt><rt class="roma">shidai</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
+</div>
+<div class="cn-lyric">[00:23.15]渐渐地</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:24.22]<ruby>クラクラクラクラ<rt class="roma">kurakurakurakura</rt></ruby>
+</div>
+<div class="cn-lyric">[00:24.22]天旋地转天旋地转</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:26.02]<ruby>みんな<rt class="roma">minna</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
+</div>
+<div class="cn-lyric">[00:26.02]大家一起</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:27.06]Drunk Drunk Drunk Drunk
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:28.69]<ruby>頭<rt class="furi">あたま</rt><rt class="roma">atama</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>パッパッパパラー<rt class="roma">pappappaparaa</rt></ruby>
+</div>
+<div class="cn-lyric">[00:28.69]脑袋噼里啪啦噼里啪啦</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:31.79]yeah
+</div>
+<div class="cn-lyric">[00:31.79]yeah</div>
+<div class="cn-lyric">[00:31.79]yeah</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:32.17]<ruby>気分<rt class="furi">きぶん</rt><rt class="roma">kibun</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>あがる<rt class="roma">agaru</rt></ruby>
+</div>
+<div class="cn-lyric">[00:32.17]情绪高涨</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:33.54]<ruby>距離<rt class="furi">きょり</rt><rt class="roma">kyori</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>縮<rt class="furi">ちぢ</rt><rt class="roma">chiji</rt></ruby><ruby>まる<rt class="roma">maru</rt></ruby>
+</div>
+<div class="cn-lyric">[00:33.54]距离拉近</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:34.82]<ruby>たま<rt class="roma">tama</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby>
+</div>
+<div class="cn-lyric">[00:34.82]偶尔也好</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:36.07]<ruby>けど<rt class="roma">kedo</rt></ruby><ruby>ほど<rt class="roma">hodo</rt></ruby><ruby>ほど<rt class="roma">hodo</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
+</div>
+<div class="cn-lyric">[00:36.07]但也要适可而止</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:37.67]Drunk Drunk Drunk Drunk
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:39.42]<ruby>朝<rt class="furi">あさ</rt><rt class="roma">asa</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby>
+</div>
+<div class="cn-lyric">[00:39.42]直到早晨</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:40.36]Chat Chat Chat Chat
+</div>
+<div class="cn-lyric">[00:40.36]Chat Chat Chat Chat</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:42.37]yeah
+</div>
+</div>
+
+<br />
+
+</div>

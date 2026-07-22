@@ -1,0 +1,217 @@
+<div
+  id="site-intro"
+  class="site-intro"
+  data-site-intro
+  data-animation-duration="5845"
+  data-state="animating"
+  aria-hidden="true"
+>
+  <div class="site-intro__stage">
+    <video
+      class="site-intro__video"
+      data-site-intro-video
+      muted
+      playsinline
+      preload="auto"
+      disablepictureinpicture
+      tabindex="-1"
+    >
+      <source src="/brand/site-intro-light.mp4" type="video/mp4" />
+    </video>
+
+    <div class="site-intro__static">
+      <div class="site-intro__mark">
+        <div class="site-intro__logo-wrap">
+          <img
+            class="site-intro__static-logo site-intro__static-logo--dark"
+            src="/brand/main-logo-dark.svg"
+            alt=""
+            width="400"
+            height="400"
+            decoding="sync"
+          />
+          <img
+            class="site-intro__static-logo site-intro__static-logo--light"
+            src="/brand/main-logo-light.svg"
+            alt=""
+            width="400"
+            height="400"
+            decoding="sync"
+          />
+        </div>
+        <p class="site-intro__tagline">UNOFFICIAL KAMITSUBAKI FAN WIKI</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+  .site-intro {
+    --site-intro-duration: 5845ms;
+    position: fixed;
+    inset: 0;
+    z-index: 1000000;
+    display: none;
+    overflow: hidden;
+    background: #ffffff;
+    opacity: 1;
+    visibility: visible;
+    animation: siteIntroBackdropDark var(--site-intro-duration) linear both;
+  }
+
+  :global(html.site-intro-enabled) .site-intro {
+    display: block;
+  }
+
+  :global(html.site-intro-enabled),
+  :global(html.site-intro-enabled body) {
+    overflow: hidden;
+    overscroll-behavior: none;
+  }
+
+  :global(html[data-theme='light']) .site-intro {
+    animation-name: siteIntroBackdropLight;
+  }
+
+  .site-intro__stage,
+  .site-intro__video,
+  .site-intro__static {
+    position: absolute;
+    inset: 0;
+  }
+
+  .site-intro__stage {
+    transition: transform 680ms cubic-bezier(0.16, 1, 0.3, 1), opacity 520ms ease;
+  }
+
+  .site-intro__video {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    object-fit: contain;
+    object-position: center;
+    pointer-events: none;
+  }
+
+  :global(html:not([data-theme='light'])) .site-intro__video {
+    filter: invert(1);
+  }
+
+  .site-intro__video::-webkit-media-controls {
+    display: none !important;
+  }
+
+  .site-intro__static {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--theme-fg);
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  .site-intro__mark {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transform: translateY(-1%);
+  }
+
+  .site-intro__logo-wrap {
+    position: relative;
+    width: min(41.1vw, 73.1vh);
+    aspect-ratio: 1;
+  }
+
+  .site-intro__static-logo {
+    position: absolute;
+    inset: 0;
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+
+  .site-intro__static-logo--light {
+    display: none;
+  }
+
+  :global(html[data-theme='light']) .site-intro__static-logo--dark {
+    display: none;
+  }
+
+  :global(html[data-theme='light']) .site-intro__static-logo--light {
+    display: block;
+  }
+
+  .site-intro__tagline {
+    margin: min(2.35vw, 4.18vh) 0 0;
+    color: currentColor;
+    font-family: Montserrat, Arial, sans-serif;
+    font-size: min(2.68vw, 4.76vh);
+    font-weight: 400;
+    line-height: 1;
+    letter-spacing: -0.035em;
+    white-space: nowrap;
+  }
+
+  .site-intro.is-video-unavailable .site-intro__video {
+    display: none;
+  }
+
+  .site-intro.is-video-unavailable .site-intro__static {
+    opacity: 1;
+  }
+
+  .site-intro.is-leaving {
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 680ms cubic-bezier(0.16, 1, 0.3, 1), visibility 680ms;
+  }
+
+  .site-intro.is-leaving .site-intro__stage {
+    opacity: 0;
+    transform: scale(0.98);
+  }
+
+  @keyframes siteIntroBackdropLight {
+    0% { background-color: #ffffff; }
+    19% { background-color: #fbfbfb; }
+    29% { background-color: #fafafa; }
+    51%, 100% { background-color: #f7f7f7; }
+  }
+
+  @keyframes siteIntroBackdropDark {
+    0% { background-color: #000000; }
+    19% { background-color: #040404; }
+    29% { background-color: #050505; }
+    51%, 100% { background-color: #080808; }
+  }
+
+  @keyframes siteIntroReduced {
+    from { opacity: 0; transform: scale(0.96); }
+    to { opacity: 1; transform: scale(1); }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .site-intro {
+      animation: none;
+      background: var(--theme-bg);
+    }
+
+    .site-intro__video {
+      display: none;
+    }
+
+    .site-intro__static {
+      opacity: 1;
+      animation: siteIntroReduced 900ms ease-out both;
+    }
+
+    .site-intro,
+    .site-intro__stage {
+      transition-duration: 160ms;
+    }
+  }
+</style>

@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import AiChatWidget from '../components/AiChatWidget.astro';
+import SiteIntro from '../components/SiteIntro.astro';
 import SocialContactWidget from '../components/SocialContactWidget.astro';
 import { getLocalizedSiteName } from '../lib/i18n.mjs';
 import '../styles/global.css';
@@ -56,6 +57,40 @@ const socialContactCopy = siteEntry?.data.socialContact;
 <html lang={lang} class="scroll-smooth">
   <head>
     <meta charset="UTF-8" />
+    <script is:inline define:vars={{ isLocalizedHome }}>
+      (() => {
+        const storageKey = 'kamitsubaki-theme';
+        const introStorageKey = 'kamitsubaki-home-intro-seen';
+        let preference = 'system';
+
+        try {
+          const savedPreference = window.localStorage.getItem(storageKey);
+          if (savedPreference === 'light' || savedPreference === 'dark' || savedPreference === 'system') {
+            preference = savedPreference;
+          }
+        } catch {
+          // Storage may be unavailable in privacy-restricted browsing contexts.
+        }
+
+        const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        const theme = preference === 'system' ? (systemPrefersDark ? 'dark' : 'light') : preference;
+        document.documentElement.dataset.themePreference = preference;
+        document.documentElement.dataset.theme = theme;
+
+        if (isLocalizedHome) {
+          let shouldPlayIntro = true;
+
+          try {
+            shouldPlayIntro = window.sessionStorage.getItem(introStorageKey) !== 'true';
+            if (shouldPlayIntro) window.sessionStorage.setItem(introStorageKey, 'true');
+          } catch {
+            // The intro still works when session storage is unavailable.
+          }
+
+          if (shouldPlayIntro) document.documentElement.classList.add('site-intro-enabled');
+        }
+      })();
+    </script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{pageTitle}</title>
     <link rel="icon" type="image/svg+xml" href="/brand/kamitsubakiwiki-square.svg" />
@@ -67,6 +102,13 @@ const socialContactCopy = siteEntry?.data.socialContact;
       <link rel="alternate" hreflang={alternate.locale} href={alternate.href} />
     ))}
     <link rel="alternate" hreflang="x-default" href="/zh/" />
+    {isLocalizedHome && (
+      <>
+        <link rel="preload" href="/brand/site-intro-light.mp4" as="video" type="video/mp4" />
+        <link rel="preload" href="/brand/main-logo-dark.svg" as="image" type="image/svg+xml" />
+        <link rel="preload" href="/brand/main-logo-light.svg" as="image" type="image/svg+xml" />
+      </>
+    )}
     <meta property="og:site_name" content={localizedSiteName} />
     <meta property="og:type" content={pageType} />
     <meta property="og:title" content={pageTitle} />
@@ -85,15 +127,8 @@ const socialContactCopy = siteEntry?.data.socialContact;
       rel="stylesheet"
     />
   </head>
-  <body class="antialiased font-sans selection:bg-white selection:text-black overflow-hidden ui-loading" id="body-wrap">
-    <div id="preloader">
-      <div class="flex flex-col items-center">
-        <div class="preloader-line mb-4"></div>
-        <p class="text-[8px] tracking-[0.5em] font-mono text-white/50 animate-pulse">
-          CONNECTING TO KAMITSUBAKI_CITY...
-        </p>
-      </div>
-    </div>
+  <body class="antialiased font-sans selection:bg-white selection:text-black" id="body-wrap">
+    {isLocalizedHome && <SiteIntro />}
 
     <div class="noise-bg"></div>
     <div class="cursor-dot hidden md:block" id="cursor"></div>
@@ -103,6 +138,7 @@ const socialContactCopy = siteEntry?.data.socialContact;
     {aiChatCopy && <AiChatWidget lang={lang} copy={aiChatCopy} />}
 
     <script>
+      import '../scripts/themeToggle.js';
       import '../scripts/siteInteractions.js';
       import '../scripts/mediaSwitcher.js';
     </script>

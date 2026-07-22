@@ -84,6 +84,31 @@ export function toArtistAnchor(artist) {
   return `artist-${toArtistSlug(artist)}`;
 }
 
+export function getSongArtistIds(entry) {
+  const primaryArtist = entry.data.artist.trim();
+  const primarySlug = entry.data.artistId?.trim() || toArtistSlug(primaryArtist);
+  return [...new Set(entry.data.artistIds?.length ? entry.data.artistIds : [primarySlug])];
+}
+
+export function assertUniqueSongDocuments(entries) {
+  const pathsByCode = new Map();
+
+  for (const entry of entries) {
+    const code = entry.data.code?.trim();
+    if (!code) continue;
+
+    const songPath = getEntryContentPath(entry.id);
+    const existingPath = pathsByCode.get(code);
+    if (existingPath && existingPath !== songPath) {
+      throw new Error(
+        `Duplicate song code "${code}" in "${existingPath}" and "${songPath}". `
+        + 'Keep one document and list every catalog artist in artistIds.',
+      );
+    }
+    pathsByCode.set(code, songPath);
+  }
+}
+
 export function parseSongCatalogPath(entryId, artistId) {
   const songPath = getEntryContentPath(entryId);
   const parts = songPath.split('/').filter(Boolean);
@@ -156,7 +181,7 @@ export function groupMusicByArtist(entries, locale = 'en', artistEntries = []) {
   for (const entry of entries) {
     const primaryArtist = entry.data.artist.trim();
     const primarySlug = entry.data.artistId?.trim() || toArtistSlug(primaryArtist);
-    const slugs = [...new Set(entry.data.artistIds?.length ? entry.data.artistIds : [primarySlug])];
+    const slugs = getSongArtistIds(entry);
 
     for (const slug of slugs) {
       const artistEntry = findArtistEntry(artistEntries, slug);
@@ -187,6 +212,7 @@ export function groupMusicByArtist(entries, locale = 'en', artistEntries = []) {
 }
 
 export function buildArtistSongCatalog(songEntries, artistEntries, locale = 'en') {
+  assertUniqueSongDocuments(songEntries);
   return groupMusicByArtist(songEntries, locale, artistEntries).map((group) => ({
     ...group,
     categories: groupSongsByCategory(group.entries, group.slug, locale),

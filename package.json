@@ -9,15 +9,22 @@
     "preview": "astro preview",
     "check": "astro check",
     "test": "node --test tests/*.test.mjs",
+    "lyrics:timestamps:fetch": "node scripts/fetch-lyrics-timestamps.mjs",
+    "lyrics:timestamps:apply": "node scripts/apply-lyrics-timestamps.mjs",
+    "lyrics:timestamps:audit": "node scripts/audit-lyrics-timestamps.mjs",
     "contributors:sync": "node scripts/sync-contributors.mjs"
   },
   "dependencies": {
+    "@vitalets/google-translate-api": "^9.2.1",
     "astro": "latest",
     "katex": "^0.17.0",
+    "kuroshiro": "^1.2.0",
+    "kuroshiro-analyzer-kuromoji": "^1.1.0",
     "micromark": "^4.0.2",
     "micromark-extension-gfm": "^3.0.0",
     "micromark-extension-math": "^3.1.0",
-    "simple-icons": "^16.27.0"
+    "simple-icons": "^16.27.0",
+    "wanakana": "^5.3.1"
   },
   "devDependencies": {
     "@astrojs/check": "latest",

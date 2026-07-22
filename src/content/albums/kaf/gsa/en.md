@@ -25,17 +25,17 @@ tracks:
     number: "1"
     title: "ゲシュタルト"
     duration: "03:18"
-    songId: "kaf/originals/track-1747225955"
+    songId: "kaf/originals/ゲシュタルト-gestalt"
   -
     number: "2"
     title: "スイマー"
     duration: "03:24"
-    songId: "kaf/originals/track-1747225956"
+    songId: "kaf/originals/スイマー-swimmer"
   -
     number: "3"
     title: "アポカリプスより"
     duration: "03:26"
-    songId: "kaf/originals/track-1747225957"
+    songId: "kaf/originals/アポカリプスより-from-apocalypse"
 ---
 
 ## Overview
@@ -54,5 +54,5 @@ This release contains 3 tracks. The table above preserves disc and track order, 
 ## Sources
 
 - [KAF Official Website](https://kaf.kamitsubaki.jp/discography/20240522/810/)
-- [Apple Music Japan](https://music.apple.com/jp/album/gsa-single/1747225954?uo=4)
+- [Apple Music](https://music.apple.com/jp/album/gsa-single/1747225954?uo=4)
 - [KAF discography on VGMdb](https://vgmdb.net/artist/34690)

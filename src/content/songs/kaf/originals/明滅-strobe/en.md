@@ -1,0 +1,252 @@
+---
+locale: en
+translationKey: kaf_originals_track_6764277445
+title: "明滅"
+artist: "花譜"
+artistId: kaf
+composer: "Kanata Okajima, Hayato Yamamoto"
+lyricist: "Kanata Okajima, Hayato Yamamoto"
+album: "深愛"
+duration: "03:27"
+releaseDate: "2026-05-27"
+categoryTitle: "Original Songs"
+categorySubtitle: ORIGINALS
+categoryOrder: 10
+itemOrder: 254
+code: "apple-6764277445"
+image: /images/albums/kaf/shinai.jpg
+---
+
+## Overview
+
+“明滅” is track 3 of KAF’s 深愛.
+
+## Listen
+
+{{media-switcher::明滅}}
+@[apple-music](https://music.apple.com/jp/album/%E6%98%8E%E6%BB%85/1895713619?i=6764277445&uo=4 "明滅")
+@[netease](3383671942 "明滅")
+{{/media-switcher}}
+
+## Lyrics
+
+{{lyrics-controls::en}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:23.98]<ruby>旅<rt class="furi">たび</rt><rt class="roma">tabi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>続<rt class="furi">つづ</rt><rt class="roma">tsuzu</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby> <ruby>背負<rt class="furi">せお</rt><rt class="roma">seo</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>足跡<rt class="furi">あしあと</rt><rt class="roma">ashiato</rt></ruby>
+</div>
+<div class="trans-lyric">[00:23.98]The journey continues, bearing the footprints</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:33.89]<ruby>再<rt class="furi">ふたた</rt><rt class="roma">futata</rt></ruby><ruby>び<rt class="roma">bi</rt></ruby><ruby>瞳<rt class="furi">ひとみ</rt><rt class="roma">hitomi</rt></ruby><ruby>閉<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>じる<rt class="roma">jiru</rt></ruby> <ruby>再会<rt class="furi">さいかい</rt><rt class="roma">saikai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>願<rt class="furi">ねが</rt><rt class="roma">nega</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
+</div>
+<div class="trans-lyric">[00:33.89]I close my eyes again, hoping for reunion</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:44.05]<ruby>ねえ<rt class="roma">nee</rt></ruby>、<ruby>掴<rt class="furi">つか</rt><rt class="roma">tsuka</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>つもり<rt class="roma">tsumori</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>また<rt class="roma">mata</rt></ruby>
+</div>
+<div class="trans-lyric">[00:44.05]Hey, I thought I grasped it, but again</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:49.06]<ruby>明滅<rt class="furi">めいめつ</rt><rt class="roma">meimetsu</rt></ruby>
+</div>
+<div class="trans-lyric">Flickering</div>
+<div class="trans-lyric">Flickering</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:51.44]<ruby>幻<rt class="furi">まぼろし</rt><rt class="roma">maboroshi</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby> <ruby>憶<rt class="furi">おぼ</rt><rt class="roma">obo</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
+</div>
+<div class="trans-lyric">[00:51.44]Only the illusion I remember</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:57.39]<ruby>なんで<rt class="roma">nande</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>自分勝手<rt class="furi">じぶんがって</rt><rt class="roma">jibungatte</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
+</div>
+<div class="trans-lyric">[00:57.39]Why do we, selfish as we are,</div>
+<div class="trans-lyric">Why do we, selfish as we are,</div>
+<div class="trans-lyric">Why do we, selfish as we are,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:02.32]<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>振<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>りかざし<rt class="roma">rikazashi</rt></ruby><ruby>傷<rt class="furi">きず</rt><rt class="roma">kizu</rt></ruby><ruby>つけ<rt class="roma">tsuke</rt></ruby><ruby>合<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>？
+</div>
+<div class="trans-lyric">[01:02.32]Brandish love and hurt each other?</div>
+<div class="trans-lyric">Brandish love and hurt each other?</div>
+<div class="trans-lyric">Brandish love and hurt each other?</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:07.99]<ruby>また<rt class="roma">mata</rt></ruby><ruby>一<rt class="furi">ひと</rt><rt class="roma">hito</rt></ruby><ruby>つ<rt class="roma">tsu</rt></ruby> <ruby>また<rt class="roma">mata</rt></ruby><ruby>一<rt class="furi">ひと</rt><rt class="roma">hito</rt></ruby><ruby>つ<rt class="roma">tsu</rt></ruby> <ruby>灯<rt class="furi">あかり</rt><rt class="roma">akari</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
+</div>
+<div class="trans-lyric">[01:07.99]One by one, the lights go out</div>
+<div class="trans-lyric">One by one, the lights go out</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:12.52]<ruby>なんて<rt class="roma">nante</rt></ruby><ruby>愛<rt class="furi">いと</rt><rt class="roma">ito</rt></ruby><ruby>しく<rt class="roma">shiku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>愚<rt class="furi">おろ</rt><rt class="roma">oro</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
+</div>
+<div class="trans-lyric">[01:12.52]How precious and foolish</div>
+<div class="trans-lyric">How precious and foolish</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:18.29]<ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>聞<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
+</div>
+<div class="trans-lyric">[01:18.29]Let me hear your voiceless voice</div>
+<div class="trans-lyric">Let me hear your voiceless voice</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:30.69]<ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby><ruby>でしょ<rt class="roma">desho</rt></ruby>
+</div>
+<div class="trans-lyric">[01:30.69]It's reaching you, isn't it?</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:35.89]<ruby>未来<rt class="furi">みらい</rt><rt class="roma">mirai</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>導<rt class="furi">しるべ</rt><rt class="roma">shirube</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
+</div>
+<div class="trans-lyric">[01:35.89]The guidance of the future</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:40.86]<ruby>揺<rt class="furi">ゆ</rt><rt class="roma">yu</rt></ruby><ruby>らい<rt class="roma">rai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>ぼやけ<rt class="roma">boyake</rt></ruby><ruby>て<rt class="roma">te</rt></ruby> <ruby>滲<rt class="furi">にじ</rt><rt class="roma">niji</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby> <ruby>溢<rt class="furi">あふ</rt><rt class="roma">afu</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
+</div>
+<div class="trans-lyric">[01:40.86]Wavering, blurring, bleeding, overflowing</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:45.65]<ruby>それでも<rt class="roma">soredemo</rt></ruby> <ruby>堪<rt class="furi">こた</rt><rt class="roma">kota</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
+</div>
+<div class="trans-lyric">[01:45.65]Still, I endure</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:50.39]<ruby>なんで<rt class="roma">nande</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>自分勝手<rt class="furi">じぶんがって</rt><rt class="roma">jibungatte</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:55.58]<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>振<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>りかざし<rt class="roma">rikazashi</rt></ruby><ruby>傷<rt class="furi">きず</rt><rt class="roma">kizu</rt></ruby><ruby>つけ<rt class="roma">tsuke</rt></ruby><ruby>合<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:00.99]<ruby>優<rt class="furi">やさ</rt><rt class="roma">yasa</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>救<rt class="furi">すく</rt><rt class="roma">suku</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
+</div>
+<div class="trans-lyric">[02:00.99]If the world can be saved by kindness</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:05.56]<ruby>どうして<rt class="roma">doushite</rt></ruby><ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby> <ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>苦<rt class="furi">くる</rt><rt class="roma">kuru</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だろ<rt class="roma">daro</rt></ruby><ruby>う<rt class="roma">u</rt></ruby>
+</div>
+<div class="trans-lyric">[02:05.56]Why am I suffering now?</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:11.27]<ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>響<rt class="furi">ひび</rt><rt class="roma">hibi</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
+</div>
+<div class="trans-lyric">[02:11.27]Voiceless voice, resonate</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:26.58]<ruby>ねえ<rt class="roma">nee</rt></ruby>、<ruby>失<rt class="furi">しつ</rt><rt class="roma">shitsu</rt></ruby><ruby>くし<rt class="roma">kushi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>つもり<rt class="roma">tsumori</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>まだ<rt class="roma">mada</rt></ruby>
+</div>
+<div class="trans-lyric">[02:26.58]Hey, I thought I lost it, but still</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:31.51]<ruby>明滅<rt class="furi">めいめつ</rt><rt class="roma">meimetsu</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:35.93]<ruby>書<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>進<rt class="furi">すす</rt><rt class="roma">susu</rt></ruby><ruby>め<rt class="roma">me</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby><ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>止<rt class="furi">と</rt><rt class="roma">to</rt></ruby><ruby>まる<rt class="roma">maru</rt></ruby>
+</div>
+<div class="trans-lyric">[02:35.93]My hand, writing on, comes to a stop</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:40.89]<ruby>どうか<rt class="roma">douka</rt></ruby><ruby>いか<rt class="roma">ika</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
+</div>
+<div class="trans-lyric">Please don't go</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:45.99]<ruby>なんで<rt class="roma">nande</rt></ruby><ruby>僕<rt class="furi">ぼく</rt><rt class="roma">boku</rt></ruby><ruby>ら<rt class="roma">ra</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>自分勝手<rt class="furi">じぶんがって</rt><rt class="roma">jibungatte</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:50.89]<ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>振<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>りかざし<rt class="roma">rikazashi</rt></ruby><ruby>傷<rt class="furi">きず</rt><rt class="roma">kizu</rt></ruby><ruby>つけ<rt class="roma">tsuke</rt></ruby><ruby>合<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:56.39]<ruby>また<rt class="roma">mata</rt></ruby><ruby>一<rt class="furi">ひと</rt><rt class="roma">hito</rt></ruby><ruby>つ<rt class="roma">tsu</rt></ruby> <ruby>また<rt class="roma">mata</rt></ruby><ruby>一<rt class="furi">ひと</rt><rt class="roma">hito</rt></ruby><ruby>つ<rt class="roma">tsu</rt></ruby> <ruby>灯<rt class="furi">あかり</rt><rt class="roma">akari</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:01.11]<ruby>なんて<rt class="roma">nante</rt></ruby><ruby>愛<rt class="furi">いと</rt><rt class="roma">ito</rt></ruby><ruby>しく<rt class="roma">shiku</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>愚<rt class="furi">おろ</rt><rt class="roma">oro</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:06.89]<ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>聞<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:13.51]<ruby>此処<rt class="furi">ここ</rt><rt class="roma">koko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
+</div>
+<div class="trans-lyric">[03:13.51]Because I am here</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:16.29]<ruby>嗚呼<rt class="furi">ああ</rt><rt class="roma">aa</rt></ruby>、<ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>無<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>き<rt class="roma">ki</rt></ruby><ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>響<rt class="furi">ひび</rt><rt class="roma">hibi</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
+</div>
+<div class="trans-lyric">[03:16.29]Ah, voiceless voice, resonate</div>
+</div>
+
+</div>
+
+## Sources
+
+- [KAF Official Website](https://kaf.kamitsubaki.jp/discography/20260527/1214/)
+- [Apple Music](https://music.apple.com/jp/album/%E6%98%8E%E6%BB%85/1895713619?i=6764277445&uo=4)

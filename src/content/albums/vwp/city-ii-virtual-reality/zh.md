@@ -25,27 +25,27 @@ tracks:
     number: "1"
     title: "真偽 (feat. 花譜, 理芽, 春猿火, ヰ世界情緒 & 幸祜)"
     duration: "04:52"
-    songId: "vwp/projects/track-1858195988"
+    songId: "vwp/projects/真偽-magi-都市II-from-神椿市建設中-VIRTUAL-REALITY"
   -
     number: "2"
     title: "神話 (feat. 花譜, 理芽, 春猿火, ヰ世界情緒 & 幸祜)"
     duration: "04:08"
-    songId: "vwp/projects/track-1858195989"
+    songId: "vwp/projects/神話-mythology-都市II-from-神椿市建設中-VIRTUAL-REALITY"
   -
     number: "3"
     title: "流転 (feat. 花譜, 理芽, 春猿火, ヰ世界情緒 & 幸祜)"
     duration: "05:07"
-    songId: "vwp/projects/track-1858195990"
+    songId: "vwp/projects/流転-reincarnation-都市II-from-神椿市建設中-VIRTUAL-REALITY"
   -
     number: "4"
     title: "決意 (feat. 花譜, 理芽, 春猿火, ヰ世界情緒 & 幸祜)"
     duration: "03:48"
-    songId: "vwp/projects/track-1858195991"
+    songId: "vwp/projects/決意-determination-都市II-from-神椿市建設中-VIRTUAL-REALITY"
   -
     number: "5"
     title: "反逆 (feat. 花譜, 理芽, 春猿火, ヰ世界情緒 & 幸祜)"
     duration: "04:49"
-    songId: "vwp/projects/track-1858195992"
+    songId: "vwp/projects/反逆-rebellion-都市II-from-神椿市建設中-VIRTUAL-REALITY"
 ---
 
 ## 作品简介
@@ -63,5 +63,5 @@ tracks:
 ## 来源
 
 - [官方作品目录](https://kamitsubaki.jp/disco_category/v-w-p/)
-- [Apple Music Japan](https://music.apple.com/jp/album/%E9%83%BD%E5%B8%82ii-from-%E7%A5%9E%E6%A4%BF%E5%B8%82%E5%BB%BA%E8%A8%AD%E4%B8%AD-virtual-reality-feat-%E8%8A%B1%E8%AD%9C-%E7%90%86%E8%8A%BD-%E6%98%A5%E7%8C%BF%E7%81%AB-%E3%83%B0%E4%B8%96%E7%95%8C%E6%83%85%E7%B7%92-%E5%B9%B8%E7%A5%9C-ep/1858195987?uo=4)
+- [Apple Music](https://music.apple.com/jp/album/%E9%83%BD%E5%B8%82ii-from-%E7%A5%9E%E6%A4%BF%E5%B8%82%E5%BB%BA%E8%A8%AD%E4%B8%AD-virtual-reality-feat-%E8%8A%B1%E8%AD%9C-%E7%90%86%E8%8A%BD-%E6%98%A5%E7%8C%BF%E7%81%AB-%E3%83%B0%E4%B8%96%E7%95%8C%E6%83%85%E7%B7%92-%E5%B9%B8%E7%A5%9C-ep/1858195987?uo=4)
 - [VGMdb V.W.P](https://vgmdb.net/artist/47724)

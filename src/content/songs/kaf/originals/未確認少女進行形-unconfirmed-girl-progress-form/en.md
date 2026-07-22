@@ -1,0 +1,401 @@
+---
+locale: en
+translationKey: kaf_originals_track_1688351152
+title: "未確認少女進行形"
+artist: "花譜"
+artistId: kaf
+composer: "カンザキイオリ"
+lyricist: "カンザキイオリ"
+album: "観測"
+duration: "03:51"
+releaseDate: "2019-09-11"
+categoryTitle: "Original Songs"
+categorySubtitle: ORIGINALS
+categoryOrder: 10
+itemOrder: 13
+code: "apple-1688351152"
+image: /images/albums/kaf/kansoku.jpg
+---
+
+## Overview
+
+“未確認少女進行形” is track 8 of KAF’s 観測.
+
+## Listen
+
+{{media-switcher::未確認少女進行形}}
+@[apple-music](https://music.apple.com/jp/album/%E6%9C%AA%E7%A2%BA%E8%AA%8D%E5%B0%91%E5%A5%B3%E9%80%B2%E8%A1%8C%E5%BD%A2/1688351143?i=1688351152&uo=4 "未確認少女進行形")
+@[netease](1399847992 "未確認少女進行形")
+{{/media-switcher}}
+
+## Lyrics
+
+{{lyrics-controls::en}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>てる<rt class="roma">teru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
+</div>
+<div class="trans-lyric">If you can see me</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:15.50]<ruby>もう<rt class="roma">mou</rt></ruby><ruby>どこ<rt class="roma">doko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>散<rt class="furi">ち</rt><rt class="roma">chi</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>マジョリティ<rt class="roma">majoritei</rt></ruby>
+</div>
+<div class="trans-lyric">A majority that can no longer scatter anywhere</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>本物<rt class="furi">ほんもの</rt><rt class="roma">honmono</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>怖<rt class="furi">こわ</rt><rt class="roma">kowa</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
+</div>
+<div class="trans-lyric">If you're afraid to know the real thing</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:25.49]<ruby>もう<rt class="roma">mou</rt></ruby><ruby>どこ<rt class="roma">doko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
+</div>
+<div class="trans-lyric">Don't go anywhere anymore</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:31.49]<ruby>まって<rt class="roma">matte</rt></ruby> <ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ここ<rt class="roma">koko</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
+</div>
+<div class="trans-lyric">Wait, I am here</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ここ<rt class="roma">koko</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
+</div>
+<div class="trans-lyric">My hand is here</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>サイレント<rt class="roma">sairento</rt></ruby><ruby>気味<rt class="furi">ぎみ</rt><rt class="roma">gimi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>音符<rt class="furi">おんぷ</rt><rt class="roma">onpu</rt></ruby>
+</div>
+<div class="trans-lyric">A somewhat silent note</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>スピーカー<rt class="roma">supiikaa</rt></ruby><ruby>越<rt class="furi">ご</rt><rt class="roma">go</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>愛<rt class="furi">あい</rt><rt class="roma">ai</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
+</div>
+<div class="trans-lyric">Love to you through the speaker</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>声<rt class="furi">こえ</rt><rt class="roma">koe</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
+</div>
+<div class="trans-lyric">Give me your voice</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:47.09]<ruby>ハローハローハローハロー<rt class="roma">harouharouharouharou</rt></ruby>
+</div>
+<div class="trans-lyric">Hello hello hello hello</div>
+<div class="trans-lyric">Hello hello hello hello</div>
+<div class="trans-lyric">Hello hello hello hello</div>
+<div class="trans-lyric">Hello hello hello hello</div>
+<div class="trans-lyric">Hello hello hello hello</div>
+<div class="trans-lyric">Hello hello hello hello</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>宇宙<rt class="furi">うちゅう</rt><rt class="roma">uchuu</rt></ruby><ruby>人<rt class="furi">じん</rt><rt class="roma">jin</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
+</div>
+<div class="trans-lyric">I'm an alien, you know</div>
+<div class="trans-lyric">I'm an alien, you know</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:53.09]<ruby>はじめて<rt class="roma">hajimete</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby>
+</div>
+<div class="trans-lyric">It's my first time saying it</div>
+<div class="trans-lyric">It's my first time saying it</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:56.09]<ruby>はじめて<rt class="roma">hajimete</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>っちゃう<rt class="roma">tchau</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby>
+</div>
+<div class="trans-lyric">I'm saying it for the first time, but</div>
+<div class="trans-lyric">I'm saying it for the first time, but</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>ハローハローハローハロー<rt class="roma">harouharouharouharou</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>実<rt class="furi">じつ</rt><rt class="roma">jitsu</rt></ruby><ruby>は<rt class="roma">ha</rt></ruby><ruby>深海魚<rt class="furi">しんかいぎょ</rt><rt class="roma">shinkaigyo</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
+</div>
+<div class="trans-lyric">Actually, I'm a deep-sea fish</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>子供<rt class="furi">こども</rt><rt class="roma">kodomo</rt></ruby><ruby>みたい<rt class="roma">mitai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>話<rt class="furi">はなし</rt><rt class="roma">hanashi</rt></ruby><ruby>みたい<rt class="roma">mitai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
+</div>
+<div class="trans-lyric">Like a childish story</div>
+<div class="trans-lyric">Like a childish story</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:06.09]<ruby>それでも<rt class="roma">soredemo</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>ここ<rt class="roma">koko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
+</div>
+<div class="trans-lyric">If that's okay, stay here</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>嫌<rt class="furi">きら</rt><rt class="roma">kira</rt></ruby><ruby>わ<rt class="roma">wa</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
+</div>
+<div class="trans-lyric">It's fine if someone hates me</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:14.49]<ruby>それでも<rt class="roma">soredemo</rt></ruby><ruby>消<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>マジョリティ<rt class="roma">majoritei</rt></ruby>
+</div>
+<div class="trans-lyric">Yet the majority that won't disappear</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>涙<rt class="furi">なみだ</rt><rt class="roma">namida</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>青色<rt class="furi">あおいろ</rt><rt class="roma">aoiro</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>変<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>わって<rt class="roma">watte</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby>
+</div>
+<div class="trans-lyric">Even if tears turn blue</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>気<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>づい<rt class="roma">zui</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
+</div>
+<div class="trans-lyric">Notice me</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>楽園<rt class="furi">らくえん</rt><rt class="roma">rakuen</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>心臓<rt class="furi">しんぞう</rt><rt class="roma">shinzou</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
+</div>
+<div class="trans-lyric">Paradise is in your heart</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>王子<rt class="furi">おうじ</rt><rt class="roma">ouji</rt></ruby><ruby>様<rt class="furi">さま</rt><rt class="roma">sama</rt></ruby>
+</div>
+<div class="trans-lyric">I am your prince</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>泣<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>くらい<rt class="roma">kurai</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>こんな<rt class="roma">konna</rt></ruby><ruby>街<rt class="furi">まち</rt><rt class="roma">machi</rt></ruby>
+</div>
+<div class="trans-lyric">If it makes you cry, this town</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>三<rt class="furi">さん</rt><rt class="roma">san</rt></ruby><ruby>秒<rt class="furi">びょう</rt><rt class="roma">byou</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>ぶっ<rt class="roma">bu</rt></ruby><ruby>潰<rt class="furi">つぶ</rt><rt class="roma">tsubu</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>あげる<rt class="roma">ageru</rt></ruby>
+</div>
+<div class="trans-lyric">I'll smash it to pieces in three seconds</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>泣<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
+</div>
+<div class="trans-lyric">Don't cry</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>ハローハローハローハロー<rt class="roma">harouharouharouharou</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>三<rt class="furi">さん</rt><rt class="roma">san</rt></ruby><ruby>葉虫<rt class="furi">はむし</rt><rt class="roma">hamushi</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
+</div>
+<div class="trans-lyric">I'm a trilobite, you know</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>はじめて<rt class="roma">hajimete</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>はじめて<rt class="roma">hajimete</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>っちゃう<rt class="roma">tchau</rt></ruby><ruby>けど<rt class="roma">kedo</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>ハローハローハローハロー<rt class="roma">harouharouharouharou</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>実<rt class="furi">じつ</rt><rt class="roma">jitsu</rt></ruby><ruby>は<rt class="roma">ha</rt></ruby><ruby>魔法瓶<rt class="furi">まほうびん</rt><rt class="roma">mahoubin</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
+</div>
+<div class="trans-lyric">Actually, I'm a thermos</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>子供<rt class="furi">こども</rt><rt class="roma">kodomo</rt></ruby><ruby>みたい<rt class="roma">mitai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>話<rt class="furi">はなし</rt><rt class="roma">hanashi</rt></ruby><ruby>みたい<rt class="roma">mitai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby><ruby>ここ<rt class="roma">koko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby>
+</div>
+<div class="trans-lyric">If words are enough, stay here</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>廻<rt class="furi">まわ</rt><rt class="roma">mawa</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>廻<rt class="furi">まわ</rt><rt class="roma">mawa</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby>
+</div>
+<div class="trans-lyric">Round and round</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>どこ<rt class="roma">doko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>も<rt class="roma">mo</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>思<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>さ<rt class="roma">sa</rt></ruby>
+</div>
+<div class="trans-lyric">I thought I couldn't go anywhere</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>そこ<rt class="roma">soko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>君<rt class="furi">きみ</rt><rt class="roma">kimi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
+</div>
+<div class="trans-lyric">And there you are</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:33.09]<ruby>デスティニー<rt class="roma">desuteinii</rt></ruby>？
+</div>
+<div class="trans-lyric">Destiny?</div>
+<div class="trans-lyric">Destiny?</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>デスティニー<rt class="roma">desuteinii</rt></ruby>？
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>ハローハローハローハロー<rt class="roma">harouharouharouharou</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>宇宙<rt class="furi">うちゅう</rt><rt class="roma">uchuu</rt></ruby><ruby>人<rt class="furi">じん</rt><rt class="roma">jin</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>魔法瓶<rt class="furi">まほうびん</rt><rt class="roma">mahoubin</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
+</div>
+<div class="trans-lyric">I'm a thermos, you know</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>それでも<rt class="roma">soredemo</rt></ruby><ruby>全部<rt class="furi">ぜんぶ</rt><rt class="roma">zenbu</rt></ruby><ruby>笑<rt class="furi">わら</rt><rt class="roma">wara</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
+</div>
+<div class="trans-lyric">Even so, laugh at everything</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>ハローハローハローハロー<rt class="roma">harouharouharouharou</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>子供<rt class="furi">こども</rt><rt class="roma">kodomo</rt></ruby><ruby>みたい<rt class="roma">mitai</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>思<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
+</div>
+<div class="trans-lyric">Think of me as childish</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>嘘<rt class="furi">うそ</rt><rt class="roma">uso</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>ずっと<rt class="roma">zutto</rt></ruby><ruby>思<rt class="furi">おも</rt><rt class="roma">omo</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
+</div>
+<div class="trans-lyric">Keep thinking it's a lie</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>だけど<rt class="roma">dakedo</rt></ruby><ruby>宇宙<rt class="furi">うちゅう</rt><rt class="roma">uchuu</rt></ruby><ruby>人<rt class="furi">じん</rt><rt class="roma">jin</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
+</div>
+<div class="trans-lyric">But I'm an alien, you know</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:53.09]<ruby>ハローハローハローハローハロー<rt class="roma">harouharouharouharouharou</rt></ruby>
+</div>
+<div class="trans-lyric">Hello hello hello hello hello</div>
+<div class="trans-lyric">Hello hello hello hello hello</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+<ruby>ハローハローハローハローハロー<rt class="roma">harouharouharouharouharou</rt></ruby>
+</div>
+</div>
+
+</div>
+
+## Sources
+
+- [KAF Official Website](https://kaf.kamitsubaki.jp/discography/20190911/107/)
+- [Apple Music](https://music.apple.com/jp/album/%E6%9C%AA%E7%A2%BA%E8%AA%8D%E5%B0%91%E5%A5%B3%E9%80%B2%E8%A1%8C%E5%BD%A2/1688351143?i=1688351152&uo=4)

@@ -1,0 +1,346 @@
+---
+locale: ja
+translationKey: koko_song_track_1678056896
+title: "Abstractions Void"
+artist: "幸祜"
+artistId: koko
+artistIds:
+  - "koko"
+album: "Abstractions Void"
+duration: "04:55"
+releaseDate: "2023-03-29"
+categoryTitle: "オリジナル曲"
+categorySubtitle: ORIGINALS
+categoryOrder: 10
+itemOrder: 258
+code: "apple-1678056896"
+image: /images/songs/koko/single-1678056895.jpg
+---
+
+## 作品概要
+
+「Abstractions Void」は『Abstractions Void』または関連する正式リリースに収録です。このページは録音バージョン単位で作成し、ライブ、リミックス、リアレンジ版を原曲と区別しています。
+
+## 試聴
+
+@[apple-music](https://music.apple.com/jp/album/abstractions-void/1678056895?i=1678056896&uo=4 "Abstractions Void")
+
+## 歌詞
+
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:15.52]Now, something awakened within me begins to breathe
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:23.37]We couldn’t do anything.
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:26.49]Oh no, was it a mistake?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:31.05]I couldn’t keep it down
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:33.25]Impulse was beyond imagination
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:38.86]Particles flood from the wings as they fly away, clad in lights
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:46.79]Why am I here?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:48.93]Why did I keep quiet?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:50.91]What is my point?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:52.87]Where is my word?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:54.80]Why am I here?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:56.73]Why did I keep quiet?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:58.69]What is my point?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:00.57]Where is my word?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:10.04]This is what it is abstractions void
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:13.56]Blankness is what I am.
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:15.30]There is no actual situation.
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:18.23]Not even the definition can catch me
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:21.25]Regression is the engraving
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:23.31]There is all reason being negated by the inevitable phenomenon
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:43.37]Now, I give away again
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:54.86]Now something gets awakened, and it’s all about to be proven
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:02.89]We need to think about what we can do to make it worthwhile
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:10.68]Why am I here?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:12.76]Why did I keep quiet?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:14.84]What is my point?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:16.72]Where is my word?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:18.72]Why am I here?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:20.61]Why did I keep quiet?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:22.62]What is my point?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:24.49]Where is my word?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:33.87]This is what it is abstractions void
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:37.42]Blankness is what I am.
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:39.31]There is no actual situation.
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:42.08]Not even the definition can catch me
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:45.15]Regression is the engraving
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:46.99]There is all reason being negated by the inevitable phenomenon
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:05.31]<ruby>遠吠<rt class="furi">とおぼ</rt><rt class="roma">toobo</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>覚<rt class="furi">おぼ</rt><rt class="roma">obo</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby> <ruby>名前<rt class="furi">なまえ</rt><rt class="roma">namae</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>呼<rt class="furi">よ</rt><rt class="roma">yo</rt></ruby><ruby>び<rt class="roma">bi</rt></ruby><ruby>方<rt class="furi">かた</rt><rt class="roma">kata</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:11.28]<ruby>喉<rt class="furi">のど</rt><rt class="roma">nodo</rt></ruby><ruby>焦<rt class="furi">こ</rt><rt class="roma">ko</rt></ruby><ruby>がす<rt class="roma">gasu</rt></ruby> <ruby>奇<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>衒(<ruby>てら<rt class="roma">tera</rt></ruby>)<ruby>う<rt class="roma">u</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:13.30]<ruby>見当<rt class="furi">けんとう</rt><rt class="roma">kentou</rt></ruby><ruby>違<rt class="furi">ちが</rt><rt class="roma">chiga</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>や<rt class="roma">ya</rt></ruby><ruby>思い違<rt class="furi">おもいちが</rt><rt class="roma">omoichiga</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>所為<rt class="furi">しょい</rt><rt class="roma">shoi</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:16.32]<ruby>決壊<rt class="furi">けっかい</rt><rt class="roma">kekkai</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>紲<rt class="furi">きずな</rt><rt class="roma">kizuna</rt></ruby>(<ruby>きずな<rt class="roma">kizuna</rt></ruby>)<ruby>を<rt class="roma">wo</rt></ruby><ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:16.32]<ruby>再<rt class="furi">ふたた</rt><rt class="roma">futata</rt></ruby><ruby>び<rt class="roma">bi</rt></ruby><ruby>呼び戻<rt class="furi">よびもど</rt><rt class="roma">yobimodo</rt></ruby><ruby>す<rt class="roma">su</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:25.38]It’s those words that fill the heart
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:27.19]I remember the glimmer you showed to me
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:28.94]Only when it is poured out will this void be filled
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:32.61]This is what it is abstractions void
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:35.93]Blankness is what I am.
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:37.87]There is no actual situation.
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:40.63]Not even the definition can catch me
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:43.67]Regression is the engraving
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[03:45.69]There is all reason being negated by the inevitable phenomenon
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[04:05.88]Now, I give away again
+</div>
+</div>
+
+</div>

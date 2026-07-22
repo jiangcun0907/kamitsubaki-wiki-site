@@ -1,0 +1,200 @@
+---
+locale: zh
+translationKey: harusaruhi_song_track_1833427297
+title: "ターミナル (Cover Live)"
+artist: "春猿火"
+artistId: harusaruhi
+artistIds:
+  - "harusaruhi"
+album: "CREAM PUFF LIVE 4 (Cover Live)"
+duration: "04:35"
+releaseDate: "2025-09-24"
+categoryTitle: "翻唱曲"
+categorySubtitle: COVERS
+categoryOrder: 20
+itemOrder: 550
+code: "apple-1833427297"
+image: /images/albums/harusaruhi/cream-puff-live-4.jpg
+---
+
+## 作品简介
+
+《ターミナル (Cover Live)》收录于《CREAM PUFF LIVE 4 (Cover Live)》或其相关正式发行。本词条按具体录音版本建立；现场、重混与重新编曲版不会与原版混为一项。
+
+## 试听
+
+@[apple-music](https://music.apple.com/jp/album/%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB-cover-live/1833427142?i=1833427297&uo=4 "ターミナル (Cover Live)")
+
+## 歌词
+
+{{lyrics-controls::zh}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+kidzuita nowa nakushita sono ato de
+</div>
+<div class="cn-lyric">察觉之时已在失去之后</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+furikaereba kaze ga naita
+</div>
+<div class="cn-lyric">回首四顾风在哭泣</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+kienai koe ga itsumademo mune ni
+</div>
+<div class="cn-lyric">永不消逝的声音 永远在心中</div>
+<div class="cn-lyric">永不消逝的声音 永远在心中</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+fureta matataiteiru
+</div>
+<div class="cn-lyric">触碰并闪烁</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+kousa shiteku koto no nai sen demo
+</div>
+<div class="cn-lyric">即使是没有交集的航线</div>
+<div class="cn-lyric">即使是没有交集的航线</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+itsuka, dokoka, tadoritsuku darou ka
+</div>
+<div class="cn-lyric">总有一天 会抵达某处吧</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+kibou wa itsushika
+</div>
+<div class="cn-lyric">希望不知何时</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+risou to genjitsu toriatte
+</div>
+<div class="cn-lyric">理想与现实交织</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+dochira nimo somarenai boku wa
+</div>
+<div class="cn-lyric">无法染上任何一色的我</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+hibi ni nomareta
+</div>
+<div class="cn-lyric">被时光吞噬</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+tatoeba, ano toki kimi ga...
+</div>
+<div class="cn-lyric">比如 那时你曾...</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+kienai koe ga ima mo toikakeru boku o
+</div>
+<div class="cn-lyric">永不消逝的声音 至今仍在质问着我</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+tamesu you ni
+</div>
+<div class="cn-lyric">仿佛在试探</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+sono kanjou ikitsuku saki niwa kimi ga
+</div>
+<div class="cn-lyric">那份情感抵达的尽头 有你在</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+nozomu mono ga aru noka, to
+</div>
+<div class="cn-lyric">是否有你所期望之物呢</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+kaze ga naida
+</div>
+<div class="cn-lyric">风在哭泣</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+tooku ni uta g aru
+</div>
+<div class="cn-lyric">远处有歌声</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+kimi ga kureta manazashi tomo ni
+</div>
+<div class="cn-lyric">与你给予的目光一同</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+kienai koe ga itsumademo mune ni
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+furete matataiteiru
+</div>
+<div class="cn-lyric">触碰而闪烁</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+kousa shiteku koto no nai sen demo
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+itsuka, dokoka, tadoritsuku darou
+</div>
+<div class="cn-lyric">总有一天 会抵达某处吧</div>
+</div>
+
+</div>

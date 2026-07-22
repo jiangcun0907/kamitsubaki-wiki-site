@@ -1,0 +1,517 @@
+---
+locale: en
+translationKey: kaf_suites_track_1694251446
+title: "しゅげーハイ!!!"
+artist: "花譜 & Kenmochi Hidefumi"
+artistId: kaf
+album: "組曲"
+duration: "03:25"
+releaseDate: "2023-07-05"
+categoryTitle: "Suite Songs"
+categorySubtitle: SUITES
+categoryOrder: 40
+itemOrder: 125
+code: "apple-1694251446"
+image: /images/songs/kaf/track-1694251446.jpg
+---
+
+## Overview
+
+“しゅげーハイ!!!” is track 13 of KAF’s 組曲.
+
+## Listen
+
+{{media-switcher::しゅげーハイ!!!}}
+@[youtube](zXGDQw3vGbU "しゅげーハイ!!!")
+@[apple-music](https://music.apple.com/jp/album/%E3%81%97%E3%82%85%E3%81%92%E3%83%BC%E3%83%8F%E3%82%A4/1694251441?i=1694251446&uo=4 "しゅげーハイ!!!")
+@[netease](2059773297 "しゅげーハイ!!!")
+{{/media-switcher}}
+
+## Lyrics
+
+{{lyrics-controls::en}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:02.82]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>箱庭<rt class="furi">はこにわ</rt><rt class="roma">hakoniwa</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>紡<rt class="furi">つむ</rt><rt class="roma">tsumu</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>組<rt class="furi">く</rt><rt class="roma">ku</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
+</div>
+<div class="trans-lyric">[00:02.82]Spun and assembled in my own miniature garden,</div>
+<div class="trans-lyric">Spun and assembled in my own miniature garden,</div>
+<div class="trans-lyric">Spun and assembled in my own miniature garden,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:07.07]<ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>人<rt class="furi">にん</rt><rt class="roma">nin</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>時間<rt class="furi">じかん</rt><rt class="roma">jikan</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>増<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby>
+</div>
+<div class="trans-lyric">[00:07.07]The time I spend alone keeps increasing.</div>
+<div class="trans-lyric">The time I spend alone keeps increasing.</div>
+<div class="trans-lyric">The time I spend alone keeps increasing.</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:10.15]<ruby>無限<rt class="furi">むげん</rt><rt class="roma">mugen</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>広<rt class="furi">ひろ</rt><rt class="roma">hiro</rt></ruby><ruby>がって<rt class="roma">gatte</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby><ruby>宇宙<rt class="furi">うちゅう</rt><rt class="roma">uchuu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
+</div>
+<div class="trans-lyric">[00:10.15]The universe expanding infinitely,</div>
+<div class="trans-lyric">The universe expanding infinitely,</div>
+<div class="trans-lyric">The universe expanding infinitely,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:13.42]<ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>のひら<rt class="roma">nohira</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>生<rt class="furi">う</rt><rt class="roma">u</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
+</div>
+<div class="trans-lyric">[00:13.42]I birth it in the palm of my hand.</div>
+<div class="trans-lyric">I birth it in the palm of my hand.</div>
+<div class="trans-lyric">I birth it in the palm of my hand.</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:17.47]<ruby>切<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>ったり<rt class="roma">ttari</rt></ruby><ruby>張<rt class="furi">は</rt><rt class="roma">ha</rt></ruby><ruby>ったり<rt class="roma">ttari</rt></ruby>
+</div>
+<div class="trans-lyric">Cutting and pasting,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:18.47]<ruby>縫<rt class="furi">ぬ</rt><rt class="roma">nu</rt></ruby><ruby>ったり<rt class="roma">ttari</rt></ruby><ruby>編<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だり<rt class="roma">dari</rt></ruby>
+</div>
+<div class="trans-lyric">Sewing and knitting,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:19.28]<ruby>返<rt class="furi">かえ</rt><rt class="roma">kae</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>ったり<rt class="roma">ttari</rt></ruby><ruby>来<rt class="furi">き</rt><rt class="roma">ki</rt></ruby><ruby>たり<rt class="roma">tari</rt></ruby>
+</div>
+<div class="trans-lyric">[00:19.28]Turning back and forth,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:20.52]<ruby>行方<rt class="furi">ゆくえ</rt><rt class="roma">yukue</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>れ<rt class="roma">re</rt></ruby><ruby>ず<rt class="roma">zu</rt></ruby><ruby>あて<rt class="roma">ate</rt></ruby><ruby>なき<rt class="roma">naki</rt></ruby><ruby>旅路<rt class="furi">たびじ</rt><rt class="roma">tabiji</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
+</div>
+<div class="trans-lyric">[00:20.52]On a journey without direction or destination,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:22.23]<ruby>剣<rt class="furi">けん</rt><rt class="roma">ken</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>魔法<rt class="furi">まほう</rt><rt class="roma">mahou</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>手芸<rt class="furi">しゅげい</rt><rt class="roma">shugei</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ストーリー<rt class="roma">sutourii</rt></ruby>
+</div>
+<div class="trans-lyric">[00:22.23]A story of sword and magic handicraft.</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:23.77]<ruby>織り上<rt class="furi">おりあ</rt><rt class="roma">oria</rt></ruby><ruby>げる<rt class="roma">geru</rt></ruby><ruby>ぜ<rt class="roma">ze</rt></ruby><ruby>宇宙<rt class="furi">うちゅう</rt><rt class="roma">uchuu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>端<rt class="furi">はじ</rt><rt class="roma">haji</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby>
+</div>
+<div class="trans-lyric">[00:23.77]I weave it to the edge of the universe,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:25.64]<ruby>続<rt class="furi">つづ</rt><rt class="roma">tsuzu</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>タペストリー<rt class="roma">tapesutorii</rt></ruby>
+</div>
+<div class="trans-lyric">[00:25.64]An ever-continuing tapestry.</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:26.62]<ruby>指先<rt class="furi">ゆびさき</rt><rt class="roma">yubisaki</rt></ruby><ruby>任<rt class="furi">まか</rt><rt class="roma">maka</rt></ruby><ruby>せ<rt class="roma">se</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ひらめき<rt class="roma">hirameki</rt></ruby><ruby>なら<rt class="roma">nara</rt></ruby>
+</div>
+<div class="trans-lyric">[00:26.62]If it's a sparkle left to my fingertips,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:28.21]<ruby>結局<rt class="furi">けっきょく</rt><rt class="roma">kekkyoku</rt></ruby><ruby>大体<rt class="furi">だいたい</rt><rt class="roma">daitai</rt></ruby><ruby>天<rt class="furi">てん</rt><rt class="roma">ten</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>神様<rt class="furi">かみさま</rt><rt class="roma">kamisama</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>言<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>う<rt class="roma">u</rt></ruby><ruby>通<rt class="furi">とお</rt><rt class="roma">too</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby>
+</div>
+<div class="trans-lyric">[00:28.21]In the end, it's mostly as the heavenly gods declare.</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:30.49]騷<ruby>々<rt class="furi">々</rt><rt class="roma">々</rt></ruby><ruby>しい<rt class="roma">shii</rt></ruby><ruby>創造<rt class="furi">そうぞう</rt><rt class="roma">souzou</rt></ruby><ruby>物<rt class="furi">ぶつ</rt><rt class="roma">butsu</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby>
+</div>
+<div class="trans-lyric">[00:30.49]From the noisy creations,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:32.30]<ruby>相当<rt class="furi">そうとう</rt><rt class="roma">soutou</rt></ruby><ruby>距離<rt class="furi">きょり</rt><rt class="roma">kyori</rt></ruby><ruby>とり<rt class="roma">tori</rt></ruby> <ruby>自分<rt class="furi">じぶん</rt><rt class="roma">jibun</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>振り返<rt class="furi">ふりかえ</rt><rt class="roma">furikae</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby>
+</div>
+<div class="trans-lyric">[00:32.30]I keep a good distance, reflecting on myself,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:33.98]<ruby>また<rt class="roma">mata</rt></ruby><ruby>こうして<rt class="roma">koushite</rt></ruby><ruby>編<rt class="furi">あ</rt><rt class="roma">a</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby>
+</div>
+<div class="trans-lyric">And again I knit like this.</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:35.41]<ruby>寓話<rt class="furi">ぐうわ</rt><rt class="roma">guuwa</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>真理<rt class="furi">しんり</rt><rt class="roma">shinri</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>深層<rt class="furi">しんそう</rt><rt class="roma">shinsou</rt></ruby><ruby>心理<rt class="furi">しんり</rt><rt class="roma">shinri</rt></ruby>
+</div>
+<div class="trans-lyric">[00:35.41]The truth of fables and my deep psyche,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:37.20]<ruby>ないものねだり<rt class="roma">naimononedari</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby><ruby>より<rt class="roma">yori</rt></ruby>
+</div>
+<div class="trans-lyric">Rather than yearning for what I don't have,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:39.10]<ruby>ざっくり<rt class="roma">zakkuri</rt></ruby><ruby>知<rt class="furi">し</rt><rt class="roma">shi</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>宇宙<rt class="furi">うちゅう</rt><rt class="roma">uchuu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>カラクリ<rt class="roma">karakuri</rt></ruby>
+</div>
+<div class="trans-lyric">[00:39.10]I want to roughly understand the universe's mechanisms.</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:40.72]<ruby>こう<rt class="roma">kou</rt></ruby><ruby>なりゃ<rt class="roma">narya</rt></ruby><ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>ぜ<rt class="roma">ze</rt></ruby>
+</div>
+<div class="trans-lyric">[00:40.72]If it's come to this, I want to deliver it—</div>
+<div class="trans-lyric">If it's come to this, I want to deliver it—</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:42.10]<ruby>この<rt class="roma">kono</rt></ruby><ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ぬくもり<rt class="roma">nukumori</rt></ruby><ruby>超新星<rt class="furi">ちょうしんせい</rt><rt class="roma">choushinsei</rt></ruby>
+</div>
+<div class="trans-lyric">[00:42.10]This warmth in my hand, a supernova.</div>
+<div class="trans-lyric">This warmth in my hand, a supernova.</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:43.55]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>箱庭<rt class="furi">はこにわ</rt><rt class="roma">hakoniwa</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>紡<rt class="furi">つむ</rt><rt class="roma">tsumu</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>組<rt class="furi">く</rt><rt class="roma">ku</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:47.25]<ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>人<rt class="furi">にん</rt><rt class="roma">nin</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>時間<rt class="furi">じかん</rt><rt class="roma">jikan</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>増<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:50.48]<ruby>無限<rt class="furi">むげん</rt><rt class="roma">mugen</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>広<rt class="furi">ひろ</rt><rt class="roma">hiro</rt></ruby><ruby>がって<rt class="roma">gatte</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby><ruby>宇宙<rt class="furi">うちゅう</rt><rt class="roma">uchuu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:53.76]<ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>のひら<rt class="roma">nohira</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>生<rt class="furi">う</rt><rt class="roma">u</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:57.31]<ruby>書<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>ラブレター<rt class="roma">raburetaa</rt></ruby> <ruby>フロム<rt class="roma">furomu</rt></ruby><ruby>真夜中<rt class="furi">まよなか</rt><rt class="roma">mayonaka</rt></ruby>
+</div>
+<div class="trans-lyric">[00:57.31]A love letter written from midnight,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:00.74]<ruby>頭<rt class="furi">あたま</rt><rt class="roma">atama</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>冷<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>やせ<rt class="roma">yase</rt></ruby><ruby>熱帯夜<rt class="furi">ねったいや</rt><rt class="roma">nettaiya</rt></ruby>
+</div>
+<div class="trans-lyric">[01:00.74]Cool your head in the tropical night.</div>
+<div class="trans-lyric">Cool your head in the tropical night.</div>
+<div class="trans-lyric">Cool your head in the tropical night.</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:04.07]<ruby>指先<rt class="furi">ゆびさき</rt><rt class="roma">yubisaki</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>産<rt class="furi">う</rt><rt class="roma">u</rt></ruby><ruby>まれる<rt class="roma">mareru</rt></ruby><ruby>夜空<rt class="furi">よぞら</rt><rt class="roma">yozora</rt></ruby>
+</div>
+<div class="trans-lyric">[01:04.07]The night sky born from my fingertips,</div>
+<div class="trans-lyric">The night sky born from my fingertips,</div>
+<div class="trans-lyric">The night sky born from my fingertips,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:07.55]<ruby>絡<rt class="furi">から</rt><rt class="roma">kara</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>糸<rt class="furi">いと</rt><rt class="roma">ito</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ほどけ<rt class="roma">hodoke</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>や<rt class="roma">ya</rt></ruby>
+</div>
+<div class="trans-lyric">[01:07.55]The tangled threads won't come undone.</div>
+<div class="trans-lyric">The tangled threads won't come undone.</div>
+<div class="trans-lyric">The tangled threads won't come undone.</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:10.78]<ruby>手芸<rt class="furi">しゅげい</rt><rt class="roma">shugei</rt></ruby><ruby>ハイ<rt class="roma">hai</rt></ruby> <ruby>すげ<rt class="roma">suge</rt></ruby><ruby>ぇ<rt class="roma">e</rt></ruby><ruby>ハイ<rt class="roma">hai</rt></ruby>
+</div>
+<div class="trans-lyric">[01:10.78]Handicraft high, so high,</div>
+<div class="trans-lyric">Handicraft high, so high,</div>
+<div class="trans-lyric">Handicraft high, so high,</div>
+<div class="trans-lyric">Handicraft high, so high,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:13.60]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby> <ruby>手芸<rt class="furi">しゅげい</rt><rt class="roma">shugei</rt></ruby><ruby>ハイ<rt class="roma">hai</rt></ruby> <ruby>絶対<rt class="furi">ぜったい</rt><rt class="roma">zettai</rt></ruby><ruby>そう<rt class="roma">sou</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
+</div>
+<div class="trans-lyric">[01:13.60]I'm handicraft high, absolutely so.</div>
+<div class="trans-lyric">I'm handicraft high, absolutely so.</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:17.25]<ruby>手芸<rt class="furi">しゅげい</rt><rt class="roma">shugei</rt></ruby><ruby>ハイ<rt class="roma">hai</rt></ruby> <ruby>すげ<rt class="roma">suge</rt></ruby><ruby>ぇ<rt class="roma">e</rt></ruby><ruby>ハイ<rt class="roma">hai</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:20.23]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby> <ruby>手芸<rt class="furi">しゅげい</rt><rt class="roma">shugei</rt></ruby><ruby>ハイ<rt class="roma">hai</rt></ruby> <ruby>絶対<rt class="furi">ぜったい</rt><rt class="roma">zettai</rt></ruby><ruby>そう<rt class="roma">sou</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
+</div>
+<div class="trans-lyric">[01:20.23]I'm handicraft high, absolutely so, right?</div>
+<div class="trans-lyric">I'm handicraft high, absolutely so, right?</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:37.64]<ruby>縫い目<rt class="furi">ぬいめ</rt><rt class="roma">nuime</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>縫い目<rt class="furi">ぬいめ</rt><rt class="roma">nuime</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>間<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
+</div>
+<div class="trans-lyric">[01:37.64]Between the stitches,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:39.50]<ruby>存在<rt class="furi">そんざい</rt><rt class="roma">sonzai</rt></ruby><ruby>する<rt class="roma">suru</rt></ruby><ruby>手芸<rt class="furi">しゅげい</rt><rt class="roma">shugei</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>小<rt class="furi">しょう</rt><rt class="roma">shou</rt></ruby><ruby>王国<rt class="furi">おうこく</rt><rt class="roma">oukoku</rt></ruby>
+</div>
+<div class="trans-lyric">[01:39.50]Exists a small kingdom of handicraft.</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:41.27]<ruby>ニット<rt class="roma">nitto</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>森<rt class="furi">もり</rt><rt class="roma">mori</rt></ruby> <ruby>コットン<rt class="roma">kotton</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>泉<rt class="furi">いずみ</rt><rt class="roma">izumi</rt></ruby>
+</div>
+<div class="trans-lyric">[01:41.27]Forests of knit, springs of cotton,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:42.78]<ruby>手作<rt class="furi">てづく</rt><rt class="roma">tezuku</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>パッチワーク<rt class="roma">patchiwaaku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>兵隊<rt class="furi">へいたい</rt><rt class="roma">heitai</rt></ruby>
+</div>
+<div class="trans-lyric">[01:42.78]Handmade patchwork soldiers.</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:44.62]<ruby>キラキラ<rt class="roma">kirakira</rt></ruby><ruby>と<rt class="roma">to</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby> <ruby>スパンコール<rt class="roma">supankouru</rt></ruby><ruby>や<rt class="roma">ya</rt></ruby>
+</div>
+<div class="trans-lyric">[01:44.62]From glittering sequins</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:46.37]<ruby>漆黒<rt class="furi">しっこく</rt><rt class="roma">shikkoku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>闇<rt class="furi">やみ</rt><rt class="roma">yami</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ブラックホール<rt class="roma">burakkuhouru</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby>
+</div>
+<div class="trans-lyric">[01:46.37]To the black hole of pitch-black darkness,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:47.99]<ruby>かた<rt class="roma">kata</rt></ruby><ruby>結<rt class="furi">むす</rt><rt class="roma">musu</rt></ruby><ruby>び<rt class="roma">bi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>静寂<rt class="furi">せいじゃく</rt><rt class="roma">seijaku</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>中<rt class="furi">なか</rt><rt class="roma">naka</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
+</div>
+<div class="trans-lyric">[01:47.99]In the silence of a simple knot,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:49.52]<ruby>捗<rt class="furi">はかど</rt><rt class="roma">hakado</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>妄想<rt class="furi">もうそう</rt><rt class="roma">mousou</rt></ruby>
+</div>
+<div class="trans-lyric">[01:49.52]My fantasies thrive.</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:50.60]Check it so so
+</div>
+<div class="trans-lyric">Check it so so,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:51.21]<ruby>どう<rt class="roma">dou</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby>
+</div>
+<div class="trans-lyric">It doesn't matter,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:52.14]<ruby>こだわり<rt class="roma">kodawari</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>先<rt class="furi">さき</rt><rt class="roma">saki</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby>
+</div>
+<div class="trans-lyric">[01:52.14]Beyond the obsession</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:52.99]<ruby>たいてい<rt class="roma">taitei</rt></ruby><ruby>厄介<rt class="furi">やっかい</rt><rt class="roma">yakkai</rt></ruby><ruby>な<rt class="roma">na</rt></ruby><ruby>行き止<rt class="furi">ゆきど</rt><rt class="roma">yukido</rt></ruby><ruby>まり<rt class="roma">mari</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby>
+</div>
+<div class="trans-lyric">[01:52.99]Is usually a troublesome dead end.</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:54.68]<ruby>思い付<rt class="furi">おもいつ</rt><rt class="roma">omoitsu</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>まま<rt class="roma">mama</rt></ruby>
+</div>
+<div class="trans-lyric">[01:54.68]Going with whatever comes to mind,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:55.46]<ruby>出たとこ勝負<rt class="furi">でたとこしょうぶ</rt><rt class="roma">detatokoshoubu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>勢<rt class="furi">いきお</rt><rt class="roma">ikio</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>重視<rt class="furi">じゅうし</rt><rt class="roma">juushi</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby>
+</div>
+<div class="trans-lyric">[01:55.46]I'll go with the momentum of improvisation.</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:57.41]<ruby>前<rt class="furi">まえ</rt><rt class="roma">mae</rt></ruby><ruby>のめり<rt class="roma">nomeri</rt></ruby>
+</div>
+<div class="trans-lyric">[01:57.41]Leaning forward,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:57.97]<ruby>想定<rt class="furi">そうてい</rt><rt class="roma">soutei</rt></ruby><ruby>通<rt class="furi">どお</rt><rt class="roma">doo</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>行<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>より<rt class="roma">yori</rt></ruby>
+</div>
+<div class="trans-lyric">[01:57.97]Rather than going as planned,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[01:59.72]<ruby>のんびり<rt class="roma">nonbiri</rt></ruby><ruby>やり<rt class="roma">yari</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>お<rt class="roma">o</rt></ruby><ruby>気持<rt class="furi">きも</rt><rt class="roma">kimo</rt></ruby><ruby>ち<rt class="roma">chi</rt></ruby><ruby>察<rt class="furi">さっ</rt><rt class="roma">sa</rt></ruby><ruby>し<rt class="roma">shi</rt></ruby>
+</div>
+<div class="trans-lyric">[01:59.72]I sense the desire to take it easy.</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:01.36]<ruby>こう<rt class="roma">kou</rt></ruby><ruby>なりゃ<rt class="roma">narya</rt></ruby><ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>け<rt class="roma">ke</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>ぜ<rt class="roma">ze</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:02.69]<ruby>この<rt class="roma">kono</rt></ruby><ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ぬくもり<rt class="roma">nukumori</rt></ruby><ruby>超新星<rt class="furi">ちょうしんせい</rt><rt class="roma">choushinsei</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:04.11]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>だけ<rt class="roma">dake</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>箱庭<rt class="furi">はこにわ</rt><rt class="roma">hakoniwa</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>紡<rt class="furi">つむ</rt><rt class="roma">tsumu</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>組<rt class="furi">く</rt><rt class="roma">ku</rt></ruby><ruby>ん<rt class="roma">n</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:07.77]<ruby>一<rt class="furi">いち</rt><rt class="roma">ichi</rt></ruby><ruby>人<rt class="furi">にん</rt><rt class="roma">nin</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>時間<rt class="furi">じかん</rt><rt class="roma">jikan</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>増<rt class="furi">ふ</rt><rt class="roma">fu</rt></ruby><ruby>え<rt class="roma">e</rt></ruby><ruby>て<rt class="roma">te</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:10.99]<ruby>無限<rt class="furi">むげん</rt><rt class="roma">mugen</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>広<rt class="furi">ひろ</rt><rt class="roma">hiro</rt></ruby><ruby>がって<rt class="roma">gatte</rt></ruby><ruby>いく<rt class="roma">iku</rt></ruby><ruby>宇宙<rt class="furi">うちゅう</rt><rt class="roma">uchuu</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:14.35]<ruby>手<rt class="furi">て</rt><rt class="roma">te</rt></ruby><ruby>のひら<rt class="roma">nohira</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>生<rt class="furi">う</rt><rt class="roma">u</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:17.91]<ruby>書<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>ラブレターフロム<rt class="roma">raburetaafuromu</rt></ruby><ruby>真夜中<rt class="furi">まよなか</rt><rt class="roma">mayonaka</rt></ruby>
+</div>
+<div class="trans-lyric">[02:17.91]A love letter written from midnight,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:21.29]<ruby>頭<rt class="furi">あたま</rt><rt class="roma">atama</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>冷<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>やせ<rt class="roma">yase</rt></ruby><ruby>熱帯夜<rt class="furi">ねったいや</rt><rt class="roma">nettaiya</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:24.65]<ruby>指先<rt class="furi">ゆびさき</rt><rt class="roma">yubisaki</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>産<rt class="furi">う</rt><rt class="roma">u</rt></ruby><ruby>まれる<rt class="roma">mareru</rt></ruby><ruby>夜空<rt class="furi">よぞら</rt><rt class="roma">yozora</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:27.97]<ruby>絡<rt class="furi">から</rt><rt class="roma">kara</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>糸<rt class="furi">いと</rt><rt class="roma">ito</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ほどけ<rt class="roma">hodoke</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>や<rt class="roma">ya</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:31.32]<ruby>書<rt class="furi">か</rt><rt class="roma">ka</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>た<rt class="roma">ta</rt></ruby><ruby>ラプレターフロム<rt class="roma">rapuretaafuromu</rt></ruby><ruby>真夜中<rt class="furi">まよなか</rt><rt class="roma">mayonaka</rt></ruby>
+</div>
+<div class="trans-lyric">[02:31.32]A love letter written from midnight,</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:34.69]<ruby>頭<rt class="furi">あたま</rt><rt class="roma">atama</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>冷<rt class="furi">ひ</rt><rt class="roma">hi</rt></ruby><ruby>やせ<rt class="roma">yase</rt></ruby><ruby>熱帯夜<rt class="furi">ねったいや</rt><rt class="roma">nettaiya</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:37.95]<ruby>指先<rt class="furi">ゆびさき</rt><rt class="roma">yubisaki</rt></ruby><ruby>から<rt class="roma">kara</rt></ruby><ruby>産<rt class="furi">う</rt><rt class="roma">u</rt></ruby><ruby>まれる<rt class="roma">mareru</rt></ruby><ruby>夜空<rt class="furi">よぞら</rt><rt class="roma">yozora</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:41.44]<ruby>絡<rt class="furi">から</rt><rt class="roma">kara</rt></ruby><ruby>む<rt class="roma">mu</rt></ruby><ruby>糸<rt class="furi">いと</rt><rt class="roma">ito</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ほどけ<rt class="roma">hodoke</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>や<rt class="roma">ya</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:44.73]<ruby>手芸<rt class="furi">しゅげい</rt><rt class="roma">shugei</rt></ruby><ruby>ハイ<rt class="roma">hai</rt></ruby> <ruby>すげ<rt class="roma">suge</rt></ruby><ruby>ぇ<rt class="roma">e</rt></ruby><ruby>ハイ<rt class="roma">hai</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:47.47]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby> <ruby>手芸<rt class="furi">しゅげい</rt><rt class="roma">shugei</rt></ruby><ruby>ハイ<rt class="roma">hai</rt></ruby> <ruby>絶対<rt class="furi">ぜったい</rt><rt class="roma">zettai</rt></ruby><ruby>そう<rt class="roma">sou</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:51.24]<ruby>手芸<rt class="furi">しゅげい</rt><rt class="roma">shugei</rt></ruby><ruby>ハイ<rt class="roma">hai</rt></ruby> <ruby>すげ<rt class="roma">suge</rt></ruby><ruby>ぇ<rt class="roma">e</rt></ruby><ruby>ハイ<rt class="roma">hai</rt></ruby>
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[02:54.13]<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby> <ruby>手芸<rt class="furi">しゅげい</rt><rt class="roma">shugei</rt></ruby><ruby>ハイ<rt class="roma">hai</rt></ruby> <ruby>絶対<rt class="furi">ぜったい</rt><rt class="roma">zettai</rt></ruby><ruby>そう<rt class="roma">sou</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby><ruby>な<rt class="roma">na</rt></ruby>
+</div>
+</div>
+
+</div>
+
+## Sources
+
+- [KAF Official Website](https://kaf.kamitsubaki.jp/discography/20230705/348/)
+- [Apple Music](https://music.apple.com/jp/album/%E3%81%97%E3%82%85%E3%81%92%E3%83%BC%E3%83%8F%E3%82%A4/1694251441?i=1694251446&uo=4)

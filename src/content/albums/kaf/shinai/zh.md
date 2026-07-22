@@ -28,77 +28,77 @@ tracks:
     number: "1"
     title: "愛を探しに (Instrumental)"
     duration: "01:01"
-    songId: "kaf/instrumentals/track-6764277443"
+    songId: "kaf/instrumentals/愛を探しに(Instrumental)-in-pursuit-of-love"
   -
     number: "2"
     title: "エコーノイズ"
     duration: "03:15"
-    songId: "kaf/originals/track-6764277444"
+    songId: "kaf/originals/エコーノイズ-echo-noise"
   -
     number: "3"
     title: "明滅"
     duration: "03:27"
-    songId: "kaf/originals/track-6764277445"
+    songId: "kaf/originals/明滅-strobe"
   -
     number: "4"
     title: "乳白の宇宙"
     duration: "04:09"
-    songId: "kaf/originals/track-6764277986"
+    songId: "kaf/originals/乳白の宇宙-opalescent-universe"
   -
     number: "5"
     title: "愛想"
     duration: "03:44"
-    songId: "kaf/originals/track-6764277987"
+    songId: "kaf/originals/愛想-unsaid"
   -
     number: "6"
     title: "学園戦線"
     duration: "03:28"
-    songId: "kaf/originals/track-6764277988"
+    songId: "kaf/originals/学園戦線-school-wars"
   -
     number: "7"
     title: "そばにいていいよ"
     duration: "03:24"
-    songId: "kaf/originals/track-6764277989"
+    songId: "kaf/originals/そばにいていいよ-while-this-lasts"
   -
     number: "8"
     title: "君は水、私は魚"
     duration: "03:55"
-    songId: "kaf/originals/track-6764277990"
+    songId: "kaf/originals/君は水-私は魚-water-and-fish"
   -
     number: "9"
     title: "私の在処"
     duration: "05:14"
-    songId: "kaf/originals/track-6764277991"
+    songId: "kaf/originals/私の在処-where-i-am"
   -
     number: "10"
     title: "コネクト"
     duration: "03:53"
-    songId: "kaf/originals/track-6764277992"
+    songId: "kaf/originals/コネクト-connect"
   -
     number: "11"
     title: "周波数0の合言葉"
     duration: "04:33"
-    songId: "kaf/originals/track-1872604651"
+    songId: "kaf/originals/周波数0の合言葉-voiceless-password"
   -
     number: "12"
     title: "エラーソング"
     duration: "03:13"
-    songId: "kaf/originals/track-1882181555"
+    songId: "kaf/originals/エラーソング-error-song"
   -
     number: "13"
     title: "ありふれてたい"
     duration: "02:51"
-    songId: "kaf/originals/track-1842997817"
+    songId: "kaf/originals/ありふれてたい-just-the-way-we-are"
   -
     number: "14"
     title: "オーギュメント"
     duration: "05:11"
-    songId: "kaf/originals/track-6764277996"
+    songId: "kaf/originals/オーギュメント-augment"
   -
     number: "15"
     title: "私の名前は (Instrumental)"
     duration: "01:12"
-    songId: "kaf/instrumentals/track-6764277997"
+    songId: "kaf/instrumentals/私の名前は(Instrumental)-call-myself"
 ---
 
 ## 作品简介
@@ -118,5 +118,5 @@ tracks:
 
 - [花譜官方网站](https://kaf.kamitsubaki.jp/discography/20260527/1214/)
 - [《深愛》特设页](https://kaf.kamitsubaki.jp/transcendent-love/)
-- [Apple Music 日本区](https://music.apple.com/jp/album/%E6%B7%B1%E6%84%9B/1895713619?uo=4)
+- [Apple Music](https://music.apple.com/jp/album/%E6%B7%B1%E6%84%9B/1895713619?uo=4)
 - [VGMdb 花譜作品目录](https://vgmdb.net/artist/34690)

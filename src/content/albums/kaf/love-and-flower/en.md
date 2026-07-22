@@ -26,25 +26,25 @@ tracks:
     title: "ラブしい"
     artist: "花譜 & Kizuna AI"
     duration: "03:46"
-    songId: "kaf/suites/track-1688154722"
+    songId: "kaf/suites/ラブしい-loveshii"
   -
     number: "2"
     title: "かりそめ"
     artist: "花譜 & Kizuna AI"
     duration: "03:34"
-    songId: "kaf/suites/track-1688154723"
+    songId: "kaf/suites/かりそめ-transient"
   -
     number: "3"
     title: "ラブしい(Instrumental)"
     artist: "花譜 & Kizuna AI"
     duration: "03:46"
-    songId: "kaf/instrumentals/track-1688154724"
+    songId: "kaf/instrumentals/ラブしい(Instrumental)-loveshii-instrumental"
   -
     number: "4"
     title: "かりそめ(Instrumental)"
     artist: "花譜 & Kizuna AI"
     duration: "03:34"
-    songId: "kaf/instrumentals/track-1688154725"
+    songId: "kaf/instrumentals/かりそめ(Instrumental)-transient-instrumental"
 ---
 
 ## Overview
@@ -63,5 +63,5 @@ This release contains 4 tracks. The table above preserves disc and track order, 
 ## Sources
 
 - [KAF Official Website](https://kaf.kamitsubaki.jp/discography/20200923/117/)
-- [Apple Music Japan](https://music.apple.com/jp/album/%E6%84%9B%E3%81%A8%E8%8A%B1-ep/1688154712?uo=4)
+- [Apple Music](https://music.apple.com/jp/album/%E6%84%9B%E3%81%A8%E8%8A%B1-ep/1688154712?uo=4)
 - [KAF discography on VGMdb](https://vgmdb.net/artist/34690)

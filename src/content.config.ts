@@ -1,6 +1,7 @@
 import { glob } from 'astro/loaders';
 import { defineCollection } from 'astro:content';
 import { z } from 'astro/zod';
+import { metadataOnlyGlob } from './lib/metadataOnlyGlob.mjs';
 
 const locale = z.enum(['zh', 'ja', 'en']);
 const contentStatus = z.enum(['stub', 'published']).default('published');
@@ -236,7 +237,7 @@ const site = defineCollection({
 });
 
 const artists = defineCollection({
-  loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/artists' }),
+  loader: metadataOnlyGlob({ pattern: '**/{zh,ja,en}.md', base: './src/content/artists', retainBody: false }),
   schema: z.object({
     locale,
     translationKey: z.string(),
@@ -281,7 +282,7 @@ const artists = defineCollection({
 });
 
 const projects = defineCollection({
-  loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/projects' }),
+  loader: metadataOnlyGlob({ pattern: '**/{zh,ja,en}.md', base: './src/content/projects', retainBody: false }),
   schema: z.object({
     locale,
     translationKey: z.string(),
@@ -295,7 +296,7 @@ const projects = defineCollection({
 });
 
 const logs = defineCollection({
-  loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/logs' }),
+  loader: metadataOnlyGlob({ pattern: '**/{zh,ja,en}.md', base: './src/content/logs', retainBody: false }),
   schema: z.object({
     locale,
     translationKey: z.string(),
@@ -326,23 +327,42 @@ const workBaseSchema = z.object({
     seo,
 });
 
+const artistSlug = z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, 'Expected a lowercase URL slug');
+
+const songSchema = workBaseSchema.extend({
+  artistId: artistSlug,
+  artistIds: z.array(artistSlug).min(1).optional(),
+  composer: z.string().optional(),
+  lyricist: z.string().optional(),
+  album: z.string().optional(),
+  duration: durationString.optional(),
+}).superRefine((song, context) => {
+  if (!song.artistIds) return;
+
+  if (!song.artistIds.includes(song.artistId)) {
+    context.addIssue({
+      code: 'custom',
+      message: 'artistIds must include the canonical artistId',
+      path: ['artistIds'],
+    });
+  }
+
+  if (new Set(song.artistIds).size !== song.artistIds.length) {
+    context.addIssue({
+      code: 'custom',
+      message: 'artistIds must not contain duplicates',
+      path: ['artistIds'],
+    });
+  }
+});
+
 const songs = defineCollection({
-  loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/songs' }),
-  schema: workBaseSchema.extend({
-    artistId: z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, 'Expected a lowercase URL slug'),
-    artistIds: z
-      .array(z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, 'Expected a lowercase URL slug'))
-      .min(1)
-      .optional(),
-    composer: z.string().optional(),
-    lyricist: z.string().optional(),
-    album: z.string().optional(),
-    duration: durationString.optional(),
-  }),
+  loader: metadataOnlyGlob({ pattern: '**/{zh,ja,en}.md', base: './src/content/songs', retainBody: false }),
+  schema: songSchema,
 });
 
 const albums = defineCollection({
-  loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/albums' }),
+  loader: metadataOnlyGlob({ pattern: '**/{zh,ja,en}.md', base: './src/content/albums', retainBody: false }),
   schema: workBaseSchema.extend({
     romanizedTitle: z.string().optional(),
     type: z.string().optional(),
@@ -375,7 +395,7 @@ const albums = defineCollection({
 });
 
 const announcements = defineCollection({
-  loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/announcements' }),
+  loader: metadataOnlyGlob({ pattern: '**/{zh,ja,en}.md', base: './src/content/announcements', retainBody: false }),
   schema: z.object({
     locale,
     translationKey: z.string(),
@@ -390,9 +410,10 @@ const announcements = defineCollection({
 });
 
 const syntaxGuide = defineCollection({
-  loader: glob({
+  loader: metadataOnlyGlob({
     pattern: ['zh.md', 'ja.md', 'en.md'],
     base: new URL('./content/contribute/syntax-guide/', import.meta.url),
+    retainBody: false,
   }),
   schema: z.object({
     locale,
@@ -405,7 +426,11 @@ const syntaxGuide = defineCollection({
 });
 
 const editGuide = defineCollection({
-  loader: glob({ pattern: '{zh,ja,en}.md', base: './src/content/contribute/edit-guide' }),
+  loader: metadataOnlyGlob({
+    pattern: '{zh,ja,en}.md',
+    base: './src/content/contribute/edit-guide',
+    retainBody: false,
+  }),
   schema: z.object({
     locale,
     translationKey: z.literal('edit-guide'),

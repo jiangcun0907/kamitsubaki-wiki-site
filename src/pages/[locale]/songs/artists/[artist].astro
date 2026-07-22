@@ -76,7 +76,7 @@ const pageStyle = `--catalog-accent:${accentColor};--catalog-surface:${group.the
           ) : (
             <span class="absolute inset-0 grid place-items-center font-serif text-8xl text-white/10">{artistName.slice(0, 1)}</span>
           )}
-          <div class="absolute inset-0 bg-gradient-to-t from-[#090a0f] via-transparent to-transparent sm:bg-gradient-to-r sm:from-transparent sm:to-[#090a0f]"></div>
+          <div class="absolute inset-0 bg-gradient-to-t from-[var(--theme-panel-solid)] via-transparent to-transparent sm:bg-gradient-to-r sm:from-transparent sm:to-[var(--theme-panel-solid)]"></div>
         </div>
 
         <div class="catalog-hero__body flex flex-col justify-center p-6 sm:p-9 lg:p-12">
@@ -129,7 +129,7 @@ const pageStyle = `--catalog-accent:${accentColor};--catalog-surface:${group.the
               {category.entries.map((song, songIndex) => {
                 const songPath = song.id.split('/').slice(0, -1).join('/');
                 return (
-                  <a href={`/${localeCode}/songs/${songPath}`} class="song-row group relative flex min-h-28 items-center gap-4 bg-[#090a0f] p-4 transition-colors hover:bg-white/[0.045] sm:p-5">
+                  <a href={`/${localeCode}/songs/${songPath}`} class="song-row group relative flex min-h-28 items-center gap-4 bg-[var(--theme-panel-solid)] p-4 transition-colors hover:bg-white/[0.045] sm:p-5">
                     <span class="absolute left-0 top-0 h-full w-px bg-[var(--catalog-accent)] opacity-0 transition-opacity group-hover:opacity-80"></span>
                     {song.data.image ?? group.cover ? (
                       <img src={song.data.image ?? group.cover} alt="" class="h-20 w-20 shrink-0 object-cover opacity-75 transition-opacity group-hover:opacity-100" loading="lazy" />
@@ -159,18 +159,40 @@ const pageStyle = `--catalog-accent:${accentColor};--catalog-surface:${group.the
 <style>
   .catalog-hero {
     display: grid;
-    background: color-mix(in srgb, var(--catalog-surface) 68%, #090a0f);
+    background: color-mix(in srgb, var(--catalog-surface) 68%, var(--theme-panel-solid));
+  }
+
+  :global(html[data-theme='light']) .catalog-hero {
+    border-color: rgb(var(--theme-fg-rgb) / 0.12);
+  }
+
+  :global(html[data-theme='light']) .catalog-hero__body {
+    background-color: var(--theme-panel-solid);
+    background-image: linear-gradient(
+      135deg,
+      color-mix(in srgb, var(--catalog-surface) 5%, var(--theme-panel-solid)) 0%,
+      color-mix(in srgb, var(--catalog-accent) 13%, var(--theme-panel-solid)) 100%
+    );
+    box-shadow: inset 0 1px 0 rgb(var(--theme-fg-rgb) / 0.1);
+  }
+
+  :global(html[data-theme='light']) .catalog-hero__body > div {
+    border-color: rgb(var(--theme-fg-rgb) / 0.12);
   }
 
   .category-jump__link:focus-visible,
   .song-row:focus-visible {
-    outline: 1px solid color-mix(in srgb, var(--catalog-accent) 72%, white);
+    outline: 1px solid color-mix(in srgb, var(--catalog-accent) 72%, var(--theme-fg));
     outline-offset: 3px;
   }
 
   @media (min-width: 640px) {
     .catalog-hero {
       grid-template-columns: minmax(0, 0.92fr) minmax(0, 1.08fr);
+    }
+
+    :global(html[data-theme='light']) .catalog-hero__body {
+      box-shadow: inset 1px 0 0 rgb(var(--theme-fg-rgb) / 0.1);
     }
   }
 
