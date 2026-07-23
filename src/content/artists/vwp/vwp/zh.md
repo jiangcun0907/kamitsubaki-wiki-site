@@ -94,7 +94,7 @@ V.W.P 的歌曲体系分为三种类型：
 - **2021年**：V.W.P 正式结成，发布系谱曲系列。
 - **2023年3月**：举办 1st ONE-MAN LIVE「现象」。
 - **2024年1月**：于代代木第一体育馆举办 2nd ONE-MAN LIVE「现象Ⅱ」（神椿代代木决战二〇二四）。同年发行 1st Album《命运》。
-- **2024年1月13日**：发行 2nd Album《觉醒》。
+- **2024年3月27日**：发行 2nd Album《觉醒》。
 - **2024年11月**：作为 KAMITSUBAKI WARS 2024 的集大成，举办「神椿幕张战线：V.W.P 2nd ONE-MAN LIVE 现象II（再）-魔女扩成-」。
 - **2025年1月**：举办 SINKA LIVE SERIES EP.Ⅵ V.W.P 3rd ONE-MAN LIVE「现象III-神椿市探访中-」。
 - **2026年1月**：发行 3rd Album《反转》。
